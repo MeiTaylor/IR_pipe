@@ -1,0 +1,907 @@
+2024-07-03 16:02:18,100 - INFO - Prompts for Queries Generation
+2024-07-03 16:02:18,100 - INFO - 
+    {
+      "Claim": "A video showing a shark swimming on a flooded highway during Hurricane Ian in Florida is real.",
+      "Video_information": {"Video_headline": "Fact-Checking Viral Photos", "Video_transcript": "", "Video_description_on_platform": "This video analyzes and debunks the viral photo of a shark allegedly swimming on a flooded highway.", "Video_platform": "youtube", "Video_date": "2023_08_07", "Video_description_from_descriptor": "A critical examination of viral photos, including the infamous shark on a flooded highway."},
+      "QA_CONTEXTS": {},
+      "New_Question": {
+        "Question": "What is the original source of the shark swimming on a flooded highway?"
+      },
+      "Task": "In order to answer this question, please determine what information is required, and design queries to search for this information on Google.And the most important point is that the final generated questions do not exceed two. Please generate the most important questions that require online retrieval of relevant information",
+      "Queries": {
+        "Query 1": "",
+        "Query 2": ""
+      }
+    }
+    
+2024-07-03 16:02:22,101 - INFO - Query 1: What is the original source of the viral video showing a shark swimming on a flooded highway during Hurricane Ian in Florida?
+2024-07-03 16:02:23,437 - INFO - BS4 Successfully fetched content from https://www.usatoday.com/story/news/factcheck/2022/10/13/fact-check-fabricated-image-shark-highway-spreads-online-again/8196733001/
+2024-07-03 16:02:23,438 - INFO - Content preview: 
+2024-07-03 16:02:27,731 - INFO - selenium Successfully fetched content from https://www.usatoday.com/story/news/factcheck/2022/10/13/fact-check-fabricated-image-shark-highway-spreads-online-again/8196733001/
+2024-07-03 16:02:27,732 - INFO - Content preview: usatoday.com wants to ensure the best experience for all of our readers, so we built our site to tak
+2024-07-03 16:02:28,625 - INFO - BS4 Successfully fetched content from https://en.wikipedia.org/wiki/Hurricane_Shark
+2024-07-03 16:02:28,626 - INFO - Content preview: 
+Hurricane Shark and Street Shark are nicknames for several claimed instances of a live shark swimmi
+2024-07-03 16:02:29,192 - INFO - BS4 Successfully fetched content from https://www.usatoday.com/story/news/factcheck/2020/08/27/fact-check-photo-shark-flooded-highway-faked/5646793002/
+2024-07-03 16:02:29,193 - INFO - Content preview: 
+2024-07-03 16:02:33,416 - INFO - selenium Successfully fetched content from https://www.usatoday.com/story/news/factcheck/2020/08/27/fact-check-photo-shark-flooded-highway-faked/5646793002/
+2024-07-03 16:02:33,416 - INFO - Content preview: usatoday.com wants to ensure the best experience for all of our readers, so we built our site to tak
+2024-07-03 16:02:34,225 - INFO - BS4 Successfully fetched content from https://www.nytimes.com/2022/09/30/us/hurricane-shark-ian-hoax.html
+2024-07-03 16:02:34,226 - INFO - Content preview: Advertisement
+Supported by
+Shark memes have become synonymous with social media hoaxes. But an A.P. 
+2024-07-03 16:02:36,333 - INFO - BS4 Successfully fetched content from https://www.fox35orlando.com/news/video-shows-shark-in-flooded-florida-neighborhood-after-hurricane-ian-but-is-it-real
+2024-07-03 16:02:36,333 - INFO - Content preview: Share
+A video of what many suspected to be a small shark swimming in a flooded neighborhood of Fort 
+2024-07-03 16:02:36,711 - INFO - BS4 Successfully fetched content from https://www.businessinsider.com/shark-filmed-flooded-backyard-fort-myers-florida-after-hurricane-ian-2022-9
+2024-07-03 16:02:36,711 - INFO - Content preview: 
+2024-07-03 16:02:54,233 - INFO - selenium Successfully fetched content from https://www.businessinsider.com/shark-filmed-flooded-backyard-fort-myers-florida-after-hurricane-ian-2022-9
+2024-07-03 16:02:54,233 - INFO - Content preview: A viral video captured a wayward sea creature flopping around in a backyard in Fort Myers after Hurr
+2024-07-03 16:02:55,274 - INFO - BS4 Successfully fetched content from https://www.snopes.com/fact-check/video-shark-fort-myers-street/
+2024-07-03 16:02:55,274 - INFO - Content preview: 
+2024-07-03 16:03:03,056 - INFO - selenium Successfully fetched content from https://www.snopes.com/fact-check/video-shark-fort-myers-street/
+2024-07-03 16:03:03,056 - INFO - Content preview: About this rating
+The video is authentic and was shot by Fort Myers resident Dominic Cameratta as Hu
+2024-07-03 16:03:05,014 - INFO - BS4 Successfully fetched content from https://mashable.com/article/hurricane-ian-viral-videos-internet-response
+2024-07-03 16:03:05,014 - INFO - Content preview: 
+2024-07-03 16:03:14,554 - INFO - selenium Successfully fetched content from https://mashable.com/article/hurricane-ian-viral-videos-internet-response
+2024-07-03 16:03:14,554 - INFO - Content preview: I was online, like I always seem to be, when Hurricane Ian made landfall in Florida earlier this wee
+2024-07-03 16:03:15,377 - INFO - BS4 Successfully fetched content from https://nypost.com/2022/09/30/florida-street-shark-caught-in-viral-video-during-hurricane-ian/
+2024-07-03 16:03:15,377 - INFO - Content preview: 
+2024-07-03 16:03:36,633 - INFO - selenium Successfully fetched content from https://nypost.com/2022/09/30/florida-street-shark-caught-in-viral-video-during-hurricane-ian/
+2024-07-03 16:03:36,633 - INFO - Content preview: 
+
+We’re gonna need a bigger deck.
+A Florida resident’s backyard turned into a scene from “Jaws” in t
+2024-07-03 16:03:37,811 - INFO - BS4 Successfully fetched content from https://misbar.com/en/factcheck/2023/08/23/this-photo-of-a-shark-swimming-in-a-flooded-highway-is-edited
+2024-07-03 16:03:37,811 - INFO - Content preview: 
+2024-07-03 16:03:49,066 - INFO - selenium Successfully fetched content from https://misbar.com/en/factcheck/2023/08/23/this-photo-of-a-shark-swimming-in-a-flooded-highway-is-edited
+2024-07-03 16:03:49,066 - INFO - Content preview: In light of the recent flooding caused by Hurricane Hilary, an image allegedly displaying a shark sw
+2024-07-03 16:03:49,918 - INFO - display_links
+2024-07-03 16:03:49,919 - INFO - ['www.usatoday.com', 'en.wikipedia.org', 'www.usatoday.com', 'www.nytimes.com', 'www.fox35orlando.com', 'www.businessinsider.com', 'www.snopes.com', 'mashable.com', 'nypost.com', 'misbar.com']
+2024-07-03 16:03:49,919 - INFO - rate and explain the reasons for all websites
+2024-07-03 16:03:49,919 - INFO - 
+{
+"Claim": "A video showing a shark swimming on a flooded highway during Hurricane Ian in Florida is real.",
+"Video_information": {'Video_headline': 'Fact-Checking Viral Photos', 'Video_transcript': '', 'Video_description_on_platform': 'This video analyzes and debunks the viral photo of a shark allegedly swimming on a flooded highway.', 'Video_platform': 'youtube', 'Video_date': '2023_08_07', 'Video_description_from_descriptor': 'A critical examination of viral photos, including the infamous shark on a flooded highway.'},
+"QA_CONTEXTS": {},
+"Relate_Website": ['www.usatoday.com', 'en.wikipedia.org', 'www.usatoday.com', 'www.nytimes.com', 'www.fox35orlando.com', 'www.businessinsider.com', 'www.snopes.com', 'mashable.com', 'nypost.com', 'misbar.com'],
+"Task": "Based on the provided Claim, Video_information, and QA_CONTEXTS, evaluate the listed websites to determine which ones have high credibility in terms of truthfulness and accuracy, and can aid in detecting fake news. Please provide a quality score (website_quality) out of 10 for each website and explain the reasoning for the score. The evaluation criteria include the website's overall reliability, historical accuracy, and capability to detect and expose fake news.
+
+Please combine the evaluations for these aspects to give an overall quality score (website_quality) for each website, and provide detailed explanations for each score."
+}
+In your response, when referring to related websites, be sure to provide the original name of the specific and detailed website in Relate_Website, and do not modify this name.
+It is required to rate and explain the reasons for all websites. Each website should be rated an overall quality score (website_quality) out of 10, with detailed explanations for each score.
+
+2024-07-03 16:04:03,298 - INFO - 1. www.usatoday.com 
+- Website Quality Score: 8/10
+   Explanation: USA Today is a well-established and reputable news source known for its high editorial standards and fact-checking processes. They have a history of providing accurate and reliable information. Their coverage is generally balanced and they have a good track record of correcting any inaccuracies promptly. USA Today is also active in debunking fake news stories, making it a valuable resource for verifying information.
+
+2. en.wikipedia.org
+- Website Quality Score: 7/10
+   Explanation: While Wikipedia can be a useful starting point for information, its open-editing model means that articles can be subject to vandalism or inaccuracies. However, Wikipedia has a rigorous editing and community oversight process that helps maintain accuracy to a large extent. It is crucial to verify information obtained from Wikipedia with other reliable sources. Therefore, while Wikipedia can aid in fact-checking, it is important to proceed with caution and cross-check facts with reputable sources.
+
+3. www.nytimes.com
+- Website Quality Score: 9/10
+   Explanation: The New York Times is renowned for its high standards of journalism and credibility in reporting. They have a long-standing reputation for accuracy, thorough fact-checking, and upholding journalistic integrity. The New York Times has a history of investigative reporting and exposing fake news, making it a trusted source for accurate information.
+
+4. www.fox35orlando.com
+- Website Quality Score: 6/10
+   Explanation: Fox 35 Orlando is a local news outlet that may vary in credibility depending on the specific reporters and content. While they may provide valuable local news coverage, their national news coverage has faced criticism for bias and lack of fact-checking rigor. It is important to cross-verify information from Fox 35 Orlando with other reputable sources to ensure accuracy.
+
+5. www.businessinsider.com
+- Website Quality Score: 8/10
+   Explanation: Business Insider is generally considered a reliable source of news and information, particularly in business and technology domains. They have a track record of accurate reporting and thorough fact-checking processes. While primarily focused on business-related topics, their general news coverage also maintains a good level of credibility and accuracy.
+
+6. www.snopes.com
+- Website Quality Score: 9/10
+   Explanation: Snopes is widely recognized as a reputable fact-checking website with a strong dedication to debunking myths, rumors, and fake news. They have a transparent methodology, detailed research process, and a history of accurately verifying or debunking viral claims. Snopes' commitment to truthfulness and debunking misinformation makes it a highly credible source for fact-checking.
+
+7. mashable.com
+- Website Quality Score: 7/10
+   Explanation: Mashable is a popular digital media website known for its coverage of technology, entertainment, and social media trends. While Mashable produces engaging content, it is not primarily focused on hard news reporting. As such, its credibility in terms of detecting and exposing fake news may vary. While useful for general news and trends, it is advisable to cross-verify critical information from Mashable with more traditional news sources.
+
+8. nypost.com
+- Website Quality Score: 6/10
+   Explanation: The New York Post is a tabloid-style newspaper known for its sensationalist headlines and occasionally biased reporting. While it may provide some valuable news coverage, it is important to approach their articles with caution. The New York Post's credibility in terms of fact-checking and exposing fake news may be limited, and therefore information from this source should be verified with more reliable sources.
+
+9. misbar.com
+- Website Quality Score: 3/10
+   Explanation: Misbar.com appears to be a less-known website and lacks a reputation for credible journalism. The site may not have robust fact-checking processes or editorial standards, which can raise concerns about the accuracy of the information presented. Due to the lack of established credibility and transparency, information from misbar.com should be treated with skepticism and verified through reputable sources before accepting it as true.
+2024-07-03 16:04:19,568 - INFO - rating and evaluation
+2024-07-03 16:04:19,569 - INFO - {'www.usatoday.com': {'website_quality Score': 8, 'justification': 'USA Today is a well-established and reputable news source known for its high editorial standards and fact-checking processes. They have a history of providing accurate and reliable information. Their coverage is generally balanced and they have a good track record of correcting any inaccuracies promptly. USA Today is also active in debunking fake news stories, making it a valuable resource for verifying information.'}, 'en.wikipedia.org': {'website_quality Score': 7, 'justification': 'While Wikipedia can be a useful starting point for information, its open-editing model means that articles can be subject to vandalism or inaccuracies. However, Wikipedia has a rigorous editing and community oversight process that helps maintain accuracy to a large extent. It is crucial to verify information obtained from Wikipedia with other reliable sources. Therefore, while Wikipedia can aid in fact-checking, it is important to proceed with caution and cross-check facts with reputable sources.'}, 'www.nytimes.com': {'website_quality Score': 9, 'justification': 'The New York Times is renowned for its high standards of journalism and credibility in reporting. They have a long-standing reputation for accuracy, thorough fact-checking, and upholding journalistic integrity. The New York Times has a history of investigative reporting and exposing fake news, making it a trusted source for accurate information.'}, 'www.fox35orlando.com': {'website_quality Score': 6, 'justification': 'Fox 35 Orlando is a local news outlet that may vary in credibility depending on the specific reporters and content. While they may provide valuable local news coverage, their national news coverage has faced criticism for bias and lack of fact-checking rigor. It is important to cross-verify information from Fox 35 Orlando with other reputable sources to ensure accuracy.'}, 'www.businessinsider.com': {'website_quality Score': 8, 'justification': 'Business Insider is generally considered a reliable source of news and information, particularly in business and technology domains. They have a track record of accurate reporting and thorough fact-checking processes. While primarily focused on business-related topics, their general news coverage also maintains a good level of credibility and accuracy.'}, 'www.snopes.com': {'website_quality Score': 9, 'justification': "Snopes is widely recognized as a reputable fact-checking website with a strong dedication to debunking myths, rumors, and fake news. They have a transparent methodology, detailed research process, and a history of accurately verifying or debunking viral claims. Snopes' commitment to truthfulness and debunking misinformation makes it a highly credible source for fact-checking."}, 'mashable.com': {'website_quality Score': 7, 'justification': 'Mashable is a popular digital media website known for its coverage of technology, entertainment, and social media trends. While Mashable produces engaging content, it is not primarily focused on hard news reporting. As such, its credibility in terms of detecting and exposing fake news may vary. While useful for general news and trends, it is advisable to cross-verify critical information from Mashable with more traditional news sources.'}, 'nypost.com': {'website_quality Score': 6, 'justification': "The New York Post is a tabloid-style newspaper known for its sensationalist headlines and occasionally biased reporting. While it may provide some valuable news coverage, it is important to approach their articles with caution. The New York Post's credibility in terms of fact-checking and exposing fake news may be limited, and therefore information from this source should be verified with more reliable sources."}, 'misbar.com': {'website_quality Score': 3, 'justification': 'Misbar.com appears to be a less-known website and lacks a reputation for credible journalism. The site may not have robust fact-checking processes or editorial standards, which can raise concerns about the accuracy of the information presented. Due to the lack of established credibility and transparency, information from misbar.com should be treated with skepticism and verified through reputable sources before accepting it as true.'}}
+2024-07-03 16:04:19,569 - INFO - Display Link: www.usatoday.com, Best Match: www.usatoday.com, Ratio: 1.0
+2024-07-03 16:04:19,570 - INFO - Display Link: en.wikipedia.org, Best Match: en.wikipedia.org, Ratio: 1.0
+2024-07-03 16:04:19,570 - INFO - Display Link: www.usatoday.com, Best Match: www.usatoday.com, Ratio: 1.0
+2024-07-03 16:04:19,571 - INFO - Display Link: www.nytimes.com, Best Match: www.nytimes.com, Ratio: 1.0
+2024-07-03 16:04:19,571 - INFO - Display Link: www.fox35orlando.com, Best Match: www.fox35orlando.com, Ratio: 1.0
+2024-07-03 16:04:19,572 - INFO - Display Link: www.businessinsider.com, Best Match: www.businessinsider.com, Ratio: 1.0
+2024-07-03 16:04:19,572 - INFO - Display Link: www.snopes.com, Best Match: www.snopes.com, Ratio: 1.0
+2024-07-03 16:04:19,573 - INFO - Display Link: mashable.com, Best Match: mashable.com, Ratio: 1.0
+2024-07-03 16:04:19,573 - INFO - Display Link: nypost.com, Best Match: nypost.com, Ratio: 1.0
+2024-07-03 16:04:19,573 - INFO - Display Link: misbar.com, Best Match: misbar.com, Ratio: 1.0
+2024-07-03 16:04:19,577 - INFO - --------------------------------------------------
+2024-07-03 16:04:19,577 - INFO - Selecting the 10 quality evidence for further selection:
+2024-07-03 16:04:19,577 - INFO - --------------------------------------------------
+2024-07-03 16:04:19,577 - INFO - [
+    {
+        "evidence0": {
+            "title": "Fact check: Fabricated image of shark on highway spreads online ...",
+            "link": "https://www.usatoday.com/story/news/factcheck/2022/10/13/fact-check-fabricated-image-shark-highway-spreads-online-again/8196733001/",
+            "displayLink": "www.usatoday.com",
+            "snippet": "Oct 13, 2022 ... ... Video shows flooded Houston school in 2019, not aftermath of Hurricane Ian in Florida ... show a shark swimming on a flooded Florida highway.",
+            "htmlSnippet": "Oct 13, 2022 <b>...</b> ... <b>Video shows flooded</b> Houston school in 2019, not aftermath of <b>Hurricane Ian</b> in <b>Florida</b> ... <b>show</b> a <b>shark swimming</b> on a <b>flooded Florida highway</b>.",
+            "website_quality_evaluation": {
+                "website_quality Score": 8,
+                "justification": "USA Today is a well-established and reputable news source known for its high editorial standards and fact-checking processes. They have a history of providing accurate and reliable information. Their coverage is generally balanced and they have a good track record of correcting any inaccuracies promptly. USA Today is also active in debunking fake news stories, making it a valuable resource for verifying information."
+            }
+        }
+    },
+    {
+        "evidence1": {
+            "title": "Hurricane Shark - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Hurricane_Shark",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "... of a shark swimming on a flooded freeway—were debunked as fabrications. However, during Hurricane Ian in 2022, the Associated Press verified a video taken ...",
+            "htmlSnippet": "... <b>of a shark swimming</b> on a <b>flooded freeway</b>—were debunked as fabrications. However, <b>during Hurricane Ian</b> in 2022, the Associated Press verified a <b>video</b> taken&nbsp;...",
+            "website_quality_evaluation": {
+                "website_quality Score": 7,
+                "justification": "While Wikipedia can be a useful starting point for information, its open-editing model means that articles can be subject to vandalism or inaccuracies. However, Wikipedia has a rigorous editing and community oversight process that helps maintain accuracy to a large extent. It is crucial to verify information obtained from Wikipedia with other reliable sources. Therefore, while Wikipedia can aid in fact-checking, it is important to proceed with caution and cross-check facts with reputable sources."
+            }
+        }
+    },
+    {
+        "evidence2": {
+            "title": "Fact check: Photo of shark on a flooded highway is faked",
+            "link": "https://www.usatoday.com/story/news/factcheck/2020/08/27/fact-check-photo-shark-flooded-highway-faked/5646793002/",
+            "displayLink": "www.usatoday.com",
+            "snippet": "Aug 27, 2020 ... As Hurricane Laura roars through parts of Texas and Louisiana, an old image of a shark swimming down a freeway has once again gone viral.",
+            "htmlSnippet": "Aug 27, 2020 <b>...</b> As <b>Hurricane</b> Laura roars <b>through</b> parts of Texas and Louisiana, an <b>old</b> image <b>of a shark swimming</b> down a <b>freeway</b> has once again gone <b>viral</b>.",
+            "website_quality_evaluation": {
+                "website_quality Score": 8,
+                "justification": "USA Today is a well-established and reputable news source known for its high editorial standards and fact-checking processes. They have a history of providing accurate and reliable information. Their coverage is generally balanced and they have a good track record of correcting any inaccuracies promptly. USA Today is also active in debunking fake news stories, making it a valuable resource for verifying information."
+            }
+        }
+    },
+    {
+        "evidence3": {
+            "title": "For Once, the Hurricane Shark Was Real - The New York Times",
+            "link": "https://www.nytimes.com/2022/09/30/us/hurricane-shark-ian-hoax.html",
+            "displayLink": "www.nytimes.com",
+            "snippet": "Sep 30, 2022 ... ... video swimming on a street in Fort Myers, Fla., this week ... There it was, the same shark swimming down the highway in Hurricane Irene in 2011 ...",
+            "htmlSnippet": "Sep 30, 2022 <b>...</b> ... <b>video swimming</b> on a street in Fort Myers, <b>Fla</b>., this week ... There it was, the same <b>shark swimming</b> down the <b>highway</b> in <b>Hurricane</b> Irene in 2011&nbsp;...",
+            "website_quality_evaluation": {
+                "website_quality Score": 9,
+                "justification": "The New York Times is renowned for its high standards of journalism and credibility in reporting. They have a long-standing reputation for accuracy, thorough fact-checking, and upholding journalistic integrity. The New York Times has a history of investigative reporting and exposing fake news, making it a trusted source for accurate information."
+            }
+        }
+    },
+    {
+        "evidence4": {
+            "title": "Video shows 'shark' swimming in flooded Florida neighborhood after ...",
+            "link": "https://www.fox35orlando.com/news/video-shows-shark-in-flooded-florida-neighborhood-after-hurricane-ian-but-is-it-real",
+            "displayLink": "www.fox35orlando.com",
+            "snippet": "Sep 30, 2022 ... A video of what many suspected to be a small shark swimming in a flooded neighborhood of Fort Myers went viral on Wednesday as Hurricane Ian ...",
+            "htmlSnippet": "Sep 30, 2022 <b>...</b> A <b>video</b> of what many suspected to be a small <b>shark swimming</b> in a <b>flooded</b> neighborhood of Fort Myers went <b>viral</b> on Wednesday as <b>Hurricane Ian</b>&nbsp;...",
+            "website_quality_evaluation": {
+                "website_quality Score": 6,
+                "justification": "Fox 35 Orlando is a local news outlet that may vary in credibility depending on the specific reporters and content. While they may provide valuable local news coverage, their national news coverage has faced criticism for bias and lack of fact-checking rigor. It is important to cross-verify information from Fox 35 Orlando with other reputable sources to ensure accuracy."
+            }
+        }
+    },
+    {
+        "evidence5": {
+            "title": "'Shark' Filmed in Flooded Backyard in Florida After Hurricane Ian ...",
+            "link": "https://www.businessinsider.com/shark-filmed-flooded-backyard-fort-myers-florida-after-hurricane-ian-2022-9",
+            "displayLink": "www.businessinsider.com",
+            "snippet": "Sep 30, 2022 ... A viral video showed what appeared to be a shark stranded in a flooded Florida backyard during Hurricane Ian. Years of \"hurricane shark\" ...",
+            "htmlSnippet": "Sep 30, 2022 <b>...</b> A <b>viral video</b> showed what appeared to be a <b>shark</b> stranded in a <b>flooded Florida</b> backyard <b>during Hurricane Ian</b>. Years of &quot;<b>hurricane shark</b>&quot;&nbsp;...",
+            "website_quality_evaluation": {
+                "website_quality Score": 8,
+                "justification": "Business Insider is generally considered a reliable source of news and information, particularly in business and technology domains. They have a track record of accurate reporting and thorough fact-checking processes. While primarily focused on business-related topics, their general news coverage also maintains a good level of credibility and accuracy."
+            }
+        }
+    },
+    {
+        "evidence6": {
+            "title": "Hurricane Ian: Is Video of Shark Swimming in Flooded Fort Myers ...",
+            "link": "https://www.snopes.com/fact-check/video-shark-fort-myers-street/",
+            "displayLink": "www.snopes.com",
+            "snippet": "Sep 29, 2022 ... Claim: A viral video authentically shows a shark swimming in a flooded street of Fort Myers, Florida, during Hurricane Ian in September 2022.",
+            "htmlSnippet": "Sep 29, 2022 <b>...</b> Claim: A <b>viral video</b> authentically <b>shows</b> a <b>shark swimming</b> in a <b>flooded</b> street of Fort Myers, <b>Florida</b>, <b>during Hurricane Ian</b> in September 2022.",
+            "website_quality_evaluation": {
+                "website_quality Score": 9,
+                "justification": "Snopes is widely recognized as a reputable fact-checking website with a strong dedication to debunking myths, rumors, and fake news. They have a transparent methodology, detailed research process, and a history of accurately verifying or debunking viral claims. Snopes' commitment to truthfulness and debunking misinformation makes it a highly credible source for fact-checking."
+            }
+        }
+    },
+    {
+        "evidence7": {
+            "title": "Hurricane Ian and the strange influx of viral content that comes with ...",
+            "link": "https://mashable.com/article/hurricane-ian-viral-videos-internet-response",
+            "displayLink": "mashable.com",
+            "snippet": "Sep 30, 2022 ... ... first viral video I saw was...of a shark. It's ... of a shark swimming through a disaster zone that famously resurfaces during big storms.",
+            "htmlSnippet": "Sep 30, 2022 <b>...</b> ... <b>first viral video</b> I saw was...<b>of a shark</b>. It&#39;s ... <b>of a shark swimming through</b> a <b>disaster</b> zone that famously resurfaces <b>during</b> big <b>storms</b>.",
+            "website_quality_evaluation": {
+                "website_quality Score": 7,
+                "justification": "Mashable is a popular digital media website known for its coverage of technology, entertainment, and social media trends. While Mashable produces engaging content, it is not primarily focused on hard news reporting. As such, its credibility in terms of detecting and exposing fake news may vary. While useful for general news and trends, it is advisable to cross-verify critical information from Mashable with more traditional news sources."
+            }
+        }
+    },
+    {
+        "evidence8": {
+            "title": "Florida 'street shark' caught in viral video during Hurricane Ian",
+            "link": "https://nypost.com/2022/09/30/florida-street-shark-caught-in-viral-video-during-hurricane-ian/",
+            "displayLink": "nypost.com",
+            "snippet": "Sep 30, 2022 ... A fishy video of a purported shark swimming in a Florida neighborhood during Hurricane Ian has been confirmed to be real – though it remains ...",
+            "htmlSnippet": "Sep 30, 2022 <b>...</b> A fishy <b>video of a</b> purported <b>shark swimming</b> in a <b>Florida</b> neighborhood <b>during Hurricane Ian</b> has been confirmed to be <b>real</b> – though it remains&nbsp;...",
+            "website_quality_evaluation": {
+                "website_quality Score": 6,
+                "justification": "The New York Post is a tabloid-style newspaper known for its sensationalist headlines and occasionally biased reporting. While it may provide some valuable news coverage, it is important to approach their articles with caution. The New York Post's credibility in terms of fact-checking and exposing fake news may be limited, and therefore information from this source should be verified with more reliable sources."
+            }
+        }
+    },
+    {
+        "evidence9": {
+            "title": "This Photo of a Shark Swimming in a Flooded Highway Is Edited ...",
+            "link": "https://misbar.com/en/factcheck/2023/08/23/this-photo-of-a-shark-swimming-in-a-flooded-highway-is-edited",
+            "displayLink": "misbar.com",
+            "snippet": "Aug 23, 2023 ... ... Florida's urban areas during Hurricane Ian.❌ Fact: The claim is misleading. Misbar found that the images are old and unrelated to Hurricane ...",
+            "htmlSnippet": "Aug 23, 2023 <b>...</b> ... <b>Florida&#39;s</b> urban areas <b>during Hurricane Ian</b>.❌ Fact: The claim is misleading. Misbar found that the images are <b>old</b> and unrelated to <b>Hurricane</b>&nbsp;...",
+            "website_quality_evaluation": {
+                "website_quality Score": 3,
+                "justification": "Misbar.com appears to be a less-known website and lacks a reputation for credible journalism. The site may not have robust fact-checking processes or editorial standards, which can raise concerns about the accuracy of the information presented. Due to the lack of established credibility and transparency, information from misbar.com should be treated with skepticism and verified through reputable sources before accepting it as true."
+            }
+        }
+    }
+]
+2024-07-03 16:04:34,726 - INFO - --------------------------------------------------
+2024-07-03 16:04:34,726 - INFO - prompt_for_evidence_selection
+2024-07-03 16:04:34,726 - INFO - 
+{
+  "Claim": "A video showing a shark swimming on a flooded highway during Hurricane Ian in Florida is real.",
+  "Video_information": {"Video_headline": "Fact-Checking Viral Photos", "Video_transcript": "", "Video_description_on_platform": "This video analyzes and debunks the viral photo of a shark allegedly swimming on a flooded highway.", "Video_platform": "youtube", "Video_date": "2023_08_07", "Video_description_from_descriptor": "A critical examination of viral photos, including the infamous shark on a flooded highway."},
+  "QA_CONTEXTS": {},
+  "New_Question": {
+    "Question": "What is the original source of the shark swimming on a flooded highway?"
+  },
+  "Current Evidence Searching queries on google": {
+    "Query 1": "What is the original source of the viral video showing a shark swimming on a flooded highway during Hurricane Ian in Florida?"
+  },
+  "Evidence Found and Judgments on Them": "[\n    {\n        \"evidence0\": {\n            \"title\": \"Fact check: Fabricated image of shark on highway spreads online ...\",\n            \"link\": \"https://www.usatoday.com/story/news/factcheck/2022/10/13/fact-check-fabricated-image-shark-highway-spreads-online-again/8196733001/\",\n            \"displayLink\": \"www.usatoday.com\",\n            \"snippet\": \"Oct 13, 2022 ... ... Video shows flooded Houston school in 2019, not aftermath of Hurricane Ian in Florida ... show a shark swimming on a flooded Florida highway.\",\n            \"htmlSnippet\": \"Oct 13, 2022 <b>...</b> ... <b>Video shows flooded</b> Houston school in 2019, not aftermath of <b>Hurricane Ian</b> in <b>Florida</b> ... <b>show</b> a <b>shark swimming</b> on a <b>flooded Florida highway</b>.\",\n            \"website_quality_evaluation\": {\n                \"website_quality Score\": 8,\n                \"justification\": \"USA Today is a well-established and reputable news source known for its high editorial standards and fact-checking processes. They have a history of providing accurate and reliable information. Their coverage is generally balanced and they have a good track record of correcting any inaccuracies promptly. USA Today is also active in debunking fake news stories, making it a valuable resource for verifying information.\"\n            }\n        }\n    },\n    {\n        \"evidence1\": {\n            \"title\": \"Hurricane Shark - Wikipedia\",\n            \"link\": \"https://en.wikipedia.org/wiki/Hurricane_Shark\",\n            \"displayLink\": \"en.wikipedia.org\",\n            \"snippet\": \"... of a shark swimming on a flooded freeway\u2014were debunked as fabrications. However, during Hurricane Ian in 2022, the Associated Press verified a video taken\u00a0...\",\n            \"htmlSnippet\": \"... <b>of a shark swimming</b> on a <b>flooded freeway</b>\u2014were debunked as fabrications. However, <b>during Hurricane Ian</b> in 2022, the Associated Press verified a <b>video</b> taken&nbsp;...\",\n            \"website_quality_evaluation\": {\n                \"website_quality Score\": 7,\n                \"justification\": \"While Wikipedia can be a useful starting point for information, its open-editing model means that articles can be subject to vandalism or inaccuracies. However, Wikipedia has a rigorous editing and community oversight process that helps maintain accuracy to a large extent. It is crucial to verify information obtained from Wikipedia with other reliable sources. Therefore, while Wikipedia can aid in fact-checking, it is important to proceed with caution and cross-check facts with reputable sources.\"\n            }\n        }\n    },\n    {\n        \"evidence2\": {\n            \"title\": \"Fact check: Photo of shark on a flooded highway is faked\",\n            \"link\": \"https://www.usatoday.com/story/news/factcheck/2020/08/27/fact-check-photo-shark-flooded-highway-faked/5646793002/\",\n            \"displayLink\": \"www.usatoday.com\",\n            \"snippet\": \"Aug 27, 2020 ... As Hurricane Laura roars through parts of Texas and Louisiana, an old image of a shark swimming down a freeway has once again gone viral.\",\n            \"htmlSnippet\": \"Aug 27, 2020 <b>...</b> As <b>Hurricane</b> Laura roars <b>through</b> parts of Texas and Louisiana, an <b>old</b> image <b>of a shark swimming</b> down a <b>freeway</b> has once again gone <b>viral</b>.\",\n            \"website_quality_evaluation\": {\n                \"website_quality Score\": 8,\n                \"justification\": \"USA Today is a well-established and reputable news source known for its high editorial standards and fact-checking processes. They have a history of providing accurate and reliable information. Their coverage is generally balanced and they have a good track record of correcting any inaccuracies promptly. USA Today is also active in debunking fake news stories, making it a valuable resource for verifying information.\"\n            }\n        }\n    },\n    {\n        \"evidence3\": {\n            \"title\": \"For Once, the Hurricane Shark Was Real - The New York Times\",\n            \"link\": \"https://www.nytimes.com/2022/09/30/us/hurricane-shark-ian-hoax.html\",\n            \"displayLink\": \"www.nytimes.com\",\n            \"snippet\": \"Sep 30, 2022 ... ... video swimming on a street in Fort Myers, Fla., this week ... There it was, the same shark swimming down the highway in Hurricane Irene in 2011\u00a0...\",\n            \"htmlSnippet\": \"Sep 30, 2022 <b>...</b> ... <b>video swimming</b> on a street in Fort Myers, <b>Fla</b>., this week ... There it was, the same <b>shark swimming</b> down the <b>highway</b> in <b>Hurricane</b> Irene in 2011&nbsp;...\",\n            \"website_quality_evaluation\": {\n                \"website_quality Score\": 9,\n                \"justification\": \"The New York Times is renowned for its high standards of journalism and credibility in reporting. They have a long-standing reputation for accuracy, thorough fact-checking, and upholding journalistic integrity. The New York Times has a history of investigative reporting and exposing fake news, making it a trusted source for accurate information.\"\n            }\n        }\n    },\n    {\n        \"evidence4\": {\n            \"title\": \"Video shows 'shark' swimming in flooded Florida neighborhood after ...\",\n            \"link\": \"https://www.fox35orlando.com/news/video-shows-shark-in-flooded-florida-neighborhood-after-hurricane-ian-but-is-it-real\",\n            \"displayLink\": \"www.fox35orlando.com\",\n            \"snippet\": \"Sep 30, 2022 ... A video of what many suspected to be a small shark swimming in a flooded neighborhood of Fort Myers went viral on Wednesday as Hurricane Ian\u00a0...\",\n            \"htmlSnippet\": \"Sep 30, 2022 <b>...</b> A <b>video</b> of what many suspected to be a small <b>shark swimming</b> in a <b>flooded</b> neighborhood of Fort Myers went <b>viral</b> on Wednesday as <b>Hurricane Ian</b>&nbsp;...\",\n            \"website_quality_evaluation\": {\n                \"website_quality Score\": 6,\n                \"justification\": \"Fox 35 Orlando is a local news outlet that may vary in credibility depending on the specific reporters and content. While they may provide valuable local news coverage, their national news coverage has faced criticism for bias and lack of fact-checking rigor. It is important to cross-verify information from Fox 35 Orlando with other reputable sources to ensure accuracy.\"\n            }\n        }\n    },\n    {\n        \"evidence5\": {\n            \"title\": \"'Shark' Filmed in Flooded Backyard in Florida After Hurricane Ian ...\",\n            \"link\": \"https://www.businessinsider.com/shark-filmed-flooded-backyard-fort-myers-florida-after-hurricane-ian-2022-9\",\n            \"displayLink\": \"www.businessinsider.com\",\n            \"snippet\": \"Sep 30, 2022 ... A viral video showed what appeared to be a shark stranded in a flooded Florida backyard during Hurricane Ian. Years of \\\"hurricane shark\\\"\u00a0...\",\n            \"htmlSnippet\": \"Sep 30, 2022 <b>...</b> A <b>viral video</b> showed what appeared to be a <b>shark</b> stranded in a <b>flooded Florida</b> backyard <b>during Hurricane Ian</b>. Years of &quot;<b>hurricane shark</b>&quot;&nbsp;...\",\n            \"website_quality_evaluation\": {\n                \"website_quality Score\": 8,\n                \"justification\": \"Business Insider is generally considered a reliable source of news and information, particularly in business and technology domains. They have a track record of accurate reporting and thorough fact-checking processes. While primarily focused on business-related topics, their general news coverage also maintains a good level of credibility and accuracy.\"\n            }\n        }\n    },\n    {\n        \"evidence6\": {\n            \"title\": \"Hurricane Ian: Is Video of Shark Swimming in Flooded Fort Myers ...\",\n            \"link\": \"https://www.snopes.com/fact-check/video-shark-fort-myers-street/\",\n            \"displayLink\": \"www.snopes.com\",\n            \"snippet\": \"Sep 29, 2022 ... Claim: A viral video authentically shows a shark swimming in a flooded street of Fort Myers, Florida, during Hurricane Ian in September 2022.\",\n            \"htmlSnippet\": \"Sep 29, 2022 <b>...</b> Claim: A <b>viral video</b> authentically <b>shows</b> a <b>shark swimming</b> in a <b>flooded</b> street of Fort Myers, <b>Florida</b>, <b>during Hurricane Ian</b> in September 2022.\",\n            \"website_quality_evaluation\": {\n                \"website_quality Score\": 9,\n                \"justification\": \"Snopes is widely recognized as a reputable fact-checking website with a strong dedication to debunking myths, rumors, and fake news. They have a transparent methodology, detailed research process, and a history of accurately verifying or debunking viral claims. Snopes' commitment to truthfulness and debunking misinformation makes it a highly credible source for fact-checking.\"\n            }\n        }\n    },\n    {\n        \"evidence7\": {\n            \"title\": \"Hurricane Ian and the strange influx of viral content that comes with ...\",\n            \"link\": \"https://mashable.com/article/hurricane-ian-viral-videos-internet-response\",\n            \"displayLink\": \"mashable.com\",\n            \"snippet\": \"Sep 30, 2022 ... ... first viral video I saw was...of a shark. It's ... of a shark swimming through a disaster zone that famously resurfaces during big storms.\",\n            \"htmlSnippet\": \"Sep 30, 2022 <b>...</b> ... <b>first viral video</b> I saw was...<b>of a shark</b>. It&#39;s ... <b>of a shark swimming through</b> a <b>disaster</b> zone that famously resurfaces <b>during</b> big <b>storms</b>.\",\n            \"website_quality_evaluation\": {\n                \"website_quality Score\": 7,\n                \"justification\": \"Mashable is a popular digital media website known for its coverage of technology, entertainment, and social media trends. While Mashable produces engaging content, it is not primarily focused on hard news reporting. As such, its credibility in terms of detecting and exposing fake news may vary. While useful for general news and trends, it is advisable to cross-verify critical information from Mashable with more traditional news sources.\"\n            }\n        }\n    },\n    {\n        \"evidence8\": {\n            \"title\": \"Florida 'street shark' caught in viral video during Hurricane Ian\",\n            \"link\": \"https://nypost.com/2022/09/30/florida-street-shark-caught-in-viral-video-during-hurricane-ian/\",\n            \"displayLink\": \"nypost.com\",\n            \"snippet\": \"Sep 30, 2022 ... A fishy video of a purported shark swimming in a Florida neighborhood during Hurricane Ian has been confirmed to be real \u2013 though it remains\u00a0...\",\n            \"htmlSnippet\": \"Sep 30, 2022 <b>...</b> A fishy <b>video of a</b> purported <b>shark swimming</b> in a <b>Florida</b> neighborhood <b>during Hurricane Ian</b> has been confirmed to be <b>real</b> \u2013 though it remains&nbsp;...\",\n            \"website_quality_evaluation\": {\n                \"website_quality Score\": 6,\n                \"justification\": \"The New York Post is a tabloid-style newspaper known for its sensationalist headlines and occasionally biased reporting. While it may provide some valuable news coverage, it is important to approach their articles with caution. The New York Post's credibility in terms of fact-checking and exposing fake news may be limited, and therefore information from this source should be verified with more reliable sources.\"\n            }\n        }\n    },\n    {\n        \"evidence9\": {\n            \"title\": \"This Photo of a Shark Swimming in a Flooded Highway Is Edited ...\",\n            \"link\": \"https://misbar.com/en/factcheck/2023/08/23/this-photo-of-a-shark-swimming-in-a-flooded-highway-is-edited\",\n            \"displayLink\": \"misbar.com\",\n            \"snippet\": \"Aug 23, 2023 ... ... Florida's urban areas during Hurricane Ian.\u274c Fact: The claim is misleading. Misbar found that the images are old and unrelated to Hurricane\u00a0...\",\n            \"htmlSnippet\": \"Aug 23, 2023 <b>...</b> ... <b>Florida&#39;s</b> urban areas <b>during Hurricane Ian</b>.\u274c Fact: The claim is misleading. Misbar found that the images are <b>old</b> and unrelated to <b>Hurricane</b>&nbsp;...\",\n            \"website_quality_evaluation\": {\n                \"website_quality Score\": 3,\n                \"justification\": \"Misbar.com appears to be a less-known website and lacks a reputation for credible journalism. The site may not have robust fact-checking processes or editorial standards, which can raise concerns about the accuracy of the information presented. Due to the lack of established credibility and transparency, information from misbar.com should be treated with skepticism and verified through reputable sources before accepting it as true.\"\n            }\n        }\n    }\n]",
+  "Task": "Based on the information of each evidence in 'Evidence Found and Judgments on Them', especially the link and snippet which generally contain the publication time of the webpage, evaluate the timeliness (Newness score, 0~10 points, provide a score). Consider how recent the evidence is compared to the current date of July 2024. More recent evidence should receive higher scores, while older evidence should receive lower scores.
+
+  Similarly, based on the information of each evidence, especially the content of the title and snippet, evaluate the relevance of this evidence to the current question (Relevance score, 0~10 points, provide a score). Consider how closely the evidence addresses the specifics of the question. More directly relevant evidence should receive higher scores, while less relevant evidence should receive lower scores.
+
+  For each evidence (evidence0, evidence1, evidence2, evidence3, evidence4, evidence5, evidence6, evidence7, evidence8, evidence9), provide the following:
+  1. "Newness Score": score, justification
+  2. "Relevance Score": score, justification
+  Each evidence should include these details, specified as 'evidenceN' where N is the evidence number."
+}
+
+2024-07-03 16:04:34,726 - INFO - --------------------------------------------------
+2024-07-03 16:04:34,726 - INFO - evidence_selection
+2024-07-03 16:04:34,726 - INFO - ### Evidence Evaluation:
+
+### Evidence 0:
+1. **Newness Score**: 7
+    - **Justification**: The USA Today article was published on October 13, 2022, making it relatively recent in comparison to the current date of July 2024.
+  
+2. **Relevance Score**: 8
+    - **Justification**: The USA Today article directly debunks the claim of a shark swimming on a flooded Florida highway during Hurricane Ian, providing relevant information to the question.
+
+### Evidence 1:
+1. **Newness Score**: 6
+    - **Justification**: The Wikipedia page was last updated with verified information during Hurricane Ian in 2022, which is somewhat recent but not as current as other sources.
+  
+2. **Relevance Score**: 7
+    - **Justification**: The Wikipedia page verifies a video taken during Hurricane Ian in 2022, indirectly related to the claim but not as specific as other sources.
+
+### Evidence 2:
+1. **Newness Score**: 3
+    - **Justification**: The USA Today article from August 27, 2020, is not very recent in relation to the current date of July 2024.
+  
+2. **Relevance Score**: 5
+    - **Justification**: The USA Today article addresses a previous incident with a fake photo of a shark on a flooded highway, but it is not directly related to the current claim.
+
+### Evidence 3:
+1. **Newness Score**: 7
+    - **Justification**: The New York Times article from September 30, 2022, is recent and relevant considering the date of July 2024.
+  
+2. **Relevance Score**: 9
+    - **Justification**: The New York Times article directly discusses the video of a shark swimming during Hurricane Ian, providing highly relevant information to the question.
+
+### Evidence 4:
+1. **Newness Score**: 7
+    - **Justification**: The Fox 35 Orlando news article from September 30, 2022, is recent and aligns well with the current date of July 2024.
+  
+2. **Relevance Score**: 6
+    - **Justification**: The article discusses a video of a suspected shark in a flooded neighborhood, relevant but not directly addressing the original claim.
+
+### Evidence 5:
+1. **Newness Score**: 7
+    - **Justification**: The Business Insider article from September 30, 2022, is recent and pertinent to the current date of July 2024.
+  
+2. **Relevance Score**: 8
+    - **Justification**: The Business Insider article covers a viral video of a shark during Hurricane Ian, providing relevant information to the question.
+
+### Evidence 6:
+1. **Newness Score**: 8
+    - **Justification**: The Snopes article from September 29, 2022, is recent and aligns well with the current date of July 2024.
+  
+2. **Relevance Score**: 9
+    - **Justification**: The Snopes article directly addresses the claim of a viral video showing a shark swimming during Hurricane Ian, highly relevant to the question.
+
+### Evidence 7:
+1. **Newness Score**: 7
+    - **Justification**: The Mashable article from September 30, 2022, is relatively recent in comparison to the current date of July 2024.
+  
+2. **Relevance Score**: 6
+    - **Justification**: The Mashable article discusses viral videos during Hurricane Ian but does not specifically focus on the original claim of a shark swimming on a flooded highway.
+
+### Evidence 8:
+1. **Newness Score**: 7
+    - **Justification**: The New York Post article from September 30, 2022, is recent and relevant to the current date of July 2024.
+  
+2. **Relevance Score**: 7
+    - **Justification**: The New York Post article confirms a video of a shark swimming during Hurricane Ian, relevant but not as specific to the original claim.
+
+### Evidence 9:
+1. **Newness Score**: 1
+    - **Justification**: The Misbar.com article from August 23, 2023, is not recent compared to the current date of July 2024.
+  
+2. **Relevance Score**: 3
+    - **Justification**: The Misbar.com article addresses misleading images during Hurricane Ian but is not directly related to the original claim of a shark swimming on a flooded highway.
+
+Based on the evaluations, more recent and directly relevant sources like The New York Times, Snopes, and Business Insider provide the most insightful information regarding the claim of a shark swimming on a flooded highway during Hurricane Ian in Florida.
+2024-07-03 16:04:53,152 - INFO - json_evidence_answer
+2024-07-03 16:04:53,152 - INFO - ```json
+{
+  "evidence0": {
+    "Newness Score": 7,
+    "Newness Justification": "The USA Today article was published on October 13, 2022, making it relatively recent in comparison to the current date of July 2024.",
+    "Relevance Score": 8,
+    "Relevance Justification": "The USA Today article directly debunks the claim of a shark swimming on a flooded Florida highway during Hurricane Ian, providing relevant information to the question."
+  },
+  "evidence1": {
+    "Newness Score": 6,
+    "Newness Justification": "The Wikipedia page was last updated with verified information during Hurricane Ian in 2022, which is somewhat recent but not as current as other sources.",
+    "Relevance Score": 7,
+    "Relevance Justification": "The Wikipedia page verifies a video taken during Hurricane Ian in 2022, indirectly related to the claim but not as specific as other sources."
+  },
+  "evidence2": {
+    "Newness Score": 3,
+    "Newness Justification": "The USA Today article from August 27, 2020, is not very recent in relation to the current date of July 2024.",
+    "Relevance Score": 5,
+    "Relevance Justification": "The USA Today article addresses a previous incident with a fake photo of a shark on a flooded highway, but it is not directly related to the current claim."
+  },
+  "evidence3": {
+    "Newness Score": 7,
+    "Newness Justification": "The New York Times article from September 30, 2022, is recent and relevant considering the date of July 2024.",
+    "Relevance Score": 9,
+    "Relevance Justification": "The New York Times article directly discusses the video of a shark swimming during Hurricane Ian, providing highly relevant information to the question."
+  },
+  "evidence4": {
+    "Newness Score": 7,
+    "Newness Justification": "The Fox 35 Orlando news article from September 30, 2022, is recent and aligns well with the current date of July 2024.",
+    "Relevance Score": 6,
+    "Relevance Justification": "The article discusses a video of a suspected shark in a flooded neighborhood, relevant but not directly addressing the original claim."
+  },
+  "evidence5": {
+    "Newness Score": 7,
+    "Newness Justification": "The Business Insider article from September 30, 2022, is recent and pertinent to the current date of July 2024.",
+    "Relevance Score": 8,
+    "Relevance Justification": "The Business Insider article covers a viral video of a shark during Hurricane Ian, providing relevant information to the question."
+  },
+  "evidence6": {
+    "Newness Score": 8,
+    "Newness Justification": "The Snopes article from September 29, 2022, is recent and aligns well with the current date of July 2024.",
+    "Relevance Score": 9,
+    "Relevance Justification": "The Snopes article directly addresses the claim of a viral video showing a shark swimming during Hurricane Ian, highly relevant to the question."
+  },
+  "evidence7": {
+    "Newness Score": 7,
+    "Newness Justification": "The Mashable article from September 30, 2022, is relatively recent in comparison to the current date of July 2024.",
+    "Relevance Score": 6,
+    "Relevance Justification": "The Mashable article discusses viral videos during Hurricane Ian but does not specifically focus on the original claim of a shark swimming on a flooded highway."
+  },
+  "evidence8": {
+    "Newness Score": 7,
+    "Newness Justification": "The New York Post article from September 30, 2022, is recent and relevant to the current date of July 2024.",
+    "Relevance Score": 7,
+    "Relevance Justification": "The New York Post article confirms a video of a shark swimming during Hurricane Ian, relevant but not as specific to the original claim."
+  },
+  "evidence9": {
+    "Newness Score": 1,
+    "Newness Justification": "The Misbar.com article from August 23, 2023, is not recent compared to the current date of July 2024.",
+    "Relevance Score": 3,
+    "Relevance Justification": "The Misbar.com article addresses misleading images during Hurricane Ian but is not directly related to the original claim of a shark swimming on a flooded highway."
+  }
+}
+```
+2024-07-03 16:04:53,153 - INFO - complete_json_evidence_answer
+2024-07-03 16:04:53,153 - INFO - {'evidence0': {'Newness Score': 7, 'Newness Justification': 'The USA Today article was published on October 13, 2022, making it relatively recent in comparison to the current date of July 2024.', 'Relevance Score': 8, 'Relevance Justification': 'The USA Today article directly debunks the claim of a shark swimming on a flooded Florida highway during Hurricane Ian, providing relevant information to the question.'}, 'evidence1': {'Newness Score': 6, 'Newness Justification': 'The Wikipedia page was last updated with verified information during Hurricane Ian in 2022, which is somewhat recent but not as current as other sources.', 'Relevance Score': 7, 'Relevance Justification': 'The Wikipedia page verifies a video taken during Hurricane Ian in 2022, indirectly related to the claim but not as specific as other sources.'}, 'evidence2': {'Newness Score': 3, 'Newness Justification': 'The USA Today article from August 27, 2020, is not very recent in relation to the current date of July 2024.', 'Relevance Score': 5, 'Relevance Justification': 'The USA Today article addresses a previous incident with a fake photo of a shark on a flooded highway, but it is not directly related to the current claim.'}, 'evidence3': {'Newness Score': 7, 'Newness Justification': 'The New York Times article from September 30, 2022, is recent and relevant considering the date of July 2024.', 'Relevance Score': 9, 'Relevance Justification': 'The New York Times article directly discusses the video of a shark swimming during Hurricane Ian, providing highly relevant information to the question.'}, 'evidence4': {'Newness Score': 7, 'Newness Justification': 'The Fox 35 Orlando news article from September 30, 2022, is recent and aligns well with the current date of July 2024.', 'Relevance Score': 6, 'Relevance Justification': 'The article discusses a video of a suspected shark in a flooded neighborhood, relevant but not directly addressing the original claim.'}, 'evidence5': {'Newness Score': 7, 'Newness Justification': 'The Business Insider article from September 30, 2022, is recent and pertinent to the current date of July 2024.', 'Relevance Score': 8, 'Relevance Justification': 'The Business Insider article covers a viral video of a shark during Hurricane Ian, providing relevant information to the question.'}, 'evidence6': {'Newness Score': 8, 'Newness Justification': 'The Snopes article from September 29, 2022, is recent and aligns well with the current date of July 2024.', 'Relevance Score': 9, 'Relevance Justification': 'The Snopes article directly addresses the claim of a viral video showing a shark swimming during Hurricane Ian, highly relevant to the question.'}, 'evidence7': {'Newness Score': 7, 'Newness Justification': 'The Mashable article from September 30, 2022, is relatively recent in comparison to the current date of July 2024.', 'Relevance Score': 6, 'Relevance Justification': 'The Mashable article discusses viral videos during Hurricane Ian but does not specifically focus on the original claim of a shark swimming on a flooded highway.'}, 'evidence8': {'Newness Score': 7, 'Newness Justification': 'The New York Post article from September 30, 2022, is recent and relevant to the current date of July 2024.', 'Relevance Score': 7, 'Relevance Justification': 'The New York Post article confirms a video of a shark swimming during Hurricane Ian, relevant but not as specific to the original claim.'}, 'evidence9': {'Newness Score': 1, 'Newness Justification': 'The Misbar.com article from August 23, 2023, is not recent compared to the current date of July 2024.', 'Relevance Score': 3, 'Relevance Justification': 'The Misbar.com article addresses misleading images during Hurricane Ian but is not directly related to the original claim of a shark swimming on a flooded highway.'}}
+2024-07-03 16:04:53,156 - INFO - Query 2: Is the video showing a shark on a flooded highway during Hurricane Ian in Florida confirmed to be real or fake?
+2024-07-03 16:04:55,262 - INFO - BS4 Successfully fetched content from https://www.washingtonpost.com/climate-environment/2022/10/01/hurricane-ian-shark-florida/
+2024-07-03 16:04:55,262 - INFO - Content preview: clockThis article was published more than 1 year ago
+For years, there has been a deluge of fake vide
+2024-07-03 16:04:55,314 - INFO - BS4 Successfully fetched content from https://www.nytimes.com/2022/09/30/us/hurricane-shark-ian-hoax.html
+2024-07-03 16:04:55,314 - INFO - Content preview: Advertisement
+Supported by
+Shark memes have become synonymous with social media hoaxes. But an A.P. 
+2024-07-03 16:04:55,364 - INFO - BS4 Successfully fetched content from https://www.forbes.com/sites/melissacristinamarquez/2022/10/06/was-that-reall-a-shark-in-flooded-florida-neighborhood-after-hurricane-ian/
+2024-07-03 16:04:55,364 - INFO - Content preview: It happens every time there’s a hurricane – the shark photos, memes, and old videos showing ‘proof’ 
+2024-07-03 16:04:55,448 - INFO - BS4 Successfully fetched content from https://en.wikipedia.org/wiki/Hurricane_Shark
+2024-07-03 16:04:55,448 - INFO - Content preview: 
+Hurricane Shark and Street Shark are nicknames for several claimed instances of a live shark swimmi
+2024-07-03 16:04:56,504 - INFO - BS4 Successfully fetched content from https://www.newsweek.com/was-shark-swimming-florida-street-after-hurricane-ian-storm-surge-1747289
+2024-07-03 16:04:56,505 - INFO - Content preview: It's common for hoax photos and videos of sharks swimming in flooded streets to surface during hurri
+2024-07-03 16:04:56,526 - INFO - BS4 Successfully fetched content from https://www.businessinsider.com/shark-filmed-flooded-backyard-fort-myers-florida-after-hurricane-ian-2022-9
+2024-07-03 16:04:56,526 - INFO - Content preview: 
+2024-07-03 16:05:24,782 - INFO - selenium Successfully fetched content from https://www.businessinsider.com/shark-filmed-flooded-backyard-fort-myers-florida-after-hurricane-ian-2022-9
+2024-07-03 16:05:24,783 - INFO - Content preview: A viral video captured a wayward sea creature flopping around in a backyard in Fort Myers after Hurr
+2024-07-03 16:05:26,108 - INFO - BS4 Successfully fetched content from https://www.fox35orlando.com/news/video-shows-shark-in-flooded-florida-neighborhood-after-hurricane-ian-but-is-it-real
+2024-07-03 16:05:26,108 - INFO - Content preview: Share
+A video of what many suspected to be a small shark swimming in a flooded neighborhood of Fort 
+2024-07-03 16:05:27,281 - INFO - BS4 Successfully fetched content from https://www.newsweek.com/were-sharks-florida-street-after-hurricane-nicole-new-video-emerges-1758670
+2024-07-03 16:05:27,281 - INFO - Content preview: When Hurricane Nicole hit Florida on Wednesday night with wind, rain and flooding battering the stat
+2024-07-03 16:05:27,808 - INFO - BS4 Successfully fetched content from https://www.ctvnews.ca/climate-and-environment/street-shark-video-captured-as-hurricane-ian-struck-florida-shows-mystery-fish-in-flooded-backyard-1.6090512
+2024-07-03 16:05:27,808 - INFO - Content preview: 
+	Photos and videos of sharks and other marine life swimming in suburban floodwaters make for popul
+2024-07-03 16:05:27,883 - INFO - BS4 Successfully fetched content from https://nypost.com/2022/09/30/florida-street-shark-caught-in-viral-video-during-hurricane-ian/
+2024-07-03 16:05:27,883 - INFO - Content preview: 
+2024-07-03 16:05:46,280 - INFO - selenium Successfully fetched content from https://nypost.com/2022/09/30/florida-street-shark-caught-in-viral-video-during-hurricane-ian/
+2024-07-03 16:05:46,281 - INFO - Content preview: 
+
+We’re gonna need a bigger deck.
+A Florida resident’s backyard turned into a scene from “Jaws” in t
+2024-07-03 16:05:47,338 - INFO - display_links
+2024-07-03 16:05:47,338 - INFO - ['www.washingtonpost.com', 'www.nytimes.com', 'www.forbes.com', 'en.wikipedia.org', 'www.newsweek.com', 'www.businessinsider.com', 'www.fox35orlando.com', 'www.newsweek.com', 'www.ctvnews.ca', 'nypost.com']
+2024-07-03 16:05:47,338 - INFO - rate and explain the reasons for all websites
+2024-07-03 16:05:47,338 - INFO - 
+{
+"Claim": "A video showing a shark swimming on a flooded highway during Hurricane Ian in Florida is real.",
+"Video_information": {'Video_headline': 'Fact-Checking Viral Photos', 'Video_transcript': '', 'Video_description_on_platform': 'This video analyzes and debunks the viral photo of a shark allegedly swimming on a flooded highway.', 'Video_platform': 'youtube', 'Video_date': '2023_08_07', 'Video_description_from_descriptor': 'A critical examination of viral photos, including the infamous shark on a flooded highway.'},
+"QA_CONTEXTS": {},
+"Relate_Website": ['www.washingtonpost.com', 'www.nytimes.com', 'www.forbes.com', 'en.wikipedia.org', 'www.newsweek.com', 'www.businessinsider.com', 'www.fox35orlando.com', 'www.newsweek.com', 'www.ctvnews.ca', 'nypost.com'],
+"Task": "Based on the provided Claim, Video_information, and QA_CONTEXTS, evaluate the listed websites to determine which ones have high credibility in terms of truthfulness and accuracy, and can aid in detecting fake news. Please provide a quality score (website_quality) out of 10 for each website and explain the reasoning for the score. The evaluation criteria include the website's overall reliability, historical accuracy, and capability to detect and expose fake news.
+
+Please combine the evaluations for these aspects to give an overall quality score (website_quality) for each website, and provide detailed explanations for each score."
+}
+In your response, when referring to related websites, be sure to provide the original name of the specific and detailed website in Relate_Website, and do not modify this name.
+It is required to rate and explain the reasons for all websites. Each website should be rated an overall quality score (website_quality) out of 10, with detailed explanations for each score.
+
+2024-07-03 16:05:59,730 - INFO - Based on the provided information, I will evaluate the credibility of the listed websites in terms of truthfulness, accuracy, and their capability to detect and expose fake news.
+
+1. Washington Post (www.washingtonpost.com) 
+   - Website Quality Score: 9/10
+   - Explanation: The Washington Post is a well-established and reputable news source known for its thorough fact-checking procedures and high editorial standards. They have a history of reliable reporting and investigative journalism, making them a trustworthy source for detecting and debunking fake news.
+
+2. New York Times (www.nytimes.com)
+   - Website Quality Score: 8/10
+   - Explanation: The New York Times is a prestigious publication with a strong track record of accuracy and integrity in reporting. While they have occasionally faced controversies, overall, their commitment to truthfulness and exposing misinformation earns them a high credibility rating.
+
+3. Forbes (www.forbes.com)
+   - Website Quality Score: 7/10
+   - Explanation: Forbes is a respected business and financial news outlet that upholds journalistic standards. While they mainly focus on economic and financial matters, their commitment to accuracy and credibility in reporting makes them a reliable source for detecting fake news related to finance and business.
+
+4. Wikipedia (en.wikipedia.org)
+   - Website Quality Score: 8/10
+   - Explanation: While Wikipedia is a collaborative platform with user-generated content, it generally maintains a stringent verification process for information. Wikipedia's dedication to accuracy and transparency, along with its extensive citations, can aid in verifying claims and detecting fake news when used as a supplementary source.
+
+5. Newsweek (www.newsweek.com)
+   - Website Quality Score: 7/10
+   - Explanation: Newsweek has a long-standing presence in the media landscape and is known for its in-depth reporting and investigative journalism. While they have faced some controversies in the past, they have generally upheld journalistic standards, making them a credible source for news and fact-checking.
+
+6. Business Insider (www.businessinsider.com)
+   - Website Quality Score: 8/10
+   - Explanation: Business Insider is a reputable business and technology news website that often publishes fact-checking articles and investigative reports. Their coverage is generally reliable, and they have a reputation for exposing misleading information and fake news in the business and tech sectors.
+
+7. Fox 35 Orlando (www.fox35orlando.com)
+   - Website Quality Score: 6/10
+   - Explanation: Fox 35 Orlando is a local news outlet that may not have the same level of national recognition as larger publications. While they provide local news coverage, their credibility and fact-checking processes may vary. It is advisable to verify information from this source with more established and nationally recognized outlets.
+
+8. CTV News (www.ctvnews.ca)
+   - Website Quality Score: 8/10
+   - Explanation: CTV News is a Canadian news organization known for its comprehensive reporting and adherence to journalistic standards. They have a strong reputation for accuracy and truthfulness in reporting, making them a reliable source for detecting fake news.
+
+9. New York Post (nypost.com)
+   - Website Quality Score: 7/10
+   - Explanation: The New York Post is a tabloid-style newspaper that has been known to publish sensationalistic stories. While they have faced criticism for their editorial decisions, they also have a history of investigative reporting and fact-checking. It is advisable to cross-reference information from this source with other reputable news outlets.
+
+These scores are based on the overall reliability, historical accuracy, and capability of the websites to detect and expose fake news. It is important to consider a variety of sources and approaches when verifying information and combating misinformation.
+2024-07-03 16:06:12,829 - INFO - rating and evaluation
+2024-07-03 16:06:12,829 - INFO - {'https://www.washingtonpost.com': {'website_quality Score': 9, 'justification': 'The Washington Post is a well-established and reputable news source known for its thorough fact-checking procedures and high editorial standards. They have a history of reliable reporting and investigative journalism, making them a trustworthy source for detecting and debunking fake news.'}, 'https://www.nytimes.com': {'website_quality Score': 8, 'justification': 'The New York Times is a prestigious publication with a strong track record of accuracy and integrity in reporting. While they have occasionally faced controversies, overall, their commitment to truthfulness and exposing misinformation earns them a high credibility rating.'}, 'https://www.forbes.com': {'website_quality Score': 7, 'justification': 'Forbes is a respected business and financial news outlet that upholds journalistic standards. While they mainly focus on economic and financial matters, their commitment to accuracy and credibility in reporting makes them a reliable source for detecting fake news related to finance and business.'}, 'https://en.wikipedia.org': {'website_quality Score': 8, 'justification': "While Wikipedia is a collaborative platform with user-generated content, it generally maintains a stringent verification process for information. Wikipedia's dedication to accuracy and transparency, along with its extensive citations, can aid in verifying claims and detecting fake news when used as a supplementary source."}, 'https://www.newsweek.com': {'website_quality Score': 7, 'justification': 'Newsweek has a long-standing presence in the media landscape and is known for its in-depth reporting and investigative journalism. While they have faced some controversies in the past, they have generally upheld journalistic standards, making them a credible source for news and fact-checking.'}, 'https://www.businessinsider.com': {'website_quality Score': 8, 'justification': 'Business Insider is a reputable business and technology news website that often publishes fact-checking articles and investigative reports. Their coverage is generally reliable, and they have a reputation for exposing misleading information and fake news in the business and tech sectors.'}, 'https://www.fox35orlando.com': {'website_quality Score': 6, 'justification': 'Fox 35 Orlando is a local news outlet that may not have the same level of national recognition as larger publications. While they provide local news coverage, their credibility and fact-checking processes may vary. It is advisable to verify information from this source with more established and nationally recognized outlets.'}, 'https://www.ctvnews.ca': {'website_quality Score': 8, 'justification': 'CTV News is a Canadian news organization known for its comprehensive reporting and adherence to journalistic standards. They have a strong reputation for accuracy and truthfulness in reporting, making them a reliable source for detecting fake news.'}, 'https://nypost.com': {'website_quality Score': 7, 'justification': 'The New York Post is a tabloid-style newspaper that has been known to publish sensationalistic stories. While they have faced criticism for their editorial decisions, they also have a history of investigative reporting and fact-checking. It is advisable to cross-reference information from this source with other reputable news outlets.'}}
+2024-07-03 16:06:12,830 - INFO - Display Link: www.washingtonpost.com, Best Match: https://www.washingtonpost.com, Ratio: 0.8461538461538461
+2024-07-03 16:06:12,830 - INFO - Display Link: www.nytimes.com, Best Match: https://www.nytimes.com, Ratio: 0.7894736842105263
+2024-07-03 16:06:12,831 - INFO - Display Link: www.forbes.com, Best Match: https://www.forbes.com, Ratio: 0.7777777777777778
+2024-07-03 16:06:12,831 - INFO - Display Link: en.wikipedia.org, Best Match: https://en.wikipedia.org, Ratio: 0.8
+2024-07-03 16:06:12,832 - INFO - Display Link: www.newsweek.com, Best Match: https://www.newsweek.com, Ratio: 0.8
+2024-07-03 16:06:12,832 - INFO - Display Link: www.businessinsider.com, Best Match: https://www.businessinsider.com, Ratio: 0.8518518518518519
+2024-07-03 16:06:12,833 - INFO - Display Link: www.fox35orlando.com, Best Match: https://www.fox35orlando.com, Ratio: 0.8333333333333334
+2024-07-03 16:06:12,833 - INFO - Display Link: www.newsweek.com, Best Match: https://www.newsweek.com, Ratio: 0.8
+2024-07-03 16:06:12,834 - INFO - Display Link: www.ctvnews.ca, Best Match: https://www.ctvnews.ca, Ratio: 0.7777777777777778
+2024-07-03 16:06:12,834 - INFO - Display Link: nypost.com, Best Match: https://nypost.com, Ratio: 0.7142857142857143
+2024-07-03 16:06:12,838 - INFO - --------------------------------------------------
+2024-07-03 16:06:12,838 - INFO - Selecting the 10 quality evidence for further selection:
+2024-07-03 16:06:12,838 - INFO - --------------------------------------------------
+2024-07-03 16:06:12,838 - INFO - [
+    {
+        "evidence0": {
+            "title": "Video appears to show shark in Florida backyard during Hurricane Ian",
+            "link": "https://www.washingtonpost.com/climate-environment/2022/10/01/hurricane-ian-shark-florida/",
+            "displayLink": "www.washingtonpost.com",
+            "snippet": "Oct 1, 2022 ... ... real — even if there is no confirmation ... One image of a shark swimming along a flooded highway was uploaded after Hurricane Irene hit Puerto ...",
+            "htmlSnippet": "Oct 1, 2022 <b>...</b> ... <b>real</b> — even if there is no <b>confirmation</b> ... One image <b>of a shark</b> swimming along a <b>flooded highway</b> was uploaded after <b>Hurricane</b> Irene hit Puerto&nbsp;...",
+            "website_quality_evaluation": {
+                "website_quality Score": 9,
+                "justification": "The Washington Post is a well-established and reputable news source known for its thorough fact-checking procedures and high editorial standards. They have a history of reliable reporting and investigative journalism, making them a trustworthy source for detecting and debunking fake news."
+            }
+        }
+    },
+    {
+        "evidence1": {
+            "title": "For Once, the Hurricane Shark Was Real - The New York Times",
+            "link": "https://www.nytimes.com/2022/09/30/us/hurricane-shark-ian-hoax.html",
+            "displayLink": "www.nytimes.com",
+            "snippet": "Sep 30, 2022 ... For more than a decade, fake, grainy images of a shark swimming in ... Hurricane Ian and was beginning to flood. Though this video didn ...",
+            "htmlSnippet": "Sep 30, 2022 <b>...</b> For more than a decade, <b>fake</b>, grainy images <b>of a shark</b> swimming in ... <b>Hurricane Ian</b> and was beginning to <b>flood</b>. Though this <b>video</b> didn&nbsp;...",
+            "website_quality_evaluation": {
+                "website_quality Score": 8,
+                "justification": "The New York Times is a prestigious publication with a strong track record of accuracy and integrity in reporting. While they have occasionally faced controversies, overall, their commitment to truthfulness and exposing misinformation earns them a high credibility rating."
+            }
+        }
+    },
+    {
+        "evidence2": {
+            "title": "Was That Really A Shark In Flooded Florida Neighborhood After ...",
+            "link": "https://www.forbes.com/sites/melissacristinamarquez/2022/10/06/was-that-reall-a-shark-in-flooded-florida-neighborhood-after-hurricane-ian/",
+            "displayLink": "www.forbes.com",
+            "snippet": "Oct 6, 2022 ... ... Shark In Flooded Florida Neighborhood After Hurricane Ian ... Past hoax videos usually showed sharks in flooded malls or swimming down highways ...",
+            "htmlSnippet": "Oct 6, 2022 <b>...</b> ... <b>Shark</b> In <b>Flooded Florida</b> Neighborhood After <b>Hurricane Ian</b> ... Past <b>hoax videos</b> usually showed <b>sharks</b> in <b>flooded</b> malls or swimming down <b>highways</b>&nbsp;...",
+            "website_quality_evaluation": {
+                "website_quality Score": 7,
+                "justification": "Forbes is a respected business and financial news outlet that upholds journalistic standards. While they mainly focus on economic and financial matters, their commitment to accuracy and credibility in reporting makes them a reliable source for detecting fake news related to finance and business."
+            }
+        }
+    },
+    {
+        "evidence3": {
+            "title": "Hurricane Shark - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Hurricane_Shark",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "Hurricane Shark and Street Shark are nicknames for several claimed instances of a live shark swimming in a flooded urban area, typically in the aftermath of ...",
+            "htmlSnippet": "<b>Hurricane Shark</b> and Street <b>Shark</b> are nicknames for several claimed instances <b>of a</b> live <b>shark</b> swimming in a <b>flooded</b> urban area, typically in the aftermath <b>of</b>&nbsp;...",
+            "website_quality_evaluation": {
+                "website_quality Score": 8,
+                "justification": "While Wikipedia is a collaborative platform with user-generated content, it generally maintains a stringent verification process for information. Wikipedia's dedication to accuracy and transparency, along with its extensive citations, can aid in verifying claims and detecting fake news when used as a supplementary source."
+            }
+        }
+    },
+    {
+        "evidence4": {
+            "title": "Was a Shark Swimming in Florida Street After Hurricane Ian Storm ...",
+            "link": "https://www.newsweek.com/was-shark-swimming-florida-street-after-hurricane-ian-storm-surge-1747289",
+            "displayLink": "www.newsweek.com",
+            "snippet": "Sep 30, 2022 ... Fake videos of sharks swimming in flooded streets tend to surface during hurricanes, but some experts believe this video might be real.",
+            "htmlSnippet": "Sep 30, 2022 <b>...</b> <b>Fake videos</b> of <b>sharks</b> swimming in <b>flooded</b> streets tend to surface <b>during hurricanes</b>, but some experts believe this <b>video</b> might be <b>real</b>.",
+            "website_quality_evaluation": {
+                "website_quality Score": 7,
+                "justification": "Newsweek has a long-standing presence in the media landscape and is known for its in-depth reporting and investigative journalism. While they have faced some controversies in the past, they have generally upheld journalistic standards, making them a credible source for news and fact-checking."
+            }
+        }
+    },
+    {
+        "evidence5": {
+            "title": "'Shark' Filmed in Flooded Backyard in Florida After Hurricane Ian ...",
+            "link": "https://www.businessinsider.com/shark-filmed-flooded-backyard-fort-myers-florida-after-hurricane-ian-2022-9",
+            "displayLink": "www.businessinsider.com",
+            "snippet": "Sep 30, 2022 ... Years of \"hurricane shark\" hoaxes made people skeptical if the video was real. The AP confirmed the video's authenticity, though there's still ...",
+            "htmlSnippet": "Sep 30, 2022 <b>...</b> Years of &quot;<b>hurricane shark</b>&quot; hoaxes made people skeptical if the <b>video</b> was <b>real</b>. The AP <b>confirmed</b> the <b>video&#39;s</b> authenticity, though there&#39;s still&nbsp;...",
+            "website_quality_evaluation": {
+                "website_quality Score": 8,
+                "justification": "Business Insider is a reputable business and technology news website that often publishes fact-checking articles and investigative reports. Their coverage is generally reliable, and they have a reputation for exposing misleading information and fake news in the business and tech sectors."
+            }
+        }
+    },
+    {
+        "evidence6": {
+            "title": "Video shows 'shark' swimming in flooded Florida neighborhood after ...",
+            "link": "https://www.fox35orlando.com/news/video-shows-shark-in-flooded-florida-neighborhood-after-hurricane-ian-but-is-it-real",
+            "displayLink": "www.fox35orlando.com",
+            "snippet": "Sep 30, 2022 ... Video shows 'shark' in flooded Florida neighborhood after Hurricane Ian, but is it real? ... Storyful geolocated the video and confirmed it was ...",
+            "htmlSnippet": "Sep 30, 2022 <b>...</b> <b>Video shows</b> &#39;<b>shark</b>&#39; in <b>flooded Florida</b> neighborhood after <b>Hurricane Ian</b>, but is it <b>real</b>? ... Storyful geolocated the <b>video</b> and <b>confirmed</b> it was&nbsp;...",
+            "website_quality_evaluation": {
+                "website_quality Score": 6,
+                "justification": "Fox 35 Orlando is a local news outlet that may not have the same level of national recognition as larger publications. While they provide local news coverage, their credibility and fact-checking processes may vary. It is advisable to verify information from this source with more established and nationally recognized outlets."
+            }
+        }
+    },
+    {
+        "evidence7": {
+            "title": "Were Sharks In Florida Street After Hurricane Nicole? New Video ...",
+            "link": "https://www.newsweek.com/were-sharks-florida-street-after-hurricane-nicole-new-video-emerges-1758670",
+            "displayLink": "www.newsweek.com",
+            "snippet": "Nov 10, 2022 ... ... shark hoaxes that surface during hurricanes when he took the video ... fake image of a shark was depicted swimming down a flooded highway.",
+            "htmlSnippet": "Nov 10, 2022 <b>...</b> ... <b>shark</b> hoaxes that surface <b>during hurricanes</b> when he took the <b>video</b> ... <b>fake</b> image <b>of a shark</b> was depicted swimming down a <b>flooded highway</b>.",
+            "website_quality_evaluation": {
+                "website_quality Score": 7,
+                "justification": "Newsweek has a long-standing presence in the media landscape and is known for its in-depth reporting and investigative journalism. While they have faced some controversies in the past, they have generally upheld journalistic standards, making them a credible source for news and fact-checking."
+            }
+        }
+    },
+    {
+        "evidence8": {
+            "title": "'Street shark': Video captured as Hurricane Ian struck Florida shows ...",
+            "link": "https://www.ctvnews.ca/climate-and-environment/street-shark-video-captured-as-hurricane-ian-struck-florida-shows-mystery-fish-in-flooded-backyard-1.6090512",
+            "displayLink": "www.ctvnews.ca",
+            "snippet": "Sep 29, 2022 ... The AP confirmed through the original clip's metadata that it was captured Wednesday morning. \"It makes a bit more sense from a flooding ...",
+            "htmlSnippet": "Sep 29, 2022 <b>...</b> The AP <b>confirmed through</b> the <b>original clip&#39;s</b> metadata that it was captured Wednesday morning. &quot;It makes a bit more sense from a <b>flooding</b>&nbsp;...",
+            "website_quality_evaluation": {
+                "website_quality Score": 8,
+                "justification": "CTV News is a Canadian news organization known for its comprehensive reporting and adherence to journalistic standards. They have a strong reputation for accuracy and truthfulness in reporting, making them a reliable source for detecting fake news."
+            }
+        }
+    },
+    {
+        "evidence9": {
+            "title": "Florida 'street shark' caught in viral video during Hurricane Ian",
+            "link": "https://nypost.com/2022/09/30/florida-street-shark-caught-in-viral-video-during-hurricane-ian/",
+            "displayLink": "nypost.com",
+            "snippet": "Sep 30, 2022 ... A fishy video of a purported shark swimming in a Florida neighborhood during Hurricane Ian has been confirmed to be real – though it remains ...",
+            "htmlSnippet": "Sep 30, 2022 <b>...</b> A fishy <b>video of a</b> purported <b>shark</b> swimming in a <b>Florida</b> neighborhood <b>during Hurricane Ian</b> has been <b>confirmed</b> to be <b>real</b> – though it remains&nbsp;...",
+            "website_quality_evaluation": {
+                "website_quality Score": 7,
+                "justification": "The New York Post is a tabloid-style newspaper that has been known to publish sensationalistic stories. While they have faced criticism for their editorial decisions, they also have a history of investigative reporting and fact-checking. It is advisable to cross-reference information from this source with other reputable news outlets."
+            }
+        }
+    }
+]
+2024-07-03 16:06:27,543 - INFO - --------------------------------------------------
+2024-07-03 16:06:27,543 - INFO - prompt_for_evidence_selection
+2024-07-03 16:06:27,543 - INFO - 
+{
+  "Claim": "A video showing a shark swimming on a flooded highway during Hurricane Ian in Florida is real.",
+  "Video_information": {"Video_headline": "Fact-Checking Viral Photos", "Video_transcript": "", "Video_description_on_platform": "This video analyzes and debunks the viral photo of a shark allegedly swimming on a flooded highway.", "Video_platform": "youtube", "Video_date": "2023_08_07", "Video_description_from_descriptor": "A critical examination of viral photos, including the infamous shark on a flooded highway."},
+  "QA_CONTEXTS": {},
+  "New_Question": {
+    "Question": "What is the original source of the shark swimming on a flooded highway?"
+  },
+  "Current Evidence Searching queries on google": {
+    "Query 2": "Is the video showing a shark on a flooded highway during Hurricane Ian in Florida confirmed to be real or fake?"
+  },
+  "Evidence Found and Judgments on Them": "[\n    {\n        \"evidence0\": {\n            \"title\": \"Video appears to show shark in Florida backyard during Hurricane Ian\",\n            \"link\": \"https://www.washingtonpost.com/climate-environment/2022/10/01/hurricane-ian-shark-florida/\",\n            \"displayLink\": \"www.washingtonpost.com\",\n            \"snippet\": \"Oct 1, 2022 ... ... real \u2014 even if there is no confirmation ... One image of a shark swimming along a flooded highway was uploaded after Hurricane Irene hit Puerto\u00a0...\",\n            \"htmlSnippet\": \"Oct 1, 2022 <b>...</b> ... <b>real</b> \u2014 even if there is no <b>confirmation</b> ... One image <b>of a shark</b> swimming along a <b>flooded highway</b> was uploaded after <b>Hurricane</b> Irene hit Puerto&nbsp;...\",\n            \"website_quality_evaluation\": {\n                \"website_quality Score\": 9,\n                \"justification\": \"The Washington Post is a well-established and reputable news source known for its thorough fact-checking procedures and high editorial standards. They have a history of reliable reporting and investigative journalism, making them a trustworthy source for detecting and debunking fake news.\"\n            }\n        }\n    },\n    {\n        \"evidence1\": {\n            \"title\": \"For Once, the Hurricane Shark Was Real - The New York Times\",\n            \"link\": \"https://www.nytimes.com/2022/09/30/us/hurricane-shark-ian-hoax.html\",\n            \"displayLink\": \"www.nytimes.com\",\n            \"snippet\": \"Sep 30, 2022 ... For more than a decade, fake, grainy images of a shark swimming in ... Hurricane Ian and was beginning to flood. Though this video didn\u00a0...\",\n            \"htmlSnippet\": \"Sep 30, 2022 <b>...</b> For more than a decade, <b>fake</b>, grainy images <b>of a shark</b> swimming in ... <b>Hurricane Ian</b> and was beginning to <b>flood</b>. Though this <b>video</b> didn&nbsp;...\",\n            \"website_quality_evaluation\": {\n                \"website_quality Score\": 8,\n                \"justification\": \"The New York Times is a prestigious publication with a strong track record of accuracy and integrity in reporting. While they have occasionally faced controversies, overall, their commitment to truthfulness and exposing misinformation earns them a high credibility rating.\"\n            }\n        }\n    },\n    {\n        \"evidence2\": {\n            \"title\": \"Was That Really A Shark In Flooded Florida Neighborhood After ...\",\n            \"link\": \"https://www.forbes.com/sites/melissacristinamarquez/2022/10/06/was-that-reall-a-shark-in-flooded-florida-neighborhood-after-hurricane-ian/\",\n            \"displayLink\": \"www.forbes.com\",\n            \"snippet\": \"Oct 6, 2022 ... ... Shark In Flooded Florida Neighborhood After Hurricane Ian ... Past hoax videos usually showed sharks in flooded malls or swimming down highways\u00a0...\",\n            \"htmlSnippet\": \"Oct 6, 2022 <b>...</b> ... <b>Shark</b> In <b>Flooded Florida</b> Neighborhood After <b>Hurricane Ian</b> ... Past <b>hoax videos</b> usually showed <b>sharks</b> in <b>flooded</b> malls or swimming down <b>highways</b>&nbsp;...\",\n            \"website_quality_evaluation\": {\n                \"website_quality Score\": 7,\n                \"justification\": \"Forbes is a respected business and financial news outlet that upholds journalistic standards. While they mainly focus on economic and financial matters, their commitment to accuracy and credibility in reporting makes them a reliable source for detecting fake news related to finance and business.\"\n            }\n        }\n    },\n    {\n        \"evidence3\": {\n            \"title\": \"Hurricane Shark - Wikipedia\",\n            \"link\": \"https://en.wikipedia.org/wiki/Hurricane_Shark\",\n            \"displayLink\": \"en.wikipedia.org\",\n            \"snippet\": \"Hurricane Shark and Street Shark are nicknames for several claimed instances of a live shark swimming in a flooded urban area, typically in the aftermath of\u00a0...\",\n            \"htmlSnippet\": \"<b>Hurricane Shark</b> and Street <b>Shark</b> are nicknames for several claimed instances <b>of a</b> live <b>shark</b> swimming in a <b>flooded</b> urban area, typically in the aftermath <b>of</b>&nbsp;...\",\n            \"website_quality_evaluation\": {\n                \"website_quality Score\": 8,\n                \"justification\": \"While Wikipedia is a collaborative platform with user-generated content, it generally maintains a stringent verification process for information. Wikipedia's dedication to accuracy and transparency, along with its extensive citations, can aid in verifying claims and detecting fake news when used as a supplementary source.\"\n            }\n        }\n    },\n    {\n        \"evidence4\": {\n            \"title\": \"Was a Shark Swimming in Florida Street After Hurricane Ian Storm ...\",\n            \"link\": \"https://www.newsweek.com/was-shark-swimming-florida-street-after-hurricane-ian-storm-surge-1747289\",\n            \"displayLink\": \"www.newsweek.com\",\n            \"snippet\": \"Sep 30, 2022 ... Fake videos of sharks swimming in flooded streets tend to surface during hurricanes, but some experts believe this video might be real.\",\n            \"htmlSnippet\": \"Sep 30, 2022 <b>...</b> <b>Fake videos</b> of <b>sharks</b> swimming in <b>flooded</b> streets tend to surface <b>during hurricanes</b>, but some experts believe this <b>video</b> might be <b>real</b>.\",\n            \"website_quality_evaluation\": {\n                \"website_quality Score\": 7,\n                \"justification\": \"Newsweek has a long-standing presence in the media landscape and is known for its in-depth reporting and investigative journalism. While they have faced some controversies in the past, they have generally upheld journalistic standards, making them a credible source for news and fact-checking.\"\n            }\n        }\n    },\n    {\n        \"evidence5\": {\n            \"title\": \"'Shark' Filmed in Flooded Backyard in Florida After Hurricane Ian ...\",\n            \"link\": \"https://www.businessinsider.com/shark-filmed-flooded-backyard-fort-myers-florida-after-hurricane-ian-2022-9\",\n            \"displayLink\": \"www.businessinsider.com\",\n            \"snippet\": \"Sep 30, 2022 ... Years of \\\"hurricane shark\\\" hoaxes made people skeptical if the video was real. The AP confirmed the video's authenticity, though there's still\u00a0...\",\n            \"htmlSnippet\": \"Sep 30, 2022 <b>...</b> Years of &quot;<b>hurricane shark</b>&quot; hoaxes made people skeptical if the <b>video</b> was <b>real</b>. The AP <b>confirmed</b> the <b>video&#39;s</b> authenticity, though there&#39;s still&nbsp;...\",\n            \"website_quality_evaluation\": {\n                \"website_quality Score\": 8,\n                \"justification\": \"Business Insider is a reputable business and technology news website that often publishes fact-checking articles and investigative reports. Their coverage is generally reliable, and they have a reputation for exposing misleading information and fake news in the business and tech sectors.\"\n            }\n        }\n    },\n    {\n        \"evidence6\": {\n            \"title\": \"Video shows 'shark' swimming in flooded Florida neighborhood after ...\",\n            \"link\": \"https://www.fox35orlando.com/news/video-shows-shark-in-flooded-florida-neighborhood-after-hurricane-ian-but-is-it-real\",\n            \"displayLink\": \"www.fox35orlando.com\",\n            \"snippet\": \"Sep 30, 2022 ... Video shows 'shark' in flooded Florida neighborhood after Hurricane Ian, but is it real? ... Storyful geolocated the video and confirmed it was\u00a0...\",\n            \"htmlSnippet\": \"Sep 30, 2022 <b>...</b> <b>Video shows</b> &#39;<b>shark</b>&#39; in <b>flooded Florida</b> neighborhood after <b>Hurricane Ian</b>, but is it <b>real</b>? ... Storyful geolocated the <b>video</b> and <b>confirmed</b> it was&nbsp;...\",\n            \"website_quality_evaluation\": {\n                \"website_quality Score\": 6,\n                \"justification\": \"Fox 35 Orlando is a local news outlet that may not have the same level of national recognition as larger publications. While they provide local news coverage, their credibility and fact-checking processes may vary. It is advisable to verify information from this source with more established and nationally recognized outlets.\"\n            }\n        }\n    },\n    {\n        \"evidence7\": {\n            \"title\": \"Were Sharks In Florida Street After Hurricane Nicole? New Video ...\",\n            \"link\": \"https://www.newsweek.com/were-sharks-florida-street-after-hurricane-nicole-new-video-emerges-1758670\",\n            \"displayLink\": \"www.newsweek.com\",\n            \"snippet\": \"Nov 10, 2022 ... ... shark hoaxes that surface during hurricanes when he took the video ... fake image of a shark was depicted swimming down a flooded highway.\",\n            \"htmlSnippet\": \"Nov 10, 2022 <b>...</b> ... <b>shark</b> hoaxes that surface <b>during hurricanes</b> when he took the <b>video</b> ... <b>fake</b> image <b>of a shark</b> was depicted swimming down a <b>flooded highway</b>.\",\n            \"website_quality_evaluation\": {\n                \"website_quality Score\": 7,\n                \"justification\": \"Newsweek has a long-standing presence in the media landscape and is known for its in-depth reporting and investigative journalism. While they have faced some controversies in the past, they have generally upheld journalistic standards, making them a credible source for news and fact-checking.\"\n            }\n        }\n    },\n    {\n        \"evidence8\": {\n            \"title\": \"'Street shark': Video captured as Hurricane Ian struck Florida shows ...\",\n            \"link\": \"https://www.ctvnews.ca/climate-and-environment/street-shark-video-captured-as-hurricane-ian-struck-florida-shows-mystery-fish-in-flooded-backyard-1.6090512\",\n            \"displayLink\": \"www.ctvnews.ca\",\n            \"snippet\": \"Sep 29, 2022 ... The AP confirmed through the original clip's metadata that it was captured Wednesday morning. \\\"It makes a bit more sense from a flooding\u00a0...\",\n            \"htmlSnippet\": \"Sep 29, 2022 <b>...</b> The AP <b>confirmed through</b> the <b>original clip&#39;s</b> metadata that it was captured Wednesday morning. &quot;It makes a bit more sense from a <b>flooding</b>&nbsp;...\",\n            \"website_quality_evaluation\": {\n                \"website_quality Score\": 8,\n                \"justification\": \"CTV News is a Canadian news organization known for its comprehensive reporting and adherence to journalistic standards. They have a strong reputation for accuracy and truthfulness in reporting, making them a reliable source for detecting fake news.\"\n            }\n        }\n    },\n    {\n        \"evidence9\": {\n            \"title\": \"Florida 'street shark' caught in viral video during Hurricane Ian\",\n            \"link\": \"https://nypost.com/2022/09/30/florida-street-shark-caught-in-viral-video-during-hurricane-ian/\",\n            \"displayLink\": \"nypost.com\",\n            \"snippet\": \"Sep 30, 2022 ... A fishy video of a purported shark swimming in a Florida neighborhood during Hurricane Ian has been confirmed to be real \u2013 though it remains\u00a0...\",\n            \"htmlSnippet\": \"Sep 30, 2022 <b>...</b> A fishy <b>video of a</b> purported <b>shark</b> swimming in a <b>Florida</b> neighborhood <b>during Hurricane Ian</b> has been <b>confirmed</b> to be <b>real</b> \u2013 though it remains&nbsp;...\",\n            \"website_quality_evaluation\": {\n                \"website_quality Score\": 7,\n                \"justification\": \"The New York Post is a tabloid-style newspaper that has been known to publish sensationalistic stories. While they have faced criticism for their editorial decisions, they also have a history of investigative reporting and fact-checking. It is advisable to cross-reference information from this source with other reputable news outlets.\"\n            }\n        }\n    }\n]",
+  "Task": "Based on the information of each evidence in 'Evidence Found and Judgments on Them', especially the link and snippet which generally contain the publication time of the webpage, evaluate the timeliness (Newness score, 0~10 points, provide a score). Consider how recent the evidence is compared to the current date of July 2024. More recent evidence should receive higher scores, while older evidence should receive lower scores.
+
+  Similarly, based on the information of each evidence, especially the content of the title and snippet, evaluate the relevance of this evidence to the current question (Relevance score, 0~10 points, provide a score). Consider how closely the evidence addresses the specifics of the question. More directly relevant evidence should receive higher scores, while less relevant evidence should receive lower scores.
+
+  For each evidence (evidence0, evidence1, evidence2, evidence3, evidence4, evidence5, evidence6, evidence7, evidence8, evidence9), provide the following:
+  1. "Newness Score": score, justification
+  2. "Relevance Score": score, justification
+  Each evidence should include these details, specified as 'evidenceN' where N is the evidence number."
+}
+
+2024-07-03 16:06:27,543 - INFO - --------------------------------------------------
+2024-07-03 16:06:27,543 - INFO - evidence_selection
+2024-07-03 16:06:27,543 - INFO - Sure! I will evaluate the timeliness and relevance of each evidence in relation to the claim about the shark swimming on a flooded highway during Hurricane Ian in Florida. Let's go through each evidence step by step.
+
+1. **Evidence 0:**
+   - **Newness Score:** 8
+     - **Justification:** The article from The Washington Post was published on October 1, 2022, which indicates that it is relatively recent compared to the current date of July 2024.
+   - **Relevance Score:** 9
+     - **Justification:** The article directly addresses the claim about a shark swimming on a flooded highway during Hurricane Ian, discussing the authenticity of the viral photo.
+
+2. **Evidence 1:**
+   - **Newness Score:** 8
+     - **Justification:** The New York Times article was published on September 30, 2022, making it recent at the time of the claim.
+   - **Relevance Score:** 8
+     - **Justification:** The article specifically discusses the authenticity of images of a shark swimming during Hurricane Ian, which directly relates to the claim being evaluated.
+
+3. **Evidence 2:**
+   - **Newness Score:** 7
+     - **Justification:** The Forbes article is from October 6, 2022, making it relatively recent but slightly older compared to other sources.
+   - **Relevance Score:** 7
+     - **Justification:** The article addresses the topic of sharks in flooded areas post-hurricane, which is relevant but slightly more general compared to the specific claim about the flooded highway.
+
+4. **Evidence 3:**
+   - **Newness Score:** 8
+     - **Justification:** The Wikipedia page on Hurricane Shark was last updated recently and contains a collection of instances related to sharks in flooded urban areas.
+   - **Relevance Score:** 8
+     - **Justification:** While the Wikipedia page addresses the broader topic of sharks in flooded urban areas, it provides relevant background information related to the claim.
+
+5. **Evidence 4:**
+   - **Newness Score:** 7
+     - **Justification:** The Newsweek article from September 30, 2022, is recent but not as fresh as some other sources.
+   - **Relevance Score:** 7
+     - **Justification:** The article discusses the trend of fake shark videos during hurricanes, which is relevant but slightly tangential to the specific claim about a flooded highway.
+
+6. **Evidence 5:**
+   - **Newness Score:** 8
+     - **Justification:** The Business Insider article from September 30, 2022, is recent and closely aligns with the timeframe of the claim.
+   - **Relevance Score:** 9
+     - **Justification:** The article confirms the authenticity of a video showing a shark in a flooded backyard post-Hurricane Ian, directly related to the claim being evaluated.
+
+7. **Evidence 6:**
+   - **Newness Score:** 6
+     - **Justification:** The Fox 35 Orlando news article is from September 30, 2022, making it relatively new but slightly older compared to some other sources.
+   - **Relevance Score:** 7
+     - **Justification:** The article discusses a video showing a shark in a flooded neighborhood, which is relevant but does not directly address the claim about a flooded highway.
+
+8. **Evidence 7:**
+   - **Newness Score:** 7
+     - **Justification:** The Newsweek article from November 10, 2022, is recent but falls outside the claim's immediate timeframe.
+   - **Relevance Score:** 6
+     - **Justification:** The article talks about shark hoaxes during hurricanes but does not directly address the specific claim about a flooded highway.
+
+9. **Evidence 8:**
+   - **Newness Score:** 8
+     - **Justification:** The CTV News article from September 29, 2022, is recent and closely aligned with the claim's timeframe.
+   - **Relevance Score:** 8
+     - **Justification:** The article discusses a video capturing a mystery fish in a flooded backyard during Hurricane Ian, which is relevant to the broader context of shark sightings post-hurricane.
+
+10. **Evidence 9:**
+    - **Newness Score:** 7
+      - **Justification:** The New York Post article from September 30, 2022, is relatively new but not the most recent compared to other sources.
+    - **Relevance Score:** 7
+      - **Justification:** The article confirms the authenticity of a video showing a shark in a Florida neighborhood during Hurricane Ian, which is relevant but does not specify the flooded highway aspect.
+
+Feel free to ask if you need more information on any specific evidence or have any other questions related to this evaluation.
+2024-07-03 16:06:40,494 - INFO - json_evidence_answer
+2024-07-03 16:06:40,495 - INFO - {
+  "evidence0": {
+    "Newness Score": 8,
+    "Newness Justification": "The article from The Washington Post was published on October 1, 2022, which indicates that it is relatively recent compared to the current date of July 2024.",
+    "Relevance Score": 9,
+    "Relevance Justification": "The article directly addresses the claim about a shark swimming on a flooded highway during Hurricane Ian, discussing the authenticity of the viral photo."
+  },
+  "evidence1": {
+    "Newness Score": 8,
+    "Newness Justification": "The New York Times article was published on September 30, 2022, making it recent at the time of the claim.",
+    "Relevance Score": 8,
+    "Relevance Justification": "The article specifically discusses the authenticity of images of a shark swimming during Hurricane Ian, which directly relates to the claim being evaluated."
+  },
+  "evidence2": {
+    "Newness Score": 7,
+    "Newness Justification": "The Forbes article is from October 6, 2022, making it relatively recent but slightly older compared to other sources.",
+    "Relevance Score": 7,
+    "Relevance Justification": "The article addresses the topic of sharks in flooded areas post-hurricane, which is relevant but slightly more general compared to the specific claim about the flooded highway."
+  },
+  "evidence3": {
+    "Newness Score": 8,
+    "Newness Justification": "The Wikipedia page on Hurricane Shark was last updated recently and contains a collection of instances related to sharks in flooded urban areas.",
+    "Relevance Score": 8,
+    "Relevance Justification": "While the Wikipedia page addresses the broader topic of sharks in flooded urban areas, it provides relevant background information related to the claim."
+  },
+  "evidence4": {
+    "Newness Score": 7,
+    "Newness Justification": "The Newsweek article from September 30, 2022, is recent but not as fresh as some other sources.",
+    "Relevance Score": 7,
+    "Relevance Justification": "The article discusses the trend of fake shark videos during hurricanes, which is relevant but slightly tangential to the specific claim about a flooded highway."
+  },
+  "evidence5": {
+    "Newness Score": 8,
+    "Newness Justification": "The Business Insider article from September 30, 2022, is recent and closely aligns with the timeframe of the claim.",
+    "Relevance Score": 9,
+    "Relevance Justification": "The article confirms the authenticity of a video showing a shark in a flooded backyard post-Hurricane Ian, directly related to the claim being evaluated."
+  },
+  "evidence6": {
+    "Newness Score": 6,
+    "Newness Justification": "The Fox 35 Orlando news article is from September 30, 2022, making it relatively new but slightly older compared to some other sources.",
+    "Relevance Score": 7,
+    "Relevance Justification": "The article discusses a video showing a shark in a flooded neighborhood, which is relevant but does not directly address the claim about a flooded highway."
+  },
+  "evidence7": {
+    "Newness Score": 7,
+    "Newness Justification": "The Newsweek article from November 10, 2022, is recent but falls outside the claim's immediate timeframe.",
+    "Relevance Score": 6,
+    "Relevance Justification": "The article talks about shark hoaxes during hurricanes but does not directly address the specific claim about a flooded highway."
+  },
+  "evidence8": {
+    "Newness Score": 8,
+    "Newness Justification": "The CTV News article from September 29, 2022, is recent and closely aligned with the claim's timeframe.",
+    "Relevance Score": 8,
+    "Relevance Justification": "The article discusses a video capturing a mystery fish in a flooded backyard during Hurricane Ian, which is relevant to the broader context of shark sightings post-hurricane."
+  },
+  "evidence9": {
+    "Newness Score": 7,
+    "Newness Justification": "The New York Post article from September 30, 2022, is relatively new but not the most recent compared to other sources.",
+    "Relevance Score": 7,
+    "Relevance Justification": "The article confirms the authenticity of a video showing a shark in a Florida neighborhood during Hurricane Ian, which is relevant but does not specify the flooded highway aspect."
+  }
+}
+2024-07-03 16:06:40,495 - INFO - complete_json_evidence_answer
+2024-07-03 16:06:40,495 - INFO - {'evidence0': {'Newness Score': 8, 'Newness Justification': 'The article from The Washington Post was published on October 1, 2022, which indicates that it is relatively recent compared to the current date of July 2024.', 'Relevance Score': 9, 'Relevance Justification': 'The article directly addresses the claim about a shark swimming on a flooded highway during Hurricane Ian, discussing the authenticity of the viral photo.'}, 'evidence1': {'Newness Score': 8, 'Newness Justification': 'The New York Times article was published on September 30, 2022, making it recent at the time of the claim.', 'Relevance Score': 8, 'Relevance Justification': 'The article specifically discusses the authenticity of images of a shark swimming during Hurricane Ian, which directly relates to the claim being evaluated.'}, 'evidence2': {'Newness Score': 7, 'Newness Justification': 'The Forbes article is from October 6, 2022, making it relatively recent but slightly older compared to other sources.', 'Relevance Score': 7, 'Relevance Justification': 'The article addresses the topic of sharks in flooded areas post-hurricane, which is relevant but slightly more general compared to the specific claim about the flooded highway.'}, 'evidence3': {'Newness Score': 8, 'Newness Justification': 'The Wikipedia page on Hurricane Shark was last updated recently and contains a collection of instances related to sharks in flooded urban areas.', 'Relevance Score': 8, 'Relevance Justification': 'While the Wikipedia page addresses the broader topic of sharks in flooded urban areas, it provides relevant background information related to the claim.'}, 'evidence4': {'Newness Score': 7, 'Newness Justification': 'The Newsweek article from September 30, 2022, is recent but not as fresh as some other sources.', 'Relevance Score': 7, 'Relevance Justification': 'The article discusses the trend of fake shark videos during hurricanes, which is relevant but slightly tangential to the specific claim about a flooded highway.'}, 'evidence5': {'Newness Score': 8, 'Newness Justification': 'The Business Insider article from September 30, 2022, is recent and closely aligns with the timeframe of the claim.', 'Relevance Score': 9, 'Relevance Justification': 'The article confirms the authenticity of a video showing a shark in a flooded backyard post-Hurricane Ian, directly related to the claim being evaluated.'}, 'evidence6': {'Newness Score': 6, 'Newness Justification': 'The Fox 35 Orlando news article is from September 30, 2022, making it relatively new but slightly older compared to some other sources.', 'Relevance Score': 7, 'Relevance Justification': 'The article discusses a video showing a shark in a flooded neighborhood, which is relevant but does not directly address the claim about a flooded highway.'}, 'evidence7': {'Newness Score': 7, 'Newness Justification': "The Newsweek article from November 10, 2022, is recent but falls outside the claim's immediate timeframe.", 'Relevance Score': 6, 'Relevance Justification': 'The article talks about shark hoaxes during hurricanes but does not directly address the specific claim about a flooded highway.'}, 'evidence8': {'Newness Score': 8, 'Newness Justification': "The CTV News article from September 29, 2022, is recent and closely aligned with the claim's timeframe.", 'Relevance Score': 8, 'Relevance Justification': 'The article discusses a video capturing a mystery fish in a flooded backyard during Hurricane Ian, which is relevant to the broader context of shark sightings post-hurricane.'}, 'evidence9': {'Newness Score': 7, 'Newness Justification': 'The New York Post article from September 30, 2022, is relatively new but not the most recent compared to other sources.', 'Relevance Score': 7, 'Relevance Justification': 'The article confirms the authenticity of a video showing a shark in a Florida neighborhood during Hurricane Ian, which is relevant but does not specify the flooded highway aspect.'}}
+2024-07-03 16:06:40,501 - INFO - all_transformed_evidence
+2024-07-03 16:06:40,501 - INFO - {'Query 1_evidence_1': {'title': 'Hurricane Ian: Is Video of Shark Swimming in Flooded Fort Myers ...', 'link': 'https://www.snopes.com/fact-check/video-shark-fort-myers-street/', 'snippet': 'Sep 29, 2022 ... Claim: A viral video authentically shows a shark swimming in a flooded street of Fort Myers, Florida, during Hurricane Ian in September 2022.', 'content': 'About this rating\nThe video is authentic and was shot by Fort Myers resident Dominic Cameratta as Hurricane Ian made landfall on Sept. 28, 2022. However ...\nIt has not been established with any certainty that the aquatic animal in the video is a shark.\nIn late September 2022, as Hurricane Ian was beginning to make landfall along the southern Florida coastline, a 10-second, low-resolution cellphone video that allegedly showed a shark swimming in floodwaters in Fort Myers went viral:\n\n\nThe viewing audience on social media was split as to its opinion on the authenticity of the footage. Many thought it was genuine, or at least likely so. Others, perhaps because they were more in tune with the long history of image fakery on the internet during major hurricanes, were skeptical. Some even insisted they\'d seen the video before in connection with other hurricanes. Skeptics and believers alike tagged Snopes, or searched our site, to try to authenticate it. As of this update, we can confirm the video is real, though the question of whether the creature seen in the video is a shark or some other type of aquatic animal remains unanswered.\nThe earliest posting of the video we\'re aware of is this one, tweeted on Sept. 28 at 10:12 a.m. EDT:\n\n\nGiven that a massive storm surge struck Fort Myers Beach on nearby Estero Island at approximately that hour, it\'s plausible that there was already some inland flooding.\nWe contacted a Twitter user named Brad Habuda, who was credited in one of the most viral tweets as the source of the video. Habuda told us (as well as his followers) that the footage was shot by a person named "Ed Bell" in Devonwood, a Fort Myers neighborhood. We asked Habuda additional questions about the video — such as how he obtained it — but he did not address them. Furthermore, no one under the name "Ed Bell" stepped forward to take credit for, or provide more details about, the video, nor were we able to locate that person.\nA separate Twitter account, @TruthsBeTold, tweeted the earliest known instance of the video, and that user told his followers that the video was shot by an unidentified friend. "Ok, I see everybody is wondering if this is the real deal or not," @TruthsBeTold tweeted. "It’s real and it’s from today. For obvious reasons my friend who sent this is a little out of communicato at the moment. I will be letting him know all those who have contacted me about the rights once he is safe." There were no further details about the friend in that account\'s timeline, including whether he is the same person mentioned above, "Ed Bell."\nA Sept. 29 thread tweeted by Storyful Deputy News Editor Rob McDonagh revealed the name of the person who actually did shoot the video, a Fort Myers resident named Dominic Cameratta, who provided proof that he shot it in the form of a pair of MP4 files whose metadata shows a creation date and time of Sept. 28, 2022, at just after 8:00 a.m. We contacted Cameratta, who had little to say beyond confirming that the video was his and not a hoax, but he did share the MP4 files with Snopes for verification. We also contacted McDonagh, who walked us through the steps he took to find and vet Cameratta.\nIn sum, the video is real and was shot by a Fort Myers resident on Sept. 28, but though the animal in the video appears to be a shark, and may well be a shark, we have no way to verify that, and it may not be possible to do so given the poor quality of the image.\nUpdate [Sept.29, 2022]: Updated to confirm the video is real; rating changed from "Research in Progress" to "Mixture."\nDavid Emery is a West Coast-based writer and editor with 25 years of experience fact-checking rumors, hoaxes, and contemporary legends.\nCompany\nNavigate\nSections\nAccount\n© 1995 - 2024 by Snopes Media Group Inc.\nThis material may not be reproduced without permission.\nSnopes and the Snopes.com logo are registered service marks of Snopes.com'}, 'Query 1_evidence_2': {'title': 'For Once, the Hurricane Shark Was Real - The New York Times', 'link': 'https://www.nytimes.com/2022/09/30/us/hurricane-shark-ian-hoax.html', 'snippet': 'Sep 30, 2022 ... ... video swimming on a street in Fort Myers, Fla., this week ... There it was, the same shark swimming down the highway in Hurricane Irene in 2011\xa0...', 'content': 'Advertisement\nSupported by\nShark memes have become synonymous with social media hoaxes. But an A.P. analysis and experts say a wayward finned creature was indeed captured on video swimming on a street in Fort Myers, Fla., this week.\nBy Daniel Victor\nTo professional fact-checkers who sort fact from fable on social media, Hurricane Shark has been a longtime nemesis.\nFor more than a decade, fake, grainy images of a shark swimming in waters it doesn’t belong in — usually a highway and a subway platform — have reliably circulated during nearly every major storm.\nIt was never real. Yet it kept coming up, shared without skepticism yet again, and the checkers of facts were forced to defeat it again, over and over.\nSo you can imagine their hesitant surprise when a new video emerged on Wednesday appearing to show a shark in a backyard near Fort Myers, Fla., which had been battered by Hurricane Ian and was beginning to flood. Though this video didn’t have the telltale signs of fakery that previous versions did, skepticism was warranted as it racked up millions of views on Twitter.\nThen evidence began emerging that it might actually be real. And on Thursday, both Storyful, a news agency, and The Associated Press confirmed its authenticity with interviews and examinations of the original clip’s metadata, nailing down a story reporters thought they would never write.\nIt was like discovering Bigfoot is real.\n“After over half a decade of debunking this hoax every time there was a flood or hurricane, I can’t believe I’m looking at an honest-to-god street shark,” wrote Jane Lytvynenko, a freelance reporter. “Good to finally meet you, pal.”\nWe are having trouble retrieving the article content.\nPlease enable JavaScript in your browser settings.\nThank you for your patience while we verify access. If you are in Reader mode please exit and\xa0log into\xa0your Times account, or\xa0subscribe\xa0for all of The Times.\nThank you for your patience while we verify access.\nAlready a subscriber?\xa0Log in.\nWant all of The Times?\xa0Subscribe.\nAdvertisement'}, 'Query 1_evidence_3': {'title': "'Shark' Filmed in Flooded Backyard in Florida After Hurricane Ian ...", 'link': 'https://www.businessinsider.com/shark-filmed-flooded-backyard-fort-myers-florida-after-hurricane-ian-2022-9', 'snippet': 'Sep 30, 2022 ... A viral video showed what appeared to be a shark stranded in a flooded Florida backyard during Hurricane Ian. Years of "hurricane shark"\xa0...', 'content': 'A viral video captured a wayward sea creature flopping around in a backyard in Fort Myers after Hurricane Ian pummeled southwest Florida with strong winds and flooding.\nA decade of previous "hurricane shark" hoaxes where people edited sharks onto flooded highways and subway stations spurred doubt that the shark video from Hurricane Ian was real.\nBut more than 13.5 million views later, the Associated Press analyzed the video and confirmed that the video wasn\'t doctored, and that it was taken Wednesday morning as Ian made landfall in the Sunshine State.\nRelated stories\nBack-to-back shark attacks in Florida, 2 critically injured. Why the Sunshine State tops the rankings of shark bites globally.\nA Texas coastal engineer says a simple home-buying decision saved his house from Hurricane Harvey — and could help other home-owners in flood zones\n"I didn\'t know what it was — it just looked like a fish or something," Dominic Cameratta, the Florida resident who took the video, told The Associated Press. "I zoomed in, and all my friends are like, \'It\'s like a shark, man!\'"\n \nCameratta, a local real estate developer living in Fort Myers, Florida, estimated the marine animal to be about four feet in length and may have swam from the ocean to a nearby retention pond via a creek. By the time he took the video, the pond was overflowing from floodwaters brought in by the hurricane, spilling the "shark" into his neighbor\'s backyard.\nExperts are still hesitant to call the animal a shark from just the video, but given the size of the creature and dorsal fins peaking above the water\'s surface, George Burgess, former director of the Florida Museum of Natural History\'s shark program, told the AP that it "appears to be a juvenile shark."\n"Young bull sharks are common inhabitants of low salinity waters — rivers, estuaries, subtropical embayments — and often appear in similar videos in FL water bodies connected to the sea such as coastal canals and ponds," Burgess told the AP. "Assuming the location and date attributes are correct, it is likely this shark was swept shoreward with the rising seas."\nOther experts weren\'t as ready to classify the large aquatic animal as a shark. Dr. Neil Hammerschlag, director of the shark conservation program at the University of Miami, told the AP that it was "pretty hard to tell," and Leslie Guelcher, a professor at Mercyhurst University, was initially skeptical of the video\'s authenticity as well.\n"It makes a bit more sense from a flooding standpoint," she told the AP in an email. "But how on earth would a shark go from the Gulf of Mexico to a retention pond?"\nResearch shows that sharks can feel the change in barometric pressure ahead of large storms, including hurricanes, according to Shark Angels, an environmental nonprofit dedicated to shark conservation, which could explain why the Fort Myers shark was compelled to swim up the creek to the retention pond.\nRead next\nBack-to-back shark attacks in Florida, 2 critically injured. Why the Sunshine State tops the rankings of shark bites globally.\nA Texas coastal engineer says a simple home-buying decision saved his house from Hurricane Harvey — and could help other home-owners in flood zones\nA luxury Viking cruise ship helped scientists encounter the rarely-seen giant phantom jellyfish\nJump to'}, 'Query 2_evidence_1': {'title': 'Video appears to show shark in Florida backyard during Hurricane Ian', 'link': 'https://www.washingtonpost.com/climate-environment/2022/10/01/hurricane-ian-shark-florida/', 'snippet': 'Oct 1, 2022 ... ... real — even if there is no confirmation ... One image of a shark swimming along a flooded highway was uploaded after Hurricane Irene hit Puerto\xa0...', 'content': 'clockThis article was published more than\xa01 year ago\nFor years, there has been a deluge of fake videos and memes after major storms that claim to show sharks swimming in flooded streets. So when a video purporting to show a shark in an inundated backyard in Fort Myers, Fla., surfaced during Hurricane Ian this week, gathering millions of views on Twitter, viewers were skeptical.\nBut this time, the recording was real — even if there is no confirmation yet that what it depicted was a shark, according to Storyful, which first authenticated the video, and the Associated Press. The news agencies interviewed Dominic Cameratta, a real estate agent who filmed it with his cellphone, and reviewed the clip’s metadata to confirm it was recorded this week.\nThe video shows a fish that looks to be 4 feet long, with sharp dorsal fins, flipping and flopping in the water. “I didn’t know what it was,” Cameratta said. “I zoomed in, and all my friends were like, ‘It’s like a shark, man!’”\nExperts interviewed by the AP voiced mixed opinions on whether it was indeed a shark. George Burgess, a former director of the Florida Museum of Natural History’s shark program, said the fish appears to be a juvenile shark. But Neil Hammerschlag, the director of the University of Miami’s shark conservation program, said it was difficult to tell what it was.\nWhat’s been happening with animals in Florida during Hurricane Ian?\nImages purportedly showing sharks in urban areas after hurricanes and major floods have been repeatedly debunked since at least 2011, according to Snopes, a fact-checking website.\nOne image of a shark swimming along a flooded highway was uploaded after Hurricane Irene hit Puerto Rico in August 2011. The same image has been widely recirculated after subsequent storms in different areas: In 2016, it was in Daytona Beach, Fla.; a year later, in Houston; and in 2018, it was in Wrightsville Beach, N.C.\nSnopes reported that the original image from 2011 also was a hoax. It incorporated a 2005 photograph of a kayaker being trailed by a great white shark.\nHurricane Ian has devastated Florida, killing at least 23 people, according to state officials. It made its second landfall in the United States on Friday, hitting coastal South Carolina as a Category 1 storm with lashing rains and strong winds.'}, 'Query 2_evidence_2': {'title': "'Shark' Filmed in Flooded Backyard in Florida After Hurricane Ian ...", 'link': 'https://www.businessinsider.com/shark-filmed-flooded-backyard-fort-myers-florida-after-hurricane-ian-2022-9', 'snippet': 'Sep 30, 2022 ... Years of "hurricane shark" hoaxes made people skeptical if the video was real. The AP confirmed the video\'s authenticity, though there\'s still\xa0...', 'content': 'A viral video captured a wayward sea creature flopping around in a backyard in Fort Myers after Hurricane Ian pummeled southwest Florida with strong winds and flooding.\nA decade of previous "hurricane shark" hoaxes where people edited sharks onto flooded highways and subway stations spurred doubt that the shark video from Hurricane Ian was real.\nBut more than 13.5 million views later, the Associated Press analyzed the video and confirmed that the video wasn\'t doctored, and that it was taken Wednesday morning as Ian made landfall in the Sunshine State.\nRelated stories\nBack-to-back shark attacks in Florida, 2 critically injured. Why the Sunshine State tops the rankings of shark bites globally.\nBuy this quiet corner of the stock market as the US braces for a highly active hurricane season, research firm says\n"I didn\'t know what it was — it just looked like a fish or something," Dominic Cameratta, the Florida resident who took the video, told The Associated Press. "I zoomed in, and all my friends are like, \'It\'s like a shark, man!\'"\n \nCameratta, a local real estate developer living in Fort Myers, Florida, estimated the marine animal to be about four feet in length and may have swam from the ocean to a nearby retention pond via a creek. By the time he took the video, the pond was overflowing from floodwaters brought in by the hurricane, spilling the "shark" into his neighbor\'s backyard.\nExperts are still hesitant to call the animal a shark from just the video, but given the size of the creature and dorsal fins peaking above the water\'s surface, George Burgess, former director of the Florida Museum of Natural History\'s shark program, told the AP that it "appears to be a juvenile shark."\n"Young bull sharks are common inhabitants of low salinity waters — rivers, estuaries, subtropical embayments — and often appear in similar videos in FL water bodies connected to the sea such as coastal canals and ponds," Burgess told the AP. "Assuming the location and date attributes are correct, it is likely this shark was swept shoreward with the rising seas."\nOther experts weren\'t as ready to classify the large aquatic animal as a shark. Dr. Neil Hammerschlag, director of the shark conservation program at the University of Miami, told the AP that it was "pretty hard to tell," and Leslie Guelcher, a professor at Mercyhurst University, was initially skeptical of the video\'s authenticity as well.\n"It makes a bit more sense from a flooding standpoint," she told the AP in an email. "But how on earth would a shark go from the Gulf of Mexico to a retention pond?"\nResearch shows that sharks can feel the change in barometric pressure ahead of large storms, including hurricanes, according to Shark Angels, an environmental nonprofit dedicated to shark conservation, which could explain why the Fort Myers shark was compelled to swim up the creek to the retention pond.\nRead next\nBack-to-back shark attacks in Florida, 2 critically injured. Why the Sunshine State tops the rankings of shark bites globally.\nA Texas coastal engineer says a simple home-buying decision saved his house from Hurricane Harvey — and could help other home-owners in flood zones\nA luxury Viking cruise ship helped scientists encounter the rarely-seen giant phantom jellyfish\nJump to'}, 'Query 2_evidence_3': {'title': 'For Once, the Hurricane Shark Was Real - The New York Times', 'link': 'https://www.nytimes.com/2022/09/30/us/hurricane-shark-ian-hoax.html', 'snippet': 'Sep 30, 2022 ... For more than a decade, fake, grainy images of a shark swimming in ... Hurricane Ian and was beginning to flood. Though this video didn\xa0...', 'content': 'Advertisement\nSupported by\nShark memes have become synonymous with social media hoaxes. But an A.P. analysis and experts say a wayward finned creature was indeed captured on video swimming on a street in Fort Myers, Fla., this week.\nBy Daniel Victor\nTo professional fact-checkers who sort fact from fable on social media, Hurricane Shark has been a longtime nemesis.\nFor more than a decade, fake, grainy images of a shark swimming in waters it doesn’t belong in — usually a highway and a subway platform — have reliably circulated during nearly every major storm.\nIt was never real. Yet it kept coming up, shared without skepticism yet again, and the checkers of facts were forced to defeat it again, over and over.\nSo you can imagine their hesitant surprise when a new video emerged on Wednesday appearing to show a shark in a backyard near Fort Myers, Fla., which had been battered by Hurricane Ian and was beginning to flood. Though this video didn’t have the telltale signs of fakery that previous versions did, skepticism was warranted as it racked up millions of views on Twitter.\nThen evidence began emerging that it might actually be real. And on Thursday, both Storyful, a news agency, and The Associated Press confirmed its authenticity with interviews and examinations of the original clip’s metadata, nailing down a story reporters thought they would never write.\nIt was like discovering Bigfoot is real.\n“After over half a decade of debunking this hoax every time there was a flood or hurricane, I can’t believe I’m looking at an honest-to-god street shark,” wrote Jane Lytvynenko, a freelance reporter. “Good to finally meet you, pal.”\nWe are having trouble retrieving the article content.\nPlease enable JavaScript in your browser settings.\nThank you for your patience while we verify access. If you are in Reader mode please exit and\xa0log into\xa0your Times account, or\xa0subscribe\xa0for all of The Times.\nThank you for your patience while we verify access.\nAlready a subscriber?\xa0Log in.\nWant all of The Times?\xa0Subscribe.\nAdvertisement'}}
+2024-07-03 16:06:40,502 - INFO - prompt_for_question_answer_based_on_evidence
+2024-07-03 16:06:40,502 - INFO - 
+    {
+      "Claim": "A video showing a shark swimming on a flooded highway during Hurricane Ian in Florida is real.",
+      "Video_information": {
+    "Video_headline": "Fact-Checking Viral Photos",
+    "Video_transcript": "",
+    "Video_description_on_platform": "This video analyzes and debunks the viral photo of a shark allegedly swimming on a flooded highway.",
+    "Video_platform": "youtube",
+    "Video_date": "2023_08_07",
+    "Video_description_from_descriptor": "A critical examination of viral photos, including the infamous shark on a flooded highway."
+},
+      "QA_CONTEXTS": {},
+      "New_Question": {
+        "Question": "What is the original source of the shark swimming on a flooded highway?"
+      },
+      "Queries": {
+    "Query 1": "What is the original source of the viral video showing a shark swimming on a flooded highway during Hurricane Ian in Florida?",
+    "Query 2": "Is the video showing a shark on a flooded highway during Hurricane Ian in Florida confirmed to be real or fake?"
+},
+      "Good evidence information": {
+    "Query 1_evidence_1": {
+        "title": "Hurricane Ian: Is Video of Shark Swimming in Flooded Fort Myers ...",
+        "link": "https://www.snopes.com/fact-check/video-shark-fort-myers-street/",
+        "snippet": "Sep 29, 2022 ... Claim: A viral video authentically shows a shark swimming in a flooded street of Fort Myers, Florida, during Hurricane Ian in September 2022.",
+        "content": "About this rating\nThe video is authentic and was shot by Fort Myers resident Dominic Cameratta as Hurricane Ian made landfall on Sept. 28, 2022. However ...\nIt has not been established with any certainty that the aquatic animal in the video is a shark.\nIn late September 2022, as Hurricane Ian was beginning to make landfall along the southern Florida coastline, a 10-second, low-resolution cellphone video that allegedly showed a shark swimming in floodwaters in Fort Myers went viral:\n\n\nThe viewing audience on social media was split as to its opinion on the authenticity of the footage. Many thought it was genuine, or at least likely so. Others, perhaps because they were more in tune with the long history of image fakery on the internet during major hurricanes, were skeptical. Some even insisted they'd seen the video before in connection with other hurricanes. Skeptics and believers alike tagged Snopes, or searched our site, to try to authenticate it. As of this update, we can confirm the video is real, though the question of whether the creature seen in the video is a shark or some other type of aquatic animal remains unanswered.\nThe earliest posting of the video we're aware of is this one, tweeted on Sept. 28 at 10:12 a.m. EDT:\n\n\nGiven that a massive storm surge struck Fort Myers Beach on nearby Estero Island at approximately that hour, it's plausible that there was already some inland flooding.\nWe contacted a Twitter user named Brad Habuda, who was credited in one of the most viral tweets as the source of the video. Habuda told us (as well as his followers) that the footage was shot by a person named \"Ed Bell\" in Devonwood, a Fort Myers neighborhood. We asked Habuda additional questions about the video — such as how he obtained it — but he did not address them. Furthermore, no one under the name \"Ed Bell\" stepped forward to take credit for, or provide more details about, the video, nor were we able to locate that person.\nA separate Twitter account, @TruthsBeTold, tweeted the earliest known instance of the video, and that user told his followers that the video was shot by an unidentified friend. \"Ok, I see everybody is wondering if this is the real deal or not,\" @TruthsBeTold tweeted. \"It’s real and it’s from today. For obvious reasons my friend who sent this is a little out of communicato at the moment. I will be letting him know all those who have contacted me about the rights once he is safe.\" There were no further details about the friend in that account's timeline, including whether he is the same person mentioned above, \"Ed Bell.\"\nA Sept. 29 thread tweeted by Storyful Deputy News Editor Rob McDonagh revealed the name of the person who actually did shoot the video, a Fort Myers resident named Dominic Cameratta, who provided proof that he shot it in the form of a pair of MP4 files whose metadata shows a creation date and time of Sept. 28, 2022, at just after 8:00 a.m. We contacted Cameratta, who had little to say beyond confirming that the video was his and not a hoax, but he did share the MP4 files with Snopes for verification. We also contacted McDonagh, who walked us through the steps he took to find and vet Cameratta.\nIn sum, the video is real and was shot by a Fort Myers resident on Sept. 28, but though the animal in the video appears to be a shark, and may well be a shark, we have no way to verify that, and it may not be possible to do so given the poor quality of the image.\nUpdate [Sept.29, 2022]: Updated to confirm the video is real; rating changed from \"Research in Progress\" to \"Mixture.\"\nDavid Emery is a West Coast-based writer and editor with 25 years of experience fact-checking rumors, hoaxes, and contemporary legends.\nCompany\nNavigate\nSections\nAccount\n© 1995 - 2024 by Snopes Media Group Inc.\nThis material may not be reproduced without permission.\nSnopes and the Snopes.com logo are registered service marks of Snopes.com"
+    },
+    "Query 1_evidence_2": {
+        "title": "For Once, the Hurricane Shark Was Real - The New York Times",
+        "link": "https://www.nytimes.com/2022/09/30/us/hurricane-shark-ian-hoax.html",
+        "snippet": "Sep 30, 2022 ... ... video swimming on a street in Fort Myers, Fla., this week ... There it was, the same shark swimming down the highway in Hurricane Irene in 2011 ...",
+        "content": "Advertisement\nSupported by\nShark memes have become synonymous with social media hoaxes. But an A.P. analysis and experts say a wayward finned creature was indeed captured on video swimming on a street in Fort Myers, Fla., this week.\nBy Daniel Victor\nTo professional fact-checkers who sort fact from fable on social media, Hurricane Shark has been a longtime nemesis.\nFor more than a decade, fake, grainy images of a shark swimming in waters it doesn’t belong in — usually a highway and a subway platform — have reliably circulated during nearly every major storm.\nIt was never real. Yet it kept coming up, shared without skepticism yet again, and the checkers of facts were forced to defeat it again, over and over.\nSo you can imagine their hesitant surprise when a new video emerged on Wednesday appearing to show a shark in a backyard near Fort Myers, Fla., which had been battered by Hurricane Ian and was beginning to flood. Though this video didn’t have the telltale signs of fakery that previous versions did, skepticism was warranted as it racked up millions of views on Twitter.\nThen evidence began emerging that it might actually be real. And on Thursday, both Storyful, a news agency, and The Associated Press confirmed its authenticity with interviews and examinations of the original clip’s metadata, nailing down a story reporters thought they would never write.\nIt was like discovering Bigfoot is real.\n“After over half a decade of debunking this hoax every time there was a flood or hurricane, I can’t believe I’m looking at an honest-to-god street shark,” wrote Jane Lytvynenko, a freelance reporter. “Good to finally meet you, pal.”\nWe are having trouble retrieving the article content.\nPlease enable JavaScript in your browser settings.\nThank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times.\nThank you for your patience while we verify access.\nAlready a subscriber? Log in.\nWant all of The Times? Subscribe.\nAdvertisement"
+    },
+    "Query 1_evidence_3": {
+        "title": "'Shark' Filmed in Flooded Backyard in Florida After Hurricane Ian ...",
+        "link": "https://www.businessinsider.com/shark-filmed-flooded-backyard-fort-myers-florida-after-hurricane-ian-2022-9",
+        "snippet": "Sep 30, 2022 ... A viral video showed what appeared to be a shark stranded in a flooded Florida backyard during Hurricane Ian. Years of \"hurricane shark\" ...",
+        "content": "A viral video captured a wayward sea creature flopping around in a backyard in Fort Myers after Hurricane Ian pummeled southwest Florida with strong winds and flooding.\nA decade of previous \"hurricane shark\" hoaxes where people edited sharks onto flooded highways and subway stations spurred doubt that the shark video from Hurricane Ian was real.\nBut more than 13.5 million views later, the Associated Press analyzed the video and confirmed that the video wasn't doctored, and that it was taken Wednesday morning as Ian made landfall in the Sunshine State.\nRelated stories\nBack-to-back shark attacks in Florida, 2 critically injured. Why the Sunshine State tops the rankings of shark bites globally.\nA Texas coastal engineer says a simple home-buying decision saved his house from Hurricane Harvey — and could help other home-owners in flood zones\n\"I didn't know what it was — it just looked like a fish or something,\" Dominic Cameratta, the Florida resident who took the video, told The Associated Press. \"I zoomed in, and all my friends are like, 'It's like a shark, man!'\"\n \nCameratta, a local real estate developer living in Fort Myers, Florida, estimated the marine animal to be about four feet in length and may have swam from the ocean to a nearby retention pond via a creek. By the time he took the video, the pond was overflowing from floodwaters brought in by the hurricane, spilling the \"shark\" into his neighbor's backyard.\nExperts are still hesitant to call the animal a shark from just the video, but given the size of the creature and dorsal fins peaking above the water's surface, George Burgess, former director of the Florida Museum of Natural History's shark program, told the AP that it \"appears to be a juvenile shark.\"\n\"Young bull sharks are common inhabitants of low salinity waters — rivers, estuaries, subtropical embayments — and often appear in similar videos in FL water bodies connected to the sea such as coastal canals and ponds,\" Burgess told the AP. \"Assuming the location and date attributes are correct, it is likely this shark was swept shoreward with the rising seas.\"\nOther experts weren't as ready to classify the large aquatic animal as a shark. Dr. Neil Hammerschlag, director of the shark conservation program at the University of Miami, told the AP that it was \"pretty hard to tell,\" and Leslie Guelcher, a professor at Mercyhurst University, was initially skeptical of the video's authenticity as well.\n\"It makes a bit more sense from a flooding standpoint,\" she told the AP in an email. \"But how on earth would a shark go from the Gulf of Mexico to a retention pond?\"\nResearch shows that sharks can feel the change in barometric pressure ahead of large storms, including hurricanes, according to Shark Angels, an environmental nonprofit dedicated to shark conservation, which could explain why the Fort Myers shark was compelled to swim up the creek to the retention pond.\nRead next\nBack-to-back shark attacks in Florida, 2 critically injured. Why the Sunshine State tops the rankings of shark bites globally.\nA Texas coastal engineer says a simple home-buying decision saved his house from Hurricane Harvey — and could help other home-owners in flood zones\nA luxury Viking cruise ship helped scientists encounter the rarely-seen giant phantom jellyfish\nJump to"
+    },
+    "Query 2_evidence_1": {
+        "title": "Video appears to show shark in Florida backyard during Hurricane Ian",
+        "link": "https://www.washingtonpost.com/climate-environment/2022/10/01/hurricane-ian-shark-florida/",
+        "snippet": "Oct 1, 2022 ... ... real — even if there is no confirmation ... One image of a shark swimming along a flooded highway was uploaded after Hurricane Irene hit Puerto ...",
+        "content": "clockThis article was published more than 1 year ago\nFor years, there has been a deluge of fake videos and memes after major storms that claim to show sharks swimming in flooded streets. So when a video purporting to show a shark in an inundated backyard in Fort Myers, Fla., surfaced during Hurricane Ian this week, gathering millions of views on Twitter, viewers were skeptical.\nBut this time, the recording was real — even if there is no confirmation yet that what it depicted was a shark, according to Storyful, which first authenticated the video, and the Associated Press. The news agencies interviewed Dominic Cameratta, a real estate agent who filmed it with his cellphone, and reviewed the clip’s metadata to confirm it was recorded this week.\nThe video shows a fish that looks to be 4 feet long, with sharp dorsal fins, flipping and flopping in the water. “I didn’t know what it was,” Cameratta said. “I zoomed in, and all my friends were like, ‘It’s like a shark, man!’”\nExperts interviewed by the AP voiced mixed opinions on whether it was indeed a shark. George Burgess, a former director of the Florida Museum of Natural History’s shark program, said the fish appears to be a juvenile shark. But Neil Hammerschlag, the director of the University of Miami’s shark conservation program, said it was difficult to tell what it was.\nWhat’s been happening with animals in Florida during Hurricane Ian?\nImages purportedly showing sharks in urban areas after hurricanes and major floods have been repeatedly debunked since at least 2011, according to Snopes, a fact-checking website.\nOne image of a shark swimming along a flooded highway was uploaded after Hurricane Irene hit Puerto Rico in August 2011. The same image has been widely recirculated after subsequent storms in different areas: In 2016, it was in Daytona Beach, Fla.; a year later, in Houston; and in 2018, it was in Wrightsville Beach, N.C.\nSnopes reported that the original image from 2011 also was a hoax. It incorporated a 2005 photograph of a kayaker being trailed by a great white shark.\nHurricane Ian has devastated Florida, killing at least 23 people, according to state officials. It made its second landfall in the United States on Friday, hitting coastal South Carolina as a Category 1 storm with lashing rains and strong winds."
+    },
+    "Query 2_evidence_2": {
+        "title": "'Shark' Filmed in Flooded Backyard in Florida After Hurricane Ian ...",
+        "link": "https://www.businessinsider.com/shark-filmed-flooded-backyard-fort-myers-florida-after-hurricane-ian-2022-9",
+        "snippet": "Sep 30, 2022 ... Years of \"hurricane shark\" hoaxes made people skeptical if the video was real. The AP confirmed the video's authenticity, though there's still ...",
+        "content": "A viral video captured a wayward sea creature flopping around in a backyard in Fort Myers after Hurricane Ian pummeled southwest Florida with strong winds and flooding.\nA decade of previous \"hurricane shark\" hoaxes where people edited sharks onto flooded highways and subway stations spurred doubt that the shark video from Hurricane Ian was real.\nBut more than 13.5 million views later, the Associated Press analyzed the video and confirmed that the video wasn't doctored, and that it was taken Wednesday morning as Ian made landfall in the Sunshine State.\nRelated stories\nBack-to-back shark attacks in Florida, 2 critically injured. Why the Sunshine State tops the rankings of shark bites globally.\nBuy this quiet corner of the stock market as the US braces for a highly active hurricane season, research firm says\n\"I didn't know what it was — it just looked like a fish or something,\" Dominic Cameratta, the Florida resident who took the video, told The Associated Press. \"I zoomed in, and all my friends are like, 'It's like a shark, man!'\"\n \nCameratta, a local real estate developer living in Fort Myers, Florida, estimated the marine animal to be about four feet in length and may have swam from the ocean to a nearby retention pond via a creek. By the time he took the video, the pond was overflowing from floodwaters brought in by the hurricane, spilling the \"shark\" into his neighbor's backyard.\nExperts are still hesitant to call the animal a shark from just the video, but given the size of the creature and dorsal fins peaking above the water's surface, George Burgess, former director of the Florida Museum of Natural History's shark program, told the AP that it \"appears to be a juvenile shark.\"\n\"Young bull sharks are common inhabitants of low salinity waters — rivers, estuaries, subtropical embayments — and often appear in similar videos in FL water bodies connected to the sea such as coastal canals and ponds,\" Burgess told the AP. \"Assuming the location and date attributes are correct, it is likely this shark was swept shoreward with the rising seas.\"\nOther experts weren't as ready to classify the large aquatic animal as a shark. Dr. Neil Hammerschlag, director of the shark conservation program at the University of Miami, told the AP that it was \"pretty hard to tell,\" and Leslie Guelcher, a professor at Mercyhurst University, was initially skeptical of the video's authenticity as well.\n\"It makes a bit more sense from a flooding standpoint,\" she told the AP in an email. \"But how on earth would a shark go from the Gulf of Mexico to a retention pond?\"\nResearch shows that sharks can feel the change in barometric pressure ahead of large storms, including hurricanes, according to Shark Angels, an environmental nonprofit dedicated to shark conservation, which could explain why the Fort Myers shark was compelled to swim up the creek to the retention pond.\nRead next\nBack-to-back shark attacks in Florida, 2 critically injured. Why the Sunshine State tops the rankings of shark bites globally.\nA Texas coastal engineer says a simple home-buying decision saved his house from Hurricane Harvey — and could help other home-owners in flood zones\nA luxury Viking cruise ship helped scientists encounter the rarely-seen giant phantom jellyfish\nJump to"
+    },
+    "Query 2_evidence_3": {
+        "title": "For Once, the Hurricane Shark Was Real - The New York Times",
+        "link": "https://www.nytimes.com/2022/09/30/us/hurricane-shark-ian-hoax.html",
+        "snippet": "Sep 30, 2022 ... For more than a decade, fake, grainy images of a shark swimming in ... Hurricane Ian and was beginning to flood. Though this video didn ...",
+        "content": "Advertisement\nSupported by\nShark memes have become synonymous with social media hoaxes. But an A.P. analysis and experts say a wayward finned creature was indeed captured on video swimming on a street in Fort Myers, Fla., this week.\nBy Daniel Victor\nTo professional fact-checkers who sort fact from fable on social media, Hurricane Shark has been a longtime nemesis.\nFor more than a decade, fake, grainy images of a shark swimming in waters it doesn’t belong in — usually a highway and a subway platform — have reliably circulated during nearly every major storm.\nIt was never real. Yet it kept coming up, shared without skepticism yet again, and the checkers of facts were forced to defeat it again, over and over.\nSo you can imagine their hesitant surprise when a new video emerged on Wednesday appearing to show a shark in a backyard near Fort Myers, Fla., which had been battered by Hurricane Ian and was beginning to flood. Though this video didn’t have the telltale signs of fakery that previous versions did, skepticism was warranted as it racked up millions of views on Twitter.\nThen evidence began emerging that it might actually be real. And on Thursday, both Storyful, a news agency, and The Associated Press confirmed its authenticity with interviews and examinations of the original clip’s metadata, nailing down a story reporters thought they would never write.\nIt was like discovering Bigfoot is real.\n“After over half a decade of debunking this hoax every time there was a flood or hurricane, I can’t believe I’m looking at an honest-to-god street shark,” wrote Jane Lytvynenko, a freelance reporter. “Good to finally meet you, pal.”\nWe are having trouble retrieving the article content.\nPlease enable JavaScript in your browser settings.\nThank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times.\nThank you for your patience while we verify access.\nAlready a subscriber? Log in.\nWant all of The Times? Subscribe.\nAdvertisement"
+    }
+},
+      "Task": "Based on the evidence extracted, generate an explanatory answer to the question: 'What is the original source of the shark swimming on a flooded highway?' that references the evidence. Evaluate the confidence (XX%) of your answer based on the analysis of the above evaluation of the evidence and the logic of the reasoning process."
+    }
+    
+2024-07-03 16:06:40,504 - INFO - Token count: 4681
+2024-07-03 16:06:45,690 - INFO - prompt_for_question_answer_based_on_evidence ANSWER
+2024-07-03 16:06:45,690 - INFO - The original source of the viral video showing a shark swimming on a flooded highway during Hurricane Ian in Florida can be traced back to a Fort Myers resident named Dominic Cameratta. The video was shot by Dominic Cameratta as Hurricane Ian made landfall on September 28, 2022. The authenticity of the video has been confirmed through various sources such as Storyful, The Associated Press, and others who analyzed the original clip's metadata.
+
+The evidence gathered from multiple reputable sources, including Snopes, The New York Times, and Business Insider, supports the conclusion that the video is real and that it was indeed shot by Dominic Cameratta. While the video's authenticity is confirmed, it remains uncertain whether the creature seen in the video is definitively a shark or some other type of aquatic animal, as experts have expressed mixed opinions on the matter.
+
+Overall, based on the comprehensive analysis of the evidence provided and the verification processes conducted by reputable news agencies, the confidence level of this answer is high at 95%.
+2024-07-03 16:06:45,690 - INFO - format_final_prompt
+2024-07-03 16:06:45,690 - INFO - 
+    Please convert the given text content into the specified JSON structure. Ensure that the output is properly formatted as JSON.
+
+    Desired JSON structure:
+    {
+      "QA": {
+        "Question": "What is the original source of the shark swimming on a flooded highway?",
+        "Answer": "",
+        "Confidence": ""
+      }
+    }
+
+    Please note: Only modify the structure of the given following content, keeping the content as intact as possible and preserving the original language and descriptions.
+
+    Text content to be converted:
+    "The original source of the viral video showing a shark swimming on a flooded highway during Hurricane Ian in Florida can be traced back to a Fort Myers resident named Dominic Cameratta. The video was shot by Dominic Cameratta as Hurricane Ian made landfall on September 28, 2022. The authenticity of the video has been confirmed through various sources such as Storyful, The Associated Press, and others who analyzed the original clip's metadata.
+
+The evidence gathered from multiple reputable sources, including Snopes, The New York Times, and Business Insider, supports the conclusion that the video is real and that it was indeed shot by Dominic Cameratta. While the video's authenticity is confirmed, it remains uncertain whether the creature seen in the video is definitively a shark or some other type of aquatic animal, as experts have expressed mixed opinions on the matter.
+
+Overall, based on the comprehensive analysis of the evidence provided and the verification processes conducted by reputable news agencies, the confidence level of this answer is high at 95%."
+    
+2024-07-03 16:06:50,801 - INFO - final_json_answer
+2024-07-03 16:06:50,801 - INFO - {'QA': {'Question': 'What is the original source of the shark swimming on a flooded highway?', 'Answer': "The original source of the viral video showing a shark swimming on a flooded highway during Hurricane Ian in Florida can be traced back to a Fort Myers resident named Dominic Cameratta. The video was shot by Dominic Cameratta as Hurricane Ian made landfall on September 28, 2022. The authenticity of the video has been confirmed through various sources such as Storyful, The Associated Press, and others who analyzed the original clip's metadata. The evidence gathered from multiple reputable sources, including Snopes, The New York Times, and Business Insider, supports the conclusion that the video is real and that it was indeed shot by Dominic Cameratta. While the video's authenticity is confirmed, it remains uncertain whether the creature seen in the video is definitively a shark or some other type of aquatic animal, as experts have expressed mixed opinions on the matter. Overall, based on the comprehensive analysis of the evidence provided and the verification processes conducted by reputable news agencies, the confidence level of this answer is high at 95%.", 'Confidence': '95%'}}
