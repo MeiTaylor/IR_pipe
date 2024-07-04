@@ -1,0 +1,57 @@
+2024-07-04 15:26:08,198 - INFO - Generating new query questions, attempt #1
+2024-07-04 15:26:08,199 - INFO - Prompts for Queries Generation
+2024-07-04 15:26:08,199 - INFO - 
+{
+  "Claim": "A video showing a shark swimming on a flooded highway during Hurricane Ian in Florida.",
+  "Video_information": {"Video_headline": "a shark swimming on a flooded highway", "Video_transcript": "", "Video_description_on_platform": "This video analyzes and debunks the photo of a shark allegedly swimming on a flooded highway.", "Video_platform": "youtube", "Video_date": "2023_08_07", "Video_description_from_descriptor": "A video, including the shark on a flooded highway."},
+  "QA_CONTEXTS": {},
+  "New_Question": {
+    "Question": "What is the original source of the shark swimming on a flooded highway?"
+  },
+  "Task": "In order to better answer the 'Question': 'What is the original source of the shark swimming on a flooded highway?', please determine what information is required and design two new queries to search for this information on Google. These two queries should be specifically aimed at retrieving relevant information from the web to better answer the 'Question': 'What is the original source of the shark swimming on a flooded highway?'. Please note that the generated queries should not exceed two, and they should focus on different aspects and not be repetitive. The above 'Claim', 'Video_information', and 'QA_CONTEXTS' are just background information and should be used for reference only, not for generating the queries.",
+  "Queries": {
+    "Query 1": "",
+    "Query 2": ""
+  }
+}
+
+2024-07-04 15:26:14,970 - INFO - Query Complete JSON Answer
+2024-07-04 15:26:14,970 - INFO - {'Queries': {'Query 1': 'Shark swimming on flooded highway Hurricane Ian Florida original source', 'Query 2': 'Origin of viral shark flooded highway video during Hurricane Ian Florida'}}
+2024-07-04 15:26:14,972 - INFO - Generating new query questions, attempt #2
+2024-07-04 15:26:14,972 - INFO - Prompts for Queries Generation
+2024-07-04 15:26:14,972 - INFO - 
+{
+  "Claim": "A video showing a shark swimming on a flooded highway during Hurricane Ian in Florida.",
+  "Video_information": {"Video_headline": "a shark swimming on a flooded highway", "Video_transcript": "", "Video_description_on_platform": "This video analyzes and debunks the photo of a shark allegedly swimming on a flooded highway.", "Video_platform": "youtube", "Video_date": "2023_08_07", "Video_description_from_descriptor": "A video, including the shark on a flooded highway."},
+  "QA_CONTEXTS": {},
+  "New_Question": {
+    "Question": "What is the original source of the shark swimming on a flooded highway?"
+  },
+  "Task": "In order to better answer the 'Question': 'What is the original source of the shark swimming on a flooded highway?', please determine what information is required and design two new queries to search for this information on Google. These two queries should be specifically aimed at retrieving relevant information from the web to better answer the 'Question': 'What is the original source of the shark swimming on a flooded highway?'. Please note that the generated queries should not exceed two, and they should focus on different aspects and not be repetitive. The above 'Claim', 'Video_information', and 'QA_CONTEXTS' are just background information and should be used for reference only, not for generating the queries.",
+  "Queries": {
+    "Query 1": "",
+    "Query 2": ""
+  }
+}
+
+2024-07-04 15:26:19,403 - INFO - Query Complete JSON Answer
+2024-07-04 15:26:19,403 - INFO - {'Queries': {'Query 1': 'Shark swimming flooded highway Hurricane Ian original video source', 'Query 2': 'Origins of viral video shark flooded highway during Hurricane Ian Florida'}}
+2024-07-04 15:26:19,409 - INFO - Generating new query questions, attempt #3
+2024-07-04 15:26:19,409 - INFO - Prompts for Queries Generation
+2024-07-04 15:26:19,409 - INFO - 
+{
+  "Claim": "A video showing a shark swimming on a flooded highway during Hurricane Ian in Florida.",
+  "Video_information": {"Video_headline": "a shark swimming on a flooded highway", "Video_transcript": "", "Video_description_on_platform": "This video analyzes and debunks the photo of a shark allegedly swimming on a flooded highway.", "Video_platform": "youtube", "Video_date": "2023_08_07", "Video_description_from_descriptor": "A video, including the shark on a flooded highway."},
+  "QA_CONTEXTS": {},
+  "New_Question": {
+    "Question": "What is the original source of the shark swimming on a flooded highway?"
+  },
+  "Task": "In order to better answer the 'Question': 'What is the original source of the shark swimming on a flooded highway?', please determine what information is required and design two new queries to search for this information on Google. These two queries should be specifically aimed at retrieving relevant information from the web to better answer the 'Question': 'What is the original source of the shark swimming on a flooded highway?'. Please note that the generated queries should not exceed two, and they should focus on different aspects and not be repetitive. The above 'Claim', 'Video_information', and 'QA_CONTEXTS' are just background information and should be used for reference only, not for generating the queries.",
+  "Queries": {
+    "Query 1": "",
+    "Query 2": ""
+  }
+}
+
+2024-07-04 15:26:24,726 - INFO - Query Complete JSON Answer
+2024-07-04 15:26:24,726 - INFO - {'Queries': {'Query 1': 'Search for news articles or reports mentioning the origin or source of the video showing a shark swimming on a flooded highway during Hurricane Ian in Florida.', 'Query 2': 'Look for social media posts or eyewitness accounts related to the video showing a shark swimming on a flooded highway during Hurricane Ian in Florida to gather insights about its original source.'}}
