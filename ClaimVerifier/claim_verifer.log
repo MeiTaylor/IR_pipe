@@ -1,0 +1,108 @@
+2024-07-12 17:55:06,579 - INFO - ----------------------------------------------
+2024-07-12 17:55:06,579 - INFO - complete_json_claim_verifier_answer
+2024-07-12 17:55:06,579 - INFO - {'CVResult': {'Judgment': 'Yes', 'Confidence': '85%'}}
+2024-07-12 17:55:06,579 - INFO - complete_json_claim_verifier_answer successfully appended to /workspaces/llmfnd/CV_result.json
+2024-07-12 17:55:06,580 - INFO - process_claim_verifier result - Judgment: True, Confidence: 0.85
+2024-07-12 17:55:08,207 - INFO - initial_question_answer
+2024-07-12 17:55:08,207 - INFO - Based on the relevant information provided, a suitable professional and detailed question to help determine the authenticity of the video content and the claim could be: "Can the source and background of the video showing a shark swimming on a flooded highway during Hurricane Ian in Florida be verified to validate the claim?"
+2024-07-12 17:55:09,567 - INFO - complete_json_initial_question_answer
+2024-07-12 17:55:09,567 - INFO - {'Initial_Question_Generation': {'Question': 'Can the source and background of the video showing a shark swimming on a flooded highway during Hurricane Ian in Florida be verified to validate the claim?'}}
+2024-07-12 17:55:09,567 - INFO - Initial question has been generated and saved successfully.
+2024-07-12 17:55:09,568 - INFO - Generated Question: Can the source and background of the video showing a shark swimming on a flooded highway during Hurricane Ian in Florida be verified to validate the claim?
+2024-07-12 17:55:09,568 - INFO - Checking if online search is needed
+2024-07-12 17:55:10,987 - INFO - Online information retrieving required : yes
+2024-07-12 17:55:10,987 - INFO - Generating and formatting queries
+2024-07-12 17:55:15,021 - INFO - Query Complete JSON Answer
+2024-07-12 17:55:15,021 - INFO - {'Queries': {'Query 1': 'Hurricane Ian shark flooded highway video analysis debunk', 'Query 2': 'Origin and authenticity of Hurricane Ian shark video Florida'}}
+2024-07-12 17:55:15,021 - INFO - Query 1: Hurricane Ian shark flooded highway video analysis debunk
+2024-07-12 17:55:15,021 - INFO - Processing query and quality score value
+2024-07-12 17:55:25,996 - ERROR - selenium Error fetching https://www.usatoday.com/story/news/factcheck/2022/10/13/fact-check-fabricated-image-shark-highway-spreads-online-again/8196733001/: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2024-07-12 17:55:27,313 - ERROR - selenium Error fetching https://nerdist.com/article/hurricane-shark-video-is-finally-real-myth-actually-happened/: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2024-07-12 17:55:27,760 - ERROR - selenium Error fetching https://www.pastemagazine.com/tech/memes/hurricane-shark-meme-real-climate-change-florida: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2024-07-12 17:55:30,053 - ERROR - selenium Error fetching https://nypost.com/2022/09/30/florida-street-shark-caught-in-viral-video-during-hurricane-ian/: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2024-07-12 17:55:30,995 - ERROR - selenium Error fetching https://apnews.com/article/hurricanes-science-florida-storms-sharks-98bdc0d2e481ad49c4f4f0a16ebb5464: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2024-07-12 17:55:49,958 - INFO - Processing evidence and Newness Relevance
+2024-07-12 17:55:49,958 - INFO - Processing evidence
+2024-07-12 17:57:00,132 - INFO - Query 2: Origin and authenticity of Hurricane Ian shark video Florida
+2024-07-12 17:57:00,132 - INFO - Processing query and quality score value
+2024-07-12 17:57:01,580 - ERROR - selenium Error fetching https://www.snopes.com/fact-check/video-shark-fort-myers-street/: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2024-07-12 17:57:02,246 - ERROR - selenium Error fetching https://www.businessinsider.com/shark-filmed-flooded-backyard-fort-myers-florida-after-hurricane-ian-2022-9: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2024-07-12 17:57:03,866 - ERROR - selenium Error fetching https://nypost.com/2022/09/30/florida-street-shark-caught-in-viral-video-during-hurricane-ian/: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2024-07-12 17:57:05,826 - ERROR - selenium Error fetching https://apnews.com/article/hurricanes-science-florida-storms-sharks-98bdc0d2e481ad49c4f4f0a16ebb5464: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2024-07-12 17:57:28,210 - INFO - Processing evidence and Newness Relevance
+2024-07-12 17:57:28,211 - INFO - Processing evidence
+2024-07-12 17:57:51,860 - INFO - Processing JSON files in folder: /workspaces/llmfnd/Initial_Question_Generation
+2024-07-12 17:57:51,862 - INFO - Processing claim and generating answer
+2024-07-12 17:57:58,140 - INFO - IR final_json_answer
+2024-07-12 17:57:58,140 - INFO - {'QA': {'Question': 'Can the source and background of the video showing a shark swimming on a flooded highway during Hurricane Ian in Florida be verified to validate the claim?', 'Answer': 'Therefore, based on the evidence provided, it can be stated with a high level of confidence that the source and background of the video showing a shark swimming on a flooded highway during Hurricane Ian in Florida have been verified to validate the claim', 'Confidence': '95%'}}
+2024-07-12 17:57:58,141 - INFO - IR results saved to: /workspaces/llmfnd/Initial_Question_Generation/IR_result.json
+2024-07-12 17:57:59,647 - INFO - validator_result
+2024-07-12 17:57:59,648 - INFO - yes
+2024-07-12 17:57:59,648 - INFO - yes
+2024-07-12 17:57:59,649 - INFO - Updated CV_result.json with QA data from IR_result.json
+2024-07-12 17:58:02,188 - INFO - ----------------------------------------------
+2024-07-12 17:58:02,188 - INFO - complete_json_claim_verifier_answer
+2024-07-12 17:58:02,188 - INFO - {'CVResult': {'Judgment': 'Yes', 'Confidence': '95%'}}
+2024-07-12 17:58:02,189 - INFO - complete_json_claim_verifier_answer successfully appended to /workspaces/llmfnd/CV_result.json
+2024-07-12 17:58:02,189 - INFO - New process_claim_verifier result - Judgment: True, Confidence: 0.95
+2024-07-12 17:58:03,809 - INFO - follow_up_question_answer
+2024-07-12 17:58:03,809 - INFO - Based on the information provided in the Claim, Video_information, and QA_CONTEXTS, a professional and detailed follow-up question to help determine the authenticity of the claim could be: "What specific details or evidence authenticate the presence of a shark swimming on the flooded highway during Hurricane Ian in Florida as depicted in the video?"
+2024-07-12 17:58:05,233 - INFO - json_follow_up_question_answer
+2024-07-12 17:58:05,233 - INFO - {
+  "Follow_Up_Question_Generation": {
+    "Question": "What specific details or evidence authenticate the presence of a shark swimming on the flooded highway during Hurricane Ian in Florida as depicted in the video?"
+  }
+}
+2024-07-12 17:58:05,233 - INFO - complete_json_follow_up_question_answer
+2024-07-12 17:58:05,233 - INFO - {'Follow_Up_Question_Generation': {'Question': 'What specific details or evidence authenticate the presence of a shark swimming on the flooded highway during Hurricane Ian in Florida as depicted in the video?'}}
+2024-07-12 17:58:05,234 - INFO - Follow_Up_Question_1 Generated Question: What specific details or evidence authenticate the presence of a shark swimming on the flooded highway during Hurricane Ian in Florida as depicted in the video?
+2024-07-12 17:58:05,234 - INFO - Checking if online search is needed
+2024-07-12 17:58:06,644 - INFO - Online information retrieving required : yes
+2024-07-12 17:58:06,645 - INFO - Generating and formatting queries
+2024-07-12 17:58:11,644 - INFO - Query Complete JSON Answer
+2024-07-12 17:58:11,644 - INFO - {'Queries': {'Query 1': 'Shark swimming on flooded highway during Hurricane Ian fact check', 'Query 2': 'Expert analysis on shark swimming on flooded highway during Hurricane Ian Florida video'}}
+2024-07-12 17:58:11,645 - INFO - Query 1: Shark swimming on flooded highway during Hurricane Ian fact check
+2024-07-12 17:58:11,645 - INFO - Processing query and quality score value
+2024-07-12 17:58:12,845 - ERROR - selenium Error fetching https://www.usatoday.com/story/news/factcheck/2022/10/13/fact-check-fabricated-image-shark-highway-spreads-online-again/8196733001/: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2024-07-12 17:58:12,998 - ERROR - selenium Error fetching https://www.usatoday.com/story/news/factcheck/2020/08/27/fact-check-photo-shark-flooded-highway-faked/5646793002/: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2024-07-12 17:58:13,440 - ERROR - selenium Error fetching https://misbar.com/en/factcheck/2023/08/23/this-photo-of-a-shark-swimming-in-a-flooded-highway-is-edited: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2024-07-12 17:58:13,664 - ERROR - selenium Error fetching https://www.snopes.com/fact-check/video-shark-fort-myers-street/: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2024-07-12 17:58:15,648 - ERROR - selenium Error fetching https://newschecker.in/fact-check/hurricane-batters-florida-old-edited-photo-of-shark-wading-through-flooded-street-viral-again/: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2024-07-12 17:58:41,555 - INFO - Processing evidence and Newness Relevance
+2024-07-12 17:58:41,555 - INFO - Processing evidence
+2024-07-12 17:59:05,515 - INFO - Query 2: Expert analysis on shark swimming on flooded highway during Hurricane Ian Florida video
+2024-07-12 17:59:05,515 - INFO - Processing query and quality score value
+2024-07-12 17:59:16,911 - ERROR - selenium Error fetching https://www.usatoday.com/story/news/factcheck/2022/10/13/fact-check-fabricated-image-shark-highway-spreads-online-again/8196733001/: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2024-07-12 17:59:18,056 - ERROR - selenium Error fetching https://nypost.com/2022/09/30/florida-street-shark-caught-in-viral-video-during-hurricane-ian/: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2024-07-12 17:59:18,238 - ERROR - selenium Error fetching https://www.independent.co.uk/climate-change/news/hurricane-ian-viral-street-shark-video-b2181560.html: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2024-07-12 17:59:38,931 - INFO - Processing evidence and Newness Relevance
+2024-07-12 17:59:38,931 - INFO - Processing evidence
+2024-07-12 18:00:07,294 - INFO - Processing JSON files in folder: /workspaces/llmfnd/Follow_Up_Question_1
+2024-07-12 18:00:07,296 - INFO - Processing claim and generating answer
+2024-07-12 18:00:15,807 - INFO - IR final_json_answer
+2024-07-12 18:00:15,807 - INFO - {'QA': {'Question': 'What specific details or evidence authenticate the presence of a shark swimming on the flooded highway during Hurricane Ian in Florida as depicted in the video?', 'Answer': 'Based on the above evidence analysis and reasoning process, it can be concluded with a high level of confidence (95%) that the presence of a shark swimming on the flooded highway during Hurricane Ian in Florida, as depicted in the video, is authenticated.', 'Confidence': '95%'}}
+2024-07-12 18:00:15,809 - INFO - IR results saved to: /workspaces/llmfnd/Follow_Up_Question_1/IR_result.json
+2024-07-12 18:00:17,296 - INFO - validator_result
+2024-07-12 18:00:17,296 - INFO - yes
+2024-07-12 18:00:17,296 - INFO - yes
+2024-07-12 18:00:17,297 - INFO - Updated CV_result.json with QA data from IR_result.json
+2024-07-12 18:00:23,928 - INFO - 声明处理结果已生成并成功保存。
+2024-07-12 18:00:23,928 - INFO - final_json_answer 
+{'Final_Judgement': {'Answer': 'False', 'Reasons': {'1': 'The video description on the platform states that it analyzes and debunks the photo of a shark allegedly swimming on a flooded highway. This indicates that the video does not actually show a shark in that scenario.', '2': 'The video description from the descriptor also mentions a shark on a flooded highway, which could mislead viewers into thinking the content is authentic.'}, 'Therefore, the Claim authenticity is': 'False', 'The information type is': 'False video description', 'The specific type of False Information is': 'False video description'}}

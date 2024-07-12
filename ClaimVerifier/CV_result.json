@@ -1,0 +1,35 @@
+{
+    "Claim": "A video showing a shark swimming on a flooded highway during Hurricane Ian in Florida.",
+    "Video_information": {
+        "Video_headline": "a shark swimming on a flooded highway",
+        "Video_transcript": "",
+        "Video_description_on_platform": "This video analyzes and debunks the photo of a shark allegedly swimming on a flooded highway.",
+        "Video_platform": "youtube",
+        "Video_date": "2023_08_07",
+        "Video_description_from_descriptor": "A video, including the shark on a flooded highway."
+    },
+    "Initial_Question_Generation": {
+        "Question": "Can the source and background of the video showing a shark swimming on a flooded highway during Hurricane Ian in Florida be verified to validate the claim?",
+        "Answer": "Therefore, based on the evidence provided, it can be stated with a high level of confidence that the source and background of the video showing a shark swimming on a flooded highway during Hurricane Ian in Florida have been verified to validate the claim",
+        "Confidence": "95%"
+    },
+    "CVResult": {
+        "Judgment": "Yes",
+        "Confidence": "95%"
+    },
+    "Follow_Up_Question_1": {
+        "Question": "What specific details or evidence authenticate the presence of a shark swimming on the flooded highway during Hurricane Ian in Florida as depicted in the video?",
+        "Answer": "Based on the above evidence analysis and reasoning process, it can be concluded with a high level of confidence (95%) that the presence of a shark swimming on the flooded highway during Hurricane Ian in Florida, as depicted in the video, is authenticated.",
+        "Confidence": "95%"
+    },
+    "Final_Judgement": {
+        "Answer": "False",
+        "Reasons": {
+            "1": "The video description on the platform states that it analyzes and debunks the photo of a shark allegedly swimming on a flooded highway. This indicates that the video does not actually show a shark in that scenario.",
+            "2": "The video description from the descriptor also mentions a shark on a flooded highway, which could mislead viewers into thinking the content is authentic."
+        },
+        "Therefore, the Claim authenticity is": "False",
+        "The information type is": "False video description",
+        "The specific type of False Information is": "False video description"
+    }
+}

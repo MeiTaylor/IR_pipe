@@ -1,0 +1,791 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Expert analysis on shark swimming on flooded highway during Hurricane Ian Florida video",
+                "totalResults": "732000",
+                "searchTerms": "Expert analysis on shark swimming on flooded highway during Hurricane Ian Florida video",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Expert analysis on shark swimming on flooded highway during Hurricane Ian Florida video",
+                "totalResults": "732000",
+                "searchTerms": "Expert analysis on shark swimming on flooded highway during Hurricane Ian Florida video",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.303838,
+        "formattedSearchTime": "0.30",
+        "totalResults": "732000",
+        "formattedTotalResults": "732,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "For Once, the Hurricane Shark Was Real - The New York Times",
+                "htmlTitle": "For Once, the <b>Hurricane Shark</b> Was Real - The New York Times",
+                "link": "https://www.nytimes.com/2022/09/30/us/hurricane-shark-ian-hoax.html",
+                "displayLink": "www.nytimes.com",
+                "snippet": "Sep 30, 2022 ... But an A.P. analysis and experts say a wayward finned creature was indeed captured on video swimming on a street in Fort Myers, Fla., this week.",
+                "htmlSnippet": "Sep 30, 2022 <b>...</b> But an A.P. <b>analysis</b> and <b>experts</b> say a wayward finned creature was indeed captured on <b>video swimming</b> on a street <b>in</b> Fort Myers, Fla., this week.",
+                "formattedUrl": "https://www.nytimes.com/2022/09/30/us/hurricane-shark-ian-hoax.html",
+                "htmlFormattedUrl": "https://www.nytimes.com/2022/09/30/us/<b>hurricane</b>-<b>shark</b>-<b>ian</b>-hoax.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjMjkuIOwHQnzIRdN4wCjCPF_7JaHhaNI9QURgZqoJ-UZh9AjDgn9yKAQ&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static01.nyt.com/images/2022/09/30/reader-center/hurricane-shark-cover/hurricane-shark-cover-facebookJumbo-v2.jpg?year=2022&h=550&w=1050&s=3ce0b7d183e5bda3883bbd83a59b7c0d7bc9cd413ebfee5056112cf9110ec841&k=ZQJBKqZ0VN",
+                            "nyt_uri": "nyt://article/e27b1798-0403-5fcd-81f2-6ac2cf780b4b",
+                            "twitter:app:id:googleplay": "com.nytimes.android",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2022-09-30T15:10:59.000Z",
+                            "pt": "article",
+                            "twitter:url": "https://www.nytimes.com/2022/09/30/us/hurricane-shark-ian-hoax.html",
+                            "pdate": "20220930",
+                            "articleid": "100000008559842",
+                            "al:android:package": "com.nytimes.android",
+                            "al:ipad:app_store_id": "357066198",
+                            "twitter:app:name:googleplay": "NYTimes",
+                            "og:description": "Shark memes have become synonymous with social media hoaxes. But an A.P. analysis and experts say a wayward finned creature was indeed captured on video swimming on a street in Fort Myers, Fla., this week.",
+                            "twitter:image": "https://static01.nyt.com/images/2022/09/30/reader-center/hurricane-shark-cover/hurricane-shark-cover-videoSixteenByNineJumbo1600-v2.jpg?year=2022&h=608&w=1080&s=54d8b8c837f61b4f82c229ed253b30d84498be4dda497b1862bd702b364b3f33&k=ZQJBKqZ0VN&tw=1",
+                            "pst": "News",
+                            "al:iphone:app_name": "NYTimes",
+                            "twitter:site": "@nytimes",
+                            "article:modified_time": "2022-10-01T10:42:58.000Z",
+                            "news_keywords": "Social Media,Hurricanes,Shark,Hoaxes and Pranks,journalism;journalist;news media,Hurricane Ian,Fort Myers Florida",
+                            "article:content_tier": "metered",
+                            "msapplication-starturl": "https://www.nytimes.com",
+                            "image": "https://static01.nyt.com/images/2022/09/30/reader-center/hurricane-shark-cover/hurricane-shark-cover-facebookJumbo-v2.jpg?year=2022&h=550&w=1050&s=3ce0b7d183e5bda3883bbd83a59b7c0d7bc9cd413ebfee5056112cf9110ec841&k=ZQJBKqZ0VN",
+                            "og:type": "article",
+                            "twitter:title": "For Once, the Hurricane Shark Was Real (Published 2022)",
+                            "article:section": "U.S.",
+                            "cg": "us",
+                            "pubp_event_id": "pubp://event/8bd56294dae54a14bf64927f0dd79072",
+                            "og:title": "For Once, the Hurricane Shark Was Real (Published 2022)",
+                            "slack-app-id": "A0121HXPPTQ",
+                            "url": "https://www.nytimes.com/2022/09/30/us/hurricane-shark-ian-hoax.html",
+                            "article:tag": "Social Media",
+                            "al:iphone:url": "nytimes://www.nytimes.com/2022/09/30/us/hurricane-shark-ian-hoax.html",
+                            "al:android:url": "nyt://article/e27b1798-0403-5fcd-81f2-6ac2cf780b4b",
+                            "twitter:app:url:googleplay": "nyt://article/e27b1798-0403-5fcd-81f2-6ac2cf780b4b",
+                            "fb:app_id": "9869919170",
+                            "al:ipad:url": "nytimes://www.nytimes.com/2022/09/30/us/hurricane-shark-ian-hoax.html",
+                            "byl": "By Daniel Victor",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Shark memes have become synonymous with social media hoaxes. But an A.P. analysis and experts say a wayward finned creature was indeed captured on video swimming on a street in Fort Myers, Fla., this week.",
+                            "al:iphone:app_store_id": "284862083",
+                            "al:ipad:app_name": "NYTimes",
+                            "og:url": "https://www.nytimes.com/2022/09/30/us/hurricane-shark-ian-hoax.html",
+                            "al:android:app_name": "NYTimes",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static01.nyt.com/images/2022/09/30/reader-center/hurricane-shark-cover/hurricane-shark-cover-facebookJumbo-v2.jpg?year=2022&h=550&w=1050&s=3ce0b7d183e5bda3883bbd83a59b7c0d7bc9cd413ebfee5056112cf9110ec841&k=ZQJBKqZ0VN"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Advertisement\nSupported by\nShark memes have become synonymous with social media hoaxes. But an A.P. analysis and experts say a wayward finned creature was indeed captured on video swimming on a street in Fort Myers, Fla., this week.\nBy Daniel Victor\nTo professional fact-checkers who sort fact from fable on social media, Hurricane Shark has been a longtime nemesis.\nFor more than a decade, fake, grainy images of a shark swimming in waters it doesn\u2019t belong in \u2014 usually a highway and a subway platform \u2014 have reliably circulated during nearly every major storm.\nIt was never real. Yet it kept coming up, shared without skepticism yet again, and the checkers of facts were forced to defeat it again, over and over.\nSo you can imagine their hesitant surprise when a new video emerged on Wednesday appearing to show a shark in a backyard near Fort Myers, Fla., which had been battered by Hurricane Ian and was beginning to flood. Though this video didn\u2019t have the telltale signs of fakery that previous versions did, skepticism was warranted as it racked up millions of views on Twitter.\nThen evidence began emerging that it might actually be real. And on Thursday, both Storyful, a news agency, and The Associated Press confirmed its authenticity with interviews and examinations of the original clip\u2019s metadata, nailing down a story reporters thought they would never write.\nIt was like discovering Bigfoot is real.\n\u201cAfter over half a decade of debunking this hoax every time there was a flood or hurricane, I can\u2019t believe I\u2019m looking at an honest-to-god street shark,\u201d wrote Jane Lytvynenko, a freelance reporter. \u201cGood to finally meet you, pal.\u201d\nWe are having trouble retrieving the article content.\nPlease enable JavaScript in your browser settings.\nThank you for your patience while we verify access. If you are in Reader mode please exit and\u00a0log into\u00a0your Times account, or\u00a0subscribe\u00a0for all of The Times.\nThank you for your patience while we verify access.\nAlready a subscriber?\u00a0Log in.\nWant all of The Times?\u00a0Subscribe.\nAdvertisement",
+                    "content_num": 426
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 9,
+                    "justification": "The New York Times is a well-established, reputable news source known for its thorough fact-checking and editorial standards. It has a history of accurate reporting and a commitment to journalistic integrity, making it a highly credible source for verifying information and debunking fake news."
+                },
+                "Content Score": {
+                    "Newness Score": 9,
+                    "Newness Justification": "The article from The New York Times was published on September 30, 2022, which is relatively recent considering the current date is July 2024.",
+                    "Relevance Score": 9,
+                    "Relevance Justification": "The evidence from The New York Times directly addresses the authenticity of the shark video during Hurricane Ian in Florida, which is highly relevant to the question."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Hurricane Shark - Wikipedia",
+                "htmlTitle": "<b>Hurricane Shark</b> - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Hurricane_Shark",
+                "displayLink": "en.wikipedia.org",
+                "snippet": "... shark swimming on a flooded freeway\u2014were debunked as fabrications. However, during Hurricane Ian in 2022, the Associated Press verified a video taken by\u00a0...",
+                "htmlSnippet": "... <b>shark swimming</b> on a <b>flooded freeway</b>\u2014were debunked as fabrications. However, <b>during Hurricane Ian in</b> 2022, the Associated Press verified a <b>video</b> taken by&nbsp;...",
+                "formattedUrl": "https://en.wikipedia.org/wiki/Hurricane_Shark",
+                "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Hurricane</b>_<b>Shark</b>",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjS_XLzDYfdrXYc8lZYF2tecRMGpCIQQwdcRrtEIsHuMS8PzBJeO1in98Q&s",
+                            "width": "220",
+                            "height": "165"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "referrer": "origin",
+                            "theme-color": "#eaecf0",
+                            "og:type": "website",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "og:title": "Hurricane Shark - Wikipedia",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/%22Freeway_shark%22_hoax_image.png/220px-%22Freeway_shark%22_hoax_image.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Hurricane Shark and Street Shark are nicknames for several claimed instances of a live shark swimming in a flooded urban area, typically in the aftermath of a hurricane. For more than a decade (starting with Hurricane Irene in 2011), all media purporting to document such claims\u2014most notably an image of a shark swimming on a flooded freeway\u2014were debunked as fabrications. However, during Hurricane Ian in 2022, the Associated Press verified a video taken by Dominic Cameratta of a shark or other large fish swimming in flooded Fort Myers, Florida; one consulted expert concluded that the fish was \"a juvenile shark\" while another was unable to determine whether it was a shark.[1] Both the re-emergence of the hoax in hurricane after hurricane and the eventual appearance of a plausible claim have been the subject of commentary and amusement; Daniel Victor of The New York Times described the Associated Press's findings as \"like discovering Bigfoot is real\".[2] The original \"Hurricane Shark\" image was created during Hurricane Irene in 2011, with a claim that the shark was on a street in Puerto Rico.[2] According to The Washington Post, it likely originated on Reddit.[3] In the aftermath of the hurricane, the image was aired by Miami Fox affiliate WSVN,[3] was posted by the Miami Herald, and was widely shared on social media websites including Twitter.[4] The image was debunked by the Post,[3] Snopes.com,[5] and the Toronto Star.[4] It had been created by combining an image of a flooded street in Puerto Rico with a photo of a shark taken by Thomas P. Peschak off of South Africa in 2003.[4] The Post compared it to similar hoax images, such as one supposedly of Osama bin Laden's body following his death.[3] Craig Silverman, writing in the Star, cast it as part of a larger phenomenon of hoax images appearing in the aftermath of significant events.[4] The image has frequently resurfaced on the internet with claims that it was taken during various flooding events,[2] including in Houston during both the 2015 Texas\u2013Oklahoma flood and tornado outbreak and the 2017 floods caused by Hurricane Harvey, and in Daytona Beach, Florida, in 2016 during floods caused by Hurricane Matthew.[5] Peschak has said his fans notify him each time the image re-emerges, but that \"they're more outraged than I am\".[6] After Toronto's Union Station flooded in June 2012, a manipulated image circulated purporting to show two sharks at the base of an escalator bank. The image was later reused in a hoax claiming that a shark tank had burst at the Kuwait Scientific Center.[7][8] While the flooding in Toronto was not the result of a hurricane, the hoax has often been compared to the main Hurricane Shark hoax.[2][9] Later in 2012, after Hurricane Sandy struck New Jersey, other fake shark images circulated in addition to the better-known freeway one. One image appears to depict a shark outside of a home in a suburban area.[10][11] Another appears to show a shark swimming down a suburban street.[12][13] Tom Phillips and Alexis Madrigal found the real shark image used to create the former; Snopes did the same for the latter.[10][13][11] During both Hurricane Irma and Hurricane Florence, fake television breaking news screen captures were seen online saying that the hurricane \"now contains sharks\", although neither contained images of sharks.[14] No, Hurricane Florence does not contain sharks September 13, 2018[15] Hurricane sharks as hoaxes have taken on a life of their own, in social media and in the press. Doctored photos of sharks swimming in urban areas went viral on social media in virtually every disastrous storm and hurricane in the decade since, often copies of the image that first circulated during Irene.[15] Some on social media have treated the Hurricane Shark as a meme, an in-joke hoax to be revived with each disaster, while others have genuinely believed in the authenticity of the photos being spread.[2] Commentators have made comparisons to Sharknado, a film series that also involves sharks caught up in natural disasters.[16][1] In response to the \"now contains sharks\" images circulated during Hurricane Florence, FEMA's Associate Director of Office of Response and Recovery, Jeffrey Byard, denied that \"there's a sharknado effect or anything like that\".[14] Because of the recurring nature of the meme, fact-checkers and journalists in the media have repeatedly needed to clarify that the images of Hurricane sharks were hoaxes. According to Daniel Victor, writing for The New York Times in 2022, Hurricane Shark is the \"longtime nemesis\" of fact-checkers on social media.[2] In Silverman's Verification Handbook, Phillips makes a case study of his work with Madrigal during Hurricane Sandy, describing the images they reviewed as \"strange enough to make you suspicious, yet [not] implausible enough to dismiss out of hand\".[10][13] Rose Eveleth, in a 2014 piece for BBC Future about how to spot fake Sandy photos, includes as her list's final item, \"If it has a shark in it, it's probably fake\".[9] An early claim of sharks in a flooded urban area, predating the original Hurricane Shark hoax, occurred in Goodna, Queensland, Australia, amidst major flooding in January 2011.[4] Butcher Steve Bateman reported a shark, roughly 6 feet (1.8 m) in length, swimming past his shop, and several others reported seeing a shark on a different street.[17] Two local politicians vouched for Bateman's credibility, and The Queensland Times noted that sharks are known to swim up the Bremer River to Goodna.[18] In September 2022, after Hurricane Ian struck Florida, a video emerged online of a shark in a flooded backyard in Fort Myers, Florida, drawing over 12 million views within a day.[1] Initially, the video received skepticism from journalists and fact-checkers, wary of the long history of similar media being hoaxes while also noting that the video seemed more authentic than previous renditions.[2] On September 29, the Associated Press, while noting the history of the Hurricane Shark, confirmed the authenticity of the video based on analysis of the video's metadata and an interview with the videographer, Dominic Cameratta. The Associated Press consulted shark experts George H. Burgess and ... [Content truncated]",
+                    "content_num": 1000
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 8,
+                    "justification": "While Wikipedia is a valuable resource for general information, its open editing format introduces the potential for inaccuracies. However, Wikipedia's policies on verifiability and sourcing help maintain a high level of accuracy overall. It can be useful for background research but may not always be as stringent as traditional news outlets in detecting and exposing fake news."
+                },
+                "Content Score": {
+                    "Newness Score": 8,
+                    "Newness Justification": "The information from Wikipedia related to Hurricane Ian was updated during the event in 2022, providing context from a recent timeframe.",
+                    "Relevance Score": 8,
+                    "Relevance Justification": "Although relevant in discussing the event itself, the Wikipedia evidence may not directly authenticate the specific video mentioned in the question."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Video appears to show shark in Florida backyard during Hurricane Ian",
+                "htmlTitle": "<b>Video</b> appears to show <b>shark in Florida</b> backyard <b>during Hurricane Ian</b>",
+                "link": "https://www.washingtonpost.com/climate-environment/2022/10/01/hurricane-ian-shark-florida/",
+                "displayLink": "www.washingtonpost.com",
+                "snippet": "Oct 1, 2022 ... ... storms that claim to show sharks swimming in flooded streets. So ... flooded highway was uploaded after Hurricane Irene hit Puerto Rico in\u00a0...",
+                "htmlSnippet": "Oct 1, 2022 <b>...</b> ... <b>storms</b> that claim to show <b>sharks swimming in flooded</b> streets. So ... <b>flooded highway</b> was uploaded after <b>Hurricane</b> Irene hit Puerto Rico <b>in</b>&nbsp;...",
+                "formattedUrl": "https://www.washingtonpost.com/climate.../hurricane-ian-shark-florida/",
+                "htmlFormattedUrl": "https://www.washingtonpost.com/climate.../<b>hurricane</b>-<b>ian</b>-<b>shark</b>-<b>florida</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQUyWZi-ItlmjdZXL46tCSuSdmonhlZhJRS-RpPmNxdl16WzVe1_A_WmY&s",
+                            "width": "168",
+                            "height": "300"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter_description": "The recording of a large fish in a backyard during Hurricane Ian has been authenticated \u2014 but experts are of mixed views on whether it really shows a shark.",
+                            "article_modified_time": "2022-10-04T02:59:15.577Z",
+                            "og:image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-30-2022/t_6bdc9f0963b8485684c54e59fe499efe_name_3___Vertical_Video_00_04_54_29_Still007.jpg&w=1440",
+                            "apple-itunes-app": "app-id=352509417, app-argument=https://www.washingtonpost.com/climate-environment/2022/10/01/hurricane-ian-shark-florida/?sourceApp=apple-banner",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2022-10-01T04:49:59.592Z",
+                            "og:site_name": "Washington Post",
+                            "og_title": "Is Florida\u2019s hurricane shark real? The video is, at least.",
+                            "og_type": "article",
+                            "og_url": "https://www.washingtonpost.com/climate-environment/2022/10/01/hurricane-ian-shark-florida/",
+                            "og:description": "The recording of a large fish in a backyard during Hurricane Ian has been authenticated \u2014 but experts are of mixed views on whether it really shows a shark.",
+                            "article_published_time": "2022-10-01T04:49:59.592Z",
+                            "next-head-count": "84",
+                            "article_section": "Climate",
+                            "twitter:site": "@WashingtonPost",
+                            "article:modified_time": "2022-10-04T02:59:15.577Z",
+                            "twitter_site": "@WashingtonPost",
+                            "og_description": "The recording of a large fish in a backyard during Hurricane Ian has been authenticated \u2014 but experts are of mixed views on whether it really shows a shark.",
+                            "article:content_tier": "metered",
+                            "twitter_title": "Is Florida\u2019s hurricane shark real? The video is, at least.",
+                            "last_updated_date": "2022-10-04T02:59:15.577Z",
+                            "og:type": "article",
+                            "twitter:title": "Is Florida\u2019s hurricane shark real? The video is, at least.",
+                            "article:section": "Climate",
+                            "og_site_name": "Washington Post",
+                            "twitter_card": "summary_large_image",
+                            "og:title": "Is Florida\u2019s hurricane shark real? The video is, at least.",
+                            "og_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-30-2022/t_6bdc9f0963b8485684c54e59fe499efe_name_3___Vertical_Video_00_04_54_29_Still007.jpg&w=1440",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The recording of a large fish in a backyard during Hurricane Ian has been authenticated \u2014 but experts are of mixed views on whether it really shows a shark.",
+                            "article_content_tier": "metered",
+                            "og:url": "https://www.washingtonpost.com/climate-environment/2022/10/01/hurricane-ian-shark-florida/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-30-2022/t_6bdc9f0963b8485684c54e59fe499efe_name_3___Vertical_Video_00_04_54_29_Still007.jpg&w=1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "clockThis article was published more than\u00a01 year ago\nFor years, there has been a deluge of fake videos and memes after major storms that claim to show sharks swimming in flooded streets. So when a video purporting to show a shark in an inundated backyard in Fort Myers, Fla., surfaced during Hurricane Ian this week, gathering millions of views on Twitter, viewers were skeptical.\nBut this time, the recording was real \u2014 even if there is no confirmation yet that what it depicted was a shark, according to Storyful, which first authenticated the video, and the Associated Press. The news agencies interviewed Dominic Cameratta, a real estate agent who filmed it with his cellphone, and reviewed the clip\u2019s metadata to confirm it was recorded this week.\nThe video shows a fish that looks to be 4 feet long, with sharp dorsal fins, flipping and flopping in the water. \u201cI didn\u2019t know what it was,\u201d Cameratta said. \u201cI zoomed in, and all my friends were like, \u2018It\u2019s like a shark, man!\u2019\u201d\nExperts interviewed by the AP voiced mixed opinions on whether it was indeed a shark. George Burgess, a former director of the Florida Museum of Natural History\u2019s shark program, said the fish appears to be a juvenile shark. But Neil Hammerschlag, the director of the University of Miami\u2019s shark conservation program, said it was difficult to tell what it was.\nWhat\u2019s been happening with animals in Florida during Hurricane Ian?\nImages purportedly showing sharks in urban areas after hurricanes and major floods have been repeatedly debunked since at least 2011, according to Snopes, a fact-checking website.\nOne image of a shark swimming along a flooded highway was uploaded after Hurricane Irene hit Puerto Rico in August 2011. The same image has been widely recirculated after subsequent storms in different areas: In 2016, it was in Daytona Beach, Fla.; a year later, in Houston; and in 2018, it was in Wrightsville Beach, N.C.\nSnopes reported that the original image from 2011 also was a hoax. It incorporated a 2005 photograph of a kayaker being trailed by a great white shark.\nHurricane Ian has devastated Florida, killing at least 23 people, according to state officials. It made its second landfall in the United States on Friday, hitting coastal South Carolina as a Category 1 storm with lashing rains and strong winds.",
+                    "content_num": 498
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 9,
+                    "justification": "The Washington Post is a respected news outlet with a strong track record of investigative journalism and fact-checking. It upholds high journalistic standards and is known for its in-depth reporting, making it a reliable source for verifying claims and debunking misinformation."
+                },
+                "Content Score": {
+                    "Newness Score": 9,
+                    "Newness Justification": "The Washington Post article from October 1, 2022, is recent and aligns with the time frame of the Hurricane Ian incident.",
+                    "Relevance Score": 8,
+                    "Relevance Justification": "While the evidence discusses a similar incident of sharks in floodwaters, it may not directly authenticate the specific video in question."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Fact check: Fabricated image of shark on highway spreads online ...",
+                "htmlTitle": "Fact check: Fabricated image of <b>shark</b> on <b>highway</b> spreads online ...",
+                "link": "https://www.usatoday.com/story/news/factcheck/2022/10/13/fact-check-fabricated-image-shark-highway-spreads-online-again/8196733001/",
+                "displayLink": "www.usatoday.com",
+                "snippet": "Oct 13, 2022 ... ... shark swimming down a flooded highway in Florida. ... Video shows flooded Houston school in 2019, not aftermath of Hurricane Ian in Florida.",
+                "htmlSnippet": "Oct 13, 2022 <b>...</b> ... <b>shark swimming</b> down a <b>flooded highway in Florida</b>. ... <b>Video</b> shows <b>flooded</b> Houston school <b>in</b> 2019, not aftermath of <b>Hurricane Ian in Florida</b>.",
+                "formattedUrl": "https://www.usatoday.com/story/news/...shark-highway.../8196733001/",
+                "htmlFormattedUrl": "https://www.usatoday.com/story/news/...<b>shark</b>-<b>highway</b>.../8196733001/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7BWvyjoKF1L3ufJBcnVL7VxnZco64HpJuobwfKFcLAbIntL3mnzbIPDom&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.usatoday.com/gcdn/presto/2022/10/08/USAT/ab9933f4-7374-4c50-84aa-cfe182082d51-XXX_TCN_WEST_COAST_HURRICANE_IAN02.JPG?crop=2999,1687,x0,y99&width=2999&height=1687&format=pjpg&auto=webp",
+                            "apple-itunes-app": "app-id=504631398,app-argument=https://app.adjust.com/ivqo5xe",
+                            "theme-color": "#0098FE",
+                            "og:image:width": "2999",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Fact check: Fabricated image of shark on highway spreads online again",
+                            "og:site_name": "USA TODAY",
+                            "og:title": "Fact check: Fabricated image of shark on highway spreads online again",
+                            "og:image:height": "1687",
+                            "google": "notranslate",
+                            "og:description": "The image is not from Hurricane Ian, or any hurricane at all. It's an ocean photographer's image taken in 2005 that has been manipulated.",
+                            "fb:pages": "13652355666,48958576760,156345381090801,110471702456365,6566864515,137698179626815,315942225236045,927427260614748,183850168300771,1443524575938047,251228454889939,158095147555989,115535341805950,236655713446291,1621466394844549,250325640686,177037772444433,1972936962947967,2047091012096533,535551216797440",
+                            "twitter:creator": "@usatoday",
+                            "article:author": "Ana Faguy",
+                            "twitter:image": "https://www.usatoday.com/gcdn/presto/2022/10/08/USAT/ab9933f4-7374-4c50-84aa-cfe182082d51-XXX_TCN_WEST_COAST_HURRICANE_IAN02.JPG?crop=2999,1687,x0,y99&width=1600&height=800&format=pjpg&auto=webp",
+                            "fb:app_id": "215046668549694",
+                            "twitter:site": "@usatoday",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1",
+                            "twitter:description": "The image is not from Hurricane Ian, or any hurricane at all. It's an ocean photographer's image taken in 2005 that has been manipulated.",
+                            "article:content_tier": "metered",
+                            "og:url": "https://www.usatoday.com/story/news/factcheck/2022/10/13/fact-check-fabricated-image-shark-highway-spreads-online-again/8196733001/",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.usatoday.com/gcdn/presto/2022/10/08/USAT/ab9933f4-7374-4c50-84aa-cfe182082d51-XXX_TCN_WEST_COAST_HURRICANE_IAN02.JPG?crop=2999,1687,x0,y99&width=2999&height=1687&format=pjpg&auto=webp"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2022-10-13T23:11:08Z",
+                            "claimReviewed": "Image shows a shark on a Florida highway",
+                            "url": "https://www.usatoday.com/story/news/factcheck/2022/10/13/fact-check-fabricated-image-shark-highway-spreads-online-again/8196733001/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.usatoday.com/story/news/factcheck/2022/10/13/fact-check-fabricated-image-shark-highway-spreads-online-again/8196733001/: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+                    "content_num": 0
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 8,
+                    "justification": "USA Today is a widely read publication known for its comprehensive coverage of news and events. While generally trustworthy, it may not have the same level of depth in fact-checking and investigative reporting as some other major news outlets, potentially impacting its ability to thoroughly detect and expose fake news."
+                },
+                "Content Score": {
+                    "Newness Score": 8,
+                    "Newness Justification": "The USA Today article from October 13, 2022, is relatively recent compared to the Hurricane Ian event date.",
+                    "Relevance Score": 7,
+                    "Relevance Justification": "The evidence focuses on a fabricated image related to a flooded highway but may not directly authenticate the specific video mentioned in the question."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Shark tale? Video of large fish in flooded Florida yard goes viral ...",
+                "htmlTitle": "<b>Shark</b> tale? <b>Video</b> of large fish <b>in flooded Florida</b> yard goes viral ...",
+                "link": "https://www.theguardian.com/us-news/2022/sep/30/shark-florida-flood-hurricane-ian",
+                "displayLink": "www.theguardian.com",
+                "snippet": "Sep 30, 2022 ... ... Shark' spotted swimming in flooded Florida neighbourhood \u2013 video. Hurricane Ian. This article is more than 1 year old. Shark tale? Video of\u00a0...",
+                "htmlSnippet": "Sep 30, 2022 <b>...</b> ... <b>Shark</b>&#39; spotted <b>swimming in flooded Florida</b> neighbourhood \u2013 <b>video</b>. <b>Hurricane Ian</b>. This article is more than 1 year old. <b>Shark</b> tale? <b>Video</b> of&nbsp;...",
+                "formattedUrl": "https://www.theguardian.com/us-news/.../shark-florida-flood-hurricane-ian",
+                "htmlFormattedUrl": "https://www.theguard<b>ian</b>.com/us-news/.../<b>shark</b>-<b>florida</b>-flood-<b>hurricane</b>-<b>ian</b>",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIoQX9nNhCSkpMYEE3B7va7RyZX1LDx-ek7NnEINBc9rhbno1qedQE3jzy&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.guim.co.uk/img/media/6ea9195071710320b2c0332a88608e32c2815848/0_349_6240_3744/master/6240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjIucG5n&enable=upscale&s=b94f980e5439478e4a8d86792ae8984e",
+                            "twitter:app:id:googleplay": "com.guardian",
+                            "twitter:app:url:iphone": "gnmguardian://us-news/2022/sep/30/shark-florida-flood-hurricane-ian?contenttype=Article&source=twitter",
+                            "theme-color": "#052962",
+                            "og:image:width": "1200",
+                            "article:published_time": "2022-09-30T11:40:13.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "the Guardian",
+                            "twitter:app:url:ipad": "gnmguardian://us-news/2022/sep/30/shark-florida-flood-hurricane-ian?contenttype=Article&source=twitter",
+                            "twitter:app:name:googleplay": "The Guardian",
+                            "al:ios:url": "gnmguardian://us-news/2022/sep/30/shark-florida-flood-hurricane-ian?contenttype=Article&source=applinks",
+                            "twitter:app:id:iphone": "409128287",
+                            "og:description": "Man films fish \u2018flopping around\u2019 in neighbour\u2019s garden but experts are split over identification",
+                            "article:publisher": "https://www.facebook.com/theguardian",
+                            "al:ios:app_store_id": "409128287",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://i.guim.co.uk/img/media/6ea9195071710320b2c0332a88608e32c2815848/0_349_6240_3744/master/6240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjIucG5n&s=8398863976529a793082f743695ea8e5",
+                            "twitter:site": "@guardian",
+                            "article:modified_time": "2022-09-30T13:35:14.000Z",
+                            "og:type": "article",
+                            "article:section": "US news",
+                            "al:ios:app_name": "The Guardian",
+                            "og:title": "Shark tale? Video of large fish in flooded Florida yard goes viral",
+                            "og:image:height": "720",
+                            "twitter:app:id:ipad": "409128287",
+                            "article:author": "Associated Press",
+                            "article:tag": "Hurricane Ian,Florida,Sharks,Fish,US news,Marine life,World news,Animals,Wildlife",
+                            "fb:app_id": "180444840287",
+                            "twitter:app:url:googleplay": "guardian://www.theguardian.com/us-news/2022/sep/30/shark-florida-flood-hurricane-ian",
+                            "twitter:app:name:ipad": "The Guardian",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                            "og:url": "https://www.theguardian.com/us-news/2022/sep/30/shark-florida-flood-hurricane-ian",
+                            "twitter:app:name:iphone": "The Guardian"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.guim.co.uk/img/media/6ea9195071710320b2c0332a88608e32c2815848/0_349_6240_3744/master/6240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjIucG5n&enable=upscale&s=b94f980e5439478e4a8d86792ae8984e"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Man films fish \u2018flopping around\u2019 in neighbour\u2019s garden but experts are split over identification\nPhotos and videos of sharks and other marine life swimming in suburban floodwaters make for popular hoaxes during heavy storms. But a mobile phone video filmed during Hurricane Ian\u2019s assault on south-west Florida isn\u2019t just another fishy story.\nThe video, which showed a large, dark fish with distinct dorsal fins thrashing around an inundated Fort Myers back yard, racked up more than 12m views on Twitter within a day, as users responded with disbelief and comparisons to the \u201cSharknado\u201d film series.\nDominic Cameratta, a local real estate developer, confirmed he filmed the clip from his patio on Wednesday morning when he saw something \u201cflopping around\u201d in his neighbour\u2019s flooded yard.\n\u201cI didn\u2019t know what it was, it just looked like a fish or something,\u201d he said. \u201cI zoomed in, and all my friends are like: \u2018It\u2019s like a shark, man!\u2019\u201d\nHe guessed the fish was about 1.2 metres (4ft) long.\nExperts were divided over whether the clip showed a shark or another large fish. George Burgess, the former director of the Florida Museum of Natural History\u2019s shark programme, said in an email that it \u201cappears to be a juvenile shark\u201d, while Dr Neil Hammerschlag, the director of the University of Miami\u2019s shark conservation programme, wrote that \u201cit\u2019s pretty hard to tell\u201d.\nNevertheless, some Twitter users dubbed the hapless fish the \u201cstreet shark\u201d.\nCameratta said the flooding had only just begun when the video was taken, but that the waters were \u201call the way up to our house\u201d by the time the Associated Press reached him by phone on Wednesday evening.\nHe said the fish may have made its way up from nearby Hendry Creek into a retention pond, which then overflowed, spilling the creature into his neighbour\u2019s back yard. A visual analysis of nearby property confirmed it matches the physical landmarks in the video.\nLeslie Guelcher, a professor of intelligence studies at Mercyhurst University in Erie, Pennsylvania, was among the online sleuths who initially thought the video was fake.\n\u201cDon\u2019t think this is real. According to the index on the video it was created in June 2010. Someone else posted it at 10am as in Fort Myers, but the storm surge wasn\u2019t like that at 10am,\u201d she tweeted on Wednesday.\nGuelcher acknowledged later, though, that online tools she and others were using to establish the video\u2019s origins didn\u2019t actually show when the video itself was created, merely when the social media profile of the user was created.\nThe AP confirmed through the original clip\u2019s metadata that it was captured on Wednesday morning.\n\u201cIt makes a bit more sense from a flooding standpoint,\u201d Guelcher said by email, when informed the fish was spotted near an overflowing pond. \u201cBut how on earth would a shark go from the Gulf of Mexico to a retention pond?\u201d\nYannis Papastamatiou, a marine biologist who studies shark behavior at Florida International University, said most sharks leave shallow bays ahead of hurricanes, possibly tipped off to their arrival by a change in barometric pressure. A shark could have accidentally swum up into the creek, he said, or been washed into it.\n\u201cYoung bull sharks are common inhabitants of low salinity waters \u2013 rivers, estuaries, subtropical embayments \u2013 and often appear in similar videos in Florida water bodies connected to the sea, such as coastal canals and ponds,\u201d Burgess said. \u201cAssuming the location and date attributes are correct, it is likely this shark was swept shoreward with the rising seas.\u201d\nCameratta sent the video to a group chat on WhatsApp on Wednesday morning, according to his friend John Paul Murray, who sent the AP a timestamped screenshot.",
+                    "content_num": 787
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 9,
+                    "justification": "The Guardian is a well-respected news organization with a reputation for rigorous reporting and editorial standards. It has a history of accurate journalism and a commitment to transparency, making it a credible source for assessing the validity of claims and uncovering false information."
+                },
+                "Content Score": {
+                    "Newness Score": 9,
+                    "Newness Justification": "The Guardian article from September 30, 2022, is recent and provides relevant information regarding the shark video during Hurricane Ian.",
+                    "Relevance Score": 8,
+                    "Relevance Justification": "The evidence discusses the \"Shark tale\" video during Hurricane Ian, which is relevant to the general topic but might not directly authenticate the specific video mentioned in the question."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "'Street shark': Video captured as Hurricane Ian struck Florida shows ...",
+                "htmlTitle": "&#39;Street <b>shark</b>&#39;: <b>Video</b> captured as <b>Hurricane Ian</b> struck <b>Florida</b> shows ...",
+                "link": "https://www.ctvnews.ca/climate-and-environment/street-shark-video-captured-as-hurricane-ian-struck-florida-shows-mystery-fish-in-flooded-backyard-1.6090512",
+                "displayLink": "www.ctvnews.ca",
+                "snippet": "Sep 29, 2022 ... Photos and videos of sharks and other marine life swimming in suburban floodwaters make for popular hoaxes during massive storms.",
+                "htmlSnippet": "Sep 29, 2022 <b>...</b> Photos and <b>videos</b> of <b>sharks</b> and other marine life <b>swimming in</b> suburban floodwaters make for popular hoaxes <b>during</b> massive <b>storms</b>.",
+                "formattedUrl": "https://www.ctvnews.ca/.../street-shark-video-captured-as-hurricane-ian-stru...",
+                "htmlFormattedUrl": "https://www.ctvnews.ca/.../street-<b>shark</b>-<b>video</b>-captured-as-<b>hurricane</b>-<b>ian</b>-stru...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuxBHSR-V3JlKh5yngouY58ZrkaMVJHMWrglhGOzF8iBAxL1yaXETT7Jw&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "contenturl": "https://www.ctvnews.ca/content/experience-fragments/ctv_news/national/climate_and_environm/climate-and-environment-boa/master/_jcr_content/root/responsivegrid_27151_2081365707/responsivegrid_78099/teaser_copy_copy_cop_1623448575.coreimg.png/1674673134399/ctv-news-newsletter-promo.png"
+                        },
+                        {
+                            "contenturl": "https://www.ctvnews.ca/content/experience-fragments/ctv_news/national/climate_and_environm/climate-and-environment-boa/master/_jcr_content/root/responsivegrid_27151_2081365707/responsivegrid_78099/teaser_copy_copy_cop.coreimg.png/1623045332722/ctv-news--voice-promo.png"
+                        },
+                        {
+                            "contenturl": "https://www.ctvnews.ca/content/experience-fragments/ctv_news/national/climate_and_environm/climate-and-environment-boa/master/_jcr_content/root/responsivegrid_27151_2081365707/responsivegrid_78099/teaser_1461279347_co_1805837268.coreimg.png/1650379707643/ctv-news-app-promo.png"
+                        },
+                        {
+                            "contenturl": "https://www.ctvnews.ca/content/experience-fragments/ctv_news/national/climate_and_environm/climate-and-environment-boa/master/_jcr_content/root/responsivegrid_27151_2081365707/responsivegrid_78099/teaser_1461279347_co.coreimg.png/1694113837548/ctvnews-social-logos-1.png"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "template": "article-news",
+                            "og:image": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2022/9/29/-street-shark--video-from-florida-1-6090561-1664497829413.jpg",
+                            "og:type": "article",
+                            "twitter:title": "'Street shark': Video captured as Hurricane Ian struck Florida shows mystery fish in flooded backyard",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2022-09-29T20:48:00.000-04:00",
+                            "article:section": "Climate and Environment",
+                            "og:site_name": "CTVNews",
+                            "twitter:url": "https://www.ctvnews.ca/climate-and-environment/street-shark-video-captured-as-hurricane-ian-struck-florida-shows-mystery-fish-in-flooded-backyard-1.6090512",
+                            "og:title": "'Street shark': Video captured as Hurricane Ian struck Florida shows mystery fish in flooded backyard",
+                            "title": "Is video of shark swimming on Florida street real? | CTV News",
+                            "fb:pages": "194553860586548",
+                            "og:description": "Photos and videos of sharks and other marine life swimming in suburban floodwaters make for popular hoaxes during massive storms. But a cellphone video filmed during Hurricane Ian's assault on southwest Florida isn't just another fish story.",
+                            "twitter:creator": "@CTVNews",
+                            "twitter:image:src": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2022/9/29/-street-shark--video-from-florida-1-6090561-1664497829413.jpg",
+                            "twitter:site": "@CTVNews",
+                            "viewport": "initial-scale=1.0, width=device-width",
+                            "page-type": "aem-page",
+                            "twitter:description": "Photos and videos of sharks and other marine life swimming in suburban floodwaters make for popular hoaxes during massive storms. But a cellphone video filmed during Hurricane Ian's assault on southwest Florida isn't just another fish story.",
+                            "og:locale": "en_CA",
+                            "dc.date.modified": "2022-09-29T20:48:45.000-04:00",
+                            "og:url": "https://www.ctvnews.ca/climate-and-environment/street-shark-video-captured-as-hurricane-ian-struck-florida-shows-mystery-fish-in-flooded-backyard-1.6090512"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2022/9/29/-street-shark--video-from-florida-1-6090561-1664497829413.jpg"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "Climate and Environment",
+                            "name": "Climate and Environment",
+                            "position": "1"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Photos and videos of sharks and other marine life swimming in suburban floodwaters make for popular hoaxes during massive storms. But a cellphone video filmed during Hurricane Ian's assault on southwest Florida isn't just another fish story. The eye-popping video, which showed a large, dark fish with sharp dorsal fins thrashing around an inundated Fort Myers backyard, racked up more than 12 million views on Twitter within a day, as users responded with disbelief and comparisons to the \"Sharknado\" film series. Dominic Cameratta, a local real estate developer, confirmed he filmed the clip from his back patio Wednesday morning when he saw something \"flopping around\" in his neighbor's flooded yard. \"I didn't know what it was -- it just looked like a fish or something,\" he told The Associated Press. \"I zoomed in, and all my friends are like, 'It's like a shark, man!'\" He guessed the fish was about four feet (1.2 metres) in length. Experts were of mixed opinion on whether the clip showed a shark or another large fish. George Burgess, former director of the Florida Museum of Natural History's shark program, said in an email that it \"appears to be a juvenile shark,\" while Dr. Neil Hammerschlag, director of the University of Miami's shark conservation program, wrote that \"it's pretty hard to tell.\" Nevertheless, some Twitter users dubbed the hapless fish the \"street shark.\" The surge worsened in Fort Myers as the day went on. Cameratta said the flooding had only just begun when the clip was taken, but that the waters were \"all the way up to our house\" by the time the AP reached him by phone Wednesday evening. He said the fish may have made its way up from nearby Hendry Creek into a retention pond, which then overflowed, spilling the creature into his neighbor's backyard. A visual analysis of nearby property confirmed it matches the physical landmarks in the video. Leslie Guelcher, a professor of intelligence studies at Mercyhurst University in Erie, Pennsylvania, was among the online sleuths who initially thought the video was fake. \"Don't think this is real. According to the index on the video it was created in June 2010. Someone else posted it at 10 AM as in Fort Myers, but the storm surge wasn't like that at 10 AM,\" she tweeted Wednesday. Guelcher acknowledged later, though, that online tools she and others were using to establish the video's origins didn't actually show when the video itself was created, merely when the social media profile of the user was created. The AP confirmed through the original clip's metadata that it was captured Wednesday morning. \"It makes a bit more sense from a flooding standpoint,\" she said by email, when informed the fish was spotted near an overflowing pond. \"But how on earth would a shark go from the Gulf of Mexico to a retention pond?\" Yannis Papastamatiou, a marine biologist who studies shark behavior at Florida International University, said that most sharks flee shallow bays ahead of hurricanes, possibly tipped off to their arrival by a change in barometric pressure. A shark could have accidentally swum up into the creek, he said, or been washed into it. \"Young bull sharks are common inhabitants of low salinity waters -- rivers, estuaries, subtropical embayments -- and often appear in similar videos in FL water bodies connected to the sea such as coastal canals and ponds,\" Burgess said. \"Assuming the location and date attributes are correct, it is likely this shark was swept shoreward with the rising seas.\" Cameratta sent the video to a group chat on WhatsApp on Wednesday morning, according to his friend John Paul Murray, who sent the AP a timestamped screenshot. \"Amazing content,\" Murray wrote in reply. ------ Associated Press writers Philip Marcelo and Arijeta Lajka in New York contributed to this report. U.S. President Joe Biden and former president Donald Trump are set to go head-to-head tonight in the first of two planned presidential debates. Here's how to watch the CNN Presidential Debate, Power Play's pre- and post-debate specials, and follow along in our real-time CTVNews.ca live expert analysis and commentary by debate and body-language experts. For half a decade, a Saskatoon family has been trying to bring their orphaned niece to Canada, they say now it\u2019s a matter of life or death. A potential strike by WestJet airplane mechanics would upend travel plans for 250,000 customers over the Canada Day long weekend, the airline says \u2014 and cost it millions of dollars. A Nunavut judge has sentenced a Toronto woman to three years in prison in a case of Inuit identity fraud. The Supreme Court of Canada has rejected an application from a Saskatoon man who murdered his wife. Canada has welcomed more than 3.9 million new citizens since 2005, with nearly one third coming from India, the Philippines or China, according to a CTVNews.ca analysis. Fans of Marilyn Monroe have won a battle to preserve her mark on Los Angeles and are a step closer to seeing a towering statue of the silver screen icon remain in Palm Springs. A New Hampshire man charged with threatening the lives of presidential candidates last year has been found dead while a jury was deciding his verdict, according to court filings Thursday. So-called godfather of AI Geoffrey Hinton says he's 'pleased' governments are starting to take artificial intelligence, and the possible regulations of it, seriously. A 23-year-old man has died of his injuries after multiple shots were fired at a housing complex in North York's Shawnee Park area overnight. A judge dismissed all sexual misconduct charges against a Newfoundland lawyer Thursday, saying repeated inconsistencies and falsehoods in the complainant's accounts eroded her credibility and left him unable to believe her allegations. Winnipeg police say the occupants of a home that exploded in the Transcona neighbourhood on Wednesday were not there at the time of the blast. Calgary Mayor Jyoti Gondek issued a stern warning to residents on Thursday morning about curbing their water use, saying consumption levels ... [Content truncated]",
+                    "content_num": 1000
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 8,
+                    "justification": "CTV News is a reputable Canadian news source that covers a wide range of topics with a commitment to accuracy and fairness. While it may not have as extensive global reach as some other outlets, it maintains high standards of reporting that can help in verifying claims and identifying fake news."
+                },
+                "Content Score": {
+                    "Newness Score": 8,
+                    "Newness Justification": "The CTV News article from September 29, 2022, is recent and aligns with the timeline of the Hurricane Ian incident.",
+                    "Relevance Score": 7,
+                    "Relevance Justification": "While discussing sharks during storms, this evidence may not directly authenticate the specific video in question."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Florida 'street shark' caught in viral video during Hurricane Ian",
+                "htmlTitle": "<b>Florida</b> &#39;street <b>shark</b>&#39; caught <b>in</b> viral <b>video during Hurricane Ian</b>",
+                "link": "https://nypost.com/2022/09/30/florida-street-shark-caught-in-viral-video-during-hurricane-ian/",
+                "displayLink": "nypost.com",
+                "snippet": "Sep 30, 2022 ... A fishy video of a purported shark swimming in a Florida neighborhood during Hurricane Ian has been confirmed to be real \u2013 though it remains\u00a0...",
+                "htmlSnippet": "Sep 30, 2022 <b>...</b> A fishy <b>video</b> of a purported <b>shark swimming in</b> a <b>Florida</b> neighborhood <b>during Hurricane Ian</b> has been confirmed to be real \u2013 though it remains&nbsp;...",
+                "formattedUrl": "https://nypost.com/.../florida-street-shark-caught-in-viral-video-during-hurr...",
+                "htmlFormattedUrl": "https://nypost.com/.../<b>florida</b>-street-<b>shark</b>-caught-in-viral-<b>video</b>-<b>during</b>-<b>hurr</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNhSXS5cVQvdTm2ZHQYKijQKMF1Pt12C3zo72gOk1mrJObmyqoNc-St-U&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "p:domain_verify": "44b526edc36ffbcc163412ee9fe42833",
+                            "apple-itunes-app": "app-id=410094240, app-argument=nypost://nypost.com/2022/09/30/florida-street-shark-caught-in-viral-video-during-hurricane-ian/?id=24071062",
+                            "og:image": "https://nypost.com/wp-content/uploads/sites/2/2022/09/shark-street-40-copy.jpg?quality=75&strip=all&w=1024",
+                            "copyright": "Copyright 2024 NYP Holdings. All rights reserved.",
+                            "article:published_time": "2022-09-30T16:00:52+00:00",
+                            "og:image:width": "1024",
+                            "twitter:card": "summary_large_image",
+                            "sailthru.tags": ",florida,hoaxes,hurricane ian,hurricanes,sharks,US News",
+                            "og:site_name": "New York Post",
+                            "bingbot": "noarchive",
+                            "parsely-metadata": "{\"post_id\":\"nypost-24071062\"}",
+                            "og:description": "A fishy video of a purported shark swimming in a Florida neighborhood during Hurricane Ian has been confirmed to be real \u2013 though it remains unclear if it was a predator plying the waters.",
+                            "twitter:creator": "@ysteinbuch",
+                            "twitter:image": "https://nypost.com/wp-content/uploads/sites/2/2022/09/shark-street-40-copy.jpg?quality=75&strip=all&w=1024",
+                            "og:image:secure_url": "https://nypost.com/wp-content/uploads/sites/2/2022/09/shark-street-40-copy.jpg?quality=75&strip=all&w=1024",
+                            "article:publisher": "https://www.facebook.com/nypost",
+                            "twitter:text:title": "Florida 'street shark' caught in viral video during Hurricane Ian",
+                            "twitter:site": "@nypost",
+                            "article:modified_time": "2022-09-30T17:08:12+00:00",
+                            "sailthru.title": "Florida \u2018street shark\u2019 caught in viral video during Hurricane Ian",
+                            "article:content_tier": "free",
+                            "sailthru.date": "2022-09-30 12:00:52",
+                            "nypost-section": "US News",
+                            "og:type": "article",
+                            "twitter:title": "Florida 'street shark' caught in viral video during Hurricane Ian",
+                            "msvalidate.01": "8188997BC82071CE07AB711B5675CE54",
+                            "og:title": "Florida \u2018street shark\u2019 caught in viral video during Hurricane Ian",
+                            "og:image:height": "682",
+                            "twitter:image:src": "https://nypost.com/wp-content/uploads/sites/2/2022/09/shark-street-40-copy.jpg?quality=75&strip=all&w=1024",
+                            "sailthru.description": "<p>A fishy video of a purported shark swimming in a Florida neighborhood during Hurricane Ian has been confirmed to be real \u2013 though it remains unclear if it was a predator plying the waters.</p>",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "A fishy video of a purported shark swimming in a Florida neighborhood during Hurricane Ian has been confirmed to be real \u2013 though it remains unclear if it was a predator plying the waters.",
+                            "og:locale": "en_US",
+                            "og:url": "https://nypost.com/2022/09/30/florida-street-shark-caught-in-viral-video-during-hurricane-ian/",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://nypost.com/wp-content/uploads/sites/2/2022/09/shark-street-40-copy.jpg?quality=75&strip=all&w=1024"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://nypost.com/2022/09/30/florida-street-shark-caught-in-viral-video-during-hurricane-ian/: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+                    "content_num": 0
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 7,
+                    "justification": "The New York Post is known for its sensationalist style and tabloid approach to news. While it occasionally produces solid investigative pieces, its credibility can be impacted by the emphasis on attention-grabbing headlines rather than in-depth fact-checking or thorough exposure of fake news."
+                },
+                "Content Score": {
+                    "Newness Score": 7,
+                    "Newness Justification": "The article from the New York Post was published on September 30, 2022, providing relatively recent information.",
+                    "Relevance Score": 8,
+                    "Relevance Justification": "The evidence directly addresses the video of a shark during Hurricane Ian, making it relevant to the specific claim."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Hurricane Ian video of 'street shark' swimming up floodwater is real ...",
+                "htmlTitle": "<b>Hurricane Ian video</b> of &#39;street <b>shark</b>&#39; <b>swimming</b> up floodwater is real ...",
+                "link": "https://www.independent.co.uk/climate-change/news/hurricane-ian-viral-street-shark-video-b2181560.html",
+                "displayLink": "www.independent.co.uk",
+                "snippet": "Sep 30, 2022 ... Racking up more than 13 million views on Twitter, the video showed a large, dark fish with sharp dorsal fins thrashing in the flood water, as\u00a0...",
+                "htmlSnippet": "Sep 30, 2022 <b>...</b> Racking up more than 13 million views on Twitter, the <b>video</b> showed a large, dark fish with sharp dorsal fins thrashing <b>in</b> the <b>flood</b> water, as&nbsp;...",
+                "formattedUrl": "https://www.independent.co.uk/.../hurricane-ian-viral-street-shark-video-b2...",
+                "htmlFormattedUrl": "https://www.independent.co.uk/.../<b>hurricane</b>-<b>ian</b>-viral-street-<b>shark</b>-<b>video</b>-b2...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg1b-Aq82tncZ1RboTjjvsRWCuamvDFsi4qfaH2n1CVICpR3vcHIuqKTU8&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "date": "2022-09-30T05:21:04.000Z",
+                            "og:image": "https://static.independent.co.uk/2022/09/30/05/newFile.jpg?quality=75&width=1200&auto=webp",
+                            "article:published_time": "2022-09-30T05:21:04.000Z",
+                            "theme-color": "#f7f7f7",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "The Independent",
+                            "article:image_count": "1",
+                            "og:description": "Experts are divided over the identity of acquatic animal, with some claiming it is a shark",
+                            "twitter:image": "https://static.independent.co.uk/2022/09/30/05/newFile.jpg?quality=75&width=1200&auto=webp",
+                            "og:image:secure_url": "https://static.independent.co.uk/2022/09/30/05/newFile.jpg?quality=75&width=1200&auto=webp",
+                            "article:embed_count": "3",
+                            "twitter:site": "@Independent",
+                            "article:modified_time": "2022-09-30T05:21:04.000Z",
+                            "article:author_name": "Namita Singh",
+                            "sitename": "The Independent",
+                            "page type": "Article",
+                            "article:section": "Climate",
+                            "twitter:title": "Hurricane Ian video of \u2018street shark\u2019 swimming up floodwater is real",
+                            "og:type": "article",
+                            "page path": "/climate-change/news",
+                            "article:word_count": "568",
+                            "article:video_count": "1",
+                            "amp-google-client-id-api": "googleanalytics",
+                            "og:title": "Hurricane Ian video of \u2018street shark\u2019 swimming up floodwater is real",
+                            "og:updated_time": "2022-09-30T05:21:04.000Z",
+                            "fb:pages": "https://www.facebook.com/TheIndependentOnline",
+                            "fb:app_id": "235586169789578",
+                            "article:content_type": "story",
+                            "adpagetype": "Article Page",
+                            "article:internal_link_count": "3",
+                            "viewport": "width=device-width,initial-scale=1,user-scalable=no,minimum-scale=1,maximum-scale=1",
+                            "article:subsection": "News",
+                            "twitter:description": "Experts are divided over the identity of acquatic animal, with some claiming it is a shark",
+                            "og:locale": "en_GB",
+                            "category": "News",
+                            "og:url": "https://www.independent.co.uk/climate-change/news/hurricane-ian-viral-street-shark-video-b2181560.html",
+                            "google-signin-client_id": "329250492844-uqochn2f1j5ljkshuap5gc7qphf1refj.apps.googleusercontent.com",
+                            "article:external_link_count": "0"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.independent.co.uk/2022/09/30/05/newFile.jpg?quality=75&width=1200&auto=webp"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.independent.co.uk/climate-change/news/hurricane-ian-viral-street-shark-video-b2181560.html: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+                    "content_num": 0
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 8,
+                    "justification": "The Independent is a reputable British news source that focuses on independent journalism and diverse perspectives. While it upholds solid editorial standards, its coverage may vary in depth and thoroughness, affecting its ability to consistently and thoroughly detect and debunk fake news."
+                },
+                "Content Score": {
+                    "Newness Score": 8,
+                    "Newness Justification": "The Independent article from September 30, 2022, is recent and aligns with the Hurricane Ian incident timeline.",
+                    "Relevance Score": 8,
+                    "Relevance Justification": "The evidence specifically discusses the video of a \"street shark\" during Hurricane Ian, which is highly relevant to the claim."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Hurricane Ian 'street shark' video defies belief - The Christian Index",
+                "htmlTitle": "<b>Hurricane Ian</b> &#39;street <b>shark</b>&#39; <b>video</b> defies belief - The Christian Index",
+                "link": "https://christianindex.org/stories/hurricane-ian-street-shark-video-defies-belief,34318",
+                "displayLink": "christianindex.org",
+                "snippet": "Sep 29, 2022 ... Photos and videos of sharks and other marine life swimming in ... But a cellphone video filmed during Hurricane Ian's assault on southwest Florida\u00a0...",
+                "htmlSnippet": "Sep 29, 2022 <b>...</b> Photos and <b>videos</b> of <b>sharks</b> and other marine life <b>swimming in</b> ... But a cellphone <b>video</b> filmed <b>during Hurricane Ian&#39;s</b> assault on southwest <b>Florida</b>&nbsp;...",
+                "formattedUrl": "https://christianindex.org/.../hurricane-ian-street-shark-video-defies-belief,3...",
+                "htmlFormattedUrl": "https://christ<b>ian</b>index.org/.../<b>hurricane</b>-<b>ian</b>-street-<b>shark</b>-<b>video</b>-defies-belief,3...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ10F0xUXExNONO7v0sUPAagkvIbuMyfgqINcRw6zY-nSBJtlO8VUdxEPcV&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://epsilon.creativecirclecdn.com/christianindex/original/20230306-111509-tci-og.png.jpg",
+                            "twitter:title": "Hurricane Ian \u2018street shark\u2019 video defies belief - The Christian Index",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "The Christian Index",
+                            "og:title": "Hurricane Ian \u2018street shark\u2019 video defies belief - The Christian Index",
+                            "og:description": "Photos and videos of sharks and other marine life swimming in suburban floodwaters make for popular hoaxes during massive storms. But a cellphone video filmed during Hurricane Ian\u2019s assault on southwest Florida isn\u2019t just another fish story.",
+                            "twt-article-url": "https://christianindex.org/stories/hurricane-ian-street-shark-video-defies-belief,34318",
+                            "twitter:image": "https://epsilon.creativecirclecdn.com/christianindex/original/20230306-111509-tci-og.png.jpg",
+                            "fb:app_id": "1782340335416902",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                            "twitter:description": "Photos and videos of sharks and other marine life swimming in suburban floodwaters make for popular hoaxes during massive storms. But a cellphone video filmed during Hurricane Ian\u2019s assault on southwest Florida isn\u2019t just another fish story.",
+                            "og:url": "https://christianindex.org/stories/hurricane-ian-street-shark-video-defies-belief,34318"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://epsilon.creativecirclecdn.com/christianindex/original/20230306-111509-tci-og.png.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\n\n\n\nPhotos and videos of sharks and other marine life swimming in suburban floodwaters make for popular hoaxes during massive storms. But a cellphone video filmed during Hurricane Ian\u2019s assault on southwest Florida isn\u2019t just another fish story.\nThe eye-popping video, which showed a large, dark fish with sharp dorsal fins thrashing around an inundated Fort Myers backyard, racked up more than 12 million views on Twitter within a day, as users responded with disbelief and comparisons to the \u201cSharknado\u201d film series.\nDominic Cameratta, a local real estate developer, confirmed he filmed the clip from his back patio Wednesday morning when he saw something \u201cflopping around\u201d in his neighbor\u2019s flooded yard.\n\u201cI didn\u2019t know what it was \u2014 it just looked like a fish or something,\u201d he told The Associated Press. \u201cI zoomed in, and all my friends are like, \u2018It\u2019s like a shark, man!\u2019 \u201d\nHe guessed the fish was about 4 feet in length.\nExperts were of mixed opinion on whether the clip showed a shark or another large fish. George Burgess, former director of the Florida Museum of Natural History\u2019s shark program, said in an email that it \u201cappears to be a juvenile shark,\u201d while Dr. Neil Hammerschlag, director of the University of Miami\u2019s shark conservation program, wrote that \u201cit\u2019s pretty hard to tell.\u201d\nNevertheless, some Twitter users dubbed the hapless fish the \u201cstreet shark.\u201d\nThe surge\u00a0worsened in Fort Myers\u00a0as the day went on. Cameratta said the flooding had only just begun when the clip was taken, but that the waters were \u201call the way up to our house\u201d by the time the AP reached him by phone Wednesday evening.\nHe said the fish may have made its way up from nearby Hendry Creek into a retention pond, which then overflowed, spilling the creature into his neighbor\u2019s backyard. A visual analysis of nearby property confirmed it matches the physical landmarks in the video.\nThe AP confirmed through the original clip\u2019s metadata that it was captured Wednesday morning.\n\u201cIt makes a bit more sense from a flooding standpoint,\u201d she said by email, when informed the fish was spotted near an overflowing pond. \u201cBut how on earth would a shark go from the Gulf of Mexico to a retention pond?\u201d\nYannis Papastamatiou, a marine biologist who studies shark behavior at Florida International University, said that most sharks flee shallow bays ahead of hurricanes, possibly tipped off to their arrival by a change in barometric pressure. A shark could have accidentally swum up into the creek, he said, or been washed into it.\n\u201cYoung bull sharks are common inhabitants of low salinity waters \u2014 rivers, estuaries, subtropical embayments \u2014 and often appear in similar videos in FL water bodies connected to the sea such as coastal canals and ponds,\u201d Burgess said. \u201cAssuming the location and date attributes are correct, it is likely this shark was swept shoreward with the rising seas.\u201d\nCameratta sent the video to a group chat on WhatsApp on Wednesday morning, according to his friend John Paul Murray, who sent the AP a timestamped screenshot.\n\u201cAmazing content,\u201d Murray wrote in reply.\n\n\n\n\n\n\t        Other items that may interest you\n\t      \n\n\n\n\n\n            4295 Brogdon Exchange Suwanee, GA 30024-3980\n770-936-5599\n",
+                    "content_num": 687
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 6,
+                    "justification": "The Christian Index is a niche publication that primarily caters to a specific audience. While it may offer accurate information on certain topics, its focus on a particular viewpoint could impact its ability to provide a balanced perspective and comprehensive fact-checking, potentially limiting its effectiveness in detecting and exposing fake news."
+                },
+                "Content Score": {
+                    "Newness Score": 6,
+                    "Newness Justification": "The Christian Index article from September 29, 2022, is slightly older compared to some other sources.",
+                    "Relevance Score": 6,
+                    "Relevance Justification": "The evidence discusses sharks swimming during Hurricane Ian, but the relevance to the specific video in question may be lower."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Is disinformation during natural disasters an emerging vulnerability ...",
+                "htmlTitle": "Is disinformation <b>during</b> natural disasters an emerging vulnerability ...",
+                "link": "https://www.soas.ac.uk/about/blog/disinformation-during-natural-disasters-emerging-vulnerability",
+                "displayLink": "www.soas.ac.uk",
+                "snippet": "Feb 20, 2023 ... ... during the flooding ... video of sharks swimming on the highway. Hurricane Ian brought that same shark to Fort Myers, Florida, in 2022.",
+                "htmlSnippet": "Feb 20, 2023 <b>...</b> ... <b>during</b> the <b>flooding</b> ... <b>video</b> of <b>sharks swimming</b> on the <b>highway</b>. <b>Hurricane Ian</b> brought that same <b>shark</b> to Fort Myers, <b>Florida</b>, <b>in</b> 2022.",
+                "formattedUrl": "https://www.soas.ac.uk/.../disinformation-during-natural-disasters-emerging...",
+                "htmlFormattedUrl": "https://www.soas.ac.uk/.../disinformation-<b>during</b>-natural-disasters-emerging...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyoecAWilSox6ZwT4Kt-oq6UVjaM0hSv8rSqsSrDrcBvUNyTlTrXoXq0&s",
+                            "width": "232",
+                            "height": "217"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "application-name": "\u00a0",
+                            "msapplication-tilecolor": "#FFFFFF",
+                            "og:image": "https://www.soas.ac.ukNatural disaster in Buenos Aires Argentina.jpg",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Is disinformation during natural disasters an emerging vulnerability?",
+                            "theme-color": "#F2A900",
+                            "msapplication-square70x70logo": "/themes/custom/numiko/favicons/mstile-70x70.png",
+                            "og:site_name": "SOAS",
+                            "og:image:url": "https://www.soas.ac.uk/sites/default/files/styles/uncropped_large/public/2023-02/Boy%20watching%20the%20flood%20in%20Buenos%20Aires%20Argentina.jpg?itok=vVgNYGkw",
+                            "handheldfriendly": "true",
+                            "og:title": "Is disinformation during natural disasters an emerging vulnerability?",
+                            "msapplication-wide310x150logo": "/themes/custom/numiko/favicons/mstile-310x150.png",
+                            "msapplication-tileimage": "/themes/custom/numiko/favicons/mstile-144x144.png",
+                            "og:description": "The weaponisation of information is nothing new. But increasingly, disaster disinformation is offering unique conditions for powerful influence campaigns to go against communities at their most vulnerable.",
+                            "msapplication-square150x150logo": "/themes/custom/numiko/favicons/mstile-150x150.png",
+                            "twitter:image": "https://www.soas.ac.uk/sites/default/files/styles/uncropped_large/public/2023-02/Boy%20watching%20the%20flood%20in%20Buenos%20Aires%20Argentina.jpg?itok=vVgNYGkw",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "msapplication-square310x310logo": "/themes/custom/numiko/favicons/mstile-310x310.png",
+                            "twitter:description": "The weaponisation of information is nothing new. But increasingly, disaster disinformation is offering unique conditions for powerful influence campaigns to go against communities at their most vulnerable.",
+                            "mobileoptimized": "width",
+                            "og:url": "https://www.soas.ac.uk/about/blog/disinformation-during-natural-disasters-emerging-vulnerability"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.soas.ac.uk/themes/custom/numiko/dist/img/raster/background-texture-default-desktop.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Please enable JavaScript in your web browser to get the best experience. Tom Johansmeyer Published 20 February 2023 The weaponisation of information is nothing new. Foreign influence operations involving Brexit and the 2016 U.S. presidential election are recent high-profile examples of a much larger problem. The targeted use of information operations has permeated society and will only grow with time. Unfortunately, that\u2019s not our only problem. Thanks to climate change, more natural disasters are coming, and they\u2019re becoming more powerful and more impactful. The disaster-disinformation nexus offers unique conditions for powerful and frequent influence campaigns against communities at their most vulnerable. And while this hasn\u2019t been a large problem yet, indicators of its coming abound. People seek stability and reliability during periods of uncertainty, and they will often take anything that looks helpful, seems to make sense, or otherwise fills a void. Absent the perfect, it seems, anything will suffice. Consequently, disinformation is common following major natural disasters. The rise of social media makes it easier for convenient \u2013 if not true \u2013 information to spread rapidly and take on a life of its own. Although the rumour and fiction that forms and spread after a natural disaster can often be harmless, there are cases where disinformation can impede rescue and relief efforts. Before turning to the grave, let\u2019s consider the absurd. Hurricane Irma, in 2017, reportedly led to the displacement of sharks onto a Florida highway. The same story \u2013 and image \u2013 made the rounds after Hurricanes Harvey and Florence. Hurricane sharks are as common as they are false. The risk of highway sharks may not be terribly significant, especially if highways are so flooded as to be unusable. The thought of sharks on the interstate is good for a laugh \u2013 and moment of reflection on what people will actually believe. Unfortunately, though, there is a dark side to disaster information. False and inaccurate reports can impede rescue and relief efforts cost people their lives. This happened in the Indian state of Kerala in 2018. Fake video circulated during the flooding event interfered with rescue operations. Fake news in Mali disrupted United Nations missions, and in 2005, exaggerated reports of looting and other violence interfered with Hurricane Katrina response efforts. Preparations and planning are already being discussed for ways to counteract the growing post-disaster disinformation threat. Fake news has real-world consequences, and the stakes are about to go up. Historical cases of disaster-related disinformation generally have been more grassroots than from outside influence and state actors, but that\u2019s about to change. Foreign influence operations have already been deployed to considerable effect during periods of vulnerability generally, if not disasters specifically \u2013 from elections to civil unrest. The increasing cadence of major natural disasters due to climate change could offer more opportunities for the weaponization of foreign influence, especially when communities are weakened and local institutions are strained. Let\u2019s go back to those hurricane sharks. The disinformation that circulated online following the 2017 and 2018 hurricanes appears simply to have been a hoax \u2013 just a manipulated video of sharks swimming on the highway. Hurricane Ian brought that same shark to Fort Myers, Florida, in 2022. This time, coverage appeared in Sputnik News (Warning: Not a credible source of information, linked here), a known foreign government-sponsored source of disinformation. Beyond the highway sharks, Sputnik News sought to advance a narrative of ineffective government response following the hurricane (Warning, not credible, linked here), a clear case of post-disaster foreign influence, even if on a small scale. The weaponization of post-disaster disinformation and influence isn\u2019t limited to the Gulf of Mexico. It\u2019s a worldwide problem. Foreign influence has found traction with the drought in currently in Moldova, with foreign influence used to create wedges between semi-autonomous regions Transnistria and Gagauzia and the government in Chisinau. News coverage critical of the country\u2019s government is using issues such as economic and energy insecurity to foment civil unrest in a part of the world already experiencing destabilization. The disaster-disinformation nexus in Moldova may seem too small to follow closely \u2013 the country has only 3 million people \u2013 but global effects could follow. Today\u2019s interference could support the development of a playbook for post-disaster disinformation and influence, adding scale to this budding problem. The world\u2019s disinformation plague is vast and complex, defying simple, direct, and easily implemented solutions. Within the disaster-disinformation nexus, however, it may be more manageable. Specific, contextually relevant steps can be taken to curb the impact of disinformation and foreign influence on communities affected by natural disasters. And frankly, there\u2019s no substitute for real life. Consider the Sputnik News story alleging that the government had abandoned the victims of Hurricane Ian. The situation on the ground was clearly far different from the allegation. Rebuilding a community (even a household) after a disaster is a trying time, but there is a lot of mileage between challenging circumstances and government abandonment. Relief supplies and professionals were engaged as soon as possible to help effect a swift and orderly recovery. A strong disaster response plan may not be enough to neutralise disinformation after a natural disaster, but it certainly makes a difference. Access to basic necessities and visual proof of progress makes it much harder for the trolls to do their job. *The views expressed herein are those of the author, based on research conducted by the author, and may not necessarily represent the views of others unless otherwise noted. PCS, a Verisk business, generally provides data and analytics to the global re/insurance and ILS markets. PCS captures reported loss information on certain events, which encompasses, on average, approximately 70% of the market. Any reference to industry-wide is based on this research and the author\u2019s view of trends in the industry and does not necessarily represent the view(s) of others in the industry. Tom Johansmeyer is SVP and Head of PCS at Verisk, which he has led since 2016. Under Tom\u2019s leadership, PCS has expanded worldwide for property-catastrophe and specialty lines risks, including ... [Content truncated]",
+                    "content_num": 1000
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 6,
+                    "justification": "The School of Oriental and African Studies (SOAS) website serves as an academic resource for research and education. While it may provide valuable insights and scholarly perspectives, its primary focus on academic content may limit its direct impact on verifying claims related to news events and detecting fake news in a real-time journalistic context."
+                },
+                "Content Score": {
+                    "Newness Score": 6,
+                    "Newness Justification": "The SOAS article from February 20, 2023, is less recent compared to other sources but still provides relevant information.",
+                    "Relevance Score": 7,
+                    "Relevance Justification": "While discussing disinformation during natural disasters, the evidence may not directly authenticate the specific video mentioned in the question."
+                }
+            }
+        }
+    ]
+}
