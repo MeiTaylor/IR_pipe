@@ -1,0 +1,259 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Past instances of mistaken identities of sharks in floodwaters during hurricanes. This query targets historical data and examples similar to the initial QA context. It aims to find documented cases where objects were misidentified as sharks and the criteria or evidence used to correct those misidentifications during hurricanes or other extreme weather events.",
+                "totalResults": "282",
+                "searchTerms": "Past instances of mistaken identities of sharks in floodwaters during hurricanes. This query targets historical data and examples similar to the initial QA context. It aims to find documented cases where objects were misidentified as sharks and the criteria or evidence used to correct those misidentifications during hurricanes or other extreme weather events.",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Past instances of mistaken identities of sharks in floodwaters during hurricanes. This query targets historical data and examples similar to the initial QA context. It aims to find documented cases where objects were misidentified as sharks and the criteria or evidence used to correct those misidentifications during hurricanes or other extreme weather events.",
+                "totalResults": "282",
+                "searchTerms": "Past instances of mistaken identities of sharks in floodwaters during hurricanes. This query targets historical data and examples similar to the initial QA context. It aims to find documented cases where objects were misidentified as sharks and the criteria or evidence used to correct those misidentifications during hurricanes or other extreme weather events.",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.33303,
+        "formattedSearchTime": "0.33",
+        "totalResults": "282",
+        "formattedTotalResults": "282"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "https://www.eecis.udel.edu/~lliao/cis320f05/dictio...",
+                "htmlTitle": "https://www.eecis.udel.edu/~lliao/cis320f05/dictio...",
+                "link": "https://www.eecis.udel.edu/~lliao/cis320f05/dictionary.txt",
+                "displayLink": "www.eecis.udel.edu",
+                "snippet": "... aim aimed aimer aimers aiming aimless aimlessly aimlessness aims ain ain't aintab Ainu air airbag airbags airbag's airboat airborne airbrick airbrush ...",
+                "htmlSnippet": "... <b>aim aimed</b> aimer aimers <b>aiming</b> aimless aimlessly aimlessness <b>aims</b> ain ain&#39;t aintab Ainu air airbag airbags airbag&#39;s airboat airborne airbrick airbrush&nbsp;...",
+                "formattedUrl": "https://www.eecis.udel.edu/~lliao/cis320f05/dictionary.txt",
+                "htmlFormattedUrl": "https://www.eecis.udel.edu/~lliao/cis320f05/dictionary.txt",
+                "mime": "text/plain",
+                "fileFormat": "text/plain",
+                "website_content": {
+                    "content": "Error fetching https://www.eecis.udel.edu/~lliao/cis320f05/dictionary.txt: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+                    "content_num": 0
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "https://nlp.stanford.edu/~lmthang/morphoNLM/cwCsmR...",
+                "htmlTitle": "https://nlp.stanford.edu/~lmthang/morphoNLM/cwCsmR...",
+                "link": "https://nlp.stanford.edu/~lmthang/morphoNLM/cwCsmRNN.words",
+                "displayLink": "nlp.stanford.edu",
+                "snippet": "... aim aim0 aimag aimal aime aimed aimee aiming aimless aimlessly aims aimtc ain aina aine ainge aino ainsi ainsley ainslie ainsworth aintree ainu ainur aio ...",
+                "htmlSnippet": "... <b>aim</b> aim0 aimag aimal aime <b>aimed</b> aimee <b>aiming</b> aimless aimlessly <b>aims</b> aimtc ain aina aine ainge aino ainsi ainsley ainslie ainsworth aintree ainu ainur aio&nbsp;...",
+                "formattedUrl": "https://nlp.stanford.edu/~lmthang/morphoNLM/cwCsmRNN.words",
+                "htmlFormattedUrl": "https://nlp.stanford.edu/~lmthang/morphoNLM/cwCsmRNN.words",
+                "mime": "text/plain",
+                "fileFormat": "text/plain",
+                "website_content": {
+                    "content": "Error fetching https://nlp.stanford.edu/~lmthang/morphoNLM/cwCsmRNN.words: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+                    "content_num": 0
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "http://www.stat.yale.edu/~tba3/class_data/aclImdb/...",
+                "htmlTitle": "http://www.stat.yale.edu/~tba3/class_data/aclImdb/...",
+                "link": "http://www.stat.yale.edu/~tba3/class_data/aclImdb/imdb.vocab",
+                "displayLink": "www.stat.yale.edu",
+                "snippet": "the and a of to is it in i this that was as for with movie but film on not ... those watching real though now doesn't thing years actors director ...",
+                "htmlSnippet": "the and a of to is it in i this that <b>was</b> as <b>for</b> with movie but film on not ... <b>those</b> watching real though now doesn&#39;t thing years actors director&nbsp;...",
+                "formattedUrl": "http://www.stat.yale.edu/~tba3/class_data/aclImdb/imdb.vocab",
+                "htmlFormattedUrl": "http://www.stat.yale.edu/~tba3/class_<b>data</b>/aclImdb/imdb.vocab",
+                "mime": "text/plain",
+                "fileFormat": "text/plain",
+                "website_content": {
+                    "content": "Error fetching http://www.stat.yale.edu/~tba3/class_data/aclImdb/imdb.vocab: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+                    "content_num": 0
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "https://osf.io/s95uj/?action=download",
+                "htmlTitle": "https://osf.io/s95uj/?action=download",
+                "link": "https://osf.io/s95uj/?action=download",
+                "displayLink": "osf.io",
+                "snippet": "... right here still look thing feel now there something get most find try better how before use give life help she sure no lot every into then than great keep down ...",
+                "htmlSnippet": "... <b>right</b> here still look thing feel now there something <b>get</b> most <b>find</b> try better how before <b>use</b> give life help she sure no lot every into then than great keep down&nbsp;...",
+                "formattedUrl": "https://osf.io/s95uj/?action=download",
+                "htmlFormattedUrl": "https://osf.io/s95uj/?action=download",
+                "mime": "text/plain",
+                "fileFormat": "text/plain",
+                "website_content": {
+                    "content": "Error fetching https://osf.io/s95uj/?action=download: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+                    "content_num": 0
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "https://huggingface.co/dalle-mini/dalle-mini/resol...",
+                "htmlTitle": "https://huggingface.co/dalle-mini/dalle-mini/resol...",
+                "link": "https://huggingface.co/dalle-mini/dalle-mini/resolve/main/enwiki-words-frequency.txt",
+                "displayLink": "huggingface.co",
+                "snippet": "May 17, 2022 ... ... for 21222776 as 20701370 with 18229440 by 17793774 he 16069614 that 14320978 at 14169358 from 13442868 his 12466752 it 11647633 an 9797292 were ...",
+                "htmlSnippet": "May 17, 2022 <b>...</b> ... <b>for</b> 21222776 as 20701370 with 18229440 by 17793774 he 16069614 that 14320978 <b>at</b> 14169358 from 13442868 his 12466752 it 11647633 an 9797292 <b>were</b>&nbsp;...",
+                "formattedUrl": "https://huggingface.co/dalle-mini/dalle-mini/.../enwiki-words-frequency.txt",
+                "htmlFormattedUrl": "https://huggingface.co/dalle-mini/dalle-mini/.../enwiki-words-frequency.txt",
+                "mime": "text/plain",
+                "fileFormat": "text/plain",
+                "website_content": {
+                    "content": "Error fetching https://huggingface.co/dalle-mini/dalle-mini/resolve/main/enwiki-words-frequency.txt: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+                    "content_num": 0
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "https://cs.brynmawr.edu/Courses/cs325/fall2013/big...",
+                "htmlTitle": "https://cs.brynmawr.edu/Courses/cs325/fall2013/big...",
+                "link": "https://cs.brynmawr.edu/Courses/cs325/fall2013/bigWordList.txt",
+                "displayLink": "cs.brynmawr.edu",
+                "snippet": "... find price date back top people had list name just over state year day into email two health n world re next used go b work last most products music buy data ...",
+                "htmlSnippet": "... <b>find price</b> date back top <b>people</b> had list name just <b>over</b> state year day into email two health n world re next <b>used</b> go b work <b>last</b> most products music buy <b>data</b>&nbsp;...",
+                "formattedUrl": "https://cs.brynmawr.edu/Courses/cs325/fall2013/bigWordList.txt",
+                "htmlFormattedUrl": "https://cs.brynmawr.edu/Courses/cs325/fall2013/bigWordList.txt",
+                "mime": "text/plain",
+                "fileFormat": "text/plain",
+                "website_content": {
+                    "content": "Error fetching https://cs.brynmawr.edu/Courses/cs325/fall2013/bigWordList.txt: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+                    "content_num": 0
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Problem Statements",
+                "htmlTitle": "Problem Statements",
+                "link": "https://qa.sih.gov.in/sih2022PS",
+                "displayLink": "qa.sih.gov.in",
+                "snippet": "Hosting a blockchain code on to a cloud network in order to create a prototype app in the Healthcare sector. Problem Statement short description in a short ...",
+                "htmlSnippet": "Hosting a blockchain code on to a cloud network in order to create a prototype app in the Healthcare sector. Problem Statement short description in a short&nbsp;...",
+                "formattedUrl": "https://qa.sih.gov.in/sih2022PS",
+                "htmlFormattedUrl": "https://<b>qa</b>.sih.gov.in/sih2022PS",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG-6ULJMxIMlgVi9nBNQmzSv7kGvQCcKjSzhPHfVmv0DUntIfyi29KIQ&s",
+                            "width": "204",
+                            "height": "92"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                            "csrf-token": "BAxuAYinPFmh6ytOcuoeXu1jjvWo7m8CoBt6iZer"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://qa.sih.gov.in/img1/SMART-INDIA-HACKATHON-2020.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://qa.sih.gov.in/sih2022PS: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+                    "content_num": 0
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "https://mre.no/httpdocs/js/zxcvbn/data/english_wik...",
+                "htmlTitle": "https://mre.no/httpdocs/js/zxcvbn/data/english_wik...",
+                "link": "https://mre.no/httpdocs/js/zxcvbn/data/english_wikipedia.txt",
+                "displayLink": "mre.no",
+                "snippet": "... at 9547254 from 9187288 his 8728696 it 8458961 an 6829504 were 5781035 are 5535638 which 5312331 doc 4963658 https 4954504 this 4704156 also 4553593 be ...",
+                "htmlSnippet": "... <b>at</b> 9547254 from 9187288 his 8728696 it 8458961 an 6829504 <b>were</b> 5781035 <b>are</b> 5535638 which 5312331 doc 4963658 https 4954504 this 4704156 also 4553593 be&nbsp;...",
+                "formattedUrl": "https://mre.no/httpdocs/js/zxcvbn/data/english_wikipedia.txt",
+                "htmlFormattedUrl": "https://mre.no/httpdocs/js/zxcvbn/<b>data</b>/english_wikipedia.txt",
+                "mime": "text/plain",
+                "fileFormat": "text/plain",
+                "website_content": {
+                    "content": "Error fetching https://mre.no/httpdocs/js/zxcvbn/data/english_wikipedia.txt: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+                    "content_num": 0
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Freshwater Fishes of Iran - Introduction",
+                "htmlTitle": "Freshwater Fishes of Iran - Introduction",
+                "link": "http://www.briancoad.com/species%20accounts/introduction%20new.htm",
+                "displayLink": "www.briancoad.com",
+                "snippet": "Note that the species formerly in the family Cyprinidae are now assigned to seven families in Iran. The less speciose families are published as journal articles ...",
+                "htmlSnippet": "Note that the species formerly in the family Cyprinidae <b>are</b> now assigned to seven families in Iran. The less speciose families <b>are</b> published as journal articles&nbsp;...",
+                "formattedUrl": "http://www.briancoad.com/species%20accounts/introduction%20new.htm",
+                "htmlFormattedUrl": "http://www.briancoad.com/species%20accounts/introduction%20new.htm",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "progid": "FrontPage.Editor.Document"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Freshwater Fishes of Iran Introduction Revised: 12 September 2021 Contents 1. Introduction - (includes as one file Contents, Acknowledgements, Purpose, Materials and Methods, History of Research, Fisheries, Geography, Climate, Habitats, Environmental Change, Drainage Basins, Scientific Names, Fish Structure, Collecting Fishes, Preserving Fishes, Checklists, Glossaries, and Quotes). Note that Voume 1 of Carps and Minnows of Iran (see below for link) repeats and expands on these entries. 2. Species Accounts a. Description + Acipenseridae b. Cobitidae + Nemacheilidae + Salmonidae + Cyprinodontidae; c. Sparidae+ Cichlidae + Gobiidae. 3. Bibliography 1711-2013 (note the papers listed in Published Accounts have updated bibliographies and contain references not found here). 4. Published Accounts The families Adrianichthyidae (Oryzias latipes), Percichthyidae (Morone saxatilis), Centrarchidae (Lepomis macrochirus and Micropterus salmoides), Mullidae (Mullus barbatus), Scophthalmidae (Psetta maxima) and Pleuronectidae (Platichthys flesus) are deleted from this work as the species therein have not been confirmed from Iran (see Coad and Abdoli (1993b) for some details). Revised sections of this website appeared as review articles in the Iranian Journal of Ichthyology (http://ijichthyol.org/) and the International Journal of Aquatic Biology (www. ij-aquaticbiology.com), both published by the Iranian Society of Ichthyology. These families are no longer accessible here and will not be updated further. Note that the species formerly in the family Cyprinidae are now assigned to seven families in Iran. The less speciose families are published as journal articles. The two largest families (carps or Cyprinidae and minnows or Leuciscidae) appear here as downloadable files. A more permanent home will eventually be found these latter two as their size precludes publishing in book form for cost reasons (both to produce the books and their probable retail price). Families Genera Common Names Journal Anguillidae Anguilla Freshwater Eels International Journal of Aquatic Biology, 4(2):102-107, 2016. Atherinidae Atherina Silversides International Journal of Aquatic Biology, 3(5):282-289, 2015. Bagridae Mystus Bagrid Catfishes Iranian Journal of Ichthyology, 1(4):218-257, 2014. Carcharhindae Carcharhinus Freshwater Sharks International Journal of Aquatic Biology, 3(4):216-221, 2015. Chanidae Chanos Milkfishes Iranian Journal of Ichthyology, 2(2):65-79, 2015. Channidae Channa Snakeheads Iranian Journal of Ichthyology, 3(1):65-72, 2016. Clupeidae Alosa, Clupeonella, Tenualosa Herrings International Journal of Aquatic Biology, 5(3):128-192, 2017. Cyprinoidei:- Carps, Minnows and relatives - Acheilognathidae Rhodeus Bitterlings Iranian Journal of Ichthyology, 5(4):257-267, 2018. - Cyprinidae Arabibarbus, Bangana, Barbus, Capoeta, Carasobarbus, Carassius, Cyprinion, Cyprinus, Garra, Luciobarbus, Mesopotamichthys, Schizocypris, Schizothorax, Schizopygopsis, Tariqilabeo Carps Carps and Minnows of Iran Volume I: General Introduction and Carps(as optimised PDF) and as uncompressed PDF here - Danionidae Barilius, Cabdio Danionids International Journal of Aquatic Biology, 6(4):179-188, 2018. - Gobionidae Gobio, Pseudorasbora, Romanogobio Gobionids Iranian Journal of Ichthyology, 6(1):1-20, 2019. - Leuciscidae Abramis, Acanthobrama, Alburnoides, Alburnus, Ballerus, Blicca, Chondrostoma, Leucaspius, Leuciscus, Pelecus, Petroleuciscus, Rutilus, Scardinius, Squalius, Vimba Minnows Carps and Minnows of IranVolume II: Minnows and Bibliography (as optimised PDF) and as uncompressed PDF here - Tincidae Tinca Tench Iranian Journal of Ichthyology, 6(2):82-91, 2019. - Xenocyprididae Ctenopharyngodon, Hemiculter, Hypophthalmichthys, Mylopharyngodon East Asian Minnows Esocidae Esox Pikes Iranian Journal of Ichthyology, 3(3):161-180, 2016. Gasterosteidae Gasterosteus, Pungitius Sticklebacks Iranian Journal of Ichthyology, 2(3):133-147, 2015. Gobiidae Anatirostrum, Babka, Benthophiloides, Benthophilus, Boeleophthalmus, Caspiosoma, Chasar, Glossogobius, Hyrcanogobius, Knipowitschia, Mesogobius, Neogobius, Periophthalmus, Ponticola, Proterorhinus, Rhinogobius Gobies Heteropneustidae Heteropneustes Stinging Catfishes Iranian Journal of Ichthyology, 1(4):218-257, 2014. Lotidae Lota Cuskfishes Iranian Journal of Ichthyology, 3(4):229-235, 2016. Mastacembelidae Mastacembelus Spiny Eels Iranian Journal of Ichthyology, 2(1):1-12, 2015. Mugilidae Chelon, Ellochelon, Mugil, Planiliza (and Liza) Mugilidae Iranian Journal of Ichthyology, 4(2):75-130, 2017. Percidae Perca, Sander Perches International Journal of Aquatic Biology, 4(3):143-170, 2016. Petromyzontidae Caspiomyzon Lampreys International Journal of Aquatic Biology, 4(4):256-278, 2016. Poeciliidae Gambusia, Poecilia, Xiphophorus Livebearers Iranian Journal of Ichthyology, 4(4):305-330, Siluridae Silurus Sheatfishes Iranian Journal of Ichthyology, 1(4):218-257, 2014. Sisoridae Glyptothorax Sisorid Catfishes Iranian Journal of Ichthyology, 1(4):218-257, 2014. Syngnathidae Syngnathus Pipefishes Iranian Journal of Ichthyology, 2(3):133-147, 2015. Alphabetical Links to Genera Acanthopagrus Acipenser Aphanius Cobitis Coregonus Huso Ilamnemacheilus Iranocichla Metaschistura Misgurnus Oncorhynchus Oreochromis Oxynoemacheilus Paracobitis Paraschistura Pseudoscaphirhynchus Sabanejewia Salmo Salvelinus Seminemacheilus Stenodus Tilapia Triplophysa Turcinoemacheilus Alphabetical Links to Families Acipenseridae Cichlidae Cobitidae Cyprinodontidae Nemacheilidae Salmonidae SparidaeMarine species entering fresh water from the Persian Gulf and Sea of Oman can be accessed through a Marine List in the Checklists of the Introduction. Some sections of this work are incomplete but have been posted as is. They will be updated and queries resolved as time permits. Apart from files not yet complete, distribution maps, some figures and habitat photographs are the main items to be added. A question mark may appear in the text appended to items that need to be checked by me. Numerous queries have led me to post incomplete material. This work has been carried out over a period of 45 years, starting in 1971. I arrived in Iran in January 1976 and, in that year, 7 articles were published strictly on Iranian fishes (3 on parasites, 1 on pesticides, 1 on fisheries, 1 describing the blind white fish and 1 a summary of the latter; 2 were in Farsi). A generation later in 2006, over 160 articles on Iranian fishes appeared, along with hundreds of relevant works from neighbouring countries, works on the aquatic environment in Iran and works on taxonomy and systematics relevant to Iran. The study of fishes is now a very active field within Iran and the Middle East and much of the newer literature is easily available on-line (see Bibliography). Accordingly, 2011 is the last year that this work was updated although some systematic and taxonomic studies may still be incorporated. The Published Accounts (see above) were updated versions from content in this website. Acknowledgements A wide range of people in Iran, Canada and elsewhere have assisted me in this work over more than 40 years. Inevitably, I will have forgotten some names, which I regret. Some people I never met formally, an example being the gentleman nattily dressed in suit by a stream near Kazerun who jumped fully-clothed into the water to help me catch fish. Numerous other Iranians have assisted my studies and this website is dedicated to them. The staff at the Department of Biology, Shiraz (then Pahlavi) ... [Content truncated]",
+                    "content_num": 1000
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "https://web.mit.edu/adamrose/Public/googlelist",
+                "htmlTitle": "https://web.mit.edu/adamrose/Public/googlelist",
+                "link": "https://web.mit.edu/adamrose/Public/googlelist",
+                "displayLink": "web.mit.edu",
+                "snippet": "... like service x than find price b date back top people had list n name just over state year day into email two health world next t used go work last most ...",
+                "htmlSnippet": "... <b>like</b> service x than <b>find price</b> b date back top <b>people</b> had list n name just <b>over</b> state year day into email two health world next t <b>used</b> go work <b>last</b> most&nbsp;...",
+                "formattedUrl": "https://web.mit.edu/adamrose/Public/googlelist",
+                "htmlFormattedUrl": "https://web.mit.edu/adamrose/Public/googlelist",
+                "mime": "text/plain",
+                "fileFormat": "text/plain",
+                "website_content": {
+                    "content": "Error fetching https://web.mit.edu/adamrose/Public/googlelist: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+                    "content_num": 0
+                }
+            }
+        }
+    ]
+}

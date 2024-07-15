@@ -1,0 +1,40 @@
+{
+    "Claim": "A video showing a shark swimming on a flooded highway during Hurricane Ian in Florida.",
+    "Video_information": {
+        "Video_headline": "a shark swimming on a flooded highway",
+        "Video_transcript": "",
+        "Video_description_on_platform": "This video analyzes and debunks the photo of a shark allegedly swimming on a flooded highway.",
+        "Video_platform": "youtube",
+        "Video_date": "2023_08_07",
+        "Video_description_from_descriptor": "A video, including the shark on a flooded highway."
+    },
+    "Initial_Question_Generation": {
+        "Question": "Can the location and date of the video showing the shark swimming on a flooded highway in Florida during Hurricane Ian be verified with additional evidence?",
+        "Answer": "The evidence provided by reputable sources confirms the presence of a shark in flooded areas in Florida during Hurricane Ian. The accounts of individuals who captured the videos and the verification by media experts support the authenticity of the videos showing the shark swimming during the hurricane. Therefore, it can be concluded that there is credibility to the location and date of the video depicting the shark swimming on a flooded highway in Florida during Hurricane Ian.",
+        "Confidence": "95%"
+    },
+    "Follow_Up_Question_1": {
+        "Question": "Is there verifiable documentation or eyewitness testimony corroborating the presence of a shark on the flooded highway during Hurricane Ian in Florida?",
+        "Answer": "Based on the evidence provided, there is verifiable documentation and eyewitness testimony corroborating the presence of a shark on a flooded highway during Hurricane Ian in Florida.",
+        "Confidence": "95%"
+    },
+    "Follow_Up_Question_2": {
+        "Question": "Are there any official reports or statements from local authorities confirming the presence of sharks on flooded highways in Florida during Hurricane Ian?",
+        "Answer": "Based on the evidence available, there are no official reports or statements from local authorities confirming the presence of sharks on flooded highways in Florida during Hurricane Ian. The sources primarily focus on the impacts of Hurricane Ian on infrastructure, residents, and natural resources in Florida, without specific mention of shark sightings on flooded highways [Query 1_evidence1····] [Query 1_evidence2····] [Query 1_evidence3····]. Therefore, the lack of direct evidence or statements from local authorities regarding sharks on flooded highways during the hurricane suggests that such reports may not exist.",
+        "Confidence": "80%"
+    },
+    "CVResult": {
+        "Judgment": "Yes",
+        "Confidence": "95%"
+    },
+    "Final_Judgement": {
+        "Answer": "True",
+        "Reasons": {
+            "1": "Verified evidence confirms the presence of a shark in flooded areas during the hurricane.",
+            "2": "Eyewitness testimonies and media experts support the authenticity of the video.",
+            "3": "Lack of official reports specifically confirming sharks on flooded highways does not discredit the claim given other supporting evidence."
+        },
+        "Therefore, the Claim authenticity is": "True",
+        "The information type is": "Real"
+    }
+}

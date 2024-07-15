@@ -1,0 +1,30 @@
+{
+    "Claim": "A video showing a shark swimming on a flooded highway during Hurricane Ian in Florida.",
+    "Video_information": {
+        "Video_headline": "a shark swimming on a flooded highway",
+        "Video_transcript": "",
+        "Video_description_on_platform": "This video analyzes and debunks the photo of a shark allegedly swimming on a flooded highway.",
+        "Video_platform": "youtube",
+        "Video_date": "2023_08_07",
+        "Video_description_from_descriptor": "A video, including the shark on a flooded highway."
+    },
+    "Initial_Question_Generation": {
+        "Question": "Can the location and date of the video showing a shark swimming on a flooded highway during Hurricane Ian in Florida be verified for authenticity?",
+        "Answer": "Given the verification process by the Associated Press and the detailed analysis provided by experts, it can be confidently stated that the location and date of the video showing a shark swimming on a flooded highway during Hurricane Ian in Florida are authentic.",
+        "Confidence": "100%"
+    },
+    "CVResult": {
+        "Judgment": "Yes",
+        "Confidence": "100%"
+    },
+    "Final_Judgement": {
+        "Answer": "False",
+        "Reasons": {
+            "1": "Verification: The verification process by the Associated Press and detailed analysis by experts have confirmed that the video is not authentic.",
+            "2": "Inconsistencies: The video analysis revealed inconsistencies and anomalies that indicate the video is not a genuine depiction of a shark swimming on a flooded highway during Hurricane Ian in Florida."
+        },
+        "Therefore, the Claim authenticity is": "False",
+        "The information type is": "False",
+        "The specific type of False Information is": "False video description"
+    }
+}

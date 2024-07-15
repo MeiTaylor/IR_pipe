@@ -1,0 +1,25 @@
+{
+    "Claim": "A video that went viral in August 2023 showed a beach party in Kyiv, proving that the war in Ukraine is a hoax.",
+    "Video_information": {
+        "Video_headline": "Is This An Authentic Video from a Beach Party in Kyiv in August 2023? | Snopes.com",
+        "Video_transcript": "",
+        "Video_description_on_platform": "This video clip is used in a fact-check article on Snopes.com. Visit the website for more details.",
+        "Video_platform": "youtube",
+        "Video_date": "2023_08_07",
+        "Video_description_from_descriptor": "The video clip is a mix-up, which shows a beach party with clips and photos of many boys and girls, drinks and beach umbrellas. It seems to happen on a daytime with lots of sunshine. It is hard to determine the location of party from the video pictures or contents."
+    },
+    "CVResult": {
+        "Judgment": "Yes",
+        "Confidence": "90%"
+    },
+    "Final_Judgement": {
+        "Answer": "False",
+        "Reasons": {
+            "1": "The video description mentions that it is hard to determine the exact location of the beach party from the video footage. Therefore, making the assumption that it was in Kyiv is unjustified.",
+            "2": "The description also states that the video is a mix-up, indicating that it may not accurately represent a real event."
+        },
+        "Therefore, the Claim authenticity is": "False",
+        "The information type is": "False",
+        "The specific type of False Information is": "Video Clip Edit"
+    }
+}

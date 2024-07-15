@@ -1,0 +1,7 @@
+2024-07-14 17:57:22,300 - MainThread - INFO - ----------complete_json_claim_verifier_answer----------
+2024-07-14 17:57:22,300 - MainThread - INFO - {'CVResult': {'Judgment': 'Yes', 'Confidence': '95%'}}
+2024-07-14 17:57:22,301 - MainThread - INFO - complete_json_claim_verifier_answer successfully appended to /workspaces/llmfnd/zero_shot_llmfnd/CV_result.json
+2024-07-14 17:57:22,301 - MainThread - INFO - process_claim_verifier result - Judgment: True, Confidence: 0.95
+2024-07-14 17:57:41,599 - MainThread - INFO - 声明处理结果已生成并成功保存。
+2024-07-14 17:57:41,599 - MainThread - INFO - final_json_answer 
+{'Final_Judgement': {'Answer': 'False', 'Reasons': {'Reason_1': 'The video in question is described as a mix-up showing a generic beach party with no specific identifiable features of Kyiv or any indication of it being related to the war in Ukraine.', 'Reason_2': 'The video does not provide any concrete evidence or context to support the claim that the war in Ukraine is a hoax.'}, 'Therefore, the Claim authenticity is': 'False', 'The information type is': 'False', 'The specific type of False Information is': 'Text unsupported by the video'}}

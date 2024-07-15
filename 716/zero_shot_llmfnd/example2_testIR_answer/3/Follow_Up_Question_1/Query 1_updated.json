@@ -1,0 +1,753 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - how to verify video metadata for location and timestamp accuracy",
+                "totalResults": "342000",
+                "searchTerms": "how to verify video metadata for location and timestamp accuracy",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - how to verify video metadata for location and timestamp accuracy",
+                "totalResults": "342000",
+                "searchTerms": "how to verify video metadata for location and timestamp accuracy",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.269568,
+        "formattedSearchTime": "0.27",
+        "totalResults": "342000",
+        "formattedTotalResults": "342,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "timestamp - What is the accuracy of file creation or modification ...",
+                "htmlTitle": "<b>timestamp</b> - What is the <b>accuracy</b> of file creation or modification ...",
+                "link": "https://superuser.com/questions/504829/what-is-the-accuracy-of-file-creation-or-modification-dates",
+                "displayLink": "superuser.com",
+                "snippet": "Nov 13, 2012 ... File metadata (e.g. creation date, last modified, etc) is generally a matter of the file system, and can thus be modified using various\u00a0...",
+                "htmlSnippet": "Nov 13, 2012 <b>...</b> File <b>metadata</b> (e.g. creation <b>date</b>, last modified, etc) is generally a matter of the file system, and can thus be modified using various&nbsp;...",
+                "formattedUrl": "https://superuser.com/.../what-is-the-accuracy-of-file-creation-or-modificati...",
+                "htmlFormattedUrl": "https://superuser.com/.../what-is-the-<b>accuracy</b>-of-file-creation-or-modificati...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSQBHOzmsguX0IovEN9lMOKjERo5ZlVhvmLiG4wZDgVIZleYtLPxRKMxwj&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "qapage": [
+                        {
+                            "image": "https://cdn.sstatic.net/Sites/superuser/Img/apple-touch-icon@2.png?v=e869e4459439",
+                            "primaryimageofpage": "https://cdn.sstatic.net/Sites/superuser/Img/apple-touch-icon@2.png?v=e869e4459439",
+                            "name": "What is the accuracy of file creation or modification dates?",
+                            "description": "Due to some court cases in my jurisdiction, I often see court-appointed experts determining the creation date of a document. Is it really possible to do this via software methods? How could one pro..."
+                        }
+                    ],
+                    "question": [
+                        {
+                            "image": "https://cdn.sstatic.net/Sites/superuser/Img/apple-touch-icon.png?v=0ad5b7a83e49",
+                            "upvotecount": "7",
+                            "commentcount": "1",
+                            "answercount": "3",
+                            "name": "What is the accuracy of file creation or modification dates?",
+                            "datecreated": "2012-11-13T00:28:02",
+                            "text": "Due to some court cases in my jurisdiction, I often see court-appointed experts determining the creation date of a document. Is it really possible to do this via software methods? How could...",
+                            "url": "Share"
+                        }
+                    ],
+                    "answer": [
+                        {
+                            "upvotecount": "6",
+                            "commentcount": "1",
+                            "text": "File metadata (e.g. creation date, last modified, etc) is generally a matter of the file system, and can thus be modified using various software tools. In fact, some filesystems don't even...",
+                            "datecreated": "2012-11-13T00:39:45",
+                            "url": "Share"
+                        },
+                        {
+                            "upvotecount": "2",
+                            "text": "DISCLAIMER: IANAL the first rule of forensics is that all readings are suspect if you take them down to the Nth, so you always need to establish a level of reasonableness by which you accept...",
+                            "datecreated": "2012-11-13T00:46:10",
+                            "url": "Share"
+                        },
+                        {
+                            "upvotecount": "1",
+                            "text": "Whoever owns or has [physical] access to the computer can do with it as he or she pleases. Including faking date created files. The only way for an expert to surely determine such a date is...",
+                            "datecreated": "2012-11-13T00:43:42",
+                            "url": "Share"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "victor"
+                        },
+                        {
+                            "name": "ernie"
+                        },
+                        {
+                            "name": "Frank Thomas"
+                        },
+                        {
+                            "name": "Hennes"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cdn.sstatic.net/Sites/superuser/Img/apple-touch-icon@2.png?v=e869e4459439",
+                            "og:type": "website",
+                            "twitter:card": "summary",
+                            "twitter:title": "What is the accuracy of file creation or modification dates?",
+                            "og:site_name": "Super User",
+                            "twitter:domain": "superuser.com",
+                            "viewport": "width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0",
+                            "twitter:description": "Due to some court cases in my jurisdiction, I often see court-appointed experts determining the creation date of a document. Is it really possible to do this via software methods? How could one pro...",
+                            "og:url": "https://superuser.com/questions/504829/what-is-the-accuracy-of-file-creation-or-modification-dates"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.sstatic.net/Sites/superuser/Img/apple-touch-icon@2.png?v=e869e4459439"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\n\t\t\t\t\t\tStack Exchange network consists of 183 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.\n\t\t\t\t\t\n\nNow available on Stack Overflow for Teams! AI features where you work: search, IDE, and chat.\n        \n\n            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.\n            Explore Teams\n\nTeams\nQ&A for work\nConnect and share knowledge within a single location that is structured and easy to search.\nDue to some court cases in my jurisdiction, I often see court-appointed experts determining the creation date of a document. Is it really possible to do this via software methods? How could one prove a creation date if a fake date was used before the document was created?\nI know this part doesn't belong to superuser but anyhow I was also curious if any hardware methodology would work (to any precision - day/month/year).\nFile metadata (e.g. creation date, last modified, etc) is generally a matter of the file system, and can thus be modified using various software tools.  In fact, some filesystems don't even track creation date (e.g. ext3 on linux tracks ctime, which is actually an inode change time).  The metadata that is tracked will also vary from filesystem to filesystem - some filesystems will allow tracking of last access time, last modified, etc.\nThe ease of changing this \"creation time\" (or last modified, last accessed, etc) may vary from file system to file system, but in general, these timestamps are not 100% reliable.\nI would imagine in a courtroom environment, one party would try to suggest the last modified times are good due to the user being of a certain ability, other file times matching, etc, while the opposing party would try an point out that file times can be faked.  It's unclear to me which side would succeed in convincing a judge or jury as to what likely happened, unless a \"smoking gun\" of sorts is found that shows inconsistencies with the timestamps (e.g. two files created on the same date have wildly varying dates, or copies of the file were emailed before the supposed creation date, etc).\nI'm not aware of any hardware methodologies to track modifications.\nDISCLAIMER: IANAL\nthe first rule of forensics is that all readings are suspect if you take them down to the Nth, so you always need to establish a level of reasonableness by which you accept findings. Yes dates can be modified, but it takes a rather sophisticated user to do it, and they almost certainly need physical access to the system to do it. \nThere are a number of circumstances where a computer does have to make its best guess on some attributes. For instance, if I copy a file from my SAMBA file server to my workstation, the file creation date is the time I pasted the file, not the time it was initially created. In my case it does maintain the correct modified time, but that may not always be the case.\nWith journaling filesystems you may have some evidence that file metadata was modified or faked, but that would imply that the filesystem was in control of the modification, which is unlikely. you should always check the contents of backups and perhaps the pagefile and hiberfill.sys to look for copies of the file data that disagree on date infomation. \nin the long run, if the suspect is or is connected somehow to a very skilled technician or attacker, then be suspicious of dates. if they barely knows how to rebuild windows and don't know what linux is, then the dates are likely correct, unless an outside agent is in play.\nWhoever owns or has [physical] access to the computer can do with it as he or she pleases.  Including faking date created files. \nThe only way for an expert to surely determine such a date is if the document or a copy of it was stored elsewhere in a place managed by a trusted third party.\nE.g. somewhere in the cloud, and using that cloud providers backups to check things. Or mailed to someone at date X where the recipient knows that is was created at or before date X.\nBut anyone with access (either remote or physical) to a computer can change that documents apparent creation date. They might not have the skill to do that, but that is not something any court would accept. (Similar to 'but your honor. I do not know how a gun works. Thus I could not have shot him').\nTo subscribe to this RSS feed, copy and paste this URL into your RSS reader.\n\nSite design / logo \u00a9 2024 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev\u00a02024.7.15.12610\n",
+                    "content_num": 973
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 8,
+                    "justification": "Superuser.com is known for its active user community that provides reliable and accurate information related to technology and software. The platform is moderated effectively to ensure the content is accurate and trustworthy. It has a history of addressing technical issues with detailed explanations, making it a valuable resource for detecting and debunking fake news related to technology."
+                },
+                "Content Score": {
+                    "Newness Score": 7,
+                    "Newness Justification": "The article was last updated on November 13, 2012, which is a bit outdated compared to the current date of July 2024.",
+                    "Relevance Score": 8,
+                    "Relevance Justification": "While the information is a bit old, it still addresses the question by discussing file creation and modification dates, which are relevant to verifying video metadata."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Video Multiplexer Geoprocessing Tool to Format your Metadata",
+                "htmlTitle": "<b>Video</b> Multiplexer Geoprocessing Tool to <b>Format</b> your <b>Metadata</b>",
+                "link": "https://www.esri.com/arcgis-blog/products/arcgis-pro/imagery/video-multiplexer-tips-tricks/",
+                "displayLink": "www.esri.com",
+                "snippet": "Apr 16, 2024 ... ... location of your first timestamp and the date you typed in. Then drag the autofill handle to the bottom of your range of timestamps or\u00a0...",
+                "htmlSnippet": "Apr 16, 2024 <b>...</b> ... <b>location</b> of your first <b>timestamp</b> and the <b>date</b> you typed in. Then drag the autofill handle to the bottom of your range of <b>timestamps</b> or&nbsp;...",
+                "formattedUrl": "https://www.esri.com/arcgis-blog/products/.../video-multiplexer-tips-tricks/",
+                "htmlFormattedUrl": "https://www.esri.com/arcgis-blog/products/.../<b>video</b>-multiplexer-tips-tricks/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEh5guvGJ0ZnrLnWgo8b_8CwLsjMhMiKYU3HR8tkZrsw1ZOmivut6_pdc&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "search-collection": "blogs",
+                            "og:image": "https://www.esri.com/arcgis-blog/wp-content/uploads/2019/03/DroneViewCard.png",
+                            "product": "arcgis-pro",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "ArcGIS Blog",
+                            "created": "4/16/2024",
+                            "subject": "Imagery & Remote Sensing",
+                            "og:title": "Video Multiplexer Tips and Tricks",
+                            "article:title": "Video Multiplexer Tips and Tricks",
+                            "version": "null",
+                            "og:description": "Tips to properly format your metadata for the video multiplexer tool so you can geoenable video data for the Full Motion Video player.",
+                            "article:author": "Jeff Liedtke",
+                            "article:publisher": "https://www.facebook.com/esrigis/",
+                            "last-modified": "4/17/2024",
+                            "twitter:site": "@ESRI",
+                            "content_type": "ArcGIS Blog Post",
+                            "article:modified_time": "2024-04-17T13:11:16+00:00",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "og:locale": "en_US",
+                            "published_at": "4/16/2024",
+                            "og:url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/imagery/video-multiplexer-tips-tricks/",
+                            "content-language": "en"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.esri.com/arcgis-blog/wp-content/uploads/2019/03/DroneViewCard.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "ArcGIS Blog We all know how important imagery can be for spatial analysis, and a video is a simply a series of images (frames) captured at a specific rate, such as 30 frames per second. While video data contains important visual information, the application of this information in a GIS is limited unless you know when and where the video was collected. High-performance, sophisticated systems provide video data that comes with this \u201cwhen and where\u201d metadata already embedded in the video, but lower-cost sensor systems with a GPS and an inertial measurement unit (IMU) are often deployed without embedded metadata. In order to use video data with Full Motion Video capabilities in ArcGIS, the video stream and metadata must be combined into a single compliant video file (compliant with a standard known as MISB). This can be done using the Video Multiplexer geoprocessing tool, available with the Image Analyst extension. You can play a video in the Full Motion Video (FMV) player without any metadata. However, if your video has the proper metadata, you can display the video footprint, sensor location and track, and look angle on your map as you play the video. You can also add features directly in your video and see them displayed on your map, or vice versa. The Video Multiplexer tool embeds geospatial information from a metadata file into a video to produce a geo-enabled video file, which can be visualized and used for data capture in the FMV player. You can get oriented with Video Multiplexer tool with the video multiplexer tutorial. Tutorials can be great teaching mechanisms, but in order to learn all about a workflow we sometimes need a little more than a perfect sample dataset that works like a charm. In this blog, we\u2019ll go over some tips and tricks for working with the Video Multiplexer tool to make sure you can be successful with your own data. Below you will see the minimum metadata requirements to use with the Video Multiplexer tool. With this metadata, the Video Multiplexer can calculate the video frame corners, and thus the size, shape, and position of the video frame outline that can be displayed on a map. Without this data, a video frame footprint cannot be calculated. Note: If your sensor is secured to the airborne platform, and is not using a Gimbal, then Sensor Relative Azimuth, Elevation and Roll are not required. The parameters above are well described in the MISB standards document. You can download the zip file titled MISP-2016.1 from the MISB website, unzip the file and look for a folder called MISP-2016.1CompositeDocuments. Within that folder is a PDF called ST0601.9.pdf, which contains a reference to all of the MISB fields supported by the FMV tool set. It also includes descriptions of the parameters and useful diagrams. Assuming you have all the required metadata, one of the most important steps in formatting your metadata for the Multiplexer tool is making sure the Precision Time stamp is in UNIX Coordinated Universal Time (UTC), in microseconds, with 16 digits with no decimal places. If your time stamp is currently in human-readable format (e.g. 3/13/2018 4:15:03 PM) and you need to convert it to UNIX, you can use an online tool or an Excel formula. For accurate results, your existing timestamps should include date and time with seconds (dd/mm/yyyy hh:mm:ss). The Epoch Converter converts human-readable timestamps to UNIX timestamps individually or in batches. Copy/paste your timestamp rows from your Excel sheet into the batch converter and choose to export the UNIX results to a CSV file. You can then simply copy/paste the new UNIX timestamps back into your metadata file. * Note that the Epoch Converter generates results in milliseconds rather than microseconds. You must multiply the results by 1,000 to convert to microseconds, a requirement for the Multiplexer tool. If you don\u2019t want to do a batch conversion or your video is too long to fit into the batch converter, you can manually calculate the UNIX timestamp in your Excel document using a simple formula. This is great if you have video frames with distinct time stamps. If you can\u2019t use the Excel formula method because you have multiple frames with the same time stamp, you can use an interpolation method to get a smoother, slicker video output. Make sure your UTC Precision Time stamps have no decimal places and are not using scientific format (e.g. 1.459E+15). To do this, format the cells as \u201cNumber\u201d and change the number of decimal places to 0. To wrap it up, here are some final tips to remember when working with the Multiplexer tool: Make sure you check out the Full Motion Video tutorials for guided instruction on working with geo-enabled videos in ArcGIS Pro. Enjoy your geo-enabled videos! Many thanks to Julia Lenhardt for her assistance, and the Motion Imagery team for their editorial comments. Jeff Liedtke is a PE and Documentation Lead for the Raster Team at Esri. He has a background in remote sensing, photogrammetry and image processing. Applying remote sensing techniques to provide valuable information for operational decision support applications is his passion. Atishay Jain | ArcGIS | April 6, 2021 This blog describes few ways in which Object Tracking can be used to get the most out of Full Motion Video data. Read this article Multiple Authors | ArcGIS Pro | March 10, 2020 See how drone footage is used with predictive modeling tools in ArcGIS to conduct an automated, repeatable catfish survey. Read this article Next Article Read this article ... [Content truncated]",
+                    "content_num": 1000
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 9,
+                    "justification": "Esri.com is a reputable source for geospatial information and mapping solutions. The website is known for its accuracy in providing data and analysis tools. As a reliable platform in the field of GIS, it can be trusted to provide accurate information for verifying locations and analyzing geographical data, which is essential for fact-checking claims related to specific geographic locations like the flooded highway in Florida during Hurricane Ian."
+                },
+                "Content Score": {
+                    "Newness Score": 6,
+                    "Newness Justification": "The content was published on April 16, 2024, making it relatively recent and more relevant to the current context.",
+                    "Relevance Score": 9,
+                    "Relevance Justification": "This evidence directly discusses tools for verifying metadata, specifically focusing on timestamps and locations in videos, making it very relevant to the question."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Video Multiplexer (Image Analyst)\u2014ArcGIS Pro | Documentation",
+                "htmlTitle": "<b>Video</b> Multiplexer (Image Analyst)\u2014ArcGIS Pro | Documentation",
+                "link": "https://pro.arcgis.com/en/pro-app/latest/tool-reference/image-analyst/video-multiplexer.htm",
+                "displayLink": "pro.arcgis.com",
+                "snippet": "If the time stamp linking the video and metadata is not accurately synchronized, the video footprint and sensor location on the map will be offset from the view\u00a0...",
+                "htmlSnippet": "If the <b>time stamp</b> linking the <b>video</b> and <b>metadata</b> is not <b>accurately</b> synchronized, the <b>video</b> footprint and sensor <b>location</b> on the map will be offset from the view&nbsp;...",
+                "formattedUrl": "https://pro.arcgis.com/en/pro-app/latest/tool.../video-multiplexer.htm",
+                "htmlFormattedUrl": "https://pro.arcgis.com/en/pro-app/latest/tool.../<b>video</b>-multiplexer.htm",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQV_nI2bvrq2vE8sb0dai2AqE_UuS-7Lxb0mk-v28gIq0tXLbiUddtr2vf&s",
+                            "width": "297",
+                            "height": "170"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "search-category": "help-general",
+                            "search-collection": "help",
+                            "product": "arcgis-pro",
+                            "sub_category": "ArcGIS Pro",
+                            "subject_label": "ANALYSIS",
+                            "subject": "ANALYSIS",
+                            "sub_category_label": "ArcGIS Pro",
+                            "version": "pro3.3",
+                            "last-modified": "2024-4-10",
+                            "content_type": "Tool Reference",
+                            "viewport": "width=device-width, user-scalable=no",
+                            "content_type_label": "Tool Reference",
+                            "content-language": "en"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.esri.com/content/dam/esrisites/en-us/home/mapping-dinosaur-fossils.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Available with Image Analyst license. Creates a video file that combines an archived video stream file and an associated metadata file synchronized by a time stamp. The tool creates a single FMV-compliant video file from a video stream file and a separate associated metadata file. The metadata is encoded in the video file by a synchronized time stamp. The process of combining the two files containing the video and metadata files is called multiplexing. This tool is designed for archived video files and does not work with live video streams. The format of the video file to be multiplexed must be one of the supported video formats. The separate metadata file is a comma-separated values (CSV) file containing the proper field headings and associated values. The video formats supported as an input to the tool are listed in the following table: DescriptionExtensionMOV file.movMPEG-2 Transport Stream.tsMPEG-2 Program Stream.psMPEG File.mpgMPEG-2 File.mpg2MPEG-2 File.mp2MPEG File.mpegVLC (mpeg2).mpeg2MPEG-4 Movie.mp4MPEG-4 File.mpg4MPEG-Dash.mpdH264 Video File\u00b9.h264H265 Video File\u00b9.h265VLC Media File (mpeg4).mpeg4VLC Media File (vob).vobHLS (Adaptive Bitrate (ABR)).m3u8\u00b9 Requires multiplexing MOV file MPEG-2 Transport Stream MPEG-2 Program Stream MPEG File MPEG-2 File MPEG-2 File MPEG File VLC (mpeg2) MPEG-4 Movie MPEG-4 File MPEG-Dash H264 Video File\u00b9 H265 Video File\u00b9 VLC Media File (mpeg4) VLC Media File (vob) HLS (Adaptive Bitrate (ABR)) \u00b9 Requires multiplexing The video file output format from the tool is .ts only. The metadata associated with the video stream file is used to compute the flight path of the video sensor, the video image frame center, and the four corners of the video frame footprint on the map. FMV supports the Motion Imagery Standards Board (MISB) specification. The full MISB specification defines many more parameters than those required for FMV. The MISB parameters provided will be encoded into the final video, including all parameters or a subset thereof. To compute and display the relative corner points of the video image footprint as a frame outline on the map, you need the 12 essential metadata fields listed below and further detailed in the parameter description. When the metadata is complete and accurate, the tool will calculate the video frame corners, and the size, shape, and position of the video frame outline that can then be displayed on a map. This is the minimum metadata required to compute the transform between video and map, display the video footprint on the map, and enable other functionality such as digitizing and marking on the video and the map. The values for the metadata fields can be input in the metadata template, FMV_Multiplexer_Field_Mapping_Template.csv, from C:\\Program Files\\ArcGIS\\Pro\\Resources\\FullMotionVideo. The FMV_Multiplexer_Field_Mapping_Template.csv file contains all the MISB metadata fields.Only the 12 parameters defined above are needed to create the FMV-compliant video file. You do not need to provide all the parameters defined in the MISB specification to create an FMV-compliant video file. If additional MISB parameters are provided, they will be encoded into the FMV-compliant video file. The performance of the resulting multiplexed video file depends on the type and quality of the data contained in the metadata file, and how accurately the video data and metadata files are synchronized. One set of parameters in the FMV_Multiplexer_Field_Mapping_Template.csv file includes the map coordinates of the four corners of the video image frame projected to the ground. If the four corner map coordinates are provided, they will be used in creating the FMV-compliant video. If the four corner map coordinates are not provided, provide a source for DEM data in the Digital Elevation Model parameter, and the tool will compute the video footprint from the required parameters listed above. The accuracy of the video footprint and frame center depends on the accuracy of the DEM data source provided. If you do not have access to DEM data, you can enter an average elevation and unit relative to sea level, such as 15 feet or 10 meters. In the case of a submersible, you can enter -15 feet or -10 meters. Using an average elevation or ocean depth is not as accurate as providing a DEM or bathymetric data. It is recommended that you provide a DEM layer or image service if it is available. FMV supports Video Moving Target Indicator (VMTI) data, based on object tracking methods in motion imagery. If VMTI data is recorded in a file separate from the associated video file, it can be encoded into the video file using the video multiplexer tool. FMV supports the MISB Video Moving Target Indicator and Track Metadata standard. Encode the VMTI data into the video by supplying the required VMTI information for the proper video frame using a .csv metadata file containing the data for the fields: LDSVer,TimeStamp,FrameCenterLongitude,FrameCenterLatitude,SensorLongitude,SensorLatitude,vmtilocaldataset5,1546300800231000,-76.1309338,36.91118708,-76.1309338,36.91118708,1 0.9938099 1611919 1815608 1711844;1 0.39056745 1438997 1556213 1496645 The last column, vmtilocaldataset, contains the detected object's bounding box, where each space-delimited value is defined by three values: Object_ID Confidence_Level Top_Left_Pixel Bottom_Right_Pixel Center_Pixel. You can specify multiple object detections for a given time stamp with a ; (semicolon) delimiter as shown in the example above. Use MISB Tag 74 in the FMV_Multiplexer_Field_Mapping_Template.csv file. LabelExplanationData TypeInput Video FileThe input video file that will be converted to a FMV-compliant video file.The following video file types are supported: .avi, .h264, .h265, .mp2, .mp4, .m2ts, .mpeg, .mpeg2, .mpeg4, .mpg, .mpg2, .mpg4, .ps, .ts, and vob.FileMetadata FileA comma-separated values (CSV) file containing metadata about the video frames for specific times. Each column represents one metadata field, and one of the columns must be a time reference. The time reference is Unix Time Stamp (seconds past 1970) multiplied by one million, which is stored as an integer. The time is stored as such so that any instant in time (down to one millionth of a second) can be referenced with an integer. Consequently, a time difference between two entries of 500,000 represents one half of a second in elapsed time. The first row contains the field names for the metadata columns. These field names are listed in the FMV_Multiplexer_Field_Mapping_Template.csv file in C:\\Program Files\\ArcGIS\\Pro\\Resources\\FullMotionVideo, or custom field names can be matched to their corresponding FMV field names using ... [Content truncated]",
+                    "content_num": 1000
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 9,
+                    "justification": "Pro.arcgis.com is an extension of Esri, offering advanced GIS tools and resources for professionals. It maintains a high standard of accuracy and reliability in providing geographic information systems solutions. The website's professional-grade tools can be instrumental in verifying the authenticity of location-based claims, such as the presence of a shark on a flooded highway during a hurricane."
+                },
+                "Content Score": {
+                    "Newness Score": 8,
+                    "Newness Justification": "The documentation from ArcGIS Pro was not dated, but assuming it is recent, it receives a higher score.",
+                    "Relevance Score": 9,
+                    "Relevance Justification": "The content is highly relevant as it addresses the accuracy of time stamping and metadata synchronization in videos, which directly pertains to the question at hand."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Google NO LONGER preserves image and photo timestamps ...",
+                "htmlTitle": "Google NO LONGER preserves image and photo <b>timestamps</b> ...",
+                "link": "https://support.google.com/photos/thread/163012929/google-no-longer-preserves-image-and-photo-timestamps?hl=en",
+                "displayLink": "support.google.com",
+                "snippet": "May 9, 2022 ... The json files contain the date, location ... MetadataFixer can fix EXIF Metadata in pictures and videos when exporting from Google Takeout.",
+                "htmlSnippet": "May 9, 2022 <b>...</b> The json files contain the <b>date</b>, <b>location</b> ... <b>MetadataFixer</b> can fix EXIF <b>Metadata</b> in pictures and <b>videos</b> when exporting from Google Takeout.",
+                "formattedUrl": "https://support.google.com/.../google-no-longer-preserves-image-and-phot...",
+                "htmlFormattedUrl": "https://support.google.com/.../google-no-longer-preserves-image-and-phot...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYbXdVSeH8eTQ6PRF6WBDBXw_8e7cz4twMLTf6Kdy8csb2AzddhHgIARbC&s",
+                            "width": "210",
+                            "height": "240"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=3,user-scalable=yes",
+                            "format-detection": "email=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://storage.googleapis.com/support-forums-api/attachment/message-156005897-15775938946576882939.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://support.google.com/photos/thread/163012929/google-no-longer-preserves-image-and-photo-timestamps?hl=en: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+                    "content_num": 0
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 8,
+                    "justification": "Support.google.com is a reliable platform for resolving technical issues related to Google products and services. While not primarily focused on fact-checking or debunking fake news, its extensive resources and community support can aid in verifying information and providing accurate details related to Google Maps, which could be essential for confirming the validity of location-based claims like the flooded highway scenario in Florida during Hurricane Ian."
+                },
+                "Content Score": {
+                    "Newness Score": 5,
+                    "Newness Justification": "The information is from May 9, 2022, which is quite outdated compared to the current date.",
+                    "Relevance Score": 7,
+                    "Relevance Justification": "While the evidence discusses fixing metadata in pictures and videos, its direct relevance to verifying the authenticity of timestamp accuracy in the video is somewhat lower."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Photo metadata time and location - Apple Community",
+                "htmlTitle": "Photo <b>metadata time</b> and <b>location</b> - Apple Community",
+                "link": "https://discussions.apple.com/thread/254967775",
+                "displayLink": "discussions.apple.com",
+                "snippet": "Jul 4, 2023 ... Hi, Can anyone please let me know how to prove if the time and location of photo taken on iphone is not adjusted?",
+                "htmlSnippet": "Jul 4, 2023 <b>...</b> Hi, Can anyone please let me know <b>how to prove</b> if the <b>time</b> and <b>location</b> of photo taken on iphone is not adjusted?",
+                "formattedUrl": "https://discussions.apple.com/thread/254967775",
+                "htmlFormattedUrl": "https://discussions.apple.com/thread/254967775",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "globalnav-search-field[action]": "https://support.apple.com/kb/index",
+                            "globalnav-search-field[locale]": "en_US",
+                            "globalnav-store-key": "S2A49YFKJF2JAT22K",
+                            "viewport": "width=device-width, height=device-height, initial-scale=1, minimum-scale=1, viewport-fit=cover",
+                            "globalnav-search-field[type]": "organic",
+                            "globalnav-search-field[src]": "globalnav_support",
+                            "globalnav-search-field[name]": "q",
+                            "globalnav-search-field[page]": "search",
+                            "globalnav-submenus-enabled": "false",
+                            "globalnav-search-field[placeholder]": "Search Support"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Scheduled Maintenance on July 16th\nThe Apple Support Community \u2018Search\u2019 functionality will temporarily be unavailable July 16th, 1:00am \u2013 3:00am PDT. Thank you for your patience as we work behind the scenes to improve the community.\nThe Apple Support Community \u2018Search\u2019 functionality will temporarily be unavailable July 16th, 1:00am \u2013 3:00am PDT. Thank you for your patience as we work behind the scenes to improve the community.\nWant to highlight a helpful answer? Upvote!\nDid someone help you, or did an answer or User Tip resolve your issue? Upvote by selecting the upvote arrow. Your feedback helps others!\u00a0Learn more about when to upvote >\nDid someone help you, or did an answer or User Tip resolve your issue? Upvote by selecting the upvote arrow. Your feedback helps others!\u00a0Learn more about when to upvote >\nHi, Can anyone please let me know how to prove if the time and location of photo taken on iphone is not adjusted?\nI know there is a option to adjust time and location but if someone wants to prove that the time and location of photo is original not modified how can we do that?\n\n      \n        iPhone 13 Pro,\n      \n      \n        iOS 16\n      \n      \n    \n\n    \n      Posted on Jul 2, 2023 3:31 AM\n    \n  \n\n    \n      Posted on Jul 3, 2023 6:36 PM\n    \n  \ni have taken the picture with my Iphone. My question is how to prove that date, time and location of the photo taken using my IPhone is original or not modified.\nLoading page content\nPage content loaded\n\n\n\n          \n            Jul 3, 2023 6:36 PM in response to alma1090\n          \n        \n\n\ni have taken the picture with my Iphone. My question is how to prove that date, time and location of the photo taken using my IPhone is original or not modified.\nLink\n\n\n\n          \n            Jul 3, 2023 6:12 PM in response to qalid291\n          \n        \n\n\nHey there qalid291,\n\nWe understand you're wondering how to verify if the date and time on a photo has been modified. We'd be happy to provide information about this.\n\nYou can use the option to adjust the date and time on a photo, however, if the photo is checked through a computer, the original date and time would appear there.\n\nWe hope this answers your question.\n\nKind regards.\nLink\n\n\n\n          \n            Jul 4, 2023 10:37 AM in response to qalid291\n          \n        \n\n\n\nHello qalid291,\n\nUnderstood. Anyone can control the info on their photos. So nobody could ever know if what they said is the truth, or what they edited. See here: Edit photos and videos on iPhone - Apple Support\n\n\"Change the date, time, or location\nYou can change the date, time, and location that\u2019s stored within the photo or video\u2019s metadata information. See\u00a0See photo and video information.\nTo change the date, time, or location of a batch of photos, tap Select, tap the thumbnails you want to change, then follow the steps above.\n\nIf you have questions, you might try the revert option, but if it was exported with that info, it would be only that info, and nothing left to revert back to.\n\nThanks.\nLink\n\n\n\n          \n            Jul 8, 2024 1:05 PM in response to ryane77\n          \n        \n\n\nThere is no \"Revert\" button in Adjust Date & Time. Any idea how to achieve this? I have many photos that mistakenly have an adjusted date and I am trying to revert all to original. Thanks!\nLink\n\nPhoto metadata time and location \n",
+                    "content_num": 774
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 7,
+                    "justification": "Discussions.apple.com is a community forum where Apple users can seek help and share information. While it is not a dedicated fact-checking platform, the active user engagement and moderated discussions can offer insights and perspectives on technology-related topics. It may not be the primary source for detecting fake news, but it can provide valuable user experiences and opinions that could contribute to verifying claims related to tech incidents like the purported shark sighting during a hurricane."
+                },
+                "Content Score": {
+                    "Newness Score": 6,
+                    "Newness Justification": "The content was created on July 4, 2023, making it relatively recent but not as up-to-date as other sources.",
+                    "Relevance Score": 6,
+                    "Relevance Justification": "The evidence focuses on verifying the time and location of photos taken with an iPhone, which is somewhat relevant but not as directly related to video metadata verification."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "metadata - How do I find the date a video (.AVI .MP4) was actually ...",
+                "htmlTitle": "<b>metadata</b> - How do I find the <b>date</b> a <b>video</b> (.AVI .MP4) was actually ...",
+                "link": "https://stackoverflow.com/questions/3104641/how-do-i-find-the-date-a-video-avi-mp4-was-actually-recorded",
+                "displayLink": "stackoverflow.com",
+                "snippet": "Jun 23, 2010 ... It's very common to load up JPG files with metadata (EXIF tags) about the file, such as a timestamp or camera information or geolocation. ID3\u00a0...",
+                "htmlSnippet": "Jun 23, 2010 <b>...</b> It&#39;s very common to load up JPG files with <b>metadata</b> (EXIF tags) about the file, such as a <b>timestamp</b> or camera information or geolocation. ID3&nbsp;...",
+                "formattedUrl": "https://stackoverflow.com/.../how-do-i-find-the-date-a-video-avi-mp4-was-...",
+                "htmlFormattedUrl": "https://stackoverflow.com/.../how-do-i-find-the-date-a-<b>video</b>-avi-mp4-was-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYl7zuT3cw_BBRAyhdQEbQuBgqdNHXKHIYKL8S8ly8x9L_XA9sdwSmiHs&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "qapage": [
+                        {
+                            "image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+                            "primaryimageofpage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+                            "name": "How do I find the date a video (.AVI .MP4) was actually recorded?",
+                            "description": "properties> date created... I thought this meant the date the video was created, but finally realized that date changes every time I move, reorganize, even open a file. often, the date modified is"
+                        }
+                    ],
+                    "question": [
+                        {
+                            "image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
+                            "upvotecount": "29",
+                            "commentcount": "1",
+                            "answercount": "8",
+                            "name": "How do I find the date a video (.AVI .MP4) was actually recorded?",
+                            "datecreated": "2010-06-23T18:59:53",
+                            "text": "properties> date created... I thought this meant the date the video was created, but finally realized that date changes every time I move, reorganize, even open a file. often, the date modified...",
+                            "url": "Share"
+                        }
+                    ],
+                    "answer": [
+                        {
+                            "upvotecount": "23",
+                            "commentcount": "1",
+                            "text": "Quick Command for Finding Date/Time Metadata in Many Video Files The following command has served me well in finding date/time metadata on various AVI/MP4 videos: ffmpeg -i /path/to/video.mp4...",
+                            "datecreated": "2019-04-01T09:13:34",
+                            "url": "Share"
+                        },
+                        {
+                            "upvotecount": "7",
+                            "text": "There doesn't seem to be a well defined standard for video metadata (compared to photos and audio files, which have EXIF and ID3/etc. respectively) Some tags exists like e.g. Title, Composer...",
+                            "datecreated": "2011-07-20T17:15:53",
+                            "url": "Share"
+                        },
+                        {
+                            "upvotecount": "1",
+                            "text": "The existence of that piece of metadata is entirely dependent on the application that wrote the file. It's very common to load up JPG files with metadata (EXIF tags) about the file, such as...",
+                            "datecreated": "2010-06-23T19:10:22",
+                            "url": "Share"
+                        },
+                        {
+                            "upvotecount": "1",
+                            "text": "Have a try to exiftools or mediainfo, which provides you an export function as text. Just pay attention to daylight saving.",
+                            "datecreated": "2015-06-23T10:43:34",
+                            "url": "Share"
+                        },
+                        {
+                            "upvotecount": "0",
+                            "commentcount": "2",
+                            "text": "For me the mtime (modification time) is also earlier than the create date in a lot of (most) cases since, as you say, any reorganisation modifies the create time. However, the mtime AFAIUI...",
+                            "datecreated": "2013-09-05T19:04:36",
+                            "url": "Share"
+                        },
+                        {
+                            "upvotecount": "0",
+                            "text": "The best way I found of getting the \"dateTaken\" date for either video or pictures is to use: Imports Microsoft.WindowsAPICodePack.Shell Imports Microsoft.WindowsAPICodePack.Shell.PropertySystem...",
+                            "datecreated": "2017-07-16T13:59:07",
+                            "url": "Share"
+                        },
+                        {
+                            "upvotecount": "0",
+                            "text": "I used the following online tool: https://www.get-metadata.com It allows to upload a file and analyze it and then shows all its metadata.",
+                            "datecreated": "2019-07-26T06:37:52",
+                            "url": "Share"
+                        },
+                        {
+                            "upvotecount": "0",
+                            "text": "Actually you can find very easy the day a video was created, right-click, property but remember it will only give the details of any copy date of the video but if you do click where it says...",
+                            "datecreated": "2020-03-15T12:04:35",
+                            "url": "Share"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "user374552"
+                        },
+                        {
+                            "name": "Chriki"
+                        },
+                        {
+                            "name": "Isak Savo"
+                        },
+                        {
+                            "name": "David"
+                        },
+                        {
+                            "name": "skyrail"
+                        },
+                        {
+                            "name": "darrenp"
+                        },
+                        {
+                            "name": "rogsonl"
+                        },
+                        {
+                            "name": "Andrej Adamenko"
+                        },
+                        {
+                            "name": "Manuel Castillo Morillo"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+                            "og:type": "website",
+                            "twitter:card": "summary",
+                            "twitter:title": "How do I find the date a video (.AVI .MP4) was actually recorded?",
+                            "og:site_name": "Stack Overflow",
+                            "twitter:domain": "stackoverflow.com",
+                            "viewport": "width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0",
+                            "twitter:description": "properties&gt; date created... I thought this meant the date the video was created, but finally realized that date changes every time I move, reorganize, even open a file. often, the date modified is",
+                            "og:url": "https://stackoverflow.com/questions/3104641/how-do-i-find-the-date-a-video-avi-mp4-was-actually-recorded"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\n                                        Communities for your favorite technologies.  Explore all Collectives\n\n\nNow available on Stack Overflow for Teams! AI features where you work: search, IDE, and chat.\n        \n\n            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.\n            Explore Teams\n\nFind centralized, trusted content and collaborate around the technologies you use most.\nTeams\nQ&A for work\nConnect and share knowledge within a single location that is structured and easy to search.\nGet early access and see previews of new features.\nproperties> date created... I thought this meant the date the video was created, but finally realized that date changes every time I move, reorganize, even open a file. often, the date modified is earlier than date created.  the date a jpeg was taken is readily available. Is there any way to get the same information from an AVI or MP4 FILE?\nThe following command has served me well in finding date/time metadata on various AVI/MP4 videos:\nNote: as mentioned in other answers, there is no guarantee that such information is available in all video files or available in a specific format.\nThere doesn't seem to be a well defined standard for video metadata (compared to photos and audio files, which have EXIF and ID3/etc. respectively)\nSome tags exists like e.g. Title, Composer etc. You can see those if you select a movie file in Windows 7 (perhaps earlier versions also) explorer or right click and view properties. I have not found a tag for recording date unfortunately - the closest thing available is Year (integer) :-(\nProgramatically, you can read and write most of these tags in .NET using Taglib Sharp from the mono project. Source and binaries are available on the banshee FTP server. It has a pretty impressive list of formats it supports (but still, make sure you catch exceptions when trying to read or write tags - it will throw whenever it finds a file it cannot understand, something which happened to me several times for my modest collection of home recordings.)\nTo read tags:\nAnd similarly, to write metadata back to the file:\nThe existence of that piece of metadata is entirely dependent on the application that wrote the file.  It's very common to load up JPG files with metadata (EXIF tags) about the file, such as a timestamp or camera information or geolocation.  ID3 tags in MP3 files are also very common.  But it's a lot less common to see this kind of metadata in video files.\nIf you just need a tool to read this data from files manually, GSpot might do the trick:\nhttp://www.videohelp.com/tools/Gspot\nIf you want to read this in code then I imagine each container format is going to have its own standards and each one will take a bit of research and implementation to support.\nHave a try to exiftools or mediainfo, which provides you an export function as text. Just pay attention to daylight saving.\nFor me the mtime (modification time) is also earlier than the create date in a lot of (most) cases since, as you say, any reorganisation modifies the create time. However, the mtime AFAIUI is an accurate reflection of when the file contents were actually changed so should be an accurate record of video capture date.\nAfter discovering this metadata failure for movie files, I am going to be renaming my videos based on their mtime so I have this stored in a more robust way!\nThe best way I found of getting the \"dateTaken\" date for either video or pictures is to use:\nThe above code requires the shell api, which is internal to Microsoft, and does not depend on any other external dll.\nI used the following online tool: https://www.get-metadata.com \nIt allows to upload a file and analyze it and then shows all its metadata.\nActually you can find very easy the day a video was created, right-click, property but remember it will only give the details of any copy date of the video but if you do click where it says DETAILS JUST there is the information you need, the original date that the archive was created on. Note that most modern devices will produce this information when you take pictures and videos but others will not. \nReminder: Answers generated by artificial intelligence tools are not allowed on Stack Overflow. Learn more\nThanks for contributing an answer to Stack Overflow!\nBut avoid \u2026\nTo learn more, see our tips on writing great answers.\nRequired, but never shown\nRequired, but never shown\n\n                                                By clicking \u201cPost Your Answer\u201d, you agree to our terms of service and acknowledge you have read our privacy policy.\n\nTo subscribe to this RSS feed, copy and paste this URL into your RSS reader.\n\nSite design / logo \u00a9 2024 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev\u00a02024.7.15.12610\n",
+                    "content_num": 991
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 9,
+                    "justification": "Stackoverflow.com is a highly reputable platform for technical Q&A related to programming and software development. The community's strict moderation and emphasis on accurate and detailed answers ensure the reliability of information shared on the site. While not directly focused on debunking fake news, the accuracy and credibility of information provided on Stack Overflow can be valuable in assessing technical aspects of claims, potentially aiding in validating scenarios like the one involving the shark on the flooded highway."
+                },
+                "Content Score": {
+                    "Newness Score": 7,
+                    "Newness Justification": "The content dates back to June 23, 2010, making it quite old and less relevant in the current context.",
+                    "Relevance Score": 5,
+                    "Relevance Justification": "While the evidence talks about metadata and video recording dates, its age and lack of direct focus on the specific context of the flooded highway video reduce its relevance."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "YSK: Photos sent via iMessage include the geo-location information ...",
+                "htmlTitle": "YSK: Photos sent via iMessage include the geo-<b>location</b> information ...",
+                "link": "https://www.reddit.com/r/YouShouldKnow/comments/91i2sc/ysk_photos_sent_via_imessage_include_the/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Jul 24, 2018 ... Google also approximates location from the timestamp and location ... location stamps on Google Photos even though Video metadata doesn't support\u00a0...",
+                "htmlSnippet": "Jul 24, 2018 <b>...</b> Google also approximates <b>location</b> from the <b>timestamp</b> and <b>location</b> ... <b>location</b> stamps on Google Photos even though <b>Video metadata</b> doesn&#39;t support&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/r/.../ysk_photos_sent_via_imessage_include_the/",
+                "htmlFormattedUrl": "https://www.reddit.com/r/.../ysk_photos_sent_via_imessage_include_the/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://share.redd.it/preview/post/91i2sc",
+                            "theme-color": "#000000",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "og:image:alt": "An image containing a preview of the post",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/YouShouldKnow on Reddit: YSK: Photos sent via iMessage include the geo-location information by default, giving out your location to the receiver",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/YouShouldKnow on Reddit: YSK: Photos sent via iMessage include the geo-location information by default, giving out your location to the receiver",
+                            "og:image:height": "630",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/tyr-- - 3,243 votes and 108 comments",
+                            "twitter:image": "https://share.redd.it/preview/post/91i2sc",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/YouShouldKnow/comments/91i2sc/ysk_photos_sent_via_imessage_include_the/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://share.redd.it/preview/post/91i2sc"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reddit.com/r/YouShouldKnow/comments/91i2sc/ysk_photos_sent_via_imessage_include_the/: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+                    "content_num": 0
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 6,
+                    "justification": "Reddit.com is a popular platform known for its user-generated content and diverse communities. While it offers a wide range of discussions and user perspectives, the credibility of information can vary significantly across different subreddits. Reddit may not be the most reliable source for fact-checking or verifying news due to its decentralized nature and potential for misinformation. It could provide insights or alternate viewpoints but may not always offer authoritative or verified information on specific incidents like the one described in the claim."
+                },
+                "Content Score": {
+                    "Newness Score": 6,
+                    "Newness Justification": "The information was posted on July 24, 2018, which is somewhat outdated compared to the current date of July 2024.",
+                    "Relevance Score": 4,
+                    "Relevance Justification": "The evidence mentions Google Photos and video metadata, but its relevance to verifying the location accuracy in the flooded highway video is limited."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Amazon Rekognition \u2013 frequently asked questions - AWS",
+                "htmlTitle": "Amazon Rekognition \u2013 frequently asked questions - AWS",
+                "link": "https://aws.amazon.com/rekognition/faqs/",
+                "displayLink": "aws.amazon.com",
+                "snippet": "Rekognition Video will return the faces detected in a video with timestamps and, for each detected face, the position and a bounding box along with face\u00a0...",
+                "htmlSnippet": "Rekognition <b>Video</b> will return the faces detected in a <b>video</b> with <b>timestamps</b> and, for each detected face, the <b>position</b> and a bounding box along with face&nbsp;...",
+                "formattedUrl": "https://aws.amazon.com/rekognition/faqs/",
+                "htmlFormattedUrl": "https://aws.amazon.com/rekognition/faqs/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaVZGvcAgv9Oirf7tgdpQwwrWTTzf-qNV3LJMW9j-aAKWvjJ-yywWs0bYE&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png",
+                            "twitter:title": "Amazon Rekognition \u2013 frequently asked questions - AWS",
+                            "twitter:card": "summary",
+                            "og:type": "company",
+                            "og:site_name": "Amazon Web Services, Inc.",
+                            "msvalidate.01": "6F92E52A288E266E30C2797ECB5FCCF3",
+                            "og:title": "Amazon Rekognition \u2013 frequently asked questions - AWS",
+                            "shenma-site-verification": "79b94bb338f010af876605819a332e19_1617844070",
+                            "fb:pages": "153063591397681",
+                            "twitter:image": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_179x109.png",
+                            "facebook-domain-verification": "ucogvbvio3zpukhjxw4pcprci7qylr",
+                            "360-site-verification": "cbe5c6f0249e273e71fffd6d6580ce09",
+                            "baidu-site-verification": "pjxJUyWxae",
+                            "twitter:site": "@awscloud",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "sogou_site_verification": "Ow8cCy3Hgq",
+                            "twitter:description": "Find answers to your most frequently asked questions for building visual analysis for your applications with Amazon Rekognition.",
+                            "og:url": "https://aws.amazon.com/rekognition/faqs/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Q: What is Amazon Rekognition? Amazon Rekognition is a service that makes it easy to add powerful visual analysis to your applications. Rekognition Image lets you easily build powerful applications to search, verify, and organize millions of images. Rekognition Video lets you extract motion-based context from stored or live stream videos and helps you analyze them. Rekognition Image is an image recognition service that detects objects, scenes, activities, landmarks, faces, dominant colors, and image quality. Rekognition Image also extracts text, recognizes celebrities, and identifies inappropriate content in images. It also allows you to search and compare faces. Rekognition Video is a video recognition service that detects activities, understands the movement of people in frame, and recognizes objects, celebrities, and inappropriate content in videos stored in Amazon S3 and live video streams. Rekognition Video detects persons and tracks them through the video even when their faces are not visible, or as the whole person might go in and out of the scene. For example, this could be used in an application that sends a real-time notification when someone delivers a package to your door. Rekognition Video allows you also to index metadata like objects, activities, scene, landmarks, celebrities, and faces that make video search easy. Q: What is deep learning? Deep learning is a sub-field of Machine Learning and a significant branch of Artificial Intelligence. It aims to infer high-level abstractions from raw data by using a deep graph with multiple processing layers composed of multiple linear and non-linear transformations. Deep learning is loosely based on models of information processing and communication in the brain. Deep learning replaces handcrafted features with ones learned from very large amounts of annotated data. Learning occurs by iteratively estimating hundreds of thousands of parameters in the deep graph with efficient algorithms. Several deep learning architectures such as convolutional deep neural networks (CNNs), and recurrent neural networks have been applied to computer vision, speech recognition, natural language processing, and audio recognition to produce state-of-the-art results on various tasks. Amazon Rekognition is a part of the Amazon AI family of services. Amazon AI services use deep learning to understand images, turn text into lifelike speech, and build intuitive conversational text and speech interfaces. Q: Do I need any deep learning expertise to use Amazon Rekognition? No. With Amazon Rekognition, you don\u2019t have to build, maintain or upgrade deep learning pipelines. To achieve accurate results on complex computer vision tasks such as object and scene detection, face analysis, and face recognition, deep learning systems need to be tuned properly and trained with massive amounts of labeled ground truth data. Sourcing, cleaning, and labeling data accurately is a time-consuming and expensive task. Moreover, training a deep neural network is computationally expensive and often requires custom hardware built using Graphics Processing Units (GPU). Amazon Rekognition is fully managed and comes pre-trained for image and video recognition tasks, so that you don\u2019t have invest your time and resources on creating a deep learning pipeline. Amazon Rekognition continues to improve the accuracy of its models by building upon the latest research and sourcing new training data. This allows you to focus on high-value application design and development. Q: What are the most common use cases for Amazon Rekognition? The most common use-cases for Rekognition Image include: The most common use-cases for Rekognition Video include: Q: How do I get started with Amazon Rekognition? If you are not already signed up for Amazon Rekognition, you can click the \"Try Amazon Rekognition\" button on the Amazon Rekognition page and complete the sign-up process. You must have an Amazon Web Services account; if you do not already have one, you will be prompted to create one during the sign-up process. Once you are signed up, try out Amazon Rekognition with your own images and videos using the Amazon Rekognition Management Console or download the Amazon Rekognition SDKs to start creating your own applications. Please refer to our step-by-step Getting Started Guide for more information. Q: What image and video formats does Amazon Rekognition support? Amazon Rekognition Image currently supports the JPEG and PNG image formats. You can submit images either as an S3 object or as a byte array. Amazon Rekognition Video operations can analyze videos stored in Amazon S3 buckets. The video must be encoded using the H.264 codec. The supported file formats are MPEG-4 and MOV. A codec is software or hardware that compresses data for faster delivery and decompresses received data into its original form. The H.264 codec is commonly used for the recording, compression and distribution of video content. A video file format may contain one or more codecs. If your MOV or MPEG-4 format video file does not work with Rekognition Video, check that the codec used to encode the video is H.264. Q: What file sizes can I use with Amazon Rekognition? Amazon Rekognition Image supports image file sizes up to 15MB when passed as an S3 object, and up to 5MB when submitted as an image byte array. Amazon Rekognition Video supports up to 10 GB files and up to 6 hour videos when passed through as an S3 file. Q: How does image resolution affect the quality of Rekognition Image API results ? Amazon Rekognition works across a wide range of image resolutions. For best results we recommend using VGA (640x480) resolution or higher. Going below QVGA (320x240) may increase the chances of missing faces, objects, or inappropriate content; although Amazon Rekognition accepts images that are at least 80 pixels in both dimensions. Q: How small can an object be for Amazon Rekognition Image to detect and analyze it? As a rule of thumb, please ensure that the smallest object or face present in the image is at least 5% of the size (in pixels) of the shorter image dimension. For example, if you are working with a 1600x900 image, the smallest face or object should be at least 45 pixels in either dimension. Q: How can I get Amazon Rekognition predictions reviewed by humans? Amazon Rekognition ... [Content truncated]",
+                    "content_num": 1000
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 9,
+                    "justification": "Aws.amazon.com is the official website for Amazon Web Services, a trusted provider of cloud computing solutions. The site offers technical documentation, resources, and industry insights that are known for their reliability and accuracy. While its primary focus is on cloud services, the technical expertise and data analysis capabilities provided by AWS can be beneficial in verifying and cross-referencing information related to geographical data or weather patterns, which are relevant to assessing claims like the one involving a shark on a flooded highway during a hurricane."
+                },
+                "Content Score": {
+                    "Newness Score": 6,
+                    "Newness Justification": "The information was not dated in the snippet, but considering other sources, it is assumed to be relatively recent.",
+                    "Relevance Score": 8,
+                    "Relevance Justification": "The content discusses face detection in videos with timestamps, which is directly related to verifying location authenticity and timestamp accuracy in videos."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Will the timestamp of an iPhone video suffice as evidence in court as ...",
+                "htmlTitle": "Will the <b>timestamp</b> of an iPhone <b>video</b> suffice as evidence in court as ...",
+                "link": "https://www.quora.com/Will-the-timestamp-of-an-iPhone-video-suffice-as-evidence-in-court-as-to-when-it-was-taken",
+                "displayLink": "www.quora.com",
+                "snippet": "Jan 27, 2020 ... ... prove the accuracy of the photo. The date stamp on a camera is ... place that an investigator will check to verify. Continue Reading. All\u00a0...",
+                "htmlSnippet": "Jan 27, 2020 <b>...</b> ... <b>prove</b> the <b>accuracy</b> of the photo. The <b>date</b> stamp on a camera is ... <b>place</b> that an investigator will <b>check</b> to <b>verify</b>. Continue Reading. All&nbsp;...",
+                "formattedUrl": "https://www.quora.com/Will-the-timestamp-of-an-iPhone-video-suffice-as-...",
+                "htmlFormattedUrl": "https://www.quora.com/Will-the-<b>timestamp</b>-of-an-iPhone-<b>video</b>-suffice-as-...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "al:android:url": "intent://www.quora.com/Will-the-timestamp-of-an-iPhone-video-suffice-as-evidence-in-court-as-to-when-it-was-taken#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FWill-the-timestamp-of-an-iPhone-video-suffice-as-evidence-in-court-as-to-when-it-was-taken&logging_data=uid%3DNone;end",
+                            "theme-color": "#b92b27",
+                            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+                            "al:android:package": "com.quora.android",
+                            "fb:pages": "255232486973",
+                            "twitter:widgets:theme": "light"
+                        }
+                    ],
+                    "QAPage": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.quora.com/Will-the-timestamp-of-an-iPhone-video-suffice-as-evidence-in-court-as-to-when-it-was-taken: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+                    "content_num": 0
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 7,
+                    "justification": "Quora.com is a question-and-answer platform where users can share knowledge on various topics. While Quora hosts a mix of personal opinions and expert advice, the quality of information can vary depending on the authority and expertise of the responders. It may offer insights or explanations related to technical aspects of claims, but caution is advised when relying solely on Quora for fact-checking purposes. The platform can provide additional perspectives but may not always provide definitive or verified information on specific events like the one described in the claim."
+                },
+                "Content Score": {
+                    "Newness Score": 4,
+                    "Newness Justification": "The content was published on January 27, 2020, making it quite outdated in relation to the current date.",
+                    "Relevance Score": 5,
+                    "Relevance Justification": "While the evidence touches on the timestamp of iPhone videos, its direct relevance to the specific context of verifying the flooded highway video is limited."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "eyeWitness | Using metadata to prove the reliability and validity of ...",
+                "htmlTitle": "eyeWitness | Using <b>metadata</b> to <b>prove</b> the reliability and validity of ...",
+                "link": "https://www.eyewitness.global/Using-metadata.html",
+                "displayLink": "www.eyewitness.global",
+                "snippet": "What metadata should be collected for photos and videos to be used as evidence in court \u00b7 GPS latitude and GPS longitude \u00b7 Accuracy of the latitude and longitude\u00a0...",
+                "htmlSnippet": "What <b>metadata</b> should be collected for photos and <b>videos</b> to be used as evidence in court &middot; GPS latitude and GPS longitude &middot; <b>Accuracy</b> of the latitude and longitude&nbsp;...",
+                "formattedUrl": "https://www.eyewitness.global/Using-metadata.html",
+                "htmlFormattedUrl": "https://www.eyewitness.global/Using-<b>metadata</b>.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqeWAikYe6jyr1qBpLNV6GjqVy8kk3PXMA622APb7qIhevpO9jlfvDuk&s",
+                            "width": "200",
+                            "height": "200"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:region": "Europe",
+                            "og:image": "https://www.eyewitness.global/img/eyeWitness-to-atrocities.jpg",
+                            "og:type": "Website",
+                            "twitter:title": "eyeWitness to Atrocities - Using metadata to prove the reliability and validity of footage",
+                            "og:image:width": "200",
+                            "twitter:card": "eyeWitness to Atrocities",
+                            "author": "eyeWitness to Atrocities",
+                            "og:title": "eyeWitness to Atrocities - Using metadata to prove the reliability and validity of footage",
+                            "og:image:height": "200",
+                            "og:latitude": "51.5074",
+                            "og:description": "There are numerous secure camera apps on the market, some of which are designed to record sensitive information such as human rights violations. However, if you are taking photos and videos in the hopes of convicting perpetrators in court, then not all camera apps are up to the task.",
+                            "twitter:creator": "@eyewitnessorg",
+                            "twitter:image": "https://www.eyewitness.global/img/eyeWitness-to-atrocities.jpg",
+                            "twitter:site": "https://www.eyewitness.global/Using-metadata.html",
+                            "og:longitude": "-0.1278",
+                            "og:locale:alternate": "fr_FR",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "twitter:description": "There are numerous secure camera apps on the market, some of which are designed to record sensitive information such as human rights violations. However, if you are taking photos and videos in the hopes of convicting perpetrators in court, then not all camera apps are up to the task.",
+                            "og:locale": "en_GB",
+                            "og:url": "https://www.eyewitness.global/Using-metadata.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.eyewitness.global/img/eyeWitness-to-atrocities.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430 \u2013 \u0426\u0435\u043d\u0442\u0440 \u0440\u0435\u0441\u0443\u0440\u0441\u0456\u0432 Ukraine \u2013 Resources Hub MENU Download our App There are numerous secure camera apps on the market, some of which are designed to record sensitive information such as human rights violations. However, if you are taking photos and videos in the hopes of convicting perpetrators in court, then not all camera apps are up to the task. The reason is courts require proof that the footage shows what you claim it does. A specialised camera app can help with this. However, if you use an app that is not designed for legal proceedings, your videos and photos could be disregarded as unreliable. Very often, unreliability comes down to discrepancies and errors with the photo or video\u2019s metadata. Metadata summarises a photo or video\u2019s basic information. For example, the footage\u2019s time and location, and the device it was taken with. Metadata is important because it can verify that the footage was taken when and where the photographer says it was. It can also show that the footage has not been tampered with. Accurate and unaltered metadata is fundamental to reliability. As such, you need to choose a camera app that captures metadata in the right way. The not-for-profit eyeWitness to Atrocities developed its eyeWitness app to meet this challenge. As the only secure camera app created by legal experts, the eyeWitness app collects and stores metadata in a unique way that adheres to the toughest legal requirements. It also helps to protect its users\u2019 identities by not collecting personally identifiable information. This article outlines what metadata eyeWitness collects; how eyeWitness captures, stores and transmits metadata; and, finally, how eyeWitness protects your privacy. Our extensive legal research has identified that the key information for verification includes the footage\u2019s location, date and time. We also know that more metadata is not always better when it comes to use in court. The opposing counsel could use any incorrect or inconsistent metadata to discredit the integrity of the footage itself. As such, the eyeWitness app does not capture information that cannot be recorded consistently. For these reasons, the eyeWitness app collects the following: Many camera apps capture similar data. However, as explained below, not all apps capture it in a way that stands up in court. One of the biggest problems with camera apps (including the standard camera on your phone) is that they do not always record location, time and date accurately. Here are common problems with some camera apps: To overcome these problems, eyeWitness does the following: eyeWitness presents all of this complicated raw data in a clear, readable format for its partners. We even plot GPS, WiFi, and cell tower locations on a map. Figure 1 Where eyeWitness sources metadata from Altitude is an example of unreliable data. Because mobile devices are not altimeters, they are not capable of recording altitude with accuracy. Similarly, other data points such as speed or bearing are not helpful in demonstrating your footage is reliable. As we have said, courts require proof that no one has tampered with the footage at any point. In legal terms, this is called protecting the chain of custody. This is due to the risks of individuals editing and altering media and data to create fake evidence. If your camera app allows you to export and download your footage and metadata, then you have the ability to change them. The chain of custody is broken, and they will no longer be reliable on their own. Consequently, they will require corroboration such as your testimony in court. eyeWitness guarantees that all footage cannot be edited or altered, thus ensuring the chain of custody is intact. It does this in four ways: Firstly, as soon as you take the footage, the eyeWitness app automatically generates a unique identifying code known as a \u201chash value\u201d. This hash value serves as a digital fingerprint. This step ensures that any subsequent changes to the footage can be detected. Secondly, eyeWitness does not allow you to upload footage taken from another camera app or device. The reason is eyeWitness cannot prove that the footage was not altered prior to being uploaded. Thirdly, the app does not allow you to immediately download or export your footage. Instead, the app asks you to upload the original photo or video to the secure, encrypted eyeWitness server, where we can protect the chain of custody for you. Once eyeWitness receives the footage, you automatically keep a copy that you then can download and export as normal. Fourthly, and finally, eyeWitness stores footage securely. All footage taken through the app is stored in an encrypted storage area within the eyeWitness app itself, separate from your phone gallery. The eyeWitness server that users upload their footage to is encrypted, secure, and access controlled. Figure 2 eyeWitness stores all footage in a separate gallery that can only be accessed using a 6 digit pin Importantly, eyeWitness also provides a thorough explanation of its technology and processes so courts can understand how eyeWitness ensures the chain of custody. When it comes to monitoring atrocities and human rights abuses, you do not want your camera app to capture any identifiable information about you. eyeWitness does not collect any identifying information unless you voluntarily provide it. The eyeWitness app collects the following information about you and your device: We do not collect device IMEI numbers, MAC addresses, or IP addresses from which you submit your footage. You also need to ensure that all of your footage is encrypted and secure. As stated previously, all footage you take using the eyeWitness app is encrypted when stored and transmitted. To find out more about metadata, take a look at our articles on Witness.org: Part 1 \u2018Understanding the data points that apps collect, and how they are generated\u2019, and Part 2 \u2018Understanding the limitations of metadata when it is used for legal purposes\u2019. Figure 3 eyeWitness warns you and gives you the chance to opt out of giving any personally identifiable informaton ... [Content truncated]",
+                    "content_num": 1000
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 8,
+                    "justification": "Eyewitness.global is a platform that focuses on verifying and fact-checking information, particularly in capturing and analyzing visual content. The website's specialization in authenticating visual media can be valuable in scrutinizing claims like the one involving a shark swimming on a flooded highway. By leveraging expert analysis and verification techniques, Eyewitness.global contributes to minimizing the spread of fake news and ensuring the accuracy and truthfulness of visual information shared online. The website's dedicated focus on visual integrity enhances its credibility as a reliable resource for detecting deceptive or misleading content."
+                },
+                "Content Score": {
+                    "Newness Score": 7,
+                    "Newness Justification": "The information on metadata and evidence collection was not dated, but considering its relevance, it scores higher in newness.",
+                    "Relevance Score": 9,
+                    "Relevance Justification": "The evidence from eyewitness.global directly addresses the question by discussing metadata collection, GPS data, and video evidence validity relevant to the flooded highway video context."
+                }
+            }
+        }
+    ]
+}

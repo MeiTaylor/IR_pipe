@@ -1,0 +1,776 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Shark swimming on flooded highway during Hurricane Ian fact check",
+                "totalResults": "473000",
+                "searchTerms": "Shark swimming on flooded highway during Hurricane Ian fact check",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Shark swimming on flooded highway during Hurricane Ian fact check",
+                "totalResults": "473000",
+                "searchTerms": "Shark swimming on flooded highway during Hurricane Ian fact check",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.298273,
+        "formattedSearchTime": "0.30",
+        "totalResults": "473000",
+        "formattedTotalResults": "473,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Fact check: Fabricated image of shark on highway spreads online ...",
+                "htmlTitle": "<b>Fact check</b>: Fabricated image of <b>shark</b> on <b>highway</b> spreads online ...",
+                "link": "https://www.usatoday.com/story/news/factcheck/2022/10/13/fact-check-fabricated-image-shark-highway-spreads-online-again/8196733001/",
+                "displayLink": "www.usatoday.com",
+                "snippet": "Oct 13, 2022 ... Following the hurricane, some social media users circulated an image that purportedly showed a shark swimming down a flooded highway in Florida.",
+                "htmlSnippet": "Oct 13, 2022 <b>...</b> Following the <b>hurricane</b>, some social media users circulated an image that purportedly showed a <b>shark swimming</b> down a <b>flooded highway in</b> Florida.",
+                "formattedUrl": "https://www.usatoday.com/.../factcheck/.../fact-check...shark-highway.../81...",
+                "htmlFormattedUrl": "https://www.usatoday.com/.../<b>factcheck</b>/.../<b>fact</b>-<b>check</b>...<b>shark</b>-<b>highway</b>.../81...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7BWvyjoKF1L3ufJBcnVL7VxnZco64HpJuobwfKFcLAbIntL3mnzbIPDom&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.usatoday.com/gcdn/presto/2022/10/08/USAT/ab9933f4-7374-4c50-84aa-cfe182082d51-XXX_TCN_WEST_COAST_HURRICANE_IAN02.JPG?crop=2999,1687,x0,y99&width=2999&height=1687&format=pjpg&auto=webp",
+                            "apple-itunes-app": "app-id=504631398,app-argument=https://app.adjust.com/ivqo5xe",
+                            "theme-color": "#0098FE",
+                            "og:image:width": "2999",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Fact check: Fabricated image of shark on highway spreads online again",
+                            "og:site_name": "USA TODAY",
+                            "og:title": "Fact check: Fabricated image of shark on highway spreads online again",
+                            "og:image:height": "1687",
+                            "google": "notranslate",
+                            "og:description": "The image is not from Hurricane Ian, or any hurricane at all. It's an ocean photographer's image taken in 2005 that has been manipulated.",
+                            "fb:pages": "13652355666,48958576760,156345381090801,110471702456365,6566864515,137698179626815,315942225236045,927427260614748,183850168300771,1443524575938047,251228454889939,158095147555989,115535341805950,236655713446291,1621466394844549,250325640686,177037772444433,1972936962947967,2047091012096533,535551216797440",
+                            "twitter:creator": "@usatoday",
+                            "article:author": "Ana Faguy",
+                            "twitter:image": "https://www.usatoday.com/gcdn/presto/2022/10/08/USAT/ab9933f4-7374-4c50-84aa-cfe182082d51-XXX_TCN_WEST_COAST_HURRICANE_IAN02.JPG?crop=2999,1687,x0,y99&width=1600&height=800&format=pjpg&auto=webp",
+                            "fb:app_id": "215046668549694",
+                            "twitter:site": "@usatoday",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1",
+                            "twitter:description": "The image is not from Hurricane Ian, or any hurricane at all. It's an ocean photographer's image taken in 2005 that has been manipulated.",
+                            "article:content_tier": "metered",
+                            "og:url": "https://www.usatoday.com/story/news/factcheck/2022/10/13/fact-check-fabricated-image-shark-highway-spreads-online-again/8196733001/",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.usatoday.com/gcdn/presto/2022/10/08/USAT/ab9933f4-7374-4c50-84aa-cfe182082d51-XXX_TCN_WEST_COAST_HURRICANE_IAN02.JPG?crop=2999,1687,x0,y99&width=2999&height=1687&format=pjpg&auto=webp"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2022-10-13T23:11:08Z",
+                            "claimReviewed": "Image shows a shark on a Florida highway",
+                            "url": "https://www.usatoday.com/story/news/factcheck/2022/10/13/fact-check-fabricated-image-shark-highway-spreads-online-again/8196733001/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.usatoday.com/story/news/factcheck/2022/10/13/fact-check-fabricated-image-shark-highway-spreads-online-again/8196733001/: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+                    "content_num": 0
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 8,
+                    "justification": "USA Today is a well-established and reputable news organization with a history of providing accurate and reliable information. They have a strong fact-checking process and are known for addressing fake news. Additionally, their reporting standards and journalistic integrity contribute to their credibility in detecting and debunking false claims."
+                },
+                "Content Score": {
+                    "Newness Score": 8,
+                    "Newness Justification": "The article was published on October 13, 2022, which is relatively recent compared to the current date of July 2024.",
+                    "Relevance Score": 9,
+                    "Relevance Justification": "The article directly addresses the claim by debunking the fabricated image of a shark on a highway during a hurricane in Florida."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Fact-checking viral images and videos from Hurricane Ian | verifythis ...",
+                "htmlTitle": "<b>Fact</b>-<b>checking</b> viral images and videos from <b>Hurricane Ian</b> | verifythis ...",
+                "link": "https://www.verifythis.com/article/news/verify/weather-verify/hurricane-ian-fact-checking-images-and-videos/536-31a91e66-9f66-4bd3-96f4-869354ea0850",
+                "displayLink": "www.verifythis.com",
+                "snippet": "Sep 29, 2022 ... Hurricane Ian: Sharks swimming down the street, flamingos in the restroom, seals on the sidewalk. Here is a roundup of what footage is real\u00a0...",
+                "htmlSnippet": "Sep 29, 2022 <b>...</b> <b>Hurricane Ian</b>: <b>Sharks swimming</b> down the street, flamingos <b>in</b> the restroom, seals on the sidewalk. Here is a roundup of what footage is real&nbsp;...",
+                "formattedUrl": "https://www.verifythis.com/.../hurricane-ian-fact-checking.../536-31a91e66...",
+                "htmlFormattedUrl": "https://www.verifythis.com/.../<b>hurricane</b>-<b>ian</b>-<b>fact</b>-<b>check</b>ing.../536-31a91e66...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx8GWR-VmPY9osNlH7dNJ_EjYHplFbi2DNaN7i2Z2B31l25lZzgjhScKfE&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=0",
+                            "og:image": "https://media.tegna-media.com/assets/VERIFY/images/cf1d5e1d-3947-491e-a674-eed084b60f75/cf1d5e1d-3947-491e-a674-eed084b60f75_1140x641.jpg",
+                            "og:type": "article",
+                            "og:image:width": "1140",
+                            "twitter:title": "Hurricane Ian: Fact-checking images and videos claiming to show scenes from storm",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "verifythis.com",
+                            "twitter:domain": "www.verifythis.com/",
+                            "og:title": "Hurricane Ian: Fact-checking images and videos claiming to show scenes from storm",
+                            "og:image:height": "641",
+                            "og:article:published_time": "9/29/2022 3:00:06 PM",
+                            "og:description": "The VERIFY team is fact-checking images and videos that have come from Hurricane Ian. Here is what is true and false.",
+                            "twitter:image": "https://media.tegna-media.com/assets/VERIFY/images/cf1d5e1d-3947-491e-a674-eed084b60f75/cf1d5e1d-3947-491e-a674-eed084b60f75_1140x641.jpg",
+                            "twitter:image:src": "https://media.tegna-media.com/assets/VERIFY/images/cf1d5e1d-3947-491e-a674-eed084b60f75/cf1d5e1d-3947-491e-a674-eed084b60f75_1140x641.jpg",
+                            "site": "verifythis.com",
+                            "fb:app_id": "217433346809976",
+                            "twitter:site": "VerifyThis",
+                            "viewport": "width=device-width",
+                            "twitter:description": "The VERIFY team is fact-checking images and videos that have come from Hurricane Ian. Here is what is true and false.",
+                            "og:locale": "en_US",
+                            "article:content_tier": "free",
+                            "category": "news",
+                            "og:url": "https://www.verifythis.com/article/news/verify/weather-verify/hurricane-ian-fact-checking-images-and-videos/536-31a91e66-9f66-4bd3-96f4-869354ea0850",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.tegna-media.com/assets/VERIFY/images/cf1d5e1d-3947-491e-a674-eed084b60f75/cf1d5e1d-3947-491e-a674-eed084b60f75_1140x641.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Next up in 5 Example video title will go here for this video Ian was downgraded from a hurricane to a tropical storm on Thursday, Sept. 29, one day after making landfall on Florida\u2019s southwest coast. The storm dropped heavy rains and created storm surges that caused flooding and led to inland rescues and evacuations. Many social media posts claim to show shocking images from the storm. The VERIFY team has been fact-checking viral content to determine what\u2019s real and what isn\u2019t. Was an elephant seal seen scooting along a Florida sidewalk during Hurricane Ian? Florida just outta control right now \ud83d\ude33\ud83e\uddad pic.twitter.com/LSJMf3bnIt The video, posted to Twitter on Sept. 28, had more than 12 million views. No, an elephant seal was not seen scooting along a Florida sidewalk during Hurricane Ian. The elephant seal video was taken in October 2020 in Puerto Cisnes, Chile. According to Infobae, an Argentinian news outlet, the elephant seal traveled 10 blocks in an area known as the largest urban center in the city of Puerto Cisnes, Chile. With the help of residents in the area, the seal was transported back to the ocean by the Chilean navy. The rescue mission was recorded live on Facebook in October 2020 by a local radio DJ. Sign up for the VERIFY Fast Facts daily Newsletter! Was a video showing people on a balcony with drinks as lightning strikes taken during Hurricane Ian? When a hurricane hits Florida people do a party pic.twitter.com/B4Vaas2SFD The video clip, shared by multiple accounts on Sept. 28, had hundreds of thousands of views on Twitter. It had more than 1 million likes on TikTok. No, the video wasn\u2019t taken during Ian. It was shared online multiple times before the storm made landfall in Florida, though it was taken in Fort Myers, Florida. Using RevEye, a reverse image search tool, VERIFY found several instances where the video was shared prior to Ian becoming a named storm. The video was posted on Reddit on Aug. 30. This 12-second video was posted to Facebook on Sept. 12. It was also posted on Imgur, an image and video sharing platform, on Sept. 15, about a week and a half before Ian made landfall. Using Google Maps Streetview, VERIFY was able to pinpoint the exact location where the video was taken \u2013 from the rooftop of the Lani Kai Island Resort in Fort Myers Beach. The same buildings seen in the video can be seen from Google Maps. The same 7-11 convenience store can be seen across the street from the Lani Kai resort where the video was taken, and right across the street from that, the same blue building. Does this photo show a shark swimming on a Florida highway in Ian\u2019s floodwaters? There are sharks on the highways in Florida. Unreal. pic.twitter.com/sHcgfkrc8o The photo, posted to Twitter on Sept. 28, had more than 28,000 retweets and over 300,000 likes. This photo circulates nearly each hurricane season. This example was shared in 2018 in connection to Hurricane Florence, which wreaked havoc on the Carolinas. Here it was shared during Hurricane Sandy, and here during Hurricane Irma. The image was actually lifted from a September 2005 issue of Africa Geographic. The original photo shows a shark trailing a kayaker, and was later manipulated to look like a shark was swimming through an interstate lane. Were zoo flamingos really moved to a basement bathroom ahead of the storm? Flamingos evacuated to the bathroom at Sunken Gardens, St Pete.\ud83e\udda9\ud83e\udda9 #hurricaneian pic.twitter.com/MX9wNGvzds Some people commenting on the photo claimed they had seen that image before the storm struck Florida on Sept. 28. This one is real! The flamingos are residents of Sunken Gardens park, a botanic park based out of St. Petersburg, Florida. The park tweeted the photo from their official account on Sept. 28, saying the flamingos were safe from the oncoming storm. \u201cWe're hunkered down! Our animals are safe w/staff on site to see them through the storm. The flamingos are having a hurricane party in the bathroom; eating, drinking, & dancing. Stay safe out there!\u201d the tweet said. \ud83e\udda9\ud83c\udf00We're hunkered down! Our animals are safe w/staff on site to see them through the storm. The flamingos are having a hurricane party in the bathroom; eating, drinking, & dancing. \ud83d\ude09Stay safe out there! pic.twitter.com/ejCuuRUdma People on social media might have been confused because this isn\u2019t the first time zookeepers have posted pictures of flamingos in facilities ahead of a storm. In August 1992, Hurricane Andrew, a Category 5 storm, hit Florida and at the time, Miami Zoo\u2019s Ron Magill took a photo of flamingos huddled up. On the 30 year anniversary of Hurricane Andrew, Magill tweeted about the famous photo, writing, \u201cOf the countless images I have captured in my life, none is more iconic than this one. I can't believe it has been 30 years since Hurricane Andrew devastated South Florida. I'll never forget capturing this image of the zoos flamingos huddled in the ladies restroom for protection.\u201d Of the countless images I have captured in my life, none is more iconic than this one. I can't believe it has been 30 years since Hurricane Andrew devastated South Florida. I'll never forget capturing this image of the zoos flamingos huddled in the ladies restroom for protection. pic.twitter.com/iACXIBivSm Was someone seen pulling a pineapple-shaped trailer down a highway during Hurricane Ian evacuations? #HurricaneIan #Hurricane #Ian #TropicalStormIan You know shit is serious when spongebob is evacuating.... pic.twitter.com/sQSfWpJjc3 A tweet with the photo, posted on Sept. 25, had more than 2,500 retweets and over 17,000 likes. No. This is another popular meme that often appears on the internet during storm season. Using RevEye, VERIFY was able to trace the photo to at least September 2017, when it appeared on Imgur, a popular photo sharing website. The photo appeared on Reddit in August 2019 when Hurricane Dorian was nearing Florida. So, we can VERIFY this photo was also not taken when people were evacuating ahead of Hurricane Ian, but actually ... [Content truncated]",
+                    "content_num": 1000
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 9,
+                    "justification": "Verify This is specifically focused on fact-checking and debunking misinformation. As a dedicated platform for verifying claims, it has a high level of accuracy and reliability. Their emphasis on evidence-based reporting and detailed investigations make them a reliable source for detecting fake news."
+                },
+                "Content Score": {
+                    "Newness Score": 9,
+                    "Newness Justification": "The article was published on September 29, 2022, making it quite recent in relation to the current date.",
+                    "Relevance Score": 8,
+                    "Relevance Justification": "The article discusses various viral images and videos related to Hurricane Ian, including sharks swimming down streets, which is relevant to the claim."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Fact check: Photo of shark on a flooded highway is faked",
+                "htmlTitle": "<b>Fact check</b>: Photo of <b>shark</b> on a <b>flooded highway</b> is faked",
+                "link": "https://www.usatoday.com/story/news/factcheck/2020/08/27/fact-check-photo-shark-flooded-highway-faked/5646793002/",
+                "displayLink": "www.usatoday.com",
+                "snippet": "Aug 27, 2020 ... As Hurricane Laura roars through parts of Texas and Louisiana, an old image of a shark swimming down a freeway has once again gone viral.",
+                "htmlSnippet": "Aug 27, 2020 <b>...</b> As <b>Hurricane</b> Laura roars <b>through</b> parts of Texas and Louisiana, an old image of a <b>shark swimming</b> down a <b>freeway</b> has once again gone viral.",
+                "formattedUrl": "https://www.usatoday.com/.../factcheck/.../fact-check...shark-flooded-highw...",
+                "htmlFormattedUrl": "https://www.usatoday.com/.../<b>factcheck</b>/.../<b>fact</b>-<b>check</b>...<b>shark</b>-<b>flooded</b>-<b>highw</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI5Jj8UNyKD7ZGLVtPxS5qN-wbpwJ-YVjZ0Pit1YHiI1mzWT2CfZVs73Um&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.usatoday.com/gcdn/presto/2020/08/27/USAT/d6a294c4-24a8-47a6-b978-7935bec21b3c-FB_shark_on_freeway.jpg?crop=3975,2236,x0,y307&width=3200&height=1801&format=pjpg&auto=webp",
+                            "apple-itunes-app": "app-id=504631398,app-argument=https://app.adjust.com/ivqo5xe",
+                            "theme-color": "#0098FE",
+                            "og:image:width": "3200",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Fact check: Photo of shark on a flooded highway is faked",
+                            "og:site_name": "USA TODAY",
+                            "og:title": "Fact check: Photo of shark on a flooded highway is faked",
+                            "og:image:height": "1801",
+                            "google": "notranslate",
+                            "og:description": "An image of a shark swimming up a flooded highway first appeared in 2011 and shows up after big storms. It's a hoax.",
+                            "fb:pages": "13652355666,48958576760,156345381090801,110471702456365,6566864515,137698179626815,315942225236045,927427260614748,183850168300771,1443524575938047,251228454889939,158095147555989,115535341805950,236655713446291,1621466394844549,250325640686,177037772444433,1972936962947967,2047091012096533,535551216797440",
+                            "twitter:creator": "@usatoday",
+                            "article:author": "McKenzie Sadeghi",
+                            "twitter:image": "https://www.usatoday.com/gcdn/presto/2020/08/27/USAT/d6a294c4-24a8-47a6-b978-7935bec21b3c-FB_shark_on_freeway.jpg?crop=3975,2236,x0,y307&width=1600&height=800&format=pjpg&auto=webp",
+                            "fb:app_id": "215046668549694",
+                            "twitter:site": "@usatoday",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1",
+                            "twitter:description": "An image of a shark swimming up a flooded highway first appeared in 2011 and shows up after big storms. It's a hoax.",
+                            "article:content_tier": "free",
+                            "og:url": "https://www.usatoday.com/story/news/factcheck/2020/08/27/fact-check-photo-shark-flooded-highway-faked/5646793002/",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.usatoday.com/gcdn/presto/2020/08/27/USAT/d6a294c4-24a8-47a6-b978-7935bec21b3c-FB_shark_on_freeway.jpg?crop=3975,2236,x0,y307&width=3200&height=1801&format=pjpg&auto=webp"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.usatoday.com/story/news/factcheck/2020/08/27/fact-check-photo-shark-flooded-highway-faked/5646793002/: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+                    "content_num": 0
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 8,
+                    "justification": "USA Today is a well-established and reputable news organization with a history of providing accurate and reliable information. They have a strong fact-checking process and are known for addressing fake news. Additionally, their reporting standards and journalistic integrity contribute to their credibility in detecting and debunking false claims."
+                },
+                "Content Score": {
+                    "Newness Score": 5,
+                    "Newness Justification": "The article was published on August 27, 2020, making it significantly older compared to the current date.",
+                    "Relevance Score": 7,
+                    "Relevance Justification": "While the article debunks a photo of a shark on a flooded highway during Hurricane Laura, it still provides some relevant context to the claim."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "How can you tell if something is true? Here are 3 questions to ask ...",
+                "htmlTitle": "How can you tell if something is true? Here are 3 questions to ask ...",
+                "link": "https://theconversation.com/how-can-you-tell-if-something-is-true-here-are-3-questions-to-ask-yourself-about-what-you-see-hear-and-read-192803",
+                "displayLink": "theconversation.com",
+                "snippet": "Nov 28, 2022 ... ... Hurricane Harvey hit Houston, Texas, in 2017. It's a fake \u2013 a flooded highway image combined with one of a great white shark. The fact-checking\u00a0...",
+                "htmlSnippet": "Nov 28, 2022 <b>...</b> ... <b>Hurricane</b> Harvey hit Houston, Texas, <b>in</b> 2017. It&#39;s a fake \u2013 a <b>flooded highway</b> image combined with one of a great white <b>shark</b>. The <b>fact</b>-<b>checking</b>&nbsp;...",
+                "formattedUrl": "https://theconversation.com/how-can-you-tell-if-something-is-true-here-are...",
+                "htmlFormattedUrl": "https://theconversation.com/how-can-you-tell-if-something-is-true-here-are...",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "role": "Teaching Associate Professor of Media, West Virginia University",
+                            "fn": "Bob Britten"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxGfO_QZGix_J4k6ko00eZVgmAmcykIC4X4Ou16AmpBN6bUPozSfEM0YQn&s",
+                            "width": "320",
+                            "height": "157"
+                        }
+                    ],
+                    "xfn": [
+                        {}
+                    ],
+                    "person": [
+                        {
+                            "role": "Teaching Associate Professor of Media, West Virginia University"
+                        },
+                        {
+                            "image": "https://cdn.theconversation.com/avatars/588906/width170/Britten.jpg",
+                            "name": "Bob Britten",
+                            "url": "Bob Britten"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://images.theconversation.com/files/494543/original/file-20221109-24-smerzw.jpg?ixlib=rb-4.1.0&rect=8%2C681%2C5742%2C2871&q=45&auto=format&w=1356&h=668&fit=crop",
+                            "theme-color": "#d8352a",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "The Conversation",
+                            "apple-mobile-web-app-title": "The Conversation",
+                            "current-region": "us",
+                            "og:description": "What\u2019s true and what\u2019s not? An expert in media literacy explains how to evaluate information.",
+                            "twitter:creator": "@thebobthe",
+                            "article:publisher": "https://facebook.com/theConversationUS",
+                            "institution": "West Virginia University",
+                            "twitter:site": "@ConversationUS",
+                            "news_keywords": "Critical thinking, Curious Kids, Curious Kids US, Digital hoaxes, Disinformation, Emotions, Evidence, Fake news, Hoaxes, Internet, Kids, Media, Media literacy, Misinformation, Skepticism, Social media, YouTube",
+                            "searchtype": "analysis",
+                            "csrf-token": "eGOxhZKHu9rqr0-hfa7a8QQKoJD1VaniuQlKFi5ANS4rhKTcmEz2_L2CNmRYGbydv0HYFoXA15X4ec6_zfK8oA",
+                            "pubdate": "20221128",
+                            "og:type": "article",
+                            "author": "Bob Britten",
+                            "og:title": "How can you tell if something is true? Here are 3 questions to ask yourself about what you see, hear and read",
+                            "og:updated_time": "2023-08-23T14:03:35Z",
+                            "csrf-param": "authenticity_token",
+                            "msapplication-navbutton-color": "#d8352a",
+                            "fb:pages": "1453112561595308",
+                            "fb:app_id": "127105130696839",
+                            "apple-mobile-web-app-status-bar-style": "default",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "apple-mobile-web-app-capable": "yes",
+                            "original-source": "https://theconversation.com/how-can-you-tell-if-something-is-true-here-are-3-questions-to-ask-yourself-about-what-you-see-hear-and-read-192803",
+                            "og:url": "http://theconversation.com/how-can-you-tell-if-something-is-true-here-are-3-questions-to-ask-yourself-about-what-you-see-hear-and-read-192803",
+                            "commissioning-region": "us"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://images.theconversation.com/files/494543/original/file-20221109-24-smerzw.jpg?ixlib=rb-4.1.0&rect=8%2C681%2C5742%2C2871&q=45&auto=format&w=1356&h=668&fit=crop"
+                        }
+                    ],
+                    "article": [
+                        {
+                            "image": "https://images.theconversation.com/files/494543/original/file-20221109-24-smerzw.jpg?ixlib=rb-4.1.0&rect=0%2C8%2C5751%2C3819&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip",
+                            "articlebody": "Curious Kids is a series for children of all ages. If you have a question you\u2019d like an expert to answer, send it to curiouskidsus@theconversation.com. How can I tell if what I am hearing...",
+                            "headline": "How can you tell if something is true? Here are 3 questions to ask yourself about what you see, hear and read",
+                            "datepublished": "2022-11-28T13:32:28Z"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Teaching Associate Professor of Media, West Virginia University Bob Britten does not work for, consult, own shares in or receive funding from any company or organisation that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment. West Virginia University provides funding as a member of The Conversation US. View all partners Curious Kids is a series for children of all ages. If you have a question you\u2019d like an expert to answer, send it to curiouskidsus@theconversation.com. How can I tell if what I am hearing is true? \u2013 Adam, age 10, Maui, Hawaii Have you ever heard a story so exciting you wanted to share it right away? Something like a shark swimming up a flooded highway? An image that seems to show just that was shared by many people after Hurricane Ian struck Florida in 2022. It was also widely shared after Hurricane Harvey hit Houston, Texas, in 2017. It\u2019s a fake \u2013 a flooded highway image combined with one of a great white shark. The fact-checking website Snopes found it circulating as far back as 2011 after Hurricane Irene slammed Puerto Rico. Truth can be tricky to determine. Every message you read, see or hear comes from somewhere and was created by someone and for someone. I teach media literacy, which is a way to think about information you get in the messages you receive via media. You might think media means the news, but it also includes TikTok posts, television, books, advertisements and more. When deciding whether to trust a piece of information, it\u2019s good to start with three main questions \u2013 who said it, what evidence did they give and how much do you want to believe it? The last one might seem a little strange, but you\u2019ll see why it\u2019s important by the end. Let\u2019s say you\u2019re really excited about a game that\u2019s coming out later this year. You want to be the first to learn about the new creatures, characters and game modes. So when a YouTube video pops up saying, \u201cGAME COMING TWO WEEKS EARLY,\u201d you can\u2019t wait to watch. But when you click, it\u2019s just a guy making predictions. Do you trust him? A source is where information comes from. You get information from sources every day \u2013 from teachers, parents and friends to people you\u2019ve never met on news sites, fan channels and social media. You probably have sources you trust and ones you don\u2019t. But why? Would you trust your history teacher to tell you something about history? Probably, because they have a college degree that says they know their stuff. But what if your history teacher told you a fact about science your science teacher said was untrue? You\u2019d probably be better off going with the science teacher for your science facts. Just because a source is trustworthy in one subject doesn\u2019t mean they\u2019re trustworthy in every subject. Let\u2019s go back to the YouTuber. If you\u2019ve watched him for a while and he\u2019s reliably correct, that\u2019s a good start. At the same time, make sure you don\u2019t confuse his having an opinion with actually having knowledge. Just because you like a source doesn\u2019t make it trustworthy. This is true for websites, too. When a site grabs your attention, take a second to check the source at the top. Some fake sites use names that sound trustworthy \u2013 like \u201cBoston Tribune\u201d instead of \u201cBoston Globe\u201d or \u201cwww.cbs.com.co\u201d instead of \u201cwww.cbs.com.\u201d You can click the \u201cAbout\u201d page to see where they\u2019re really coming from, use lists of known fake sites and other fact-checking resources to avoid getting played. Evidence is what you show when someone says \u201cprove it!\u201d It\u2019s the details that support what a source is saying. Primary sources \u2013 people or groups who are directly involved with the information \u2013 are best. If you want to learn about the release of a new game, the company\u2019s official accounts or channels would be primary sources. Secondary sources are one step removed \u2013 for example, news stories based on primary sources. They aren\u2019t as strong as primary sources but are still useful. For example, most news on gaming site IGN is based on information from game company sources, so it\u2019s a good secondary source. Can a blogger or YouTuber be a secondary source? If their claims start by referencing primary sources like \u201cElectronic Arts says,\u201d that\u2019s good. But if they start with \u201cI think\u201d or \u201cThere\u2019s a lot of buzz,\u201d be careful. Emotions can get in the way of knowing what\u2019s true. Messages that make you feel strong emotions \u2013 especially ones that are funny or make you angry \u2013 are the most important ones to check, but they\u2019re also the hardest to ignore. Advertisers know this. Many ads try to be funny or make the things they\u2019re selling look cool because they want you to focus on how you feel rather than what you think. And being older doesn\u2019t mean you\u2019re automatically better at spotting false information: 41% of 18-to-34-year-olds and 44% of adults 65 and older admitted to having fallen for a fake news story in a 2018 study. Other research showed adults over 65 were seven times as likely to share articles from fake sites as younger people were. So if you\u2019ve been eagerly waiting for that new game, and somebody posts a video that says it\u2019s coming out early, your wanting it to be true can make you ignore your common sense \u2013 leaving you open to being fooled. The best question you can ask yourself when you\u2019re thinking about a message is, \u201cDo I want to believe this?\u201d If the answer is yes, it\u2019s a good sign you should slow down and check the source and evidence more closely. Hello, curious kids! Do you have a question you\u2019d like an expert to answer? Ask an adult to send your question to CuriousKidsUS@theconversation.com. Please tell us your name, age and the city where you live. And since curiosity has no age ... [Content truncated]",
+                    "content_num": 1000
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 7,
+                    "justification": "The Conversation is known for its commitment to factual accuracy and evidence-based journalism. While they cover a wide range of topics, their expertise in analysis and research contributes to their credibility in addressing fake news. However, they may not always focus solely on fact-checking, hence a slightly lower rating compared to fact-checking specific platforms."
+                },
+                "Content Score": {
+                    "Newness Score": 6,
+                    "Newness Justification": "The article was published on November 28, 2022, making it relatively recent in relation to the current date.",
+                    "Relevance Score": 6,
+                    "Relevance Justification": "The article discusses a fake image related to Hurricane Harvey, which is somewhat relevant but not directly addressing the claim about Hurricane Ian."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "This Photo of a Shark Swimming in a Flooded Highway Is Edited ...",
+                "htmlTitle": "This Photo of a <b>Shark Swimming in</b> a <b>Flooded Highway</b> Is Edited ...",
+                "link": "https://misbar.com/en/factcheck/2023/08/23/this-photo-of-a-shark-swimming-in-a-flooded-highway-is-edited",
+                "displayLink": "misbar.com",
+                "snippet": "Aug 23, 2023 ... ... during Hurricane Ian.\u274c Fact: The claim is misleading. Misbar found that the images are old and unrelated to Hurricane Ian hitting Southwest\u00a0...",
+                "htmlSnippet": "Aug 23, 2023 <b>...</b> ... <b>during Hurricane Ian</b>.\u274c <b>Fact</b>: The claim is misleading. Misbar found that the images are old and unrelated to <b>Hurricane Ian</b> hitting Southwest&nbsp;...",
+                "formattedUrl": "https://misbar.com/.../factcheck/.../this-photo-of-a-shark-swimming-in-a-flo...",
+                "htmlFormattedUrl": "https://misbar.com/.../<b>factcheck</b>/.../this-photo-of-a-<b>shark</b>-<b>swimming</b>-in-a-<b>flo</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeG0hunAtvUx6oOY25ssxlS6AVpEx9gFDjtGYnVZRdxLX-6BITqDWkmRI&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://images-prod.misbar.com/factcheck/b1f31d8ccb140e75642d4747ef9da4a5fcd9d66d_watermark.jpg",
+                            "og:image:width": "500",
+                            "og:type": "article",
+                            "twitter:title": "This Photo of a Shark Swimming in a Flooded Highway Is Edited | Misbar",
+                            "twitter:card": "summary_large_image",
+                            "og:title": "This Photo of a Shark Swimming in a Flooded Highway Is Edited | Misbar",
+                            "og:image:height": "500",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "Misbar investigated the widely circulated image and found it to be fake.After conducting a thorough reverse image search, Misbar\u2019s team determined the image mak",
+                            "twitter:image": "https://images-prod.misbar.com/factcheck/b1f31d8ccb140e75642d4747ef9da4a5fcd9d66d_watermark.jpg",
+                            "fb:app_id": "578123236215725",
+                            "twitter:site": "@misbar",
+                            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                            "twitter:description": "Misbar investigated the widely circulated image and found it to be fake.After conducting a thorough reverse image search, Misbar\u2019s team determined the image mak",
+                            "og:url": "https://misbar.com/en/factcheck/2023/08/23/this-photo-of-a-shark-swimming-in-a-flooded-highway-is-edited?q=%2Fen%2Ffactcheck%2F2023%2F08%2F23%2Fthis-photo-of-a-shark-swimming-in-a-flooded-highway-is-edited"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://images-prod.misbar.com/factcheck/b1f31d8ccb140e75642d4747ef9da4a5fcd9d66d_watermark.jpg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-08-23T07:59:00Z",
+                            "name": "This Photo of a Shark Swimming in a Flooded",
+                            "description": "Misbar investigated the widely circulated image",
+                            "url": "https://misbar.com/factcheck/2023/08/23/this-photo-of-a-shark-swimming-in-a-flooded-highway-is-edited"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://misbar.com/en/factcheck/2023/08/23/this-photo-of-a-shark-swimming-in-a-flooded-highway-is-edited: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+                    "content_num": 0
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 3,
+                    "justification": "Misbar.com's credibility is questionable due to a lack of established reputation and transparency in their reporting practices. There is limited information available about their fact-checking processes or editorial standards. This raises concerns about their reliability in detecting fake news and providing accurate information."
+                },
+                "Content Score": {
+                    "Newness Score": 2,
+                    "Newness Justification": "The article was published on August 23, 2023, which is quite old compared to the current date of July 2024.",
+                    "Relevance Score": 4,
+                    "Relevance Justification": "The article debunks misleading images related to Hurricane Ian but does not provide direct evidence regarding the shark swimming claim."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Hurricane Ian: Is Video of Shark Swimming in Flooded Fort Myers ...",
+                "htmlTitle": "<b>Hurricane Ian</b>: Is Video of <b>Shark Swimming in Flooded</b> Fort Myers ...",
+                "link": "https://www.snopes.com/fact-check/video-shark-fort-myers-street/",
+                "displayLink": "www.snopes.com",
+                "snippet": "Sep 29, 2022 ... It has not been established with any certainty that the aquatic animal in the video is a shark. Advertisement: Fact Check. In late September\u00a0...",
+                "htmlSnippet": "Sep 29, 2022 <b>...</b> It has not been established with any certainty that the aquatic animal <b>in</b> the video is a <b>shark</b>. Advertisement: <b>Fact Check</b>. <b>In</b> late September&nbsp;...",
+                "formattedUrl": "https://www.snopes.com/fact-check/video-shark-fort-myers-street/",
+                "htmlFormattedUrl": "https://www.snopes.com/<b>fact</b>-<b>check</b>/video-<b>shark</b>-fort-myers-street/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZM4S5rhNQ312NU5gfhZoo3nu5wfKBOQh2aAVnsKCW3uNvHPtJWL81Ib4&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2022/09/shark-fort-myers-hurricane-ian-video.jpg",
+                            "theme-color": "#ffffff",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2022-09-29 13:44:58",
+                            "og:site_name": "Snopes",
+                            "apple-mobile-web-app-title": "Snopes.com",
+                            "twitter:creator": "@snopes",
+                            "og:description": "The video, which went viral instantly, was allegedly shot in the Devonwood neighborhood of Fort Myers, Florida.",
+                            "twitter:image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2022/09/shark-fort-myers-hurricane-ian-video.jpg",
+                            "article:publisher": "https://www.facebook.com/snopes",
+                            "twitter:site": "@snopes",
+                            "article:modified_time": "2022-09-29 21:29:14",
+                            "msapplication-tilecolor": "#000000",
+                            "twitter:title": "Hurricane Ian: Is Video of Shark Swimming in Flooded Fort Myers Street Real?",
+                            "og:type": "article",
+                            "og:title": "Hurricane Ian: Is Video of Shark Swimming in Flooded Fort Myers Street Real?",
+                            "fb:pages": "120680396518",
+                            "article:author": "David Emery",
+                            "article:tag": "Sharks",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "viewport": "width=device-width, initial-scale=1.0,minimum-scale=1.0, maximum-scale=5.0",
+                            "apple-mobile-web-app-capable": "yes",
+                            "mobile-web-app-capable": "yes",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.snopes.com//fact-check/video-shark-fort-myers-street/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2022/09/shark-fort-myers-hurricane-ian-video.jpg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2022-09-29T06:44:58Z",
+                            "claimReviewed": "A viral video authentically shows a shark swimming",
+                            "url": "https://www.snopes.com//fact-check/video-shark-fort-myers-street/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.snopes.com/fact-check/video-shark-fort-myers-street/: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+                    "content_num": 0
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 9,
+                    "justification": "Snopes has a solid reputation as a fact-checking website known for thoroughly investigating claims and rumors. Their long history of debunking misinformation and providing detailed analyses contributes to their high credibility in the field of fake news detection. Their commitment to accuracy and transparency enhances their reliability."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Hurricane Shark - Wikipedia",
+                "htmlTitle": "<b>Hurricane Shark</b> - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Hurricane_Shark",
+                "displayLink": "en.wikipedia.org",
+                "snippet": "... shark swimming on a flooded freeway\u2014were debunked as fabrications. However, during Hurricane Ian in 2022, the Associated Press verified a video taken by\u00a0...",
+                "htmlSnippet": "... <b>shark swimming</b> on a <b>flooded freeway</b>\u2014were debunked as fabrications. However, <b>during Hurricane Ian in</b> 2022, the Associated Press verified a video taken by&nbsp;...",
+                "formattedUrl": "https://en.wikipedia.org/wiki/Hurricane_Shark",
+                "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Hurricane</b>_<b>Shark</b>",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjS_XLzDYfdrXYc8lZYF2tecRMGpCIQQwdcRrtEIsHuMS8PzBJeO1in98Q&s",
+                            "width": "220",
+                            "height": "165"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "referrer": "origin",
+                            "theme-color": "#eaecf0",
+                            "og:type": "website",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "og:title": "Hurricane Shark - Wikipedia",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/%22Freeway_shark%22_hoax_image.png/220px-%22Freeway_shark%22_hoax_image.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Hurricane Shark and Street Shark are nicknames for several claimed instances of a live shark swimming in a flooded urban area, typically in the aftermath of a hurricane. For more than a decade (starting with Hurricane Irene in 2011), all media purporting to document such claims\u2014most notably an image of a shark swimming on a flooded freeway\u2014were debunked as fabrications. However, during Hurricane Ian in 2022, the Associated Press verified a video taken by Dominic Cameratta of a shark or other large fish swimming in flooded Fort Myers, Florida; one consulted expert concluded that the fish was \"a juvenile shark\" while another was unable to determine whether it was a shark.[1] Both the re-emergence of the hoax in hurricane after hurricane and the eventual appearance of a plausible claim have been the subject of commentary and amusement; Daniel Victor of The New York Times described the Associated Press's findings as \"like discovering Bigfoot is real\".[2] The original \"Hurricane Shark\" image was created during Hurricane Irene in 2011, with a claim that the shark was on a street in Puerto Rico.[2] According to The Washington Post, it likely originated on Reddit.[3] In the aftermath of the hurricane, the image was aired by Miami Fox affiliate WSVN,[3] was posted by the Miami Herald, and was widely shared on social media websites including Twitter.[4] The image was debunked by the Post,[3] Snopes.com,[5] and the Toronto Star.[4] It had been created by combining an image of a flooded street in Puerto Rico with a photo of a shark taken by Thomas P. Peschak off of South Africa in 2003.[4] The Post compared it to similar hoax images, such as one supposedly of Osama bin Laden's body following his death.[3] Craig Silverman, writing in the Star, cast it as part of a larger phenomenon of hoax images appearing in the aftermath of significant events.[4] The image has frequently resurfaced on the internet with claims that it was taken during various flooding events,[2] including in Houston during both the 2015 Texas\u2013Oklahoma flood and tornado outbreak and the 2017 floods caused by Hurricane Harvey, and in Daytona Beach, Florida, in 2016 during floods caused by Hurricane Matthew.[5] Peschak has said his fans notify him each time the image re-emerges, but that \"they're more outraged than I am\".[6] After Toronto's Union Station flooded in June 2012, a manipulated image circulated purporting to show two sharks at the base of an escalator bank. The image was later reused in a hoax claiming that a shark tank had burst at the Kuwait Scientific Center.[7][8] While the flooding in Toronto was not the result of a hurricane, the hoax has often been compared to the main Hurricane Shark hoax.[2][9] Later in 2012, after Hurricane Sandy struck New Jersey, other fake shark images circulated in addition to the better-known freeway one. One image appears to depict a shark outside of a home in a suburban area.[10][11] Another appears to show a shark swimming down a suburban street.[12][13] Tom Phillips and Alexis Madrigal found the real shark image used to create the former; Snopes did the same for the latter.[10][13][11] During both Hurricane Irma and Hurricane Florence, fake television breaking news screen captures were seen online saying that the hurricane \"now contains sharks\", although neither contained images of sharks.[14] No, Hurricane Florence does not contain sharks September 13, 2018[15] Hurricane sharks as hoaxes have taken on a life of their own, in social media and in the press. Doctored photos of sharks swimming in urban areas went viral on social media in virtually every disastrous storm and hurricane in the decade since, often copies of the image that first circulated during Irene.[15] Some on social media have treated the Hurricane Shark as a meme, an in-joke hoax to be revived with each disaster, while others have genuinely believed in the authenticity of the photos being spread.[2] Commentators have made comparisons to Sharknado, a film series that also involves sharks caught up in natural disasters.[16][1] In response to the \"now contains sharks\" images circulated during Hurricane Florence, FEMA's Associate Director of Office of Response and Recovery, Jeffrey Byard, denied that \"there's a sharknado effect or anything like that\".[14] Because of the recurring nature of the meme, fact-checkers and journalists in the media have repeatedly needed to clarify that the images of Hurricane sharks were hoaxes. According to Daniel Victor, writing for The New York Times in 2022, Hurricane Shark is the \"longtime nemesis\" of fact-checkers on social media.[2] In Silverman's Verification Handbook, Phillips makes a case study of his work with Madrigal during Hurricane Sandy, describing the images they reviewed as \"strange enough to make you suspicious, yet [not] implausible enough to dismiss out of hand\".[10][13] Rose Eveleth, in a 2014 piece for BBC Future about how to spot fake Sandy photos, includes as her list's final item, \"If it has a shark in it, it's probably fake\".[9] An early claim of sharks in a flooded urban area, predating the original Hurricane Shark hoax, occurred in Goodna, Queensland, Australia, amidst major flooding in January 2011.[4] Butcher Steve Bateman reported a shark, roughly 6 feet (1.8 m) in length, swimming past his shop, and several others reported seeing a shark on a different street.[17] Two local politicians vouched for Bateman's credibility, and The Queensland Times noted that sharks are known to swim up the Bremer River to Goodna.[18] In September 2022, after Hurricane Ian struck Florida, a video emerged online of a shark in a flooded backyard in Fort Myers, Florida, drawing over 12 million views within a day.[1] Initially, the video received skepticism from journalists and fact-checkers, wary of the long history of similar media being hoaxes while also noting that the video seemed more authentic than previous renditions.[2] On September 29, the Associated Press, while noting the history of the Hurricane Shark, confirmed the authenticity of the video based on analysis of the video's metadata and an interview with the videographer, Dominic Cameratta. The Associated Press consulted shark experts George H. Burgess and ... [Content truncated]",
+                    "content_num": 1000
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 8,
+                    "justification": "Wikipedia is a widely used online encyclopedia that relies on community-driven content creation and moderation. While it is generally reliable for factual information, its open editing system poses some risks of inaccurate or biased content. However, Wikipedia's transparency about sources and editorial processes helps in verifying information and detecting fake news."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Was That Really A Shark In Flooded Florida Neighborhood After ...",
+                "htmlTitle": "Was That Really A <b>Shark In Flooded</b> Florida Neighborhood After ...",
+                "link": "https://www.forbes.com/sites/melissacristinamarquez/2022/10/06/was-that-reall-a-shark-in-flooded-florida-neighborhood-after-hurricane-ian/",
+                "displayLink": "www.forbes.com",
+                "snippet": "Oct 6, 2022 ... ... Hurricane Ian made landfall in Florida claiming to capture a shark in floodwaters. ... sharks in flooded malls or swimming down highways\u00a0...",
+                "htmlSnippet": "Oct 6, 2022 <b>...</b> ... <b>Hurricane Ian</b> made landfall <b>in</b> Florida claiming to capture a <b>shark in floodwaters</b>. ... <b>sharks in flooded</b> malls or <b>swimming</b> down <b>highways</b>&nbsp;...",
+                "formattedUrl": "https://www.forbes.com/.../was-that-reall-a-shark-in-flooded-florida-neighb...",
+                "htmlFormattedUrl": "https://www.forbes.com/.../was-that-reall-a-<b>shark</b>-in-<b>flooded</b>-florida-neighb...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8W2QF4HkDhifDsbjTQkyLTOvztytuza3aXbzbJb5IGNllxP8VE6IalEw&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Forbes",
+                            "article:id": "blogAndPostId/blog/post/6395-633f986dd2328b00013b3ab8",
+                            "og:description": "The answer is\u2026 complicated.",
+                            "twitter:creator": "@mcmsharksxx",
+                            "article:publisher": "https://www.facebook.com/forbes",
+                            "twitter:image": "https://imageio.forbes.com/specials-images/imageserve/633f994ae7378f0a586461da/0x0.jpg?format=jpg&height=600&width=1200&fit=bounds",
+                            "twitter:site": "@forbes",
+                            "news_keywords": "sharks,shark,Florida,Hurricane Ian,hoax,Fort Myers,hurricanes,ocean,nature,animals",
+                            "article:published": "2022-10-06",
+                            "article:channel": "Innovation",
+                            "image": "https://imageio.forbes.com/specials-images/imageserve/633f994ae7378f0a586461da/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                            "article:section": "Science",
+                            "og:type": "article",
+                            "twitter:title": "Was That Really A Shark In Flooded Florida Neighborhood After Hurricane Ian?",
+                            "author": "Melissa Cristina Marquez",
+                            "article:section_url": "https://www.forbes.com/science/",
+                            "og:title": "Was That Really A Shark In Flooded Florida Neighborhood After Hurricane Ian?",
+                            "amp-google-client-id-api": "googleanalytics",
+                            "og:updated_time": "2022-11-08T04:40:13.087-05:00",
+                            "article:author": "Melissa Cristina Marquez",
+                            "referrer": "no-referrer-when-downgrade",
+                            "fb:app_id": "123694841080850",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=2,user-scalable=yes,minimal-ui",
+                            "twitter:description": "The answer is\u2026 complicated.",
+                            "og:url": "https://www.forbes.com/sites/melissacristinamarquez/2022/10/06/was-that-reall-a-shark-in-flooded-florida-neighborhood-after-hurricane-ian/",
+                            "article:modified": "2022-11-08",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://imageio.forbes.com/specials-images/imageserve/633f994ae7378f0a586461da/A-grainy-animal-swimming-in-floorwaters/960x0.jpg?height=533&width=711&fit=bounds"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "It happens every time there\u2019s a hurricane \u2013 the shark photos, memes, and old videos showing \u2018proof\u2019 that a shark (usually one that looks like a great white) is taking advantage of flooded streets and malls to search for\u2026 well, who knows what. For years both journalists and shark scientists have had to put up with the deluge of fake images and videos, telling the public the same message: \u201cthis is fake.\u201d In fact, even the Twitter page for Snopes has begged people to stop sharing the proven false photos and videos. So, it was to no one\u2019s surprise when a video popped up after Hurricane Ian made landfall in Florida claiming to capture a shark in floodwaters.\nThis video, however, was different.\n\u201cI didn\u2019t know what it was, it just looked like a fish or something,\u201d Cameratta told news outlets. ... [+] \u201cI zoomed in, and all my friends are like: \u2018It\u2019s like a shark, man!\u2019\u201d\nPast hoax videos usually showed sharks in flooded malls or swimming down highways, but this one seemed to be in someone\u2019s backyard near Fort Myers, Florida. The fact that this was a new video garnered a lot of attention, racking up millions of views on Twitter. The skepticism was rampant \u2013 and warranted. The first question many asked was, \u201cIs this an actual video?\u201d An answer quickly came with both Storyful and The Associated Press confirming its authenticity through examination of the video\u2019s metadata and subsequent interviews. AP got the scoop from local real estate agent Dominic Cameratta, who confirmed he filmed the clip himself on Wednesday morning. \u201cI didn\u2019t know what it was, it just looked like a fish or something,\u201d he told news outlets. \u201cI zoomed in, and all my friends are like: \u2018It\u2019s like a shark, man!\u2019\u201d\nSo, the clip is real. But is that really a shark?\nIt\u2019s hard to tell \u2013 and even shark scientists are stumped. George Burgess, a former director of the Florida Museum of Natural History\u2019s shark program, told the Washington Post that the fish in the video appears to be a juvenile shark. \u201cYoung bull sharks are common inhabitants of low salinity waters \u2014 rivers, estuaries, subtropical embayments \u2014 and often appear in similar videos in FL water bodies connected to the sea such as coastal canals and ponds,\u201d Burgess said. \u201cAssuming the location and date attributes are correct, it is likely this shark was swept shoreward with the rising seas.\u201d\n\u201cYoung bull sharks are common inhabitants of low salinity waters \u2014 rivers, estuaries, subtropical ... [+] embayments \u2014 and often appear in similar videos in FL water bodies connected to the sea such as coastal canals and ponds,\u201d Burgess says.\nDr. Yannis Papastamatiou, a marine biologist who studies shark behavior at Florida International University, is on the fence about the video. Papastamatiou pointed to the science that shows many shark species are known to flee shallow, coastal regions ahead of hurricanes, possibly being tipped off to the giant storm\u2019s arrival by a drastic change in barometric pressure. A shark could have accidentally swum up into the creek, he reckons, or been washed into it.\nBut Dr. Neil Hammerschlag, the director of the University of Miami\u2019s shark conservation program, isn\u2019t as convinced, saying it was difficult to tell what exactly the fish was. It should be of note that the video caught the fish swimming near a pond that was overflowing, causing some experts to lean towards this just being an escapee.\nIt seems we will never have a definitive answer to this mystery. While shark experts are split over the identification, some Twitter users were convinced and have dubbed the grainy fish a \u201cstreet shark.\u201d Perhaps this is a new rendition for \u201cBaby Shark\u201d writers to pick up and write a song about?\n\nOne Community. Many Voices.\u00a0Create a free account to share your thoughts.\u00a0\nOur community is about connecting people through open and thoughtful conversations. We want our readers to share their views and exchange ideas and facts in a safe space.\nIn order to do so, please follow the posting rules in our site's\u00a0Terms of Service.\u00a0 We've summarized some of those key rules below. Simply put, keep it civil.\nYour post will be rejected if we notice that it seems to contain:\nUser accounts will be blocked if we notice or believe that users are engaged in:\nSo, how can you be a power user?\nThanks for reading our community guidelines.  Please read the full list of posting rules found in our site's\u00a0Terms of Service.",
+                    "content_num": 939
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 8,
+                    "justification": "Forbes is a reputable business news website with a history of accurate reporting and credible journalism. Their editorial standards and fact-checking processes contribute to their reliability in providing trustworthy information. While not focused solely on fact-checking, Forbes' overall reputation enhances its capability to detect fake news."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Was a Shark Swimming in Florida Street After Hurricane Ian Storm ...",
+                "htmlTitle": "Was a <b>Shark Swimming in</b> Florida Street After <b>Hurricane Ian Storm</b> ...",
+                "link": "https://www.newsweek.com/was-shark-swimming-florida-street-after-hurricane-ian-storm-surge-1747289",
+                "displayLink": "www.newsweek.com",
+                "snippet": "Sep 30, 2022 ... Fake videos of sharks swimming in flooded streets tend to surface during hurricanes, but some experts believe this video might be real.",
+                "htmlSnippet": "Sep 30, 2022 <b>...</b> Fake videos of <b>sharks swimming in flooded</b> streets tend to surface <b>during hurricanes</b>, but some experts believe this video might be real.",
+                "formattedUrl": "https://www.newsweek.com/was-shark-swimming-florida-street-after-hurric...",
+                "htmlFormattedUrl": "https://www.newsweek.com/was-<b>shark</b>-<b>swimming</b>-florida-street-after-<b>hurric</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOuvY-8NIb9DCmc4HZebrsnAKWPIvUOryAUQmpo4UauUczTvcFD5WzgeD&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://d.newsweek.com/en/full/2124276/shark-swims-ocean.jpg",
+                            "msapplication-config": "https://g.newsweek.com/themes/newsweek/favicons/browserconfig.xml",
+                            "og:image:width": "3600",
+                            "article:published_time": "2022-09-29T12:11:43-04:00",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ff0500",
+                            "og:site_name": "Newsweek",
+                            "twitter:url": "https://www.newsweek.com/was-shark-swimming-florida-street-after-hurricane-ian-storm-surge-1747289",
+                            "og:description": "Fake videos of sharks swimming in flooded streets tend to surface during hurricanes, but some experts believe this video might be real.",
+                            "article:publisher": "https://www.facebook.com/Newsweek",
+                            "twitter:image": "https://d.newsweek.com/en/full/2124276/shark-swims-ocean.webp?w=1600&h=900&q=88&f=f1413309592b5edd52f4d06daa8f07fe",
+                            "twitter:site": "@newsweek",
+                            "article:modified_time": "2022-09-30T11:14:52-04:00",
+                            "msapplication-tilecolor": "#ff0500",
+                            "og:type": "article",
+                            "og:image:alt": "Shark Swims In Ocean",
+                            "article:section": "News",
+                            "twitter:title": "Was a Shark Swimming in Florida Street After Hurricane Ian Storm Surge?",
+                            "og:title": "Was a Shark Swimming in Florida Street After Hurricane Ian Storm Surge?",
+                            "og:image:height": "2401",
+                            "fb:pages": "18343191100",
+                            "article:tag": "Shark",
+                            "fb:app_id": "245537789135954",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Fake videos of sharks swimming in flooded streets tend to surface during hurricanes, but some experts believe this video might be real.",
+                            "og:url": "https://www.newsweek.com/was-shark-swimming-florida-street-after-hurricane-ian-storm-surge-1747289"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d.newsweek.com/en/full/2124276/shark-swims-ocean.jpg?w=1200&f=c2a6000c7589b0bf9e99e29fdd07efe3"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "It's common for hoax photos and videos of sharks swimming in flooded streets to surface during hurricanes and they're often quickly debunked. But a new video of a shark in Hurricane Ian's storm surge has people thinking it is the real deal. Hurricane Ian slammed into Florida on Wednesday as a Category 4 hurricane with winds just a few miles per hour away from bumping the classification up to a Category 5. The hurricane resulted in a massive storm surge, and that surge appeared to have pushed a shark into a flooded street in Fort Myers, Florida. While some Twitter users tried to take credit for the video or said they got the video from a friend, the Associated Press has confirmed the video was authentic after speaking with the person who filmed the shark struggling to swim in his backyard. According to the AP report, Dominic Cameratta, a local real estate developer who said he filmed the video Wednesday morning, filmed the shark from his back patio when he saw it flopping around in his neighbor's backyard. Cameratta said at first, he thought the animal was a large fish but soon realized it was a shark. He estimated the shark to be 4 feet long. Cameratta lives near a retention pond, and he said he assumed the shark made it up Hendry Creek and into the pond. The pond then overflowed from storm surge and heavy rain, transporting the shark into the flooded backyard. Some experts told AP they thought the shark looked to be a juvenile. Twitter user THE Alex shared the video at approximately 10 a.m. on Wednesday. The video shows what appears to be a shark flopping around in an apparently flooded street. The animal in the video is seen thrashing its tail back and forth as winds gust in the background. \"My buddy just sent me a video of this shark swimming down his back yard in Fort Myers,\" THE Alex tweeted Wednesday. My buddy just sent me a video of this this shark swimming down his back yard in Fort Myers \ud83d\ude02#hurricane #Ian #HurricaneIan pic.twitter.com/kLon2z3F8Q Leslie Guelcher, an assistant professor of intelligence studies at Mercyhurst University who goes by Dr. G on Twitter, was one of the people who questioned the video's authenticity. Prior to AP's verification, Guelcher tweeted that the video index showed a creation date of June 2010. She later told Newsweek she misread the index data, but she is unconvinced the video is real because the video was taken before the storm surge rose in earnest in Fort Myers. \"I'm still not convinced it is accurate although the person who commented provided the name of who filmed it and where,\" Guelcher said. \"However, a reverse image search on Google, limiting to site:Twitter.com shows a number of posts with at least one being from before the storm surge hit.\" She later said she could see how a shark could go from the Gulf of Mexico into a retention pond. However, some experts expect the shark may have sensed a drop in barometric pressure signifying the approaching hurricane. It may have attempted to flee shallow waters to somewhere safer. However, the shark could have accidentally entered the creek and then the pond in its attempts to flee, or flooding could have forced the animal into the residential area. The video's confirmation was the culmination of five years of searching for Jane Lytvynenko, a freelance reporter who has spent years debunking hoaxes. Before the video was confirmed as real, Lytvynenko implied it had credibility. \"I can't believe I'm looking at an honest-to-god street shark,\" Lytvynenko tweeted. \"Good to finally meet you, pal.\" After over half a decade of debunking this hoax every time there was a flood or hurricane, I can't believe I'm looking at an honest-to-god street shark.Good to finally meet you, pal. https://t.co/hwMWX4Peqo Shark hoaxes have emerged in many hurricanes since a fake image of a shark swimming through a flooded highway was first posted in 2012. Social media agency Storyful also verified the video was authentic but couldn't confirm if the footage showed a small shark or a different fish, such as a cobia. Florida officials warned residents that some wildlife might emerge during the storm, namely bears, alligators and snakes, as wildlife becomes more active and disoriented during massive storms. Newsweek reached out to Florida Fish and Wildlife for comment. Update 9/30/2022 11:15 a.m. ET: This story has been updated with additional information. Newsweek is committed to challenging conventional wisdom and finding connections in the search for common ground. Newsweek is committed to challenging conventional wisdom and finding connections in the search for common ground. Anna Skinner is a Newsweek senior reporter based in Indianapolis. Her focus is reporting on the climate, environment and weather but she also reports on other topics for the National News Team. She has covered climate change and natural disasters extensively. Anna joined Newsweek in 2022 from Current Publishing, a local weekly central Indiana newspaper where she worked as a managing editor. She was a 2021 finalist for the Indy's Best & Brightest award in the media, entertainment and sports category. You can get in touch with Anna by emailing a.skinner@newsweek.com. Languages: English. Anna Skinner is a Newsweek senior reporter based in Indianapolis. Her focus is reporting on the climate, environment and weather ... Read more Newsletters in your inbox See all Company Editions: Contact Terms of Use \u00a9 2024 NEWSWEEK DIGITAL LLC ... [Content truncated]",
+                    "content_num": 1000
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 7,
+                    "justification": "Newsweek is a well-established news outlet with a history of investigative journalism. While they have reported inaccuracies in the past, they generally maintain reliable editorial standards. Their coverage of various topics and ability to provide in-depth analysis can aid in detecting fake news, but occasional lapses in accuracy reduce their rating slightly."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Hurricane Batters Florida: Old, Edited Photo Of Shark Wading ...",
+                "htmlTitle": "<b>Hurricane</b> Batters Florida: Old, Edited Photo Of <b>Shark</b> Wading ...",
+                "link": "https://newschecker.in/fact-check/hurricane-batters-florida-old-edited-photo-of-shark-wading-through-flooded-street-viral-again/",
+                "displayLink": "newschecker.in",
+                "snippet": "Sep 30, 2022 ... Viral photo of shark swimming in flooded Florida street is an old, photoshopped picture that. Fact check. A reverse image search led us to\u00a0...",
+                "htmlSnippet": "Sep 30, 2022 <b>...</b> Viral photo of <b>shark swimming in flooded</b> Florida street is an old, photoshopped picture that. <b>Fact check</b>. A reverse image search led us to&nbsp;...",
+                "formattedUrl": "https://newschecker.in/fact-check/hurricane-batters-florida-old-edited-photo...",
+                "htmlFormattedUrl": "https://news<b>check</b>er.in/<b>fact</b>-<b>check</b>/<b>hurricane</b>-batters-florida-old-edited-photo...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdtC2L2KUsZu4dT30fDuhb17bvMSbw47Se9pwrchwzY7YWpCeDfrOM9FY&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "url": "https://newschecker.in/wp-content/uploads/2021/02/final-logo-300x58.png"
+                        },
+                        {
+                            "width": "1200",
+                            "url": "https://newschecker.in/wp-content/uploads/2022/09/Kushel-One-Rating-Article-Thumbnails-New-Brand-1-2.jpg",
+                            "height": "900"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "Kushel HM",
+                            "url": "https://newschecker.in/author/kushel/"
+                        }
+                    ],
+                    "organization": [
+                        {
+                            "name": "Newschecker"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://newschecker.in/wp-content/uploads/2022/09/Kushel-One-Rating-Article-Thumbnails-New-Brand-1-2.jpg",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Newschecker",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Time to read",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://newschecker.in/wp-content/uploads/2022/04/cropped-New-Project-1-1-270x270.png",
+                            "og:description": "Viral photo of shark swimming in flooded Florida street is an old, photoshopped picture that has been doing the rounds of social media since 2011.",
+                            "og:image:secure_url": "https://newschecker.in/wp-content/uploads/2022/09/Kushel-One-Rating-Article-Thumbnails-New-Brand-1-2.jpg",
+                            "twitter:image": "https://newschecker.in/wp-content/uploads/2022/09/Kushel-One-Rating-Article-Thumbnails-New-Brand-1-2.jpg",
+                            "twitter:data1": "Kushel HM",
+                            "twitter:data2": "4 minutes",
+                            "og:type": "article",
+                            "article:section": "Fact Check",
+                            "og:image:alt": "Viral photo of shark swimming in flooded Florida street is an old, photoshopped picture that has been doing the rounds of social media since 2011. The original picture was taken in 2003.",
+                            "twitter:title": "Hurricane Batters Florida: Old, Edited Photo Of Shark Wading Through Flooded Street Viral Again - Newschecker",
+                            "author": "Kushel HM",
+                            "og:title": "Hurricane Batters Florida: Old, Edited Photo Of Shark Wading Through Flooded Street Viral Again - Newschecker",
+                            "og:image:height": "900",
+                            "og:updated_time": "2022-09-30T19:29:00+05:30",
+                            "article:author": "https://www.facebook.com/",
+                            "article:tag": "Shark",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Viral photo of shark swimming in flooded Florida street is an old, photoshopped picture that has been doing the rounds of social media since 2011.",
+                            "og:locale": "en_US",
+                            "og:url": "https://newschecker.in/fact-check/hurricane-batters-florida-old-edited-photo-of-shark-wading-through-flooded-street-viral-again/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://newschecker.in/wp-content/uploads/2022/09/Kushel-One-Rating-Article-Thumbnails-New-Brand-1-2.jpg"
+                        }
+                    ],
+                    "article": [
+                        {
+                            "datemodified": "2022-09-30T19:29:00+05:30",
+                            "headline": "Hurricane Batters Florida: Old, Edited Photo Of Shark Wading Through Flooded Street Viral Again",
+                            "datepublished": "2022-09-30T19:01:09+05:30"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2022-09-30",
+                            "claimReviewed": "Shark swimming in flooded street in Florida",
+                            "url": "https://newschecker.in/fact-check/hurricane-batters-florida-old-edited-photo-of-shark-wading-through-flooded-street-viral-again/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://newschecker.in/fact-check/hurricane-batters-florida-old-edited-photo-of-shark-wading-through-flooded-street-viral-again/: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+                    "content_num": 0
+                },
+                "website_quality_evaluation": {
+                    "website_quality Score": 9,
+                    "justification": "News Checker is a dedicated fact-checking platform that focuses on verifying information and debunking fake news. Their commitment to accuracy and transparency in reporting contributes to their high credibility in detecting misinformation. Their track record of thorough investigations and evidence-based reporting makes them a valuable resource in combating fake news."
+                }
+            }
+        }
+    ]
+}

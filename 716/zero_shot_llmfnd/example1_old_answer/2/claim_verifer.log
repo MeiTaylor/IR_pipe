@@ -1,0 +1,7 @@
+2024-07-14 17:52:53,887 - MainThread - INFO - ----------complete_json_claim_verifier_answer----------
+2024-07-14 17:52:53,887 - MainThread - INFO - {'CVResult': {'Judgment': 'Yes', 'Confidence': '90%'}}
+2024-07-14 17:52:53,888 - MainThread - INFO - complete_json_claim_verifier_answer successfully appended to /workspaces/llmfnd/zero_shot_llmfnd/CV_result.json
+2024-07-14 17:52:53,888 - MainThread - INFO - process_claim_verifier result - Judgment: True, Confidence: 0.9
+2024-07-14 17:53:04,598 - MainThread - INFO - 声明处理结果已生成并成功保存。
+2024-07-14 17:53:04,598 - MainThread - INFO - final_json_answer 
+{'Final_Judgement': {'Answer': 'False', 'Reasons': {'1': 'The video description mentions that it is hard to determine the exact location of the beach party from the video footage. Therefore, making the assumption that it was in Kyiv is unjustified.', '2': 'The description also states that the video is a mix-up, indicating that it may not accurately represent a real event.'}, 'Therefore, the Claim authenticity is': 'False', 'The information type is': 'False', 'The specific type of False Information is': 'Video Clip Edit'}}

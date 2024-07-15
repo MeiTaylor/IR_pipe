@@ -1,0 +1,830 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Fact-check analysis of viral August 2023 Kyiv beach party video",
+                "totalResults": "896000",
+                "searchTerms": "Fact-check analysis of viral August 2023 Kyiv beach party video",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Fact-check analysis of viral August 2023 Kyiv beach party video",
+                "totalResults": "896000",
+                "searchTerms": "Fact-check analysis of viral August 2023 Kyiv beach party video",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.526312,
+        "formattedSearchTime": "0.53",
+        "totalResults": "896000",
+        "formattedTotalResults": "896,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Video from Beach Party in Kyiv Proves War in Ukraine Is a Hoax ...",
+                "htmlTitle": "<b>Video</b> from <b>Beach Party</b> in <b>Kyiv</b> Proves War in <b>Ukraine</b> Is a Hoax ...",
+                "link": "https://www.snopes.com/fact-check/beach-party-kyiv/",
+                "displayLink": "www.snopes.com",
+                "snippet": "Aug 7, 2023 ... Advertisment: Claim: A video that went viral in August 2023 showed a beach party in Kyiv, proving that the war in ...",
+                "htmlSnippet": "Aug 7, 2023 <b>...</b> Advertisment: Claim: A <b>video</b> that went <b>viral</b> in <b>August 2023</b> showed a <b>beach party</b> in <b>Kyiv</b>, proving that the war in&nbsp;...",
+                "formattedUrl": "https://www.snopes.com/fact-check/beach-party-kyiv/",
+                "htmlFormattedUrl": "https://www.snopes.com/<b>fact-check</b>/<b>beach</b>-<b>party</b>-<b>kyiv</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_evR1Vf8yDtuZ6lGd2cCKRb7O8G0JEvVHvLdXVsyL3kSIAlE8tqexO_a&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2023/08/beach_club_in_kyiv.jpg",
+                            "theme-color": "#ffffff",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-08-07 21:29:26",
+                            "og:site_name": "Snopes",
+                            "apple-mobile-web-app-title": "Snopes.com",
+                            "twitter:creator": "@snopes",
+                            "og:description": "\"The war in Ukraine is FAKE,\" one social media user commented.",
+                            "twitter:image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2023/08/beach_club_in_kyiv.jpg",
+                            "article:publisher": "https://www.facebook.com/snopes",
+                            "twitter:site": "@snopes",
+                            "article:modified_time": "2023-08-07 21:29:26",
+                            "msapplication-tilecolor": "#000000",
+                            "twitter:title": "Video from Beach Party in Kyiv Proves War in Ukraine Is a Hoax?",
+                            "og:type": "article",
+                            "og:title": "Video from Beach Party in Kyiv Proves War in Ukraine Is a Hoax?",
+                            "fb:pages": "120680396518",
+                            "article:author": "Aleksandra Wrona",
+                            "article:tag": "Ukraine War",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "viewport": "width=device-width, initial-scale=1.0,minimum-scale=1.0, maximum-scale=5.0",
+                            "apple-mobile-web-app-capable": "yes",
+                            "mobile-web-app-capable": "yes",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.snopes.com//fact-check/beach-party-kyiv/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2023/08/beach_club_in_kyiv.jpg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-08-07T14:29:26Z",
+                            "claimReviewed": "A video that went viral in August 2023 showed",
+                            "url": "https://www.snopes.com//fact-check/beach-party-kyiv/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.snopes.com/fact-check/beach-party-kyiv/: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+                    "content_num": 0
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "BBC Verify | Latest News & Updates | BBC News",
+                "htmlTitle": "BBC Verify | Latest News &amp; Updates | BBC News",
+                "link": "https://www.bbc.com/news/reality_check",
+                "displayLink": "www.bbc.com",
+                "snippet": "Fact-checking Russian claims Nato troops are in Ukraine. President Putin has ... 14 Aug 2023. Reality Check. Page 1 of 12. Watch · Home · News · Sport · Business.",
+                "htmlSnippet": "<b>Fact</b>-<b>checking</b> Russian claims Nato troops are in <b>Ukraine</b>. President Putin has ... <b>14 Aug 2023</b>. <b>Reality Check</b>. Page 1 of 12. Watch &middot; Home &middot; News &middot; Sport &middot; Business.",
+                "formattedUrl": "https://www.bbc.com/news/reality_check",
+                "htmlFormattedUrl": "https://www.bbc.com/news/reality_check",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "next-head-count": "22",
+                            "twitter:title": "BBC Verify | Latest News & Updates | BBC News",
+                            "theme-color": "#ffffff",
+                            "viewport": "width=device-width",
+                            "twitter:description": "Get all the latest news, live updates and content about BBC Verify from across the BBC.",
+                            "og:title": "BBC Verify | Latest News & Updates | BBC News",
+                            "og:description": "Get all the latest news, live updates and content about BBC Verify from across the BBC.",
+                            "version": "2.4.1+1"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Watch BBC Verify's visual analysis of the strike which killed two adults and injured 300.\nA former US police officer runs an AI-powered network of misleading news sites turning its sights towards November.\nThe UN says it is now relying on figures from the Hamas-run health ministry in Gaza.\nHundreds of Gaza’s water and sanitation facilities have been damaged or destroyed.\nAn ex-intelligence officer tells the BBC he was permitted to shoot dead those resisting eviction.\nA former US police officer runs an AI-powered network of misleading news sites turning its sights towards November.\nBBC Verify looks into various claims made on stage by Donald Trump and Joe Biden.\nNorth Korea is building sections of what appears to be a wall in several places near its border with South Korea, new satellite images show.\nImages shared online include Palestinian detainees draped in the Israeli flag and held in stress positions.\nThe UN says it is now relying on figures from the Hamas-run health ministry in Gaza.\nThe Irish government claims over 80% of asylum seekers have crossed the border from Northern Ireland.\nSimeon Boikov sparked a social media frenzy implicating an innocent 20-year-old in the shopping mall attack.\nBBC Verify examines the evidence on combatant deaths, as concern grows about the scale of civilian killing.\nPresident Putin has said Western military advisers are actively involved in Ukraine.\nRussia called footage of bodies in Bucha 'staged' but its evidence for this does not stack up.\nFake pictures of Katy Perry and other artists at the Met Gala went viral on social media.\nBBC Verify has introduced a new feature to show audiences how we know what we know.\nBBC Verify analyses the collision between the container ship and the Key Bridge in Baltimore\nMore than a hundred people were killed in a packed concert venue in Moscow after gunmen opened fire.\nBBC Verify looks at Gaza's southernmost city, which is full of people who have fled their homes.\nThe prime minister said five priorities should be used to hold his government to account.\nVladimir Putin visits Beijing this week, as it faces accusations of supporting Moscow's war in Ukraine.\nThe government's climate advisers warn the UK risks falling behind on efforts to reach net zero by 2050.\nThe government has awarded funding to projects across the country as part of its \"levelling up\" plan.\nOfficially, the highest tax rate is 45% - but some workers can end up paying higher effective rates.\nMore parents are losing child benefit because the threshold at which it starts being withdrawn has not changed in 10 years.\nNew data suggests that the cost of living has been rising faster than official inflation figures.\nThe latest figures show the government has not yet met its annual target to build 300,000 new homes.\nAccess to education, jobs and public spaces for women have all been curtailed under Taliban rule.\nCopyright 2024 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.\n ",
+                    "content_num": 595
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Department Press Briefing – July 9, 2024",
+                "htmlTitle": "Department Press Briefing – July 9, 2024",
+                "link": "https://www.state.gov/?post_type=state_briefing&%3Bp=92333",
+                "displayLink": "www.state.gov",
+                "snippet": "6 days ago ... MR MILLER: No, not at all. We find it concerning, in fact. Look, before he traveled to Russia, you did see the Hungarian prime minister travel ...",
+                "htmlSnippet": "6 days ago <b>...</b> MR MILLER: No, not at all. We find it concerning, in <b>fact</b>. Look, before he traveled to Russia, you did see the Hungarian prime minister travel&nbsp;...",
+                "formattedUrl": "https://www.state.gov/?post_type=state_briefing&%3Bp=92333",
+                "htmlFormattedUrl": "https://www.state.gov/?post_type=state_briefing&amp;%3Bp=92333",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8jWETtbXKtKBiLjoFb81omztMXSw91HObC0NWgso92KPHj7t9rwusrVx4&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.state.gov/wp-content/uploads/2021/01/Placeholder_seal_final.png",
+                            "og:type": "website",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "msapplication-tap-highlight": "no",
+                            "og:site_name": "United States Department of State",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:image:height": "675",
+                            "og:image:type": "image/png",
+                            "msapplication-tileimage": "https://www.state.gov/wp-content/uploads/2022/04/cropped-dos_seal-270x270.png"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.state.gov/wp-content/uploads/2021/01/Placeholder_seal_final.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.state.gov/?post_type=state_briefing&%3Bp=92333: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+                    "content_num": 0
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Fact Check | Reuters",
+                "htmlTitle": "<b>Fact Check</b> | Reuters",
+                "link": "https://www.reuters.com/fact-check/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Reuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. The unit is part of Reuters news ...",
+                "htmlSnippet": "Reuters <b>Fact Check</b> addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. The unit is part of Reuters news&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/fact-check/",
+                "htmlFormattedUrl": "https://www.reuters.com/<b>fact-check</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7eag7u0XzqqrOqGcwVIFLz64CETwWwMBR5LA1WfJJEhcY4P757Mc5QWQ&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809",
+                            "og:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-factcheck-default.webp?d=203",
+                            "og:type": "website",
+                            "twitter:title": "Fact Check | Reuters",
+                            "ad:template": "landing",
+                            "og:site_name": "Reuters",
+                            "dcsext.dartzone": "/4735792/reuters.com/fact-check/home",
+                            "ccbot": "nofollow",
+                            "dcsext.channellist": "Fact Check",
+                            "og:title": "Fact Check | Reuters",
+                            "analyticsattributes.topicchannel": "Fact Check",
+                            "title": "Reuters Fact Check | Reuters",
+                            "fb:pages": "114050161948682",
+                            "og:description": "Reuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. The unit is part of Reuters news agency.",
+                            "fb:app_id": "988502044532272",
+                            "datemodified": "2024-07-14T21:27:28Z",
+                            "render_timestamp": "2024-07-15T01:40:28.732Z",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Reuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. The unit is part of Reuters news agency.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/fact-check/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/pf/resources/images/reuters/reuters-factcheck-default.webp?d=203"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/fact-check/: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+                    "content_num": 0
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "The Fact-Checked Disinformation Detected In The EU – EDMO",
+                "htmlTitle": "The <b>Fact</b>-<b>Checked</b> Disinformation Detected In The EU – EDMO",
+                "link": "https://edmo.eu/thematic-areas/war-in-ukraine/the-fact-checked-disinformation-detected-in-the-eu/",
+                "displayLink": "edmo.eu",
+                "snippet": "Factcheck: no, this viral beach video does not show a Ukrainian attack on Russian occupied territory, https://www.knack.be/factcheck/factcheck-nee-deze ...",
+                "htmlSnippet": "<b>Factcheck</b>: no, this <b>viral beach video</b> does not show a Ukrainian attack on Russian occupied territory, https://www.knack.be/<b>factcheck</b>/<b>factcheck</b>-nee-deze&nbsp;...",
+                "formattedUrl": "https://edmo.eu/...in.../the-fact-checked-disinformation-detected-in-the-eu/",
+                "htmlFormattedUrl": "https://edmo.eu/...in.../the-<b>fact-check</b>ed-disinformation-detected-in-the-eu/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "msapplication-tileimage": "https://edmo.eu/wp-content/uploads/2024/04/edmo-favicon.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\u0006�S'$3�n��M6���.[���s#��� ����L��� �\u001aSHZi\u001a���̽\b��%\b�o���)�}�W\u001b|\u0019}\u0017\u0001��o�bC�D��o \u0013\u0006����\u0007��̡#�j\u0006\u0014�4��\u0002\u0015\u0001H*Vh\u0018\u0018����@��+�\u0010�d�\u0012,�\u0012ğ�\u0003�U��8iEy~���y�ך=\"oN\u0007�i�O#c�\u0003²�*�\u0010r:_ 9!\u0007�$Z�CܘIG���\u001bV�1�%�H �������W�( �� �\u0011�6R�t&����\u0017O\u0016�+|�`eW�\u0012�c \u0005;G~�\u0018�!�`A�Tė)�\u000f`!\u0004Z=z);,��k� \u0010\u000e�25��j#��I�N e\u0014\u001aR��VKȽ�q�3f�ˣ�� X�E ��Z� �� �\u0014,�[�\u000f1\u0014��1ج��O�\"\u001a���� ��� UN�\u0014�K/\u0011�3�\u0012l��z�c�ڌ\u0007^=b�w5[��8R�p�&�Z�(\u0012 �\u0016��h-*�(D�u��q\u0003x$<�=k\u0016�oa�0j�T� ��)�9c�g\u0015�yW�('�=h\u00067��e�8D����$���?�Ax��__l-�\\�&c�+' � n4��=��>{����?�#۟� �9O\u000f��\u000e�3��\u000f�E\u0013�e\b�� ��U� ܳ��\u0003���) �ӤmǇ8-�E\\J\u000f\u0002e\u001b=��Sk��\u0018��\u0004��h� �\u0002X��'�!�=�n7��d�M�Q9˯�E�4\u001a\u0017x �\u0010r\u000e�\b���o��\u0000�\u0005����h�(�\u0015ޓT�����H]���ju� \u00061��Hw.\u0003J`�&\u001b \u000f��� I\\\u0018�\u0011��Rk�By\u0000��� l*\u0002,jW�2�}İd�ޟ�� ˑ�� �(�.� ��`N�a�Y\u0010��>p�M�rY]g���G��\"s�\u0005܄ * ��F�F5c�'��tXq��\u0015��h�\u0014Qp�\"��gj5����=l*XG ��N�tď�k߯=�\u0017��F�CT�[\u0005� \u0004+�\u000e�����\u00050�X��bx�>��\\E Y�ȚI�%K�ƭԪ�hRgsD\u0000\u0007�2!)O�<�cXm��\u0018lJJ\u0015\u0005��8\u0005�NiH���\b\\M ;�o%2�0)�[oӲ�� i��,R��#6�C �!\u0010ɷ\u001b�\u0014�D�\b��[%\u0003���>���b�#\"6��S��\u001a�q�� , �W+fu�m)�\u0016��Γ8㞨\u0003{�)���\u0002� K��ҥ��j�Z��\u00181\"\u00022ʅ��r�c;�\u0017�x�q�{\u0006ܗ\u0005\u000e G�\b�^H\u00198Q=��n�� �\u0013����\u0001nSl��\u0012{7�\u0003��a�?<0����<�R��=�#����yQ��P�|)%�\u0014;IyL�\u0013�nI�IZ��R� �x,U��R�\u0002��7*�Ӿ���\\��� )� ���:�Ԉ�����\"����^����\"r�\u0011���ү\u0004�)�\u00131�B N\u001b\u0015� p~vf K�p�<�3��`m��� qn \u0018�¬���� FE#\u0002��\u0011;� �7\u000ex<ě ��mϷ�$G�y�\\<�-��f��^\u0018\u00127�~��-|��T�Q@�6%ejػHM��z�\u0016�0C�7B2\u0004���nx����ebӈ���L� �F�C��\u0012u(�� ��\u0001Е�h� �n}~��|␉(�\u0016��MQ\u001b\b^|R���\u000e��J��� +#�7l��-H%��\u0005S�6�\u0016�Ls$Tn���G\u0012's� �\u0001�� ��\u0017{f��p�\u0016�ǐXu&�9�ͷ ���\u001b��|Yʑ �}�\u001a����@\u0014\u0015'��3��,�\u0005�#�v� u����\u000e�\u0011$��3�6P�\u000f��.M�v�5I\u0014R��x> 4e���\u0016-t�ȬX��g���s8R� ��@��lEՃ��@s`%�p�eǀ��6޺\u0003|��+�ޓd1��]�)_ IO쫖\u0015KNU+�P�rKX �9�#��\u0001�h���D ���˒�#��� �_2��)�h��\u0003��T�:��Zˮ�\u0005��E3\\ s�j�\u000f����D\u00198�t #� �#M \u0011�8G\u0014\u0002�\u0004 �.�ߑ:$\u0003|\u000enLā� \u0012 �\u001a����A\u0019\u0012�u���\u0003c ����B����M\u001bY��_\u0012e��_���\u0013c�ٶCy��/\u000e��\u0015y���\u0003�B2�\u0018��\u0011a\u001a��)bX3� �P\u0005\u0004�\u0013�c$Ie 7\"���-�\u0016ZY���R\"o�u1�7���\u0016���}I/�-� �� �1����� �T;\u0003�,U�\u0006g�U�?|�VOm�|y`j̲D�.Q�� \u001a�Y��\\�|w�1��D �#p�D˝��\u0011\\��dտ�_���\u0016�\u0012�\u0006i����<�A��\u0013�_\u0013N�%J�V§u�M |�)a\u001b3\u0000�zg 6HL\u0019�������F��N T+�>�L�9�y(��ԱA���E\u0006=�% �W\u0012�fՊ\u0012�`\u0007��Q�\"h\u0000rd\u0010DT�z\bP� s�g�}Yn�>�\u0015 \u0002-Ђ+� ��\u0004\u0006C\u0002�NFeFU\u0005*3�&#� ��Iǐ�J�:� �\u0019��M��g� �l�\u001b\u0017N�h��N������\u0002�\u0002�\u0000�\u0018\u0000�\u001aPR\u0000Pc r~\u0015��\u0007P��ڱ{�g)3N\u001a�^c��\u000e�Ƹ(0�%��8I�ֱ\u0015a'bء6�<�p�5\u0019����o5gH��\b�\u0011��d��_��_��rj.b\bY&��uA�\\\u0005���6�eo��5�s��ym�A\u0015^*ʃ��M�\u0012����E��v��َU\u0004O��H���#\u0012�������\u0005;�F�-�\u001a\u0007\u0018\u0011���+�ؚ\\;2( ��#�\u0019,L$\u001b�)0d��r�2�\u0019��_y*B{@��\u0001-\u0018u�W�p�W�\u000f�-Ŗ{\u0004\u0013U�\u001ai J���M:���\u001a\u0015$>&+j~5��g*��ەǣ\\�0�. iD�-�1�K��ױ�\u0005N�<QT��=C������\u0006�># \u0018�:'?#���Y����UU-7�TAȠ��3 a��B�����:<1� ��v���v��� ��X� ��\u00059�9\u0012��C�\u0006�ñ ���4� \u00075��\u0017�TeN�����3��\u0016�*,3�֠ �ƙŘl�e\u0001�G�2���ݽ�n��_�K��J��E�r% ��W\u0019\u000f\u0004\u0014O�F�'�oà��Ɏ �c��\u000fR?�m0���`^�/��\u0019N\u001a�)�\b �?!LP2\u000e� &}����\u0001<�`�Q\u0014�|zL v;��y҆� �\u000e���\"mȈ�\u0005v t$W�s��e(���Ql%\u0015�����k���u�<��_�_�V�\u001a����� =�����/tw��1��_��Q��\u0011G��s��\u0015��L��� nU�4\u0012��˪\u0007�k\u000e�b�#�� D�{\u0018�\u000e��)��\u0002�] Cg����k� ���}\u0016TI� ��� d)㓤�\u001a9tI8&;��4r�� +d����& �~x�й���@��� A� �\b �À1\"\u0016+\u0004 ��������(\u0006h�\u0019\u001a����ʹ 3U�i��\u0001 (����p�~ �t�0�r�Y �����\u001bl\u000f�����ʿ) �����bplɨY����n�\u0004�/G:\u0005t-���_���k WiD����s����z{Ln��흮�˹��g\u0014\u001b��⎌�`�\u0002l�z?�.OA5$�7�c�\u0011;��ӵ�-�=#4Y����@z��[\u0014���Y�i���,|� }ÿ�o��\"w�ᑂ\u0012\"o\u0016%R\u0003��'�r\u000eSX\u0006Ko��\u0017���\u0000�\u0003��ښ��\u0011=y�{�k\u0003�H8�\u0019� ��:��\u0010P�n��H5�9 rɪ�{��&��1b\u0014���aN3�A�b+ǁOjc+, c��F\u0018�i~Ɠ0��\u0005G ^����\u0006��d�\u0001��`\u0005'�g\u0004 5\u000f]����o��0��~b�\u0013ߝ�2�M�]�lH'�Z�\u0011-n\u0011H�d����ʂ��IP�� J��\u0013eܝPK����\u0003\u0015�\"�u�\u0014�9�\u0000�h.�\u0011L-m\u00136\\��Fߎ%�+��!���y�鷇/�hf���<.��[ͧ��o�� y%�\u000f:�CGT-Fɿ\u0018���d[vo�&O�\u0018�K���}�w��\u0019�m K\u0001��� �.�\u0011\u001a1�a�\u001a��cn�y \u0017}����w����n��U@�{\u0001\u0018�\u0000 8�$ܐ��s; &u�7�ޫ�\u0006c|�Aت��MZۈ����N�%�ѽ��\"��Z1d�@ ����~\b,�T��( $NT��\u000f\u0015�I M\u0001إ\b�\b��/3z�z\u0002��Sp �\u0000Y�l����ǲ�u��+����\u0002��\u0005�� �\u0010ւ�l����緦�9\u0006��*�F�\u0007�4�hp�S��\u00018'|��\u001b ����_��������8�o��P[�/�p4\u0002>f���=NT�\u0005�� J7h\b�F��bw w3���+\u0005�V +��%WxpE���͂�\u0004\"�}\\}�;\u0005ep��ИQ7\u0006Y\u0017«<��w��paC�I�t:Ŀ���)Èr\u0002��Y\u0005�@_�{�ȥ ��Ѻ5b��ǋ��\u001a�T�� ��\b|��\u000f��4�Į��\u0002�\u0019b�Kν��~\\'1��թ��\u0019�4��iV�g�8n]I����?������q���/���Eѯ�\u0005mA\u0017i�U |�qb_/[ȹv�`�&��\u000f��9��w4�B��9���~_�e�����\u0000�0 �(\u00040�d�\u00159ܡ�+}�� I\u0001\u0014���\u0006 �ӄ�\u0011 +E�\u001a+\u0004q �9\"jt Z\u0006,��O�L������\u000e\u0010�+\u0002�RRY�\u0017W�E\u0010�-\u0017��\u0011>���΋ \"[�]�>/(�V��� ,YG�\u0011���I�2DM }R���$�r�ސ�b� jHx\u0017�X ��\u00128�t� +6ޗR�]7���\u0003�_P� q)�aw�o� E�\u000e� �!\u001b�jV��U\u00072�M̤͆��,��ߣ(:�\"Z�v�������rP�ip�n���D��5��`��`��\u00040�\u0000\u001a\u0019 \u0006\u0005l��\u0004�D+\u0001�!U�%�,=��\u000e!(�(�\u0003� �0�F��̳'�WK�٘d�{�� Ʃ\\k*��U��W\u0006Q\b�37\u0018t��A#>� �2�2 Z \b�T��{�\u0015l�W�\\�T#c�:j����A �f����Ѝ��B�\"�ň=\u0016��&8!�\u001a� /\u0000�\u0014����w1�Q��\u0010��̾u�넍��mβ��\b��we�ιs��V\u0007�0�Sf Qt$\u0004�N��w o4[M�W����M\u0001�J�f_N]�H�軚�H1\u000e\u0011ta���q3��\u0018~�Y(,��b�2��M�q�3I\u0011�����r��f7��\u0007�+� #\u0005`�Jk}�2�q�\u0014�n��0=MvE+�Vnb��y��'c�J�q��:5���\u0011���Lo�,\u00114��=*\u0004|N]�\b\u0001 Y ��\u0015F�Ļy�\u0004X����`\u0010�'����o���R��=4D���\u000e\u0004�1�I�$\u00182��u� ^^\u0012I8�c=�h�2R\u0005����u�U� l�S c�σ�f�d9�J�4��\u0002� f�p�e\u0010<���\u0014�\u00107[�\u0000���B���,��\u0017��[�3.k\u0000� �n�@���q��� ���)�6\u001b���\u001b0%\u0012m��B��b����U' +d�_���u�\u00113wF w\b���([�e���i�<\u0000ۅB��8�:œ�(����\\ # /Ȧ��$���#�a\u0004M��(A\u0019�^��\u0010�4�;+1��� -\u0017��SW\u0017|���rK� `�jҐ�LJ�f���4\u0014 �O�0 w� \u0004#�\u0013�(\u0016�F\u0014J��Mq\u0014�b��N��l�0I�� �p=*��\u0014j4��s� NP��X:\u0001J�'}&���T\u0011�2\u0014�8��\u000eğ��#A�<�p.s�p\u0018;\u0014C\u0014 ����r�#*ئ?��8�\u0003�3v`E��π����?\u0011�I'&���5��\u001aU�-z\u001aa l\u0013�����\u0018!���� �(G� ���\u0018����\u0001&i�q��٨����s\u0002\u001b�\u0006�\u000461\u0016�f�\u0003E.P\u0014-�j�B���7� �\u0001�\u0001�� � f+ۘ����p\u0016��u�$�w~H .��\b̄\u0005jrl�e7���J�\u0013�=]],w\u0003��\\�LRL�mČ\u0012\u0014Jf�=e\u0004�Ƹ��l��ՋByӳ �Ҿ\u0014���P)q� �D��a]�H���6� ��<?�\u0013�T4��f�(U���y���[\u0001S�+��7Sp(��Q)���\u0007Ȉ9��T'��s�\u0012�c���R #7�T�6��:�w� �|�\u001aX.�ǒ6���R�\u00187]W�� �줖�#�\u0013f�y\u00046�(Z��+9��q^� d\u0003A����]1��6C�\u001a�� � ��\u0007\u0006n�2�� �:Rt2�� \u0019�)�7(FkP\b-�\u0005����|=�\u0000��5��4w�\u0003\u0005�t~Q�S �1��؊�\u00121�D�,�\\� ғ #�/��\u0002�\\O,:�4[D�}\u000f�0jR�0��Y �āta%�\u0004�N��V���������9\u001aF\u0012ۤ�J\u0000�։ר��d�V]�z΂��\u000eЅ\u0016\u0005x�Xw?2�`\bӜOգ\u0010�\b�t�� P\u0019�܈N7=aB]��tҠ\u0013�\u0001�\u0001寕�.��\u0013��O�':pS��o��X�浍q�fQ BG2nǆ} \u0016�\u0019\u0007��.b��¿$� �i�j\\�x�W�B+��\u0014��$)Q:���|��k�\u0017.��\\�\u0017\u0004����I�hf>�a�83���S �%>/hQ ZB9 %�>\b���d�ܶg5��߶\u0006(���zY\u0010��t0�pYd-»�#��S\u0018\u0015�F E��Ǳ@Dr]\u0012h_\u0003�EL�_K�8?$����]��ud\u0005\u0015\u0010�\u0018�� 5�\u0002��4a,5cP\b5t�\u0006 ��\u0004uFӎXPs��\u0003jp ��2\u0014��mi�ӄ �S�>����\b�*\u0019�a`�\u001b\u0010=\"x Ž\u0014\u0012`�\u0012��k8F\u0014���\u0014�F��kjv#��6�r:�ҳ�*G�]��'_)#�:�]E��ɟ=�M�T��.�1��k�?�C�����J���7Yَ�c�=z\u0013\u001b�\u000e����\u00053vz x��gۦ��� �P��\u00161i�iN�G�7�RS�z=Xˍ���Ǆ}s^�jP�$ �_\u0000\b�Ð5� �U��^� �'h��SR�u0q4�y�P&;�8��9ʁQ�̤hʭ����\\ �@\u0003����W�\u001b�B1��?�\u0012��GC\u0015��oΧ ��8\u0002z�8�#�\u0007� a ��\u0007e�W�\u0007��^���y�<���\u001b� {Z�]��� ����vt���:�騪��\u0013���\u0006�\\��\u0005\u0003W ��\b\u0019#�$Y\u001akpW qEj\u0015?=��\u0000�2B�#�\u001a F\u0016\"�۔(�\\F �qw ����$���� ^�s �+K���g3y\u001aǨ� �\u001a㌧�Z;��|�\"hk�fs�$��R���ja�w�@���r�A\u0005a�T-<x��\u0011�� �i��{ \u0011J���t`Tm)\u0015��@\u0018�\\��gSG> \u000fo>���e�\b$��\u0010x�n\u0001�\u0014Q�A\"p� A\u0003\u0014��h*��6X��PI\u0001��0`6�\u0013+`��\b�C�\u0014�g: [�)�\u0004�k�u� V�<�&��B����)/r��\u0000 � �v�䫲P�'��\u0006�S��]O� ��U92۫R��E�?\u0002!��a�A(���즅�7�� V�Y9�v�\u0012�s�\u000fژ�ٲ\\c\u0003jثH�Z�ư� ��\\2n&|�=&�7ww���Vvw?�\u0002�e�� r��(�\u000f���\u0015vޥ� �� �F㧕��?��\u0016H��uP��\u0002p5�×w<�g��P�ű��!4{C �f� iqI,�÷+J\u0012��g����r�\u0005�%\u0014�(\u0000�Q��x�S�(a���� m�Y�� y���\u0007r��Q\b)oJ*���ό��\u0000��\u0006��t$'�VyC�1����h�$t�r�)\u000e�6��j ֬G0�\u0004�Ur7�T���\u0005!�\u0015����c��+ͩ$�\u0001��_�!`!3]]�C9����������(*qɋ^ �}[�Y��G�}�\u0004]��@�8��멆,}�\u0006l����=�`#�\u0004l��g�yO� >_OZ��������\\�J�ԅ= )/��P��5\u0015�\u001a�\u000fkT�\u000f���Lsw�_o^��A��\blBy#{�[�,n����I\u0013����r�\u0005�� y�;�7N5bQ���\u0016��[R@΍T��\u0005��d�ۯ�G�\u000fed�� �(EC\u0015�\u0000mH;I�]��\u0016�p\u0010��N���c�S���#$}\u0017�S�\u0011���L;�¿\u0004�\u000fez15�EF��rn�Z�\u0019\u0007��eD\u0000�#E�^�|�\u0016O��(:��\u0014*\"��ws��y߻9cn�g���O��bf�j� Y�\u0014D��k7UKYd��F��,�n�p�H R\u0019�\\���\u00049D_�|\u0018ѧ�\u000ess �g_�AQ���H�.��>� ������>_ �5/x�\b�˘ �K�\\H ��5�Qs��!$QQ\u0018\b٫\u000e \u000e�`]��Z��\u0006Gʃ�$?����ɟK��6�p8+�l�� `�\u00005\u000fe _\u0000�ZQ̩�[~F ��8�g�d�E:F \u0013�\u0006��~\u0010\u0010�o�}���1�����Ę�p_bkZ p_�iv�)X�K�0r��@\u0004$\u001a�g�\u0016\u001a\u0001��G<\u0001*���'ך1���ysGj����'�� �b:� ʯ�5�g.��\u0005@6 �\b�z{m�b�<,��T\u000f� |�m.�h�G��5�M�Xܜ*�� \u000e�����(A\\�����\u001b�x����u�\"�\u0003vd�O,C�K|��B\u000e\u0005\u0010`��1d�1�Y��T���^�3��{�����=��\\��������P^�\u0005��fd\u00105 (�qy�n�x��� �%׫� \"��QϨm �K���\u0005O{�����nV\u0017˽\u0007\u0016\u0006>&:��mӏ�Qk�\\)�:?��J�\u0005�\u0018 1\u0004������m\u0001\u001b���Wm(\u0017w���90M�O�\u0011\u000eJ�j\u0014bFI�~\u0019Mx��#\u0005Y����e�5�̵0�9�\u0014ϊ��$ F���DY\u001bV ꒝&x2Q�jF�X�aCO�H�LO� \u0017���q>��̧�� �h{�1;rJ�\u0002֣t^\u0005\u0016jpn\u0013\u0005�Ȳ\u0003FP�\u000e�lB�\u00193<W) ��:�M� F\b(*�\u0007\u0004XK���QY�Z�2�U�%\u0005:. �l\u001a�d�\b�Ǫ1�L9�2��C\u0005Zf�I�4(XS:�\u0006�\u0004,aC�8���B���� \u0006͑׾\u0012��P�\u0011���\u0011ȡ�7�5A�9�\u0016 q�M jD �2��V��� ��ʻ��\u0007fb��� u=E�: _�(����\\�3P�\u0018� $ +(��\u0006g\u0005�<��B�\bG����W,��\u0002�\b���m\u0004ʄ����M\u0014=�9� �1�#��,t�F�*)�\u0018�\u0012��fN�\u0005���;3�k\u0006��;$JGƾ_��2ʂ���4@\u0011�#�}%\u0012\u0017�1}�nV0s��H���R���\u0019,����(&b��&!\u0015֭���WGY�\u0007\u0014\u0016���t� 5+((�#G��2\\Y`W�\u000f{�]/EA�b\u0019s���芖��-9� .[�v\u0001d�-8u�h \b���Yn��eUR��)���y�\u0007�\u0005=[U��l�%��<��lE��Cv���y`��Д\u001a�\\��a+�h �.\u0014R ����� ˆ��\u0000|��mtV\u000e �`���/\u0005�To��\u0013�p�^>���y��� �^\u0007�K��ս �\u0003Po\u000f_) =�A2�r�)z��B\u0005K�(\u001a, e~�\u001b��P*Ew�>�)�}7�pؑ�� \u000e�R���/��j\u001b7��Rr�gso�\u000e��@5-蓺��JG k�}�a�Ym ��3\u000305�A\u0017'v��vV�?oK�7\u0005@�׀�Y\u0012-;�\u0017�+`=���\u0011� �a��-�\u0011\u0007 �\u0005B�����\u0000(�L .�/, �jP\b���E�9@�LQ�=���� K�������[�[8Z�C�\u000e�UnQB�i��4\u0019EБ?Vm� E+��4?� c�\u000f�4!8\u0012��u��\\�&A�G�e�`[P¬5\u0003��v5�-W4I\u001a�\u0011\u0016�5h\\��ꝱ\u0003�k� ��\u00154�j�� 7����o��.���?��q҅�t\b�gs�N�Z\u001b7J�z6��D�xl����P̢����ǜ� ��Z;�.P��A���_D��r�&�fq=:��f�Vu�\u000f��]d*�:\u0006~�O\u0011�Ϻ �ʵ���V�M���\"q#��sԐ�E ��i0 ���I�~����\u0019\u0002ç��wL�h\u000e �Uߡ�<�+�X�.��M��g� ��L�>d�,�d��+����T�\u001a \u0014�-X L\u0014�����)��{�<�p% (� \u0010�O�-\u0006\u0015T,-Aoi�����<2,N\u00071��D z�\u0017\u0018�i���y�\"=1\u0017XH��߿���4��i<I\u0017�� �l��� y;�� X\u0000�3s=ŲU��8�?�a�Yk�;t�}ֱW�79י��ǝ��\u0005��\u0006��\u000f ��O����H���;�Y�����gM��!�E!��]�\u0003ǃ9R�\b7ʪ�Z\u0007�R���R�\u0005��ƙ�B� V\\��:Q\u0006�pKY\u0004�D/�\u001a4��$6�N\u0019Y�Q�\\���S��t\u0018�(��PZ�\u00020�aBsgm��|��}� �\u0017��r���\\��@I�^*3\u00141\u0015������ֳr�{�@3\u0005[��tD Y���\u0002��A!7{�A\u0005��� mB+<�cK �L\u0018��R\u0002�c \u0013�kYa\u0001a#�\u001a� \u0013��\u0019�6�U���^�q!�䐍x�Pȭ\u0000�n�����앧�}��D\u0001j5�sb�.�=�.[�#'�d�\u0003�\u0019��\u0018��J ���K\u0002��w�m��g,wt�e��\u0011,��^o���\u0015Di��q�\u0013�> �\u001b�\u0010��nN���'�ǜ���[��Ɯ����de��:J\u0004�� z�vl\u0018��\u0015ʬ`�B��\u0014�d(7����`����k<[�����!\u0000\u0002��\b�)�,���ޝ\u0007R���Y� ��X�,��c\u0002��\u0018�C�\u0011�\u0007V\u0000F�p��i�U�?\\�:Spw����\u0004םg>:� q���/�= �\u0003Jꬣ\u0013�6~����E!��ۗ�\u000f�߃�?u�_����=����^_�w/���'~˳\u000e4���&�.�%�;\u0005� ��-\u0016 �Ք\\�\bCf��IP�z��\"��QZ��;����@o���\u0002�f�UZ(D?�\u0001_|ǣ�?A�j�`�%���|�\u0006� Lώ\u0011,eA�\\t��5����M��D�rAJ\u0015� E�+�|�g;G� �\u0000=��C\u0005���ш����I�s�L�D(�Q\u0000N�a�E7��?�|<ȁ7=e�f�o�'�R���1\u0018�t�A�8�~�z�ңJV �m�~$\u0013��B\u000e�\u0004�;V�-A�:\u0001�̉&1M�OQ� �^\u0005�T�� \u0000��\u0015q�d� �{ \u0016�>\u0011��}\u000f��~x��# L5\u0007\u0002ʽR_\b��w�c�\u000e:J;\u000eU D�\u0005> �=��P_\u0000\u001b�p��� ��\u0007�r�} ��� \\���d����\u0012��R���¾w[ �\u001b�T�契�'� �{\bh0T� �*��� 4ԣ\u0004��\u0016T��ü\u0006�\u0002J3Z}�^�3a���ٍD��7�\u0005ex��_}~� �}?W�\bF��b\u0001��\u0003�a�O�GF�G\u0016@�Z\u0018�95�\u0014�xWl�E�o~��6\u0005ۑ-⼺�ś1i�������z�w7�%���\\�\u0002�s�u�Z�p#\u0005o�H3p��W�4+w��2M;a� #B̀ �,�k�>�څ2��\u001bk\u0013D��@\u0001\\�\u001a^�� �\u0017��k6)�����{�+?��4λ\u000f\u001b����m�p���b�E >�!Q�\b\u0001e��:�F\u0001��,�K~ '^ \u0006_\u001b��ǭ��{v�e�A��$��~�_h����r�/���\u0002\u0018E��n��q\u001a��\u000e^VX\u0003�;�)�\u0018�c.��??�'A\u0007<���-_\u0000�\u0006�b�~V�ɐx�T�\u0013�� ��@/��\u0004��B`\u0010]���\u000fW}\u0017�4�\u001a\u0014�M�\u0000N<�\u000f�\u0015��fk�|�\u001a\u0001/�\b?\u0002+��&��'\u0006y�\b\u0019>�HC�d\u0004��q�b0\u0018��ȪZ ��\u001b#1�οeu�Z�\u0011�l\u000e-��O��M�i&U~�Y7�a��9��8(\u0017���\":�`��o��UM��8�.8(*�\u000f�8�0�\u0002I\u0013��$dB�U��)F��>s\u0004:��X��\u0010ºz��#��\u0000?\u0017��\u0013\u0006n-Pڏ�[�\u0015�w\u0018�\u0014˦�D �>� �Ev[�˾�X̓`&7 ��J��aw\u0001?���?\u0017��X�:v�\u0005; (�9\u001a�\u0004$?М\u0012�j�PX���h�g|f��� �\u001a \u000f#�� C΋z,�b���=��#+s\u0003 6���!��r�+uS�O�p`]y\u001a\u0015\u001a�0� uB��\u0002���\\\u0017m����-\u0001� �+���Eި�%��0M�2 �A�\u001b\b�k?\u0013�'�~��0+��'u�!cT�|�@\u0013F֎9�}��l\u0013�3�CՊ[D�V\u0002@�B�Vț�x�yf[&h��.\u0013`���=��+��̍�{��E�Y�w�<�(\u0014\u0016B͍���Qu���P\u0017�=G8��\u0018�\u000e\b��P�\u0019շ#L�/�fȝYҩ�ݫIp���Q\u0007�̬ׅ .\u0003�����9Pȣ��%K��5 z팂!�\\Q�n�_��+���*F��\\_9(�7\u0019\"��MJ�S�\u0010M�\u000fE:��\u0019�Wa:��q�<<��Ǽ4��h\u0004�qܙBϱ��\\-Ӧ�jV���K��\u0005A�Y\u000eq��� ������u}P(<\u0014 ]�s��m�\u0007\u0010��\u0017C�\u0002*\u0004 =�����\u0006�'� �H�ʁH�L���+��1�*&=~�T^9O��[D*%����<\u0017�I̅�J��[�U�P��d.#[<\u0017��3����Ռ =�}�r�nDs���p�����V7b��8 Z /(����|������8(�r\b�����WΪ{נZ���$AE�ǜ��m���Dv��'��Ԍ\u0005�\u0015��+�6$b�%V��\u0012�V�������T��5��?'\u000f�z��C\u0005`#è]�\b�4�E\u0006w\u0004K��Y, �3F\b\u0006���M6B������7;� ���fW����-ǵ�B,\u0005G��)��d�����*Qر��Klz����9��\u0012�\u0007���ǿ��_��W|���=\u0005�\"/�`x��H��=��&zY�ϔȹ0GٙE�5�Q��\u0013J��3��)��PE�\u0006-( �e�����K\u0011F\buB\u0014j)\u0000�\u0017.� � {Xx�O�ƤY\"њ �0�9R� s����\u0005\u0014�����\u0001\u0015�\u0001 ��Q�\u000etH���\u0000lcI��up�\u000e�E�-&5XJ��)\u0006xFb�(G�~ofM\u000eZ$39^��ڞ�3�� j�/�yo��p�\"���3��%\b\u0007�]f j��uV�{P���g喭dĉ �]+����\"\b�7 ���x�j�\u0017��_��4�?�ī����D]��v�b߰3T�7�\u0006��_�(�Su�b� �K�*� Z��4 �#�q *���+�{�I4Ԛ�z\u0013`��B�\u001a0�\u000fc�G 4����u�a�0���r�ΌB>�?\u0014Y \u0017M֨���\\ \u000e9�� ����b\u000e$�D�O�d���ͧ oNm\u0006?���\u0002� ֶ��k9�� i+q|���\u0013���\u00068vH�*�pn>��ZK�ɯt ׅ��]���\\;�\u0010���\u0010�W�.�� P���e��+�Yu�<�w'� �%sC�q�0z�B,\u0010\u0017�r�\u0014� �<\u0005 \u0019Tߪ���d���\u000f�}��Ԑ*� x`P�\u0002�G }�3�\u0001�nBn�� \u0019���֥�~�5�z�nQ��\\��Ll\u0007VNBB$��C]s'}M�W� \u0014�S�h������ \u0007G��շ)��J���\u0010I{��AW\u0017��?wN���O��h����/z \u0011O]5��0\u0014��_�~�@!�\u0002Ȯj\u0003f�ޫ VS��\\U�·��`���P\u001a�\u0002\b�J\u0006Pd��H/[p*&{Ͷv\u0006,���Z�.\b�+�/r���\u001aK8������m\"5z\u0005\u0002l�\u00103Y@I\u001b`8�� �� �Όr+�� �,����ƎC� ؎�v�{~���h�\u0005 Ɓ�/��U^\u0004zD�n��\u0010�2\u0015�\u001a���q���\u0007\u0018\u001aċm��=\u0005�� �� �\"(}���\u0013\u0019����u�D��~U i��q�\u0019/��7�\u0016���@�&2B\u000f秅\u0006V��\u0015\u0002<�A�kW\b\u0006\u0016 �j�����\u0002C@\u001a^���\u0019[�\u0002�\u0003J\u0017�\u0000lNѩ ���<375�^ ��\u001b��.J��j+.�$<�\u001b������~CU�s�)���N��c�y\u0011O��� �%@ �\u0012<��@�)d�i�x���������\u0019\u0012!1�\u0012�1\u0001hl�n�ܶ 0�v%\u0000g���Q>�F-�\u0002���hW�}+B֫�\u0011v\u0018c��\u001aD�\u0005 ���hfٓ�)g\u000f)�aLr�^�\u0005��\u0000���\u0019Pȭ��%O���\\��k��PB� �j\\���\u00036Q�;ߓ��� \u000e���+�A>J\u0012��Bj�|�I\u0016���Z��1�b�ӑCIA˹FN\u00062\u0011]v\u0016�-\u0019���\u0005|���7��J[\"�\"�\u001a�/�71\u0015!��̜F\u0015ʠ9�\u0010c�S��?�o]rZ��f�\u0003�j@Al\u0012x/� ��-�,m\u001ao�']��讱\u0014�hF��\u0010K�\u0016U(\\?�\u0001{�ۘZ��.H�B\u0004W��p�'=�Z�\u0016�\u0011]~\u0011n�r ��ʿ)Ҹ��k�sfn�1��-ג1�d��q}�\u0005JsҸ�f�@���:�2��+sH���0�]Ɇ\u0002S9Γ&��U��� >\u0015�Р^\u000f�p�5; ��3� �:4#�sM���6��15H�}[\u001a�\u001a{��=;$���h��������?F�\u00106 � n𳰱��*\u0013~�Z������WOO������}���\"(�7�H� �\u0007�IWk\u0012cc ��Ά�����' jK�>\u001b�>�\u001aG:���$Pl��2I�y2'�N��ժ� �8��� ~h�ےs�KP�f ;M\u0002��ǜt\u0012��?�P�V�t� '/\u0011�'X^B�\u0002�R �Z�( ��72�[fD�\u001a�_;Y�-��i\u0014�ͷh�UӚ�D�f��$j��L cM]=d��9Ɖ�W<A3G�\u0013\b'x�N!k8M�\u0005;-ʣ\\�\u000fEtr�+OBq���on)ʗr ���s�'v9%��Voh�`��m�~8W�Ȯ0$ u~i�X\u0014F�o��[g\u0002�1:\u000f���ӳ5*Z�@X\bS�b���\u0004�_� �o�:\u0005E\u001b��=q �� ����}�\u0018��\\�*\\�,�\u0015\u001a\u0007գ ?ܚ�r��jxnR�\u0019��V�T,��}��y/�%�q���pn5F\u0003��E Uu��\b{_F���&�-��\u001a�.�u�\u0006o^ P+\u0014���MM9ۓ�n��<Y��1�}�y\u0015\u0005I�E��*5B^�%u��\u0000�ѹ�A\u0019\u0016$I�:��\\Ee\u0016��Y72u\bV�\u000e��'\u0013��\u00013A\u0015} ���� \u0005l>�,`QJE�,J�Y\u0000ƺ���u\"\u0011o�;��/r\u0013)Ps�O�� `F�~��y��o�����z\u0001\u000e�r�,\u0000�[^C�\u0010? �|\u0000�z \u001a�S�V�1��<��b\u0017���.R���0!\u001b����jvu�����+��옖�Bl�\u001aT�l�r�\u0006�|�:T�e�`D62��,rAaω�a��K�3�\u001a� ΖI]J\u0005\u0003�8ҹ\u0003�7W��X��ʰ�!D� �k\u001b��=s�\u0019�$�\u0011�߁�\u0011�%�\u0000�B��W�r�ޛyrs�@�\u000f��� { ����@[\u0002�.\u0018%�1S�z\u000eG �v�Q]� \u0018�D�'��\u0019��)��P�+\u0000�[^�z��˚\u000e\u0013\u0014�����H\u0001�\u000f\u0016uG��%�P��$�\u0002R/(J#~��O�����|�ݭ�p\u0001\u0018Ӣ3T��UkZ�4i �B�_�};��l�VK��dD������Z��'�\u0003\u0004-o��\u0014A\u000f�r_���Վ �|e�JH����62�����T�\u0013���W��t�&��\\�\u001bc�f�)��N\u0000�Cx��/�A���� �f�¬���$�\u000e�c��8?�f1G���Kcm�J � cmh סQ�~\u0001���D]� ��[�I��%]8�2�Sv[���O|�'�2\u0005k\u000e�z��r�#S<Y��)ɕZT���Y0`�\u00109�=NXJ�����p$y)_���7�'�a����\u0017����)�� ��\u0004Ǻ��Q�.��~W2�-/œ�\u0004 J��IE\u0005��l]�3%��� \u0017��C��\\f5\u0019t�\u0014�/\u0006\u001b��\u0011�U��ա8�І�\u0005y�UT�Jx���a�����\\��|�b�\u0012��\u0012����X^H�b�B���e'��祃<��=�-���x��b\u000e�4�Fr�8\u0013d@�Ĝ�wF���L�L\u0010*\u0005�\u0013�0�A!��_\u00168��Ў���\u001b�_\u0007�\u001b�(MN��\u0005���ś��\u000emL9\u0002����4�;�� %�\b#��ʓ�E�RUŢ�\"ybu-�\u0019j7\bh\u0010\b\u0003\u0004[ބf\u000e�|�{���+�r�*����9��5[�쇠;ȯ�\u000e\u0016�`������\u0017XG�|����8�K�IN� �vj��٤E �1�\u0003#�#K��ˋ���ĐG{^�\u0000����v��|\u0012Q�JN\u0018�\u0002�Q��j�\u000e�% I��a\u0006K�x�l�X5�d�)��\u0012�:�G�Qh������1�I�@S�\u0011�sfu�]\u0015\u0000e\u0016��M���Tj�d\u0012+�͒�z�#$:�x�֦�\u0004*��Q���;\u00145F��w��Mq(�5FL�(� I��p�n��\u0016LK[�)=�\u0011=5��S���Z\u001b�\u001a��AT�c�\b\u0018�b���:�\"�+�T\u0002}< <�a��\u000f�r 7��\u0015�8G \u0005\u0015] Y h)aTV���W!l����o�~�\u0012�\u0002 �HÓfZB1���9-�G�T�sG����'�� F\u0014g��U��L �<p%E,�X\u0015D!��/�0'w�\u0006�D2��]L�:���u(���j.��1\u0007.l���m}q/\"(�\u0004�O�IA�\u000f�rݫr���ѣ{�f�\u00010wR� À��'+�քG���&���H�\u0006��:;\u0013�\u0004��<IO8����� S$4$\u0002�� ��\u0001*�\u0014\u001b�d P���,��$y�\\� ��L�c\u0002�����\u0010�'���+5\u0005l� tBz�\u0005l����m܇b\u0004yn� \u0002\u0013���0Q\u000e�QP H���6���5���5F�/V܆`�{_\u001bs� \u0007\"3���[VƈBHM�=qNc�$�h\u0010�G���7)�u�Փ\u0018D�(C��ޯ\u0000 #SW*w D\u0019\u0012b���\\y(�5P�\u0018o)��\u0013\\\u0002�� -\u000f��h�t� 0D!*�\u0013]e��Lı(���z?X�½9Q�K�3q\u0004�O��\u0003�9��\u0015��P;3H�O`�\u000e�rիo[F��\u0014\u0019s3m��*;Fh��mNK!M/� \u0015���� D\u0000!ρ�\u0002T� �+=�3F���cg\u000f(&�w\u00126\u0010��\u0017=��z\u0010���1\u0018�2���[�z��\\�F��շ/��詝��1\u0011�%cN�\u0005�U'\u0017�l�b�F�S�L\\\u0002���< J\u0003P}�� wX( ��m�6�&���0s 5���5Z\u0019YI������ �X\u0012ڏ�4,�Jgn�\u0012Hڪ�� \"��A\ba .��\u00182P�\b�L�� �nQ�t\u0003V���^�v� K� )p�$\u0018��� `�!*��'��%��D�k��oX����Z�Z����,߁����w��F_�f��l\u000f��~�\u0016�*b�Qȹ\u0012�%���Y4���P_��\u0016�N$�rL��\u000eq ��\u001a�z��]w`����S���\u0014�\u0005�l�\u0015YجV�cO\u0000�R )���U3�:8r[��,�ty\u000fW\u0017�\u0015�B� ��-\u0000[ �O� �}���4;]\u0015��m\u0011+�\u001547\"���uĠ�Dav6��g:� �W���\\�ǥ�&��: �?�w��((w�\u0002�����\u0014c\u0003�Q\u0000P����f�z l��m�nT��J( ��?�: n���� ��:��Ӭ< ~\u0012���KƱ�\u0018�ɬ'AN*=� f�A�\u001a�\u001b\u0004}6%���\u0015��qwyW�GB)��\u0005(�\"Q;#>��࿟��X^>�I ��]\u0000�+�o�\u0003O�� �-�`fǩ�4��]΅@r���2Cm1\u0002^[h�'���/EdS�Q�s\u0016Jcy�\u0001��* � �\u0018 �n�ܒ\u0011��T!Q:'=J7\u000fE?�w�*\u0010p��*aT�ic���Ih\u0005�& �V�<�^_��#� � �9\u0005���I\u00055k;���j\u0006�\u0005i�\u0015�)��I� L`X)XK\u00102���G\u0000�&'`�\u0011b1,'����@ZP��D8j�j� V7��sjv7T\u0019�]Y�z�Ԙ� ���֍�:A)� � ��� Σ�\\\u0006�A���\u0002�s곖\u0017�'�j<��O���U\u0003�\b� �J\u0005:%ʝ�r�$u� �\u0011�[�C\\������n�3�u�D��\u0019���U��8�/G�NY$9� ��JS�Co�$��\u00114\u0002�=#��\u0015}h��0�\u0010�3��PZsl�\u0016 3]s� o ]�2��\\}S\u0016�| �4\u0015[>�����*�CW˴ Z܅�04�M\u0005X-\u0004���e\u0002C 4;�8m��)g����$�\u0015��[/���__��e_�(�A!��Y\u00169?\u0003��ɜ3[5�\u0011\u0015�Rg���6Q��� �.Jp�@|\u0007��av�E ���ဧv�]o��H(�N@a��^���o��[��d\u0006g&�c�=Tc�\u0012 �ߪ�:�\u0010��>3��,ϫ!�6_\u0002>\u0005b�ކ\u00160���\u0015���A� ʽ��k:\u0013\u0015RHy�C>�&h+`A!|��D�d�\u0012 I=�w\u0006b���U\u0012��t\u0019��N\u0000�\u00108<�\u0005��M��k�C=gm�c�׾�;݂\u000e����L\u0002�m��\u0002�)\u0003]��\u0007E�����r�k�8�Y\u0005��+�\" �v�a⦃m�@9a�۷�Η\u0000�_z��.s6�F���\".�a��` Ѵn�j� ����l\u0013 �v�O��`�\u0005�\"�0@/�\u0012`�WBI���Dχ�k%0T��ޖ2\u0007�5���\u0015\"0�\u001a��a%�],���\u0001���\u0017�ݧ�B3xf�*��=-��� \u0016 3�N���\"\u0013 )���ƈI��\u0004���5؆l�\u0017�%l \u0006��\u0005���bS�?#D��\u000f\"�4 |�\"�\u0001Z7�F���\"n��çѶ�h굶mMV�\u0015/5\u000fs��]�ub\\rr��=b ��_��84��V\u0005c\b�O��=�yz9 a �\u0019\u0007�&���`gC��V��2L~�\u0001\u0000;��aG��TG#�2��g�t]5�\u0016f�\u0003��� 4h�/\u0011��ާ\u0001��\u0005����-W��N�T&u���\u0011H\u001b��\u0016n$�,R�){KQ�\u0018\u0004��F�3��U��E؈�8E_HVaZ\u0005y=/��O\u001b���c��\u000e\u0015P�ΦX�T��G?Pο�(�zhr)\u0006���d�'dc��i���\u0002\u0007XM8��'ʞ1:���n��6ײN\u0007�KA�\u0015>�g V� ��}\u0005�� �J�L {˵g\u0016#rx� ],\u0010\u001a���1�ą�E9�;o΋\u0012 ���\u001aNi�g?�7_ ��_{\u0003~Z���?���H\u0001x�ʯ�\u0007ί��9\u0000�\u0011��G �O���\u0011�L�Q�uT(d�I�ɗ�r<��w9S���6����nsY��g\u001a\u0005\u0006���M�9�Ω�r��ʊ���������~Z���U���Bm��S����B9v�T\u0003� а\u0011�,�6�^�����Qz��'~��~VV��Ken ��vZ碘��y�R̛��e�-\u0014N�A �O��ǟge���e�vED��Ի�V'�v�e� l>sʟ���;֤�X�ޜ�\u0007v�B���ʌח\u0003W�X;�\u0013�.�P��` Tj<^����a�U:(�h�1�'L�hvÞ�2ɉ�W�� �sX�{z�_^�Tv�3ݒ���\u0013\u0007P����ޒ9\u0001������\u001a$�[|� 4�g�\u0004-4�yuQ(��Z\u0003�\\���DM�3Cp%�r=$01�\u0004i�e-Ê>�+�� S\u0000^���Ɲd4ɢ��Ł�܂��4�Y�u�����.�\u0007�D\u001bɰ�\u0019u�� G\u00148b4���� ���n\u0017������(!\u000e%}��ˋK�p~�yX�\u0017�J�`ρ\u0006Q[��\u0016�\u000f\u0004Y�6�b J�1|Z�h��'\u0011x�ht �\u0006l���4�e8�\u000e(,@#��������t�D�Px����uԨ�\u0000UA��\u0002p�?\u000e �(��Lզ<��+�ʚب��4�A�����4�\u0018�I�׻F �ϊ1���_��͝��d3ၳ�'E��\u0002�\u0005��\u001a{\\�n��G8+ί�R��s�Z�'���/!L��B3G�Vp\u001a\u0016 N�\u0013��>Ӱ�\u0015,1̋YnޚN[\u0000�n 4�\u001bF�\u0010�T\u0016(��ت\u0007K8l�2\u000e�^|\u0010\u0002A��qՋ���� �85B�����=I����n\u001b\u001a���\u0001A\u0015Ф3�S��\u000e�#`��4E!\u0011i���-�>\u000fJ�S\u0000�o�A�F�>\\������S�<��t� \u0013X9��9~���\u0012��S\u001a�\u0017��u�%\u0011\u0004���Ft 5 3:�kP��O�~��X�;$�ͦ\u0000�ֿ��/�\u001a���\u0012\\\u0013ért�-�\u001b x^�\u0018]��,\\�@\b\u0014\u00107\u0004S�\u0016d�Ŭ��\u0005)�x*v���etE �\u0015O\u0007`4��!$��&c��'�Գ\u000e�\u0019�ὄ�ť% ���\u0018�H<�\u0018��\u0001�?���r�Y�?,JG�\b\u0002˲�F�\u0004�MF F-��\u0017�3�<n\u0014ٟ�� xc{>�)K��[):�j���釷m�#���4]}]~���z� \u0010�ˇ/����2o��O?�����|��Ѕ��\u00079~���|��]�!���,�\u0002T\u0005�(`8�o�� �\u0006\u001a= �F� ��f���V��\u0000��61>v��\u0015R��I�)\u0010���\u0013� \u000e� !��#G=��=!,C;�]�\u0002(�T�e�VH=�\u0011S�����\\�m�4�\u001b- $��\u0010Q\u001a/V�#gmX�B%�I�>�̸������ *�}ѝpD���1���E�F����Ҫ���\\%\u0019⊖}І� J�U�+�S}����̋Zc�i�\u0005ث\u0000c1V�K���e)\u0004h��Ѹ�_b�\\�ͳ�%��\u0002�\u00065�ڤ9S\u0005JVYGh\u0002��I�}\u0011$@Ț�\u0010d%����;[y��z�S\u0016¡��\\���xN��J�@�a4�\u0005\u0000��ô���[G��\u0011<���y�\u0011p\"w����3��#�e�e��8?\u0013Ze �$��0�&�\u0011\u0014\u0015\b>� �\u0016��(mk@��֍��[7���}�q�Tq(�k��2�=��\u0006eX�\u0015 �\u0015\u0016��!\u0004��DU�����8ԫn�\u0013� )[�\u0000�� Y$\b � �� L<~7\u0001 e(��+��J֧-�ǩE��\b\u0002C���\u0019��(D[�ˢ8�:�E�E�� � � 63��k�TnG�'^��\u0001�\u0007tP뢤{�-\u0018ݻ�n��Y ~�Ai�ʿ-� �\u000e��ƭ.�]\u00000� �� \u0017��AI� m�@\u0014x!U�_n�Ɉ�����ڤ�\u001a\u0017�ױ\u0018S\"X����7QK�`�\u0005���u�Y����\u0013Q�j�B�U�+.4�FO��f2�W�� \u00044 �dp���q\u0016�Q�\u0007����ds{�|z�9g\u0005�D�� %�� �: �./�8\u000eKG�\u0019nE\u0010r� oUd\u0011�: U?��*r�l�̃��k\u0017��xeJ��*-��<)�z�� �-\u0016�O x�A4�\u0005jBS8.8�\u000f�rB� ���)�d�\u0002����M��-�9iޝ���G\u0015�J�4��?\u0014\u0000�49���ݨX�n���co�)\u0006\u0016�����v>\u0011\u001a,\u0018����L���ܽ\u0005�k�Rfz��\u0018��Ahf���P7\u0006K$e����,B]0��Wp 9�f.� �4P��`N6W-/#{\u0016(t\u00185\u0019Z\u000fj؛�M���ML? ��T�� ��G,���;+h��I\u0006\u0005㝢��e� N\u000f�qG�_����\u0012��H�v��B�]�R���\u0019˷Y$�\u0001��� �(�Y�˒ U�x�U+zь+*�cm�� -Z\u0004�?�\u0004�]\u0007R�8��l���ɞ\u0005�F*t�t�S����L$3 � �/�jOF��4GO�d IW\u0002�!\u0000�J3����U����N�\u0004H��jc��u�=\u001a�u��3�J\u0000�(Tb2�@��8� �y\u001a�Z\u0013k9���M+��kY\u0013d6 ��H>���Ng�ɯy��U\u0015�* �\u0002\u0019\u0000 \u0003�dP4\u0001@�}��{�W�D�\u0018\u0003�G�${�M� �i��5�虀=��G�� %��ʹP>��ܯ/Ǧ �\u0019�1��<� �����y�~K\u0001�䭭��H� ��¼\u0004�Ry��`��I�G�I�*Js5+t֎�\u0011�\u0013˽N\u0000��\u0010�S!��[[e��fԴz������v���Tz�n��kcJ\u0004\u000e����\u0015�i�]���T]T2�o��0�]��`���rkW��\u0018\u0014\u0010� �k\u0003�Jך��X\u0007�ǻ<a �+�65�]���j0����� q�Z:�NY�M\u0005�2v�\u0001T��H�t\u00133X����T��~!�\u0013L\u0014'��� \u001a ��ӳ��M8M$)��J�T��\u0002KA�@Z���Q�&8 �sin\u0010�E\u0000\u0016�\u00074����]w�@��>�� �<�LV��\u001a ����՛}\u0019�y�XJ`� �j�Z��Ő\u000f\u0010=�\u001b�^� <N&J�^,d�`VzI5\u0018�׃�\u0002�j�*��\u0010 ΕP~Aޥ`\u0000 \u000e�\u0019l�\u001a��F\u0011���jN��]U�0�RJ�ɭ`�.�\u0003� �G��H=���\u0001ؙ��<�\"�0�Hq��r 6\u0016҉4]�O�]\u000f؎�Yx\u0019����D���|\u0006+��0�ο��A���?\u0014� 8�\u001a :B�c#������D�\u0017�Q�嫘��#�h�N�\u0011$ۇd�����A�+\u0019��\u0016`;��;�Ag\u0017������VD\u0010�p\u0010 \b��z \u0003R?`��\u0019p���}g\u0003hR��M?o���owu�9��Z!�\u001a p+�k�}�p��Bj.�]��9`�u%�Q�@��<ǖ,\u0018� �\u0011�Ŀ��z9�z>ŧm<�!2�Q\u0001t%��#��\"c\u0019I%\u0006�m��j0\u000eni�-\u000e6¬��Y{y\u0014�I~ Fq��v�����\b\u0018x�.��t\u0012����K��3��kr5\u0013�]K�= u��J���\u0017�<����\u0002�\u00016��^)zK-+����Wf~\u0003��4g�I�%����\u0006\"Oc� �r;� ���fY�t�<���m�Q� �ɝC\u0013oҚ d�5}�z0o��J��$9���D� ��z��K �b�ݦ��Ҁ\\n 3�7��5稶�c�߂;��_�+� bNij�B$ ܹ�B�,�< z^\u0002�\u0015�\u001b\b-F�\u0002�΅�]�J �-+ڛ��\u0012ꜩ��]�-PH~�7v�g�1����\"�W�h�2�\u001ar\u000f:\u0012C|� �FO��\b4�<\u0007�)\u0006\u0019\u0007QlXV��\u0014ײBZmY r��Y'��&�+s�&Wo ||\"�^\u0017 =ߢ\\�;\u0005�m\u001a�e����� �ȓ��Q�v���H�=\u000f9��\\ \u0012�\u0006\\,L�� h\u0010� ����Z\u0001������ď��<N� )��� �Xy\u0019�F��b'�V�2i��\u0007aK+aŴ�&\u00131��� \bi%��\u0006`X���C�@�a[F�\u0012�܌��YM�c��m���W�\u0015Vby\b쐞��1��XTS�ƓY=���W\u0001����%����X���ՓV�\u0007N�{�\u000f\u0018ظ�ܤ�rΕ��:Wݷs\u0012�\u0016fT n��\u0015:���X�O*է����$�1�i���)�)SR�e�PO;n�\\r�\u0010�q:�5+\u0018���nwz��� �!��c�>��:�\u0017�s�= �~\u0018I[� �g�\u0016S �z\u000e`��b�%�Kx��\u00048J �g�~ڳ���\u0001�#���9���p�� A@\u0003x����d�\u0007w�:w� ��\u0012�/��4x�\u0003�a���+WQ\\��r_9㾡�l3Ť�Е\u0011e�3��d�Dz\u001a���\u0015\u0002k~y\u0018P5\u0006�B��d��``7}Ot�7?\u000f�T\u001a� ��\u0001B�_w2#f7\\g / �\u0016\u0019ɡ���\u0005\u0017�W�����Q��\u0015�j����9H# ���A�\u0016n \u0010\u0003�L?$�\"*&/��{��z1R6�8�b\u001aں��ڱb�J�2��\u001a���M��C:Cs\u0006���A+Y\u0013�6��� �\u0013�,L\u0003\u0010��\"Z��\u001a��+�o��C�D�����*?�N���됖 ,r��mV�\u0000��S:��n�E/��[�\\����\u0002_! ����\u0003�Z[��%�Scl��\u0019�I���s{�ԛ\u0004a�\u0010V�Ŷ�(��)��Y?-�\u0013�aW�I������\u0013\u0012B�*�����%|D𨓜\b) `� �e��\\��\u0018t\u0007=o|)Y�K�V�&�M?3�D�k�z��ۤ�{�T؅a) \b�*?�8�=��\u0002��q��m��? �� :Q�� +��\u0002 ���A�_A�{\u0002�Ê�էDV�f5\u0018oW5�ٹ �i'RM�,�?\u0010�8\u0018�(�}\u0013��k\u001b\u0000�5_'�~��\u0002 �pp�p���FD���&1&nr���F9ہ\u0004��\"@�>\u0018�\u0002�,\u0014 \u0001gD6\u0005A�F�%)5 ي���\u0017Ƨ\u0013F ����%�;�����ߣ��V�<��H�#�X\u0016�\u0011ݭ�D�쯳Mh�� ����\u0010EG �\u0019����$� $�D����/7���wA�`��\u0005��� \u0019B��@�H{*<�I��\u0013\u0019�� ��ȓ�\u0002��\u0006�����hT�8����K}\u000f���^.\u0011N����L�z�%���&C> \u0000g�w� \u001b6}X����\u0018d�ځ\u0019�6>\u0003_? ���F\u001bI� 5��1\u0005\u0003�4����f��PeB\u0019�*��106C3\u0012�9�Q�PG�b/��t*�Ns\u00108]V�A�Z� ����\u0012��M��\u0007Pʜ�JE����/�`P � ���J�\u0014X\u0017�\u0002��\u0012\u0005\u001aĬ�הK\u0005�'��_�\u00197I��\u0011��a7�\u0016Վ�1 N0�\u0003f\u0005p�\u0007���\u001aB�@�Dn��b\u0017D�(������A̕�J�؊%Qz/�8\u0007ū�9�Of �h!�\u0003R����@ ��Uԫʉ�%�� �����\u0005�\u0010\u0005*���* � \u0018b �Ћ�M��QqA V�FX\u0019\u0000(\u0012�cV$Ms���ak��y���\u0019\u0016�\u0016I%��ܜU��Dw�\u0012ӴΠB \u0007���F�X6��\u0015/e�j�H�[d� ��\u0001(.�<R��h�\u0019����c�\u0019Τ��e婡 ��\u0018\u001a� i� \u0003�\u0013���\u0012]��[+$X��uw� ��\u0006\u001b�.pl9�\u00017� Q�3a}\"3��?��)�����W�׀WZ��^�\u0007\u001aTgbv�� 2`Qvƿ�l�'\u0011��_Qj���ޔ�[B�?��������)\u0011�� MH�}�� \u0016}�H\u0011�[�L����h06��ný�\u0007�I��\u0004\":_�|�U���-U��Z\u0019�j�\u0003Q<�K gg\u0005EeY\u0016=;��+�L ���M�>�\b��:͝ԝZ��~���\u0015���\u000e��D��Z\u0019�l�� � \u0011*�z��eY��ց�uH��y�\u0015�\u0002�0)��mO��L��ki7�A�P��\u0010\\ 0�n\u0014i�\"qv�(\u0003e2�����PL�hY� ��4�S3�\\�&@|�ݸ\u0001�\u0013l���Y\u000e�ng� zU ͮ���l9�@��:�x�_��8¬�\u001a4�2�\u0005�\u0010�\u0002mk.'�K�G�%-ms�G\u0005wS�=�þ2�\u0011\"| ��V�cq��Ɲ�� ��8��^ �|�J��9�� }��\u0015=m�Ŧl^���M� ym�R��c�;��Z���\u0018/V[7\u0007xX���뜅\u0015�&8\u0018 ���ue \u0007���\u000eD�\b�����YNL��\u0018\"�\u0005���u�D�}$P�GF�ޥ�PP+�վ�B4܉���ÉY��\u001b���C�\u0015'��&!�5x9 g�p�Q�M�\u0019o���S&�|AC ��mx� Z;X�z-jR��\u0015�j�����z\u0011�\"$� \b�z[c�\u0006�}q\u0010���@�Fûu��@��>�\u0012��<� ��\u0018� \u0019N0�%ah�`�1�c`��d'\u0004j�WR�E�RY�]u��k b8��z�i-˝���*����0r���>��E\u0002O^!50�\u0015��g5\u0018ɵ$�f}�kOv��i�\u0011��!\u001ap\u0000 n.& }p ��Ud���\u0000���C����B �wn\u0015D/U����y_��G�\u001aUْ �7��\u0006�����H´v]+]��;�g�\b�Lyp�8\u001a\\\u0016�\u0001\u0019`�����F�z+�|�\u0019Ӱ�ٽ&u�\u0003\u001a9�Ͷ?`\u000e�#��\u0000 w��\u0012\u000ft ��d| 7e�*��yP\u001b$�B.M�4� \u0000,:�f�V�\u0018b=�8Ra�u�t���Hu� q�g��h�q�\u0001��U\u0006�����P��# ��\u0004\\��7���7G��}�M�\u0015� +�K�=z�� \u0004����:�Jt9#D���o��8�Pe����\u0005�����@�� �Ϙ��qE)��P7����}֞a[�7F����`c�\u0019G*�,���a��V�M��V�)�k��m�(:\u0001����?\\�܎y:\u0003�\u001as�m��[N�� �m��,�l��K��\u0014 ����-�X�O���7r��viH�\u000e�%�/���\u00070j\u0007�0� �ϱ��\u0019�C\u0007\u000e���\u0012i��Ȳg�?~D�b2����G@Q�T��/�V[�\u0019ߑ\u001a��4�����;�� kX� \u0004@\u0011�\u001b\u0003\u0015�ɑ�\u0019�Y����@��Ye�6�Y��\u0019ᑀH\u000fv֠(V���䦺�v�\u001b�u\u0002\u0006\u000et��ƪ�9V� �v\u0003��J K\u0017�R��P..\\3�\u0017B���p�D0�gF\u0003a;�)\u0006\u000f2x�!\u0004$\"\u0001�s fiB�+�+���[�w\u0015��XI�@kWsqmf̿ \u0011����I�Ni\u0012h- \u00039\u0018�`��?�GX�\u0002��ޡ�ܦk�5�\u0011�_�Ϙ���,� � ��II��R��6^׈*���\u0001�c\u0005\u0003,9+��Kt1+\u000f��WU)<�|���m�\u0000��\u0004�J�]\u0003��7\u0003����\u0004q���@}�s\u0010:I{U+#\u0007ͯ� +K�{ ,��\u0014\u0007n� �އAO��.�����C@�ңzķ�A�������\u000fo_ ���WGJ 7U�\u0007+�̘~ط\bNlp��I�ȵ�܀F�\u0018�,��[ \u0003�Ͽ�;|���\u0014�r�\u0017���22��\u0010� 0��1�&'�L�;\u0015=Ǚ�Yh�u�a\u001a7\b���X��*Q��Y��\u0018����\u0019�pE��+�\u00172R �(� �܁>��\b�\u000e\u0010��#�s!�\u0002��lܠ�-c�\u0003�?�vS��;>�DV��\u0002l� H O*�m�G\u0015x�4\u0005|�\u0000�d�\u0017W�B\u0004\u0016���\u0013k��+SɅ�\u0007�jh儆�[]q�mI�����+8����\u001a {��\u00018*V�L�o��y�e�D �\u0014��Uo�m-��O�M]�vBn���\u0005Y�7v�ú\u0019�O�\u0017%ܔ��gDi� �\b�*�q@��M\u0004���~�pR��\u000fG�w\u0007/��\u0013�)���!L���2�3�^]'�)T0�Chzv{�X�@�\u000e\\���o��+2&��d�f����m�����~�c'ty�i �>�g (�d� N�������|������ 9���yk�٨����\u0011��\u0005���{��=�%E\u001b�]�\b�b��\b\u0006��\u00047߃���\"K��� U!0tU)\"Z��1��_ q=.w��c\u0001��9}�>�\u0005\u0000�\u0010 ��!>c��\u0017l�Ҁ1�t���\u0014�L1���ר%61\u0002��\u0018̚o\b��<� \u0003mYt�݈UU�\u0017��`���\u0003�2K\u0010ȱ H�8�)�>'U�9�Z�IA\u001b�.G\u0013��� �-\u0018`V�\\�Q[k(^<L� 3���Qx+}��;�>足�d\"g\u0014W�\u0002#gB��j+�s��7��,�?c��Oo\u0007��w���- �$��\u001b~�{cS}�\u0015\u0012��4���Wbhsd�\u0004 V�p�㲐%uW�.���\u00116�\u0015%�<m�� \b��B��� �g�Sr��h�`[�XO���l/�8��ᙟ�\u0013��\u0012�5Y{�䓀�s ��ы \u000eԇ���\u0017\u001bh�ו:�9�z_���XA�ZD��G\u0003 ��謜eڵ�B2� ��\b!R�?и2\u001a��\u0019�huM�M9�\u001a�πOY\u0005uR��\b�]�\u0001���{���)d^JΟn�� ��r�ř[��\u0016 \u0000� S\u0013�H(�\u0015���(��\u001a���Sb��cI�0�w�\\���\u000e�Yea\u0018e���\u0012�I�Z����iPPwd\u0003��X���pT�ve+�S����{wXj�ҕ�|2,qލ��{�e١��a�V~<!��.�� ��7OM��N�5�l�S�cG�E[,\u0005 �#�\u0001���$0�\"Vj�� �U��o��}а\u0000�OY�S��<^S�����b ~e�\u000f^�J1��\u0013ǟ>�V�\u0002$�3��\u0002l��h��މ\u0006M\u0012-��a��[� ũ��aCk�O\u001b9�\u000fr�%�\u0019�(j,\u000e Ή?��@�X�X��DL�\u0004 ^r�\u0007���H\u0002���\u0006J�D �b��pw �~ 9\u001a�3;�̀�T�\u0016��%��!k��0 �3m�X�o*@�X� �� \u0013��݅g�\u0014g�\u0010\u0018��\u0005�ir2�,��\u001b�yO��\u000e\bb�SZ�7����mR���܁�&�\u0015V��\u000e��q�\u0002��3S��g�'u(i�GS�;�\"\u00160��aZ�\u0007��3ʉ��8����wn�$V�l���Nq93 �\u0005�?!��n��\u0017|�>\u0002[��bW.������yyY�_n\u0007˘3���:�2��έ��\u000e 8\u0004\u0002�\"߁ai��J�������\u0014o�� \u000f͘e�SPų� ���W�VmBe��2ɬS�N.'� \u0007\u0012Ex �&�-�8/\u000f{^� ^Ss���\u0006il]�\b٤��R�+��\u000er\b5;�\u0016ˬ�J�,-`��Т��5no���=�ğ�ʽo��0�`w�E{���E\"O�GY��3�R!2*l��i&�r0��>\u001b0�7� ��ꗢ����� M4�8�<R���͖).Ѫ��\u000f��5��5��|B���=� ���ý�\u000f��{�Ni�~��\b+ �;��i�|���>��͹�4�\u0019�^\u000f�\u000eG\u001a\u0015Qt\b�n�\u0001G���wY�D����P\u0014�;���[��L\u0013�%�ʵ��Z�ɗ����&9�\u0015¨�x��J��\u0013�Xzz:u�U�u��7\b�[ I��trv�g�D\u0006�i�0�3UqF���+�z��JU�~\u0015�M��\u00192m�0�92z�\b\u0005���:L�gz�ꖴ�I\\+]�`��9\u0003ϟK��%��̷�\u0003�\u0002\u0013�\u0000Xb��c�B�&x������3B��\u0013c�AР��ϛ�\u0007 � *��L��?@�᭴�#\u0019= )��\b ���7�{\u0012��ذ�=�\u0001�� G\u0017�~\u0017ԙ�}�I5o���G�p{{L\u000e��Ǉ�px�R\u0012S�y.lȿ��6\u0012�\u0018&�\\ �?O�ӝ>.'Ի]^����b�kѭ�8�����< GÝ>�_�㠩�BH�k>��*rq \u0006la���j�G�q�%�@��j� \u0019�\u000f\u0014[�x�c��X��E� ��5tYx��<��s<�W?���%Xc�Tm\u0010o_?\u0012 /��g&/f\u00186Jr��r����\u0014'�\b \u0006�� ~�>�~ �+��PiJ_�m`\u0004h�B-���l� �-��j�\u0006㹖��\u00032W� ]x\u0002�~��Ot\u0004�\u0018���\u0016�a�\u0004A���\u0014�@�+&�\u0006\u0006&#����c|{Xc��*�zR�k�\u0005!�0 �k�K�kYi\u0012[��7\b�U�D�� ����\u0007u\u0013�ŘH�͌�۴\b\u000e\"�Z1�g\u0003\bypͬ���osT��[�IQ*օ7Z��e�9�i-�\u0015�t�\u0012��Uq{��Ao��Ê\u0004v\u0018�����t.\u001aH�+�M\u001a7��B�\u0014=v\u0019\u0018* ͹I�n\u0018C���.��\u0006�!�G����\b:� A4�0� ��L��B��� \u00067&xۦ6>�wwAD����\u0004Ņ�t�TJ�b�3AG�y>�\u001b�X��9��eM�\u0003.B ��P�E( �!���u�1��J Ö��J�3�d �կdV���աm�ng�Q�:�����\u0005��AQn�Ԁ@�(b�0��A�3 {K�\u001a����\u0018n����5�X���\u001aQ�#\u0000�� \u0001 ]�͢�g��X��$\u0003�Zr`n�_�\u00123x2O�= ��V�2Y�4�qO��\u0016�/7B*1/ i 4t��`��\u0006A�����/\u0001�\u0014Wl���4O\\��`��2t\u0001E\u0012\u0018`N��~����/e��m��b\u001a��� ܌<��\u0010�^`6� � �(\u0001nח�\u0018�!\u00138Ũ�m�{I�&�7/U\u000f I�\u0000;�q�GфV�� �\u0011\u0006�\b+|\u0014�+S%�ҽk�#��c�|a@gt8��a6g \u0018�G\u0003Q�L�\u001b�f�g�\u0006\u0001�<� 0e�݀ɲ\u00012H�����©+h\u00012�s?�6�-��Ǐ ��\u001aY[\u001a�&��5c�\u0004�=Fc\u0013F�K�!���\"z '\u0016p+�Z�\u0002�ܛ��l5 v�C;�mu���ǘ\u000f\u0003� �4�j�:� \b��8�b�^\u000e�\b -L�c2�{&�p�\u0018\u0010@idc��\"Z!��o\u000f��C꽉�H�B�(�� ����j�\u0003\u0011\u0017���PV @2\u000eu�\u0010��W\u0013��L��\u000fT���Ã��F=��\u0005� 4� �j]@v9�\u0007�G�6r���֮k��N]�� �����f�S�أaj���G\u0005\u0006�%�^�����SZ!�旇��\u0005����{{\u0000\u0000�g\u0019�\\�\u0018��pxDP�G\u00054z�lm{#\u0003r�\btv\u0000��v \u0011�Jb�Ԛ�;,q7�L�^\u0000z�|O\u00023@s\u0017�2�f[ �~�\\� �y��`�Gƫw��1-�Z���Z)O���04Zt \u0006��7T1\u0015zU�1� [���qO_3�rx�\u0013�S��<\u000e��S\u0017�#�\u00170���\u0002i/7;M�\u0014�֢�8,\u0012~���xW���v�\u0014P˫MP\u0011��B:mY �囄�V� \u0006.U�+RX\u0003��`�1�3`6?�$��(��\\l;��\"�D�Q�\u0004��վ�\u0015�k�� 5Q��\u0004{��� N4��\u000fn �\u0000� ��@}L��\u0014=�rӀP�+��\u0017��{�\u000f����\u000fߓXfM\u000f� ,f�@�\u0003Q����m`� �^����Sl')� �K���h\u0003�P�O!�\u0015\u0018\u0016�a��k�#qy�7��\u0006\"�?1�f���Pե�)�\u0004�_\u0006\u0018��\u0011�\u0006M�7}�]{n��?~�2*a ,�kY\u0007xӻ�\"'[�:\u0013�\u0018�\u0019j\u001b=\u0003���*��1@\u001a\u0002}�\u000e��\u001b(@�m\u0010N�) ���6B� #hY��\u0013�R\u0004\u000f�/i�\u0019�i R�\u000eٙ�ۻ�t��� �o(\u0019 ���L�(�\u0004Y�C�\"�6\u0010\u0011�( 4M\u001b�\bT�4_�.ɹ�h�&��b�Қ�=\b\\�0D��ԇ?�g<��O���J�� �:��OG���D2�E��<\u0013𜑕`.� t� zwN�\u0004�\u0010d�����$ Hp*+$P�arŭL<pu�E���Mx�<�^\u001a ��\u0014�\u00019ǀ��Q� U�>\u001b��\u0000��^� v�x\u0006/�ƌ�?C�&tk�c a��� ��2>�G��\u0018�R�b�\u0004V�*����\u0017����s1�0�]��N\u0011?�5���� �j������!�\u0003\u0013ξ�̠��\u0005��C�-w\u0000�}\u000eXR�� � ���\u0014jQ�H�.�Bp�� ... [Content truncated]",
+                    "content_num": 1000
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Video Of 'Ukrainian Partiers' Is Actually In Germany Say Fact-Checkers",
+                "htmlTitle": "<b>Video</b> Of &#39;Ukrainian Partiers&#39; Is Actually In Germany Say <b>Fact</b>-Checkers",
+                "link": "https://www.forbes.com/sites/petersuciu/2023/08/14/video-of-ukrainian-partiers-is-actually-in-germany-say-fact-checkers/",
+                "displayLink": "www.forbes.com",
+                "snippet": "Aug 14, 2023 ... ... August 13, 2023 in Odesa, Ukraine. In Odesa six beaches were ... Another video also circulated showing a party-like gathering at the Ibiza Beach ...",
+                "htmlSnippet": "Aug 14, 2023 <b>...</b> ... <b>August 13, 2023</b> in Odesa, <b>Ukraine</b>. In Odesa six <b>beaches</b> were ... Another <b>video</b> also circulated showing a <b>party</b>-like gathering at the Ibiza <b>Beach</b>&nbsp;...",
+                "formattedUrl": "https://www.forbes.com/.../2023/.../video-of-ukrainian-partiers-is-actually-i...",
+                "htmlFormattedUrl": "https://www.forbes.com/.../<b>2023</b>/.../<b>video</b>-of-ukrainian-partiers-is-actually-i...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWXawRkTKT381dV3oLwTv5bhzlNSLRqRjizVx9Vm4lL3cK3ANzmIlxRiM&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Forbes",
+                            "article:id": "blogAndPostId/blog/post/7481-64da8af3f3baee61e9ed3996",
+                            "og:description": "People may be swimming in Ukraine, but it is hardly the party atmosphere some on social media have suggested.",
+                            "twitter:creator": "@PeterSuciu",
+                            "article:publisher": "https://www.facebook.com/forbes",
+                            "twitter:image": "https://imageio.forbes.com/specials-images/imageserve/64da8b970770ec572bb1ea3f/0x0.jpg?format=jpg&height=600&width=1200&fit=bounds",
+                            "twitter:site": "@forbes",
+                            "news_keywords": "Ukraine,beach,Berlin,disinformation,Strandbad Plötzensee,Ibiza Beach Club,misinformation,fact-checkers,cheap fake,DeepFake",
+                            "article:published": "2023-08-14",
+                            "article:channel": "Innovation",
+                            "image": "https://imageio.forbes.com/specials-images/imageserve/64da8b970770ec572bb1ea3f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                            "article:section": "Social Media",
+                            "og:type": "article",
+                            "twitter:title": "Video Of 'Ukrainian Partiers' Is Actually In Germany Say Fact-Checkers",
+                            "author": "Peter Suciu",
+                            "article:section_url": "https://www.forbes.com/social-media/",
+                            "og:title": "Video Of 'Ukrainian Partiers' Is Actually In Germany Say Fact-Checkers",
+                            "amp-google-client-id-api": "googleanalytics",
+                            "og:updated_time": "2023-08-14T16:32:03.552-04:00",
+                            "article:author": "Peter Suciu",
+                            "referrer": "no-referrer-when-downgrade",
+                            "fb:app_id": "123694841080850",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=2,user-scalable=yes,minimal-ui",
+                            "twitter:description": "People may be swimming in Ukraine, but it is hardly the party atmosphere some on social media have suggested.",
+                            "og:url": "https://www.forbes.com/sites/petersuciu/2023/08/14/video-of-ukrainian-partiers-is-actually-in-germany-say-fact-checkers/",
+                            "article:modified": "2023-08-14",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://imageio.forbes.com/specials-images/imageserve/64da8b970770ec572bb1ea3f/Odesa-Officially-Opened-Its-Beaches/960x0.jpg?format=jpg&width=960"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "ODESA, UKRAINE - AUGUST 13: People swim in the water and relax on the sand of the \"Inclusive Beach\", ... [+] which is allowed to visit by the city authorities on August 13, 2023 in Odesa, Ukraine. In Odesa six beaches were officially opened for swimming - for the first time since the start of a full-scale war. (смысловой повтор текста). However, people also continue to swim on the other beaches of the city, where swimming is prohibited. (Photo by Viacheslav Onyshchenko/Global Images Ukraine via Getty Images) A number of videos featuring bikini-clad women made the rounds on Twitter this weekend, but not for the reasons some might expect. The clips purported to show a beach on the Black Sea near the Ukrainian city of Odesa after it reportedly reopened for the first time since Russia's invasion. The post was met with a backlash as those critical of U.S. and other Western aid being provided to Ukraine voiced their frustration that it didn't resemble a warzone. However, other users on Twitter soon weighed in that the video was actually filmed at the Strandbad Plötzensee, a lake in the city of Berlin, Germany! Another video also circulated showing a party-like gathering at the Ibiza Beach Club in Odesa. It does resemble the images and videos on the club's official website, and it is—or at least was—a very popular hotspot, yet, it remains unclear when the video may have actually been filmed. The club's Facebook page hasn't been updated since 2018 and no videos have been posted to its YouTube page since July of 2021—more than six months before Russia launched its unprovoked invasion. It would appear that the Ibiza Beach Club in Odesa may still be closed. However, there is a grain of truth to the story. As Reuters reported on Saturday, several beaches in the city have been officially opened for swimming, but bathing in the sea is banned during air raid alerts. It is also important to note the city has been repeatedly attacked with missiles and drones, while the waters have been littered with hundreds of sea mines. In other words, people may be swimming in Ukraine, but it is hardly the party atmosphere some on social media have suggested. \"This is a classic piece of disinformation. There are a few interesting things about this. First, this is what I always think of as a 'cheap fake' instead of a 'DeepFake,'\" said Dr. Cliff Lampe, professor of information and associate dean for academic affairs in the School of Information at the University of Michigan. \"The only thing they did was to add a tag to an already existing video,\" explained Lampe. \"No AI needed, just the simplest of video techniques. We've seen this several times, and these cheap fakes are very prevalent as a type of disinformation.\" Lampe added that whoever first posted the video was also clever in that it uses attractive people to immediately grab attention, but then also layers on sexual moral judgment onto anti-Biden or anti-war intents. \"Disinformation needs to gather attention, which this effectively did, and it is more effective when it hits on multiple levels of outrage,\" said Lampe. \"I wouldn't say this changed any minds. That's usually not the goal behind disinformation—which is more about deepening already held beliefs and calling into question the very nature of truth itself. Clearly, this was a successful effort.\" What was also notable with these videos is that the online sleuths quickly identified that one of the videos was filmed in Germany, while some were wrong that the other wasn't actually Odessa. That could make others question a fact-checker if they turn out to be wrong. It also makes us question whether we can even trust fact-checkers in general! \"It depends on the post and the fact-checkers. I'd believe Bellingcat without question because they disclose their methodology and they have a track record,\" suggested Dr. Matthew Schmidt, associate professor in the National Security Department at the University of New Haven. \"If someone replied to this with convincing photographic evidence, which was then agreed to by the consensus of responses, I'd be inclined to believe it,\" Schmidt continued. \"The point is that there's a great wealth of talent in the open source community, so they've repeatedly shown they're right about things.\" However, it could still be good to be skeptical by default. \"Like a scientist saying 'I believe X with 75% confidence, but Y with 90%.' People need to think in probabilities, then they can use open source intel intelligently,\" Schmidt noted. \"It's not just right or wrong, it's shades of right enoughness.\" On the surface having open source fact-checkers could seem to be a case of \"who guards the guardians\"—Quis custodiet ipsos custodes. However, Schmidt dismissed that notion. \"This isn't so much who guards the guardians—because these guys on the Internet aren't the guardians—but who is guarding the gate to true intelligence,\" Schmidt pondered. \"Is it the guardians at the CIA or the crowd? Because the amount of open source Intel that drives analysis at places like the CIA would surprise people. They're feeding the guardians. And the really TS/SCI (Top Secret/Sensitive Compartmented Information) stuff is the dessert, not the main meal.\" One Community. Many Voices. Create a free account to share your thoughts. Our community is about connecting people through open and thoughtful conversations. We want our readers to share their views and exchange ideas and facts in a safe space. In order to do so, please follow the posting rules in our site's Terms of Service. We've summarized some of those key rules below. Simply put, keep it civil. Your post will be rejected if we notice that it seems to contain: User accounts will be blocked if we notice or believe that users are engaged in: So, how can you be a power user? Thanks for reading our community guidelines. Please read the full list of posting rules found in our site's Terms of Service. ... [Content truncated]",
+                    "content_num": 1000
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Busting coronavirus myths | Fact Check",
+                "htmlTitle": "Busting coronavirus myths | <b>Fact Check</b>",
+                "link": "https://factcheck.afp.com/busting-coronavirus-myths",
+                "displayLink": "factcheck.afp.com",
+                "snippet": "Feb 19, 2020 ... This is false; health experts say monkeypox cannot be contracted via Covid-19 vaccination, and Pfizer told AFP the virus is not a side effect of ...",
+                "htmlSnippet": "Feb 19, 2020 <b>...</b> This is false; health experts say monkeypox cannot be contracted via Covid-19 vaccination, and Pfizer told AFP the <b>virus</b> is not a side effect of&nbsp;...",
+                "formattedUrl": "https://factcheck.afp.com/busting-coronavirus-myths",
+                "htmlFormattedUrl": "https://<b>factcheck</b>.afp.com/busting-coronavirus-myths",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbA1u3V-oiFj4rqkb6f9cHIpMPmz75DOJ60kxzYlTAJs80Bp_OFCLPsg&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://factcheck.afp.com/sites/default/files/medias/factchecking//000_9qf4jg.jpg",
+                            "og:type": "Article",
+                            "og:site_name": "Fact Check",
+                            "handheldfriendly": "true",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:title": "Busting coronavirus myths",
+                            "mobileoptimized": "width",
+                            "og:url": "https://factcheck.afp.com/busting-coronavirus-myths",
+                            "og:updated_time": "2024-04-17T18:44:09+02:00",
+                            "og:description": "Rumours, myths and misinformation about Covid-19 have spread as quickly as the disease itself. AFP Factcheck has been debunking disinformation as it emerges along with new cases across the world.                          "
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://factcheck.afp.com/sites/default/files/styles/image_in_article/public/medias/factchecking/misc/compilations/afp_debunks_graphic.jpg?itok=v9XRxQuH"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "Choisir votre langue Copyright © AFP 2017-2024. Any commercial use of this content requires a subscription. Click here to find out more. Here is a list of our 1395 fact-checks in English so far, starting with the most recent: Social media posts claim \"Sudden Adult Death Syndrome\" is a new condition linked to the Covid-19 vaccine, proving that Sudden Infant Death Syndrome (SIDS) is also a vaccine side effect. This is false; leading health organizations and medical experts say Sudden Arrhythmic Death Syndromes (SADS) -- misnamed in the posts -- is not a new set of heart disorders, and neither SADS nor SIDS has been identified as an adverse event following vaccination. More here. A video clip of US author Naomi Wolf claiming that \"there is a baby die-off\" in infants born to Covid-19 vaccinated mothers has been viewed hundreds of times on Facebook. But the claim is false. Doctors' statements contradict Wolf's claims, and multiple studies show that vaccination against Covid-19 during pregnancy is safe. More here. Social media users shared an article that claims Justin Bieber said his facial paralysis was due to the Covid-19 vaccine. This is false; there is no evidence that Bieber made such a public comment, and the article comes from a website that has previously published false claims under the guise of \"satire.\" More here. A video has been viewed thousands of times on Facebook and TikTok alongside a claim that billionaire Bill Gates has \"billions of doses of monkeypox vaccine on standby\" as more than a thousand infections have emerged worldwide. However the video has been shared in a false context. The footage was taken during Gates' visit to a Covid-19 vaccine storage facility in Abu Dhabi in May 2022. His charity, the Bill & Melinda Gates Foundation, has told AFP that the claim is untrue. More here. Social media posts shared worldwide claim that recent cases of monkeypox outside of countries where it is endemic are a \"side effect\" of the AstraZeneca Covid-19 vaccine, which uses a weakened chimpanzee adenovirus vector that has been altered so it does not infect humans or replicate. This is misleading; health experts told AFP the virus that causes monkeypox is different from AstraZeneca's adenovirus vector, which does not cause disease in humans. More here. A video has been viewed thousands of times in multiple social media posts alongside the claim it shows a violent police crackdown on students protesting a Covid-19 lockdown at a university in Beijing. While there were reports of student protests against pandemic restrictions in the Chinese capital, the video was shared in a false context. It shows clips of May Day protests that turned violent in Paris. More here. Posts on social media claim recent monkeypox outbreaks are the result of a \"side effect\" of Pfizer's Covid-19 vaccine. This is false; health experts say monkeypox cannot be contracted via Covid-19 vaccination, and Pfizer told AFP the virus is not a side effect of the shot. More here. After the World Health Organization (WHO) reported outbreaks of monkeypox in countries where the disease is not endemic, multiple social media posts claimed that the virus is the same as shingles and therefore a \"side effect\" of the Covid-19 vaccine. However, health experts told AFP that the virus causing shingles and the one causing Covid are completely unrelated. Furthermore, Australia's vaccine regulator told AFP there is currently insufficient evidence that Covid vaccines \"trigger\" shingles. The posts shared a stock image of shingles that was erroneously used to illustrate monkeypox. More here. Facebook posts circulating in Thailand claim the World Health Organization approved a dietary supplement to prevent long Covid. However, the WHO said it made no such announcement as of May 30, 2022, while health experts warned the only way to prevent long Covid was to avoid catching the virus in the first place. More here. Social media posts say the US Food and Drug Administration (FDA) recently approved a new monkeypox vaccine from Pfizer. This is false; the only vaccine for the prevention of monkeypox was approved by the FDA in 2019, and Pfizer does not manufacture it. More here. An image shared tens of thousands of times on social media purports to show an article from Global News that says the Pfizer Covid-19 vaccine is only 12 percent effective. This is false; the Canadian news organization did not publish the article, and Pfizer's clinical trial data showed the vaccine to be 95 percent effective. 2 June 2022 More here. As Shanghai emerged from a two-month lockdown, social media posts shared photos of mouldy shoes and bags that they claim show products at a department store in the Chinese megacity. However, the pictures were taken in Malaysia in 2020 at a store that was preparing to reopen following a Covid-related closure. More here. A video has been viewed hundreds of thousands of times in social media posts that claim it shows Pfizer CEO Albert Bourla saying the US pharmaceutical giant aims to cut the world's population in half by 2023. However, the video has been edited. In the original clip, Bourla told Klaus Schwab, the founder and executive chairman of the World Economic Forum (WEF), that Pfizer plans to cut the number of people who cannot afford their medicine by half. More here. A video of a group of children wearing hazmat suits has been viewed hundreds of thousands of times in social media posts that claim it shows them attending school in Shanghai during the city's Covid-19 lockdown. However, the video was actually filmed in China's northern Hebei province. Schools in Shanghai -- China's largest city -- reverted to online learning in mid-March and in-person classes were not scheduled to resume until June. More here. Social media posts shared hundreds of times claim airlines in Spain and Russia warned people who have been vaccinated for Covid-19 not to fly because they have an increased risk of developing blood clots. This is false: airlines in those countries have issued no such advice as ... [Content truncated]",
+                    "content_num": 1000
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Article by Vladimir Putin ”On the Historical Unity of Russians and ...",
+                "htmlTitle": "Article by Vladimir Putin ”On the Historical Unity of Russians and ...",
+                "link": "http://en.kremlin.ru/events/president/news/66181",
+                "displayLink": "en.kremlin.ru",
+                "snippet": "Jul 12, 2021 ... The Tale of Bygone Years captured for posterity the words of Oleg the Prophet about Kiev, ”Let it be the mother of all Russian cities.“ Later, ...",
+                "htmlSnippet": "Jul 12, 2021 <b>...</b> The Tale of Bygone Years captured for posterity the words of Oleg the Prophet about <b>Kiev</b>, ”Let it be the mother of all Russian cities.“ Later,&nbsp;...",
+                "formattedUrl": "http://en.kremlin.ru/events/president/news/66181",
+                "htmlFormattedUrl": "http://en.kremlin.ru/events/president/news/66181",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLZChkvya3B6BJWDyVfqZGzZlT4ChAEXlH__L4pjiwGEU-6WcVz_W0JA&s",
+                            "width": "140",
+                            "height": "100"
+                        }
+                    ],
+                    "xfn": [
+                        {}
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#091a42",
+                            "msapplication-starturl": "/",
+                            "application-name": "President of Russia",
+                            "theme-color": "#ffffff",
+                            "og:type": "article",
+                            "twitter:card": "summary",
+                            "twitter:title": "Article by Vladimir Putin ”On the Historical Unity of Russians and Ukrainians“",
+                            "og:site_name": "President of Russia",
+                            "ya:ovs:upload_date": "2021-07-12",
+                            "apple-mobile-web-app-title": "President of Russia",
+                            "og:title": "Article by Vladimir Putin ”On the Historical Unity of Russians and Ukrainians“",
+                            "msapplication-tileimage": "/static/mstile-144x144.png",
+                            "apple-mobile-web-app-status-bar-style": "default",
+                            "msapplication-allowdomainapicalls": "true",
+                            "twitter:site": "@KremlinRussia_E",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=0.7,ya-title=#061a44",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:url": "http://en.kremlin.ru/events/president/news/66181",
+                            "format-detection": "telephone=yes",
+                            "ya:ovs:adult": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "http://static.kremlin.ru/media/events/highlight-images/index/jw7LQ8w3Q5fQVHkQynAUtn2zjsVBanPU.jpg"
+                        }
+                    ],
+                    "hatomfeed": [
+                        {}
+                    ],
+                    "wpheader": [
+                        {
+                            "inlanguage": "ru",
+                            "name": "Русский",
+                            "url": "Русский"
+                        }
+                    ],
+                    "itempage": [
+                        {
+                            "inlanguage": "en",
+                            "name": "Article by Vladimir Putin ”On the Historical Unity of Russians and Ukrainians“ • President of Russia"
+                        }
+                    ],
+                    "sitenavigationelement": [
+                        {
+                            "name": "Events",
+                            "url": "Events"
+                        },
+                        {
+                            "name": "Structure",
+                            "url": "Structure"
+                        },
+                        {
+                            "name": "Videos and Photos",
+                            "url": "Videos and Photos"
+                        },
+                        {
+                            "name": "Documents",
+                            "url": "Documents"
+                        },
+                        {
+                            "name": "Contacts",
+                            "url": "Contacts"
+                        },
+                        {
+                            "name": "Search",
+                            "url": "Search"
+                        },
+                        {
+                            "name": "President",
+                            "url": "President"
+                        },
+                        {
+                            "name": "Presidential Executive Office",
+                            "url": "Presidential Executive Office"
+                        },
+                        {
+                            "name": "State Council",
+                            "url": "State Council"
+                        },
+                        {
+                            "name": "Security Council",
+                            "url": "Security Council"
+                        },
+                        {
+                            "name": "Commissions and Councils",
+                            "url": "Commissions and Councils"
+                        },
+                        {
+                            "name": "News",
+                            "url": "News"
+                        },
+                        {
+                            "name": "Transcripts",
+                            "url": "Transcripts"
+                        },
+                        {
+                            "name": "Trips",
+                            "url": "Trips"
+                        },
+                        {
+                            "name": "About President",
+                            "url": "About President"
+                        },
+                        {
+                            "name": "Events",
+                            "url": "Events"
+                        },
+                        {
+                            "name": "Structure",
+                            "url": "Structure"
+                        },
+                        {
+                            "name": "Videos and Photos",
+                            "url": "Videos and Photos"
+                        },
+                        {
+                            "name": "Documents",
+                            "url": "Documents"
+                        },
+                        {
+                            "name": "Contacts",
+                            "url": "Contacts"
+                        },
+                        {
+                            "name": "Search",
+                            "url": "Search"
+                        },
+                        {
+                            "name": "Search",
+                            "url": "Search"
+                        },
+                        {
+                            "name": "For the Media",
+                            "url": "For the Media"
+                        },
+                        {
+                            "name": "Subscribe",
+                            "url": "Subscribe"
+                        },
+                        {
+                            "name": "Directory",
+                            "url": "Directory"
+                        },
+                        {
+                            "name": "Version for People with Disabilities",
+                            "url": "Version for People with Disabilities"
+                        },
+                        {
+                            "inlanguage": "ru",
+                            "name": "Русский",
+                            "url": "Русский"
+                        },
+                        {
+                            "name": "Current resource",
+                            "url": "President of RussiaCurrent resource"
+                        },
+                        {
+                            "name": "About website",
+                            "url": "About website"
+                        },
+                        {
+                            "name": "Using website content",
+                            "url": "Using website content"
+                        },
+                        {
+                            "name": "Personal data of website users",
+                            "url": "Personal data of website users"
+                        },
+                        {
+                            "name": "Contact website team",
+                            "url": "Contact website team"
+                        },
+                        {
+                            "name": "For the Media",
+                            "url": "For the Media"
+                        },
+                        {
+                            "name": "Version for People with Disabilities",
+                            "url": "Version for People with Disabilities"
+                        },
+                        {
+                            "name": "Telegram Channel",
+                            "url": "Telegram Channel"
+                        },
+                        {
+                            "name": "YouTube Channel",
+                            "url": "YouTube Channel"
+                        },
+                        {
+                            "name": "State Insignia",
+                            "url": "State Insignia"
+                        },
+                        {
+                            "name": "Send a Letter",
+                            "url": "Send a Letter"
+                        },
+                        {
+                            "name": "Vladimir Putin’s Personal Website",
+                            "url": "Vladimir Putin’s Personal Website"
+                        },
+                        {
+                            "name": "Putin. 20 years",
+                            "url": "Putin. 20 years"
+                        }
+                    ],
+                    "newsarticle": [
+                        {
+                            "name": "Meeting with Head of United Aircraft Corporation Yury Slyusar",
+                            "url": "Meeting with Head of United Aircraft Corporation Yury Slyusar July 15, 2021, 14:00 2021-07-15 Team of the Official Website of the President of Russia Novo-Ogaryovo, Moscow Region",
+                            "datepublished": "2021-07-15"
+                        },
+                        {
+                            "name": "Greetings to Rosgeologia staff",
+                            "url": "Greetings to Rosgeologia staff July 15, 2021, 09:15 2021-07-15 Team of the Official Website of the President of Russia",
+                            "datepublished": "2021-07-15"
+                        },
+                        {
+                            "name": "For readers of a general-audience commentary on the Russian Federation Constitution",
+                            "url": "For readers of a general-audience commentary on the Russian Federation Constitution July 15, 2021, 09:00 2021-07-15 Team of the Official Website of the President of Russia",
+                            "datepublished": "2021-07-15"
+                        },
+                        {
+                            "name": "Meeting with VEB.RF Chairman Igor Shuvalov",
+                            "url": "Meeting with VEB.RF Chairman Igor Shuvalov July 14, 2021, 13:40 2021-07-14 Team of the Official Website of the President of Russia The Kremlin, Moscow",
+                            "datepublished": "2021-07-14"
+                        },
+                        {
+                            "name": "Telephone conversation with US Special Presidential Envoy for Climate John Kerry",
+                            "url": "Telephone conversation with US Special Presidential Envoy for Climate John Kerry July 14, 2021, 12:50 2021-07-14 Team of the Official Website of the President of Russia",
+                            "datepublished": "2021-07-14"
+                        },
+                        {
+                            "name": "Greetings to President of France Emmanuel Macron on French national holiday, Bastille Day",
+                            "url": "Greetings to President of France Emmanuel Macron on French national holiday, Bastille Day July 14, 2021, 12:10 2021-07-14 Team of the Official Website of the President of Russia",
+                            "datepublished": "2021-07-14"
+                        },
+                        {
+                            "name": "Vladimir Putin answered questions on the article “On the Historical Unity of Russians and Ukrainians”",
+                            "url": "Vladimir Putin answered questions on the article “On the Historical Unity of Russians and Ukrainians” July 13, 2021, 22:15 2021-07-14 Team of the Official Website of the President of Russia...",
+                            "datepublished": "2021-07-13"
+                        },
+                        {
+                            "name": "Meeting with President of Belarus Alexander Lukashenko",
+                            "url": "Meeting with President of Belarus Alexander Lukashenko July 13, 2021, 18:10 2021-07-13 Team of the Official Website of the President of Russia St Petersburg",
+                            "datepublished": "2021-07-13"
+                        },
+                        {
+                            "name": "Condolences to President of Iraq Barham Salih",
+                            "url": "Condolences to President of Iraq Barham Salih July 13, 2021, 13:45 2021-07-13 Team of the Official Website of the President of Russia",
+                            "datepublished": "2021-07-13"
+                        },
+                        {
+                            "name": "Greetings on 100th anniversary of Russian Academic Youth Theatre",
+                            "url": "Greetings on 100th anniversary of Russian Academic Youth Theatre July 13, 2021, 13:00 2021-07-13 Team of the Official Website of the President of Russia",
+                            "datepublished": "2021-07-13"
+                        },
+                        {
+                            "name": "Greetings to the national forum The Nation’s Health as Foundation for a Flourishing Russia",
+                            "url": "Greetings to the national forum The Nation’s Health as Foundation for a Flourishing Russia July 13, 2021, 10:00 2021-07-13 Team of the Official Website of the President of Russia",
+                            "datepublished": "2021-07-13"
+                        },
+                        {
+                            "name": "Article by Vladimir Putin ”On the Historical Unity of Russians and Ukrainians“",
+                            "url": "Article by Vladimir Putin ”On the Historical Unity of Russians and Ukrainians“ July 12, 2021, 17:00 2021-07-13 Team of the Official Website of the President of Russia",
+                            "datepublished": "2021-07-12"
+                        },
+                        {
+                            "name": "Meeting with Commissioner for Entrepreneurs' Rights Boris Titov",
+                            "url": "Meeting with Commissioner for Entrepreneurs' Rights Boris Titov July 12, 2021, 13:45 2021-07-12 Team of the Official Website of the President of Russia The Kremlin, Moscow",
+                            "datepublished": "2021-07-12"
+                        },
+                        {
+                            "name": "Congratulations on Fisherman's Day",
+                            "url": "Congratulations on Fisherman's Day July 11, 2021, 10:05 2021-07-12 Team of the Official Website of the President of Russia",
+                            "datepublished": "2021-07-11"
+                        },
+                        {
+                            "name": "Greetings on Russian Postal Service Day",
+                            "url": "Greetings on Russian Postal Service Day July 11, 2021, 10:00 2021-07-12 Team of the Official Website of the President of Russia",
+                            "datepublished": "2021-07-11"
+                        },
+                        {
+                            "name": "The President heard Chelyabinsk Region Governor’s report on wildfires in the region",
+                            "url": "The President heard Chelyabinsk Region Governor’s report on wildfires in the region July 10, 2021, 13:30 2021-07-10 Team of the Official Website of the President of Russia",
+                            "datepublished": "2021-07-10"
+                        },
+                        {
+                            "name": "Address to university graduates",
+                            "url": "Address to university graduates July 10, 2021, 00:00 2021-07-09 Team of the Official Website of the President of Russia Novo-Ogaryovo, Moscow Region",
+                            "datepublished": "2021-07-10"
+                        },
+                        {
+                            "name": "Telephone conversation with US President Joseph Biden",
+                            "url": "Telephone conversation with US President Joseph Biden July 9, 2021, 21:20 2021-07-10 Team of the Official Website of the President of Russia",
+                            "datepublished": "2021-07-09"
+                        },
+                        {
+                            "name": "Greetings on the opening of the White Nights of St Petersburg International Music Festival",
+                            "url": "Greetings on the opening of the White Nights of St Petersburg International Music Festival July 9, 2021, 19:00 2021-07-09 Team of the Official Website of the President of Russia",
+                            "datepublished": "2021-07-09"
+                        },
+                        {
+                            "name": "Meeting with permanent members of the Security Council",
+                            "url": "Meeting with permanent members of the Security Council July 9, 2021, 13:30 2021-07-09 Team of the Official Website of the President of Russia The Kremlin, Moscow",
+                            "datepublished": "2021-07-09"
+                        },
+                        {
+                            "articlebody": "During the recent Direct Line, when I was asked about Russian-Ukrainian relations, I said that Russians and Ukrainians were one people – a single whole. These words were not driven by some...",
+                            "inlanguage": "en",
+                            "name": "Article by Vladimir Putin ”On the Historical Unity of Russians and Ukrainians“",
+                            "datepublished": "2021-07-12"
+                        }
+                    ],
+                    "wpsidebar": [
+                        {
+                            "inlanguage": "ru",
+                            "url": "Русский"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "All content on this site is licensed under Creative Commons Attribution 4.0 International During the recent Direct Line, when I was asked about Russian-Ukrainian relations, I said that Russians and Ukrainians were one people – a single whole. These words were not driven by some short-term considerations or prompted by the current political context. It is what I have said on numerous occasions and what I firmly believe. I therefore feel it necessary to explain my position in detail and share my assessments of today's situation. First of all, I would like to emphasize that the wall that has emerged in recent years between Russia and Ukraine, between the parts of what is essentially the same historical and spiritual space, to my mind is our great common misfortune and tragedy. These are, first and foremost, the consequences of our own mistakes made at different periods of time. But these are also the result of deliberate efforts by those forces that have always sought to undermine our unity. The formula they apply has been known from time immemorial – divide and rule. There is nothing new here. Hence the attempts to play on the ”national question“ and sow discord among people, the overarching goal being to divide and then to pit the parts of a single people against one another. To have a better understanding of the present and look into the future, we need to turn to history. Certainly, it is impossible to cover in this article all the developments that have taken place over more than a thousand years. But I will focus on the key, pivotal moments that are important for us to remember, both in Russia and Ukraine. Russians, Ukrainians, and Belarusians are all descendants of Ancient Rus, which was the largest state in Europe. Slavic and other tribes across the vast territory – from Ladoga, Novgorod, and Pskov to Kiev and Chernigov – were bound together by one language (which we now refer to as Old Russian), economic ties, the rule of the princes of the Rurik dynasty, and – after the baptism of Rus – the Orthodox faith. The spiritual choice made by St. Vladimir, who was both Prince of Novgorod and Grand Prince of Kiev, still largely determines our affinity today. The throne of Kiev held a dominant position in Ancient Rus. This had been the custom since the late 9th century. The Tale of Bygone Years captured for posterity the words of Oleg the Prophet about Kiev, ”Let it be the mother of all Russian cities.“ Later, like other European states of that time, Ancient Rus faced a decline of central rule and fragmentation. At the same time, both the nobility and the common people perceived Rus as a common territory, as their homeland. The fragmentation intensified after Batu Khan's devastating invasion, which ravaged many cities, including Kiev. The northeastern part of Rus fell under the control of the Golden Horde but retained limited sovereignty. The southern and western Russian lands largely became part of the Grand Duchy of Lithuania, which – most significantly – was referred to in historical records as the Grand Duchy of Lithuania and Russia. Members of the princely and ”boyar“ clans would change service from one prince to another, feuding with each other but also making friendships and alliances. Voivode Bobrok of Volyn and the sons of Grand Duke of Lithuania Algirdas – Andrey of Polotsk and Dmitry of Bryansk – fought next to Grand Duke Dmitry Ivanovich of Moscow on the Kulikovo field. At the same time, Grand Duke of Lithuania Jogaila – son of the Princess of Tver – led his troops to join with Mamai. These are all pages of our shared history, reflecting its complex and multi-dimensional nature. Most importantly, people both in the western and eastern Russian lands spoke the same language. Their faith was Orthodox. Up to the middle of the 15th century, the unified church government remained in place. At a new stage of historical development, both Lithuanian Rus and Moscow Rus could have become the points of attraction and consolidation of the territories of Ancient Rus. It so happened that Moscow became the center of reunification, continuing the tradition of ancient Russian statehood. Moscow princes – the descendants of Prince Alexander Nevsky – cast off the foreign yoke and began gathering the Russian lands. In the Grand Duchy of Lithuania, other processes were unfolding. In the 14th century, Lithuania's ruling elite converted to Catholicism. In the 16th century, it signed the Union of Lublin with the Kingdom of Poland to form the Polish–Lithuanian Commonwealth. The Polish Catholic nobility received considerable land holdings and privileges in the territory of Rus. In accordance with the 1596 Union of Brest, part of the western Russian Orthodox clergy submitted to the authority of the Pope. The process of Polonization and Latinization began, ousting Orthodoxy. As a consequence, in the 16–17th centuries, the liberation movement of the Orthodox population was gaining strength in the Dnieper region. The events during the times of Hetman Bohdan Khmelnytsky became a turning point. His supporters struggled for autonomy from the Polish–Lithuanian Commonwealth. In its 1649 appeal to the king of the Polish–Lithuanian Commonwealth, the Zaporizhian Host demanded that the rights of the Russian Orthodox population be respected, that the voivode of Kiev be Russian and of Greek faith, and that the persecution of the churches of God be stopped. But the Cossacks were not heard. Bohdan Khmelnytsky then made appeals to Moscow, which were considered by the Zemsky Sobor. On 1 October 1653, members of the supreme representative body of the Russian state decided to support their brothers in faith and take them under patronage. In January 1654, the Pereyaslav Council confirmed that decision. Subsequently, the ambassadors of Bohdan Khmelnytsky and Moscow visited dozens of cities, including Kiev, whose populations swore allegiance to the Russian tsar. Incidentally, nothing of the kind happened at the conclusion of the Union of Lublin. In a letter to Moscow in 1654, Bohdan Khmelnytsky ... [Content truncated]",
+                    "content_num": 1000
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Fact Check: Do Photos of Busy Ukraine Beaches Prove There's 'No ...",
+                "htmlTitle": "<b>Fact Check</b>: Do Photos of Busy <b>Ukraine Beaches</b> Prove There&#39;s &#39;No ...",
+                "link": "https://www.newsweek.com/fact-check-do-photos-busy-ukraine-beaches-prove-theres-no-warzone-1716164",
+                "displayLink": "www.newsweek.com",
+                "snippet": "Jun 16, 2022 ... Photos of Ukrainians using beaches in Kyiv and Mariupol have led to conspiratorial claims about the country's conflict with Russia.",
+                "htmlSnippet": "Jun 16, 2022 <b>...</b> Photos of Ukrainians using <b>beaches</b> in <b>Kyiv</b> and Mariupol have led to conspiratorial claims about the country&#39;s conflict with Russia.",
+                "formattedUrl": "https://www.newsweek.com/fact-check-do-photos-busy-ukraine-beaches-pr...",
+                "htmlFormattedUrl": "https://www.newsweek.com/<b>fact-check</b>-do-photos-busy-ukraine-<b>beach</b>es-pr...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZDy7sdvkcfHryKJWin4gr0axeF7vQIroW2KiXjL8hv1SIvyM8zA3HWvk&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://d.newsweek.com/en/full/2059475/ukraine-beach.jpg",
+                            "msapplication-config": "https://g.newsweek.com/themes/newsweek/favicons/browserconfig.xml",
+                            "og:image:width": "3500",
+                            "article:published_time": "2022-06-16T08:12:24-04:00",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ff0500",
+                            "og:site_name": "Newsweek",
+                            "twitter:url": "https://www.newsweek.com/fact-check-do-photos-busy-ukraine-beaches-prove-theres-no-warzone-1716164",
+                            "og:description": "Photos of Ukrainians using beaches in Kyiv and Mariupol have led to conspiratorial claims about the country's conflict with Russia.",
+                            "article:publisher": "https://www.facebook.com/Newsweek",
+                            "twitter:image": "https://d.newsweek.com/en/full/2059475/ukraine-beach.webp",
+                            "twitter:site": "@newsweek",
+                            "article:modified_time": "2022-06-16T08:12:24-04:00",
+                            "msapplication-tilecolor": "#ff0500",
+                            "og:type": "article",
+                            "og:image:alt": "Ukraine beach",
+                            "article:section": "Analysis",
+                            "twitter:title": "Fact Check: Do Photos of Busy Ukraine Beaches Prove There's 'No Warzone'?",
+                            "og:title": "Fact Check: Do Photos of Busy Ukraine Beaches Prove There's 'No Warzone'?",
+                            "og:image:height": "2336",
+                            "fb:pages": "18343191100",
+                            "article:tag": "Fact Check",
+                            "fb:app_id": "245537789135954",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Photos of Ukrainians using beaches in Kyiv and Mariupol have led to conspiratorial claims about the country's conflict with Russia.",
+                            "og:url": "https://www.newsweek.com/fact-check-do-photos-busy-ukraine-beaches-prove-theres-no-warzone-1716164"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d.newsweek.com/en/full/2059475/ukraine-beach.jpg?w=1200&f=8b86a97765095b0fd067470391c7da08"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2022-06-16T08:12:24-04:00",
+                            "claimReviewed": "Fact Check: Do Photos of Busy Ukraine Beaches",
+                            "url": "https://www.newsweek.com/fact-check-do-photos-busy-ukraine-beaches-prove-theres-no-warzone-1716164"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "As fighting in eastern Ukraine intensifies, with its forces resisting Russian advances toward the north and south of Severodonetsk and elsewhere, the country remains locked in violent, attritional warfare. With conflict largely shifted to the east, the intensity of warfare may well be felt less in other parts of the country (the largest in Europe by land area discounting Russia) where people have been photographed recently enjoying summer weather. These pictures, however, have led some to claim that Ukraine has not been as badly bombarded as media reports hereto have suggested. The Claim A tweet posted on June 16, 2022, shows dozens of people using what appears to be a small beach in the Ukrainian capital of Kyiv. The tweet, which has more than 10,000 engagements, was posted by YouTuber Alex Belfield, who suggests that the media are making exaggerated and misleading claims about the conflict's severity. Ermmm. Ukraine doesn’t look like a warzone to me today? How about you?I’m starting to question the MSM. Maybe they don’t tell us the whole story???? 😝 pic.twitter.com/vUlEmd5sHZ Similar tweets have also been dismissive of the scenes captured in Kyiv. The devastated and war-torn country of Ukraine... we should definitely keep sending them billions of dollars...https://t.co/m2tCdP6GtF The Facts The photos pictured in the tweets are from Kyiv, taken along the Dnieper River, which intersects the east and west of the city. These beachy areas have long been a popular spot for swimming and sunbathing in the Ukrainian capital, with this year being no exception. Being the second-largest country in Europe after Russia, it's reasonable to believe that some parts of Ukraine may see less direct military action than others. While the capital is not invulnerable and has also been shelled in past weeks, the current battlegrounds in the northeast and Donbas regions are a considerable distance from Kyiv. Kharkiv, for example, which Russian forces have still not claimed, is around a six-hour drive away. During the first two months of the war, following Russian bombardment, Ukrainian forces were able to push the invading forces from the capital and adjacent territories, although concerns remain that President Vladimir Putin's army may attempt to take Kyiv in a second assault. By some accounts, this pause has somewhat cooled the mood in Kyiv. Nonetheless, Ukrainian government officials have warned citizens not to visit beaches as authorities continue to survey the water nearby for explosive objects. A Washington Post article published June 12, 2022, reported how divers have been finding unexploded munitions in lakes throughout Kyiv's suburbs too. As well as the threat of explosive devices, the divers told the Post their own fears that Russian spies and saboteurs may be watching their work, \"helping the Russians plan a new invasion in this part of the country,\" the report states, describing the absence of swimmers, motorboats and jet skis as \"surreal.\" Moreover, while the photos taken along the Dnieper river and elsewhere may look picturesque, Kyiv still endures occasional airstrikes as volunteers take to clearing some of the destruction caused earlier this year. Air raid warnings are issued across much of the country on an almost daily basis. But even in other parts of the country, where the threat of conflict is more palpable, residents have been pictured using beaches and public spaces too. In unverified posts Newsweek found on social media app Telegram, video recordings appear to show Ukrainians in Odessa (far closer to the theatre of war than Kyiv) reading poetry in public as missile defense systems fire behind them, and sunbathing on the beach by barriers installed to prevent sea invasion. Other posts claim citizens have died from mines while using Odessa's coastline (the post can be found here [graphic content warning]). It also goes without saying that photos depicting the actions of a select group of people may not necessarily reflect the actions and attitudes of others. In 2020, thousands of people visited public beaches and parks in the U.S. and Europe in spite of COVID-19 social distancing restrictions, no working vaccines, and large case numbers. For many it becomes a show of defiance, as the liberties taken away during these types of crises become more important than the risks of exercising them (although with fighting in Kyiv far less frequent than in other parts of the country, that sense of risk may be diminished for now). What the tweets by Alex Belfield (who has published misleading claims elsewhere) and others seemingly lack are both the well-documented evidence of the conflict, and a more nuanced understanding of how people strive for normality even in despairing circumstances. The Ruling False. The photos shared on Twitter do not disprove the existence or intensity of the conflict in Ukraine. While there are photos of people enjoying the beaches in Kyiv, this is not proof that the conflict has been exaggerated by the media. Moreover, footage in embattled parts of the country appears to show residents doing the same thing despite the heightened risk, as they seek to maintain some sense of normality in a brutal war. FACT CHECK BY Newsweek's Fact Check team Newsweek is committed to challenging conventional wisdom and finding connections in the search for common ground. Newsweek is committed to challenging conventional wisdom and finding connections in the search for common ground. Newsletters in your inbox See all Company Editions: Contact Terms of Use © 2024 NEWSWEEK DIGITAL LLC ... [Content truncated]",
+                    "content_num": 1000
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "CNN Site Map (Articles) for August - 2023",
+                "htmlTitle": "CNN Site Map (Articles) for <b>August</b> - <b>2023</b>",
+                "link": "https://www.cnn.com/article/sitemap-2023-8.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "2023-08-24Could Fed Chair Powell's Jackson Hole speech send stocks plunging again? 2023-08-24Trump turns the unthinkable into reality in 2024 campaign; 2023-08- ...",
+                "htmlSnippet": "<b>2023</b>-08-24Could Fed Chair Powell&#39;s Jackson Hole speech send stocks plunging again? <b>2023</b>-08-24Trump turns the unthinkable into <b>reality</b> in 2024 campaign; <b>2023</b>-08-&nbsp;...",
+                "formattedUrl": "https://www.cnn.com/article/sitemap-2023-8.html",
+                "htmlFormattedUrl": "https://www.cnn.com/article/sitemap-<b>2023</b>-8.html",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "twitter:card": "summary_large_image",
+                            "fb:app_id": "80401312489",
+                            "og:site_name": "CNN",
+                            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+                            "fb:pages": "5550296508,18793419640"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.cnn.com/article/sitemap-2023-8.html: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+                    "content_num": 0
+                }
+            }
+        }
+    ]
+}
