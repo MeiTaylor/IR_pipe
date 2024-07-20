@@ -1,0 +1,902 @@
+2024-07-20 07:49:55,159 - MainThread - WARNING - ----------------------------------
+2024-07-20 07:49:55,159 - MainThread - WARNING - --------- Claim Verifier ---------
+2024-07-20 07:49:55,159 - MainThread - WARNING - ----------------------------------
+2024-07-20 07:49:56,386 - MainThread - INFO - prompt_for_claim_verifier
+2024-07-20 07:49:56,386 - MainThread - INFO - 
+    {
+      "Claim": "Online video showed U.S. President Donald Trump visiting Maui in the aftermath of the August 2023 wildfires.",
+      "Video_information": {'Video_description_from_descriptor': "The video captures scenes of volunteers engaging in post-hurricane cleanup efforts, emphasizing community resilience and support. President Trump is featured delivering a speech, instilling a sense of unity and encouragement among the volunteers. Key frames display social media posts with messages like 'A Real President Truly cares' and '#TRUMP2024', as well as images of individuals surrounded by supportive crowds, reinforcing themes of care, patriotism, and collective action. The visuals highlight the spirit of volunteerism and public service, intertwining with political messaging promoting a specific candidacy for the presidency. The juxtaposition of disaster response, political discourse, and online engagement underscores a multifaceted narrative of civic duty, leadership, and social media advocacy within the context of post-disaster recovery efforts."},
+      "QA_CONTEXTS": {},
+      "Task": "Based on the content of the Video_information and the QA_CONTEXTS, accurately and rigorously determine whether the claim is true or false. Can we determine the truthfulness of the claim based on the existing information? Please provide a reliability probability, and clearly answer 'Yes' (the existing information can determine the truthfulness) or 'No' (the existing information cannot determine the truthfulness). Answer 'Yes' only if the reliability probability is sufficiently high.",
+      "Prediction": ""
+    }
+
+    The final output should include only a reliability probability (0%~100%), and a 'Yes' or 'No' to indicate whether the existing information supports making a judgment on the claim's truthfulness. There should be only one 'Yes' or 'No', along with a reliability probability ranging from 0% to 100%.
+    
+2024-07-20 07:49:56,386 - MainThread - INFO - claim_verifier_answer
+2024-07-20 07:49:56,386 - MainThread - INFO - Reliability Probability: 85%  
+Answer: Yes
+2024-07-20 07:49:57,749 - MainThread - INFO - json_claim_verifier_answer
+2024-07-20 07:49:57,750 - MainThread - INFO - ```json
+{
+  "CVResult": {
+    "Judgment": "Yes",
+    "Confidence": "85%"
+  }
+}
+```
+2024-07-20 07:49:57,751 - MainThread - WARNING - --------------------------------------
+2024-07-20 07:49:57,751 - MainThread - WARNING - --------- Question Generator ---------
+2024-07-20 07:49:57,751 - MainThread - WARNING - --------------------------------------
+2024-07-20 07:49:59,365 - MainThread - INFO - prompt_for_initial_question
+2024-07-20 07:49:59,365 - MainThread - INFO - 
+        {
+          "Claim": "Online video showed U.S. President Donald Trump visiting Maui in the aftermath of the August 2023 wildfires.",
+          "Video_information": {"Video_description_from_descriptor": "The video captures scenes of volunteers engaging in post-hurricane cleanup efforts, emphasizing community resilience and support. President Trump is featured delivering a speech, instilling a sense of unity and encouragement among the volunteers. Key frames display social media posts with messages like 'A Real President Truly cares' and '#TRUMP2024', as well as images of individuals surrounded by supportive crowds, reinforcing themes of care, patriotism, and collective action. The visuals highlight the spirit of volunteerism and public service, intertwining with political messaging promoting a specific candidacy for the presidency. The juxtaposition of disaster response, political discourse, and online engagement underscores a multifaceted narrative of civic duty, leadership, and social media advocacy within the context of post-disaster recovery efforts."},
+          "Task": "Based on the relevant information from the Video_information and Claim, generate a professional and detailed question that can help determine the authenticity of the video content and the Claim. The goal is to assess whether the Claim is a true statement or misinformation. The final output should be a single question, in one sentence, not exceeding 20 words.",
+          "Initial_Question_Generation": {
+            "Question": ""
+          }
+        }
+        
+2024-07-20 07:49:59,365 - MainThread - INFO - initial_question_answer
+2024-07-20 07:49:59,365 - MainThread - INFO - Does the video evidence indicate that President Trump actually visited Maui after the August 2023 wildfires, as claimed?
+2024-07-20 07:50:02,634 - MainThread - INFO - Generated question is not useful. Regenerating...
+2024-07-20 07:50:04,095 - MainThread - INFO - prompt_for_initial_question
+2024-07-20 07:50:04,095 - MainThread - INFO - 
+        {
+          "Claim": "Online video showed U.S. President Donald Trump visiting Maui in the aftermath of the August 2023 wildfires.",
+          "Video_information": {"Video_description_from_descriptor": "The video captures scenes of volunteers engaging in post-hurricane cleanup efforts, emphasizing community resilience and support. President Trump is featured delivering a speech, instilling a sense of unity and encouragement among the volunteers. Key frames display social media posts with messages like 'A Real President Truly cares' and '#TRUMP2024', as well as images of individuals surrounded by supportive crowds, reinforcing themes of care, patriotism, and collective action. The visuals highlight the spirit of volunteerism and public service, intertwining with political messaging promoting a specific candidacy for the presidency. The juxtaposition of disaster response, political discourse, and online engagement underscores a multifaceted narrative of civic duty, leadership, and social media advocacy within the context of post-disaster recovery efforts."},
+          "Task": "Based on the relevant information from the Video_information and Claim, generate a professional and detailed question that can help determine the authenticity of the video content and the Claim. The goal is to assess whether the Claim is a true statement or misinformation. The final output should be a single question, in one sentence, not exceeding 20 words.",
+          "Initial_Question_Generation": {
+            "Question": ""
+          }
+        }
+        
+2024-07-20 07:50:04,095 - MainThread - INFO - initial_question_answer
+2024-07-20 07:50:04,095 - MainThread - INFO - Does the video accurately depict President Trump visiting Maui after the August 2023 wildfires, or is it manipulated content?
+2024-07-20 07:50:07,226 - MainThread - INFO - Generated question is not useful. Regenerating...
+2024-07-20 07:50:08,794 - MainThread - INFO - prompt_for_initial_question
+2024-07-20 07:50:08,794 - MainThread - INFO - 
+        {
+          "Claim": "Online video showed U.S. President Donald Trump visiting Maui in the aftermath of the August 2023 wildfires.",
+          "Video_information": {"Video_description_from_descriptor": "The video captures scenes of volunteers engaging in post-hurricane cleanup efforts, emphasizing community resilience and support. President Trump is featured delivering a speech, instilling a sense of unity and encouragement among the volunteers. Key frames display social media posts with messages like 'A Real President Truly cares' and '#TRUMP2024', as well as images of individuals surrounded by supportive crowds, reinforcing themes of care, patriotism, and collective action. The visuals highlight the spirit of volunteerism and public service, intertwining with political messaging promoting a specific candidacy for the presidency. The juxtaposition of disaster response, political discourse, and online engagement underscores a multifaceted narrative of civic duty, leadership, and social media advocacy within the context of post-disaster recovery efforts."},
+          "Task": "Based on the relevant information from the Video_information and Claim, generate a professional and detailed question that can help determine the authenticity of the video content and the Claim. The goal is to assess whether the Claim is a true statement or misinformation. The final output should be a single question, in one sentence, not exceeding 20 words.",
+          "Initial_Question_Generation": {
+            "Question": ""
+          }
+        }
+        
+2024-07-20 07:50:08,794 - MainThread - INFO - initial_question_answer
+2024-07-20 07:50:08,795 - MainThread - INFO - Is there verified evidence confirming Donald Trump's visit to Maui following the August 2023 wildfires as depicted in the video?
+2024-07-20 07:50:11,857 - MainThread - INFO - Generated question is not useful. Regenerating...
+2024-07-20 07:50:11,857 - MainThread - INFO - Maximum attempts reached. Returning the last generated question.
+2024-07-20 07:50:13,750 - MainThread - INFO - Initial question has been generated and saved successfully.
+2024-07-20 07:50:13,751 - MainThread - INFO - Generated Initial Question: Is there verified evidence confirming Donald Trump's visit to Maui following the August 2023 wildfires as depicted in the video?
+2024-07-20 07:50:13,751 - MainThread - WARNING - -----------------------------------------
+2024-07-20 07:50:13,751 - MainThread - WARNING - --------- INFORMATION RETRIEVER ---------
+2024-07-20 07:50:13,751 - MainThread - WARNING - -----------------------------------------
+2024-07-20 07:50:13,751 - MainThread - WARNING - ---------------------------------------------------------
+2024-07-20 07:50:13,751 - MainThread - WARNING - --------- Does the question need online search? ---------
+2024-07-20 07:50:13,751 - MainThread - WARNING - ---------- Generating search terms in English -----------
+2024-07-20 07:50:13,751 - MainThread - WARNING - ---------------------------------------------------------
+2024-07-20 07:50:13,751 - MainThread - INFO - prompt_for_information_retrieving_verifier_and_queries_generation
+2024-07-20 07:50:13,751 - MainThread - INFO - 
+{
+  "Claim": "Online video showed U.S. President Donald Trump visiting Maui in the aftermath of the August 2023 wildfires.",
+  "Video_information": {"Video_description_from_descriptor": "The video captures scenes of volunteers engaging in post-hurricane cleanup efforts, emphasizing community resilience and support. President Trump is featured delivering a speech, instilling a sense of unity and encouragement among the volunteers. Key frames display social media posts with messages like 'A Real President Truly cares' and '#TRUMP2024', as well as images of individuals surrounded by supportive crowds, reinforcing themes of care, patriotism, and collective action. The visuals highlight the spirit of volunteerism and public service, intertwining with political messaging promoting a specific candidacy for the presidency. The juxtaposition of disaster response, political discourse, and online engagement underscores a multifaceted narrative of civic duty, leadership, and social media advocacy within the context of post-disaster recovery efforts."},
+  "QA_CONTEXTS": {},
+  "New_Question": {
+    "Question": "Is there verified evidence confirming Donald Trump's visit to Maui following the August 2023 wildfires as depicted in the video?"
+  },
+  "Task": "To answer the question, is searching information online needed? Yes or no? If you believe the probability that online search is needed is greater than 80%, give the result as 'Yes' and generate two new queries to search for this information on Google. If the probability is 80% or less, give the result as 'No' and do not provide any queries. The queries should focus on different aspects and not be repetitive. The above 'Claim', 'Video_information', and 'QA_CONTEXTS' are just background information, and the queries should focus on answering the new question. Ensure that the queries are in the format suitable for entering into a Google search.",
+  "Prediction": {
+    "need_online_search": "",
+    "Queries": {
+      "Query 1": "",
+      "Query 2": ""
+    }
+  }
+}
+
+2024-07-20 07:50:15,599 - MainThread - INFO - prompt_for_information_retrieving_verifier_and_queries_generation ANSWER
+2024-07-20 07:50:15,600 - MainThread - INFO - {
+  "Prediction": {
+    "need_online_search": "Yes",
+    "Queries": {
+      "Query 1": "Did Donald Trump visit Maui after the August 2023 wildfires?",
+      "Query 2": "Evidence of Donald Trump's visit to Maui August 2023 wildfires"
+    }
+  }
+}
+2024-07-20 07:50:18,105 - MainThread - INFO - prompt_for_information_retrieving_verifier_and_queries_generation JSON ANSWER
+2024-07-20 07:50:18,105 - MainThread - INFO - ```json
+{
+  "Prediction": {
+    "need_online_search": "Yes",
+    "Queries": {
+      "Query 1": "Did Donald Trump visit Maui after the August 2023 wildfires?",
+      "Query 2": "Evidence of Donald Trump's visit to Maui August 2023 wildfires"
+    }
+  }
+}
+```
+2024-07-20 07:50:18,106 - MainThread - INFO - Online search needed.
+2024-07-20 07:50:18,106 - ThreadPoolExecutor-0_0 - INFO - Processing query key: Query 1, value: Did Donald Trump visit Maui after the August 2023 wildfires?
+2024-07-20 07:50:18,106 - ThreadPoolExecutor-0_1 - INFO - Processing query key: Query 2, value: Evidence of Donald Trump's visit to Maui August 2023 wildfires
+2024-07-20 07:50:18,107 - ThreadPoolExecutor-0_0 - WARNING - -----------------------------------------
+2024-07-20 07:50:18,107 - ThreadPoolExecutor-0_1 - WARNING - -----------------------------------------
+2024-07-20 07:50:18,107 - ThreadPoolExecutor-0_1 - WARNING - --------- LLM Online Fact Check ---------
+2024-07-20 07:50:18,107 - ThreadPoolExecutor-0_1 - WARNING - -----------------------------------------
+2024-07-20 07:50:18,107 - ThreadPoolExecutor-0_0 - WARNING - --------- LLM Online Fact Check ---------
+2024-07-20 07:50:18,107 - ThreadPoolExecutor-0_1 - INFO - prompt_for_LLM_online_answer
+2024-07-20 07:50:18,108 - ThreadPoolExecutor-0_0 - WARNING - -----------------------------------------
+2024-07-20 07:50:18,108 - ThreadPoolExecutor-0_0 - INFO - prompt_for_LLM_online_answer
+2024-07-20 07:50:18,108 - ThreadPoolExecutor-0_0 - INFO - 
+{
+    "Current Searching queries on google": "Did Donald Trump visit Maui after the August 2023 wildfires?",
+    "Task": "Verify the authenticity of the information provided by conducting an online search for fact-checking articles, official statements, or other relevant evidence. Your answer must be based directly on the information retrieved from these online searches."
+}
+
+2024-07-20 07:50:18,108 - ThreadPoolExecutor-0_1 - INFO - 
+{
+    "Current Searching queries on google": "Evidence of Donald Trump's visit to Maui August 2023 wildfires",
+    "Task": "Verify the authenticity of the information provided by conducting an online search for fact-checking articles, official statements, or other relevant evidence. Your answer must be based directly on the information retrieved from these online searches."
+}
+
+2024-07-20 07:50:21,011 - ThreadPoolExecutor-0_0 - INFO - LLM_online Answer
+2024-07-20 07:50:21,012 - ThreadPoolExecutor-0_0 - INFO - I will search for the information to verify whether Donald Trump visited Maui after the August 2023 wildfires. Let me find credible sources to confirm the authenticity of this claim. I'll be right back.
+2024-07-20 07:50:21,458 - ThreadPoolExecutor-0_1 - INFO - LLM_online Answer
+2024-07-20 07:50:21,459 - ThreadPoolExecutor-0_1 - INFO - I am currently checking the information you provided about Donald Trump's visit to Maui during the August 2023 wildfires to verify its authenticity. Let me look up the relevant facts and provide you with accurate information.
+2024-07-20 07:50:22,031 - ThreadPoolExecutor-0_0 - INFO - Online Info Check Answer
+2024-07-20 07:50:22,032 - ThreadPoolExecutor-0_0 - INFO - no
+2024-07-20 07:50:22,032 - ThreadPoolExecutor-0_0 - INFO - prompt_for_LLM_online_answer
+2024-07-20 07:50:22,032 - ThreadPoolExecutor-0_0 - INFO - 
+{
+    "Current Searching queries on google": "Did Donald Trump visit Maui after the August 2023 wildfires?",
+    "Task": "Verify the authenticity of the information provided by conducting an online search for fact-checking articles, official statements, or other relevant evidence. Your answer must be based directly on the information retrieved from these online searches."
+}
+
+2024-07-20 07:50:22,533 - ThreadPoolExecutor-0_1 - INFO - Online Info Check Answer
+2024-07-20 07:50:22,533 - ThreadPoolExecutor-0_1 - INFO - no
+2024-07-20 07:50:22,533 - ThreadPoolExecutor-0_1 - INFO - prompt_for_LLM_online_answer
+2024-07-20 07:50:22,534 - ThreadPoolExecutor-0_1 - INFO - 
+{
+    "Current Searching queries on google": "Evidence of Donald Trump's visit to Maui August 2023 wildfires",
+    "Task": "Verify the authenticity of the information provided by conducting an online search for fact-checking articles, official statements, or other relevant evidence. Your answer must be based directly on the information retrieved from these online searches."
+}
+
+2024-07-20 07:50:24,548 - ThreadPoolExecutor-0_1 - INFO - LLM_online Answer
+2024-07-20 07:50:24,548 - ThreadPoolExecutor-0_1 - INFO - I am currently conducting a search to verify the authenticity of the information about Donald Trump's visit to Maui during the August 2023 wildfires. Let me find the most relevant and reliable sources to confirm whether this information is accurate.
+2024-07-20 07:50:25,241 - ThreadPoolExecutor-0_0 - INFO - LLM_online Answer
+2024-07-20 07:50:25,241 - ThreadPoolExecutor-0_0 - INFO - After searching online, there is no credible information or evidence to verify whether Donald Trump visited Maui after the August 2023 wildfires. It appears that there are no fact-checking articles, official statements, or relevant evidence regarding this specific claim. Without verifiable sources to confirm this information, it is advisable to approach such claims with caution and seek reliable sources for accurate and verified information.
+2024-07-20 07:50:25,512 - ThreadPoolExecutor-0_1 - INFO - Online Info Check Answer
+2024-07-20 07:50:25,512 - ThreadPoolExecutor-0_1 - INFO - no
+2024-07-20 07:50:25,512 - ThreadPoolExecutor-0_1 - INFO - prompt_for_LLM_online_answer
+2024-07-20 07:50:25,512 - ThreadPoolExecutor-0_1 - INFO - 
+{
+    "Current Searching queries on google": "Evidence of Donald Trump's visit to Maui August 2023 wildfires",
+    "Task": "Verify the authenticity of the information provided by conducting an online search for fact-checking articles, official statements, or other relevant evidence. Your answer must be based directly on the information retrieved from these online searches."
+}
+
+2024-07-20 07:50:26,360 - ThreadPoolExecutor-0_0 - INFO - Online Info Check Answer
+2024-07-20 07:50:26,360 - ThreadPoolExecutor-0_0 - INFO - yes
+2024-07-20 07:50:29,328 - ThreadPoolExecutor-0_1 - INFO - LLM_online Answer
+2024-07-20 07:50:29,328 - ThreadPoolExecutor-0_1 - INFO - I found some relevant information regarding the claim about Donald Trump's visit to Maui during the August 2023 wildfires. However, it's important to note that there is no verifiable evidence or information available to confirm this event. It appears that this information may be inaccurate or fabricated. It is essential to rely on credible sources and fact-checking organizations to verify the authenticity of such claims.
+2024-07-20 07:50:30,319 - ThreadPoolExecutor-0_1 - INFO - Online Info Check Answer
+2024-07-20 07:50:30,320 - ThreadPoolExecutor-0_1 - INFO - no
+2024-07-20 07:50:30,320 - ThreadPoolExecutor-0_1 - INFO - prompt_for_LLM_online_answer
+2024-07-20 07:50:30,320 - ThreadPoolExecutor-0_1 - INFO - 
+{
+    "Current Searching queries on google": "Evidence of Donald Trump's visit to Maui August 2023 wildfires",
+    "Task": "Verify the authenticity of the information provided by conducting an online search for fact-checking articles, official statements, or other relevant evidence. Your answer must be based directly on the information retrieved from these online searches."
+}
+
+2024-07-20 07:50:34,124 - ThreadPoolExecutor-0_1 - INFO - LLM_online Answer
+2024-07-20 07:50:34,124 - ThreadPoolExecutor-0_1 - INFO - I found information related to Donald Trump and the Maui wildfires in August 2023. However, there seems to be a misleading video claiming Trump visited Maui amid the wildfires. The reality is that the video actually dates back to 2019 and shows his visit to Alabama after a deadly event there, not Maui[*1*](https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/).
+
+It's important to verify information from credible sources to ensure accuracy.
+2024-07-20 07:50:35,234 - ThreadPoolExecutor-0_1 - INFO - Online Info Check Answer
+2024-07-20 07:50:35,238 - ThreadPoolExecutor-0_1 - INFO - yes
+2024-07-20 07:50:35,239 - MainThread - INFO - 两个线程均执行完毕
+2024-07-20 07:50:35,239 - MainThread - INFO - all_transformed_evidence
+2024-07-20 07:50:35,239 - MainThread - INFO - {'Query 1': {'question': 'Did Donald Trump visit Maui after the August 2023 wildfires?', 'answer': 'After searching online, there is no credible information or evidence to verify whether Donald Trump visited Maui after the August 2023 wildfires. It appears that there are no fact-checking articles, official statements, or relevant evidence regarding this specific claim. Without verifiable sources to confirm this information, it is advisable to approach such claims with caution and seek reliable sources for accurate and verified information.'}, 'Query 2': {'question': "Evidence of Donald Trump's visit to Maui August 2023 wildfires", 'answer': "I found information related to Donald Trump and the Maui wildfires in August 2023. However, there seems to be a misleading video claiming Trump visited Maui amid the wildfires. The reality is that the video actually dates back to 2019 and shows his visit to Alabama after a deadly event there, not Maui[*1*](https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/).\n\nIt's important to verify information from credible sources to ensure accuracy."}}
+2024-07-20 07:50:35,239 - MainThread - INFO - prompt_for_question_answer_based_on_evidence
+2024-07-20 07:50:35,239 - MainThread - INFO - 
+{
+  "Claim": "Online video showed U.S. President Donald Trump visiting Maui in the aftermath of the August 2023 wildfires.",
+  "Video_information": {
+    "Video_description_from_descriptor": "The video captures scenes of volunteers engaging in post-hurricane cleanup efforts, emphasizing community resilience and support. President Trump is featured delivering a speech, instilling a sense of unity and encouragement among the volunteers. Key frames display social media posts with messages like 'A Real President Truly cares' and '#TRUMP2024', as well as images of individuals surrounded by supportive crowds, reinforcing themes of care, patriotism, and collective action. The visuals highlight the spirit of volunteerism and public service, intertwining with political messaging promoting a specific candidacy for the presidency. The juxtaposition of disaster response, political discourse, and online engagement underscores a multifaceted narrative of civic duty, leadership, and social media advocacy within the context of post-disaster recovery efforts."
+},
+  "QA_CONTEXTS": {},
+  "New_Question": {
+    "Question": "Is there verified evidence confirming Donald Trump's visit to Maui following the August 2023 wildfires as depicted in the video?"
+  },
+  "Online_LLM_Answer": {
+    "Query 1": {
+        "question": "Did Donald Trump visit Maui after the August 2023 wildfires?",
+        "answer": "After searching online, there is no credible information or evidence to verify whether Donald Trump visited Maui after the August 2023 wildfires. It appears that there are no fact-checking articles, official statements, or relevant evidence regarding this specific claim. Without verifiable sources to confirm this information, it is advisable to approach such claims with caution and seek reliable sources for accurate and verified information."
+    },
+    "Query 2": {
+        "question": "Evidence of Donald Trump's visit to Maui August 2023 wildfires",
+        "answer": "I found information related to Donald Trump and the Maui wildfires in August 2023. However, there seems to be a misleading video claiming Trump visited Maui amid the wildfires. The reality is that the video actually dates back to 2019 and shows his visit to Alabama after a deadly event there, not Maui[*1*](https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/).\n\nIt's important to verify information from credible sources to ensure accuracy."
+    }
+},
+  "Task": "Evaluate the provided Online_LLM_Answer to determine if it is useful for verifying the claim and video information. The task is to determine if the evidence can help judge whether the Claim and Video_information are fake news. If the evidence can help determine the veracity of the claim, output 'yes'. Otherwise, output 'no'. Additionally, if the Online_LLM_Answer shows that the LLM did not retrieve an answer for any question from online sources, the final output should be 'no'. The output should be a single word: 'yes' or 'no'.",
+  "EvidenceIsUseful": "yes/no"
+}
+
+2024-07-20 07:50:36,322 - MainThread - INFO - validation_evidence_prompt ANSWER
+2024-07-20 07:50:36,322 - MainThread - INFO - yes
+2024-07-20 07:50:37,680 - MainThread - WARNING - ----------------------------------------------------------
+2024-07-20 07:50:37,681 - MainThread - WARNING - --------- Question Anser Model With Online LLM ---------
+2024-07-20 07:50:37,681 - MainThread - WARNING - ----------------------------------------------------------
+2024-07-20 07:50:37,681 - MainThread - INFO - all_transformed_evidence
+2024-07-20 07:50:37,681 - MainThread - INFO - {'Query 1': {'question': 'Did Donald Trump visit Maui after the August 2023 wildfires?', 'answer': 'After searching online, there is no credible information or evidence to verify whether Donald Trump visited Maui after the August 2023 wildfires. It appears that there are no fact-checking articles, official statements, or relevant evidence regarding this specific claim. Without verifiable sources to confirm this information, it is advisable to approach such claims with caution and seek reliable sources for accurate and verified information.'}, 'Query 2': {'question': "Evidence of Donald Trump's visit to Maui August 2023 wildfires", 'answer': "I found information related to Donald Trump and the Maui wildfires in August 2023. However, there seems to be a misleading video claiming Trump visited Maui amid the wildfires. The reality is that the video actually dates back to 2019 and shows his visit to Alabama after a deadly event there, not Maui[*1*](https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/).\n\nIt's important to verify information from credible sources to ensure accuracy."}}
+2024-07-20 07:50:37,681 - MainThread - INFO - prompt_for_question_answer_based_on_evidence
+2024-07-20 07:50:37,681 - MainThread - INFO - 
+    {
+      "Claim": "Online video showed U.S. President Donald Trump visiting Maui in the aftermath of the August 2023 wildfires.",
+      "Video_information": {
+    "Video_description_from_descriptor": "The video captures scenes of volunteers engaging in post-hurricane cleanup efforts, emphasizing community resilience and support. President Trump is featured delivering a speech, instilling a sense of unity and encouragement among the volunteers. Key frames display social media posts with messages like 'A Real President Truly cares' and '#TRUMP2024', as well as images of individuals surrounded by supportive crowds, reinforcing themes of care, patriotism, and collective action. The visuals highlight the spirit of volunteerism and public service, intertwining with political messaging promoting a specific candidacy for the presidency. The juxtaposition of disaster response, political discourse, and online engagement underscores a multifaceted narrative of civic duty, leadership, and social media advocacy within the context of post-disaster recovery efforts."
+},
+      "QA_CONTEXTS": {},
+      "New_Question": {
+        "Question": "Is there verified evidence confirming Donald Trump's visit to Maui following the August 2023 wildfires as depicted in the video?"
+      },
+      "Online_LLM_Answer": {
+    "Query 1": {
+        "question": "Did Donald Trump visit Maui after the August 2023 wildfires?",
+        "answer": "After searching online, there is no credible information or evidence to verify whether Donald Trump visited Maui after the August 2023 wildfires. It appears that there are no fact-checking articles, official statements, or relevant evidence regarding this specific claim. Without verifiable sources to confirm this information, it is advisable to approach such claims with caution and seek reliable sources for accurate and verified information."
+    },
+    "Query 2": {
+        "question": "Evidence of Donald Trump's visit to Maui August 2023 wildfires",
+        "answer": "I found information related to Donald Trump and the Maui wildfires in August 2023. However, there seems to be a misleading video claiming Trump visited Maui amid the wildfires. The reality is that the video actually dates back to 2019 and shows his visit to Alabama after a deadly event there, not Maui[*1*](https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/).\n\nIt's important to verify information from credible sources to ensure accuracy."
+    }
+},
+      "Task": "Based on the evidence extracted, mainly rely on the 'Online_LLM_Answer' to generate an explanatory answer to the question: 'Is there verified evidence confirming Donald Trump's visit to Maui following the August 2023 wildfires as depicted in the video?' that references the evidence. . And evaluate the confidence (XX%) of your answer based on the analysis of the above evaluation of the evidence and the logic of the reasoning process."
+    }
+    
+2024-07-20 07:50:41,851 - MainThread - INFO - prompt_for_question_answer_based_on_evidence ANSWER
+2024-07-20 07:50:41,851 - MainThread - INFO - Based on the information available, there is currently no verified evidence confirming that Donald Trump visited Maui following the August 2023 wildfires, as depicted in the video in question. The "Online_LLM_Answer" highlights that extensive searches yielded no credible information or evidence to support the claim of his visit. Furthermore, the video referenced appears to be misleading: it actually depicts an event from 2019 where Trump visited Alabama after a different disaster, not a visit to Maui. 
+
+Given this analysis, I would evaluate the confidence in the assertion that there is no verified evidence supporting Trump's visit to Maui as **95%**. This high level of confidence is based on the absence of credible sources or fact-checking articles that confirm such a visit and the identification of the video as misleading. It is essential to rely on verified sources when evaluating claims of this nature.
+2024-07-20 07:50:46,713 - MainThread - INFO - QA Model final_json_answer
+2024-07-20 07:50:46,713 - MainThread - INFO - {'QA': {'Question': "Is there verified evidence confirming Donald Trump's visit to Maui following the August 2023 wildfires as depicted in the video?", 'Answer': "Based on the information available, there is currently no verified evidence confirming that Donald Trump visited Maui following the August 2023 wildfires, as depicted in the video in question. The 'Online_LLM_Answer' highlights that extensive searches yielded no credible information or evidence to support the claim of his visit. Furthermore, the video referenced appears to be misleading: it actually depicts an event from 2019 where Trump visited Alabama after a different disaster, not a visit to Maui. Given this analysis, I would evaluate the confidence in the assertion that there is no verified evidence supporting Trump's visit to Maui as 95%. This high level of confidence is based on the absence of credible sources or fact-checking articles that confirm such a visit and the identification of the video as misleading. It is essential to rely on verified sources when evaluating claims of this nature.", 'Confidence': '95%'}}
+2024-07-20 07:50:46,714 - MainThread - INFO - IR results saved to: /workspaces/IR_pipe/zero_shot_llmfnd/Initial_Question_Generation/IR_result.json
+2024-07-20 07:50:46,714 - MainThread - WARNING - --------------------------------
+2024-07-20 07:50:46,714 - MainThread - WARNING - --------- QA validator ---------
+2024-07-20 07:50:46,714 - MainThread - WARNING - --------------------------------
+2024-07-20 07:50:47,733 - MainThread - INFO - prompt_for_validator
+2024-07-20 07:50:47,733 - MainThread - INFO - 
+    {
+    "Claim": "Online video showed U.S. President Donald Trump visiting Maui in the aftermath of the August 2023 wildfires.",
+    "Video_information": {'Video_description_from_descriptor': "The video captures scenes of volunteers engaging in post-hurricane cleanup efforts, emphasizing community resilience and support. President Trump is featured delivering a speech, instilling a sense of unity and encouragement among the volunteers. Key frames display social media posts with messages like 'A Real President Truly cares' and '#TRUMP2024', as well as images of individuals surrounded by supportive crowds, reinforcing themes of care, patriotism, and collective action. The visuals highlight the spirit of volunteerism and public service, intertwining with political messaging promoting a specific candidacy for the presidency. The juxtaposition of disaster response, political discourse, and online engagement underscores a multifaceted narrative of civic duty, leadership, and social media advocacy within the context of post-disaster recovery efforts."},
+    "QA_CONTEXTS": {'Question': "Is there verified evidence confirming Donald Trump's visit to Maui following the August 2023 wildfires as depicted in the video?", 'Prediction': {'need_online_search': 'Yes', 'Queries': {'Query 1': 'Did Donald Trump visit Maui after the August 2023 wildfires?', 'Query 2': "Evidence of Donald Trump's visit to Maui August 2023 wildfires"}}, 'Query 1': {'question': 'Did Donald Trump visit Maui after the August 2023 wildfires?', 'answer': 'After searching online, there is no credible information or evidence to verify whether Donald Trump visited Maui after the August 2023 wildfires. It appears that there are no fact-checking articles, official statements, or relevant evidence regarding this specific claim. Without verifiable sources to confirm this information, it is advisable to approach such claims with caution and seek reliable sources for accurate and verified information.'}, 'Query 2': {'question': "Evidence of Donald Trump's visit to Maui August 2023 wildfires", 'answer': "I found information related to Donald Trump and the Maui wildfires in August 2023. However, there seems to be a misleading video claiming Trump visited Maui amid the wildfires. The reality is that the video actually dates back to 2019 and shows his visit to Alabama after a deadly event there, not Maui[*1*](https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/).\n\nIt's important to verify information from credible sources to ensure accuracy."}, 'QA': {'Question': "Is there verified evidence confirming Donald Trump's visit to Maui following the August 2023 wildfires as depicted in the video?", 'Answer': "Based on the information available, there is currently no verified evidence confirming that Donald Trump visited Maui following the August 2023 wildfires, as depicted in the video in question. The 'Online_LLM_Answer' highlights that extensive searches yielded no credible information or evidence to support the claim of his visit. Furthermore, the video referenced appears to be misleading: it actually depicts an event from 2019 where Trump visited Alabama after a different disaster, not a visit to Maui. Given this analysis, I would evaluate the confidence in the assertion that there is no verified evidence supporting Trump's visit to Maui as 95%. This high level of confidence is based on the absence of credible sources or fact-checking articles that confirm such a visit and the identification of the video as misleading. It is essential to rely on verified sources when evaluating claims of this nature.", 'Confidence': '95%'}},
+    "Task": "Based on the QA_CONTEXTS, is there enough information to determine if the Claim is true or false? Answer only with 'yes' or 'no'. A 'yes' indicates that the Question_Answer pair is valuable for verifying the Claim's accuracy, while a 'no' indicates that it is not valuable."
+    }
+    Answer only with 'yes' or 'no'. A 'yes' indicates that the Question_Answer pair is valuable for verifying the Claim's accuracy, while a 'no' indicates that it is not valuable.
+    Answer only one word 'yes' or' no '
+    Answer only one word 'yes' or' no '
+    
+2024-07-20 07:50:47,733 - MainThread - INFO - validator_result
+2024-07-20 07:50:47,734 - MainThread - INFO - yes
+2024-07-20 07:50:47,734 - MainThread - INFO - Updated CV_result.json with QA data from IR_result.json
+2024-07-20 07:50:47,734 - MainThread - WARNING - ----------------------------------
+2024-07-20 07:50:47,734 - MainThread - WARNING - --------- Claim Verifier ---------
+2024-07-20 07:50:47,734 - MainThread - WARNING - ----------------------------------
+2024-07-20 07:50:48,850 - MainThread - INFO - prompt_for_claim_verifier
+2024-07-20 07:50:48,850 - MainThread - INFO - 
+    {
+      "Claim": "Online video showed U.S. President Donald Trump visiting Maui in the aftermath of the August 2023 wildfires.",
+      "Video_information": {'Video_description_from_descriptor': "The video captures scenes of volunteers engaging in post-hurricane cleanup efforts, emphasizing community resilience and support. President Trump is featured delivering a speech, instilling a sense of unity and encouragement among the volunteers. Key frames display social media posts with messages like 'A Real President Truly cares' and '#TRUMP2024', as well as images of individuals surrounded by supportive crowds, reinforcing themes of care, patriotism, and collective action. The visuals highlight the spirit of volunteerism and public service, intertwining with political messaging promoting a specific candidacy for the presidency. The juxtaposition of disaster response, political discourse, and online engagement underscores a multifaceted narrative of civic duty, leadership, and social media advocacy within the context of post-disaster recovery efforts."},
+      "QA_CONTEXTS": {'Initial_Question_Generation': {'Question': "Is there verified evidence confirming Donald Trump's visit to Maui following the August 2023 wildfires as depicted in the video?", 'Answer': "Based on the information available, there is currently no verified evidence confirming that Donald Trump visited Maui following the August 2023 wildfires, as depicted in the video in question. The 'Online_LLM_Answer' highlights that extensive searches yielded no credible information or evidence to support the claim of his visit. Furthermore, the video referenced appears to be misleading: it actually depicts an event from 2019 where Trump visited Alabama after a different disaster, not a visit to Maui. Given this analysis, I would evaluate the confidence in the assertion that there is no verified evidence supporting Trump's visit to Maui as 95%. This high level of confidence is based on the absence of credible sources or fact-checking articles that confirm such a visit and the identification of the video as misleading. It is essential to rely on verified sources when evaluating claims of this nature.", 'Confidence': '95%'}},
+      "Task": "Based on the content of the Video_information and the QA_CONTEXTS, accurately and rigorously determine whether the claim is true or false. Can we determine the truthfulness of the claim based on the existing information? Please provide a reliability probability, and clearly answer 'Yes' (the existing information can determine the truthfulness) or 'No' (the existing information cannot determine the truthfulness). Answer 'Yes' only if the reliability probability is sufficiently high.",
+      "Prediction": ""
+    }
+
+    The final output should include only a reliability probability (0%~100%), and a 'Yes' or 'No' to indicate whether the existing information supports making a judgment on the claim's truthfulness. There should be only one 'Yes' or 'No', along with a reliability probability ranging from 0% to 100%.
+    
+2024-07-20 07:50:48,850 - MainThread - INFO - claim_verifier_answer
+2024-07-20 07:50:48,851 - MainThread - INFO - 95%, No
+2024-07-20 07:50:50,588 - MainThread - INFO - json_claim_verifier_answer
+2024-07-20 07:50:50,588 - MainThread - INFO - ```json
+{
+  "CVResult": {
+    "Judgment": "No",
+    "Confidence": "95%"
+  }
+}
+```
+2024-07-20 07:50:50,588 - MainThread - INFO - New process_claim_verifier result - Judgment: False, Confidence: 0.95
+2024-07-20 07:50:50,588 - MainThread - INFO - ########## 正在处理第1个问题 ##########
+2024-07-20 07:50:50,589 - MainThread - WARNING - --------------------------------------
+2024-07-20 07:50:50,589 - MainThread - WARNING - --------- Question Generator ---------
+2024-07-20 07:50:50,589 - MainThread - WARNING - --------------------------------------
+2024-07-20 07:50:52,041 - MainThread - INFO - prompt_for_the_follow_up_question
+2024-07-20 07:50:52,041 - MainThread - INFO - 
+        {
+          "Claim": "Online video showed U.S. President Donald Trump visiting Maui in the aftermath of the August 2023 wildfires.",
+          "Video_information": {"Video_description_from_descriptor": "The video captures scenes of volunteers engaging in post-hurricane cleanup efforts, emphasizing community resilience and support. President Trump is featured delivering a speech, instilling a sense of unity and encouragement among the volunteers. Key frames display social media posts with messages like 'A Real President Truly cares' and '#TRUMP2024', as well as images of individuals surrounded by supportive crowds, reinforcing themes of care, patriotism, and collective action. The visuals highlight the spirit of volunteerism and public service, intertwining with political messaging promoting a specific candidacy for the presidency. The juxtaposition of disaster response, political discourse, and online engagement underscores a multifaceted narrative of civic duty, leadership, and social media advocacy within the context of post-disaster recovery efforts."},
+          "QA_CONTEXTS": {"Initial_Question_Generation": {"Question": "Is there verified evidence confirming Donald Trump's visit to Maui following the August 2023 wildfires as depicted in the video?", "Answer": "Based on the information available, there is currently no verified evidence confirming that Donald Trump visited Maui following the August 2023 wildfires, as depicted in the video in question. The 'Online_LLM_Answer' highlights that extensive searches yielded no credible information or evidence to support the claim of his visit. Furthermore, the video referenced appears to be misleading: it actually depicts an event from 2019 where Trump visited Alabama after a different disaster, not a visit to Maui. Given this analysis, I would evaluate the confidence in the assertion that there is no verified evidence supporting Trump's visit to Maui as 95%. This high level of confidence is based on the absence of credible sources or fact-checking articles that confirm such a visit and the identification of the video as misleading. It is essential to rely on verified sources when evaluating claims of this nature.", "Confidence": "95%"}},
+          "Task": "To verify the Claim, generate a professional and detailed follow-up question based on the relevant information from the Claim and Video_information, which are our fundamental sources for identifying misinformation. QA_CONTEXTS are previous QA pairs that can serve as a reference. The goal is to determine the next step in assessing the authenticity of the Claim and Video_information. The final output should be a single question, in one sentence, not exceeding 30 words."
+          Please Note: The final task is to generate a question based on Claim, Video_information, QA_CONTEXTS to help determine the authenticity of this 'Claim'.
+        }
+        
+2024-07-20 07:50:52,041 - MainThread - INFO - follow_up_question_answer
+2024-07-20 07:50:52,042 - MainThread - INFO - What credible sources or fact-checking articles can confirm or deny Donald Trump's alleged visit to Maui after the August 2023 wildfires, as depicted in the video?
+2024-07-20 07:50:55,168 - MainThread - INFO - Generated follow-up question is not useful. Regenerating...
+2024-07-20 07:50:56,734 - MainThread - INFO - prompt_for_the_follow_up_question
+2024-07-20 07:50:56,734 - MainThread - INFO - 
+        {
+          "Claim": "Online video showed U.S. President Donald Trump visiting Maui in the aftermath of the August 2023 wildfires.",
+          "Video_information": {"Video_description_from_descriptor": "The video captures scenes of volunteers engaging in post-hurricane cleanup efforts, emphasizing community resilience and support. President Trump is featured delivering a speech, instilling a sense of unity and encouragement among the volunteers. Key frames display social media posts with messages like 'A Real President Truly cares' and '#TRUMP2024', as well as images of individuals surrounded by supportive crowds, reinforcing themes of care, patriotism, and collective action. The visuals highlight the spirit of volunteerism and public service, intertwining with political messaging promoting a specific candidacy for the presidency. The juxtaposition of disaster response, political discourse, and online engagement underscores a multifaceted narrative of civic duty, leadership, and social media advocacy within the context of post-disaster recovery efforts."},
+          "QA_CONTEXTS": {"Initial_Question_Generation": {"Question": "Is there verified evidence confirming Donald Trump's visit to Maui following the August 2023 wildfires as depicted in the video?", "Answer": "Based on the information available, there is currently no verified evidence confirming that Donald Trump visited Maui following the August 2023 wildfires, as depicted in the video in question. The 'Online_LLM_Answer' highlights that extensive searches yielded no credible information or evidence to support the claim of his visit. Furthermore, the video referenced appears to be misleading: it actually depicts an event from 2019 where Trump visited Alabama after a different disaster, not a visit to Maui. Given this analysis, I would evaluate the confidence in the assertion that there is no verified evidence supporting Trump's visit to Maui as 95%. This high level of confidence is based on the absence of credible sources or fact-checking articles that confirm such a visit and the identification of the video as misleading. It is essential to rely on verified sources when evaluating claims of this nature.", "Confidence": "95%"}},
+          "Task": "To verify the Claim, generate a professional and detailed follow-up question based on the relevant information from the Claim and Video_information, which are our fundamental sources for identifying misinformation. QA_CONTEXTS are previous QA pairs that can serve as a reference. The goal is to determine the next step in assessing the authenticity of the Claim and Video_information. The final output should be a single question, in one sentence, not exceeding 30 words."
+          Please Note: The final task is to generate a question based on Claim, Video_information, QA_CONTEXTS to help determine the authenticity of this 'Claim'.
+        }
+        
+2024-07-20 07:50:56,734 - MainThread - INFO - follow_up_question_answer
+2024-07-20 07:50:56,734 - MainThread - INFO - What credible sources or fact-checking organizations can confirm or deny the authenticity of the video claiming Donald Trump's visit to Maui after the August 2023 wildfires?
+2024-07-20 07:51:00,053 - MainThread - INFO - Generated follow-up question is not useful. Regenerating...
+2024-07-20 07:51:01,543 - MainThread - INFO - prompt_for_the_follow_up_question
+2024-07-20 07:51:01,543 - MainThread - INFO - 
+        {
+          "Claim": "Online video showed U.S. President Donald Trump visiting Maui in the aftermath of the August 2023 wildfires.",
+          "Video_information": {"Video_description_from_descriptor": "The video captures scenes of volunteers engaging in post-hurricane cleanup efforts, emphasizing community resilience and support. President Trump is featured delivering a speech, instilling a sense of unity and encouragement among the volunteers. Key frames display social media posts with messages like 'A Real President Truly cares' and '#TRUMP2024', as well as images of individuals surrounded by supportive crowds, reinforcing themes of care, patriotism, and collective action. The visuals highlight the spirit of volunteerism and public service, intertwining with political messaging promoting a specific candidacy for the presidency. The juxtaposition of disaster response, political discourse, and online engagement underscores a multifaceted narrative of civic duty, leadership, and social media advocacy within the context of post-disaster recovery efforts."},
+          "QA_CONTEXTS": {"Initial_Question_Generation": {"Question": "Is there verified evidence confirming Donald Trump's visit to Maui following the August 2023 wildfires as depicted in the video?", "Answer": "Based on the information available, there is currently no verified evidence confirming that Donald Trump visited Maui following the August 2023 wildfires, as depicted in the video in question. The 'Online_LLM_Answer' highlights that extensive searches yielded no credible information or evidence to support the claim of his visit. Furthermore, the video referenced appears to be misleading: it actually depicts an event from 2019 where Trump visited Alabama after a different disaster, not a visit to Maui. Given this analysis, I would evaluate the confidence in the assertion that there is no verified evidence supporting Trump's visit to Maui as 95%. This high level of confidence is based on the absence of credible sources or fact-checking articles that confirm such a visit and the identification of the video as misleading. It is essential to rely on verified sources when evaluating claims of this nature.", "Confidence": "95%"}},
+          "Task": "To verify the Claim, generate a professional and detailed follow-up question based on the relevant information from the Claim and Video_information, which are our fundamental sources for identifying misinformation. QA_CONTEXTS are previous QA pairs that can serve as a reference. The goal is to determine the next step in assessing the authenticity of the Claim and Video_information. The final output should be a single question, in one sentence, not exceeding 30 words."
+          Please Note: The final task is to generate a question based on Claim, Video_information, QA_CONTEXTS to help determine the authenticity of this 'Claim'.
+        }
+        
+2024-07-20 07:51:01,543 - MainThread - INFO - follow_up_question_answer
+2024-07-20 07:51:01,544 - MainThread - INFO - What are the sources and evidence verifying the accuracy of Donald Trump's depiction in the video regarding his purported visit to Maui after the August 2023 wildfires?
+2024-07-20 07:51:04,593 - MainThread - INFO - Generated follow-up question is not useful. Regenerating...
+2024-07-20 07:51:04,593 - MainThread - INFO - Maximum attempts reached. Returning the last generated follow-up question.
+2024-07-20 07:51:06,426 - MainThread - INFO - Follow-up question has been generated and saved successfully.
+2024-07-20 07:51:06,426 - MainThread - INFO - Follow_Up_Question_1 Generated Question: What sources verify the accuracy of Trump's depiction in the video about his visit to Maui after the August 2023 wildfires?
+2024-07-20 07:51:06,426 - MainThread - WARNING - -----------------------------------------
+2024-07-20 07:51:06,426 - MainThread - WARNING - --------- INFORMATION RETRIEVER ---------
+2024-07-20 07:51:06,426 - MainThread - WARNING - -----------------------------------------
+2024-07-20 07:51:06,426 - MainThread - WARNING - ---------------------------------------------------------
+2024-07-20 07:51:06,426 - MainThread - WARNING - --------- Does the question need online search? ---------
+2024-07-20 07:51:06,427 - MainThread - WARNING - ---------- Generating search terms in English -----------
+2024-07-20 07:51:06,427 - MainThread - WARNING - ---------------------------------------------------------
+2024-07-20 07:51:06,427 - MainThread - INFO - prompt_for_information_retrieving_verifier_and_queries_generation
+2024-07-20 07:51:06,427 - MainThread - INFO - 
+{
+  "Claim": "Online video showed U.S. President Donald Trump visiting Maui in the aftermath of the August 2023 wildfires.",
+  "Video_information": {"Video_description_from_descriptor": "The video captures scenes of volunteers engaging in post-hurricane cleanup efforts, emphasizing community resilience and support. President Trump is featured delivering a speech, instilling a sense of unity and encouragement among the volunteers. Key frames display social media posts with messages like 'A Real President Truly cares' and '#TRUMP2024', as well as images of individuals surrounded by supportive crowds, reinforcing themes of care, patriotism, and collective action. The visuals highlight the spirit of volunteerism and public service, intertwining with political messaging promoting a specific candidacy for the presidency. The juxtaposition of disaster response, political discourse, and online engagement underscores a multifaceted narrative of civic duty, leadership, and social media advocacy within the context of post-disaster recovery efforts."},
+  "QA_CONTEXTS": {"Initial_Question_Generation": {"Question": "Is there verified evidence confirming Donald Trump's visit to Maui following the August 2023 wildfires as depicted in the video?", "Answer": "Based on the information available, there is currently no verified evidence confirming that Donald Trump visited Maui following the August 2023 wildfires, as depicted in the video in question. The 'Online_LLM_Answer' highlights that extensive searches yielded no credible information or evidence to support the claim of his visit. Furthermore, the video referenced appears to be misleading: it actually depicts an event from 2019 where Trump visited Alabama after a different disaster, not a visit to Maui. Given this analysis, I would evaluate the confidence in the assertion that there is no verified evidence supporting Trump's visit to Maui as 95%. This high level of confidence is based on the absence of credible sources or fact-checking articles that confirm such a visit and the identification of the video as misleading. It is essential to rely on verified sources when evaluating claims of this nature.", "Confidence": "95%"}},
+  "New_Question": {
+    "Question": "What sources verify the accuracy of Trump's depiction in the video about his visit to Maui after the August 2023 wildfires?"
+  },
+  "Task": "To answer the question, is searching information online needed? Yes or no? If you believe the probability that online search is needed is greater than 80%, give the result as 'Yes' and generate two new queries to search for this information on Google. If the probability is 80% or less, give the result as 'No' and do not provide any queries. The queries should focus on different aspects and not be repetitive. The above 'Claim', 'Video_information', and 'QA_CONTEXTS' are just background information, and the queries should focus on answering the new question. Ensure that the queries are in the format suitable for entering into a Google search.",
+  "Prediction": {
+    "need_online_search": "",
+    "Queries": {
+      "Query 1": "",
+      "Query 2": ""
+    }
+  }
+}
+
+2024-07-20 07:51:09,662 - MainThread - INFO - prompt_for_information_retrieving_verifier_and_queries_generation ANSWER
+2024-07-20 07:51:09,662 - MainThread - INFO - Based on the information provided, it is clear that there is no verified evidence confirming Donald Trump's visit to Maui following the August 2023 wildfires. Since the context indicates that the video is misleading and refers to a previous event, the need for an online search to verify sources related to the claim is deemed unnecessary.
+
+Thus, the response is as follows:
+
+{
+  "Prediction": {
+    "need_online_search": "No",
+    "Queries": {
+      "Query 1": "",
+      "Query 2": ""
+    }
+  }
+}
+2024-07-20 07:51:11,088 - MainThread - INFO - prompt_for_information_retrieving_verifier_and_queries_generation JSON ANSWER
+2024-07-20 07:51:11,088 - MainThread - INFO - ```json
+{
+  "Prediction": {
+    "need_online_search": "No"
+  }
+}
+```
+2024-07-20 07:51:11,089 - MainThread - INFO - No online search needed.
+2024-07-20 07:51:11,089 - MainThread - WARNING - -------------------------------------------------------------
+2024-07-20 07:51:11,089 - MainThread - WARNING - --------- Question Anser Model Without GoogleSearch ---------
+2024-07-20 07:51:11,089 - MainThread - WARNING - -------------------------------------------------------------
+2024-07-20 07:51:11,089 - MainThread - INFO - prompt_for_question_answer
+2024-07-20 07:51:11,089 - MainThread - INFO - 
+{
+    "Claim": "Online video showed U.S. President Donald Trump visiting Maui in the aftermath of the August 2023 wildfires.",
+    "Video_information": {
+    "Video_description_from_descriptor": "The video captures scenes of volunteers engaging in post-hurricane cleanup efforts, emphasizing community resilience and support. President Trump is featured delivering a speech, instilling a sense of unity and encouragement among the volunteers. Key frames display social media posts with messages like 'A Real President Truly cares' and '#TRUMP2024', as well as images of individuals surrounded by supportive crowds, reinforcing themes of care, patriotism, and collective action. The visuals highlight the spirit of volunteerism and public service, intertwining with political messaging promoting a specific candidacy for the presidency. The juxtaposition of disaster response, political discourse, and online engagement underscores a multifaceted narrative of civic duty, leadership, and social media advocacy within the context of post-disaster recovery efforts."
+},
+    "New_Question": {
+    "Question": "What sources verify the accuracy of Trump's depiction in the video about his visit to Maui after the August 2023 wildfires?"
+    },
+    "Task": "Based on the Claim and the Video_information, generate an explanatory answer to the question: 'What sources verify the accuracy of Trump's depiction in the video about his visit to Maui after the August 2023 wildfires?' that references the evidence.  And evaluate the confidence (XX%) of your answer based on the analysis of the logic of the reasoning process."
+}
+
+2024-07-20 07:51:17,778 - MainThread - INFO - prompt_for_question_answer ANSWER
+2024-07-20 07:51:17,778 - MainThread - INFO - The claim that U.S. President Donald Trump visited Maui in the aftermath of the August 2023 wildfires needs to be substantiated by credible sources to verify its accuracy. 
+
+1. **Official Statements and News Reports**: The primary sources for verifying representative claims about politicians’ visits during emergencies are official statements from relevant government agencies and reputable news outlets. If Trump visited Maui, this should be reported by well-known news organizations (e.g., CNN, The New York Times, etc.) that would typically cover significant political events and visits following a disaster.
+
+2. **Social Media Posts and Engagement Metrics**: The video description mentions social media posts that are integrated into the narrative (e.g., hashtags like '#TRUMP2024'). Checking platforms like Twitter and Facebook for posts by Trump or his official accounts, as well as posts by individuals at the event, can provide supporting evidence for his presence and activities in Maui.
+
+3. **Local Coverage**: Local news stations in Maui or Hawaii more broadly would have reported on significant visits by politicians. Checking for articles from local news sources regarding Trump's potential visit could be vital.
+
+4. **Photographic Evidence**: Images or video footage showing Trump during the mentioned period in Maui would also be essential for verification. News media often publish photos from such events, which can corroborate claims.
+
+In summary, the accuracy of Trump's depiction in the mentioned video can be verified through multiple channels: official statements, news reports from credible outlets, local media coverage, and photographic evidence from the event. Without direct references to such sources, the accuracy of the claim about Trump's visit remains unsubstantiated.
+
+Confidence in this assessment is approximately **75%**, as the reasoning is based on standard practices for verifying political claims, but the absence of specific sources cited in the original information restricts a definitive conclusion.
+2024-07-20 07:51:25,670 - MainThread - INFO - QA Model final_json_answer
+2024-07-20 07:51:25,670 - MainThread - INFO - {'QA': {'Question': "What sources verify the accuracy of Trump's depiction in the video about his visit to Maui after the August 2023 wildfires?", 'Answer': "The claim that U.S. President Donald Trump visited Maui in the aftermath of the August 2023 wildfires needs to be substantiated by credible sources to verify its accuracy.\n\n1. **Official Statements and News Reports**: The primary sources for verifying representative claims about politicians’ visits during emergencies are official statements from relevant government agencies and reputable news outlets. If Trump visited Maui, this should be reported by well-known news organizations (e.g., CNN, The New York Times, etc.) that would typically cover significant political events and visits following a disaster.\n\n2. **Social Media Posts and Engagement Metrics**: The video description mentions social media posts that are integrated into the narrative (e.g., hashtags like '#TRUMP2024'). Checking platforms like Twitter and Facebook for posts by Trump or his official accounts, as well as posts by individuals at the event, can provide supporting evidence for his presence and activities in Maui.\n\n3. **Local Coverage**: Local news stations in Maui or Hawaii more broadly would have reported on significant visits by politicians. Checking for articles from local news sources regarding Trump's potential visit could be vital.\n\n4. **Photographic Evidence**: Images or video footage showing Trump during the mentioned period in Maui would also be essential for verification. News media often publish photos from such events, which can corroborate claims.\n\nIn summary, the accuracy of Trump's depiction in the mentioned video can be verified through multiple channels: official statements, news reports from credible outlets, local media coverage, and photographic evidence from the event. Without direct references to such sources, the accuracy of the claim about Trump's visit remains unsubstantiated.", 'Confidence': '75%'}}
+2024-07-20 07:51:25,671 - MainThread - INFO - all_transformed_evidence
+2024-07-20 07:51:25,671 - MainThread - INFO - {}
+2024-07-20 07:51:25,671 - MainThread - INFO - prompt_for_question_answer_based_on_evidence
+2024-07-20 07:51:25,671 - MainThread - INFO - 
+{
+  "Claim": "Online video showed U.S. President Donald Trump visiting Maui in the aftermath of the August 2023 wildfires.",
+  "Video_information": {
+    "Video_description_from_descriptor": "The video captures scenes of volunteers engaging in post-hurricane cleanup efforts, emphasizing community resilience and support. President Trump is featured delivering a speech, instilling a sense of unity and encouragement among the volunteers. Key frames display social media posts with messages like 'A Real President Truly cares' and '#TRUMP2024', as well as images of individuals surrounded by supportive crowds, reinforcing themes of care, patriotism, and collective action. The visuals highlight the spirit of volunteerism and public service, intertwining with political messaging promoting a specific candidacy for the presidency. The juxtaposition of disaster response, political discourse, and online engagement underscores a multifaceted narrative of civic duty, leadership, and social media advocacy within the context of post-disaster recovery efforts."
+},
+  "QA_CONTEXTS": {
+    "Initial_Question_Generation": {
+        "Question": "Is there verified evidence confirming Donald Trump's visit to Maui following the August 2023 wildfires as depicted in the video?",
+        "Answer": "Based on the information available, there is currently no verified evidence confirming that Donald Trump visited Maui following the August 2023 wildfires, as depicted in the video in question. The 'Online_LLM_Answer' highlights that extensive searches yielded no credible information or evidence to support the claim of his visit. Furthermore, the video referenced appears to be misleading: it actually depicts an event from 2019 where Trump visited Alabama after a different disaster, not a visit to Maui. Given this analysis, I would evaluate the confidence in the assertion that there is no verified evidence supporting Trump's visit to Maui as 95%. This high level of confidence is based on the absence of credible sources or fact-checking articles that confirm such a visit and the identification of the video as misleading. It is essential to rely on verified sources when evaluating claims of this nature.",
+        "Confidence": "95%"
+    }
+},
+  "New_Question": {
+    "Question": "What sources verify the accuracy of Trump's depiction in the video about his visit to Maui after the August 2023 wildfires?"
+  },
+  "Online_LLM_Answer": {},
+  "Task": "Evaluate the provided Online_LLM_Answer to determine if it is useful for verifying the claim and video information. The task is to determine if the evidence can help judge whether the Claim and Video_information are fake news. If the evidence can help determine the veracity of the claim, output 'yes'. Otherwise, output 'no'. Additionally, if the Online_LLM_Answer shows that the LLM did not retrieve an answer for any question from online sources, the final output should be 'no'. The output should be a single word: 'yes' or 'no'.",
+  "EvidenceIsUseful": "yes/no"
+}
+
+2024-07-20 07:51:26,684 - MainThread - INFO - validation_evidence_prompt ANSWER
+2024-07-20 07:51:26,684 - MainThread - INFO - no
+2024-07-20 07:51:28,098 - MainThread - INFO - Some queries failed, retrying...
+2024-07-20 07:51:28,098 - MainThread - INFO - Cleared file contents: /workspaces/IR_pipe/zero_shot_llmfnd/Follow_Up_Question_1/IR_result.json
+2024-07-20 07:51:28,099 - MainThread - WARNING - ---------------------------------------------------------
+2024-07-20 07:51:28,099 - MainThread - WARNING - --------- Does the question need online search? ---------
+2024-07-20 07:51:28,099 - MainThread - WARNING - ---------- Generating search terms in English -----------
+2024-07-20 07:51:28,099 - MainThread - WARNING - ---------------------------------------------------------
+2024-07-20 07:51:28,099 - MainThread - INFO - prompt_for_information_retrieving_verifier_and_queries_generation
+2024-07-20 07:51:28,099 - MainThread - INFO - 
+{
+  "Claim": "Online video showed U.S. President Donald Trump visiting Maui in the aftermath of the August 2023 wildfires.",
+  "Video_information": {"Video_description_from_descriptor": "The video captures scenes of volunteers engaging in post-hurricane cleanup efforts, emphasizing community resilience and support. President Trump is featured delivering a speech, instilling a sense of unity and encouragement among the volunteers. Key frames display social media posts with messages like 'A Real President Truly cares' and '#TRUMP2024', as well as images of individuals surrounded by supportive crowds, reinforcing themes of care, patriotism, and collective action. The visuals highlight the spirit of volunteerism and public service, intertwining with political messaging promoting a specific candidacy for the presidency. The juxtaposition of disaster response, political discourse, and online engagement underscores a multifaceted narrative of civic duty, leadership, and social media advocacy within the context of post-disaster recovery efforts."},
+  "QA_CONTEXTS": {"Initial_Question_Generation": {"Question": "Is there verified evidence confirming Donald Trump's visit to Maui following the August 2023 wildfires as depicted in the video?", "Answer": "Based on the information available, there is currently no verified evidence confirming that Donald Trump visited Maui following the August 2023 wildfires, as depicted in the video in question. The 'Online_LLM_Answer' highlights that extensive searches yielded no credible information or evidence to support the claim of his visit. Furthermore, the video referenced appears to be misleading: it actually depicts an event from 2019 where Trump visited Alabama after a different disaster, not a visit to Maui. Given this analysis, I would evaluate the confidence in the assertion that there is no verified evidence supporting Trump's visit to Maui as 95%. This high level of confidence is based on the absence of credible sources or fact-checking articles that confirm such a visit and the identification of the video as misleading. It is essential to rely on verified sources when evaluating claims of this nature.", "Confidence": "95%"}},
+  "New_Question": {
+    "Question": "What sources verify the accuracy of Trump's depiction in the video about his visit to Maui after the August 2023 wildfires?"
+  },
+  "Task": "To answer the question, is searching information online needed? Yes or no? If you believe the probability that online search is needed is greater than 80%, give the result as 'Yes' and generate two new queries to search for this information on Google. If the probability is 80% or less, give the result as 'No' and do not provide any queries. The queries should focus on different aspects and not be repetitive. The above 'Claim', 'Video_information', and 'QA_CONTEXTS' are just background information, and the queries should focus on answering the new question. Ensure that the queries are in the format suitable for entering into a Google search.",
+  "Prediction": {
+    "need_online_search": "",
+    "Queries": {
+      "Query 1": "",
+      "Query 2": ""
+    }
+  }
+}
+
+2024-07-20 07:51:29,794 - MainThread - INFO - prompt_for_information_retrieving_verifier_and_queries_generation ANSWER
+2024-07-20 07:51:29,794 - MainThread - INFO - {
+  "Prediction": {
+    "need_online_search": "Yes",
+    "Queries": {
+      "Query 1": "Trump visit Maui August 2023 wildfires evidence",
+      "Query 2": "fact check Trump Maui visit video August 2023"
+    }
+  }
+}
+2024-07-20 07:51:32,621 - MainThread - INFO - prompt_for_information_retrieving_verifier_and_queries_generation JSON ANSWER
+2024-07-20 07:51:32,621 - MainThread - INFO - ```json
+{
+  "Prediction": {
+    "need_online_search": "Yes",
+    "Queries": {
+      "Query 1": "Trump visit Maui August 2023 wildfires evidence",
+      "Query 2": "fact check Trump Maui visit video August 2023"
+    }
+  }
+}
+```
+2024-07-20 07:51:32,622 - MainThread - INFO - Online search needed.
+2024-07-20 07:51:32,622 - ThreadPoolExecutor-1_0 - INFO - Processing query key: Query 1, value: Trump visit Maui August 2023 wildfires evidence
+2024-07-20 07:51:32,623 - ThreadPoolExecutor-1_1 - INFO - Processing query key: Query 2, value: fact check Trump Maui visit video August 2023
+2024-07-20 07:51:32,623 - ThreadPoolExecutor-1_1 - WARNING - -----------------------------------------
+2024-07-20 07:51:32,623 - ThreadPoolExecutor-1_0 - WARNING - -----------------------------------------
+2024-07-20 07:51:32,623 - ThreadPoolExecutor-1_1 - WARNING - --------- LLM Online Fact Check ---------
+2024-07-20 07:51:32,623 - ThreadPoolExecutor-1_1 - WARNING - -----------------------------------------
+2024-07-20 07:51:32,623 - ThreadPoolExecutor-1_1 - INFO - prompt_for_LLM_online_answer
+2024-07-20 07:51:32,623 - ThreadPoolExecutor-1_1 - INFO - 
+{
+    "Current Searching queries on google": "fact check Trump Maui visit video August 2023",
+    "Task": "Verify the authenticity of the information provided by conducting an online search for fact-checking articles, official statements, or other relevant evidence. Your answer must be based directly on the information retrieved from these online searches."
+}
+
+2024-07-20 07:51:32,623 - ThreadPoolExecutor-1_0 - WARNING - --------- LLM Online Fact Check ---------
+2024-07-20 07:51:32,624 - ThreadPoolExecutor-1_0 - WARNING - -----------------------------------------
+2024-07-20 07:51:32,625 - ThreadPoolExecutor-1_0 - INFO - prompt_for_LLM_online_answer
+2024-07-20 07:51:32,625 - ThreadPoolExecutor-1_0 - INFO - 
+{
+    "Current Searching queries on google": "Trump visit Maui August 2023 wildfires evidence",
+    "Task": "Verify the authenticity of the information provided by conducting an online search for fact-checking articles, official statements, or other relevant evidence. Your answer must be based directly on the information retrieved from these online searches."
+}
+
+2024-07-20 07:51:35,772 - ThreadPoolExecutor-1_1 - INFO - LLM_online Answer
+2024-07-20 07:51:35,772 - ThreadPoolExecutor-1_1 - INFO - I found some information regarding fact-checking on Trump's Maui visit video in August 2023. Let's explore the results to verify the authenticity of the information.
+2024-07-20 07:51:35,804 - ThreadPoolExecutor-1_0 - INFO - LLM_online Answer
+2024-07-20 07:51:35,804 - ThreadPoolExecutor-1_0 - INFO - I will search for fact-checking articles, official statements, or other relevant evidence to verify the authenticity of the information related to "Trump visit Maui August 2023 wildfires evidence". Let me find credible sources to provide you with accurate information.
+2024-07-20 07:51:36,697 - ThreadPoolExecutor-1_1 - INFO - Online Info Check Answer
+2024-07-20 07:51:36,698 - ThreadPoolExecutor-1_1 - INFO - yes
+2024-07-20 07:51:36,906 - ThreadPoolExecutor-1_0 - INFO - Online Info Check Answer
+2024-07-20 07:51:36,906 - ThreadPoolExecutor-1_0 - INFO - no
+2024-07-20 07:51:36,907 - ThreadPoolExecutor-1_0 - INFO - prompt_for_LLM_online_answer
+2024-07-20 07:51:36,907 - ThreadPoolExecutor-1_0 - INFO - 
+{
+    "Current Searching queries on google": "Trump visit Maui August 2023 wildfires evidence",
+    "Task": "Verify the authenticity of the information provided by conducting an online search for fact-checking articles, official statements, or other relevant evidence. Your answer must be based directly on the information retrieved from these online searches."
+}
+
+2024-07-20 07:51:39,996 - ThreadPoolExecutor-1_0 - INFO - LLM_online Answer
+2024-07-20 07:51:39,996 - ThreadPoolExecutor-1_0 - INFO - I am currently searching for information to verify the authenticity of the query "Trump visit Maui August 2023 wildfires evidence." I will provide you with the most relevant and accurate information based on the search results. Please be patient while I gather the necessary data. Thank you.
+2024-07-20 07:51:40,904 - ThreadPoolExecutor-1_0 - INFO - Online Info Check Answer
+2024-07-20 07:51:40,904 - ThreadPoolExecutor-1_0 - INFO - no
+2024-07-20 07:51:40,904 - ThreadPoolExecutor-1_0 - INFO - prompt_for_LLM_online_answer
+2024-07-20 07:51:40,904 - ThreadPoolExecutor-1_0 - INFO - 
+{
+    "Current Searching queries on google": "Trump visit Maui August 2023 wildfires evidence",
+    "Task": "Verify the authenticity of the information provided by conducting an online search for fact-checking articles, official statements, or other relevant evidence. Your answer must be based directly on the information retrieved from these online searches."
+}
+
+2024-07-20 07:51:44,105 - ThreadPoolExecutor-1_0 - INFO - LLM_online Answer
+2024-07-20 07:51:44,105 - ThreadPoolExecutor-1_0 - INFO - I'm on it. Let me find the most relevant and up-to-date information to verify the authenticity of the information you provided.
+2024-07-20 07:51:45,455 - ThreadPoolExecutor-1_0 - INFO - Online Info Check Answer
+2024-07-20 07:51:45,455 - ThreadPoolExecutor-1_0 - INFO - no
+2024-07-20 07:51:45,455 - ThreadPoolExecutor-1_0 - INFO - prompt_for_LLM_online_answer
+2024-07-20 07:51:45,455 - ThreadPoolExecutor-1_0 - INFO - 
+{
+    "Current Searching queries on google": "Trump visit Maui August 2023 wildfires evidence",
+    "Task": "Verify the authenticity of the information provided by conducting an online search for fact-checking articles, official statements, or other relevant evidence. Your answer must be based directly on the information retrieved from these online searches."
+}
+
+2024-07-20 07:51:48,751 - ThreadPoolExecutor-1_0 - INFO - LLM_online Answer
+2024-07-20 07:51:48,751 - ThreadPoolExecutor-1_0 - INFO - I am here to assist you with the information you are seeking regarding Trump's visit to Maui in August 2023 and wildfires evidence. Let me conduct a search to verify the authenticity of this information.
+2024-07-20 07:51:49,881 - ThreadPoolExecutor-1_0 - INFO - Online Info Check Answer
+2024-07-20 07:51:49,881 - ThreadPoolExecutor-1_0 - INFO - no
+2024-07-20 07:51:49,881 - ThreadPoolExecutor-1_0 - INFO - prompt_for_LLM_online_answer
+2024-07-20 07:51:49,881 - ThreadPoolExecutor-1_0 - INFO - 
+{
+    "Current Searching queries on google": "Trump visit Maui August 2023 wildfires evidence",
+    "Task": "Verify the authenticity of the information provided by conducting an online search for fact-checking articles, official statements, or other relevant evidence. Your answer must be based directly on the information retrieved from these online searches."
+}
+
+2024-07-20 07:51:52,652 - ThreadPoolExecutor-1_0 - INFO - LLM_online Answer
+2024-07-20 07:51:52,652 - ThreadPoolExecutor-1_0 - INFO - I will search for information related to "Trump visit Maui August 2023 wildfires evidence" to verify its authenticity. Let me find the most relevant and up-to-date sources for fact-checking.
+2024-07-20 07:51:53,657 - ThreadPoolExecutor-1_0 - INFO - Online Info Check Answer
+2024-07-20 07:51:53,657 - ThreadPoolExecutor-1_0 - INFO - no
+2024-07-20 07:51:53,658 - MainThread - INFO - 两个线程均执行完毕
+2024-07-20 07:51:53,658 - MainThread - INFO - all_transformed_evidence
+2024-07-20 07:51:53,658 - MainThread - INFO - {'Query 2': {'question': 'fact check Trump Maui visit video August 2023', 'answer': "I found some information regarding fact-checking on Trump's Maui visit video in August 2023. Let's explore the results to verify the authenticity of the information."}}
+2024-07-20 07:51:53,658 - MainThread - INFO - prompt_for_question_answer_based_on_evidence
+2024-07-20 07:51:53,658 - MainThread - INFO - 
+{
+  "Claim": "Online video showed U.S. President Donald Trump visiting Maui in the aftermath of the August 2023 wildfires.",
+  "Video_information": {
+    "Video_description_from_descriptor": "The video captures scenes of volunteers engaging in post-hurricane cleanup efforts, emphasizing community resilience and support. President Trump is featured delivering a speech, instilling a sense of unity and encouragement among the volunteers. Key frames display social media posts with messages like 'A Real President Truly cares' and '#TRUMP2024', as well as images of individuals surrounded by supportive crowds, reinforcing themes of care, patriotism, and collective action. The visuals highlight the spirit of volunteerism and public service, intertwining with political messaging promoting a specific candidacy for the presidency. The juxtaposition of disaster response, political discourse, and online engagement underscores a multifaceted narrative of civic duty, leadership, and social media advocacy within the context of post-disaster recovery efforts."
+},
+  "QA_CONTEXTS": {
+    "Initial_Question_Generation": {
+        "Question": "Is there verified evidence confirming Donald Trump's visit to Maui following the August 2023 wildfires as depicted in the video?",
+        "Answer": "Based on the information available, there is currently no verified evidence confirming that Donald Trump visited Maui following the August 2023 wildfires, as depicted in the video in question. The 'Online_LLM_Answer' highlights that extensive searches yielded no credible information or evidence to support the claim of his visit. Furthermore, the video referenced appears to be misleading: it actually depicts an event from 2019 where Trump visited Alabama after a different disaster, not a visit to Maui. Given this analysis, I would evaluate the confidence in the assertion that there is no verified evidence supporting Trump's visit to Maui as 95%. This high level of confidence is based on the absence of credible sources or fact-checking articles that confirm such a visit and the identification of the video as misleading. It is essential to rely on verified sources when evaluating claims of this nature.",
+        "Confidence": "95%"
+    }
+},
+  "New_Question": {
+    "Question": "What sources verify the accuracy of Trump's depiction in the video about his visit to Maui after the August 2023 wildfires?"
+  },
+  "Online_LLM_Answer": {
+    "Query 2": {
+        "question": "fact check Trump Maui visit video August 2023",
+        "answer": "I found some information regarding fact-checking on Trump's Maui visit video in August 2023. Let's explore the results to verify the authenticity of the information."
+    }
+},
+  "Task": "Evaluate the provided Online_LLM_Answer to determine if it is useful for verifying the claim and video information. The task is to determine if the evidence can help judge whether the Claim and Video_information are fake news. If the evidence can help determine the veracity of the claim, output 'yes'. Otherwise, output 'no'. Additionally, if the Online_LLM_Answer shows that the LLM did not retrieve an answer for any question from online sources, the final output should be 'no'. The output should be a single word: 'yes' or 'no'.",
+  "EvidenceIsUseful": "yes/no"
+}
+
+2024-07-20 07:51:54,836 - MainThread - INFO - validation_evidence_prompt ANSWER
+2024-07-20 07:51:54,836 - MainThread - INFO - no
+2024-07-20 07:51:56,156 - MainThread - INFO - Some queries failed, retrying...
+2024-07-20 07:51:56,157 - MainThread - INFO - Cleared file contents: /workspaces/IR_pipe/zero_shot_llmfnd/Follow_Up_Question_1/IR_result.json
+2024-07-20 07:51:56,157 - MainThread - WARNING - ---------------------------------------------------------
+2024-07-20 07:51:56,157 - MainThread - WARNING - --------- Does the question need online search? ---------
+2024-07-20 07:51:56,157 - MainThread - WARNING - ---------- Generating search terms in English -----------
+2024-07-20 07:51:56,157 - MainThread - WARNING - ---------------------------------------------------------
+2024-07-20 07:51:56,158 - MainThread - INFO - prompt_for_information_retrieving_verifier_and_queries_generation
+2024-07-20 07:51:56,158 - MainThread - INFO - 
+{
+  "Claim": "Online video showed U.S. President Donald Trump visiting Maui in the aftermath of the August 2023 wildfires.",
+  "Video_information": {"Video_description_from_descriptor": "The video captures scenes of volunteers engaging in post-hurricane cleanup efforts, emphasizing community resilience and support. President Trump is featured delivering a speech, instilling a sense of unity and encouragement among the volunteers. Key frames display social media posts with messages like 'A Real President Truly cares' and '#TRUMP2024', as well as images of individuals surrounded by supportive crowds, reinforcing themes of care, patriotism, and collective action. The visuals highlight the spirit of volunteerism and public service, intertwining with political messaging promoting a specific candidacy for the presidency. The juxtaposition of disaster response, political discourse, and online engagement underscores a multifaceted narrative of civic duty, leadership, and social media advocacy within the context of post-disaster recovery efforts."},
+  "QA_CONTEXTS": {"Initial_Question_Generation": {"Question": "Is there verified evidence confirming Donald Trump's visit to Maui following the August 2023 wildfires as depicted in the video?", "Answer": "Based on the information available, there is currently no verified evidence confirming that Donald Trump visited Maui following the August 2023 wildfires, as depicted in the video in question. The 'Online_LLM_Answer' highlights that extensive searches yielded no credible information or evidence to support the claim of his visit. Furthermore, the video referenced appears to be misleading: it actually depicts an event from 2019 where Trump visited Alabama after a different disaster, not a visit to Maui. Given this analysis, I would evaluate the confidence in the assertion that there is no verified evidence supporting Trump's visit to Maui as 95%. This high level of confidence is based on the absence of credible sources or fact-checking articles that confirm such a visit and the identification of the video as misleading. It is essential to rely on verified sources when evaluating claims of this nature.", "Confidence": "95%"}},
+  "New_Question": {
+    "Question": "What sources verify the accuracy of Trump's depiction in the video about his visit to Maui after the August 2023 wildfires?"
+  },
+  "Task": "To answer the question, is searching information online needed? Yes or no? If you believe the probability that online search is needed is greater than 80%, give the result as 'Yes' and generate two new queries to search for this information on Google. If the probability is 80% or less, give the result as 'No' and do not provide any queries. The queries should focus on different aspects and not be repetitive. The above 'Claim', 'Video_information', and 'QA_CONTEXTS' are just background information, and the queries should focus on answering the new question. Ensure that the queries are in the format suitable for entering into a Google search.",
+  "Prediction": {
+    "need_online_search": "",
+    "Queries": {
+      "Query 1": "",
+      "Query 2": ""
+    }
+  }
+}
+
+2024-07-20 07:51:58,317 - MainThread - INFO - prompt_for_information_retrieving_verifier_and_queries_generation ANSWER
+2024-07-20 07:51:58,317 - MainThread - INFO - {
+  "Prediction": {
+    "need_online_search": "Yes",
+    "Queries": {
+      "Query 1": "Trump visit Maui August 2023 wildfires news",
+      "Query 2": "does Trump have verified visit to Maui after August 2023 wildfires"
+    }
+  }
+}
+2024-07-20 07:52:00,328 - MainThread - INFO - prompt_for_information_retrieving_verifier_and_queries_generation JSON ANSWER
+2024-07-20 07:52:00,328 - MainThread - INFO - ```json
+{
+  "Prediction": {
+    "need_online_search": "Yes",
+    "Queries": {
+      "Query 1": "Trump visit Maui August 2023 wildfires news",
+      "Query 2": "does Trump have verified visit to Maui after August 2023 wildfires"
+    }
+  }
+}
+```
+2024-07-20 07:52:00,329 - MainThread - INFO - Online search needed.
+2024-07-20 07:52:00,329 - ThreadPoolExecutor-2_0 - INFO - Processing query key: Query 1, value: Trump visit Maui August 2023 wildfires news
+2024-07-20 07:52:00,329 - ThreadPoolExecutor-2_1 - INFO - Processing query key: Query 2, value: does Trump have verified visit to Maui after August 2023 wildfires
+2024-07-20 07:52:00,330 - ThreadPoolExecutor-2_1 - WARNING - -----------------------------------------
+2024-07-20 07:52:00,330 - ThreadPoolExecutor-2_1 - WARNING - --------- LLM Online Fact Check ---------
+2024-07-20 07:52:00,330 - ThreadPoolExecutor-2_1 - WARNING - -----------------------------------------
+2024-07-20 07:52:00,330 - ThreadPoolExecutor-2_1 - INFO - prompt_for_LLM_online_answer
+2024-07-20 07:52:00,330 - ThreadPoolExecutor-2_1 - INFO - 
+{
+    "Current Searching queries on google": "does Trump have verified visit to Maui after August 2023 wildfires",
+    "Task": "Verify the authenticity of the information provided by conducting an online search for fact-checking articles, official statements, or other relevant evidence. Your answer must be based directly on the information retrieved from these online searches."
+}
+
+2024-07-20 07:52:00,329 - ThreadPoolExecutor-2_0 - WARNING - -----------------------------------------
+2024-07-20 07:52:00,331 - ThreadPoolExecutor-2_0 - WARNING - --------- LLM Online Fact Check ---------
+2024-07-20 07:52:00,331 - ThreadPoolExecutor-2_0 - WARNING - -----------------------------------------
+2024-07-20 07:52:00,331 - ThreadPoolExecutor-2_0 - INFO - prompt_for_LLM_online_answer
+2024-07-20 07:52:00,331 - ThreadPoolExecutor-2_0 - INFO - 
+{
+    "Current Searching queries on google": "Trump visit Maui August 2023 wildfires news",
+    "Task": "Verify the authenticity of the information provided by conducting an online search for fact-checking articles, official statements, or other relevant evidence. Your answer must be based directly on the information retrieved from these online searches."
+}
+
+2024-07-20 07:52:04,154 - ThreadPoolExecutor-2_0 - INFO - LLM_online Answer
+2024-07-20 07:52:04,155 - ThreadPoolExecutor-2_0 - INFO - I found information related to the August 2023 wildfires in Maui. However, there doesn't seem to be any specific information or news about a visit by Trump to Maui in relation to the wildfires in August 2023. This indicates that there is no factual evidence or reports suggesting that Trump visited Maui during the wildfires in August 2023. It is essential to rely on verified sources and official statements to confirm the authenticity of such claims.
+
+If you need more specific details or have any other questions, feel free to let me know!
+2024-07-20 07:52:05,240 - ThreadPoolExecutor-2_1 - INFO - LLM_online Answer
+2024-07-20 07:52:05,240 - ThreadPoolExecutor-2_1 - INFO - Based on the search results, there is **no verified visit** of Donald Trump to Maui after the August 2023 wildfires. The claim circulating online that Trump visited Maui after the wildfires is **misleading** and **false**.
+
+- A **fact-check article** from **[USA Today](https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/)** confirms that a video claiming to show Trump visiting Maui is actually a **2019 video of his visit to Alabama** after a deadly event.
+
+- **[Snopes](https://www.snopes.com/fact-check/trump-visit-maui-wildfires/)** also notes that the claim about Trump visiting Maui after the August 2023 fires is **false**.
+
+Therefore, the information suggesting that Donald Trump visited Maui after the August 2023 wildfires is **not accurate** and **lacks evidence**.
+2024-07-20 07:52:05,257 - ThreadPoolExecutor-2_0 - INFO - Online Info Check Answer
+2024-07-20 07:52:05,258 - ThreadPoolExecutor-2_0 - INFO - no
+2024-07-20 07:52:05,258 - ThreadPoolExecutor-2_0 - INFO - prompt_for_LLM_online_answer
+2024-07-20 07:52:05,258 - ThreadPoolExecutor-2_0 - INFO - 
+{
+    "Current Searching queries on google": "Trump visit Maui August 2023 wildfires news",
+    "Task": "Verify the authenticity of the information provided by conducting an online search for fact-checking articles, official statements, or other relevant evidence. Your answer must be based directly on the information retrieved from these online searches."
+}
+
+2024-07-20 07:52:06,212 - ThreadPoolExecutor-2_1 - INFO - Online Info Check Answer
+2024-07-20 07:52:06,213 - ThreadPoolExecutor-2_1 - INFO - yes
+2024-07-20 07:52:09,324 - ThreadPoolExecutor-2_0 - INFO - LLM_online Answer
+2024-07-20 07:52:09,324 - ThreadPoolExecutor-2_0 - INFO - I found information related to the August 2023 wildfires on Maui, Hawaii, but there doesn't seem to be specific details regarding a visit by Trump in relation to the wildfires during that time. The primary focus of the coverage was on the wildfires themselves, the devastating impact, emergency response efforts, and support provided to the affected communities.
+
+For accurate and verified information, it is essential to rely on reputable news sources, official statements, or government reports related to the Maui wildfires in August 2023.
+
+In this case, it is recommended to refer to sources such as official government websites, news outlets, or reports from organizations involved in responding to the wildfires for the most credible and accurate information regarding Trump's visit and its relation to the wildfires in August 2023.
+2024-07-20 07:52:10,727 - ThreadPoolExecutor-2_0 - INFO - Online Info Check Answer
+2024-07-20 07:52:10,727 - ThreadPoolExecutor-2_0 - INFO - no
+2024-07-20 07:52:10,728 - ThreadPoolExecutor-2_0 - INFO - prompt_for_LLM_online_answer
+2024-07-20 07:52:10,728 - ThreadPoolExecutor-2_0 - INFO - 
+{
+    "Current Searching queries on google": "Trump visit Maui August 2023 wildfires news",
+    "Task": "Verify the authenticity of the information provided by conducting an online search for fact-checking articles, official statements, or other relevant evidence. Your answer must be based directly on the information retrieved from these online searches."
+}
+
+2024-07-20 07:52:14,678 - ThreadPoolExecutor-2_0 - INFO - LLM_online Answer
+2024-07-20 07:52:14,678 - ThreadPoolExecutor-2_0 - INFO - I have searched for information regarding Trump's visit to Maui in August 2023 and any related news about wildfires during that time, and I couldn't find any relevant information to verify the authenticity of this claim. It seems like there is no information available about Trump visiting Maui in August 2023 or any wildfires occurring during that period. If you have any other queries or need assistance with a different topic, feel free to let me know!
+2024-07-20 07:52:15,742 - ThreadPoolExecutor-2_0 - INFO - Online Info Check Answer
+2024-07-20 07:52:15,742 - ThreadPoolExecutor-2_0 - INFO - no
+2024-07-20 07:52:15,743 - ThreadPoolExecutor-2_0 - INFO - prompt_for_LLM_online_answer
+2024-07-20 07:52:15,743 - ThreadPoolExecutor-2_0 - INFO - 
+{
+    "Current Searching queries on google": "Trump visit Maui August 2023 wildfires news",
+    "Task": "Verify the authenticity of the information provided by conducting an online search for fact-checking articles, official statements, or other relevant evidence. Your answer must be based directly on the information retrieved from these online searches."
+}
+
+2024-07-20 07:52:18,970 - ThreadPoolExecutor-2_0 - INFO - LLM_online Answer
+2024-07-20 07:52:18,970 - ThreadPoolExecutor-2_0 - INFO - I will find the relevant information regarding Trump visiting Maui in August 2023 and any related news about wildfires during that time for fact-checking. Let me begin the search.
+2024-07-20 07:52:20,198 - ThreadPoolExecutor-2_0 - INFO - Online Info Check Answer
+2024-07-20 07:52:20,199 - ThreadPoolExecutor-2_0 - INFO - no
+2024-07-20 07:52:20,199 - ThreadPoolExecutor-2_0 - INFO - prompt_for_LLM_online_answer
+2024-07-20 07:52:20,199 - ThreadPoolExecutor-2_0 - INFO - 
+{
+    "Current Searching queries on google": "Trump visit Maui August 2023 wildfires news",
+    "Task": "Verify the authenticity of the information provided by conducting an online search for fact-checking articles, official statements, or other relevant evidence. Your answer must be based directly on the information retrieved from these online searches."
+}
+
+2024-07-20 07:52:23,566 - ThreadPoolExecutor-2_0 - INFO - LLM_online Answer
+2024-07-20 07:52:23,566 - ThreadPoolExecutor-2_0 - INFO - Based on the search query provided for fact-checking articles regarding Trump's visit to Maui in August 2023 and wildfires news, I was unable to find any relevant or credible sources to verify the authenticity of this information. It seems that there are no factual articles or official statements available to confirm this specific event.
+2024-07-20 07:52:24,576 - ThreadPoolExecutor-2_0 - INFO - Online Info Check Answer
+2024-07-20 07:52:24,576 - ThreadPoolExecutor-2_0 - INFO - no
+2024-07-20 07:52:24,576 - MainThread - INFO - 两个线程均执行完毕
+2024-07-20 07:52:24,576 - MainThread - INFO - all_transformed_evidence
+2024-07-20 07:52:24,576 - MainThread - INFO - {'Query 2': {'question': 'does Trump have verified visit to Maui after August 2023 wildfires', 'answer': 'Based on the search results, there is **no verified visit** of Donald Trump to Maui after the August 2023 wildfires. The claim circulating online that Trump visited Maui after the wildfires is **misleading** and **false**.\n\n- A **fact-check article** from **[USA Today](https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/)** confirms that a video claiming to show Trump visiting Maui is actually a **2019 video of his visit to Alabama** after a deadly event.\n\n- **[Snopes](https://www.snopes.com/fact-check/trump-visit-maui-wildfires/)** also notes that the claim about Trump visiting Maui after the August 2023 fires is **false**.\n\nTherefore, the information suggesting that Donald Trump visited Maui after the August 2023 wildfires is **not accurate** and **lacks evidence**.'}}
+2024-07-20 07:52:24,577 - MainThread - INFO - prompt_for_question_answer_based_on_evidence
+2024-07-20 07:52:24,577 - MainThread - INFO - 
+{
+  "Claim": "Online video showed U.S. President Donald Trump visiting Maui in the aftermath of the August 2023 wildfires.",
+  "Video_information": {
+    "Video_description_from_descriptor": "The video captures scenes of volunteers engaging in post-hurricane cleanup efforts, emphasizing community resilience and support. President Trump is featured delivering a speech, instilling a sense of unity and encouragement among the volunteers. Key frames display social media posts with messages like 'A Real President Truly cares' and '#TRUMP2024', as well as images of individuals surrounded by supportive crowds, reinforcing themes of care, patriotism, and collective action. The visuals highlight the spirit of volunteerism and public service, intertwining with political messaging promoting a specific candidacy for the presidency. The juxtaposition of disaster response, political discourse, and online engagement underscores a multifaceted narrative of civic duty, leadership, and social media advocacy within the context of post-disaster recovery efforts."
+},
+  "QA_CONTEXTS": {
+    "Initial_Question_Generation": {
+        "Question": "Is there verified evidence confirming Donald Trump's visit to Maui following the August 2023 wildfires as depicted in the video?",
+        "Answer": "Based on the information available, there is currently no verified evidence confirming that Donald Trump visited Maui following the August 2023 wildfires, as depicted in the video in question. The 'Online_LLM_Answer' highlights that extensive searches yielded no credible information or evidence to support the claim of his visit. Furthermore, the video referenced appears to be misleading: it actually depicts an event from 2019 where Trump visited Alabama after a different disaster, not a visit to Maui. Given this analysis, I would evaluate the confidence in the assertion that there is no verified evidence supporting Trump's visit to Maui as 95%. This high level of confidence is based on the absence of credible sources or fact-checking articles that confirm such a visit and the identification of the video as misleading. It is essential to rely on verified sources when evaluating claims of this nature.",
+        "Confidence": "95%"
+    }
+},
+  "New_Question": {
+    "Question": "What sources verify the accuracy of Trump's depiction in the video about his visit to Maui after the August 2023 wildfires?"
+  },
+  "Online_LLM_Answer": {
+    "Query 2": {
+        "question": "does Trump have verified visit to Maui after August 2023 wildfires",
+        "answer": "Based on the search results, there is **no verified visit** of Donald Trump to Maui after the August 2023 wildfires. The claim circulating online that Trump visited Maui after the wildfires is **misleading** and **false**.\n\n- A **fact-check article** from **[USA Today](https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/)** confirms that a video claiming to show Trump visiting Maui is actually a **2019 video of his visit to Alabama** after a deadly event.\n\n- **[Snopes](https://www.snopes.com/fact-check/trump-visit-maui-wildfires/)** also notes that the claim about Trump visiting Maui after the August 2023 fires is **false**.\n\nTherefore, the information suggesting that Donald Trump visited Maui after the August 2023 wildfires is **not accurate** and **lacks evidence**."
+    }
+},
+  "Task": "Evaluate the provided Online_LLM_Answer to determine if it is useful for verifying the claim and video information. The task is to determine if the evidence can help judge whether the Claim and Video_information are fake news. If the evidence can help determine the veracity of the claim, output 'yes'. Otherwise, output 'no'. Additionally, if the Online_LLM_Answer shows that the LLM did not retrieve an answer for any question from online sources, the final output should be 'no'. The output should be a single word: 'yes' or 'no'.",
+  "EvidenceIsUseful": "yes/no"
+}
+
+2024-07-20 07:52:25,588 - MainThread - INFO - validation_evidence_prompt ANSWER
+2024-07-20 07:52:25,589 - MainThread - INFO - yes
+2024-07-20 07:52:27,050 - MainThread - WARNING - ----------------------------------------------------------
+2024-07-20 07:52:27,050 - MainThread - WARNING - --------- Question Anser Model With Online LLM ---------
+2024-07-20 07:52:27,050 - MainThread - WARNING - ----------------------------------------------------------
+2024-07-20 07:52:27,050 - MainThread - INFO - all_transformed_evidence
+2024-07-20 07:52:27,050 - MainThread - INFO - {'Query 2': {'question': 'does Trump have verified visit to Maui after August 2023 wildfires', 'answer': 'Based on the search results, there is **no verified visit** of Donald Trump to Maui after the August 2023 wildfires. The claim circulating online that Trump visited Maui after the wildfires is **misleading** and **false**.\n\n- A **fact-check article** from **[USA Today](https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/)** confirms that a video claiming to show Trump visiting Maui is actually a **2019 video of his visit to Alabama** after a deadly event.\n\n- **[Snopes](https://www.snopes.com/fact-check/trump-visit-maui-wildfires/)** also notes that the claim about Trump visiting Maui after the August 2023 fires is **false**.\n\nTherefore, the information suggesting that Donald Trump visited Maui after the August 2023 wildfires is **not accurate** and **lacks evidence**.'}}
+2024-07-20 07:52:27,051 - MainThread - INFO - prompt_for_question_answer_based_on_evidence
+2024-07-20 07:52:27,051 - MainThread - INFO - 
+    {
+      "Claim": "Online video showed U.S. President Donald Trump visiting Maui in the aftermath of the August 2023 wildfires.",
+      "Video_information": {
+    "Video_description_from_descriptor": "The video captures scenes of volunteers engaging in post-hurricane cleanup efforts, emphasizing community resilience and support. President Trump is featured delivering a speech, instilling a sense of unity and encouragement among the volunteers. Key frames display social media posts with messages like 'A Real President Truly cares' and '#TRUMP2024', as well as images of individuals surrounded by supportive crowds, reinforcing themes of care, patriotism, and collective action. The visuals highlight the spirit of volunteerism and public service, intertwining with political messaging promoting a specific candidacy for the presidency. The juxtaposition of disaster response, political discourse, and online engagement underscores a multifaceted narrative of civic duty, leadership, and social media advocacy within the context of post-disaster recovery efforts."
+},
+      "QA_CONTEXTS": {
+    "Initial_Question_Generation": {
+        "Question": "Is there verified evidence confirming Donald Trump's visit to Maui following the August 2023 wildfires as depicted in the video?",
+        "Answer": "Based on the information available, there is currently no verified evidence confirming that Donald Trump visited Maui following the August 2023 wildfires, as depicted in the video in question. The 'Online_LLM_Answer' highlights that extensive searches yielded no credible information or evidence to support the claim of his visit. Furthermore, the video referenced appears to be misleading: it actually depicts an event from 2019 where Trump visited Alabama after a different disaster, not a visit to Maui. Given this analysis, I would evaluate the confidence in the assertion that there is no verified evidence supporting Trump's visit to Maui as 95%. This high level of confidence is based on the absence of credible sources or fact-checking articles that confirm such a visit and the identification of the video as misleading. It is essential to rely on verified sources when evaluating claims of this nature.",
+        "Confidence": "95%"
+    }
+},
+      "New_Question": {
+        "Question": "What sources verify the accuracy of Trump's depiction in the video about his visit to Maui after the August 2023 wildfires?"
+      },
+      "Online_LLM_Answer": {
+    "Query 2": {
+        "question": "does Trump have verified visit to Maui after August 2023 wildfires",
+        "answer": "Based on the search results, there is **no verified visit** of Donald Trump to Maui after the August 2023 wildfires. The claim circulating online that Trump visited Maui after the wildfires is **misleading** and **false**.\n\n- A **fact-check article** from **[USA Today](https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/)** confirms that a video claiming to show Trump visiting Maui is actually a **2019 video of his visit to Alabama** after a deadly event.\n\n- **[Snopes](https://www.snopes.com/fact-check/trump-visit-maui-wildfires/)** also notes that the claim about Trump visiting Maui after the August 2023 fires is **false**.\n\nTherefore, the information suggesting that Donald Trump visited Maui after the August 2023 wildfires is **not accurate** and **lacks evidence**."
+    }
+},
+      "Task": "Based on the evidence extracted, mainly rely on the 'Online_LLM_Answer' to generate an explanatory answer to the question: 'What sources verify the accuracy of Trump's depiction in the video about his visit to Maui after the August 2023 wildfires?' that references the evidence. . And evaluate the confidence (XX%) of your answer based on the analysis of the above evaluation of the evidence and the logic of the reasoning process."
+    }
+    
+2024-07-20 07:52:32,682 - MainThread - INFO - prompt_for_question_answer_based_on_evidence ANSWER
+2024-07-20 07:52:32,682 - MainThread - INFO - Based on the information extracted from the 'Online_LLM_Answer', there are currently no sources that verify the accuracy of Donald Trump's depiction in the video regarding his visit to Maui after the August 2023 wildfires. The claims suggesting that Trump visited Maui in this context are deemed misleading and false.
+
+1. A **fact-check article from USA Today** confirms that the video in question is not recent but instead shows Trump's visit to Alabama in 2019, following a different disaster. The link to this fact-check can be found [here](https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/).
+  
+2. **Snopes** also supports this conclusion, stating that the assertion of Trump's visit to Maui post-wildfires is false. Further details can be accessed [here](https://www.snopes.com/fact-check/trump-visit-maui-wildfires/).
+
+Therefore, the claim that Donald Trump visited Maui after the wildfires lacks credible evidence and is outright refuted by reliable sources. Given this analysis, I would evaluate my confidence in the assertion that there is no verified evidence supporting Trump's visit to Maui as **95%**. This high level of confidence arises from the unanimous findings of established fact-checking organizations that affirm the misleading nature of the video and the lack of evidence for the claim.
+2024-07-20 07:52:38,157 - MainThread - INFO - QA Model final_json_answer
+2024-07-20 07:52:38,157 - MainThread - INFO - {'QA': {'Question': "What sources verify the accuracy of Trump's depiction in the video about his visit to Maui after the August 2023 wildfires?", 'Answer': "Based on the information extracted from the 'Online_LLM_Answer', there are currently no sources that verify the accuracy of Donald Trump's depiction in the video regarding his visit to Maui after the August 2023 wildfires. The claims suggesting that Trump visited Maui in this context are deemed misleading and false.\n\n1. A fact-check article from USA Today confirms that the video in question is not recent but instead shows Trump's visit to Alabama in 2019, following a different disaster. The link to this fact-check can be found [here](https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/).\n  \n2. Snopes also supports this conclusion, stating that the assertion of Trump's visit to Maui post-wildfires is false. Further details can be accessed [here](https://www.snopes.com/fact-check/trump-visit-maui-wildfires/).\n\nTherefore, the claim that Donald Trump visited Maui after the wildfires lacks credible evidence and is outright refuted by reliable sources.", 'Confidence': '95%'}}
+2024-07-20 07:52:38,158 - MainThread - INFO - IR results saved to: /workspaces/IR_pipe/zero_shot_llmfnd/Follow_Up_Question_1/IR_result.json
+2024-07-20 07:52:38,158 - MainThread - WARNING - --------------------------------
+2024-07-20 07:52:38,158 - MainThread - WARNING - --------- QA validator ---------
+2024-07-20 07:52:38,158 - MainThread - WARNING - --------------------------------
+2024-07-20 07:52:39,060 - MainThread - INFO - prompt_for_validator
+2024-07-20 07:52:39,060 - MainThread - INFO - 
+    {
+    "Claim": "Online video showed U.S. President Donald Trump visiting Maui in the aftermath of the August 2023 wildfires.",
+    "Video_information": {'Video_description_from_descriptor': "The video captures scenes of volunteers engaging in post-hurricane cleanup efforts, emphasizing community resilience and support. President Trump is featured delivering a speech, instilling a sense of unity and encouragement among the volunteers. Key frames display social media posts with messages like 'A Real President Truly cares' and '#TRUMP2024', as well as images of individuals surrounded by supportive crowds, reinforcing themes of care, patriotism, and collective action. The visuals highlight the spirit of volunteerism and public service, intertwining with political messaging promoting a specific candidacy for the presidency. The juxtaposition of disaster response, political discourse, and online engagement underscores a multifaceted narrative of civic duty, leadership, and social media advocacy within the context of post-disaster recovery efforts."},
+    "QA_CONTEXTS": {'Question': "What sources verify the accuracy of Trump's depiction in the video about his visit to Maui after the August 2023 wildfires?", 'Prediction': {'need_online_search': 'Yes', 'Queries': {'Query 1': 'Trump visit Maui August 2023 wildfires news', 'Query 2': 'does Trump have verified visit to Maui after August 2023 wildfires'}}, 'Query 2': {'question': 'does Trump have verified visit to Maui after August 2023 wildfires', 'answer': 'Based on the search results, there is **no verified visit** of Donald Trump to Maui after the August 2023 wildfires. The claim circulating online that Trump visited Maui after the wildfires is **misleading** and **false**.\n\n- A **fact-check article** from **[USA Today](https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/)** confirms that a video claiming to show Trump visiting Maui is actually a **2019 video of his visit to Alabama** after a deadly event.\n\n- **[Snopes](https://www.snopes.com/fact-check/trump-visit-maui-wildfires/)** also notes that the claim about Trump visiting Maui after the August 2023 fires is **false**.\n\nTherefore, the information suggesting that Donald Trump visited Maui after the August 2023 wildfires is **not accurate** and **lacks evidence**.'}, 'QA': {'Question': "What sources verify the accuracy of Trump's depiction in the video about his visit to Maui after the August 2023 wildfires?", 'Answer': "Based on the information extracted from the 'Online_LLM_Answer', there are currently no sources that verify the accuracy of Donald Trump's depiction in the video regarding his visit to Maui after the August 2023 wildfires. The claims suggesting that Trump visited Maui in this context are deemed misleading and false.\n\n1. A fact-check article from USA Today confirms that the video in question is not recent but instead shows Trump's visit to Alabama in 2019, following a different disaster. The link to this fact-check can be found [here](https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/).\n  \n2. Snopes also supports this conclusion, stating that the assertion of Trump's visit to Maui post-wildfires is false. Further details can be accessed [here](https://www.snopes.com/fact-check/trump-visit-maui-wildfires/).\n\nTherefore, the claim that Donald Trump visited Maui after the wildfires lacks credible evidence and is outright refuted by reliable sources.", 'Confidence': '95%'}},
+    "Task": "Based on the QA_CONTEXTS, is there enough information to determine if the Claim is true or false? Answer only with 'yes' or 'no'. A 'yes' indicates that the Question_Answer pair is valuable for verifying the Claim's accuracy, while a 'no' indicates that it is not valuable."
+    }
+    Answer only with 'yes' or 'no'. A 'yes' indicates that the Question_Answer pair is valuable for verifying the Claim's accuracy, while a 'no' indicates that it is not valuable.
+    Answer only one word 'yes' or' no '
+    Answer only one word 'yes' or' no '
+    
+2024-07-20 07:52:39,060 - MainThread - INFO - validator_result
+2024-07-20 07:52:39,060 - MainThread - INFO - yes
+2024-07-20 07:52:39,060 - MainThread - INFO - Updated CV_result.json with QA data from IR_result.json
+2024-07-20 07:52:39,061 - MainThread - WARNING - ----------------------------------
+2024-07-20 07:52:39,061 - MainThread - WARNING - --------- Claim Verifier ---------
+2024-07-20 07:52:39,061 - MainThread - WARNING - ----------------------------------
+2024-07-20 07:52:39,985 - MainThread - INFO - prompt_for_claim_verifier
+2024-07-20 07:52:39,986 - MainThread - INFO - 
+    {
+      "Claim": "Online video showed U.S. President Donald Trump visiting Maui in the aftermath of the August 2023 wildfires.",
+      "Video_information": {'Video_description_from_descriptor': "The video captures scenes of volunteers engaging in post-hurricane cleanup efforts, emphasizing community resilience and support. President Trump is featured delivering a speech, instilling a sense of unity and encouragement among the volunteers. Key frames display social media posts with messages like 'A Real President Truly cares' and '#TRUMP2024', as well as images of individuals surrounded by supportive crowds, reinforcing themes of care, patriotism, and collective action. The visuals highlight the spirit of volunteerism and public service, intertwining with political messaging promoting a specific candidacy for the presidency. The juxtaposition of disaster response, political discourse, and online engagement underscores a multifaceted narrative of civic duty, leadership, and social media advocacy within the context of post-disaster recovery efforts."},
+      "QA_CONTEXTS": {'Initial_Question_Generation': {'Question': "Is there verified evidence confirming Donald Trump's visit to Maui following the August 2023 wildfires as depicted in the video?", 'Answer': "Based on the information available, there is currently no verified evidence confirming that Donald Trump visited Maui following the August 2023 wildfires, as depicted in the video in question. The 'Online_LLM_Answer' highlights that extensive searches yielded no credible information or evidence to support the claim of his visit. Furthermore, the video referenced appears to be misleading: it actually depicts an event from 2019 where Trump visited Alabama after a different disaster, not a visit to Maui. Given this analysis, I would evaluate the confidence in the assertion that there is no verified evidence supporting Trump's visit to Maui as 95%. This high level of confidence is based on the absence of credible sources or fact-checking articles that confirm such a visit and the identification of the video as misleading. It is essential to rely on verified sources when evaluating claims of this nature.", 'Confidence': '95%'}, 'Follow_Up_Question_1': {'Question': "What sources verify the accuracy of Trump's depiction in the video about his visit to Maui after the August 2023 wildfires?", 'Answer': "Based on the information extracted from the 'Online_LLM_Answer', there are currently no sources that verify the accuracy of Donald Trump's depiction in the video regarding his visit to Maui after the August 2023 wildfires. The claims suggesting that Trump visited Maui in this context are deemed misleading and false.\n\n1. A fact-check article from USA Today confirms that the video in question is not recent but instead shows Trump's visit to Alabama in 2019, following a different disaster. The link to this fact-check can be found [here](https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/).\n  \n2. Snopes also supports this conclusion, stating that the assertion of Trump's visit to Maui post-wildfires is false. Further details can be accessed [here](https://www.snopes.com/fact-check/trump-visit-maui-wildfires/).\n\nTherefore, the claim that Donald Trump visited Maui after the wildfires lacks credible evidence and is outright refuted by reliable sources.", 'Confidence': '95%'}},
+      "Task": "Based on the content of the Video_information and the QA_CONTEXTS, accurately and rigorously determine whether the claim is true or false. Can we determine the truthfulness of the claim based on the existing information? Please provide a reliability probability, and clearly answer 'Yes' (the existing information can determine the truthfulness) or 'No' (the existing information cannot determine the truthfulness). Answer 'Yes' only if the reliability probability is sufficiently high.",
+      "Prediction": ""
+    }
+
+    The final output should include only a reliability probability (0%~100%), and a 'Yes' or 'No' to indicate whether the existing information supports making a judgment on the claim's truthfulness. There should be only one 'Yes' or 'No', along with a reliability probability ranging from 0% to 100%.
+    
+2024-07-20 07:52:39,986 - MainThread - INFO - claim_verifier_answer
+2024-07-20 07:52:39,986 - MainThread - INFO - 95%, Yes
+2024-07-20 07:52:41,317 - MainThread - INFO - json_claim_verifier_answer
+2024-07-20 07:52:41,318 - MainThread - INFO - ```json
+{
+  "CVResult": {
+    "Judgment": "Yes",
+    "Confidence": "95%"
+  }
+}
+```
+2024-07-20 07:52:41,318 - MainThread - INFO - New process_claim_verifier result - Judgment: True, Confidence: 0.95
+2024-07-20 07:52:41,318 - MainThread - WARNING - ----------------------------------
+2024-07-20 07:52:41,318 - MainThread - WARNING - --------- Final Reasoner ---------
+2024-07-20 07:52:41,319 - MainThread - WARNING - ----------------------------------
+2024-07-20 07:52:45,549 - MainThread - INFO - prompt_for_reasoner
+2024-07-20 07:52:45,549 - MainThread - INFO - 
+{
+  "Claim": "Online video showed U.S. President Donald Trump visiting Maui in the aftermath of the August 2023 wildfires.",
+  "Video_information": {'Video_description_from_descriptor': "The video captures scenes of volunteers engaging in post-hurricane cleanup efforts, emphasizing community resilience and support. President Trump is featured delivering a speech, instilling a sense of unity and encouragement among the volunteers. Key frames display social media posts with messages like 'A Real President Truly cares' and '#TRUMP2024', as well as images of individuals surrounded by supportive crowds, reinforcing themes of care, patriotism, and collective action. The visuals highlight the spirit of volunteerism and public service, intertwining with political messaging promoting a specific candidacy for the presidency. The juxtaposition of disaster response, political discourse, and online engagement underscores a multifaceted narrative of civic duty, leadership, and social media advocacy within the context of post-disaster recovery efforts."},
+  "QA_CONTEXTS": {'Initial_Question_Generation': {'Question': "Is there verified evidence confirming Donald Trump's visit to Maui following the August 2023 wildfires as depicted in the video?", 'Answer': "Based on the information available, there is currently no verified evidence confirming that Donald Trump visited Maui following the August 2023 wildfires, as depicted in the video in question. The 'Online_LLM_Answer' highlights that extensive searches yielded no credible information or evidence to support the claim of his visit. Furthermore, the video referenced appears to be misleading: it actually depicts an event from 2019 where Trump visited Alabama after a different disaster, not a visit to Maui. Given this analysis, I would evaluate the confidence in the assertion that there is no verified evidence supporting Trump's visit to Maui as 95%. This high level of confidence is based on the absence of credible sources or fact-checking articles that confirm such a visit and the identification of the video as misleading. It is essential to rely on verified sources when evaluating claims of this nature.", 'Confidence': '95%'}, 'Follow_Up_Question_1': {'Question': "What sources verify the accuracy of Trump's depiction in the video about his visit to Maui after the August 2023 wildfires?", 'Answer': "Based on the information extracted from the 'Online_LLM_Answer', there are currently no sources that verify the accuracy of Donald Trump's depiction in the video regarding his visit to Maui after the August 2023 wildfires. The claims suggesting that Trump visited Maui in this context are deemed misleading and false.\n\n1. A fact-check article from USA Today confirms that the video in question is not recent but instead shows Trump's visit to Alabama in 2019, following a different disaster. The link to this fact-check can be found [here](https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/).\n  \n2. Snopes also supports this conclusion, stating that the assertion of Trump's visit to Maui post-wildfires is false. Further details can be accessed [here](https://www.snopes.com/fact-check/trump-visit-maui-wildfires/).\n\nTherefore, the claim that Donald Trump visited Maui after the wildfires lacks credible evidence and is outright refuted by reliable sources.", 'Confidence': '95%'}},
+  "Task": "Is this Claim true or false considering the provided Video information? And which information type does it belong to: Real, Unverified, Outdated, or False? If 'False,' specify the type: False video description, Video Clip Edit, Computer-generated Imagery, False speech, Staged Video, Text-Video Contradictory, Text unsupported by the video. Please provide your reasoning process. Ensure the final answer addresses all the following aspects: Answer, Reasons, Therefore, the Claim authenticity is, The information type is, If it is false, the specific type of False Information is.",
+  "Output_Answer_Format": {
+    "Answer": "",
+    "Reasons": "",
+    "Therefore, the Claim authenticity is": "",
+    "The information type is": "",
+    "If it is false, the specific type of False Information is": ""
+  },
+"Please Note": "Make sure to address Answer, Reasons, Therefore, the Claim authenticity is, The information type is, If it is false, the specific type of False Information is, specifically based on the provided Video information."
+}
+
+2024-07-20 07:52:45,549 - MainThread - INFO - reasoner  answer
+2024-07-20 07:52:45,549 - MainThread - INFO - {
+  "Answer": "False",
+  "Reasons": "The claim that Donald Trump visited Maui following the August 2023 wildfires is incorrect. The video in question does not depict a recent event; instead, it shows Trump addressing a crowd in Alabama in 2019 after a different disaster. Fact-checking sources confirm that this video is misleading and does not represent Trump's visit to Maui during the specified timeframe.",
+  "Therefore, the Claim authenticity is": "False",
+  "The information type is": "False",
+  "If it is false, the specific type of False Information is": "False video description"
+}
+2024-07-20 07:52:48,314 - MainThread - INFO - 声明处理结果已生成并成功保存。
+2024-07-20 07:52:48,314 - MainThread - INFO - final_json_answer 
+{'Final_Judgement': {'Answer': 'False', 'Reasons': "The claim that Donald Trump visited Maui following the August 2023 wildfires is incorrect. The video in question does not depict a recent event; instead, it shows Trump addressing a crowd in Alabama in 2019 after a different disaster. Fact-checking sources confirm that this video is misleading and does not represent Trump's visit to Maui during the specified timeframe.", 'Therefore, the Claim authenticity is': 'False', 'The information type is': 'False', 'The specific type of False Information is': 'False video description'}}
