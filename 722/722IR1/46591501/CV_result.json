@@ -1,0 +1,22 @@
+{
+    "Claim": "A video shows North Korean leader Kim Jong Un and Russian President Vladimir Putin toasting each other then placing their drinks on the table without consuming them.",
+    "Video_information": {
+        "Video_description_from_descriptor": "The video opens with a man in a black suit standing at a podium, holding a glass of wine, and appearing to deliver a speech or presentation in a formal setting with blue curtains in the background. The focus then shifts to another man in a suit standing at a table, also holding a glass of wine and giving a speech at the same event. Throughout the video, the man in the black suit with the wine glass remains the central figure, although both men are speaking. The scenes depict interactions between the individuals, highlighting moments of toasting and gestures with the glasses of wine. The setting suggests a formal event or ceremony, with microphone setups on the tables indicating a structured gathering. The key frames capture various interactions between the two men, showcasing subtle moments of trust issues or skepticism humorously referenced in the captions. These moments include both men holding glasses of what is presumed to be champagne, engaging in dialogue or gestures, and maintaining a serious demeanor. The occurrences culminate with the man in the black suit finishing his speech, implying a conclusion to the event or presentation. Overall, the video portrays a sequence of formal interactions and speeches at an organized function, emphasizing the dynamic between the two suited men through moments of raising glasses and engaging in speech delivery."
+    },
+    "Initial_Question_Generation": {
+        "Question": "Does the video show Kim Jong Un and Vladimir Putin drinking after toasting?",
+        "Answer": "The video does not show Kim Jong Un and Vladimir Putin drinking after toasting. Although the claim suggests that the two leaders raised their glasses for a toast and then placed their drinks down without consuming, this portrayal has been manipulated. According to fact-checking sources, the video was edited to reverse the actual sequence of events, which indicates that after toasting, both leaders did sip from their drinks. This information has been confirmed by Snopes, stating that the video gives a false impression of the encounter, which actually ended with both leaders drinking from their glasses after raising them in a toast. Moreover, additional context from various reports indicates that during a banquet, they did drink Russian wine and engaged in toasting amidst discussions of their diplomatic ties. Therefore, the evidence suggests that the original video misrepresents the true sequence by not showing the drinking that followed the toast.",
+        "Confidence": "95%"
+    },
+    "CVResult": {
+        "Judgment": "Yes",
+        "Confidence": "95%"
+    },
+    "Final_Judgement": {
+        "Answer": "False",
+        "Reasons": "The claim suggests that both leaders toasted and then did not drink from their glasses. However, fact-checking indicates that the video was manipulated to reverse the actual sequence of events, where after toasting, they both did sip from their drinks. The framing of the video gives a misleading impression about their actions during the event. Therefore, it misrepresents the actual interaction.",
+        "Therefore, the Claim authenticity is": "False",
+        "The information type is": "False",
+        "The specific type of False Information is": "False video description"
+    }
+}

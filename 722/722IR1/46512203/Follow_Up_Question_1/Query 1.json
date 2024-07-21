@@ -1,0 +1,702 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - fact check Trump Maui visit August 2023 wildfires",
+                "totalResults": "391000",
+                "searchTerms": "fact check Trump Maui visit August 2023 wildfires",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - fact check Trump Maui visit August 2023 wildfires",
+                "totalResults": "391000",
+                "searchTerms": "fact check Trump Maui visit August 2023 wildfires",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.264891,
+        "formattedSearchTime": "0.26",
+        "totalResults": "391000",
+        "formattedTotalResults": "391,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Does Video Show Trump Visiting Maui After August 2023 Fires ...",
+                "htmlTitle": "Does Video Show <b>Trump Visiting Maui</b> After <b>August 2023 Fires</b> ...",
+                "link": "https://www.snopes.com/fact-check/trump-visit-maui-wildfires/",
+                "displayLink": "www.snopes.com",
+                "snippet": "Aug 17, 2023 ... Fact Check. Does Video Show Trump Visiting Maui After August 2023 Fires? The claim spread after massive fires that burned in Maui in August ...",
+                "htmlSnippet": "Aug 17, 2023 <b>...</b> <b>Fact Check</b>. Does Video Show <b>Trump Visiting Maui</b> After <b>August 2023 Fires</b>? The claim spread after massive <b>fires</b> that burned in <b>Maui</b> in <b>August</b>&nbsp;...",
+                "formattedUrl": "https://www.snopes.com/fact-check/trump-visit-maui-wildfires/",
+                "htmlFormattedUrl": "https://www.snopes.com/<b>fact</b>-<b>check</b>/<b>trump</b>-<b>visit</b>-<b>maui</b>-<b>wildfires</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDADipbseZiBnWgRrRs0ET0nHS5QNE3TVeY2Epv9kZzoMyYpSHu36MIYk&s",
+                            "width": "277",
+                            "height": "182"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2023/08/trump_alabama_2019.jpg",
+                            "theme-color": "#ffffff",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-08-17 19:26:47",
+                            "og:site_name": "Snopes",
+                            "apple-mobile-web-app-title": "Snopes.com",
+                            "twitter:creator": "@snopes",
+                            "og:description": "The claim spread after massive fires that burned in Maui in August 2023 left more than 100 people dead at the time of this writing.",
+                            "twitter:image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2023/08/trump_alabama_2019.jpg",
+                            "article:publisher": "https://www.facebook.com/snopes",
+                            "twitter:site": "@snopes",
+                            "article:modified_time": "2023-08-17 19:27:33",
+                            "msapplication-tilecolor": "#000000",
+                            "twitter:title": "Does Video Show Trump Visiting Maui After August 2023 Fires?",
+                            "og:type": "article",
+                            "og:title": "Does Video Show Trump Visiting Maui After August 2023 Fires?",
+                            "fb:pages": "120680396518",
+                            "article:author": "Izz Scott LaMagdeleine",
+                            "article:tag": "Donald Trump",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "viewport": "width=device-width, initial-scale=1.0,minimum-scale=1.0, maximum-scale=5.0",
+                            "apple-mobile-web-app-capable": "yes",
+                            "mobile-web-app-capable": "yes",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.snopes.com//fact-check/trump-visit-maui-wildfires/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2023/08/trump_alabama_2019.jpg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-08-17T12:26:47Z",
+                            "claimReviewed": "Online video showed U.S. President Donald Trump",
+                            "url": "https://www.snopes.com//fact-check/trump-visit-maui-wildfires/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The claim spread after massive fires that burned in Maui in August 2023 left more than 100 people dead at the time of this writing. ----------------------------------------------------------------------------------------------------------------------------------- ### Published Aug. 17, 2023 Claim: Online video showed U.S. President Donald Trump visiting Maui in the aftermath of the August 2023 wildfires. Context The footage actually showed Trump visiting Beauregard, Alabama in 2019 after a tornado killed nearly two dozen people in the area. In August 2023, social media users shared a video clip purporting to show that former U.S. President Donald Trump had visited Maui, an island in Hawaii, in the aftermath of that left a swath of destruction and more than 100 people dead as of this writing. \"The People's President, Donald J. Trump and our Beautiful First Lady Melania Trump, checking up on the people of Maui after the #MauiFires,\" an X (formerly known as Twitter) post on Aug. 16, 2023. According to the post, the video showed Trump and his wife, former first lady Melania Trump, walking through wreckage with a FEMA truck in the background, as well as Trump speaking to a group of people saying he had met some of the survivors and family members. > TRUMP Visits Maui Hawaii, A Real President Truly cares.???? > > — STEVE #DREAM BIG...just enjoy the moment (@stevehalilovic) In addition, we found the same claim being trumpeted on other social media platforms, like . This footage didn't show Trump visiting Maui. Instead, this was footage from when he visited Beauregard, Alabama, in 2019, after a tornado killed nearly two dozen people in the area. In the video clip, Trump is heard saying: > These are incredible people. We just met some of the survivors and family members, and what they've been through is incredible. One woman lost 10 people in ... [Content truncated]",
+                    "content_tokens": 300
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Video falsely claims Trump visited Maui amid wildfires| Fact check",
+                "htmlTitle": "Video falsely claims <b>Trump visited Maui</b> amid <b>wildfires</b>| <b>Fact check</b>",
+                "link": "https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/",
+                "displayLink": "www.usatoday.com",
+                "snippet": "Aug 18, 2023 ... There are no credible reports that Trump has gone to visit Maui amid the island's wildfires. However, the former president did give a video ...",
+                "htmlSnippet": "Aug 18, 2023 <b>...</b> There are no credible reports that <b>Trump</b> has gone to <b>visit Maui</b> amid the island&#39;s <b>wildfires</b>. However, the former president did give a video&nbsp;...",
+                "formattedUrl": "https://www.usatoday.com/.../factcheck/2023/...trump-visited-maui...wildfir...",
+                "htmlFormattedUrl": "https://www.usatoday.com/.../<b>factcheck</b>/<b>2023</b>/...<b>trump</b>-<b>visit</b>ed-<b>maui</b>...<b>wildfir</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAV4TSFYdJeWKeHpDRgQYMpKWDCFl55zOVJTshOt5Kl90tz96s9Cw7diBO&s",
+                            "width": "299",
+                            "height": "169"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/17/USAT/70610409007-afp-afp-33-rc-8-u-4.jpg?crop=8255,4665,x0,y419&width=3200&height=1809&format=pjpg&auto=webp",
+                            "apple-itunes-app": "app-id=504631398,app-argument=https://app.adjust.com/ivqo5xe",
+                            "theme-color": "#0098FE",
+                            "og:image:width": "3200",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Video of Trump visiting a storm-destroyed area is from 2019, not Maui fires | Fact check",
+                            "og:site_name": "USA TODAY",
+                            "og:title": "Video of Trump visiting a storm-destroyed area is from 2019, not Maui fires | Fact check",
+                            "og:image:height": "1809",
+                            "google": "notranslate",
+                            "og:description": "A miscaptioned video claimed to show Donald Trump visiting Maui. In reality, it's a 2019 video of his visit to Alabama after a deadly tornado.",
+                            "fb:pages": "13652355666,48958576760,156345381090801,110471702456365,6566864515,137698179626815,315942225236045,927427260614748,183850168300771,1443524575938047,251228454889939,158095147555989,115535341805950,236655713446291,1621466394844549,250325640686,177037772444433,1972936962947967,2047091012096533,535551216797440",
+                            "twitter:creator": "@usatoday",
+                            "article:author": "Gabrielle Settles",
+                            "twitter:image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/17/USAT/70610409007-afp-afp-33-rc-8-u-4.jpg?crop=8255,4665,x0,y419&width=1600&height=800&format=pjpg&auto=webp",
+                            "fb:app_id": "215046668549694",
+                            "twitter:site": "@usatoday",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1",
+                            "twitter:description": "A miscaptioned video claimed to show Donald Trump visiting Maui. In reality, it's a 2019 video of his visit to Alabama after a deadly tornado.",
+                            "article:content_tier": "free",
+                            "og:url": "https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/17/USAT/70610409007-afp-afp-33-rc-8-u-4.jpg?crop=8255,4665,x0,y419&width=3200&height=1809&format=pjpg&auto=webp"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-08-18T14:10:19Z",
+                            "claimReviewed": "Video shows Trump visiting Maui after wildfires",
+                            "url": "https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Video falsely claims Trump visited Maui amid wildfires| Fact check =============== ONLY AT USA TODAY: OUR PORTFOLIO: : 68°F Sunny\") fact-checking Add Topic Video of Trump visiting a storm-destroyed area is from 2019, not Maui fires | Fact check ======================================================================================== Gabrielle Settles] USA TODAY 0:03 1:16 AD SKIP The claim: Video shows Trump visiting Maui after wildfires ---------------------------------------------------------- An Aug. 16 Facebook video (, ) shows a TikTok video that features former President Donald Trump and former first lady Melania Trump walking past a FEMA truck in a disaster-struck area and talking with people in a building filled with supplies and clothes. “THE PEOPLE'S PRESIDENT,” reads text on the screen. “Thank you Mr. Trump for checking on the people of Maui!” The Facebook video was shared over 900 times in one day, while the original TikTok video has been shared more than 7,000 times. **Follow us on Facebook!** Our rating: False ----------------- The video is years old and shows the former president's 2019 visit to Alabama after a tornado damaged part of the state. Trump has not visited the Hawaiian island of Maui following the devastating wildfires there that killed more than 100 in early August. Video shows Trump visiting Alabama in 2019 ------------------------------------------ At least have died in wildfires that consumed parts of Maui, the second-largest of the Hawaiian islands, since . But there is no evidence the former president has visited the island. The video shared on Facebook shows then-president Trump delivering remarks to a group of people at Providence Baptist Church in Opelika, Alabama, on March 8, 2019, after the area was struck by a tornado that caused serious damage and left injured. The church was serving as a disaster relief center for those affected. The White House shared footage of the visit on the same day. ... [Content truncated]",
+                    "content_tokens": 300
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Post Makes False Claim About Children Missing After Maui Wildfires ...",
+                "htmlTitle": "Post Makes False Claim About Children Missing After <b>Maui Wildfires</b> ...",
+                "link": "https://www.factcheck.org/2023/09/post-makes-false-claim-about-children-missing-after-maui-wildfires/",
+                "displayLink": "www.factcheck.org",
+                "snippet": "Sep 20, 2023 ... McDonald, Jessica. “High Winds, Drought Conditions Led to Maui Fires, No Evidence Intentionally Set.” FactCheck.org. 18 Aug 2023. Izevbigie, ...",
+                "htmlSnippet": "Sep 20, 2023 <b>...</b> McDonald, Jessica. “High Winds, Drought Conditions Led to <b>Maui Fires</b>, No Evidence Intentionally Set.” <b>FactCheck</b>.org. <b>18 Aug 2023</b>. Izevbigie,&nbsp;...",
+                "formattedUrl": "https://www.factcheck.org/2023/.../post-makes-false-claim-about-children-...",
+                "htmlFormattedUrl": "https://www.<b>factcheck</b>.org/<b>2023</b>/.../post-makes-false-claim-about-children-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvcfWELoOP0Ytw6GkspqJafsoqnS_aRI3oUGazlBIaebwArsQACYq3lL-p&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cdn.factcheck.org/UploadedFiles/GettyImages-1664607364smaller.jpg",
+                            "theme-color": "#ffffff",
+                            "article:published_time": "2023-09-20T20:37:24+00:00",
+                            "og:image:width": "1500",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "FactCheck.org",
+                            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "/ms-icon-144x144.png",
+                            "og:description": "The wildfires in Maui caused widespread destruction on the island and claimed the lives of 97 people. The Maui Police Department and the FBI have released the list of 31 individuals still unaccounted for following the fire. Yet an Instagram post falsely claims \"over 1,000 children are missing.\"",
+                            "twitter:creator": "@factcheckdotorg",
+                            "article:publisher": "https://www.facebook.com/factcheck.org",
+                            "twitter:data1": "Blossom Izevbigie",
+                            "twitter:data2": "5 minutes",
+                            "twitter:site": "@factcheckdotorg",
+                            "article:modified_time": "2023-09-20T21:52:40+00:00",
+                            "msapplication-tilecolor": "#ffffff",
+                            "og:type": "article",
+                            "author": "Blossom Izevbigie",
+                            "og:title": "Post Makes False Claim About Children Missing After Maui Wildfires - FactCheck.org",
+                            "og:image:height": "1001",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "apple-mobile-web-app-capable": "yes",
+                            "mobile-web-app-capable": "yes",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.factcheck.org/2023/09/post-makes-false-claim-about-children-missing-after-maui-wildfires/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.factcheck.org/UploadedFiles/GettyImages-1664607364smaller.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "By Blossom Izevbigie Posted on September 20, 2023 The wildfires in Maui caused widespread destruction on the island and claimed the lives of 97 people. The Maui Police Department and the FBI have released the list of 31 individuals still unaccounted for following the fires. Yet an Instagram post falsely claims “over 1,000 children are missing.” The wildfires in Maui started on Aug. 8 and burned for days. They consumed more than 2,000 homes and other structures and largely destroyed Lahaina, a historic community that was hit the hardest by the fires. Following weeks of difficult work using DNA and other methods to confirm and identify the victims of the Maui wildfires, officials announced on Sept. 15 that the death toll was 97, a lower figure than previously reported. Dr. Jeremy Stuelpnagel, the Maui medical examiner, said at a press conference that day, “because of the fire, because of the heat, because of the situation of this being a mass disaster, many of them are down to the bones — some are fragmented.” Stuelpnagel also said, “We’re trying every single modality we have to make sure that we identify these people. It does take a lot of time. This is a mass disaster.” The county of Maui has released reports on those still unaccounted for following the fires. As of Sept. 15, 31 individuals were reported missing from an initial list of more than 3,200 people. A list identifying the missing was released by the Maui Police Department and the FBI, with one person identified as a minor. But an online video, titled “Over 1,000 Missing Children in Maui,” falsely claims that 1,050 kids are “gone without a trace.” The video goes on to say, “They have absolutely no clue where these children are.” The numbers given in the video ... [Content truncated]",
+                    "content_tokens": 300
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Conspiracy theories falsely tie Maui wildfires to 'smart cities' and ...",
+                "htmlTitle": "Conspiracy theories falsely tie <b>Maui wildfires</b> to &#39;smart cities&#39; and ...",
+                "link": "https://apnews.com/article/fact-check-maui-hawaii-wildfires-smart-cities-387327837046",
+                "displayLink": "apnews.com",
+                "snippet": "Published 1:07 PM PDT, August 16, 2023. Share. Share. Copy. Link copied ... He previously wrote for AP Fact Check and before that was based in Boston, ...",
+                "htmlSnippet": "Published 1:07 PM PDT, <b>August</b> 16, <b>2023</b>. Share. Share. Copy. Link copied ... He previously wrote for AP <b>Fact Check</b> and before that was based in Boston,&nbsp;...",
+                "formattedUrl": "https://apnews.com/.../fact-check-maui-hawaii-wildfires-smart-cities-38732...",
+                "htmlFormattedUrl": "https://apnews.com/.../<b>fact</b>-<b>check</b>-<b>maui</b>-hawaii-<b>wildfires</b>-smart-cities-38732...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsGVvByVUgfy_vS7FF6aEjjaIP7xUT59-J4sDygSbXjTztOC9HOITsHY7g&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/fab2f20/2147483647/strip/true/crop/6000x3375+0+316/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa0%2Fde%2Fe1932150502aa9104434060920ce%2Fd5138d7515734155864f47ba9b062644"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://dims.apnews.com/dims4/default/fab2f20/2147483647/strip/true/crop/6000x3375+0+316/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa0%2Fde%2Fe1932150502aa9104434060920ce%2Fd5138d7515734155864f47ba9b062644",
+                            "og:image:width": "1440",
+                            "article:published_time": "2023-08-16T20:07:33.307",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "AP News",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "THE FACTS: As authorities continue to probe what sparked the wildfires in Maui this month, social media users are suggesting government officials have long been planning to raze the island in order to realize their vision for a so-called “smart” city.",
+                            "twitter:creator": "@philmarcelo",
+                            "twitter:image": "https://dims.apnews.com/dims4/default/fab2f20/2147483647/strip/true/crop/6000x3375+0+316/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa0%2Fde%2Fe1932150502aa9104434060920ce%2Fd5138d7515734155864f47ba9b062644",
+                            "twitter:image:alt": "Homes consumed in recent wildfires are seen in Lahaina, Hawaii, Wednesday, Aug. 16, 2023. The wildfires have devastated parts of the Hawaiian island of Maui. (AP Photo/Jae C. Hong)",
+                            "twitter:site": "@AP",
+                            "article:modified_time": "2023-08-17T17:29:45.329",
+                            "brightspot.contentid": "00000189-ffe6-d63b-afad-fff6632e0000",
+                            "thumbnail": "https://dims.apnews.com/dims4/default/fab2f20/2147483647/strip/true/crop/6000x3375+0+316/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa0%2Fde%2Fe1932150502aa9104434060920ce%2Fd5138d7515734155864f47ba9b062644",
+                            "og:image:alt": "Homes consumed in recent wildfires are seen in Lahaina, Hawaii, Wednesday, Aug. 16, 2023. The wildfires have devastated parts of the Hawaiian island of Maui. (AP Photo/Jae C. Hong)",
+                            "og:type": "article",
+                            "article:section": "AP Fact Check",
+                            "twitter:title": "Conspiracy theories falsely tie Maui wildfires to 'smart cities' and tech conferences",
+                            "og:image:url": "https://dims.apnews.com/dims4/default/fab2f20/2147483647/strip/true/crop/6000x3375+0+316/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa0%2Fde%2Fe1932150502aa9104434060920ce%2Fd5138d7515734155864f47ba9b062644",
+                            "ga-datalayer": "{\n  \"dimension15\" : \"Fact-checking,AP Fact Check\",\n  \"dimension9\" : \"2023-08-16 16:07:33\",\n  \"dimension10\" : \"PHILIP MARCELO\"\n}",
+                            "ntv-kv": "Fact-checking",
+                            "og:title": "Conspiracy theories falsely tie Maui wildfires to 'smart cities' and tech conferences",
+                            "og:image:height": "810",
+                            "permutive-datalayer": "{\n  \"category\" : \"AP Fact Check\",\n  \"dfp_kv\" : {\n    \"page_type\" : \"Article\"\n  },\n  \"tags\" : [ \"Fact-checking\" ],\n  \"page_type\" : \"Article\",\n  \"publication_date\" : \"2023-08-16T16:07:33.000Z\",\n  \"item_id\" : null,\n  \"headline\" : \"Conspiracy theories falsely tie Maui wildfires to 'smart cities' and tech conferences\",\n  \"authors\" : [ \"PHILIP MARCELO\" ]\n}",
+                            "article:author": "https://apnews.com/author/philip-marcelo",
+                            "article:tag": "Fact-checking",
+                            "fb:app_id": "870613919693099",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+                            "twitter:description": "THE FACTS: As authorities continue to probe what sparked the wildfires in Maui this month, social media users are suggesting government officials have long been planning to raze the island in order to realize their vision for a so-called “smart” city.",
+                            "og:url": "https://apnews.com/article/fact-check-maui-hawaii-wildfires-smart-cities-387327837046",
+                            "gtm-datalayer": "{\n  \"event\" : \"Article Visited\",\n  \"Tag_CMS\" : \"Fact-checking,AP Fact Check\",\n  \"tag_array\" : \"Fact-checking,AP Fact Check\",\n  \"headline\" : \"Conspiracy theories falsely tie Maui wildfires to 'smart cities' and tech conferences\",\n  \"publication_date\" : \"2023-08-16 16:07:33\",\n  \"author\" : \"PHILIP MARCELO\",\n  \"linked_video\" : \"NO\",\n  \"pr_content\" : \"NO\",\n  \"featured\" : \"NO\",\n  \"lead_media\" : \"Photo\",\n  \"page_type\" : \"Article\",\n  \"is_infobox_present\" : \"NO\",\n  \"is_inline_link_present\" : \"YES\",\n  \"character_count\" : 5994,\n  \"primary_section\" : \"AP Fact Check\",\n  \"seo_title_updated\" : \"\",\n  \"seo_description_updated\" : \"\"\n}"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/fab2f20/2147483647/strip/true/crop/6000x3375+0+316/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa0%2Fde%2Fe1932150502aa9104434060920ce%2Fd5138d7515734155864f47ba9b062644"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "claimReviewed": "Maui hosted a conference about making the entire",
+                            "url": "https://apnews.com/article/fact-check-maui-hawaii-wildfires-smart-cities-387327837046"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Conspiracy theories falsely tie Maui wildfires to 'smart cities' and tech conferences | AP News =============== Menu ] Menu * * * * * * * * * * * * * * * * * * * * * * ... * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * Search Query Submit Search Show Search * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * ! The Associated Press is an independent global news organization dedicated to factual reporting. Founded in 1846, AP today remains the most trusted source of fast, accurate, unbiased news in all formats and the essential provider of the technology and services vital to the news business. More than half the world’s population sees AP journalism every day. * * * * * The Associated Press * * * * * * * * Cookie Settings * * * * More From AP News * * * * * * * * Copyright 2024 The Associated Press. All Rights Reserved. BREAKING NEWS Close Conspiracy theories falsely tie Maui wildfires to ‘smart cities’ and tech conferences ===================================================================================== ! Homes consumed in recent wildfires are seen in Lahaina, Hawaii, Wednesday, Aug. 16, 2023. The Associated Press on Wednesday, ... [Content truncated]",
+                    "content_tokens": 300
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Posts Misrepresent Military's Response to Maui Wildfires ...",
+                "htmlTitle": "Posts Misrepresent Military&#39;s Response to <b>Maui Wildfires</b> ...",
+                "link": "https://www.factcheck.org/2023/08/posts-misrepresent-militarys-response-to-maui-wildfires/",
+                "displayLink": "www.factcheck.org",
+                "snippet": "Aug 17, 2023 ... 15 Aug 2023. Categories. Debunking Viral Claims · FactCheck Posts. Location. Hawaii · Maui. Issue. climate change ...",
+                "htmlSnippet": "Aug 17, 2023 <b>...</b> <b>15 Aug 2023</b>. Categories. Debunking Viral Claims &middot; <b>FactCheck</b> Posts. Location. Hawaii &middot; <b>Maui</b>. Issue. climate change&nbsp;...",
+                "formattedUrl": "https://www.factcheck.org/2023/.../posts-misrepresent-militarys-response-to...",
+                "htmlFormattedUrl": "https://www.<b>factcheck</b>.org/<b>2023</b>/.../posts-misrepresent-militarys-response-to...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxObpeicNgSgyJEHhpgXKbp61TsgVDmRHsYoLvXiPYfzVIP6e5KMes4F2g&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cdn.factcheck.org/UploadedFiles/Maui.jpg",
+                            "theme-color": "#ffffff",
+                            "article:published_time": "2023-08-17T18:56:12+00:00",
+                            "og:image:width": "2000",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "FactCheck.org",
+                            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "/ms-icon-144x144.png",
+                            "og:description": "The White House declared the site of the Maui wildfires a disaster area, and the Department of Defense has provided more than 400 troops, air support and other resources in firefighting and recovery efforts. Yet posts on Instagram misrepresent the federal response and one falsely claimed \"the military is standing down.\"",
+                            "twitter:creator": "@factcheckdotorg",
+                            "article:publisher": "https://www.facebook.com/factcheck.org",
+                            "twitter:data1": "Blossom Izevbigie",
+                            "twitter:data2": "4 minutes",
+                            "twitter:site": "@factcheckdotorg",
+                            "article:modified_time": "2023-08-17T18:56:13+00:00",
+                            "msapplication-tilecolor": "#ffffff",
+                            "og:type": "article",
+                            "author": "Blossom Izevbigie",
+                            "og:title": "Posts Misrepresent Military's Response to Maui Wildfires - FactCheck.org",
+                            "og:image:height": "1333",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "apple-mobile-web-app-capable": "yes",
+                            "mobile-web-app-capable": "yes",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.factcheck.org/2023/08/posts-misrepresent-militarys-response-to-maui-wildfires/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.factcheck.org/UploadedFiles/Maui.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "By Blossom Izevbigie Posted on August 17, 2023 The White House declared the site of the Maui wildfires a disaster area, and the Department of Defense has provided more than 400 troops, air support and other resources in firefighting and recovery efforts. Yet posts on Instagram misrepresent the federal response and one falsely claimed “the military is standing down.” The Maui wildfires that started on Aug. 8 caused widespread devastation in the historic Lahaina area, and the death toll had climbed to 111 by Aug. 17. Authorities have described it as the deadliest natural disaster in the state’s history. Hawaii Gov. Josh Green said the damage was estimated at close to $6 billion. While the cause of the fire is still being investigated, Hawaii had been on a red flag warning for fire risk due to abnormal drought conditions, overgrowth of invasive grass species, and high winds that fanned the flames. The Biden administration declared the fire a major disaster on Aug. 10 — freeing up federal funds to assist the local government and the victims — and mobilized federal agencies for rescue and recovery efforts. President Joe Biden approved Hawaii’s request for a federal disaster declaration within six hours, the governor said. A statement released by the White House on Aug. 15 detailed the coordinated response, highlighting the use of U.S. Coast Guard, Navy and Army support, as well as assistance from the U.S. Army Corps of Engineers. But online posts misleadingly suggested that the military was not being used to aid Maui. An Instagram post on Aug. 13, which received 12,000 likes, asked, in part, “Where is the surge of support for Americans? Where are the military helos and planes?” The caption of a video posted on Instagram on Aug. 13 says, “I’m dumbfounded as to why the ... [Content truncated]",
+                    "content_tokens": 300
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "A video doesn't show a laser beam igniting Maui's wildfires. It's a ...",
+                "htmlTitle": "A video doesn&#39;t show a laser beam igniting <b>Maui&#39;s wildfires</b>. It&#39;s a ...",
+                "link": "https://apnews.com/article/fact-check-hawaii-maui-wildfires-chile-DEW-434395550756",
+                "displayLink": "apnews.com",
+                "snippet": "Published 3:32 PM PDT, August 14, 2023. Share. Share. Copy. Link copied ... He previously wrote for AP Fact Check and before that was based in Boston, ...",
+                "htmlSnippet": "Published 3:32 PM PDT, <b>August</b> 14, <b>2023</b>. Share. Share. Copy. Link copied ... He previously wrote for AP <b>Fact Check</b> and before that was based in Boston,&nbsp;...",
+                "formattedUrl": "https://apnews.com/.../fact-check-hawaii-maui-wildfires-chile-DEW-43439...",
+                "htmlFormattedUrl": "https://apnews.com/.../<b>fact</b>-<b>check</b>-hawaii-<b>maui</b>-<b>wildfires</b>-chile-DEW-43439...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkq5vKgiawYxdxCY6OWyPPNw9fru3Itfs-S21cZVMeDOYc7dxkqUYnBqKP&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/8b35666/2147483647/strip/true/crop/1339x753+81+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1a%2F4a%2Feeb20f8921d5ad64067f3b32a0b3%2F535d80b24ddc49089034444a114e6795"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://dims.apnews.com/dims4/default/8b35666/2147483647/strip/true/crop/1339x753+81+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1a%2F4a%2Feeb20f8921d5ad64067f3b32a0b3%2F535d80b24ddc49089034444a114e6795",
+                            "og:image:width": "1440",
+                            "article:published_time": "2023-08-14T22:32:39.008",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "AP News",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "THE FACTS: Social media users are claiming a video shows a laser beam from a so-called directed energy weapon shooting down from space and igniting the deadly fires on the island of Maui this month.",
+                            "twitter:creator": "@philmarcelo",
+                            "twitter:image": "https://dims.apnews.com/dims4/default/8b35666/2147483647/strip/true/crop/1339x753+81+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1a%2F4a%2Feeb20f8921d5ad64067f3b32a0b3%2F535d80b24ddc49089034444a114e6795",
+                            "twitter:image:alt": "This photo provided by County of Maui shows fire and smoke filling the sky from wildfires on the intersection at Hokiokio Place and Lahaina Bypass in Maui, Hawaii on Tuesday, Aug. 8, 2023. Wildfires in Hawaii fanned by strong winds burned multiple structures in areas including historic Lahaina town, forcing evacuations and closing schools in several communities Wednesday, and rescuers pulled a dozen people escaping smoke and flames from the ocean. (Zeke Kalua/County of Maui via AP)",
+                            "twitter:site": "@AP",
+                            "article:modified_time": "2023-08-17T17:21:51.776",
+                            "brightspot.contentid": "00000189-f626-db3e-a7bf-f62e1cea0000",
+                            "thumbnail": "https://dims.apnews.com/dims4/default/8b35666/2147483647/strip/true/crop/1339x753+81+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1a%2F4a%2Feeb20f8921d5ad64067f3b32a0b3%2F535d80b24ddc49089034444a114e6795",
+                            "og:image:alt": "This photo provided by County of Maui shows fire and smoke filling the sky from wildfires on the intersection at Hokiokio Place and Lahaina Bypass in Maui, Hawaii on Tuesday, Aug. 8, 2023. Wildfires in Hawaii fanned by strong winds burned multiple structures in areas including historic Lahaina town, forcing evacuations and closing schools in several communities Wednesday, and rescuers pulled a dozen people escaping smoke and flames from the ocean. (Zeke Kalua/County of Maui via AP)",
+                            "og:type": "article",
+                            "article:section": "AP Fact Check",
+                            "twitter:title": "A video doesn’t show a laser beam igniting Maui’s wildfires. It’s a transformer explosion in Chile",
+                            "og:image:url": "https://dims.apnews.com/dims4/default/8b35666/2147483647/strip/true/crop/1339x753+81+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1a%2F4a%2Feeb20f8921d5ad64067f3b32a0b3%2F535d80b24ddc49089034444a114e6795",
+                            "ga-datalayer": "{\n  \"dimension15\" : \"Fact-checking,AP Fact Check\",\n  \"dimension9\" : \"2023-08-14 18:32:39\",\n  \"dimension10\" : \"PHILIP MARCELO\"\n}",
+                            "ntv-kv": "Fact-checking",
+                            "og:title": "A video doesn’t show a laser beam igniting Maui’s wildfires. It’s a transformer explosion in Chile",
+                            "og:image:height": "810",
+                            "permutive-datalayer": "{\n  \"category\" : \"AP Fact Check\",\n  \"dfp_kv\" : {\n    \"page_type\" : \"Article\"\n  },\n  \"tags\" : [ \"Fact-checking\" ],\n  \"page_type\" : \"Article\",\n  \"publication_date\" : \"2023-08-14T18:32:39.000Z\",\n  \"item_id\" : null,\n  \"headline\" : \"A video doesn’t show a laser beam igniting Maui’s wildfires. It’s a transformer explosion in Chile\",\n  \"authors\" : [ \"PHILIP MARCELO\" ]\n}",
+                            "article:author": "https://apnews.com/author/philip-marcelo",
+                            "article:tag": "Fact-checking",
+                            "fb:app_id": "870613919693099",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+                            "twitter:description": "THE FACTS: Social media users are claiming a video shows a laser beam from a so-called directed energy weapon shooting down from space and igniting the deadly fires on the island of Maui this month.",
+                            "og:url": "https://apnews.com/article/fact-check-hawaii-maui-wildfires-chile-DEW-434395550756",
+                            "gtm-datalayer": "{\n  \"event\" : \"Article Visited\",\n  \"Tag_CMS\" : \"Fact-checking,AP Fact Check\",\n  \"tag_array\" : \"Fact-checking,AP Fact Check\",\n  \"headline\" : \"A video doesn’t show a laser beam igniting Maui’s wildfires. It’s a transformer explosion in Chile\",\n  \"publication_date\" : \"2023-08-14 18:32:39\",\n  \"author\" : \"PHILIP MARCELO\",\n  \"linked_video\" : \"NO\",\n  \"pr_content\" : \"NO\",\n  \"featured\" : \"NO\",\n  \"lead_media\" : \"Photo\",\n  \"page_type\" : \"Article\",\n  \"is_infobox_present\" : \"NO\",\n  \"is_inline_link_present\" : \"YES\",\n  \"character_count\" : 4251,\n  \"primary_section\" : \"AP Fact Check\",\n  \"seo_title_updated\" : \"\",\n  \"seo_description_updated\" : \"\"\n}"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/8b35666/2147483647/strip/true/crop/1339x753+81+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1a%2F4a%2Feeb20f8921d5ad64067f3b32a0b3%2F535d80b24ddc49089034444a114e6795"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "claimReviewed": "Video of a flash of light and an explosion",
+                            "url": "https://apnews.com/article/fact-check-hawaii-maui-wildfires-chile-DEW-434395550756"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "A video doesn’t show a laser beam igniting Maui’s wildfires. It’s a transformer explosion in Chile | AP News =============== Menu ] Menu * * * * * * * * * * * * * * * * * * * * * * ... * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * Search Query Submit Search Show Search * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * ! The Associated Press is an independent global news organization dedicated to factual reporting. Founded in 1846, AP today remains the most trusted source of fast, accurate, unbiased news in all formats and the essential provider of the technology and services vital to the news business. More than half the world’s population sees AP journalism every day. * * * * * The Associated Press * * * * * * * * Cookie Settings * * * * More From AP News * * * * * * * * Copyright 2024 The Associated Press. All Rights Reserved. BREAKING NEWS Close A video doesn’t show a laser beam igniting Maui’s wildfires. It’s a transformer explosion in Chile ================================================================================================== ! This photo provided by County of Maui shows fire and smoke ... [Content truncated]",
+                    "content_tokens": 300
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Fact Check: Did Joe Biden Fall Asleep During Maui Fire Event ...",
+                "htmlTitle": "<b>Fact Check</b>: Did Joe Biden Fall Asleep During <b>Maui Fire</b> Event ...",
+                "link": "https://www.newsweek.com/joe-biden-fall-asleep-maui-fire-event-fact-check-1821663",
+                "displayLink": "www.newsweek.com",
+                "snippet": "Aug 22, 2023 ... Several posts by conservative commentators on X, formerly Twitter, on August 22, 2023, suggested that Joe Biden fell asleep during an engagement ...",
+                "htmlSnippet": "Aug 22, 2023 <b>...</b> Several posts by conservative commentators on X, formerly Twitter, on <b>August 22, 2023</b>, suggested that Joe Biden fell asleep during an engagement&nbsp;...",
+                "formattedUrl": "https://www.newsweek.com/joe-biden-fall-asleep-maui-fire-event-fact-chec...",
+                "htmlFormattedUrl": "https://www.newsweek.com/joe-biden-fall-asleep-<b>maui</b>-fire-event-<b>fact</b>-<b>chec</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCtVOSyNYq37w-QV-svvb9Gr6WcdrdzPCuo4Ils5IOYdlZJOdPhVQ7fDA&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://d.newsweek.com/en/full/2272932/joe-biden-lahaina.jpg",
+                            "msapplication-config": "https://g.newsweek.com/themes/newsweek/favicons/browserconfig.xml",
+                            "og:image:width": "2500",
+                            "article:published_time": "2023-08-22T12:05:01-04:00",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ff0500",
+                            "og:site_name": "Newsweek",
+                            "twitter:url": "https://www.newsweek.com/joe-biden-fall-asleep-maui-fire-event-fact-check-1821663",
+                            "og:description": "President Joe Biden was said to have dozed off during a community event in Lahaina, Hawaii, based on a video shared online.",
+                            "article:publisher": "https://www.facebook.com/Newsweek",
+                            "twitter:image": "https://d.newsweek.com/en/full/2272932/joe-biden-lahaina.webp",
+                            "twitter:site": "@newsweek",
+                            "article:modified_time": "2023-08-23T00:04:10-04:00",
+                            "msapplication-tilecolor": "#ff0500",
+                            "og:type": "article",
+                            "og:image:alt": "Joe Biden in Lahaina",
+                            "article:section": "Fact Check",
+                            "twitter:title": "Fact Check: Did Joe Biden fall asleep during Maui fire event?",
+                            "og:title": "Fact Check: Did Joe Biden fall asleep during Maui fire event?",
+                            "og:image:height": "1667",
+                            "fb:pages": "18343191100",
+                            "article:tag": "Fact Check",
+                            "fb:app_id": "245537789135954",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "President Joe Biden was said to have dozed off during a community event in Lahaina, Hawaii, based on a video shared online.",
+                            "og:url": "https://www.newsweek.com/joe-biden-fall-asleep-maui-fire-event-fact-check-1821663"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d.newsweek.com/en/full/2272932/joe-biden-lahaina.jpg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-08-22T12:05:01-04:00",
+                            "claimReviewed": "Fact Check: Did Joe Biden fall asleep during",
+                            "url": "https://www.newsweek.com/joe-biden-fall-asleep-maui-fire-event-fact-check-1821663"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Fact Check: Did Joe Biden Fall Asleep During Maui Fire Event? - Newsweek =============== × ] * * * * * * * * * * * * * * Login × Login * * * * * * * * * * * * * * * * * * * * * * Share Copy Link ✓ Link copied to clipboard! * * * * * Fact Check: Did Joe Biden Fall Asleep During Maui Fire Event? ============================================================= **Published** Aug 22, 2023 at 12:05 PM EDT **Updated** Aug 23, 2023 at 12:04 AM EDT CLOSE X 01:02 Video Shows Joe Biden Was Not Asleep During Maui Fire Event By 18 Share Copy Link ✓ Link copied to clipboard! President 's response to the wildfires in Maui, which have claimed the lives of at least 115 people, has been roundly criticized by conservatives who claim he has not behaved appropriately following the disaster. Biden had been attacked , and faced further scrutiny at a community event on Monday for making a joke that appeared to Video from that same event this week, shared on social media, has since been used by conservative commentators to suggest Biden fell asleep as community leaders spoke. ! President Joe Biden looks down as he listens to a speaker during a community engagement event in Lahaina, Hawaii, on August 21, 2023. Videos of the president at the event were shared by conservative commentators... President Joe Biden looks down as he listens to a speaker during a community engagement event in Lahaina, Hawaii, on August 21, 2023. Videos of the president at the event were shared by conservative commentators who claimed he had fallen asleep. More MANDEL NGAN/AFP via Getty Images The Claim Several posts by conservative commentators on X, formerly , on August 22, ... [Content truncated]",
+                    "content_tokens": 300
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Fact check: Maui fires caused by directed energy weapons? – DW ...",
+                "htmlTitle": "<b>Fact check</b>: <b>Maui fires</b> caused by directed energy weapons? – DW ...",
+                "link": "https://www.dw.com/en/fact-check-no-maui-wildfires-were-not-caused-by-directed-energy-weapons/a-66556025",
+                "displayLink": "www.dw.com",
+                "snippet": "Aug 17, 2023 ... We see a hilly, green area with a beach and water in front of it, which could lead to the assumption that it might be Hawaii. The text reads, \" ...",
+                "htmlSnippet": "Aug 17, 2023 <b>...</b> We <b>see</b> a hilly, green area with a beach and water in front of it, which could lead to the assumption that it might be Hawaii. The text reads, &quot;&nbsp;...",
+                "formattedUrl": "https://www.dw.com/en/fact-check-no-maui-wildfires.../a-66556025",
+                "htmlFormattedUrl": "https://www.dw.com/en/<b>fact</b>-<b>check</b>-no-<b>maui</b>-<b>wildfires</b>.../a-66556025",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Iu0X166aPIoFiq5NjoU_Ws6EEeBRg5Y1qo7B0KnUmPf_dBvoJDIbLkW6&s",
+                            "width": "224",
+                            "height": "224"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "theme-color": "#000000",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Fact check: Maui fires caused by directed energy weapons?",
+                            "og:site_name": "dw.com",
+                            "twitter:site": "@dwnews",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "twitter:description": "As dramatic images of the aftermath of the Maui wildfires spread on social media, so are conspiracy theories about what caused it. Official sources blame extreme weather conditions, but others suggest it was intentional.",
+                            "og:title": "Fact check: Maui fires caused by directed energy weapons? – DW – 08/17/2023",
+                            "fb:admins": "100000944106340",
+                            "og:url": "https://www.dw.com/en/fact-check-no-maui-wildfires-were-not-caused-by-directed-energy-weapons/a-66556025",
+                            "og:description": "As dramatic images of the aftermath of the Maui wildfires spread on social media, so are conspiracy theories about what caused it. Official sources blame extreme weather conditions, but others suggest it was intentional.",
+                            "fb:pages": "146634408702997"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.dw.com/image/66552200_803.webp"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Efforts are underway after , fueled by hot, dry, and , devastated parts of Maui, especially the historic town of Lahaina. Images and videos showing the wreckage on the Hawaiian island are spreading on social media, but not all are accurate. As is typical with natural disasters or similar breaking news events, some users have shared unrelated photos and videos to spread a conspiracy theory that the did not have a natural cause. ! The wildfires decimated an estimated 80% of the historic town of LahainaImage: Matthew Thayer/Maui News/AP/picture alliance **Claim:** Images show a directed energy weapon beam that caused the Maui fires is being shared on social media since the wildfires in Hawaii killed many and caused high-level destruction. It shows a light beam connecting the ground and sky, with smoke at the bottom. We see a hilly, green area with a beach and water in front of it, which could lead to the assumption that it might be Hawaii. The text reads, \"This photo is circulating social media. Apparently, this beam was captured before the Hawaii fires. Can anyone confirm?\" showing a beam of light connecting the ground and the sky is being shared on social media. In this particular post on X, formerly known as Twitter, the user claims that \"the fire damage in Hawaii leaves open the question of whether the fire was caused by a \\ Energy Weapon (DEW).\" Both images are being used to spread the claim that the recent wildfires on Maui were started by weapons that use highly focused energy, like a laser, microwave or particle beam, to damage a target. **DW fact check:** False Both images are unrelated to the wildfires and are actually from events dating back to 2018. The first image has nothing to do with the Maui wildfires. ... [Content truncated]",
+                    "content_tokens": 300
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Book is not proof Maui wildfires were planned - PolitiFact",
+                "htmlTitle": "Book is not proof Maui wildfires were planned - PolitiFact",
+                "link": "https://www.politifact.com/factchecks/2023/aug/17/social-media/book-is-not-proof-maui-wildfires-were-planned/",
+                "displayLink": "www.politifact.com",
+                "snippet": "Aug 17, 2023 ... See the sources for this fact-check. Social media users sounded ... 8 to Aug. 11 of 2023, the Maui fires. But the publication of the ...",
+                "htmlSnippet": "Aug 17, 2023 <b>...</b> <b>See</b> the sources for this <b>fact</b>-<b>check</b>. Social media users sounded ... 8 to <b>Aug. 11 of 2023</b>, the <b>Maui fires</b>. But the publication of the&nbsp;...",
+                "formattedUrl": "https://www.politifact.com/factchecks/2023/.../book-is-not-proof-maui-wild...",
+                "htmlFormattedUrl": "https://www.politi<b>fact</b>.com/<b>factcheck</b>s/<b>2023</b>/.../book-is-not-proof-<b>maui</b>-<b>wild</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwcK-r1hfQWcPXD42iWCoUcyLAzdavD2p4wQsD2NVb5SNeAOVkR1masw&s=0",
+                            "width": "127",
+                            "height": "114"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static.politifact.com/politifact/rulings/meter-false.jpg",
+                            "og:type": "website",
+                            "og:image:width": "600",
+                            "twitter:card": "summary",
+                            "twitter:title": "The details described in the summary and introduction of the book are publicly available. Officials have not identified the source of the wildfires.",
+                            "og:site_name": "@politifact",
+                            "twitter:url": "https://www.politifact.com/factchecks/2023/aug/17/social-media/book-is-not-proof-maui-wildfires-were-planned/",
+                            "author": "Loreben Tuquero",
+                            "og:title": "Book is not proof Maui wildfires were planned",
+                            "og:image:height": "600",
+                            "fb:pages": "61308923432",
+                            "og:description": "Social media users sounded alarms about the Aug. 10 publication of a book about the Maui wildfires that started Aug. 8,",
+                            "og:image:secure_url": "https://static.politifact.com/politifact/rulings/meter-false.jpg",
+                            "twitter:image": "https://static.politifact.com/politifact/rulings/meter-false.jpg",
+                            "facebook-domain-verification": "vrxxsw8mwnf2pxgnwxvgsn4g93w3vm",
+                            "twitter:site": "PolitiFact",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Social media users sounded alarms about the Aug. 10 publication of a book about the Maui wildfires that started Aug. 8,",
+                            "publisher": "PolitiFact",
+                            "fb:admins": "750116788",
+                            "twitter:username": "PolitiFact",
+                            "og:url": "https://www.politifact.com/factchecks/2023/aug/17/social-media/book-is-not-proof-maui-wildfires-were-planned/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "PolitiFact | Book is not proof Maui wildfires were planned =============== State Editions * * * * * * * * * * * Issues * **** * * * * * * * * * * * * People * * * * * * Media * * * * * * Campaigns * Truth-o-Meter * * * * * * Promises * * * * About Us * * * * * * * * #### Follow us The Facts Newsletter Sign up **** ### Get PolitiFact in your inbox. * Weekly Email Newsletter * Daily Email Newsletter Your Email Address Sign Up ! ! stated on August 15, 2023 in social media posts: A book published Aug. 10 about the Maui wildfires is proof the wildfires were planned. ! ! * * ] By August 17, 2023 Book is not proof Maui wildfires were planned ============================================= #### If Your Time is short * The timing of a book’s publication about the Maui wildfires is not proof that the fires were planned. Details in the book’s online summary and introduction appear to be drawn from publicly available information already reported by the media and Maui County. * The author’s name appears to be a pseudonym, and a person using the same pseudonym published at least within a three-month period, including one the day after the Maui book was published. * This led to speculation that the books might have been produced using artificial intelligence, which draws from information already available online. Social media users sounded alarms about the Aug. 10 publication of a book about the Maui wildfires that started Aug. 8, baselessly claiming the island may have been intentionally set on fire as part of a conspiracy. \"You guys wanna think that this is all an accident? ... [Content truncated]",
+                    "content_tokens": 300
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Fact Check: House that survived Maui wildfires not owned by ...",
+                "htmlTitle": "<b>Fact Check</b>: House that survived <b>Maui wildfires</b> not owned by ...",
+                "link": "https://www.reuters.com/fact-check/house-that-survived-maui-wildfires-not-owned-by-celebrities-2023-09-21/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Sep 21, 2023 ... A photo of a red-roofed house that was spared in the Hawaii wildfires in August has been miscaptioned online as evidence that celebrities ...",
+                "htmlSnippet": "Sep 21, 2023 <b>...</b> A photo of a red-roofed house that was spared in the Hawaii <b>wildfires</b> in <b>August</b> has been miscaptioned online as evidence that celebrities&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/fact-check/house-that-survived-maui-wildfires-not...",
+                "htmlFormattedUrl": "https://www.reuters.com/<b>fact</b>-<b>check</b>/house-that-survived-<b>maui</b>-<b>wildfires</b>-not...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfe5_InjL6qCje_2NqPbpVzsoPLcCIbDgdOkbnBcicJ0iMs3Ca2n0o4t8&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/fact-check/house-that-survived-maui-wildfires-not-owned-by-celebrities-2023-09-21/?id=FPKEGFCNIZLCZF3JB272M7D3IQ",
+                            "og:image": "https://www.reuters.com/resizer/v2/JUPGQHR5KNB7VG2BPAVVMJE5K4.jpg?auth=0bd5367d98dca0ccac19e50df7b000e20d2d8e289e0be357d974ffc070e9d3a3&height=1005&width=1920&quality=80&smart=true",
+                            "article:published_time": "2023-09-21T14:31:45Z",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Reuters",
+                            "ccbot": "nofollow",
+                            "analyticsattributes.topicchannel": "Fact Check",
+                            "title": "Fact Check: House that survived Maui wildfires not owned by celebrities | Reuters",
+                            "og:description": "A photo of a red-roofed house that was spared in the Hawaii wildfires in August has been miscaptioned online as evidence that celebrities intentionally changed their roofs prior to the fires to avoid destruction.",
+                            "twitter:creator": "@Reuters",
+                            "twitter:image": "https://www.reuters.com/resizer/v2/JUPGQHR5KNB7VG2BPAVVMJE5K4.jpg?auth=0bd5367d98dca0ccac19e50df7b000e20d2d8e289e0be357d974ffc070e9d3a3&height=1005&width=1920&quality=80&smart=true",
+                            "twitter:image:alt": "Reuters Fact Check logo",
+                            "twitter:site": "@Reuters",
+                            "article:modified_time": "2023-09-21T14:35:39.144Z",
+                            "render_timestamp": "2024-07-21T07:53:13.226Z",
+                            "fb:admins": "988502044532272",
+                            "article:content_tier": "free",
+                            "og:type": "article",
+                            "article:section": "Fact Check",
+                            "og:image:alt": "Reuters Fact Check logo",
+                            "twitter:title": "Fact Check: House that survived Maui wildfires not owned by celebrities",
+                            "ad:template": "article",
+                            "og:image:url": "https://www.reuters.com/resizer/v2/JUPGQHR5KNB7VG2BPAVVMJE5K4.jpg?auth=0bd5367d98dca0ccac19e50df7b000e20d2d8e289e0be357d974ffc070e9d3a3&height=1005&width=1920&quality=80&smart=true",
+                            "dcsext.dartzone": "/4735792/reuters.com/fact-check/article",
+                            "og:title": "Fact Check: House that survived Maui wildfires not owned by celebrities",
+                            "dcsext.channellist": "Fact Check;",
+                            "og:image:height": "628",
+                            "og:article:published_time": "2023-09-21T14:31:45Z",
+                            "fb:pages": "114050161948682",
+                            "article:author": "Reuters Fact Check",
+                            "fb:app_id": "988502044532272",
+                            "og:locale:alternate": "en_US",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "A photo of a red-roofed house that was spared in the Hawaii wildfires in August has been miscaptioned online as evidence that celebrities intentionally changed their roofs prior to the fires to avoid destruction.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/fact-check/house-that-survived-maui-wildfires-not-owned-by-celebrities-2023-09-21/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/resizer/v2/JUPGQHR5KNB7VG2BPAVVMJE5K4.jpg?auth=0bd5367d98dca0ccac19e50df7b000e20d2d8e289e0be357d974ffc070e9d3a3&height=1005&width=1920&quality=80&smart=true"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "reuters.com\n===============",
+                    "content_tokens": 5
+                }
+            }
+        }
+    ]
+}

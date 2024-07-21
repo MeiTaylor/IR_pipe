@@ -1,0 +1,817 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - fact-checking articles on identities in video linked to Epstein island",
+                "totalResults": "525000",
+                "searchTerms": "fact-checking articles on identities in video linked to Epstein island",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - fact-checking articles on identities in video linked to Epstein island",
+                "totalResults": "525000",
+                "searchTerms": "fact-checking articles on identities in video linked to Epstein island",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.324153,
+        "formattedSearchTime": "0.32",
+        "totalResults": "525000",
+        "formattedTotalResults": "525,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "FACT CHECK: Judge ordered release of people named in court ...",
+                "htmlTitle": "<b>FACT CHECK</b>: Judge ordered release of people named in court ...",
+                "link": "https://apnews.com/article/fact-check-jeffrey-epstein-list-released-006487910615",
+                "displayLink": "apnews.com",
+                "snippet": "Dec 21, 2023 ... A federal judge on Monday ordered the public disclosure of the identities of 150 people mentioned in court documents related to Epstein, The\u00a0...",
+                "htmlSnippet": "Dec 21, 2023 <b>...</b> A federal judge on Monday ordered the public disclosure of the <b>identities</b> of 150 people mentioned in court documents <b>related to Epstein</b>, The&nbsp;...",
+                "formattedUrl": "https://apnews.com/.../fact-check-jeffrey-epstein-list-released-00648791061...",
+                "htmlFormattedUrl": "https://apnews.com/.../fact-check-jeffrey-<b>epstein</b>-list-released-00648791061...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXqnLkhkJXmhKnOR41j_atC3woArOPtmxXW08tl2OOs6Hrxth7w7qFv8&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/3e4f6a7/2147483647/strip/true/crop/822x462+0+19/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2Fdd%2F5766495c4b7ead46b3c6d9f9a51f%2Fap-news-verification.jpg"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://dims.apnews.com/dims4/default/3e4f6a7/2147483647/strip/true/crop/822x462+0+19/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2Fdd%2F5766495c4b7ead46b3c6d9f9a51f%2Fap-news-verification.jpg",
+                            "og:image:width": "1440",
+                            "article:published_time": "2023-12-21T22:25:57.07",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "AP News",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "The order has added to yearslong speculation sparked by the Epstein case about the involvement of rich and powerful people in sex trafficking.",
+                            "twitter:creator": "@melissa_goldin",
+                            "twitter:image": "https://dims.apnews.com/dims4/default/3e4f6a7/2147483647/strip/true/crop/822x462+0+19/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2Fdd%2F5766495c4b7ead46b3c6d9f9a51f%2Fap-news-verification.jpg",
+                            "twitter:image:alt": "AP News Verification",
+                            "twitter:site": "@AP",
+                            "article:modified_time": "2023-12-24T16:38:54.8",
+                            "brightspot.contentid": "0000018c-8e7a-d236-a38d-fefb9c760000",
+                            "thumbnail": "https://dims.apnews.com/dims4/default/3e4f6a7/2147483647/strip/true/crop/822x462+0+19/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2Fdd%2F5766495c4b7ead46b3c6d9f9a51f%2Fap-news-verification.jpg",
+                            "og:image:alt": "AP News Verification",
+                            "og:type": "article",
+                            "article:section": "AP Fact Check",
+                            "twitter:title": "Judge ordered release of people named in court documents related to Jeffrey Epstein, not his client list",
+                            "og:image:url": "https://dims.apnews.com/dims4/default/3e4f6a7/2147483647/strip/true/crop/822x462+0+19/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2Fdd%2F5766495c4b7ead46b3c6d9f9a51f%2Fap-news-verification.jpg",
+                            "ga-datalayer": "{\n  \"dimension15\" : \"Fact-checking,AP Fact Check\",\n  \"dimension9\" : \"2023-12-21 17:25:57\",\n  \"dimension10\" : \"MELISSA GOLDIN\"\n}",
+                            "ntv-kv": "Fact-checking",
+                            "og:title": "Judge ordered release of people named in court documents related to Jeffrey Epstein, not his client list",
+                            "og:image:height": "810",
+                            "permutive-datalayer": "{\n  \"category\" : \"AP Fact Check\",\n  \"dfp_kv\" : {\n    \"page_type\" : \"Article\"\n  },\n  \"tags\" : [ \"Fact-checking\" ],\n  \"page_type\" : \"Article\",\n  \"publication_date\" : \"2023-12-21T17:25:57.000Z\",\n  \"item_id\" : null,\n  \"headline\" : \"Judge ordered release of people named in court documents related to Jeffrey Epstein, not his client list\",\n  \"authors\" : [ \"MELISSA GOLDIN\" ]\n}",
+                            "article:author": "https://apnews.com/author/melissa-goldin",
+                            "article:tag": "Fact-checking",
+                            "fb:app_id": "870613919693099",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+                            "twitter:description": "The order has added to yearslong speculation sparked by the Epstein case about the involvement of rich and powerful people in sex trafficking.",
+                            "og:url": "https://apnews.com/article/fact-check-jeffrey-epstein-list-released-006487910615",
+                            "gtm-datalayer": "{\n  \"event\" : \"Article Visited\",\n  \"Tag_CMS\" : \"Fact-checking,AP Fact Check\",\n  \"tag_array\" : \"Fact-checking,AP Fact Check\",\n  \"headline\" : \"Judge ordered release of people named in court documents related to Jeffrey Epstein, not his client list\",\n  \"publication_date\" : \"2023-12-21 17:25:57\",\n  \"author\" : \"MELISSA GOLDIN\",\n  \"linked_video\" : \"NO\",\n  \"pr_content\" : \"NO\",\n  \"featured\" : \"NO\",\n  \"lead_media\" : \"Photo\",\n  \"page_type\" : \"Article\",\n  \"is_infobox_present\" : \"NO\",\n  \"is_inline_link_present\" : \"YES\",\n  \"character_count\" : 3169,\n  \"primary_section\" : \"AP Fact Check\",\n  \"seo_title_updated\" : \"\",\n  \"seo_description_updated\" : \"\"\n}"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/3e4f6a7/2147483647/strip/true/crop/822x462+0+19/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2Fdd%2F5766495c4b7ead46b3c6d9f9a51f%2Fap-news-verification.jpg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "claimReviewed": "A list of late-financier Jeffrey Epstein\u2019s",
+                            "url": "https://apnews.com/article/fact-check-jeffrey-epstein-list-released-006487910615"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://apnews.com/article/fact-check-jeffrey-epstein-list-released-006487910615: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://apnews.com/article/fact-check-jeffrey-epstein-list-released-006487910615",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The Associated Press (AP) is renowned for its rigorous journalistic standards and commitment to accuracy. It employs fact-checking procedures and has a strong reputation for providing reliable news coverage across various topics, including crises and controversies. Its reporting on the Epstein case and related topics can generally be trusted, making it a credible source for verifying claims."
+                },
+                "ContentScore": {
+                    "NewnessScore": 9,
+                    "Newness Justification": "The evidence was published on December 21, 2023, making it relatively recent and relevant to ongoing discussions surrounding Epstein. This timeliness earns it a high score close to the current date of July 2024.",
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This article discusses the disclosure of identities mentioned in court documents related to Epstein. It provides context that may help confirm or dispute the identities of individuals possibly linked to the video, making it quite relevant to the claim."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "No evidence that U.S. schoolchildren are self-identifying as animals ...",
+                "htmlTitle": "No evidence that U.S. schoolchildren are self-identifying as animals ...",
+                "link": "https://www.reuters.com/article/fact-check/no-evidence-that-us-schoolchildren-are-self-identifying-as-animals-and-disrupt-idUSL1N2YN1O2/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Jul 6, 2022 ... This article was produced by the Reuters Fact Check team. Read more about our fact-checking work here . Get weekly news and analysis on the U.S.\u00a0...",
+                "htmlSnippet": "Jul 6, 2022 <b>...</b> This <b>article</b> was produced by the Reuters <b>Fact Check</b> team. Read more about our <b>fact</b>-<b>checking</b> work here . Get weekly news and analysis on the U.S.&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/.../no-evidence-that-us-schoolchildren-are-self-ide...",
+                "htmlFormattedUrl": "https://www.reuters.com/.../no-evidence-that-us-schoolchildren-are-self-ide...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoiAt7-6MmC1b3oHgzb0O0MCs0PXY6SC06u7XQ2L9hcWF8xrfSLTT6Wwzj&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/article/fact-check/no-evidence-that-us-schoolchildren-are-self-identifying-as-animals-and-disrupt-idUSL1N2YN1O2/?id=L1N2YN1O2",
+                            "og:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204",
+                            "analytics:page_layout": "regular-article",
+                            "article:published_time": "2022-07-06T17:13:29.000Z",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Reuters",
+                            "ccbot": "nofollow",
+                            "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                            "analyticsattributes.topicchannel": "Fact Check",
+                            "title": "No evidence that U.S. schoolchildren are self-identifying as animals and disrupting classrooms | Reuters",
+                            "og:description": "In a clip from \u2018What is a Woman?\u2019, a documentary by right-wing commentator Matt Walsh, interviewee Sara Stockton, a family therapist based in New York, says schoolchildren are self-identifying as animals and disrupting classrooms.",
+                            "twitter:creator": "@Reuters",
+                            "twitter:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204",
+                            "twitter:image:alt": "Reuters logo",
+                            "twitter:site": "@Reuters",
+                            "article:modified_time": "2022-07-06T17:13:29.000Z",
+                            "render_timestamp": "2024-07-21T08:37:14.596Z",
+                            "fb:admins": "988502044532272",
+                            "article:content_tier": "free",
+                            "og:type": "article",
+                            "article:section": "Fact Check",
+                            "og:image:alt": "Reuters logo",
+                            "twitter:title": "No evidence that U.S. schoolchildren are self-identifying as animals and disrupting classrooms",
+                            "ad:template": "article",
+                            "og:image:url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204",
+                            "dcsext.dartzone": "/4735792/reuters.com/fact-check/article",
+                            "og:title": "No evidence that U.S. schoolchildren are self-identifying as animals and disrupting classrooms",
+                            "dcsext.channellist": "Fact Check;",
+                            "og:image:height": "628",
+                            "og:article:published_time": "2022-07-06T17:13:29.000Z",
+                            "fb:pages": "114050161948682",
+                            "article:author": "Reuters Fact Check",
+                            "fb:app_id": "988502044532272",
+                            "og:locale:alternate": "en_US",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "In a clip from \u2018What is a Woman?\u2019, a documentary by right-wing commentator Matt Walsh, interviewee Sara Stockton, a family therapist based in New York, says schoolchildren are self-identifying as animals and disrupting classrooms.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/article/fact-check/no-evidence-that-us-schoolchildren-are-self-identifying-as-animals-and-disrupt-idUSL1N2YN1O2/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/article/fact-check/no-evidence-that-us-schoolchildren-are-self-identifying-as-animals-and-disrupt-idUSL1N2YN1O2/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.reuters.com/article/fact-check/no-evidence-that-us-schoolchildren-are-self-identifying-as-animals-and-disrupt-idUSL1N2YN1O2/",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Reuters is a global news organization known for its impartial reporting and dedication to factual accuracy. Similar to AP, it relies on thorough vetting processes before publishing stories. Reuters is particularly skilled in covering important legal and political issues, which would include investigations and reports related to high-profile cases like Epstein\u2019s, making it a valuable resource for truth verification."
+                },
+                "ContentScore": {
+                    "NewnessScore": 2,
+                    "Newness Justification": "This article was published on July 6, 2022, which is relatively old compared to the current date of July 2024. The timeframe significantly reduces its relevance and therefore its score.",
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence is unrelated to Jeffrey Epstein or the specific claims of the video. It addresses a completely different topic, making it largely irrelevant to the questions at hand regarding the video and Epstein."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+                "htmlTitle": "<b>FactCheck</b>.org - A Project of The Annenberg Public Policy Center",
+                "link": "https://www.factcheck.org/",
+                "displayLink": "www.factcheck.org",
+                "snippet": "Conspiracy theories and misinformation on social media began clouding coverage of the July 13 attempted assassination of former President Donald Trump almost\u00a0...",
+                "htmlSnippet": "Conspiracy theories and misinformation on social media began clouding coverage of the July 13 attempted assassination of former President Donald Trump almost&nbsp;...",
+                "formattedUrl": "https://www.factcheck.org/",
+                "htmlFormattedUrl": "https://www.factcheck.org/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSEp2DuK7JajcbJinP8pLOqqyZJKD8-IyGPIAHM82n3X0xmZOch0cI5uRH&s",
+                            "width": "200",
+                            "height": "200"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#ffffff",
+                            "og:image": "https://cdn.factcheck.org/UploadedFiles/FactCheck-200x200.png",
+                            "theme-color": "#ffffff",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "FactCheck.org",
+                            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+                            "og:title": "FactCheck.org",
+                            "msapplication-tileimage": "/ms-icon-144x144.png",
+                            "twitter:site": "@factcheckdotorg",
+                            "og:locale:alternate": "es_MX",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "apple-mobile-web-app-capable": "yes",
+                            "mobile-web-app-capable": "yes",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.factcheck.org/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.factcheck.org/UploadedFiles/FactCheck-200x200.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Conspiracy theories and misinformation on social media began clouding coverage of the July 13 attempted assassination of former President Donald Trump almost immediately after it happened. We addressed several of those claims. We fact-checked former President Donald Trump\u2019s speech accepting his party\u2019s nomination. Viral online posts make the unfounded claim that a woman at former President Donald Trump\u2019s July 13 rally acted \u201csuspicious,\u201d suggesting that she might have been involved in a plot to assassinate Trump, and that a QAnon-related character may have also been involved. The FBI has said that the \u201cinvestigation to date indicates the shooter acted alone.\u201d A chart widely shared on social media comparing macroeconomic indicators purports to show the country fared better under former President Donald Trump than President Joe Biden. However, the chart cites some figures that are inaccurate, outdated or misleading. FactCheck.org staff writer Catalina Jaramillo spoke with La Red Hispana, a Spanish-language media network, about our efforts to combat misinformation in Spanish. During his speech at the Republican National Convention, Rep. Tom Emmer of Minnesota talked about \u201crioters\u201d in Minneapolis after the death of George Floyd in 2020, and misleadingly said that Vice President Kamala Harris \u201cfreed\u201d from jail one of \u201cthe criminals\u201d who \u201cwent on to murder a man\u201d in neighboring St. Paul. Emmer is distorting the facts. In a leaked phone call with independent presidential candidate Robert F. Kennedy Jr., former President Donald Trump incorrectly suggested that childhood vaccine doses are too large and can provoke sudden, radical changes in babies. There\u2019s no evidence that the current vaccination schedule is harmful to kids. Former President Donald Trump\u2019s newly selected running mate, JD Vance, accepted the Republican Party\u2019s vice presidential nomination on the convention\u2019s third night, which featured claims about the economy, immigration and foreign policy. Extensive media coverage of the ... [Content truncated]",
+                    "content_tokens": 300
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 10,
+                    "justification": "FactCheck.org is a non-profit organization dedicated to reducing the level of deception in U.S. politics. It meticulously reviews factual claims and provides clear analyses on the truthfulness of statements made by public figures and the media. Given its focus on debunking misinformation and its systematic methodology, FactCheck.org stands out as one of the best resources for verifying the authenticity of viral claims."
+                },
+                "ContentScore": {
+                    "NewnessScore": 10,
+                    "Newness Justification": "This is a general website about fact-checking, which remains current and useful. The specific date of the article is not provided, but the site is actively updated. Thus, it scores the highest for newness.",
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "While the site itself is dedicated to fact-checking and can be helpful for verifying various claims, without specific evidence directly related to the video and Epstein, its relevance is moderate."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Fact check: Tom Hanks is not recorded in Jeffrey Epstein's flight logs ...",
+                "htmlTitle": "<b>Fact check</b>: Tom Hanks is not recorded in Jeffrey <b>Epstein&#39;s</b> flight logs ...",
+                "link": "https://www.reuters.com/article/world/fact-check-tom-hanks-is-not-recorded-in-jeffrey-epsteins-flight-logs-idUSKCN24F20J/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Jul 14, 2020 ... Posts circulating on social media claim that Tom Hanks flew on Jeffrey Epstein's private jet to his island in the Caribbean.",
+                "htmlSnippet": "Jul 14, 2020 <b>...</b> Posts circulating on social media claim that Tom Hanks flew on Jeffrey <b>Epstein&#39;s</b> private jet to his <b>island</b> in the Caribbean.",
+                "formattedUrl": "https://www.reuters.com/.../fact-check-tom-hanks-is-not-recorded-in-jeffrey...",
+                "htmlFormattedUrl": "https://www.reuters.com/.../fact-check-tom-hanks-is-not-recorded-in-jeffrey...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoiAt7-6MmC1b3oHgzb0O0MCs0PXY6SC06u7XQ2L9hcWF8xrfSLTT6Wwzj&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/article/world/fact-check-tom-hanks-is-not-recorded-in-jeffrey-epsteins-flight-logs-idUSKCN24F20J/?id=KCN24F20J",
+                            "og:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204",
+                            "analytics:page_layout": "regular-article",
+                            "article:published_time": "2020-07-14T15:12:21.000Z",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Reuters",
+                            "ccbot": "nofollow",
+                            "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                            "analyticsattributes.topicchannel": "World",
+                            "title": "Fact check: Tom Hanks is not recorded in Jeffrey Epstein\u2019s flight logs | Reuters",
+                            "og:description": "Posts circulating on social media claim that Tom Hanks&nbsp;flew on&nbsp;Jeffrey&nbsp;Epstein\u2019s private jet to his island in the Caribbean.&nbsp;This claim is false.&nbsp;",
+                            "twitter:creator": "@Reuters",
+                            "twitter:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204",
+                            "twitter:image:alt": "Reuters logo",
+                            "twitter:site": "@Reuters",
+                            "article:modified_time": "2020-07-14T15:12:21.000Z",
+                            "render_timestamp": "2024-07-21T08:21:54.231Z",
+                            "fb:admins": "988502044532272",
+                            "article:content_tier": "metered",
+                            "og:type": "article",
+                            "article:section": "World",
+                            "og:image:alt": "Reuters logo",
+                            "twitter:title": "Fact check: Tom Hanks is not recorded in Jeffrey Epstein\u2019s flight logs",
+                            "ad:template": "article",
+                            "og:image:url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204",
+                            "dcsext.dartzone": "/4735792/reuters.com/world/article",
+                            "og:title": "Fact check: Tom Hanks is not recorded in Jeffrey Epstein\u2019s flight logs",
+                            "dcsext.channellist": "World;",
+                            "og:image:height": "628",
+                            "og:article:published_time": "2020-07-14T15:12:21.000Z",
+                            "fb:pages": "114050161948682",
+                            "article:author": "Reuters",
+                            "fb:app_id": "988502044532272",
+                            "og:locale:alternate": "en_US",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Posts circulating on social media claim that Tom Hanks&nbsp;flew on&nbsp;Jeffrey&nbsp;Epstein\u2019s private jet to his island in the Caribbean.&nbsp;This claim is false.&nbsp;",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/article/world/fact-check-tom-hanks-is-not-recorded-in-jeffrey-epsteins-flight-logs-idUSKCN24F20J/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/article/world/fact-check-tom-hanks-is-not-recorded-in-jeffrey-epsteins-flight-logs-idUSKCN24F20J/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.reuters.com/article/world/fact-check-tom-hanks-is-not-recorded-in-jeffrey-epsteins-flight-logs-idUSKCN24F20J/",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Reuters is a global news organization known for its impartial reporting and dedication to factual accuracy. Similar to AP, it relies on thorough vetting processes before publishing stories. Reuters is particularly skilled in covering important legal and political issues, which would include investigations and reports related to high-profile cases like Epstein\u2019s, making it a valuable resource for truth verification."
+                },
+                "ContentScore": {
+                    "NewnessScore": 4,
+                    "Newness Justification": "Published on July 14, 2020, this evidence is significantly outdated. While it addresses Epstein, its age negatively impacts its overall newness score.",
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "Although this article discusses claims involving Epstein, it does not directly relate to the current video or the context of the claims made against it. Therefore, relevance is moderate but not high."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Fact Check: Does Epstein List Include Beyonc\u00e9, Dwayne Johnson ...",
+                "htmlTitle": "<b>Fact Check</b>: Does <b>Epstein</b> List Include Beyonc\u00e9, Dwayne Johnson ...",
+                "link": "https://www.newsweek.com/fact-check-epstein-list-include-beyonce-dwayne-johnson-1858795",
+                "displayLink": "www.newsweek.com",
+                "snippet": "Jan 8, 2024 ... \u2713 Link copied to clipboard! The recent unveiling of Jeffrey Epstein's celebrity connections has led to a string of misleading and false claims\u00a0...",
+                "htmlSnippet": "Jan 8, 2024 <b>...</b> \u2713 <b>Link</b> copied to clipboard! The recent unveiling of Jeffrey <b>Epstein&#39;s</b> celebrity connections has led to a string of misleading and false claims&nbsp;...",
+                "formattedUrl": "https://www.newsweek.com/fact-check-epstein-list-include-beyonce-dwayn...",
+                "htmlFormattedUrl": "https://www.newsweek.com/fact-check-<b>epstein</b>-list-include-beyonce-dwayn...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Gcgjwoje146b8o_baAi2N4gA4LICNqIk_BPbsJdR6hT265q_9BW7awYc&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://d.newsweek.com/en/full/2332741/beyonce-dwayne-johnson.png",
+                            "msapplication-config": "https://g.newsweek.com/themes/newsweek/favicons/browserconfig.xml",
+                            "og:image:width": "2400",
+                            "article:published_time": "2024-01-08T13:11:11-05:00",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ff0500",
+                            "og:site_name": "Newsweek",
+                            "twitter:url": "https://www.newsweek.com/fact-check-epstein-list-include-beyonce-dwayne-johnson-1858795",
+                            "og:description": "A new Jeffrey Epstein list shared on social media includes Lady Gaga, Robert De Niro and Alec Baldwin",
+                            "article:publisher": "https://www.facebook.com/Newsweek",
+                            "twitter:image": "https://d.newsweek.com/en/full/2332741/beyonce-dwayne-johnson.webp",
+                            "twitter:site": "@newsweek",
+                            "article:modified_time": "2024-01-08T13:11:11-05:00",
+                            "msapplication-tilecolor": "#ff0500",
+                            "og:type": "article",
+                            "og:image:alt": "Beyonce and Dwayne Johnson",
+                            "article:section": "Fact Check",
+                            "twitter:title": "Fact Check: Does Epstein list include Beyonc\u00e9, Dwayne Johnson and more?",
+                            "og:title": "Fact Check: Does Epstein list include Beyonc\u00e9, Dwayne Johnson and more?",
+                            "og:image:height": "1600",
+                            "fb:pages": "18343191100",
+                            "article:tag": "Fact Check",
+                            "fb:app_id": "245537789135954",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "A new Jeffrey Epstein list shared on social media includes Lady Gaga, Robert De Niro and Alec Baldwin",
+                            "og:url": "https://www.newsweek.com/fact-check-epstein-list-include-beyonce-dwayne-johnson-1858795"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d.newsweek.com/en/full/2332741/beyonce-dwayne-johnson.png"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2024-01-08T13:11:11-05:00",
+                            "claimReviewed": "Does Epstein list include Beyonce, Dwayne Johnson,",
+                            "url": "https://www.newsweek.com/fact-check-epstein-list-include-beyonce-dwayne-johnson-1858795"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The recent unveiling of Jeffrey Epstein's celebrity connections has led to a string of misleading and false claims regarding public figures the late financier allegedly associated with. Several names were revealed after documents from a lawsuit filed by Virginia Giuffre, an alleged trafficking victim, against British socialite Ghislaine Maxwell, Epstein's former girlfriend, were unsealed on Wednesday. Maxwell is serving a 20-year prison sentence after she was convicted in December 2021 of helping Epstein recruit and sexually abuse underage girls. An individual named in the documents does not mean they have committed wrongdoing, and most had been mentioned previously in legal proceedings or news accounts. The unsealing has inspired lists of bogus connections that have continued to dupe social media, with a new one of famous faces including The Rock, Beyonc\u00e9, Lady Gaga, and Miley Cyrus, attracting attention this week. The Claim A post on X, formerly Twitter, by user Qmum/@Nancy023922191, posted on January 7, 2024, viewed more than 1.8 million times, said: \"Maxwell was arrested for Supplying Children to Pedophiles - Sean Penn - The Rock - Schwarzenegger - Lebron James - Meryl Streep - Alec Baldwin - Chrissy Teigen & John Legend - Lady Gaga - Robert De Niro - Miley Cyrus - Stephen King - Jay Z & Beyonc\u00e9 - Alyssa Milano - Snoop Dog\" The Facts While this post doesn't specify what connection these people have to Maxwell or Epstein, almost no one in this list had known connections to them. Bogus Epstein lists have become almost something of a cliche in misinformation circles, drawing on the immense interest surrounding Epstein and the cache of actual celebrity connections Epstein had. Al Gore, Kamala Harris, Jimmy Kimmel are among just some of public figures who have been falsely linked to Epstein or Maxwell. Newsweek has published a full ... [Content truncated]",
+                    "content_tokens": 300
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Newsweek has a long history of journalism, but its reputation has fluctuated over the years, especially following its transition to digital media. While it does feature investigative pieces and covers significant stories, its editorial choices occasionally lead to sensational content that can lack rigorous fact-checking. That's why, while still credible, it scores slightly lower than top-tier news organizations."
+                },
+                "ContentScore": {
+                    "NewnessScore": 8,
+                    "Newness Justification": "This article was published on January 8, 2024, and is very recent. It addresses discussions around Epstein's celebrity connections, which is timely and pertinent.",
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "The article discusses misleading claims related to Epstein, which could be relevant when assessing the authenticity of claims related to the video. However, it does not provide concrete verification linked to the specific video."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Fact check: Man detained in Rochester, Minnesota is not an FBI ...",
+                "htmlTitle": "<b>Fact check</b>: Man detained in Rochester, Minnesota is not an FBI ...",
+                "link": "https://www.reuters.com/article/world/fact-check-man-detained-in-rochester-minnesota-is-not-an-fbi-agent-idUSKBN2383PX/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Jun 2, 2020 ... ... identity but the man in the video is not an FBI agent. This article was produced by the Reuters Fact Check team. Read more about our work to\u00a0...",
+                "htmlSnippet": "Jun 2, 2020 <b>...</b> ... <b>identity</b> but the man in the <b>video</b> is not an FBI agent. This <b>article</b> was produced by the Reuters <b>Fact Check</b> team. Read more about our work to&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/.../fact-check-man-detained-in-rochester-minnesot...",
+                "htmlFormattedUrl": "https://www.reuters.com/.../fact-check-man-detained-in-rochester-minnesot...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoiAt7-6MmC1b3oHgzb0O0MCs0PXY6SC06u7XQ2L9hcWF8xrfSLTT6Wwzj&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/article/world/fact-check-man-detained-in-rochester-minnesota-is-not-an-fbi-agent-idUSKBN2383PX/?id=KBN2383PX",
+                            "og:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204",
+                            "analytics:page_layout": "regular-article",
+                            "article:published_time": "2020-06-02T16:47:09.000Z",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Reuters",
+                            "ccbot": "nofollow",
+                            "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                            "analyticsattributes.topicchannel": "World",
+                            "title": "Fact check: Man detained in Rochester, Minnesota is not an FBI agent | Reuters",
+                            "og:description": "Correction June 2, 2020: The verdict of this check has been updated to remove the term \"wrongfully\". The man the video was briefly detained by police in a case of mistaken identity.",
+                            "twitter:creator": "@Reuters",
+                            "twitter:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204",
+                            "twitter:image:alt": "Reuters logo",
+                            "twitter:site": "@Reuters",
+                            "article:modified_time": "2020-06-01T21:37:26.000Z",
+                            "render_timestamp": "2024-07-21T02:15:57.789Z",
+                            "fb:admins": "988502044532272",
+                            "article:content_tier": "metered",
+                            "og:type": "article",
+                            "article:section": "World",
+                            "og:image:alt": "Reuters logo",
+                            "twitter:title": "Fact check: Man detained in Rochester, Minnesota is not an FBI agent",
+                            "ad:template": "article",
+                            "og:image:url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204",
+                            "dcsext.dartzone": "/4735792/reuters.com/world/article",
+                            "og:title": "Fact check: Man detained in Rochester, Minnesota is not an FBI agent",
+                            "dcsext.channellist": "World;",
+                            "og:image:height": "628",
+                            "og:article:published_time": "2020-06-02T16:47:09.000Z",
+                            "fb:pages": "114050161948682",
+                            "article:author": "Reuters",
+                            "fb:app_id": "988502044532272",
+                            "og:locale:alternate": "en_US",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Correction June 2, 2020: The verdict of this check has been updated to remove the term \"wrongfully\". The man the video was briefly detained by police in a case of mistaken identity.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/article/world/fact-check-man-detained-in-rochester-minnesota-is-not-an-fbi-agent-idUSKBN2383PX/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/article/world/fact-check-man-detained-in-rochester-minnesota-is-not-an-fbi-agent-idUSKBN2383PX/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.reuters.com/article/world/fact-check-man-detained-in-rochester-minnesota-is-not-an-fbi-agent-idUSKBN2383PX/",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Reuters is a global news organization known for its impartial reporting and dedication to factual accuracy. Similar to AP, it relies on thorough vetting processes before publishing stories. Reuters is particularly skilled in covering important legal and political issues, which would include investigations and reports related to high-profile cases like Epstein\u2019s, making it a valuable resource for truth verification."
+                },
+                "ContentScore": {
+                    "NewnessScore": 4,
+                    "Newness Justification": "Published on June 2, 2020, this evidence is outdated. Although it addresses misinformation, its relevance to Epstein is minimal given the age.",
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "This article does not contribute significantly to verifying or disputing claims related to Epstein's video or its participants."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Jeffrey Epstein court document names unsealed",
+                "htmlTitle": "Jeffrey <b>Epstein</b> court document names unsealed",
+                "link": "https://www.cnbc.com/2024/01/03/jeffrey-epstein-court-document-names-unsealed-wednesday-.html",
+                "displayLink": "www.cnbc.com",
+                "snippet": "Jan 3, 2024 ... Court files and documents containing previously hidden names of people associated in some way with the late notorious sex offender Jeffrey\u00a0...",
+                "htmlSnippet": "Jan 3, 2024 <b>...</b> Court files and documents containing previously hidden names of people <b>associated</b> in some way with the late notorious sex offender Jeffrey&nbsp;...",
+                "formattedUrl": "https://www.cnbc.com/.../jeffrey-epstein-court-document-names-unsealed-...",
+                "htmlFormattedUrl": "https://www.cnbc.com/.../jeffrey-<b>epstein</b>-court-document-names-unsealed-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbUOiIxqR2ek7uObm6beg3g33gwkepwtT0b8DrQ8KfAXaPl5-TwsKcO1b4&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "newsmediaorganization": [
+                        {
+                            "foundingdate": "'1989-04-17'",
+                            "name": "CNBC",
+                            "url": "https://www.cnbc.com"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://image.cnbcfm.com/api/v1/image/106601637-1593706264821preview.jpg?v=1704318716&w=1920&h=1080",
+                            "apple-itunes-app": "app-id=398018310",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2024-01-03T17:14:20+0000",
+                            "og:site_name": "CNBC",
+                            "twitter:url": "https://www.cnbc.com/2024/01/03/jeffrey-epstein-court-document-names-unsealed-wednesday-.html",
+                            "tp:preferredformats": "M3U,MPEG4",
+                            "og:description": "More than 150 names of people connected to sex offender Jeffrey Epstein are contained in New York federal court documents that will be made public.",
+                            "twitter:creator": "_DanMangan",
+                            "parsely-metadata": "{\"nodeid\":107353792,\"originalImage\":\"https://image.cnbcfm.com/api/v1/image/106601637-1593706264821preview.jpg?v=1704318716\"}",
+                            "twitter:image": "https://image.cnbcfm.com/api/v1/image/106601637-1593706264821preview.jpg?v=1704318716&w=1920&h=1080",
+                            "article:publisher": "https://www.facebook.com/cnbc",
+                            "al:ios:app_store_id": "398018310",
+                            "pagenodeid": "107353792",
+                            "twitter:site": "@CNBC",
+                            "article:modified_time": "2024-01-04T18:18:54+0000",
+                            "news_keywords": "Laws,Crime,Donald Trump,Bill Clinton,Ghislaine Maxwell,Loretta Preska,New York,Collusion,Jeffrey Epstein,Politics,Breaking News: Politics,Bill Clinton,Prince Andrew,business news",
+                            "tp:preferredruntimes": "universal",
+                            "tp:initialize": "false",
+                            "assettype": "cnbcnewsstory",
+                            "og:type": "article",
+                            "twitter:title": "Names in Jeffrey Epstein court documents unsealed",
+                            "article:section": "Politics",
+                            "al:ios:app_name": "CNBC Business News and Finance",
+                            "author": "Dan Mangan",
+                            "og:title": "Names in Jeffrey Epstein court documents unsealed",
+                            "article:author": "https://www.facebook.com/CNBC",
+                            "twitter:image:src": "https://image.cnbcfm.com/api/v1/image/106601637-1593706264821preview.jpg?v=1704318716&w=1920&h=1080",
+                            "article:tag": "Laws",
+                            "viewport": "initial-scale=1.0, width=device-width",
+                            "twitter:description": "More than 150 names of people connected to sex offender Jeffrey Epstein are contained in New York federal court documents that will be made public.",
+                            "og:url": "https://www.cnbc.com/2024/01/03/jeffrey-epstein-court-document-names-unsealed-wednesday-.html",
+                            "format-detection": "telephone=no",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "webpage": [
+                        {
+                            "image": "https://image.cnbcfm.com/api/v1/image/106601637-1593706264821preview.jpg?v=1704318716&w=1920&h=1080",
+                            "contentrating": "NR",
+                            "specialty": "Laws,Crime,Donald Trump,Bill Clinton,Ghislaine Maxwell,Loretta Preska,New York,Collusion,Jeffrey Epstein,Politics,Breaking News: Politics,Bill Clinton,Prince Andrew",
+                            "primaryimageofpage": "https://image.cnbcfm.com/api/v1/image/106601637-1593706264821preview.jpg?v=1704318716",
+                            "datemodified": "2024-01-04T18:18:54+0000",
+                            "inlanguage": "en-US",
+                            "keywords": "Laws,Crime,Donald Trump,Bill Clinton,Ghislaine Maxwell,Loretta Preska,New York,Collusion,Jeffrey Epstein,Politics,Breaking News: Politics,Bill Clinton,Prince Andrew,business news",
+                            "lastreviewed": "2024-01-04T18:18:54+0000",
+                            "name": "Jeffrey Epstein court document names unsealed",
+                            "description": "More than 150 names of people connected to sex offender Jeffrey Epstein are contained in New York federal court documents that will be made public.",
+                            "datecreated": "2024-01-03T17:14:20+0000",
+                            "datepublished": "2024-01-03T17:14:20+0000"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://image.cnbcfm.com/api/v1/image/106601637-1593706264821preview.jpg?v=1704318716&w=1920&h=1080"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Credit Cards Loans Banking Mortgages Insurance Credit Monitoring Personal Finance Small Business Taxes Help for Low Credit Scores Investing SELECT All Credit Cards Find the Credit Card for You Best Credit Cards Best Rewards Credit Cards Best Travel Credit Cards Best 0% APR Credit Cards Best Balance Transfer Credit Cards Best Cash Back Credit Cards Best Credit Card Welcome Bonuses Best Credit Cards to Build Credit SELECT All Loans Find the Best Personal Loan for You Best Personal Loans Best Debt Consolidation Loans Best Loans to Refinance Credit Card Debt Best Loans with Fast Funding Best Small Personal Loans Best Large Personal Loans Best Personal Loans to Apply Online Best Student Loan Refinance SELECT All Banking Find the Savings Account for You Best High Yield Savings Accounts Best Big Bank Savings Accounts Best Big Bank Checking Accounts Best No Fee Checking Accounts No Overdraft Fee Checking Accounts Best Checking Account Bonuses Best Money Market Accounts Best CDs Best Credit Unions SELECT All Mortgages Best Mortgages Best Mortgages for Small Down Payment Best Mortgages for No Down Payment Best Mortgages with No Origination Fee Best Mortgages for Average Credit Score Adjustable Rate Mortgages Affording a Mortgage SELECT All Insurance Best Life Insurance Best Homeowners Insurance Best Renters Insurance Best Car Insurance Travel Insurance SELECT All Credit Monitoring Best Credit Monitoring Services Best Identity Theft Protection How to Boost Your Credit Score Credit Repair Services SELECT All Personal Finance Best Budgeting Apps Best Expense Tracker Apps Best Money Transfer Apps Best Resale Apps and Sites Buy Now Pay Later (BNPL) Apps Best Debt Relief SELECT All Small Business Best Small Business Savings Accounts Best Small Business Checking Accounts Best Credit Cards for Small Business Best Small Business Loans Best Tax Software for Small Business SELECT All Taxes Filing For Free Best Tax ... [Content truncated]",
+                    "content_tokens": 300
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "CNBC primarily focuses on business news, but it also covers broader topics, including controversial matters related to finance, politics, and legal issues. It is generally reliable for economic news and often employs fact-checking. However, its business focus may limit coverage depth on social issues compared to other news organizations, which slightly affects its score."
+                },
+                "ContentScore": {
+                    "NewnessScore": 9,
+                    "Newness Justification": "This article is from January 3, 2024, making it quite recent and relevant to current topics surrounding Epstein, hence score is high.",
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "The article discusses people connected to Epstein, which is directly relevant to the identities and verification of claims about the video in question."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Why conspiracy theories about Jeffrey Epstein keep flourishing : NPR",
+                "htmlTitle": "Why conspiracy theories about Jeffrey <b>Epstein</b> keep flourishing : NPR",
+                "link": "https://www.npr.org/2022/09/08/1121525125/heres-why-conspiracy-theories-about-jeffrey-epstein-keep-flourishing",
+                "displayLink": "www.npr.org",
+                "snippet": "Sep 8, 2022 ... This is just the latest spike of Epstein-related ... \"It's effective because lots of these things that are said about Epstein's life are, in fact,\u00a0...",
+                "htmlSnippet": "Sep 8, 2022 <b>...</b> This is just the latest spike of <b>Epstein</b>-<b>related</b> ... &quot;It&#39;s effective because lots of these things that are said about <b>Epstein&#39;s</b> life are, in <b>fact</b>,&nbsp;...",
+                "formattedUrl": "https://www.npr.org/.../heres-why-conspiracy-theories-about-jeffrey-epstein...",
+                "htmlFormattedUrl": "https://www.npr.org/.../heres-why-conspiracy-theories-about-jeffrey-<b>epstein</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeWp-hN69Ld8W-G0K2qp8kW1E5EspiSI3hxq9UtI2VA_peeFjI7Ifziro&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "speakablespecification": [
+                        {
+                            "cssselector": "[data-is-speakable]"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "date": "2022-09-08",
+                            "apple-itunes-app": "app-id=324906251, app-argument=https://www.npr.org/2022/09/08/1121525125/heres-why-conspiracy-theories-about-jeffrey-epstein-keep-flourishing",
+                            "og:image": "https://media.npr.org/assets/img/2022/09/07/gettyimages-1236890328_wide-3e0fa19f233d599afbaf27c08577e7c0b4126573.jpg?s=1400&c=100&f=jpeg",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Here's why conspiracy theories about Jeffrey Epstein keep flourishing",
+                            "og:site_name": "NPR",
+                            "cxenseparse:pageclass": "article",
+                            "twitter:domain": "npr.org",
+                            "cxenseparse:publishtime": "2022-09-08T05:00:05-04:00",
+                            "og:title": "Here's why conspiracy theories about Jeffrey Epstein keep flourishing",
+                            "rating": "General",
+                            "og:description": "Wealthy and powerful sex offender Jeffrey Epstein has been dead for three years, but members of the far-right keep invoking him in conspiracy theories to smear their opponents.",
+                            "fb:pages": "10643211755",
+                            "twitter:image:src": "https://media.npr.org/assets/img/2022/09/07/gettyimages-1236890328_wide-3e0fa19f233d599afbaf27c08577e7c0b4126573.jpg?s=1400&c=100&f=jpeg",
+                            "fb:app_id": "138837436154588",
+                            "cxenseparse:author": "Lisa Hagen",
+                            "twitter:site": "@NPR",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "article:content_tier": "free",
+                            "og:url": "https://www.npr.org/2022/09/08/1121525125/heres-why-conspiracy-theories-about-jeffrey-epstein-keep-flourishing",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.npr.org/assets/img/2022/09/07/gettyimages-1236890328_wide-3e0fa19f233d599afbaf27c08577e7c0b4126573.jpg?s=1400&c=100&f=jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Why conspiracy theories about Jeffrey Epstein keep flourishing : NPR =============== Accessibility links * * ! ****Play Live Radio**** * **Hourly News** * **Listen Live** * **Playlist** * Open Navigation Menu * ] * * * * Close Navigation Menu * * Expand/collapse submenu for News * * * * * * * * * Expand/collapse submenu for Culture * * * * * * * * * * Expand/collapse submenu for Music * * * * * * Expand/collapse submenu for Podcasts & Shows Daily * Morning Edition] * Weekend Edition Saturday] * Weekend Edition Sunday] * All Things Considered] * Fresh Air] * Up First] Featured * The NPR Politics Podcast] * Throughline] * Trump's Trials] * Wild Card with Rachel Martin] * * * * * * !] * * * * * * * * * * * **Why conspiracy theories about Jeffrey Epstein keep flourishing** **Wealthy and powerful sex offender Jeffrey Epstein has been dead for three years, but members of the far-right keep invoking him in conspiracy theories to smear their opponents.** Here's why conspiracy theories about Jeffrey Epstein keep flourishing ===================================================================== September 8, 20225:00 AM ET By ! Enlarge this image Protesters with signs linking the late Jeffrey Epstein to conspiracy theories at the sex trafficking trial of his accomplice, Ghislaine Maxwell , in November 2021 in New York City. **David Dee Delgado/Getty Images** ****hide caption**** ****toggle caption**** David Dee Delgado/Getty Images ! Protesters with signs linking the late Jeffrey Epstein to conspiracy theories at the sex trafficking trial of his accomplice, Ghislaine Maxwell , in November 2021 in New York City. David Dee Delgado/Getty Images , but his ghost still wanders the dark halls of the internet. In life, Epstein was a secretive financier, arrested for a series of sexual crimes with ... [Content truncated]",
+                    "content_tokens": 300
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "NPR (National Public Radio) is respected for its thoughtful and in-depth reporting, often providing high-quality analysis on a variety of issues. While NPR's coverage can sometimes be seen as leaning left, it maintains strong journalistic integrity and fact-checking practices due to its public funding and scrutiny, leading to a solid quality score."
+                },
+                "ContentScore": {
+                    "NewnessScore": 8,
+                    "Newness Justification": "The article was published on September 8, 2022, which makes it somewhat recent. Although not within the last few months, it's still fairly relevant to ongoing discussions.",
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "It addresses why conspiracy theories around Epstein flourish, which is relevant in understanding misinformation, but it doesn\u2019t directly verify anything regarding the video itself."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Alan Dershowitz and his role defending Jeffrey Epstein, explained ...",
+                "htmlTitle": "Alan Dershowitz and his role defending Jeffrey <b>Epstein</b>, explained ...",
+                "link": "https://www.vox.com/identities/2019/7/30/20746983/alan-dershowitz-jeffrey-epstein-sarah-ransome-giuffre",
+                "displayLink": "www.vox.com",
+                "snippet": "Jul 31, 2019 ... I'm going to continue to speak out until the day I die,\u201d the Harvard Law professor told Vox.",
+                "htmlSnippet": "Jul 31, 2019 <b>...</b> I&#39;m going to continue to speak out until the day I die,\u201d the Harvard Law professor told Vox.",
+                "formattedUrl": "https://www.vox.com/identities/.../alan-dershowitz-jeffrey-epstein-sarah-ran...",
+                "htmlFormattedUrl": "https://www.vox.com/<b>identities</b>/.../alan-dershowitz-jeffrey-<b>epstein</b>-sarah-ran...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfkE3tnEi0JB1rB1MoBDNSthyTDPzylOyxKdqjvKKAyZxzAQet0OBeqpdG&s",
+                            "width": "312",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/18367716/528638630.jpg.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                            "twitter:card": "summary",
+                            "article:published_time": "2019-07-30T22:30:00+00:00",
+                            "og:image:width": "1200",
+                            "og:site_name": "Vox",
+                            "apple-mobile-web-app-title": "Vox",
+                            "parsely-author": "Anna North",
+                            "bingbot": "nocache",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "\u201cI\u2019m going to continue to speak out until the day I die,\u201d the Harvard Law professor told Vox.",
+                            "next-head-count": "34",
+                            "parsely-type": "post",
+                            "twitter:site": "voxdotcom",
+                            "article:modified_time": "2019-07-31T14:33:22+00:00",
+                            "parsely-link": "https://www.vox.com/identities/2019/7/30/20746983/alan-dershowitz-jeffrey-epstein-sarah-ransome-giuffre",
+                            "parsely-image-url": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/18367716/528638630.jpg.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+                            "parsely-section": "explainers",
+                            "og:type": "article",
+                            "og:image:alt": "Attorney Alan Dershowitz speaks during an interview on May 18, 2010 in Jerusalem, Israel.",
+                            "author": "Anna North",
+                            "og:title": "Alan Dershowitz helped Jeffrey Epstein get a plea deal. Now he\u2019s tweeting about age of consent laws.",
+                            "og:image:height": "628",
+                            "parsely-title": "Alan Dershowitz helped sex offender Jeffrey Epstein get a plea deal. Now he\u2019s tweeting about age of consent laws.",
+                            "parsely-pub-date": "2019-07-30T22:30:00+00:00",
+                            "fb:app_id": "549923288395304",
+                            "parsely-tags": "vox,pagetype:story,category-explainers,old-politics,explainers,politics",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "og:url": "https://www.vox.com/identities/2019/7/30/20746983/alan-dershowitz-jeffrey-epstein-sarah-ransome-giuffre"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/18367716/528638630.jpg.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "When found out in 2005 that he was being investigated by police for the sexual abuse of underage girls, he called Alan Dershowitz. A Harvard Law School professor and high-profile defense lawyer, Dershowitz helped negotiate a \u201cnon-prosecution agreement\u201d under which Epstein served just 13 months in a county jail, much of it spent on \u201cwork release\u201d in an office. Ever since details of that agreement were reported by , Dershowitz and his role in the deal have been under added scrutiny. That only increased this week with the publication of a , detailing not just Dershowitz\u2019s role in defending Epstein, but also allegations by two women who say that they were directed to have sex with Dershowitz while in Epstein\u2019s orbit. Dershowitz vehemently denies both allegations. Despite widespread attention to his role in the Epstein case \u2014 and a defamation suit from one of his accusers \u2014 Dershowitz has no intention of laying low. For instance, he continues to publicly criticize age-of-consent laws \u2014 most recently , earlier this week. For some, his defense of Epstein is a reminder of the way the American legal system continues to favor powerful men who can pay high-profile attorneys. But Dershowitz sees himself as the wronged party, victimized by women who are lying about him, but determined to clear his name. \u201cI\u2019m a victim of false accusation,\u201d he told Vox, \u201cand I\u2019m going to continue to speak out until the day I die.\u201d Alan Dershowitz got famous by defending wealthy, high-profile clients --------------------------------------------------------------------- Dershowitz started his career as an advocate for civil liberties, Bruck writes, taking on pro bono cases that challenged censorship laws and the death penalty. He was hired as an assistant professor at Harvard Law School in 1964, while still in his 20s. But in the \u201980s and \u201990s, Bruck ... [Content truncated]",
+                    "content_tokens": 300
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Vox is known for its explanatory journalism, aiming to make complex topics more accessible. While it typically sources its information well and offers useful context, it sometimes incorporates opinion-based pieces that may present biases. Thus, while informative, it is slightly less reliable than traditional news outlets purely focused on fact-based reporting."
+                },
+                "ContentScore": {
+                    "NewnessScore": 7,
+                    "Newness Justification": "This article is from July 31, 2019, making it somewhat dated. Due to the ongoing evolution of Epstein-related narratives, it scores moderately.",
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "While it discusses someone associated with Epstein, it doesn't offer specific information confirming claims related to the video, diminishing its relevance."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Investigation and Review of the Federal Bureau of Prisons' Custody ...",
+                "htmlTitle": "Investigation and Review of the Federal Bureau of Prisons&#39; Custody ...",
+                "link": "https://oig.justice.gov/sites/default/files/reports/23-085.pdf",
+                "displayLink": "oig.justice.gov",
+                "snippet": "Jun 22, 2023 ... Recorded video evidence for August 9 and 10 for the. SHU area where Epstein was housed was only available from one prison security camera due to\u00a0...",
+                "htmlSnippet": "Jun 22, 2023 <b>...</b> Recorded <b>video</b> evidence for August 9 and 10 for the. SHU area where <b>Epstein</b> was housed was only available from one prison security camera <b>due</b> to&nbsp;...",
+                "formattedUrl": "https://oig.justice.gov/sites/default/files/reports/23-085.pdf",
+                "htmlFormattedUrl": "https://oig.justice.gov/sites/default/files/reports/23-085.pdf",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "moddate": "D:20230626180014-04'00'",
+                            "creationdate": "D:20230623143155-04'00'",
+                            "creator": "Acrobat PDFMaker 23 for Word",
+                            "lastsaved": "D:20200819",
+                            "sourcemodified": "D:20230623182959",
+                            "_dlc_dociditemguid": "52cfb946-b7dd-4eb9-95ad-83a9e53e54ca",
+                            "author": "OIG",
+                            "created": "D:20200511",
+                            "producer": "Adobe Acrobat Pro (32-bit) 23 Paper Capture Plug-in",
+                            "title": "2 3 - 0 8 5",
+                            "contenttypeid": "0x010100A384EB549228CB4BB21FB00630B8743E"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "> LIMITED OFFICIAL USE - PROPRIETARY INFORMATION # Investigation and Review of the Federal Bureau of # Prisons\u2019 Custody, Care, and Supervision of Jeffrey # Epstein at the Metropolitan Correctional Center in # New York, New York > I N V E S T I G AT I O N S D I V I S I O N > 2 3 - 0 8 5 > JUNE 2023 # * * * HEADER TEXT GOES HERE i # E X E C U T I V E S U M M A R Y # Investigation and Review of the Federal Bureau of Prisons\u2019 Custody, Care, and Supervision of Jeffrey Epstein at the Metropolitan Correctional Center in New York, New York Introduction and Background According to its website, the Federal Bureau of Prisons (BOP)\u2019s current mission statement is \u201cCorrections professionals who foster a humane and secure environment and ensure public safety by preparing individuals for successful reentry into our communities.\u201d However, the Department of Justice (DOJ) Office of the Inspector General (OIG) has repeatedly identified long-standing operational challenges that negatively affect the BOP\u2019s ability to operate its institutions safely and securely. Many of those same operational challenges, including staffing shortages, managing inmates at risk for suicide, functional security camera systems, and management failures and widespread disregard of BOP policies and procedures, were again identified by the OIG during this investigation and review into the custody, care, and supervision of one of the BOP\u2019s most notorious inmates, Jeffrey Epstein. The OIG initiated this investigation upon receipt of information from the BOP that on August 10, 2019, in the Metropolitan Correctional Center in New York, New York (MCC New York), Epstein was found hanged in his assigned cell within the Special Housing Unit (SHU). The Office of the Chief Medical Examiner, ... [Content truncated]",
+                    "content_tokens": 300
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The Office of the Inspector General for the U.S. Department of Justice provides reports on investigations and audits tied to government operations. It is a credible source for factual information regarding legal matters and internal reviews. Its official nature and focus on accountability lend it high trustworthiness and accuracy."
+                },
+                "ContentScore": {
+                    "NewnessScore": 5,
+                    "Newness Justification": "This report is from June 22, 2023, making it somewhat recent, but not directly related to Epstein's specific activities concerning the claims against the video.",
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "The evidence pertains to an investigation but does not provide insight into the video or its context, awarding it a low relevance score."
+                }
+            }
+        }
+    ]
+}
