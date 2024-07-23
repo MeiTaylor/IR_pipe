@@ -1,0 +1,606 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Kyiv beach party viral video fact-checking August 2023",
+                "totalResults": "808000",
+                "searchTerms": "Kyiv beach party viral video fact-checking August 2023",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Kyiv beach party viral video fact-checking August 2023",
+                "totalResults": "808000",
+                "searchTerms": "Kyiv beach party viral video fact-checking August 2023",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.402291,
+        "formattedSearchTime": "0.40",
+        "totalResults": "808000",
+        "formattedTotalResults": "808,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Video of a beach party in Kyiv is being used to raise doubt around ...",
+                "htmlTitle": "<b>Video</b> of a <b>beach party</b> in <b>Kyiv</b> is being used to raise doubt around ...",
+                "link": "https://apnews.com/article/fact-check-video-ukraine-war-beach-party-413915632670",
+                "displayLink": "apnews.com",
+                "snippet": "Published 2:39 PM PDT, August 10, 2023. Share. Share. Copy. Link copied ... She previously reported on viral misinformation for AP Fact Check.",
+                "htmlSnippet": "Published 2:39 PM PDT, <b>August</b> 10, <b>2023</b>. Share. Share. Copy. Link copied ... She previously reported on <b>viral</b> misinformation for AP <b>Fact Check</b>.",
+                "formattedUrl": "https://apnews.com/.../fact-check-video-ukraine-war-beach-party-4139156...",
+                "htmlFormattedUrl": "https://apnews.com/.../fact-check-<b>video</b>-ukraine-war-<b>beach</b>-<b>party</b>-4139156...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCLa5aL-4Lua4T1T1Re_596yU6sNWTkxnP2Q2Q5NuAIGo-Toaessh3uUWV&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/082e48c/2147483647/strip/true/crop/822x462+0+19/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8f%2Fb3%2F12866de943f18816f00b7768d82e%2Fap-news-verification-war-in-ukraine-1.jpg"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://dims.apnews.com/dims4/default/082e48c/2147483647/strip/true/crop/822x462+0+19/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8f%2Fb3%2F12866de943f18816f00b7768d82e%2Fap-news-verification-war-in-ukraine-1.jpg",
+                            "og:image:width": "1440",
+                            "article:published_time": "2023-08-10T21:39:36.055",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "AP News",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "THE FACTS: Social media users are sharing a video of young people partying by a pool in Kyiv to downplay the impact of Russia’s invasion, going so far in some posts to suggest the war isn’t real.",
+                            "twitter:creator": "@karenaphan",
+                            "twitter:image": "https://dims.apnews.com/dims4/default/082e48c/2147483647/strip/true/crop/822x462+0+19/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8f%2Fb3%2F12866de943f18816f00b7768d82e%2Fap-news-verification-war-in-ukraine-1.jpg",
+                            "twitter:image:alt": "AP News Verification: War in Ukraine",
+                            "twitter:site": "@AP",
+                            "article:modified_time": "2023-08-17T17:04:39.72",
+                            "brightspot.contentid": "00000189-e15d-d35c-ab8f-e15f3a5a0000",
+                            "thumbnail": "https://dims.apnews.com/dims4/default/082e48c/2147483647/strip/true/crop/822x462+0+19/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8f%2Fb3%2F12866de943f18816f00b7768d82e%2Fap-news-verification-war-in-ukraine-1.jpg",
+                            "og:image:alt": "AP News Verification: War in Ukraine",
+                            "og:type": "article",
+                            "article:section": "AP Fact Check",
+                            "twitter:title": "Video of a beach party in Kyiv is being used to raise doubt around the war in Ukraine",
+                            "og:image:url": "https://dims.apnews.com/dims4/default/082e48c/2147483647/strip/true/crop/822x462+0+19/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8f%2Fb3%2F12866de943f18816f00b7768d82e%2Fap-news-verification-war-in-ukraine-1.jpg",
+                            "ga-datalayer": "{\n  \"dimension15\" : \"Fact-checking,AP Fact Check\",\n  \"dimension9\" : \"2023-08-10 17:39:36\",\n  \"dimension10\" : \"KARENA PHAN\"\n}",
+                            "ntv-kv": "Fact-checking",
+                            "og:title": "Video of a beach party in Kyiv is being used to raise doubt around the war in Ukraine",
+                            "og:image:height": "810",
+                            "permutive-datalayer": "{\n  \"category\" : \"AP Fact Check\",\n  \"dfp_kv\" : {\n    \"page_type\" : \"Article\"\n  },\n  \"tags\" : [ \"Fact-checking\" ],\n  \"page_type\" : \"Article\",\n  \"publication_date\" : \"2023-08-10T17:39:36.000Z\",\n  \"item_id\" : null,\n  \"headline\" : \"Video of a beach party in Kyiv is being used to raise doubt around the war in Ukraine\",\n  \"authors\" : [ \"KARENA PHAN\" ]\n}",
+                            "article:author": "https://apnews.com/author/karena-phan",
+                            "article:tag": "Fact-checking",
+                            "fb:app_id": "870613919693099",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+                            "twitter:description": "THE FACTS: Social media users are sharing a video of young people partying by a pool in Kyiv to downplay the impact of Russia’s invasion, going so far in some posts to suggest the war isn’t real.",
+                            "og:url": "https://apnews.com/article/fact-check-video-ukraine-war-beach-party-413915632670",
+                            "gtm-datalayer": "{\n  \"event\" : \"Article Visited\",\n  \"Tag_CMS\" : \"Fact-checking,AP Fact Check\",\n  \"tag_array\" : \"Fact-checking,AP Fact Check\",\n  \"headline\" : \"Video of a beach party in Kyiv is being used to raise doubt around the war in Ukraine\",\n  \"publication_date\" : \"2023-08-10 17:39:36\",\n  \"author\" : \"KARENA PHAN\",\n  \"linked_video\" : \"NO\",\n  \"pr_content\" : \"NO\",\n  \"featured\" : \"NO\",\n  \"lead_media\" : \"Photo\",\n  \"page_type\" : \"Article\",\n  \"is_infobox_present\" : \"NO\",\n  \"is_inline_link_present\" : \"YES\",\n  \"character_count\" : 3608,\n  \"primary_section\" : \"AP Fact Check\",\n  \"seo_title_updated\" : \"\",\n  \"seo_description_updated\" : \"\"\n}"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/082e48c/2147483647/strip/true/crop/822x462+0+19/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8f%2Fb3%2F12866de943f18816f00b7768d82e%2Fap-news-verification-war-in-ukraine-1.jpg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "claimReviewed": "A video showing a beach club in Kyiv proves",
+                            "url": "https://apnews.com/article/fact-check-video-ukraine-war-beach-party-413915632670"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://apnews.com/article/fact-check-video-ukraine-war-beach-party-413915632670: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://apnews.com/article/fact-check-video-ukraine-war-beach-party-413915632670",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Video from Beach Party in Kyiv Proves War in Ukraine Is a Hoax ...",
+                "htmlTitle": "<b>Video</b> from <b>Beach Party</b> in <b>Kyiv</b> Proves War in <b>Ukraine</b> Is a Hoax ...",
+                "link": "https://www.snopes.com/fact-check/beach-party-kyiv/",
+                "displayLink": "www.snopes.com",
+                "snippet": "Aug 7, 2023 ... In August 2023, a video went viral on social media that allegedly documented a party at a beach club in Kyiv, Ukraine. Users shared the clip ...",
+                "htmlSnippet": "Aug 7, 2023 <b>...</b> In <b>August 2023</b>, a <b>video</b> went <b>viral</b> on social media that allegedly documented a party at a <b>beach club</b> in <b>Kyiv</b>, <b>Ukraine</b>. Users shared the clip&nbsp;...",
+                "formattedUrl": "https://www.snopes.com/fact-check/beach-party-kyiv/",
+                "htmlFormattedUrl": "https://www.snopes.com/fact-check/<b>beach</b>-<b>party</b>-<b>kyiv</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_evR1Vf8yDtuZ6lGd2cCKRb7O8G0JEvVHvLdXVsyL3kSIAlE8tqexO_a&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2023/08/beach_club_in_kyiv.jpg",
+                            "theme-color": "#ffffff",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-08-07 21:29:26",
+                            "og:site_name": "Snopes",
+                            "apple-mobile-web-app-title": "Snopes.com",
+                            "twitter:creator": "@snopes",
+                            "og:description": "\"The war in Ukraine is FAKE,\" one social media user commented.",
+                            "twitter:image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2023/08/beach_club_in_kyiv.jpg",
+                            "article:publisher": "https://www.facebook.com/snopes",
+                            "twitter:site": "@snopes",
+                            "article:modified_time": "2023-08-07 21:29:26",
+                            "msapplication-tilecolor": "#000000",
+                            "twitter:title": "Video from Beach Party in Kyiv Proves War in Ukraine Is a Hoax?",
+                            "og:type": "article",
+                            "og:title": "Video from Beach Party in Kyiv Proves War in Ukraine Is a Hoax?",
+                            "fb:pages": "120680396518",
+                            "article:author": "Aleksandra Wrona",
+                            "article:tag": "Ukraine War",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "viewport": "width=device-width, initial-scale=1.0,minimum-scale=1.0, maximum-scale=5.0",
+                            "apple-mobile-web-app-capable": "yes",
+                            "mobile-web-app-capable": "yes",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.snopes.com//fact-check/beach-party-kyiv/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2023/08/beach_club_in_kyiv.jpg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-08-07T14:29:26Z",
+                            "claimReviewed": "A video that went viral in August 2023 showed",
+                            "url": "https://www.snopes.com//fact-check/beach-party-kyiv/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\"The war in Ukraine is FAKE,\" one social media user commented. -------------------------------------------------------------- ### Published Aug. 7, 2023 Claim: A video that went viral in August 2023 showed a beach party in Kyiv, proving that the war in Ukraine is a hoax. What's True The video is authentic and was captured on Aug. 6, 2023, at Fifty Beach Club in Kyiv. What's False Neither the party nor the video of it proves that the war in Ukraine is fake or a hoax. Kyiv is located more than 300 miles from the active front line, where Ukrainian and Russian troops were fighting as of the date this article was published. In August 2023, a video on social media that allegedly documented a party at a beach club in Kyiv, Ukraine. Users shared the clip as purported evidence that the was a hoax, or that supporters of Ukraine were exaggerating the conflict's threat to the country. \"The war in Ukraine is FAKE,\" one tweet , sharing the video that showed people drinking and talking in swimsuits around a pool. > The war in Ukraine is FAKE. > > — Stew Peters (@realstewpeters) \"There is currently a party at the Beach Club in war-torn Kyiv Ukraine, please keep the people of Ukraine in your prayers,\" another social media user with apparent sarcasm. ! **(Twitter user @dom\\_lucre)** With a similar tone, another social media user , \"BREAKING: The Biden administration has approved $300 Million in additional aid in the form of Beach Towels, Sun Screen and Sun Glasses,\" making light of U.S. funding to help Ukraine defeat Russia. All in all, the in question gained millions of views. In addition to the above-displayed tweets, it was reposted on various and across Russian-speaking social media platforms. While it was true the footage authentically depicted a beach ... [Content truncated]",
+                    "content_tokens": 300
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Video Of 'Ukrainian Partiers' Is Actually In Germany Say Fact-Checkers",
+                "htmlTitle": "<b>Video</b> Of &#39;<b>Ukrainian</b> Partiers&#39; Is Actually In Germany Say <b>Fact</b>-Checkers",
+                "link": "https://www.forbes.com/sites/petersuciu/2023/08/14/video-of-ukrainian-partiers-is-actually-in-germany-say-fact-checkers/",
+                "displayLink": "www.forbes.com",
+                "snippet": "Aug 14, 2023 ... ... August 13, 2023 in Odesa, Ukraine. In Odesa six beaches were ... Another video also circulated showing a party-like gathering at the Ibiza Beach ...",
+                "htmlSnippet": "Aug 14, 2023 <b>...</b> ... <b>August 13, 2023</b> in Odesa, <b>Ukraine</b>. In Odesa six <b>beaches</b> were ... Another <b>video</b> also circulated showing a <b>party</b>-like gathering at the Ibiza <b>Beach</b>&nbsp;...",
+                "formattedUrl": "https://www.forbes.com/.../2023/.../video-of-ukrainian-partiers-is-actually-i...",
+                "htmlFormattedUrl": "https://www.forbes.com/.../<b>2023</b>/.../<b>video</b>-of-ukrainian-partiers-is-actually-i...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWXawRkTKT381dV3oLwTv5bhzlNSLRqRjizVx9Vm4lL3cK3ANzmIlxRiM&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Forbes",
+                            "article:id": "blogAndPostId/blog/post/7481-64da8af3f3baee61e9ed3996",
+                            "og:description": "People may be swimming in Ukraine, but it is hardly the party atmosphere some on social media have suggested.",
+                            "twitter:creator": "@PeterSuciu",
+                            "article:publisher": "https://www.facebook.com/forbes",
+                            "twitter:image": "https://imageio.forbes.com/specials-images/imageserve/64da8b970770ec572bb1ea3f/0x0.jpg?format=jpg&height=600&width=1200&fit=bounds",
+                            "twitter:site": "@forbes",
+                            "news_keywords": "Ukraine,beach,Berlin,disinformation,Strandbad Plötzensee,Ibiza Beach Club,misinformation,fact-checkers,cheap fake,DeepFake",
+                            "article:published": "2023-08-14",
+                            "article:channel": "Innovation",
+                            "image": "https://imageio.forbes.com/specials-images/imageserve/64da8b970770ec572bb1ea3f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                            "article:section": "Social Media",
+                            "og:type": "article",
+                            "twitter:title": "Video Of 'Ukrainian Partiers' Is Actually In Germany Say Fact-Checkers",
+                            "author": "Peter Suciu",
+                            "article:section_url": "https://www.forbes.com/social-media/",
+                            "og:title": "Video Of 'Ukrainian Partiers' Is Actually In Germany Say Fact-Checkers",
+                            "amp-google-client-id-api": "googleanalytics",
+                            "og:updated_time": "2023-08-14T16:32:03.552-04:00",
+                            "article:author": "Peter Suciu",
+                            "referrer": "no-referrer-when-downgrade",
+                            "fb:app_id": "123694841080850",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=2,user-scalable=yes,minimal-ui",
+                            "twitter:description": "People may be swimming in Ukraine, but it is hardly the party atmosphere some on social media have suggested.",
+                            "og:url": "https://www.forbes.com/sites/petersuciu/2023/08/14/video-of-ukrainian-partiers-is-actually-in-germany-say-fact-checkers/",
+                            "article:modified": "2023-08-14",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://imageio.forbes.com/specials-images/imageserve/64da8b970770ec572bb1ea3f/Odesa-Officially-Opened-Its-Beaches/960x0.jpg?format=jpg&width=960"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "ODESA, UKRAINE - AUGUST 13: People swim in the water and relax on the sand of the \"Inclusive Beach\", ... [+] which is allowed to visit by the city authorities on August 13, 2023 in Odesa, Ukraine. In Odesa six beaches were officially opened for swimming - for the first time since the start of a full-scale war. (смысловой повтор текста). However, people also continue to swim on the other beaches of the city, where swimming is prohibited. (Photo by Viacheslav Onyshchenko/Global Images Ukraine via Getty Images) A number of videos featuring bikini-clad women made the rounds on Twitter this weekend, but not for the reasons some might expect. The clips purported to show a beach on the Black Sea near the Ukrainian city of Odesa after it reportedly reopened for the first time since Russia's invasion. The post was met with a backlash as those critical of U.S. and other Western aid being provided to Ukraine voiced their frustration that it didn't resemble a warzone. However, other users on Twitter soon weighed in that the video was actually filmed at the Strandbad Plötzensee, a lake in the city of Berlin, Germany! Another video also circulated showing a party-like gathering at the Ibiza Beach Club in Odesa. It does resemble the images and videos on the club's official website, and it is—or at least was—a very popular hotspot, yet, it remains unclear when the video may have actually been filmed. The club's Facebook page hasn't been updated since 2018 and no videos have been posted to its YouTube page since July of 2021—more than six months before Russia launched its unprovoked invasion. It would appear that the Ibiza Beach Club in Odesa may still be closed. However, there is a grain of truth to the story. As Reuters reported on ... [Content truncated]",
+                    "content_tokens": 300
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Are These Real Videos of People Partying in Kyiv, Ukraine, During ...",
+                "htmlTitle": "Are These Real <b>Videos</b> of People Partying in <b>Kyiv</b>, <b>Ukraine</b>, During ...",
+                "link": "https://www.snopes.com/fact-check/partying-kyiv-ukraine-wartime/",
+                "displayLink": "www.snopes.com",
+                "snippet": "May 8, 2023 ... Since the Russian invasion in February 2023, the city has been under various levels of curfew.",
+                "htmlSnippet": "May 8, 2023 <b>...</b> Since the Russian invasion in February <b>2023</b>, the city has been under various levels of curfew.",
+                "formattedUrl": "https://www.snopes.com/fact-check/partying-kyiv-ukraine-wartime/",
+                "htmlFormattedUrl": "https://www.snopes.com/fact-check/<b>party</b>ing-<b>kyiv</b>-ukraine-wartime/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtHonNk2jZ6Z4Dkrj94smeUTslJUVC8bEEb2q1Mee4_lfkhvwG7Mjk_OMD&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2023/05/kyiv_nightclub.jpeg",
+                            "theme-color": "#ffffff",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-05-08 21:29:19",
+                            "og:site_name": "Snopes",
+                            "apple-mobile-web-app-title": "Snopes.com",
+                            "twitter:creator": "@snopes",
+                            "og:description": "Since the Russian invasion in February 2023, the city has been under various levels of curfew.",
+                            "twitter:image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2023/05/kyiv_nightclub.jpeg",
+                            "article:publisher": "https://www.facebook.com/snopes",
+                            "twitter:site": "@snopes",
+                            "article:modified_time": "2023-05-09 16:22:22",
+                            "msapplication-tilecolor": "#000000",
+                            "twitter:title": "Are These Real Videos of People Partying in Kyiv, Ukraine, During Wartime?",
+                            "og:type": "article",
+                            "og:title": "Are These Real Videos of People Partying in Kyiv, Ukraine, During Wartime?",
+                            "fb:pages": "120680396518",
+                            "article:author": "Nur Ibrahim",
+                            "article:tag": "Kyiv",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "viewport": "width=device-width, initial-scale=1.0,minimum-scale=1.0, maximum-scale=5.0",
+                            "apple-mobile-web-app-capable": "yes",
+                            "mobile-web-app-capable": "yes",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.snopes.com//fact-check/partying-kyiv-ukraine-wartime/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2023/05/kyiv_nightclub.jpeg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-05-08T14:29:19Z",
+                            "claimReviewed": "Videos authentically show residents of Kyiv,",
+                            "url": "https://www.snopes.com//fact-check/partying-kyiv-ukraine-wartime/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Since the Russian invasion in February 2023, the city has been under various levels of curfew. ---------------------------------------------------------------------------------------------- ### Published May 8, 2023 Claim: Videos authentically show residents of Kyiv, Ukraine, partying in nightclubs and bars since February 2022, which marked the beginning of the Russian invasion. Context Some of the videos in question were posted before the war, while the timing of others remain uncertain. Regardless, Kyiv has been under various levels of curfew ever since the war began, impacting nightlife in the city. A few months into 2022, after the Russian withdrawal from Kyiv, clubs and bars began reopening, creating a semblance of normalcy. In March 2023, curfew was relaxed to midnight allowing clubs and bars to remain open for longer. Ever since the February 2022 Russian invasion of Ukraine, in the capital city Kyiv has faced major upheavals. At the same time, parts of the region had begun returning to normalcy by early 2023. A number of videos shared on social media in May 2023 claimed to show Kyiv residents dancing and partying late at night in various clubs and bars, with users questioning whether funds should be going to support Ukraine's war effort when things appeared to be so normal. For example, Twitter user @RadioGeneva wrote, \"Meanwhile in Kiev nightclubs…Please donate more money!\" in a tweet that included a number of clips showing people dancing and partying in both indoor and outdoor nightclubs. Our preliminary searches found all of the clips had been posted on the TikTok account @kievnight, which claimed to show \"Only Kiev Night Life.\" We confirmed that at least one of the clips @RadioGeneva shared, was actually posted by @kievnight in December 2021, months before the Russian invasion of Ukraine began. The above clip appears to show a night at Boho, a restaurant and ... [Content truncated]",
+                    "content_tokens": 300
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Ukrainians Partying at Beach Club During War Sparks Backlash ...",
+                "htmlTitle": "Ukrainians Partying at <b>Beach Club</b> During War Sparks Backlash ...",
+                "link": "https://www.newsweek.com/ukrainians-partying-beach-club-kyiv-war-video-1818958",
+                "displayLink": "www.newsweek.com",
+                "snippet": "Aug 10, 2023 ... Edward said he posted the videos in an effort to balance the perspective about what life in Ukraine looks like in 2023. Update 08/18/23, 2:58 ...",
+                "htmlSnippet": "Aug 10, 2023 <b>...</b> Edward said he posted the <b>videos</b> in an effort to balance the perspective about what life in <b>Ukraine</b> looks like in 2023. Update <b>08/18/23, 2:58</b>&nbsp;...",
+                "formattedUrl": "https://www.newsweek.com/ukrainians-partying-beach-club-kyiv-war-vide...",
+                "htmlFormattedUrl": "https://www.newsweek.com/ukrainians-<b>party</b>ing-<b>beach</b>-club-<b>kyiv</b>-war-<b>vide</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKkzsHJ1C6AonvEPZa-VF-H_czktEE_vsECX86KGz0NLJZ0MM6BqSeJXA&s",
+                            "width": "273",
+                            "height": "185"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://d.newsweek.com/en/full/2268108/cocktail-poolside.jpg",
+                            "msapplication-config": "https://g.newsweek.com/themes/newsweek/favicons/browserconfig.xml",
+                            "og:image:width": "3538",
+                            "article:published_time": "2023-08-10T13:24:34-04:00",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ff0500",
+                            "og:site_name": "Newsweek",
+                            "twitter:url": "https://www.newsweek.com/ukrainians-partying-beach-club-kyiv-war-video-1818958",
+                            "og:description": "A TikTok showing a crowded pool bar in Kyiv was met with comments suggesting that the U.S. was funding the social lives of Ukrainians instead of the war.",
+                            "article:publisher": "https://www.facebook.com/Newsweek",
+                            "twitter:image": "https://d.newsweek.com/en/full/2268108/cocktail-poolside.webp?w=1600&h=900&q=88&f=7ddb6b24cb1ac5e6a87e837877ef9a49",
+                            "twitter:site": "@newsweek",
+                            "article:modified_time": "2023-08-18T15:02:44-04:00",
+                            "msapplication-tilecolor": "#ff0500",
+                            "og:type": "article",
+                            "og:image:alt": "Cocktail Poolside",
+                            "article:section": "World",
+                            "twitter:title": "Ukrainians partying at beach club during war sparks backlash",
+                            "og:title": "Ukrainians partying at beach club during war sparks backlash",
+                            "og:image:height": "2400",
+                            "fb:pages": "18343191100",
+                            "article:tag": "Russia-Ukraine War",
+                            "fb:app_id": "245537789135954",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "A TikTok showing a crowded pool bar in Kyiv was met with comments suggesting that the U.S. was funding the social lives of Ukrainians instead of the war.",
+                            "og:url": "https://www.newsweek.com/ukrainians-partying-beach-club-kyiv-war-video-1818958"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d.newsweek.com/en/full/2268108/cocktail-poolside.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Ukrainians Partying at Beach Club During War Sparks Backlash - Newsweek =============== × ] * * * * * * * * * * * * * * Login × Login * * * * * * * * * * * * * * * * * * * * * * Share Copy Link ✓ Link copied to clipboard! * * * * * Ukrainians Partying at Beach Club During War Sparks Backlash ============================================================ **Published** Aug 10, 2023 at 1:24 PM EDT **Updated** Aug 18, 2023 at 3:02 PM EDT By Senior Writer 101 Share Copy Link ✓ Link copied to clipboard! A video of Ukrainians partying at a beach club has gone viral amid a debate overseas about whether or not the United States and the West should support any for the war. Since Russia launched its full-scale invasion in February 2022, the U.S. has committed to more than $60 billion in , the most of any of Kyiv's Western allies. The clip, posted by user @shadyftw on Monday, shows hundreds of people partying around the pool bar at Fifty Beach Club in Kyiv with the caption, \"Beach club in Kyiv during the war.\" has amassed more than 4.1 million views as of Thursday afternoon. Social media users quickly flooded the comments to cast doubt about the state of the war between Ukraine and Russia, asking \"Why are we all panicked and worried when it is party season over there\" and joking \"Well, at least the Americans are footing the bill.\" ! Stock image of a cocktail sitting poolside. A TikTok video showing Ukrainians partying at a beach club in Kyiv has sparked controversy on social media. Stock image of a cocktail sitting poolside. A TikTok video showing Ukrainians partying at a beach club in Kyiv has ... [Content truncated]",
+                    "content_tokens": 300
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "BBC Verify | Latest News & Updates | BBC News",
+                "htmlTitle": "BBC Verify | Latest News &amp; Updates | BBC News",
+                "link": "https://www.bbc.com/news/reality_check",
+                "displayLink": "www.bbc.com",
+                "snippet": "Video of rocket in studio with presenter Merlyn Thomas as she gestures ... Fact-checking Russian claims Nato troops are in Ukraine. President Putin has ...",
+                "htmlSnippet": "<b>Video</b> of rocket in studio with presenter Merlyn Thomas as she gestures ... <b>Fact</b>-<b>checking</b> Russian claims Nato troops are in <b>Ukraine</b>. President Putin has&nbsp;...",
+                "formattedUrl": "https://www.bbc.com/news/reality_check",
+                "htmlFormattedUrl": "https://www.bbc.com/news/reality_check",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "next-head-count": "22",
+                            "twitter:title": "BBC Verify | Latest News & Updates | BBC News",
+                            "theme-color": "#ffffff",
+                            "viewport": "width=device-width",
+                            "twitter:description": "Get all the latest news, live updates and content about BBC Verify from across the BBC.",
+                            "og:title": "BBC Verify | Latest News & Updates | BBC News",
+                            "og:description": "Get all the latest news, live updates and content about BBC Verify from across the BBC.",
+                            "version": "2.5.0+19"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "* * * * * * * * * * * * * * * * * * * * * * News News ------------ * * * ! Crime, immigration and tax cuts - Trump's speech fact-checked ------------------------------------------------------------- The former president's speech contained plenty of claims which BBC Verify has been checking. 4 days ago US & Canada] ! The missed warnings ahead of the Trump attack --------------------------------------------- Ros Atkins examines the evidence about crucial warnings in the minutes before the attack on Donald Trump. 8 days ago US & Canada] ! BBC Verify looks at evidence linking Russia to Kyiv hospital strike ------------------------------------------------------------------- Watch BBC Verify's visual analysis of the strike which killed two adults and injured 300. 9 Jul 2024 Europe] ! The missed warnings ahead of the Trump attack --------------------------------------------- Ros Atkins examines the evidence about crucial warnings in the minutes before the attack on Donald Trump. 8 days ago US & Canada] ! Videos show how gunman shot at Trump despite public alerting police ------------------------------------------------------------------- BBC Verify examines footage, eyewitness testimony and satellite imagery showing how the attack unfolded. 14 Jul 2024 US & Canada] ! How much do Nato members spend on defence? ------------------------------------------ Nato expects 23 of its 32 members to meet the target of spending 2% of GDP on defence this year. 10 Jul 2024 World] ! BBC Verify looks at evidence linking Russia to Kyiv hospital strike ------------------------------------------------------------------- Watch BBC Verify's visual analysis of the strike which killed two adults and injured 300. 9 Jul 2024 Europe] * * * Claims investigated ------------------- ! Is the Rwanda policy driving migrants to Ireland? ------------------------------------------------- The Irish government claims over 80% of asylum seekers have crossed the border from Northern Ireland. 30 Apr 2024 UK Politics] ! Confronting pro-Kremlin troll on false claims ... [Content truncated]",
+                    "content_tokens": 300
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Fact Check | Reuters",
+                "htmlTitle": "<b>Fact Check</b> | Reuters",
+                "link": "https://www.reuters.com/fact-check/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Reuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. The unit is part of Reuters news ...",
+                "htmlSnippet": "Reuters <b>Fact Check</b> addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. The unit is part of Reuters news&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/fact-check/",
+                "htmlFormattedUrl": "https://www.reuters.com/fact-check/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXUJULIHN3bzkOUFJxUds8ElRln9VYTZZirMN6srh0nHeiI9O7X8mHE7rw&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809",
+                            "og:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-factcheck-default.webp?d=204",
+                            "og:type": "website",
+                            "twitter:title": "Fact Check | Reuters",
+                            "ad:template": "landing",
+                            "og:site_name": "Reuters",
+                            "dcsext.dartzone": "/4735792/reuters.com/fact-check/home",
+                            "ccbot": "nofollow",
+                            "dcsext.channellist": "Fact Check",
+                            "og:title": "Fact Check | Reuters",
+                            "analyticsattributes.topicchannel": "Fact Check",
+                            "title": "Reuters Fact Check | Reuters",
+                            "fb:pages": "114050161948682",
+                            "og:description": "Reuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. The unit is part of Reuters news agency.",
+                            "fb:app_id": "988502044532272",
+                            "datemodified": "2024-07-23T10:54:50Z",
+                            "render_timestamp": "2024-07-23T13:53:09.762Z",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Reuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. The unit is part of Reuters news agency.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/fact-check/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/pf/resources/images/reuters/reuters-factcheck-default.webp?d=204"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "reuters.com\n===============",
+                    "content_tokens": 5
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "The Fact-Checked Disinformation Detected In The EU – EDMO",
+                "htmlTitle": "The <b>Fact</b>-<b>Checked</b> Disinformation Detected In The EU – EDMO",
+                "link": "https://edmo.eu/thematic-areas/war-in-ukraine/the-fact-checked-disinformation-detected-in-the-eu/",
+                "displayLink": "edmo.eu",
+                "snippet": "Factcheck: no, this viral beach video does not show a Ukrainian attack on Russian occupied territory ... Old video of explosion at Ukrainian dam falsely linked to ...",
+                "htmlSnippet": "<b>Factcheck</b>: no, this <b>viral beach video</b> does not show a <b>Ukrainian</b> attack on Russian occupied territory ... Old <b>video</b> of explosion at <b>Ukrainian</b> dam falsely linked to&nbsp;...",
+                "formattedUrl": "https://edmo.eu/...in.../the-fact-checked-disinformation-detected-in-the-eu/",
+                "htmlFormattedUrl": "https://edmo.eu/...in.../the-fact-checked-disinformation-detected-in-the-eu/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "msapplication-tileimage": "https://edmo.eu/wp-content/uploads/2024/04/edmo-favicon.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The Fact-Checked Disinformation Detected In The EU – EDMO =============== !] Menu * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * Search: * * * * * * * * Fact checking * * * Media Literacy * * * Research * * * * Policy Analysis * * * * * * * * * News & Events * * Fact-checking Publications * * Repositories * * * * * * Search: !! The Fact-Checked Disinformation Detected In The EU The Fact-Checked Disinformation Detected In The EU WAR IN UKRAINE The Fact-Checked Disinformation Detected In The EU -------------------------------------------------- European fact-checkers focused a lot of their efforts in the past days and weeks in detecting and tackling disinformation concerning the situation in Ukraine. At the beginning of the year, as the crisis was growing in intensity, the spread of false news about Ukraine detected in the EU was still very small. Fact-checkers detected a growth in the first half of February, even if the qualitative and quantitative levels of the disinformation was not alarmingly high. After the military actions against the whole Ukraine started in the morning of 24 February, though, fact-checkers witnessed the situation changing substantially and the disinformation about the events growing both in quantity and dangerousness. ### Periodic Insights And Early Warnings: Disinformation Narratives About The War In Ukraine EDMO publishes regular insights highlighting the main disinformation trends related to the war in Ukraine. They are based on the fact-checking articles provided by members of the EDMO fact-checking network which are collected in the searchable table ... [Content truncated]",
+                    "content_tokens": 300
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Highlights from Republican presidential debate on Fox News | CNN ...",
+                "htmlTitle": "Highlights from Republican presidential debate on Fox News | CNN ...",
+                "link": "https://www.cnn.com/politics/live-news/republican-debate-08-23-23/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Updated 12:22 PM EDT, Thu August 24, 2023. Link Copied! Chris Christie Trump split video. Video Ad Feedback ... Fact check: Nikki Haley's claim on Ukraine ...",
+                "htmlSnippet": "Updated <b>12:22 PM EDT, Thu August 24, 2023</b>. Link Copied! Chris Christie Trump split <b>video</b>. <b>Video</b> Ad Feedback ... <b>Fact check</b>: Nikki Haley&#39;s claim on <b>Ukraine</b>&nbsp;...",
+                "formattedUrl": "https://www.cnn.com/politics/live-news/republican-debate.../index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/politics/live-news/republican-debate.../index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzmCi4ZoMbWf26sqg4r6kOsobFzKbHB8GMb6H4PfjQIGdvlbB6uTsgJ3Q&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/230823175904-03-first-republican-debate-milwaukee-082323.jpg?c=16x9&q=w_800,c_fill",
+                            "twitter:title": "Highlights from Republican presidential debate on Fox News | CNN Politics",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-08-23T13:45:04Z",
+                            "og:site_name": "CNN",
+                            "author": "Elise Hammond,Tori B. Powell,Maureen Chowdhury,Kaanita Iyer,Mike Hayes,Aditi Sangal,Leinz Vales",
+                            "og:title": "Highlights from Republican presidential debate on Fox News | CNN Politics",
+                            "meta-section": "politics",
+                            "type": "live-story",
+                            "og:description": "Republican presidential candidates took the stage Wednesday night in Milwaukee for the 2024 cycle’s first primary debate.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/230823175904-03-first-republican-debate-milwaukee-082323.jpg?c=16x9&q=w_800,c_fill",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@cnnpolitics",
+                            "article:modified_time": "2023-08-24T16:22:16.665Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "Republican presidential candidates took the stage Wednesday night in Milwaukee for the 2024 cycle’s first primary debate.",
+                            "template_type": "article_livestory",
+                            "meta-branding": "live-story-v2",
+                            "theme": "politics",
+                            "og:url": "https://www.cnn.com/politics/live-news/republican-debate-08-23-23/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/230823175904-03-first-republican-debate-milwaukee-082323.jpg?c=16x9&q=w_800,c_fill"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Eight of Donald Trump’s primary rivals brawled for second-place status Wednesday night at the first 2024 Republican presidential primary debate, If you’re just catching up, here’s what you need to know: Vivek Ramaswamy, the 38-year-old entrepreneur and first-time candidate, was alongside Florida Gov. Ron DeSantis in the center of the stage – and he was the central figure for much of the night. And because he has positioned himself as a defender of Trump, Ramaswamy was, at times, a stand-in for the former president, who momentarily ceded the stage Wednesday night but will take it back Thursday when he turns himself in at the Fulton County jail in Georgia as he faces election subversion charges. Ron DeSantis set the expectation that he would be the focal point of Wednesday’s debate. He was anything but. He certainly didn’t speak the most. Though his campaign suggested his Republican opponents would have their “knives out” for DeSantis, he wasn’t on the receiving end of many attacks. And at a key moment – when the candidates were asked to raise their hands if they would support Trump if he is convicted in a court of law – DeSantis peeked around the stage to see how everyone else had responded before he half heartedly put up his right palm. When moderators asked DeSantis whether Pence was right to reject Trump’s pressure campaign to overturn the 2020 presidential election, the Florida governor attempted to dodge – ignoring what he’d been asked and complaining about the “weaponization” of the federal government. But Pence dug in, putting DeSantis on the spot. “The American people deserve to know whether everyone on this stage agrees that I kept my oath to the Constitution that day. There’s no more important duty, so answer the question,” he said. “Mike did his duty. ... [Content truncated]",
+                    "content_tokens": 300
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "POLITICO Playbook - POLITICO",
+                "htmlTitle": "POLITICO Playbook - POLITICO",
+                "link": "https://www.politico.com/playbook",
+                "displayLink": "www.politico.com",
+                "snippet": "7 hours ago ... The Trump campaign and Republican Party organs, to be sure, are pivoting hard to Harris. The NRSC, for instance, sent around a messaging ...",
+                "htmlSnippet": "7 hours ago <b>...</b> The Trump campaign and Republican <b>Party</b> organs, to be sure, are pivoting hard to Harris. The NRSC, for instance, sent around a messaging&nbsp;...",
+                "formattedUrl": "https://www.politico.com/playbook",
+                "htmlFormattedUrl": "https://www.politico.com/playbook",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKRGQTMbY6u1fKgDeR10v3LYE1MjIy7ZMucm_lracTsYGaex__TJKugXY-&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://static.politico.com/64/87/6f2f2f814019a86fbfa9e5b76e7e/politico-pb-cms-shared-graphic.png",
+                            "theme-color": "#D71920",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "og:fb_appid": "114037015331397",
+                            "og:site_name": "POLITICO",
+                            "og:title": "Playbook",
+                            "msapplication-tileimage": "/mstile-144x144.png",
+                            "title": "Playbook: Harris into the whirlwind",
+                            "og:description": "And Washington preps for PM Netanyahu's visit.",
+                            "fb:pages": "62317591679",
+                            "twitter:creator": "@politico",
+                            "twitter:image": "https://www.politico.com/dims4/default/404025a/2147483647/legacy_thumbnail/1200x628%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F76%2Fc3%2F1824995047689e5686b9b11a54c7%2Fpolitico-pb-cms-shared-graphic.png",
+                            "twitter:site": "@politico",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "build": "1.0.0-SNAPSHOT",
+                            "brightspot.contentid": "0000014f-1646-d88f-a1cf-5f46b7bd0000",
+                            "host": "www.politico.com",
+                            "og:url": "http://politi.co/2A2M52A"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.politico.com/64/87/6f2f2f814019a86fbfa9e5b76e7e/politico-pb-cms-shared-graphic.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.politico.com/playbook: 429 Client Error: Too Many Requests for url: https://r.jina.ai/https://www.politico.com/playbook",
+                    "content_tokens": 0
+                }
+            }
+        }
+    ]
+}

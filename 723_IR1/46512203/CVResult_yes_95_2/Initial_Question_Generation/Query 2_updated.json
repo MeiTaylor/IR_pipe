@@ -1,0 +1,810 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Is the video of Trump in Maui real or manipulated?",
+                "totalResults": "195000",
+                "searchTerms": "Is the video of Trump in Maui real or manipulated?",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Is the video of Trump in Maui real or manipulated?",
+                "totalResults": "195000",
+                "searchTerms": "Is the video of Trump in Maui real or manipulated?",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.372253,
+        "formattedSearchTime": "0.37",
+        "totalResults": "195000",
+        "formattedTotalResults": "195,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Fake Trump arrest photos: How to spot an AI-generated image",
+                "htmlTitle": "<b>Fake Trump</b> arrest photos: How to spot an AI-generated image",
+                "link": "https://www.bbc.com/news/world-us-canada-65069316",
+                "displayLink": "www.bbc.com",
+                "snippet": "Mar 24, 2023 ... Truth Social Deepfake of Donald Trump kneeling Truth Social. Former ... \"That was a super crude piece of manipulation and yet many\u00a0...",
+                "htmlSnippet": "Mar 24, 2023 <b>...</b> Truth Social Deepfake of Donald <b>Trump</b> kneeling Truth Social. Former ... &quot;That was a super crude piece of manipulation and yet many&nbsp;...",
+                "formattedUrl": "https://www.bbc.com/news/world-us-canada-65069316",
+                "htmlFormattedUrl": "https://www.bbc.com/news/world-us-canada-65069316",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbmu50Fk5o9H18DUFuptvitZ-VnW3OYJIyvOD-ZGsGzk6WeqJBq25dWrcn&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/BB79/production/_129139974_faketrump4.png",
+                            "twitter:title": "Fake Trump arrest photos: How to spot an AI-generated image",
+                            "twitter:card": "summary_large_image",
+                            "og:image:alt": "Deepfake of Donald Trump kneeling",
+                            "theme-color": "#ffffff",
+                            "og:title": "Fake Trump arrest photos: How to spot an AI-generated image",
+                            "og:description": "Pictures of former President Trump being \"arrested\" are all over social media - but don't be fooled.",
+                            "version": "2.5.0+19",
+                            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/BB79/production/_129139974_faketrump4.png",
+                            "next-head-count": "28",
+                            "twitter:image:alt": "Deepfake of Donald Trump kneeling",
+                            "viewport": "width=device-width",
+                            "twitter:description": "Pictures of former President Trump being \"arrested\" are all over social media - but don't be fooled."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/BB79/production/_129139974_faketrump4.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Fake images created by artificial intelligence (AI) tools depicting Donald Trump have appeared on social media over the past week. Many falsely showed the arrest of the former president, who may face indictment over payment of hush money to a woman he allegedly had an affair with. He has not yet been charged with a crime. Many of those sharing the images pointed out they were fake, and they did not appear to fool lots of people - but a few did seem to be tricked. On Thursday, Mr Trump also shared an AI-generated image on his own social media platform Truth Social. It showed him kneeling in prayer. What are some of the tell-tale signs of AI-generated imagery? And how can you distinguish a real from a fake? The images circulating online, like the one above, look hyper-real - more like staged artistic shots than in-the-moment photographs. A closer look shows some obvious giveaways that something isn't quite right. Look at the centre of the image. Mr Trump's arm is much too short, and the police officer on the left is grabbing something that more resembles a claw than a human hand. Similarly, if you focus on Mr Trump's neck, you'll notice that his head looks as if it's been superimposed on the image. Henry Ajder, an AI expert and presenter of the BBC radio series The Future Will be Synthesised, says current technology is not very good at depicting certain body parts, especially hands. \"If you zoom in on the images you can often see inconsistencies such as the number of fingers,\" he says. A simple check of a few news sites is a sure-fire way to verify that Mr Trump hasn't been arrested or even indicted - at least, not yet. If and when Mr Trump does ... [Content truncated]",
+                    "content_tokens": 300
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The BBC (British Broadcasting Corporation) is one of the world's most respected news organizations, known for its comprehensive coverage and journalistic integrity. It has a strong reputation for accuracy and impartiality. While it may have bias in specific interpretations, its editorial standards are generally high. It provides a vast range of fact-checked content and coverage of global events, making it reliable for verifying news stories."
+                },
+                "ContentScore": {
+                    "NewnessScore": 7,
+                    "Newness Justification": "The article was published on March 24, 2023, which is over three months old by July 2024, thus receiving a moderate score since it is somewhat outdated but still within the same year.",
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This evidence discusses manipulated images regarding Trump but does not directly confirm or deny the specific claim of him visiting Maui after the wildfires. Therefore, it's somewhat relevant but not directly pertinent."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Biden Maui video: pundits falsely claim Biden was asleep at event",
+                "htmlTitle": "Biden <b>Maui video</b>: pundits falsely claim Biden was asleep at event",
+                "link": "https://www.nbcnews.com/tech/social-media/biden-maui-video-fake-asleep-falls-sleep-rcna101263",
+                "displayLink": "www.nbcnews.com",
+                "snippet": "Aug 22, 2023 ... ... President Joe Biden fell asleep during a memorial for Maui wildfire victims ... President Donald Trump has used for Biden. Republicans aiming to\u00a0...",
+                "htmlSnippet": "Aug 22, 2023 <b>...</b> ... President Joe Biden fell asleep during a memorial for <b>Maui</b> wildfire victims ... President Donald <b>Trump</b> has used for Biden. Republicans aiming to&nbsp;...",
+                "formattedUrl": "https://www.nbcnews.com/.../biden-maui-video-fake-asleep-falls-sleep-rcna...",
+                "htmlFormattedUrl": "https://www.nbcnews.com/.../biden-<b>maui</b>-<b>video</b>-fake-asleep-falls-sleep-rcna...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevzcCuUDUyeJkTZi50ngO8T-F5eWCqCizFTT9_ykczuNqd8VicBaxstc&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-config": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/browserconfig.xml",
+                            "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230822-joe-biden-maui-jm-1548-256e2d.jpg",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "NBC News",
+                            "branch:deeplink:title": "Conservative pundits falsely claim that Biden slept at Maui memorial",
+                            "og:image:type": "image/jpeg",
+                            "twitter:creator": "NBCNews",
+                            "og:description": "Using low-quality video that distorts how Biden appears, pundits made the false claim go viral on social media.",
+                            "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230822-joe-biden-maui-jm-1548-256e2d.jpg",
+                            "branch:deeplink:description": "Using low-quality video that distorts how Biden appears, pundits made the false claim go viral on social media.",
+                            "twitter:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/rockcms/2023-08/230822-joe-biden-maui-jm-1548-256e2d.jpg",
+                            "twitter:site": "@NBCNews",
+                            "branch:deeplink:type": "article",
+                            "og:type": "article",
+                            "twitter:title": "Conservative pundits falsely claim that Biden slept at Maui memorial",
+                            "branch:deeplink:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230822-joe-biden-maui-jm-1548-256e2d.jpg",
+                            "og:title": "Conservative pundits falsely claim that Biden slept at Maui memorial",
+                            "og:image:height": "630",
+                            "fb:pages": "155869377766434",
+                            "twitter:image:src": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/rockcms/2023-08/230822-joe-biden-maui-jm-1548-256e2d.jpg",
+                            "socialcopy": "Pundits used a low-quality video that distorted how Biden appeared, making the false claim that he was sleeping at a Maui fire memorial service.",
+                            "fb:app_id": "10150138890205613",
+                            "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                            "twitter:description": "Using low-quality video that distorts how Biden appears, pundits made the false claim go viral on social media.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.nbcnews.com/tech/social-media/biden-maui-video-fake-asleep-falls-sleep-rcna101263",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230822-joe-biden-maui-jm-1548-256e2d.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Conservative pundits used low-quality video on social media platforms Tuesday to spread a false claim that President Joe Biden fell asleep during a memorial for Maui wildfire victims. Fox News host Sean Hannity was among those who shared low-resolution video on X, the social media app formerly known as Twitter. Hannity\u2019s post was viewed more than 425,000 times within a few hours, and similar videos posted by others received thousands more views on YouTube, Instagram and TikTok. Higher-resolution from the nonpartisan network C-SPAN shows that Biden looked downward for about 10 seconds while he was seated at a table. In the video, Biden watches someone who\u2019s speaking, coughs, looks downward and then nods in agreement with the speaker. Then he looks up again. He later delivered a speech to the same audience. The higher-resolution video shows that Biden kept his eyes open for most of the time he was looking downward. His open eyes aren\u2019t clearly visible in the lower-quality videos. At least one member of Congress, Rep. Troy Nehls, R-Texas, also shared the lower-resolution version on X. A spokesperson for Nehls said in a statement: \u201cEveryone with eyes can draw their own conclusion about whether President Biden was nodding off in the video.\u201d Asked for comment about the Maui videos, White House spokesperson Andrew Bates said in an email: \u201cIt\u2019s unfortunate they feel the need to lie. Instead, they should join him in supporting the people of Maui.\u201d The posts on the country\u2019s largest social media platforms, which largely appear to be spreading unchecked, are the latest test of how Silicon Valley will handle misinformation in the 2024 election cycle \u2014 and whether it will enforce its own policies. Low-quality videos are an example of what some misinformation researchers call \u201c\u201d: media that can mislead people through simple techniques, ... [Content truncated]",
+                    "content_tokens": 300
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "NBC News is a well-established news outlet in the United States, known for its timely reporting and investigative journalism. It has a reasonable record for accuracy, though like many large networks, it can face criticism for perceived bias or sensationalism. Overall, it is a credible source for news and is often used for fact-checking claims made in political contexts."
+                },
+                "ContentScore": {
+                    "NewnessScore": 6,
+                    "Newness Justification": "Published on August 22, 2023, this piece is just under a year old by July 2024. It's reasonably recent, warranting a decent score.",
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This article discusses a different video of Biden, which does not clearly address the current claim regarding Trump in Maui, thus it is less relevant."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Fact check: Video showing Joe Biden falling asleep during live ...",
+                "htmlTitle": "<b>Fact</b> check: <b>Video</b> showing Joe Biden falling asleep during live ...",
+                "link": "https://www.reuters.com/article/world/fact-check-video-showing-joe-biden-falling-asleep-during-live-interview-is-mani-idUSKBN25S62P/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Sep 2, 2020 ... This video has been manipulated. It combines Hilary Clinton's endorsement video from August 28, in which Joe Biden is seen looking down for\u00a0...",
+                "htmlSnippet": "Sep 2, 2020 <b>...</b> This <b>video</b> has been <b>manipulated</b>. It combines Hilary Clinton&#39;s endorsement <b>video</b> from August 28, in which Joe Biden is seen looking down for&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/.../fact-check-video-showing-joe-biden-falling-asle...",
+                "htmlFormattedUrl": "https://www.reuters.com/.../fact-check-<b>video</b>-showing-joe-biden-falling-asle...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoiAt7-6MmC1b3oHgzb0O0MCs0PXY6SC06u7XQ2L9hcWF8xrfSLTT6Wwzj&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/article/world/fact-check-video-showing-joe-biden-falling-asleep-during-live-interview-is-mani-idUSKBN25S62P/?id=KBN25S62P",
+                            "og:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204",
+                            "analytics:page_layout": "regular-article",
+                            "article:published_time": "2020-09-02T13:39:45.000Z",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Reuters",
+                            "ccbot": "nofollow",
+                            "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                            "analyticsattributes.topicchannel": "World",
+                            "title": "Fact check: Video showing Joe Biden falling asleep during live interview is manipulated | Reuters",
+                            "og:description": "Thousands of social media users are sharing a video which claims to show Democratic presidential nominee Joe Biden falling asleep during a live TV interview. This video has been manipulated. It combines Hilary Clinton\u2019s endorsement video from August 28, in which Joe Biden is seen looking down for several seconds, with a video of the singer Harry Belafonte appearing to fall asleep on live TV in 201",
+                            "twitter:creator": "@Reuters",
+                            "twitter:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204",
+                            "twitter:image:alt": "Reuters logo",
+                            "twitter:site": "@Reuters",
+                            "article:modified_time": "2020-09-01T19:58:38.000Z",
+                            "render_timestamp": "2024-07-23T04:10:42.112Z",
+                            "fb:admins": "988502044532272",
+                            "article:content_tier": "metered",
+                            "og:type": "article",
+                            "article:section": "World",
+                            "og:image:alt": "Reuters logo",
+                            "twitter:title": "Fact check: Video showing Joe Biden falling asleep during live interview is manipulated",
+                            "ad:template": "article",
+                            "og:image:url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204",
+                            "dcsext.dartzone": "/4735792/reuters.com/world/article",
+                            "og:title": "Fact check: Video showing Joe Biden falling asleep during live interview is manipulated",
+                            "dcsext.channellist": "World;",
+                            "og:image:height": "628",
+                            "og:article:published_time": "2020-09-02T13:39:45.000Z",
+                            "fb:pages": "114050161948682",
+                            "article:author": "Reuters",
+                            "fb:app_id": "988502044532272",
+                            "og:locale:alternate": "en_US",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Thousands of social media users are sharing a video which claims to show Democratic presidential nominee Joe Biden falling asleep during a live TV interview. This video has been manipulated. It combines Hilary Clinton\u2019s endorsement video from August 28, in which Joe Biden is seen looking down for several seconds, with a video of the singer Harry Belafonte appearing to fall asleep on live TV in 201",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/article/world/fact-check-video-showing-joe-biden-falling-asleep-during-live-interview-is-mani-idUSKBN25S62P/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "reuters.com\n===============",
+                    "content_tokens": 5
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Reuters is known for its accurate and impartial news coverage and has a strong commitment to fact-checking and reporting standards. As a global news agency, it provides a wide array of information that is relied upon by news organizations and analysts. Its track record for factual reporting and avoidance of misinformation is commendable."
+                },
+                "ContentScore": {
+                    "NewnessScore": 3,
+                    "Newness Justification": "This evidence is from September 2, 2020, making it much older than the inquiry, which lowers its relevance in context.",
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "It discusses a manipulated video of Biden, which does not relate to Trump or the Maui situation, making it minimally relevant."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "White House social media director tweets manipulated video of ...",
+                "htmlTitle": "White House social media director tweets <b>manipulated video</b> of ...",
+                "link": "https://www.washingtonpost.com/politics/2020/09/02/white-house-social-media-director-tweets-manipulated-video-biden/",
+                "displayLink": "www.washingtonpost.com",
+                "snippet": "Sep 2, 2020 ... Trump supporters keep posting manipulated video designed to mislead viewers ... manipulated video that could be so easily interpreted as real.",
+                "htmlSnippet": "Sep 2, 2020 <b>...</b> <b>Trump</b> supporters keep posting <b>manipulated video</b> designed to mislead viewers ... <b>manipulated video</b> that could be so easily interpreted as <b>real</b>.",
+                "formattedUrl": "https://www.washingtonpost.com/.../white-house-social-media-director-twee...",
+                "htmlFormattedUrl": "https://www.washingtonpost.com/.../white-house-social-media-director-twee...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAZNXXU1NWQdEd-TCebRveh3EtwrXgWxUWPhJmFkJUeTUKvnHh67ymn1uG&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter_description": "Trump supporters keep posting manipulated video designed to mislead viewers. We don't think it's very funny.",
+                            "article_modified_time": "2020-09-02T09:50:25.923Z",
+                            "og:image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-01-2020/t_1a234f11c6e74964b8521e4c02573db8_name_manipulatedvideo.jpg&w=1440",
+                            "apple-itunes-app": "app-id=352509417, app-argument=https://www.washingtonpost.com/politics/2020/09/02/white-house-social-media-director-tweets-manipulated-video-biden/?sourceApp=apple-banner",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2020-09-02T07:00:31.165Z",
+                            "og:site_name": "Washington Post",
+                            "og_title": "Analysis | White House social media director tweets manipulated video of Biden",
+                            "og_type": "article",
+                            "og_url": "https://www.washingtonpost.com/politics/2020/09/02/white-house-social-media-director-tweets-manipulated-video-biden/",
+                            "og:description": "Trump supporters keep posting manipulated video designed to mislead viewers. We don't think it's very funny.",
+                            "article_published_time": "2020-09-02T07:00:31.165Z",
+                            "next-head-count": "85",
+                            "article_section": "Fact Checker",
+                            "twitter:site": "@WashingtonPost",
+                            "article:modified_time": "2020-09-02T09:50:25.923Z",
+                            "twitter_site": "@WashingtonPost",
+                            "og_description": "Trump supporters keep posting manipulated video designed to mislead viewers. We don't think it's very funny.",
+                            "article:content_tier": "metered",
+                            "twitter_title": "Analysis | White House social media director tweets manipulated video of Biden",
+                            "last_updated_date": "2020-09-02T09:50:25.923Z",
+                            "og:type": "article",
+                            "twitter:title": "Analysis | White House social media director tweets manipulated video of Biden",
+                            "article:section": "Fact Checker",
+                            "og_site_name": "Washington Post",
+                            "twitter_card": "summary_large_image",
+                            "og:title": "Analysis | White House social media director tweets manipulated video of Biden",
+                            "og_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-01-2020/t_1a234f11c6e74964b8521e4c02573db8_name_manipulatedvideo.jpg&w=1440",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Trump supporters keep posting manipulated video designed to mislead viewers. We don't think it's very funny.",
+                            "article_content_tier": "metered",
+                            "og:url": "https://www.washingtonpost.com/politics/2020/09/02/white-house-social-media-director-tweets-manipulated-video-biden/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-01-2020/t_1a234f11c6e74964b8521e4c02573db8_name_manipulatedvideo.jpg&w=1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "clockThis article was published more than 3 years ago White House social media director Dan Scavino is no stranger to sharing manipulated video online. In March 2020, Twitter applied its \u201cmanipulated media\u201d label for the first time to a deceptively edited video of Democratic presidential nominee Joe Biden that was posted by Scavino and retweeted by President Trump. The video was cut short to make it sound as though Biden inadvertently endorsed Trump for reelection. On Sunday, Scavino shared another altered video targeting Biden. Let\u2019s dig in. Scavino tweeted a manipulated video from his personal account that makes it look like Biden fell asleep during a TV interview. The video spliced together two different clips \u2014 one from a 2011 KBAK interview with actor Harry Belafonte and the other of Biden at a virtual town hall event with Hillary Clinton in April 2020. The video has a photoshopped chyron that reads \u201cOn air: Joe Biden | The importance of this election.\u201d A soundtrack of snoring has been added. It has a look of authenticity, but close observers might have been confused when, at one point in the short clip, anchor Leyla Santiago says, \u201cThis is your wake up call, Harry,\u201d referring to Belafonte. Belafonte, in a response to the New York Times, said the original video flub was due to a technical glitch, and he criticized the fake video. Harry Belafonte on the manipulated video featuring him tweeted by Scavino, a dep WH chief of staff: \u201cThey keep stooping lower and lower. A technical glitch in an interview I did 9 years ago now becomes another one of their lies, more of their fake news...\u201d 1/ Twitter marked the content as \u201cmanipulated media,\u201d and the video was disabled on the platform \u201cin response to a report by the copyright holder.\u201d ... [Content truncated]",
+                    "content_tokens": 300
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Washington Post is a leading American newspaper with a history of investigative journalism and political reporting. While it provides in-depth analysis and coverage of major issues, it has faced criticism regarding perceived partisanship. Nevertheless, it maintains robust editorial standards and a commitment to factual reporting, earning it a high reliability score."
+                },
+                "ContentScore": {
+                    "NewnessScore": 3,
+                    "Newness Justification": "This article was published on September 2, 2020, thus being old and not pertinent to the current inquiry timeline.",
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "While it mentions manipulated videos involving Trump supporters, it does not pertain directly to the claim about Trump visiting Maui, making it only somewhat relevant."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Video doesn't show President Joe Biden dozing during ... - PolitiFact",
+                "htmlTitle": "Video doesn't show President Joe Biden dozing during ... - PolitiFact",
+                "link": "https://www.politifact.com/factchecks/2023/aug/22/social-media/video-doesnt-show-president-joe-biden-dozing-durin/",
+                "displayLink": "www.politifact.com",
+                "snippet": "Aug 22, 2023 ... A video showed President Joe Biden falling asleep during an event with the Maui, Hawaii, wildfire survivors and families. true false. Facebook\u00a0...",
+                "htmlSnippet": "Aug 22, 2023 <b>...</b> A <b>video</b> showed President Joe Biden falling asleep during an event with the <b>Maui</b>, Hawaii, wildfire survivors and families. true false. Facebook&nbsp;...",
+                "formattedUrl": "https://www.politifact.com/.../video-doesnt-show-president-joe-biden-dozin...",
+                "htmlFormattedUrl": "https://www.politifact.com/.../<b>video</b>-doesnt-show-president-joe-biden-dozin...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwcK-r1hfQWcPXD42iWCoUcyLAzdavD2p4wQsD2NVb5SNeAOVkR1masw&s=0",
+                            "width": "127",
+                            "height": "114"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static.politifact.com/politifact/rulings/meter-false.jpg",
+                            "og:type": "website",
+                            "og:image:width": "600",
+                            "twitter:card": "summary",
+                            "twitter:title": "Social media posts said President Joe Biden fell asleep during a recent event with survivors of the wildfire in Maui, Hawaii. But a closer look at the full clip showed Biden was blinking and nodding as a speaker shared his experience.",
+                            "og:site_name": "@politifact",
+                            "twitter:url": "https://www.politifact.com/factchecks/2023/aug/22/social-media/video-doesnt-show-president-joe-biden-dozing-durin/",
+                            "author": "Loreben Tuquero",
+                            "og:title": "Video doesn\u2019t show Biden dozing at event with Maui survivors",
+                            "og:image:height": "600",
+                            "fb:pages": "61308923432",
+                            "og:description": "President Joe Biden\u2019s critics often inspect his public appearances for signs that he is unfit to lead. A common false cl",
+                            "og:image:secure_url": "https://static.politifact.com/politifact/rulings/meter-false.jpg",
+                            "twitter:image": "https://static.politifact.com/politifact/rulings/meter-false.jpg",
+                            "facebook-domain-verification": "vrxxsw8mwnf2pxgnwxvgsn4g93w3vm",
+                            "twitter:site": "PolitiFact",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "President Joe Biden\u2019s critics often inspect his public appearances for signs that he is unfit to lead. A common false cl",
+                            "publisher": "PolitiFact",
+                            "fb:admins": "750116788",
+                            "twitter:username": "PolitiFact",
+                            "og:url": "https://www.politifact.com/factchecks/2023/aug/22/social-media/video-doesnt-show-president-joe-biden-dozing-durin/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.politifact.com/factchecks/2023/aug/22/social-media/video-doesnt-show-president-joe-biden-dozing-durin/: 429 Client Error: Too Many Requests for url: https://r.jina.ai/https://www.politifact.com/factchecks/2023/aug/22/social-media/video-doesnt-show-president-joe-biden-dozing-durin/",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "PolitiFact is primarily focused on fact-checking statements made by political figures. It is well-regarded for its thoroughness and transparency in evaluating claims and provides rating systems that help readers understand the accuracy of different statements. PolitiFact contributes significantly to identifying and exposing fake news, making it a highly credible source."
+                },
+                "ContentScore": {
+                    "NewnessScore": 6,
+                    "Newness Justification": "This article from August 22, 2023, is relatively recent by the July 2024 evaluation date.",
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "This article focuses on Biden and does not provide information pertinent to Trump\u2019s activities in Maui, resulting in low relevance."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "A shortened video distorts Hawaii governor's comments about the ...",
+                "htmlTitle": "A shortened <b>video</b> distorts Hawaii governor&#39;s comments about the ...",
+                "link": "https://www.poynter.org/fact-checking/2023/maui-city-smart-project-state-lands-josh-green/",
+                "displayLink": "www.poynter.org",
+                "snippet": "Aug 18, 2023 ... An Instagram post claimed that video showed that Green \u201cwants to turn Lahaina Maui into state lands. ... Fact-check: Donald Trump's RNC\u00a0...",
+                "htmlSnippet": "Aug 18, 2023 <b>...</b> An Instagram post claimed that <b>video</b> showed that Green \u201cwants to turn Lahaina <b>Maui</b> into state lands. ... Fact-check: Donald <b>Trump&#39;s</b> RNC&nbsp;...",
+                "formattedUrl": "https://www.poynter.org/fact.../maui-city-smart-project-state-lands-josh-gre...",
+                "htmlFormattedUrl": "https://www.poynter.org/fact.../<b>maui</b>-city-smart-project-state-lands-josh-gre...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxiKjnqIF2K9PP-a5V3-qWxP_vVh3QvX_98uBPuNIEAK6Y7fTjFcp0jg8&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.poynter.org/wp-content/uploads/2023/08/AP23225047082427.jpg",
+                            "article:published_time": "2023-08-18T11:00:51+00:00",
+                            "og:image:width": "1080",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Poynter",
+                            "tec-api-origin": "https://www.poynter.org",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "et-api-origin": "https://www.poynter.org",
+                            "msapplication-tileimage": "https://www.poynter.org/wp-content/uploads/2020/06/favicon.png",
+                            "og:description": "Gov. Josh Green said he was looking for ways for the state to buy land in Lahaina to preserve it for local residents.",
+                            "twitter:creator": "@Poynter",
+                            "article:publisher": "https://www.facebook.com/Poynter",
+                            "twitter:data1": "Jeff Cercone",
+                            "twitter:data2": "4 minutes",
+                            "twitter:site": "@Poynter",
+                            "article:modified_time": "2023-08-18T15:02:38+00:00",
+                            "tec-api-version": "v1",
+                            "og:type": "article",
+                            "author": "Jeff Cercone",
+                            "og:title": "A shortened video distorts Hawaii governor\u2019s comments about the state buying land in Lahaina - Poynter",
+                            "og:image:height": "608",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "et-api-version": "v1",
+                            "og:url": "https://www.poynter.org/fact-checking/2023/maui-city-smart-project-state-lands-josh-green/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.poynter.org/wp-content/uploads/2023/08/AP23225047082427.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.poynter.org/fact-checking/2023/maui-city-smart-project-state-lands-josh-green/: 429 Client Error: Too Many Requests for url: https://r.jina.ai/https://www.poynter.org/fact-checking/2023/maui-city-smart-project-state-lands-josh-green/",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The Poynter Institute is a nonprofit organization known for its commitment to journalism ethics and education. It provides resources for journalists on reporting standards and media literacy, and it has a solid reputation for fact-checking through associated initiatives like PolitiFact. Its focus on media ethics gives it a high credibility score."
+                },
+                "ContentScore": {
+                    "NewnessScore": 5,
+                    "Newness Justification": "Published on August 18, 2023, this is fairly recent, so it receives a moderate score.",
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "While related to the Maui situation, it discusses different claims and people rather than Trump directly, making it somewhat relevant."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Biden's remarks about extreme weather events were ... - PolitiFact",
+                "htmlTitle": "Biden's remarks about extreme weather events were ... - PolitiFact",
+                "link": "https://www.politifact.com/factchecks/2023/sep/14/instagram-posts/bidens-remarks-about-extreme-weather-events-were-t/",
+                "displayLink": "www.politifact.com",
+                "snippet": "Sep 14, 2023 ... In the video, Biden can be seen saying: \"I also convened my entire Cabinet as part of a whole of government response and that response is to\u00a0...",
+                "htmlSnippet": "Sep 14, 2023 <b>...</b> In the <b>video</b>, Biden can be seen saying: &quot;I also convened my entire Cabinet as part of a whole of government response and that response is to&nbsp;...",
+                "formattedUrl": "https://www.politifact.com/.../bidens-remarks-about-extreme-weather-event...",
+                "htmlFormattedUrl": "https://www.politifact.com/.../bidens-remarks-about-extreme-weather-event...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwcK-r1hfQWcPXD42iWCoUcyLAzdavD2p4wQsD2NVb5SNeAOVkR1masw&s=0",
+                            "width": "127",
+                            "height": "114"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static.politifact.com/politifact/rulings/meter-false.jpg",
+                            "og:type": "website",
+                            "og:image:width": "600",
+                            "twitter:card": "summary",
+                            "twitter:title": "President Joe Biden implicated climate change when he discussed extreme weather events recently. He misspoke in saying the government\u2019s response to disasters across the country in 2023 would be to \u201cincrease the number and intensity of extreme weather events.\u201d",
+                            "og:site_name": "@politifact",
+                            "twitter:url": "https://www.politifact.com/factchecks/2023/sep/14/instagram-posts/bidens-remarks-about-extreme-weather-events-were-t/",
+                            "author": "Ciara O'Rourke",
+                            "og:title": "Biden\u2019s remarks about extreme weather taken out of context",
+                            "og:image:height": "600",
+                            "fb:pages": "61308923432",
+                            "og:description": "Even though 2023 isn\u2019t over yet, it\u2019s the year the United States endured the largest number of billion-dollar disasters",
+                            "og:image:secure_url": "https://static.politifact.com/politifact/rulings/meter-false.jpg",
+                            "twitter:image": "https://static.politifact.com/politifact/rulings/meter-false.jpg",
+                            "facebook-domain-verification": "vrxxsw8mwnf2pxgnwxvgsn4g93w3vm",
+                            "twitter:site": "PolitiFact",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Even though 2023 isn\u2019t over yet, it\u2019s the year the United States endured the largest number of billion-dollar disasters",
+                            "publisher": "PolitiFact",
+                            "fb:admins": "750116788",
+                            "twitter:username": "PolitiFact",
+                            "og:url": "https://www.politifact.com/factchecks/2023/sep/14/instagram-posts/bidens-remarks-about-extreme-weather-events-were-t/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.politifact.com/factchecks/2023/sep/14/instagram-posts/bidens-remarks-about-extreme-weather-events-were-t/: 429 Client Error: Too Many Requests for url: https://r.jina.ai/https://www.politifact.com/factchecks/2023/sep/14/instagram-posts/bidens-remarks-about-extreme-weather-events-were-t/",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "PolitiFact is primarily focused on fact-checking statements made by political figures. It is well-regarded for its thoroughness and transparency in evaluating claims and provides rating systems that help readers understand the accuracy of different statements. PolitiFact contributes significantly to identifying and exposing fake news, making it a highly credible source."
+                },
+                "ContentScore": {
+                    "NewnessScore": 6,
+                    "Newness Justification": "The article is from September 14, 2023, which is recent enough, so it scores moderately.",
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "The evidence does not discuss Trump or the Maui wildfires, making it mostly irrelevant to the current claim."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Expletive-strewn anti-Biden chant added to Hawaii footage | Fact ...",
+                "htmlTitle": "Expletive-strewn anti-Biden chant added to Hawaii <b>footage</b> | <b>Fact</b> ...",
+                "link": "https://factcheck.afp.com/doc.afp.com.33RU3F9",
+                "displayLink": "factcheck.afp.com",
+                "snippet": "Aug 21, 2023 ... ... Trump account that has previously shared other videos targeting Biden with similarly manipulated audio. ... video on the ground in Maui\u00a0...",
+                "htmlSnippet": "Aug 21, 2023 <b>...</b> ... <b>Trump</b> account that has previously shared other videos targeting Biden with similarly <b>manipulated</b> audio. ... <b>video</b> on the ground in <b>Maui</b>&nbsp;...",
+                "formattedUrl": "https://factcheck.afp.com/doc.afp.com.33RU3F9",
+                "htmlFormattedUrl": "https://factcheck.afp.com/doc.afp.com.33RU3F9",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRf1QBikU3HrUZRDx9uy5yPCclOifN1Rzu_U7MwUXxUqj_y_reJaRZfZht&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://factcheck.afp.com/sites/default/files/medias/factchecking/g2/2023-08//010ef310b43d079770ddeceabe2edf2d.jpeg",
+                            "og:type": "Article",
+                            "og:site_name": "Fact Check",
+                            "handheldfriendly": "true",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:title": "Expletive-strewn anti-Biden chant added to Hawaii footage",
+                            "mobileoptimized": "width",
+                            "og:url": "https://factcheck.afp.com/doc.afp.com.33RU3F9",
+                            "og:updated_time": "2024-04-17T18:44:09+02:00",
+                            "og:description": "A video circulating online appears to show Maui residents chanting a highly offensive slogan at Joe Biden as he toured wildfire-hit Hawaii. But the clip's audio has been manipulated; the original footage of the US president walking past decimated cars features no expletive-laden chant."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://factcheck.afp.com/sites/default/files/medias/factchecking/g2/2023-08//010ef310b43d079770ddeceabe2edf2d.jpeg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-08-23T22:42:00",
+                            "claimReviewed": "Video shows Maui residents chanting \"Fuck Joe Biden\"",
+                            "name": "Expletive-strewn anti-Biden chant added to",
+                            "url": "https://factcheck.afp.com/doc.afp.com.33RU3F9"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://factcheck.afp.com/doc.afp.com.33RU3F9: 429 Client Error: Too Many Requests for url: https://r.jina.ai/https://factcheck.afp.com/doc.afp.com.33RU3F9",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "AFP (Agence France-Presse) is a leading news agency with worldwide coverage, and its fact-checking division is dedicated to combating misinformation. While it is respected, its fact-checking initiatives are still growing in visibility compared to other more established fact-checking organizations. Overall, it maintains a reliable reputation."
+                },
+                "ContentScore": {
+                    "NewnessScore": 6,
+                    "Newness Justification": "The article is from August 21, 2023, thus still relevant and recent, earning a decent score.",
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This discusses manipulated audio related to videos involving Trump but does not address the Maui visit directly, resulting in moderate relevance."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Old photos are being misrepresented online to fuel a conspiracy ...",
+                "htmlTitle": "Old photos are being misrepresented online to fuel a conspiracy ...",
+                "link": "https://apnews.com/article/fact-check-maui-fire-photos-misrepresented-conspiracy-555091357957",
+                "displayLink": "apnews.com",
+                "snippet": "Aug 11, 2023 ... Secrest added that it's \u201cunfortunate\u201d that his image is \u201cbeing manipulated in a serious situation.\u201d The Maui wildfires, which have killed at\u00a0...",
+                "htmlSnippet": "Aug 11, 2023 <b>...</b> Secrest added that it&#39;s \u201cunfortunate\u201d that his image is \u201cbeing <b>manipulated</b> in a serious situation.\u201d The <b>Maui</b> wildfires, which have killed at&nbsp;...",
+                "formattedUrl": "https://apnews.com/.../fact-check-maui-fire-photos-misrepresented-conspira...",
+                "htmlFormattedUrl": "https://apnews.com/.../fact-check-<b>maui</b>-fire-photos-misrepresented-conspira...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC2mp0vn79p1KO4zL2PqUakCPY-mV61i9bLKdcw1ZPgc0fQ7Jv4746TBM&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/6ce86d5/2147483647/strip/true/crop/3204x1802+0+161/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fad%2Ff1%2F69e46bb74cb59e32bbb80a3c5e9b%2F4f1df154503a4aadba1cbf63b0773d08.jpg"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://dims.apnews.com/dims4/default/6ce86d5/2147483647/strip/true/crop/3204x1802+0+161/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fad%2Ff1%2F69e46bb74cb59e32bbb80a3c5e9b%2F4f1df154503a4aadba1cbf63b0773d08.jpg",
+                            "og:image:width": "1440",
+                            "article:published_time": "2023-08-12T00:09:33.049",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "AP News",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "THE FACTS: As images and videos showing the wreckage caused by the deadly wildfires spread on social media, some users are sharing unrelated photos in an effort to spread a baseless conspiracy theory that the cause was nefarious.",
+                            "twitter:creator": "@karenaphan",
+                            "twitter:image": "https://dims.apnews.com/dims4/default/6ce86d5/2147483647/strip/true/crop/3204x1802+0+161/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fad%2Ff1%2F69e46bb74cb59e32bbb80a3c5e9b%2F4f1df154503a4aadba1cbf63b0773d08.jpg",
+                            "twitter:image:alt": "This combination of photos provided by Travis Secrest, a resident of Perry Township in Ohio, shows a flame at the Marathon Petroleum refinery in the winter of 2018. (Travis Secrest via AP)",
+                            "twitter:site": "@AP",
+                            "article:modified_time": "2023-08-17T17:18:31.802",
+                            "brightspot.contentid": "00000189-e70e-db3e-a7bf-e70e6daa0000",
+                            "thumbnail": "https://dims.apnews.com/dims4/default/6ce86d5/2147483647/strip/true/crop/3204x1802+0+161/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fad%2Ff1%2F69e46bb74cb59e32bbb80a3c5e9b%2F4f1df154503a4aadba1cbf63b0773d08.jpg",
+                            "og:image:alt": "This combination of photos provided by Travis Secrest, a resident of Perry Township in Ohio, shows a flame at the Marathon Petroleum refinery in the winter of 2018. (Travis Secrest via AP)",
+                            "og:type": "article",
+                            "article:section": "AP Fact Check",
+                            "twitter:title": "Old photos are being misrepresented online to fuel a conspiracy theory about the Maui wildfires",
+                            "og:image:url": "https://dims.apnews.com/dims4/default/6ce86d5/2147483647/strip/true/crop/3204x1802+0+161/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fad%2Ff1%2F69e46bb74cb59e32bbb80a3c5e9b%2F4f1df154503a4aadba1cbf63b0773d08.jpg",
+                            "ga-datalayer": "{\n  \"dimension15\" : \"Fact-checking,AP Fact Check\",\n  \"dimension9\" : \"2023-08-11 20:09:33\",\n  \"dimension10\" : \"KARENA PHAN\"\n}",
+                            "ntv-kv": "Fact-checking",
+                            "og:title": "Old photos are being misrepresented online to fuel a conspiracy theory about the Maui wildfires",
+                            "og:image:height": "810",
+                            "permutive-datalayer": "{\n  \"category\" : \"AP Fact Check\",\n  \"dfp_kv\" : {\n    \"page_type\" : \"Article\"\n  },\n  \"tags\" : [ \"Fact-checking\" ],\n  \"page_type\" : \"Article\",\n  \"publication_date\" : \"2023-08-11T20:09:33.000Z\",\n  \"item_id\" : null,\n  \"headline\" : \"Old photos are being misrepresented online to fuel a conspiracy theory about the Maui wildfires\",\n  \"authors\" : [ \"KARENA PHAN\" ]\n}",
+                            "article:author": "https://apnews.com/author/karena-phan",
+                            "article:tag": "Fact-checking",
+                            "fb:app_id": "870613919693099",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+                            "twitter:description": "THE FACTS: As images and videos showing the wreckage caused by the deadly wildfires spread on social media, some users are sharing unrelated photos in an effort to spread a baseless conspiracy theory that the cause was nefarious.",
+                            "og:url": "https://apnews.com/article/fact-check-maui-fire-photos-misrepresented-conspiracy-555091357957",
+                            "gtm-datalayer": "{\n  \"event\" : \"Article Visited\",\n  \"Tag_CMS\" : \"Fact-checking,AP Fact Check\",\n  \"tag_array\" : \"Fact-checking,AP Fact Check\",\n  \"headline\" : \"Old photos are being misrepresented online to fuel a conspiracy theory about the Maui wildfires\",\n  \"publication_date\" : \"2023-08-11 20:09:33\",\n  \"author\" : \"KARENA PHAN\",\n  \"linked_video\" : \"NO\",\n  \"pr_content\" : \"NO\",\n  \"featured\" : \"NO\",\n  \"lead_media\" : \"Photo\",\n  \"page_type\" : \"Article\",\n  \"is_infobox_present\" : \"NO\",\n  \"is_inline_link_present\" : \"YES\",\n  \"character_count\" : 3335,\n  \"primary_section\" : \"AP Fact Check\",\n  \"seo_title_updated\" : \"\",\n  \"seo_description_updated\" : \"\"\n}"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/6ce86d5/2147483647/strip/true/crop/3204x1802+0+161/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fad%2Ff1%2F69e46bb74cb59e32bbb80a3c5e9b%2F4f1df154503a4aadba1cbf63b0773d08.jpg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "claimReviewed": "Two images of beams of light reaching up the",
+                            "url": "https://apnews.com/article/fact-check-maui-fire-photos-misrepresented-conspiracy-555091357957"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://apnews.com/article/fact-check-maui-fire-photos-misrepresented-conspiracy-555091357957: 429 Client Error: Too Many Requests for url: https://r.jina.ai/https://apnews.com/article/fact-check-maui-fire-photos-misrepresented-conspiracy-555091357957",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The Associated Press (AP) is one of the oldest and most trusted news organizations globally. It has a reputation for impartial reporting and fact-checking, providing reliable news coverage. The AP\u2019s content is widely used by other news outlets, which reflects its trustworthiness and accuracy."
+                },
+                "ContentScore": {
+                    "NewnessScore": 6,
+                    "Newness Justification": "This article from August 11, 2023, is relevant to the summer of 2023, hence receiving a decent score.",
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "Although relevant to the context of events in Maui, it does not mention Trump specifically or validate the claim, leading to low relevance."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "AI-generated disinformation poses threat of misleading voters in ...",
+                "htmlTitle": "AI-generated disinformation poses threat of misleading voters in ...",
+                "link": "https://www.pbs.org/newshour/politics/ai-generated-disinformation-poses-threat-of-misleading-voters-in-2024-election",
+                "displayLink": "www.pbs.org",
+                "snippet": "May 14, 2023 ... Former President Donald Trump, who is running in 2024 ... A manipulated video of CNN host Anderson Cooper that Trump shared on his Truth\u00a0...",
+                "htmlSnippet": "May 14, 2023 <b>...</b> Former President Donald <b>Trump</b>, who is running in 2024 ... A <b>manipulated video</b> of CNN host Anderson Cooper that <b>Trump</b> shared on his Truth&nbsp;...",
+                "formattedUrl": "https://www.pbs.org/.../ai-generated-disinformation-poses-threat-of-mislead...",
+                "htmlFormattedUrl": "https://www.pbs.org/.../ai-generated-disinformation-poses-threat-of-mislead...",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "fn": "David Klepper, Associated Press"
+                        },
+                        {
+                            "fn": "Ali Swenson, Associated Press"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt08HJwutYypQr1OxiKxRerJ1pryqSS6wNfnz8652bWAHo9fkuTa6yOACh&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "newsmediaorganization": [
+                        {
+                            "name": "PBS News"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "width": "600",
+                            "url": "https://d3i6fh83elv35t.cloudfront.net/static/assets/images/pbsnews-logo-600w.png",
+                            "height": "130"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "David Klepper, Associated Press"
+                        },
+                        {
+                            "name": "Ali Swenson, Associated Press"
+                        },
+                        {
+                            "name": "David Klepper, Associated Press"
+                        },
+                        {
+                            "name": "Ali Swenson, Associated Press"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://d3i6fh83elv35t.cloudfront.net/static/2023/05/GettyImages-1309763384-1024x683.jpg",
+                            "msapplication-config": "https://d3i6fh83elv35t.cloudfront.net/static/assets/images/favicon/2024/browserconfig.xml",
+                            "og:type": "article",
+                            "og:image:width": "1024",
+                            "article:published_time": "2023-05-14T19:52:51-04:00",
+                            "article:section": "Politics",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "AI-generated disinformation poses threat of misleading voters in 2024 election",
+                            "theme-color": "#ffffff",
+                            "og:site_name": "PBS News",
+                            "og:title": "AI-generated disinformation poses threat of misleading voters in 2024 election",
+                            "og:image:height": "683",
+                            "og:description": "Computer engineers and political scientists have warned for years that cheap, powerful artificial intelligence tools would soon allow anyone to create fake images, video and audio that was realistic enough to fool voters and perhaps sway an election.",
+                            "fb:pages": "6491828674",
+                            "article:publisher": "https://www.facebook.com/newshour/",
+                            "twitter:image": "https://d3i6fh83elv35t.cloudfront.net/static/2023/05/GettyImages-1309763384-1024x683.jpg",
+                            "article:tag": "2024 election, artificial intelligence, deepfakes, disinformation",
+                            "fb:app_id": "114150878604116",
+                            "twitter:site": "@newshour",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "news_keywords": "2024 election, artificial intelligence, deepfakes, disinformation, politics",
+                            "twitter:description": "Computer engineers and political scientists have warned for years that cheap, powerful artificial intelligence tools would soon allow anyone to create fake images, video and audio that was realistic enough to fool voters and perhaps sway an election.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.pbs.org/newshour/politics/ai-generated-disinformation-poses-threat-of-misleading-voters-in-2024-election"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d3i6fh83elv35t.cloudfront.net/static/2023/05/GettyImages-1309763384-1024x683.jpg"
+                        }
+                    ],
+                    "newsarticle": [
+                        {
+                            "image": "https://d3i6fh83elv35t.cloudfront.net/static/2023/05/GettyImages-1309763384-1024x683.jpg",
+                            "articlebody": "WASHINGTON (AP) \u2014 Computer engineers and tech-inclined political scientists have warned for years that cheap, powerful artificial intelligence tools would soon allow anyone to create fake...",
+                            "datemodified": "2023-05-14T19:52:51-04:00",
+                            "articlesection": "Politics",
+                            "headline": "AI-generated disinformation poses threat of misleading voters in 2024 election",
+                            "datepublished": "2023-05-14T19:52:51-04:00",
+                            "thumbnailurl": "https://d3i6fh83elv35t.cloudfront.net/static/2023/05/GettyImages-1309763384-1024x683.jpg",
+                            "mainentityofpage": "true"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "David Klepper, Associated Press David Klepper, Associated Press Ali Swenson, Associated Press Ali Swenson, Associated Press Leave your feedback WASHINGTON (AP) \u2014 Computer engineers and tech-inclined political scientists have warned for years that cheap, powerful artificial intelligence tools would soon allow anyone to create fake images, video and audio that was realistic enough to fool voters and perhaps sway an election. The synthetic images that emerged were often crude, unconvincing and costly to produce, especially when other kinds of misinformation were so inexpensive and easy to spread on social media. The threat posed by AI and so-called deepfakes always seemed a year or two away. No more. Sophisticated generative AI tools can now create cloned human voices and hyper-realistic images, videos and audio in seconds, at minimal cost. When strapped to powerful social media algorithms, this fake and digitally created content can spread far and fast and target highly specific audiences, potentially taking campaign dirty tricks to a new low. The implications for the 2024 campaigns and elections are as large as they are troubling: Generative AI can not only rapidly produce targeted campaign emails, texts or videos, it also could be used to mislead voters, impersonate candidates and undermine elections on a scale and at a speed not yet seen. WATCH: Security expert warns of AI tools\u2019 potential threat to democracy \u201cWe\u2019re not prepared for this,\u201d warned A.J. Nash, vice president of intelligence at the cybersecurity firm ZeroFox. \u201dTo me, the big leap forward is the audio and video capabilities that have emerged. When you can do that on a large scale, and distribute it on social platforms, well, it\u2019s going to have a major impact.\u201d AI experts can quickly rattle off a number of alarming scenarios in which generative AI is used to create synthetic media for the ... [Content truncated]",
+                    "content_tokens": 300
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "PBS (Public Broadcasting Service) is known for its educational programming and news coverage, focusing on providing in-depth reporting while maintaining high journalistic standards. However, PBS's funding and potential political influences can sometimes lead to questions about bias. Nevertheless, it is generally a credible source for news and information."
+                },
+                "ContentScore": {
+                    "NewnessScore": 8,
+                    "Newness Justification": "This article dates from May 14, 2023, placing it within the current context and thus scoring higher for its recency.",
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "Discusses manipulated video related to Trump, but not directly about him visiting Maui, thus it has moderate relevance."
+                }
+            }
+        }
+    ]
+}

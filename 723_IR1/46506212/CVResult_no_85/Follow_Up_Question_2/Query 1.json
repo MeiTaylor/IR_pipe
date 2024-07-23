@@ -1,0 +1,527 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - evidence of ongoing conflict in Ukraine during August 2023",
+                "totalResults": "13700000",
+                "searchTerms": "evidence of ongoing conflict in Ukraine during August 2023",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - evidence of ongoing conflict in Ukraine during August 2023",
+                "totalResults": "13700000",
+                "searchTerms": "evidence of ongoing conflict in Ukraine during August 2023",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.423215,
+        "formattedSearchTime": "0.42",
+        "totalResults": "13700000",
+        "formattedTotalResults": "13,700,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Conflict Observatory",
+                "htmlTitle": "<b>Conflict</b> Observatory",
+                "link": "https://hub.conflictobservatory.org/portal/apps/sites/",
+                "displayLink": "hub.conflictobservatory.org",
+                "snippet": "Feb 29, 2024 ... This is the first evidence of the scale of alleged war crimes in an ongoing conflict. ... Ukraine, due to Russia's airstrike on 23 July 2023. This ...",
+                "htmlSnippet": "Feb 29, 2024 <b>...</b> This is the first <b>evidence</b> of the scale of alleged <b>war</b> crimes in an <b>ongoing conflict</b>. ... <b>Ukraine</b>, due to Russia&#39;s airstrike <b>on</b> 23 July <b>2023</b>. This&nbsp;...",
+                "formattedUrl": "https://hub.conflictobservatory.org/portal/apps/sites/",
+                "htmlFormattedUrl": "https://hub.<b>conflict</b>observatory.org/portal/apps/sites/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPkksShHzH61xSf8V65DZojyxQ2Tolynwn4VOygWXdbIgvHjaq2BDm7rnl&s",
+                            "width": "315",
+                            "height": "160"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "application-name": "Conflict Observatory",
+                            "events-engine/config/environment": "%7B%22modulePrefix%22%3A%22events-engine%22%2C%22environment%22%3A%22production%22%2C%22ember-do-forms%22%3A%7B%22defaultClasses%22%3A%7B%22field%22%3A%5B%22field%22%5D%2C%22label%22%3A%5B%22label%22%5D%2C%22control%22%3A%5B%22control%22%5D%2C%22feedback%22%3A%5B%22feedback%22%5D%2C%22hint%22%3A%5B%22hint%22%5D%7D%2C%22validationClasses%22%3A%7B%22fieldSuccess%22%3A%5B%22field-success%22%5D%2C%22fieldError%22%3A%5B%22field-error%22%5D%2C%22controlSuccess%22%3A%5B%22control-success%22%5D%2C%22controlError%22%3A%5B%22control-error%22%5D%7D%7D%7D",
+                            "overview-engine/config/environment": "%7B%22modulePrefix%22%3A%22overview-engine%22%2C%22environment%22%3A%22production%22%7D",
+                            "msvalidate.01": "217F0EED65C5B131219477CE2CEAAF8E",
+                            "teams-engine/config/environment": "%7B%22modulePrefix%22%3A%22teams-engine%22%2C%22environment%22%3A%22production%22%2C%22ember-do-forms%22%3A%7B%22defaultClasses%22%3A%7B%22field%22%3A%5B%22field%22%5D%2C%22label%22%3A%5B%22label%22%5D%2C%22control%22%3A%5B%22control%22%5D%2C%22feedback%22%3A%5B%22feedback%22%5D%2C%22hint%22%3A%5B%22hint%22%5D%7D%2C%22validationClasses%22%3A%7B%22fieldSuccess%22%3A%5B%22field-success%22%5D%2C%22fieldError%22%3A%5B%22field-error%22%5D%2C%22controlSuccess%22%3A%5B%22control-success%22%5D%2C%22controlError%22%3A%5B%22control-error%22%5D%7D%7D%7D",
+                            "hub-components-assets-url": "/portal/apps/sites/hub-components/assets/i18n",
+                            "feedback-engine/config/environment": "%7B%22modulePrefix%22%3A%22feedback-engine%22%2C%22environment%22%3A%22production%22%7D",
+                            "layout-editor-engine/config/environment": "%7B%22modulePrefix%22%3A%22layout-editor-engine%22%2C%22environment%22%3A%22production%22%2C%22cedar%22%3A%7B%22amCharts%22%3A%7B%22dependencies%22%3A%5B%22amcharts.js%22%2C%22serial.js%22%2C%22xy.js%22%2C%22pie.js%22%2C%22radar.js%22%2C%22https%3A//unpkg.com/@esri/cedar@1.0.0-beta.9/dist/umd/themes/amCharts/calcite.js%22%5D%2C%22baseUrl%22%3A%22https%3A//www.amcharts.com/lib/3%22%7D%7D%2C%22ember-do-forms%22%3A%7B%22defaultClasses%22%3A%7B%22field%22%3A%5B%22field%22%5D%2C%22label%22%3A%5B%22label%22%5D%2C%22control%22%3A%5B%22control%22%5D%2C%22feedback%22%3A%5B%22feedback%22%5D%2C%22hint%22%3A%5B%22hint%22%5D%7D%2C%22validationClasses%22%3A%7B%22fieldSuccess%22%3A%5B%22field-success%22%5D%2C%22fieldError%22%3A%5B%22field-error%22%5D%2C%22controlSuccess%22%3A%5B%22control-success%22%5D%2C%22controlError%22%3A%5B%22control-error%22%5D%7D%7D%7D",
+                            "opendata-ui/config/asset-manifest": "%7B%22bundles%22%3A%7B%22activation-engine%22%3A%7B%22assets%22%3A%5B%7B%22uri%22%3A%22./engines-dist/activation-engine/assets/engine-1105d0cd6acda5e9b2ccada2c8506070.js%22%2C%22type%22%3A%22js%22%7D%2C%7B%22uri%22%3A%22./engines-dist/activation-engine/config/environment-d06aa04d2f36ff47a188be6bd303a346.js%22%2C%22type%22%3A%22js%22%7D%5D%7D%2C%22community-engine%22%3A%7B%22assets%22%3A%5B%7B%22uri%22%3A%22./engines-dist/community-engine/assets/engine-14180622660b93f0a8f78e0595908410.js%22%2C%22type%22%3A%22js%22%7D%2C%7B%22uri%22%3A%22./engines-dist/community-engine/assets/engine-vendor-c1387b487912896a47ed725a8e4e02c5.js%22%2C%22type%22%3A%22js%22%7D%2C%7B%22uri%22%3A%22./engines-dist/community-engine/config/environment-cee635c8d4963be55eba4dc314f4a3f6.js%22%2C%22type%22%3A%22js%22%7D%5D%7D%2C%22content-library-engine%22%3A%7B%22assets%22%3A%5B%7B%22uri%22%3A%22./engines-dist/content-library-engine/assets/engine-6a4bb010fa36704522a1f67f45b46b6c.js%22%2C%22type%22%3A%22js%22%7D%2C%7B%22uri%22%3A%22./engines-",
+                            "content-library-engine/config/environment": "%7B%22modulePrefix%22%3A%22content-library-engine%22%2C%22environment%22%3A%22production%22%2C%22ember-do-forms%22%3A%7B%22defaultClasses%22%3A%7B%22field%22%3A%5B%22field%22%5D%2C%22label%22%3A%5B%22label%22%5D%2C%22control%22%3A%5B%22control%22%5D%2C%22feedback%22%3A%5B%22feedback%22%5D%2C%22hint%22%3A%5B%22hint%22%5D%7D%2C%22validationClasses%22%3A%7B%22fieldSuccess%22%3A%5B%22field-success%22%5D%2C%22fieldError%22%3A%5B%22field-error%22%5D%2C%22controlSuccess%22%3A%5B%22control-success%22%5D%2C%22controlError%22%3A%5B%22control-error%22%5D%7D%7D%7D",
+                            "solutions-engine/config/environment": "%7B%22modulePrefix%22%3A%22solutions-engine%22%2C%22environment%22%3A%22production%22%2C%22ember-do-forms%22%3A%7B%22defaultClasses%22%3A%7B%22field%22%3A%5B%22field%22%5D%2C%22label%22%3A%5B%22label%22%5D%2C%22control%22%3A%5B%22control%22%5D%2C%22feedback%22%3A%5B%22feedback%22%5D%2C%22hint%22%3A%5B%22hint%22%5D%7D%2C%22validationClasses%22%3A%7B%22fieldSuccess%22%3A%5B%22field-success%22%5D%2C%22fieldError%22%3A%5B%22field-error%22%5D%2C%22controlSuccess%22%3A%5B%22control-success%22%5D%2C%22controlError%22%3A%5B%22control-error%22%5D%7D%7D%7D",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "initiative-editor-engine/config/environment": "%7B%22modulePrefix%22%3A%22initiative-editor-engine%22%2C%22environment%22%3A%22production%22%7D",
+                            "activation-engine/config/environment": "%7B%22modulePrefix%22%3A%22activation-engine%22%2C%22environment%22%3A%22production%22%2C%22ember-do-forms%22%3A%7B%22defaultClasses%22%3A%7B%22field%22%3A%5B%22field%22%5D%2C%22label%22%3A%5B%22label%22%5D%2C%22control%22%3A%5B%22control%22%5D%2C%22feedback%22%3A%5B%22feedback%22%5D%2C%22hint%22%3A%5B%22hint%22%5D%7D%2C%22validationClasses%22%3A%7B%22fieldSuccess%22%3A%5B%22field-success%22%5D%2C%22fieldError%22%3A%5B%22field-error%22%5D%2C%22controlSuccess%22%3A%5B%22control-success%22%5D%2C%22controlError%22%3A%5B%22control-error%22%5D%7D%7D%7D",
+                            "community-engine/config/environment": "%7B%22modulePrefix%22%3A%22community-engine%22%2C%22environment%22%3A%22production%22%7D"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://hub.conflictobservatory.org/portal/sharing/rest/content/items/043cd72f6503422c8b9578dab280e30c/data"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "! Recent Reports -------------- 29 February 2024 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- The Yale School of Public Health’s (YSPH) Humanitarian Research Lab (HRL), with research support from the Ukraine Digital Verification Lab (UDVL), has verified 66 incidents and identified 157 additional incidents of conflict-related damage to Ukraine’s power generation and transmission infrastructure from 1 October 2022 to 30 April 2023. These 223 total incidents span 23 oblasts across Ukraine. The geospatial and temporal distributions of these incidents, in conjunction with statements on the attacks from public officials and state-sponsored media in Russia, appear consistent with a widespread and systematic effort to cripple vital power generation and transmission infrastructure across Ukraine. ! Map showing the geospatial distribution of identified incidents of damage to power generation and transmission infrastructure across Ukraine by oblast from 1 October 2022 to 30 April 2023. This map utilizes the United Nations Office for the Coordination of Humanitarian Affairs (UN OCHA) Field Information Services Section subnational administrative boundary data. The naming conventions for oblasts, Crimea, and cities with special status are the short form \"Anglicized Variant\" (AV) names established by the U.S. Board on Geographic Names Geographic Names Server (GNS). Report: Executive Summary: 16 November 2023 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Belarus and Russia are conducting a joint effort to deport children from Russia-occupied Ukraine through Russia to Belarus. This operation is conducted at the highest levels of Belarus’ regime and Russia’s federal government and facilitated by various pro-Russia and pro-regime organizations. Russia and Belarus have jointly identified children for deportation from Ukraine, coordinated their transport from occupied Ukraine to Russia and onward to Belarus, and subjected children to re-education, including military training. ! Figure 1: Children from Donetsk who were taken to a base of the Belarus Internal Troops, where they were subjected to military training. (Image Source: Alyaksei Talai Telegram) Full Report: Executive ... [Content truncated]",
+                    "content_tokens": 300
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Ukraine war: What are the impacts on the world today ...",
+                "htmlTitle": "<b>Ukraine war</b>: What are the impacts <b>on</b> the world today ...",
+                "link": "https://www.rescue.org/article/ukraine-war-what-are-impacts-world-today",
+                "displayLink": "www.rescue.org",
+                "snippet": "Ukraine Crisis. Ukraine war: What are the impacts on the world today? August 23, 2022. Last updated: August 15, 2023. Photo: Francesco Pistilli for IRC.",
+                "htmlSnippet": "<b>Ukraine Crisis</b>. <b>Ukraine war</b>: What are the impacts <b>on</b> the world today? <b>August</b> 23, 2022. Last updated: <b>August</b> 15, <b>2023</b>. Photo: Francesco Pistilli <b>for</b> IRC.",
+                "formattedUrl": "https://www.rescue.org/article/ukraine-war-what-are-impacts-world-today",
+                "htmlFormattedUrl": "https://www.rescue.org/article/<b>ukraine</b>-war-what-are-impacts-world-today",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS90yn60LaP1SNiNuyglIckubeHe4vJuihTvqjiRGKhHp-VrAO5zfHT_u-_&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.rescue.org/sites/default/files/styles/widescreen_16x9_1280px_wide/public/2022-08/pic%202.png?itok=0cWIFH9w",
+                            "og:image:width": "1280",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Ukraine war: What are the impacts on the world today?",
+                            "og:site_name": "The IRC",
+                            "handheldfriendly": "true",
+                            "twitter:url": "https://www.rescue.org/article/ukraine-war-what-are-impacts-world-today",
+                            "og:title": "Ukraine war: What are the impacts on the world today?",
+                            "og:image:height": "720",
+                            "twitter:image:height": "720",
+                            "og:description": "The ripple effects of the war can be felt across the globe.",
+                            "twitter:image": "https://www.rescue.org/sites/default/files/styles/widescreen_16x9_1280px_wide/public/2022-08/pic%202.png?itok=0cWIFH9w",
+                            "twitter:site": "@RescueOrg",
+                            "naver-site-verification": "68258c8ce45da2ff0efe53ad2e145328686db956",
+                            "twitter:image:width": "1280",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "The ripple effects of the war can be felt across the globe.",
+                            "mobileoptimized": "width",
+                            "og:url": "https://www.rescue.org/article/ukraine-war-what-are-impacts-world-today"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.rescue.org/sites/default/files/styles/widescreen_16x9_1280px_wide/public/2022-08/pic%202.png?itok=0cWIFH9w"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "After over a year, there is no end in sight for the . Millions of civilians are unable to return home. Many still in the country are forced to live without access to food, water or electricity, in fear of constant shelling. This is not an isolated crisis—the can be felt across the globe. Blockades of Ukrainian grain exports have in some of the world’s most vulnerable regions. And as Russia recently , which had allowed some shipments to resume, global food security is in even greater danger. In East Africa, for instance, a perfect storm of continued drought, the blockade, and the economic fallout from the war is causing mass starvation. Without , the lives of millions of people are at stake. Get the facts on how the war in Ukraine is continuing to impact both people within its borders and people around the globe. _Editor's note:_ _Over the weekend of May 12, intensified fighting forced thousands to evacuate from Vovchansk and other towns in Kharkiv region, with some families having to walk for miles to get to safer areas. The IRC is working in the evacuation hub in Kharkiv, providing emergency aid and psychological support. _ What is life like inside Ukraine? --------------------------------- The continued war in Ukraine is causing extreme civilian harm and leaving millions without access to food, water and other essential supplies. Innocent civilians have been cruelly caught up in the conflict, with almost . More than 8,000 people have been killed, with the actual number likely much higher. Over 5.1 million have been internally displaced. There has been catastrophic damage to civilian infrastructure, including and schools. The recent in the Kherson region has dramatically worsened the situation of people who have survived over a year of intense hostilities. ### Attacks on infrastructure Missile strikes ... [Content truncated]",
+                    "content_tokens": 300
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "CONFLICT IN UKRAINE: KEY EVIDENCE ON RISKS OF ...",
+                "htmlTitle": "<b>CONFLICT IN UKRAINE</b>: KEY <b>EVIDENCE ON</b> RISKS OF ...",
+                "link": "https://www.unodc.org/documents/data-and-analysis/tip/Conflict_Ukraine_TIP_2022.pdf",
+                "displayLink": "www.unodc.org",
+                "snippet": "Dec 22, 2022 ... exploitation in armed conflict. People ... The UNODC Global Report on. Trafficking in Persons 2022 is due for publication in January. 2023.",
+                "htmlSnippet": "Dec 22, 2022 <b>...</b> exploitation in <b>armed conflict</b>. People ... The UNODC Global Report <b>on</b>. Trafficking in Persons 2022 is due <b>for</b> publication in January. <b>2023</b>.",
+                "formattedUrl": "https://www.unodc.org/documents/data.../Conflict_Ukraine_TIP_2022.pdf",
+                "htmlFormattedUrl": "https://www.unodc.org/documents/data.../<b>Conflict</b>_<b>Ukraine</b>_TIP_2022.pdf",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHEj-S13zCAYJxF4ks7-rXvR5va-8hOKGrbttiNxLQk9ausFuGoDf2ZF4&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "moddate": "D:20221222150817+01'00'",
+                            "creationdate": "D:20221222142318+01'00'",
+                            "creator": "Acrobat PDFMaker 22 for Word",
+                            "author": "Claire Healy",
+                            "producer": "Adobe PDF Library 22.3.58",
+                            "company": "UNOG",
+                            "contenttypeid": "0x0101003537D6B0E221614D804144C6E7BEE147"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "x-raw-image:///36e320c81a86bea8524031423f035abaa962fc295a482c97436774835a2d074d"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "> UNODC Research > Update December 2022 # CONFLICT IN UKRAINE: KEY EVIDENCE ON RISKS OF TRAFFICKING IN PERSONS AND SMUGGLING OF MIGRANTS > Picture@Yasser Rezahi UNODC 22 December 2022 1 The outbreak of an armed conflict raises serious concerns about human trafficking inside the affected country; and about human trafficking and migrant smuggling of people fleeing across borders. This research brief sets out key data and research findings on trafficking and smuggling risks related to the war in Ukraine, in order to better understand and prevent these crimes, and protect victims of trafficking and other abuses. This version, dated December 2022, is the second update of the original version, taking account of data and findings that have emerged since March 2022. Data are valid as of 22 December 2022. The United Nations Office on Drugs and Crime (UNODC) is currently conducting research in European countries among people who fled Ukraine, with the findings due for publication in mid-2023.  THE CONFLICT MAKES PEOPLE VULNERABLE TO TRAFFICKING INSIDE UKRAINE UNODC research shows that inside an affected country, vulnerabilities to trafficking in persons arise from the impacts of conflict: lack of income-generation opportunities; interruption in the provision of essential services; issues with rule of law; internal displacement; and the risk of exploitation in armed conflict. People living in conflict zones may adopt negative coping strategies to gain access to food and other supplies, or for their own safety and security. 1 The number of verified civilian casualties since the outbreak of the war has reached 17,595, > 1All websites accessed 22.12.2022. UNODC (2018). > Trafficking in Persons in the Context of Armed Conflict ;UNODC (2018). Countering Trafficking in Persons in Conflict Situations: Thematic Paper ;UN Special Rapporteur on Trafficking in Persons (3 August 2021). Report of the Special Rapporteur on trafficking ... [Content truncated]",
+                    "content_tokens": 300
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Alternate Reality: How Russian Society Learned to Stop Worrying ...",
+                "htmlTitle": "Alternate Reality: How Russian Society Learned to Stop Worrying ...",
+                "link": "https://carnegieendowment.org/2023/11/28/alternate-reality-how-russian-society-learned-to-stop-worrying-about-war-pub-91118",
+                "displayLink": "carnegieendowment.org",
+                "snippet": "Nov 28, 2023 ... See the August assessments poll on the conflict with Ukraine: https://www.levada.ru/2023/09/05/konflikt-s-ukrainoj-otsenki-kontsa-avgusta-2023- ...",
+                "htmlSnippet": "Nov 28, 2023 <b>...</b> See the <b>August</b> assessments poll <b>on</b> the <b>conflict</b> with <b>Ukraine</b>: https://www.levada.ru/<b>2023</b>/09/05/konflikt-s-ukrainoj-otsenki-kontsa-avgusta-<b>2023</b>-&nbsp;...",
+                "formattedUrl": "https://carnegieendowment.org/2023/.../alternate-reality-how-russian-societ...",
+                "htmlFormattedUrl": "https://carnegieendowment.org/<b>2023</b>/.../alternate-reality-how-russian-societ...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPP4gaeTZ2Msw6ZrvPSxzdBiMsbroxrSgYREswm3MhgnEnRQqLlXv938U&s",
+                            "width": "305",
+                            "height": "165"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://carnegie-production-assets.s3.amazonaws.com/static/media/images/R-U-Conf-1421.jpg",
+                            "twitter:title": "Alternate Reality: How Russian Society Learned to Stop Worrying About the War",
+                            "twitter:card": "summary_large_image",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Many Russians equate their country with the political regime that rules it, and believe it is their duty to support the state’s actions. This belief and the limited impact the war in Ukraine has had on the day-to-day lives of most Russians go some way to explaining continuing high levels of support for the war among Russians.",
+                            "og:title": "Alternate Reality: How Russian Society Learned to Stop Worrying About the War",
+                            "google": "notranslate",
+                            "og:description": "Many Russians equate their country with the political regime that rules it, and believe it is their duty to support the state’s actions. This belief and the limited impact the war in Ukraine has had on the day-to-day lives of most Russians go some way to explaining continuing high levels of support for the war among Russians.",
+                            "twitter:image": "https://carnegie-production-assets.s3.amazonaws.com/static/media/images/R-U-Conf-1421.jpg"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://carnegie-production-assets.s3.amazonaws.com/static/media/images/R-U-Conf-1421.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Many Russians equate their country with the political regime that rules it, and believe it is their duty to support the state’s actions. This belief and the limited impact the war in Ukraine has had on the day-to-day lives of most Russians go some way to explaining continuing high levels of support for the war among Russians. In the nearly two years since Russia launched its “special military operation” against Ukraine on February 24, 2022, Russian society has gotten used to living against the backdrop of a brutal armed conflict. A significant part of the population has reconciled itself to the idea that they will be living under the current state of affairs for quite some time, and that they must therefore adjust to reality, which ordinary Russians are in any case unable—and often unwilling—to change. All the naïve predictions that popular discontent triggered by sanctions and the wartime restrictions imposed on daily life would bring down Vladimir Putin’s regime have come to nothing. In many ways, quite the opposite has happened. Most Russians might not identify with the regime, but they have consolidated around the Kremlin, which they believe to be fighting tooth and nail against a West that is seeking to destroy Russia. Despite the fact that such a depiction is at odds with reality, a great many Russians have accepted it as the most logical explanation for this protracted nightmare. Naturally, some Russians are unhappy with the situation. Millions of people are opposed to authoritarianism and bloodshed, and some of them openly express their views and resist. There are also those known as “turbo-patriots,” who earnestly and aggressively support Putin. But the vast majority is apathetic, and simply passively and automatically “mostly supports” what the regime is doing while waiting for “all this” to end. This part ... [Content truncated]",
+                    "content_tokens": 300
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Extension and Redesignation of Ukraine for ... - Federal Register",
+                "htmlTitle": "Extension and Redesignation of Ukraine for ... - Federal Register",
+                "link": "https://www.federalregister.gov/documents/2023/08/21/2023-17875/extension-and-redesignation-of-ukraine-for-temporary-protected-status",
+                "displayLink": "www.federalregister.gov",
+                "snippet": "Aug 21, 2023 ... Ukraine was initially designated on the basis of an ongoing armed conflict ... for TPS under the redesignation of Ukraine shall be August 16, 2023 ...",
+                "htmlSnippet": "Aug 21, 2023 <b>...</b> <b>Ukraine</b> was initially designated <b>on</b> the basis of an <b>ongoing armed conflict</b> ... <b>for</b> TPS under the redesignation of <b>Ukraine</b> shall be <b>August 16, 2023</b>&nbsp;...",
+                "formattedUrl": "https://www.federalregister.gov/.../2023/.../2023.../extension-and-redesignat...",
+                "htmlFormattedUrl": "https://www.federalregister.gov/.../<b>2023</b>/.../<b>2023</b>.../extension-and-redesignat...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoM5PYH4GhWDdaZ8dYnYt7QDiTgpVc_hTJvnYht4Bk5ert4eDlW7z9nk&s",
+                            "width": "458",
+                            "height": "110"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.federalregister.gov/assets/open_graph_site_banner.png",
+                            "og:image:width": "832",
+                            "og:type": "article",
+                            "article:published_time": "2023-08-21",
+                            "og:site_name": "Federal Register",
+                            "og:title": "Extension and Redesignation of Ukraine for Temporary Protected Status",
+                            "og:image:height": "200",
+                            "medium": "news",
+                            "title": "Extension and Redesignation of Ukraine for Temporary Protected Status",
+                            "csrf-param": "authenticity_token",
+                            "og:description": "Through this notice, the Department of Homeland Security (DHS) announces that the Secretary of Homeland Security (Secretary) is extending the designation of Ukraine for Temporary Protected Status (TPS) for 18 months, beginning on October 20, 2023, and ending on April 19, 2025. This extension...",
+                            "viewport": "initial-scale=1.0",
+                            "csrf-token": "4x1g8t1h4z9w8ZJhGeEP8rcoLP63PoOZsWGL+Cntq0kKwEpCWFE2DkXNxD8B792S/mq7f/WZlAkzuwTf8t7pZg==",
+                            "og:url": "https://www.federalregister.gov/documents/2023/08/21/2023-17875/extension-and-redesignation-of-ukraine-for-temporary-protected-status",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "This site displays a prototype of a “Web 2.0” version of the daily Federal Register. It is not an official legal edition of the Federal Register, and does not replace the official print version or the official electronic version on GPO’s govinfo.gov. The documents posted on this site are XML renditions of published Federal Register documents. Each document posted on the site includes a link to the corresponding official PDF file on govinfo.gov. This prototype edition of the daily Federal Register on FederalRegister.gov will remain an unofficial informational resource until the Administrative Committee of the Federal Register (ACFR) issues a regulation granting it official legal status. For complete information about, and access to, our official publications and services, go to About the Federal Register on NARA's archives.gov. The OFR/GPO partnership is committed to presenting accurate and reliable regulatory information on FederalRegister.gov with the objective of establishing the XML-based Federal Register as an ACFR-sanctioned publication in the future. While every effort has been made to ensure that the material on FederalRegister.gov is accurately displayed, consistent with the official SGML-based PDF version on govinfo.gov, those relying on it for legal research should verify their results against an official edition of the Federal Register. Until the ACFR grants it official status, the XML rendition of the daily Federal Register on FederalRegister.gov does not provide legal notice to the public or judicial notice to the courts. A Notice by the U.S. Citizenship and Immigration Services on 08/21/2023 Information about this document as published in the Federal Register. Relevant information about this document from Regulations.gov provides additional context. This information is not part of the official Federal Register document. This document has been published in the Federal Register. Use the PDF linked in the document sidebar for the official electronic format. This table of contents ... [Content truncated]",
+                    "content_tokens": 300
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Situation Ukraine Refugee Situation",
+                "htmlTitle": "Situation <b>Ukraine</b> Refugee Situation",
+                "link": "https://data.unhcr.org/en/situations/ukraine",
+                "displayLink": "data.unhcr.org",
+                "snippet": "This report describes the most relevant trends and data points on education of refugee children and youth from Ukraine based on the most recent 2023 ...",
+                "htmlSnippet": "This report describes the most relevant trends and data points <b>on</b> education of refugee children and youth <b>from Ukraine</b> based <b>on</b> the most recent <b>2023</b>&nbsp;...",
+                "formattedUrl": "https://data.unhcr.org/en/situations/ukraine",
+                "htmlFormattedUrl": "https://data.unhcr.org/en/situations/<b>ukraine</b>",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Situation Ukraine Refugee Situation =============== 1. 2. * * * * * * * ] ! * * * * * * * * Latest Documents Select category * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * Pinned * ! ] ---------------------------------------------------------------------------------------------------------------------------------------------------- Document * Download] View] * 3.63 MB * Download Count: 465 This report presents key findings related to protection, including child protection, gender-based violence, and accountability to affected populations based on the most recent 2023 Multi-Sector Needs ... Publish date: **28 June 2024** (25 days ago) Create date: **28 June 2024** (25 days ago) ! * ! * ! * * ! ] ---------------------------------------------------------------------------------------------------------- Document * Download] View] * 684.29 KB * Download Count: 551 This report describes the most relevant trends and data points on education of refugee children and youth from Ukraine based on the most recent 2023 Multi-Sector Needs Assessment (MSNA) conducted in s... Publish date: **26 June 2024** (27 days ago) Create date: **26 June 2024** (27 days ago) ! * ! * ! * * ! ] ------------------------------------------------------------------------------------------------------------------------------------------------------------------ Document * Download] View] * 2.03 MB * Download Count: 506 Belarus, Bulgaria, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Hungary, Moldova, Poland, Romania, and Slovakia Publish date: **18 June 2024** (1 month ago) Create date: **18 June 2024** (1 month ago) ! * ! * ! * * ! ] ---------------------------------------------------------------------------------------- Document * Download] View] * 1.66 MB * Download Count: 616 Publish ... [Content truncated]",
+                    "content_tokens": 300
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "War Crimes in Ukraine",
+                "htmlTitle": "<b>War</b> Crimes in <b>Ukraine</b>",
+                "link": "https://crsreports.congress.gov/product/pdf/R/R47762",
+                "displayLink": "crsreports.congress.gov",
+                "snippet": "Oct 16, 2023 ... On March 17, 2023, the ICC issued warrants for the arrest of Russian President Vladimir Putin and another Russian official for the war crime of ...",
+                "htmlSnippet": "Oct 16, 2023 <b>...</b> <b>On</b> March 17, <b>2023</b>, the ICC issued warrants <b>for</b> the arrest of Russian President Vladimir Putin and another Russian official <b>for</b> the <b>war</b> crime of&nbsp;...",
+                "formattedUrl": "https://crsreports.congress.gov/product/pdf/R/R47762",
+                "htmlFormattedUrl": "https://crsreports.congress.gov/product/pdf/R/R47762",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ7yxtE8W6qlWAu8hF5nLL7n2nIC89Yxt_56IQyyJW_ipc7t1OxZdsf7E&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "moddate": "D:20231017143907-04'00'",
+                            "creationdate": "D:20231017143903-04'00'",
+                            "creator": "Microsoft® Word LTSC",
+                            "author": "Andrew S. Bowen, Matthew C. Weed",
+                            "subject": "CRS Report",
+                            "producer": "Microsoft® Word LTSC; modified using iText® 7.1.2 ©2000-2018 iText Group NV (AGPL-version)",
+                            "title": "War Crimes in Ukraine"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "x-raw-image:///0c2acc61407270c6d126750a999618b8c1a0c72b97a26b61135e106b2641d1b7"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Conflict in Ukraine: A timeline (2014 - eve of 2022 invasion) - House ...",
+                "htmlTitle": "<b>Conflict in Ukraine</b>: A timeline (2014 - eve of 2022 invasion) - House ...",
+                "link": "https://commonslibrary.parliament.uk/research-briefings/cbp-9476/",
+                "displayLink": "commonslibrary.parliament.uk",
+                "snippet": "Published Tuesday, 22 August, 2023. Research Briefing · Europe · Institutions ... The current conflict in Ukraine began on 24 February 2022 when Russian ...",
+                "htmlSnippet": "Published Tuesday, 22 <b>August</b>, <b>2023</b>. Research Briefing &middot; Europe &middot; Institutions ... The <b>current conflict in Ukraine</b> began <b>on</b> 24 February 2022 when Russian&nbsp;...",
+                "formattedUrl": "https://commonslibrary.parliament.uk/research-briefings/cbp-9476/",
+                "htmlFormattedUrl": "https://commonslibrary.parliament.uk/research-briefings/cbp-9476/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT63utUxznsldx3am5ofvhue20mUd2zLRSIPc7_Cj643BeSfSbf9Me2LYTM&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://commonslibrary.parliament.uk/content/uploads/2014/09/AdobeStock_489308888-1-scaled.jpeg",
+                            "og:type": "article",
+                            "og:image:width": "2560",
+                            "twitter:card": "summary_large_image",
+                            "citation_title": "Conflict in Ukraine: A timeline (2014 – eve of 2022 invasion)",
+                            "og:site_name": "House of Commons Library",
+                            "og:title": "Conflict in Ukraine: A timeline (2014 - eve of 2022 invasion)",
+                            "og:image:height": "1707",
+                            "citation_author": "Nigel Walker",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://commonslibrary.parliament.uk/content/uploads/2016/08/cropped-Logo3black-270x270.png",
+                            "og:description": "This paper provides a timeline of the major events in the Ukraine-Russia conflict between Russia's annexation of Crimea in 2014 and the eve of the invasion of Ukraine in February 2022.",
+                            "citation_online_date": "22/07/2024 03:40:44",
+                            "citation_topic": "Eastern Europe",
+                            "twitter:site": "@commonslibrary",
+                            "article:modified_time": "2024-07-22T02:40:44+00:00",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:locale": "en_GB",
+                            "citation_section": "International Affairs and Defence Section",
+                            "og:url": "https://commonslibrary.parliament.uk/research-briefings/cbp-9476/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://commonslibrary.parliament.uk/content/uploads/2014/09/AdobeStock_489308888-1-scaled.jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Conflict in Ukraine: A timeline (2014 - eve of 2022 invasion) - House of Commons Library =============== Toggle main navigation * * * * * * * 1. 2. 3. 4. Conflict in Ukraine: A timeline (2014 – eve of 2022 invasion) Conflict in Ukraine: A timeline (2014 – eve of 2022 invasion) ============================================================= Research Briefing Published Tuesday, 22 August, 2023 * * * * * * This paper provides a timeline of the major events in the Ukraine-Russia conflict between Russia's annexation of Crimea in 2014 and the eve of the invasion of Ukraine in February 2022. Documents to download --------------------- * Conflict in Ukraine: A timeline (2014 - eve of 2022 invasion) (689 KB , PDF) The current conflict in Ukraine began on 24 February 2022 when Russian military forces entered the country from Belarus, Russia and Crimea. Prior to the invasion, there had already been eight years of conflict in eastern Ukraine between Ukrainian Government forces and Russia-backed separatists. This paper provides a timeline of the major events that happened in the conflict in Ukraine from the 2014 annexation of Crimea to the eve of the 2022 Russian invasion. A timeline covering the events since Russia’s invasion of Ukraine in 2022 is available in Commons Library research briefing CBP-9847, . ### The 2014 Euromaidan protests . These ‘Euromaidan’ demonstrations turned violent in early 2014 and, in February that year, some . After the collapse of a power-sharing agreement on 22 February 2014, and a new government was installed by the Ukrainian parliament. ### Russia’s annexation of Crimea, 2014 Toward the end of February 2014, unidentified military figures, later confirmed to be Russian personnel, surrounded the airports in Crimea, a majority-Russian peninsula in Ukraine. The Crimean autonomous assembly was then seized by pro-Russian forces. In March 2014 the ... [Content truncated]",
+                    "content_tokens": 300
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Conflict in Ukraine: A timeline (2014 - eve of 2022 invasion)",
+                "htmlTitle": "<b>Conflict in Ukraine</b>: A timeline (2014 - eve of 2022 invasion)",
+                "link": "https://researchbriefings.files.parliament.uk/documents/CBP-9476/CBP-9476.pdf",
+                "displayLink": "researchbriefings.files.parliament.uk",
+                "snippet": "Aug 22, 2023 ... The current conflict in Ukraine began on ... Commons Library Research Briefing, 22 August 2023. 3. Ukraine crisis: November 2021 – 23. February ...",
+                "htmlSnippet": "Aug 22, 2023 <b>...</b> The <b>current conflict in Ukraine</b> began <b>on</b> ... Commons Library Research Briefing, 22 <b>August 2023</b>. 3. <b>Ukraine crisis</b>: November 2021 – 23. February&nbsp;...",
+                "formattedUrl": "https://researchbriefings.files.parliament.uk/documents/CBP.../CBP-9476.pd...",
+                "htmlFormattedUrl": "https://researchbriefings.files.parliament.uk/documents/CBP.../CBP-9476.pd...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxPg636nCmh2ncEz9uaMkk5CTdYdxpoCtbcRFRanjRYyPQ5dBLsOyqM3ZR&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "monep_sizes_side_comment": "Width=116.25|Heights=Small,144;Medium,201;Large,312|Left=-128.15|PageType=One",
+                            "msip_label_a8f77787_5df4_43b6_a2a8_8d8b678a318b_actionid": "2cacb921-06fb-4a3e-b22b-e02aaf734a14",
+                            "creationdate": "D:20230823094138+01'00'",
+                            "msip_label_a8f77787_5df4_43b6_a2a8_8d8b678a318b_setdate": "2022-02-26T17:59:03Z",
+                            "monep_coverimage": "S:\\Teams\\Research and Library Central Team\\Images\\Briefing paper images\\Subject based images\\International affairs\\Ukraine conflict images\\OSCE_SMM_monitoring_the_movement_of_heavy_weaponry_in_eastern_Ukraine_(16705750566).jpg",
+                            "monep_docver": "1.0.10",
+                            "msip_label_a8f77787_5df4_43b6_a2a8_8d8b678a318b_siteid": "1ce6dd9e-b337-4088-be5e-8dbbec04b34a",
+                            "moddate": "D:20230823094200+01'00'",
+                            "sourcemodified": "D:20230823083650",
+                            "monep_sizes_page_landscape": "Width=751|Heights=Small,144;Medium,201;Large,312|Left=-128.15|PageType=Landscape",
+                            "monep_sizes_page": "Width=504.65|Heights=Small,144;Medium,201;Large,312|Left=-128.15|PageType=One",
+                            "msip_label_a8f77787_5df4_43b6_a2a8_8d8b678a318b_contentbits": "0",
+                            "monep_sizes_page_blank_landscape": "Width=785.25|Heights=Large,595.35|Left=0|PageType=BlankLandscape",
+                            "order": "152000.000000",
+                            "creator": "Acrobat PDFMaker 23 for Word",
+                            "rmkeyword2": "13;#Research Publications|e82f486a-a3ac-432f-993e-ae1176475c2d",
+                            "msip_label_a8f77787_5df4_43b6_a2a8_8d8b678a318b_method": "Standard",
+                            "_dlc_dociditemguid": "1b078033-916f-4794-a8cf-4198252350ac",
+                            "author": "WALKER, Nigel",
+                            "monep_docauthor": "Meta One Limited",
+                            "contenttypeid": "0x0101000359265A85CD3448B1AC585A6F0481F4",
+                            "monep_covertype": "picCover2",
+                            "monep_sizes_column": "Width=376.5|Heights=Small,144;Medium,201;Large,312|Left=0|PageType=One",
+                            "monep_sizes_column_landscape": "Width=623.1|Heights=Small,144;Medium,201;Large,312|Left=0|PageType=Landscape",
+                            "monep_sizes_page_blank_portrait": "Width=538.65|Heights=Large,841.95|Left=0|PageType=BlankPortrait",
+                            "producer": "Adobe PDF Library 23.3.45",
+                            "msip_label_a8f77787_5df4_43b6_a2a8_8d8b678a318b_name": "a8f77787-5df4-43b6-a2a8-8d8b678a318b",
+                            "monep_doctype": "Library Research Briefing",
+                            "msip_label_a8f77787_5df4_43b6_a2a8_8d8b678a318b_enabled": "true"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "x-raw-image:///fed5b09509224ab4a2e35dc42436c0a9ce52dd10adb04a240d00e3375d4a81c2"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Temporary Protected Status | USCIS",
+                "htmlTitle": "Temporary Protected Status | USCIS",
+                "link": "https://www.uscis.gov/humanitarian/temporary-protected-status",
+                "displayLink": "www.uscis.gov",
+                "snippet": "However, you must obtain your corrected receipt notice to present when completing Form I-9, Employment Eligibility Verification. If you are eligible for the 540 ...",
+                "htmlSnippet": "However, you must obtain your corrected receipt notice to <b>present</b> when completing Form I-9, Employment Eligibility Verification. If you are eligible <b>for</b> the 540&nbsp;...",
+                "formattedUrl": "https://www.uscis.gov/humanitarian/temporary-protected-status",
+                "htmlFormattedUrl": "https://www.uscis.gov/humanitarian/temporary-protected-status",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSAv0AgbsidQBDnlOzRIQLFnE4-iVbu75HM2humTb9Wh-Rk6yiWiw_-xI&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.uscis.gov/sites/default/files/images/social-media/OPA-SM_USCISonBlue_FB_1200x627_V1.png",
+                            "og:type": "article",
+                            "article:published_time": "2024-07-22",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "USCIS",
+                            "handheldfriendly": "true",
+                            "twitter:url": "https://www.uscis.gov/humanitarian/temporary-protected-status",
+                            "og:description": "Temporary Protected Status",
+                            "twitter:image": "https://www.uscis.gov/sites/default/files/images/social-media/OPA-SM_USCISonBlue_TW_1024x512_V1.png",
+                            "twitter:site": "@USCIS",
+                            "article:modified_time": "2024-07-22",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Temporary Protected Status",
+                            "mobileoptimized": "width",
+                            "og:url": "https://www.uscis.gov/humanitarian/temporary-protected-status"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.uscis.gov/sites/default/files/images/social-media/OPA-SM_USCISonBlue_FB_1200x627_V1.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The Secretary of Homeland Security may designate a foreign country for TPS due to conditions in the country that temporarily prevent the country's nationals from returning safely, or in certain circumstances, where the country is unable to handle the return of its nationals adequately. USCIS may grant TPS to eligible nationals of certain countries (or parts of countries), who are already in the United States. Eligible individuals without nationality who last resided in the designated country may also be granted TPS. The Secretary may designate a country for TPS due to the following temporary conditions in the country: * Ongoing armed conflict (such as civil war) * An environmental disaster (such as earthquake or hurricane), or an epidemic * Other extraordinary and temporary conditions During a designated period, individuals who are TPS beneficiaries or who are found preliminarily eligible for TPS upon initial review of their cases (_prima facie_ eligible): * Are not removable from the United States * Can obtain an employment authorization document (EAD) * May be granted travel authorization Once granted TPS, an individual also cannot be detained by DHS on the basis of his or her immigration status in the United States. TPS is a temporary benefit that does not lead to lawful permanent resident status or give any other immigration status. However, registration for TPS does not prevent you from: * Applying for nonimmigrant status * Filing for adjustment of status based on an immigrant petition * Applying for any other immigration benefit or protection for which you may be eligible PLEASE NOTE: To be granted any other immigration benefit you must still meet all the eligibility requirements for that particular benefit. An application for TPS does not affect an application for asylum or any other immigration benefit and vice versa. Denial of an application ... [Content truncated]",
+                    "content_tokens": 300
+                }
+            }
+        }
+    ]
+}
