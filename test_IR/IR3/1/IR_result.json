@@ -1,0 +1,42 @@
+{
+    "Question": "Does the video accurately represent the current situation in Kyiv or mislead about the war in Ukraine?",
+    "Prediction": {
+        "need_online_search": "Yes",
+        "Queries": {
+            "Query 1": "current situation in Kyiv during the war in Ukraine August 2023",
+            "Query 2": "impact of war on civilian life in Kyiv 2023"
+        }
+    },
+    "Query 1top3_evidence": {
+        "SelectedEvidences": [
+            {
+                "SelectedEvidence": "evidence0",
+                "Reason": "This TikTok evidence captures a viral moment related to Hurricane Ian, showcasing eyewitness accounts and social media reactions to sharks swimming in flooded areas. It directly pertains to the query about unusual animal behavior post-hurricane, adding context to the kind of situations witnessed during flood events like the one in Maui, thus enhancing understanding of the chaotic aftermath of natural disasters."
+            },
+            {
+                "SelectedEvidence": "evidence4",
+                "Reason": "The evidence refers to U.S. News coverage of national events, potentially contextualizing the broader impact of natural disasters across the country, including aspects like volunteer efforts, economic recovery, and political responses. This aligns with the claim of President Trump's visit to Maui, indicating how similar events could affect public perception and political narratives, thus influencing the validity of Trump's purported actions in Maui."
+            },
+            {
+                "SelectedEvidence": "evidence3",
+                "Reason": "This piece discusses earlier instances of reported sightings of unusual animal behavior or phenomena during hurricanes, specifically how sharks have been documented swimming in flooded neighborhoods. This historical context provides a frame of reference regarding the nature of viral behaviors following such events, contributing to evaluating the authenticity of the video claim concerning President Trump's alleged visit and the general public's reaction to such crises."
+            }
+        ]
+    },
+    "Query 2top3_evidence": {
+        "SelectedEvidences": [
+            {
+                "SelectedEvidence": "evidence7",
+                "Reason": "This evidence directly addresses the authenticity of a video that purportedly shows a shark swimming in a flooded street during Hurricane Ian in Florida. It confirms that the video is real and was captured during the event, making it relevant to discerning whether similar claims about the video of President Trump in Maui are authentic or manipulated."
+            },
+            {
+                "SelectedEvidence": "evidence2",
+                "Reason": "This evidence provides details about the shark video that went viral during Hurricane Ian, highlighting the skepticism surrounding such videos and the efforts to verify their authenticity. This context is crucial for evaluating whether the claim regarding Trump's visit is accurate or fabricated, as it draws parallels with the type of misinformation that commonly appears during disasters."
+            },
+            {
+                "SelectedEvidence": "evidence9",
+                "Reason": "This piece discusses the prevalence of fake images and videos, particularly of sharks during hurricanes. It reveals how easily misinformation can spread in the aftermath of disasters, which is key to analyzing the credibility of the video claim about Trump and its possible misinformation."
+            }
+        ]
+    }
+}
