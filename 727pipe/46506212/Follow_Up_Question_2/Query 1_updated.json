@@ -1,0 +1,857 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - impact of viral videos on public perception of war",
+                "totalResults": "45200000",
+                "searchTerms": "impact of viral videos on public perception of war",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - impact of viral videos on public perception of war",
+                "totalResults": "45200000",
+                "searchTerms": "impact of viral videos on public perception of war",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.562773,
+        "formattedSearchTime": "0.56",
+        "totalResults": "45200000",
+        "formattedTotalResults": "45,200,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "How Does the Media Impact Public Perception about War ...",
+                "htmlTitle": "How Does the Media <b>Impact Public Perception</b> about <b>War</b> ...",
+                "link": "https://www.american.edu/sis/news/20231121-how-does-the-media-impact-public-perception-about-war.cfm",
+                "displayLink": "www.american.edu",
+                "snippet": "Nov 21, 2023 ... Photos and videos have a high potential for going viral on social media, amplifying certain aspects of the conflict. The coverage can frame the\u00a0...",
+                "htmlSnippet": "Nov 21, 2023 <b>...</b> Photos and <b>videos</b> have a high potential for going <b>viral</b> on social media, amplifying certain aspects of the conflict. The coverage can frame the&nbsp;...",
+                "formattedUrl": "https://www.american.edu/.../20231121-how-does-the-media-impact-public...",
+                "htmlFormattedUrl": "https://www.american.edu/.../20231121-how-does-the-media-<b>impact</b>-<b>public</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTTFdo3XwHU1G2VecfS8hXFYtQb3cBMGHVuYsv-akrDJ7WYqtgz7kk_V8&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "copyrightyear": "2023",
+                            "width": "300",
+                            "url": "https://cloudfront.american.edu/assets/crest-logotype-blue.svg",
+                            "height": "45"
+                        },
+                        {
+                            "width": "600",
+                            "url": "https://www.american.edu/sis/news/images/Resized-Israel-Hamas-News_5589884_600x315.jpg",
+                            "height": "315"
+                        }
+                    ],
+                    "CollegeOrUniversity": [
+                        {
+                            "foundingDate": "1893",
+                            "diversityPolicy": "https://www.american.edu/president/diversity/",
+                            "name": "american.edu",
+                            "description": "American University is a leader among Washington",
+                            "alternateName": "American University",
+                            "url": "http://www.american.edu/",
+                            "sameAs": "https://www.facebook.com/AmericanUniversity"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "Madison Minges"
+                        }
+                    ],
+                    "organization": [
+                        {
+                            "additionaltype": "http://schema.org/CollegeOrUniversity",
+                            "name": "American University"
+                        }
+                    ],
+                    "WebSite": [
+                        {}
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#0f2846",
+                            "og:image": "https://www.american.edu/sis/news/images/Resized-Israel-Hamas-News_5589884_1200x630.jpg",
+                            "theme-color": "#0f2846",
+                            "twitter:card": "summary_large_image",
+                            "og:type": "website",
+                            "og:site_name": "American University",
+                            "og:image:url": "https://www.american.edu/sis/news/images/Resized-Israel-Hamas-News_5589884_1200x630.jpg",
+                            "og:title": "How Does the Media Impact Public Perception about War?",
+                            "msapplication-tileimage": "/customcf/2016-redesign/images/favicons/AU-favicon-150x150.png",
+                            "schoolunit": "School of International Service",
+                            "og:description": "SIS professor and journalist Elise Labott discusses how media coverage of conflict can impact how the public perceives war.",
+                            "fb:app_id": "1671913533107628",
+                            "twitter:site": "@AmericanU",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.american.edu/sis/news/20231121-how-does-the-media-impact-public-perception-about-war.cfm"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.american.edu/sis/news/images/Resized-Israel-Hamas-News_5589884_1200x630.jpg"
+                        }
+                    ],
+                    "article": [
+                        {
+                            "articlebody": "Media and news can be incredibly powerful tools to hold governments accountable, reach the masses with critical information, and open eyes to new perspectives. Media can also play a big role...",
+                            "datemodified": "2023-11-21 00:00:00T00:00:00+05:00",
+                            "articlesection": "International",
+                            "genre": "International",
+                            "name": "How Does the Media Impact Public Perception about War?",
+                            "text": "Media and news can be incredibly powerful tools to hold governments accountable, reach the masses with critical information, and open eyes to new perspectives. Media can also play a big role...",
+                            "headline": "How Does the Media Impact Public Perception about War?",
+                            "datepublished": "2023-11-21 00:00:00T00:00:00+05:00",
+                            "url": "https://www.american.edu/sis/news/20231121-how-does-the-media-impact-public-perception-about-war.cfm"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "American University",
+                            "name": "American University",
+                            "position": "1"
+                        },
+                        {
+                            "item": "School of International Service",
+                            "name": "School of International Service",
+                            "position": "2"
+                        },
+                        {
+                            "item": "News",
+                            "name": "News",
+                            "position": "3"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Times, the Boston Globe, and The Washington Post, signed an open letter condemning Israel\u2019s killing of reporters in Gaza and criticizing the war coverage in Western media. The signatories argue for the use of precise terms like \"apartheid\" and \"ethnic cleansing\" to describe Israel\u2019s treatment of Palestinians, pointing out the double standards in reporting.\nInternational media outlets tend to provide a more diverse range of perspectives, often highlighting the humanitarian impacts on Palestinian civilians. These outlets are generally more direct in critiquing Israeli policies and actions, and they demonstrate a greater willingness to use terms that US media might shy away from. The BBC, for example, has been harshly criticized for a perceived anti-Israeli bias, including referring to Hamas as \u201cmilitants,\u201d as opposed to terrorists, and interviewing guests who praised the Hamas attack. This broader and sometimes more critical vocabulary in international coverage reflects a less conservative approach to the conflict than in American media.\nSome US media outlets have been  for their coverage of the Israel-Hamas war. How does the media\u2019s choice of what stories to cover in conflict and what photos/videos to show in their coverage impact public perception?\nThrough their framing, selection of stories, and use of visual media, news outlets have immense power to influence public opinion. Photos and videos have a high potential for going viral on social media, amplifying certain aspects of the conflict.\nThe coverage can frame the narrative of the conflict. By selecting certain stories or images over others, the media can subtly influence whether Israel or the Palestinians are viewed more sympathetically or negatively by the audience.\nJust as the coverage of the attack on October 7 evoked intense empathy for Israelis, the current emphasis on Palestinian civilian casualties and the growing humanitarian crisis in Gaza is evoking strong emotional responses from the public, including calls for a ceasefire and more humanitarian aid.\nWhat the media chooses not to report can be as impactful as what it does report. Omitting certain facts, events, or perspectives can skew public understanding of the conflict and lead to a one-sided view. The perceived bias or lack thereof in media coverage can affect public trust in media outlets. This influences how the public consumes news and which sources they consider credible.\nThe Israel-Hamas war has generated a lot of attention on social media, where users across platforms like Twitter/X, Tik Tok, and Instagram are making posts and videos about their views on the conflict. Media outlets have also shared lots of content on social media, including breaking news updates. How is social media impacting how the public is perceiving this conflict? What role does misinformation or disinformation on...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "American University is a reputable institution known for its focus on research and academic integrity. As a university website, it often provides research-based information and analysis on various topics, including political issues. It promotes a scholarly approach, making it a reliable source for well-researched content. However, as it is an academic institution, it may not be primarily focused on real-time news or fake news detection."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-11-21"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This evidence discusses how viral photos and videos can influence public perception and frame narratives around conflicts. It directly relates to the implications of viral videos depicting leisure activities in wartime, as it emphasizes how such content can amplify specific aspects of a conflict while potentially misleading audiences regarding the reality of the situation. This evidence helps establish the importance of context in interpreting leisure activities during wartime, making it quite relevant to the question."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Vietnam: The First Television War \u2013 Pieces of History",
+                "htmlTitle": "Vietnam: The First Television <b>War</b> \u2013 Pieces of History",
+                "link": "https://prologue.blogs.archives.gov/2018/01/25/vietnam-the-first-television-war/",
+                "displayLink": "prologue.blogs.archives.gov",
+                "snippet": "Jan 25, 2018 ... No one can say exactly what effect those vivid scenes have on American opinion. ... This caused an outcry of public opinion against the war. By\u00a0...",
+                "htmlSnippet": "Jan 25, 2018 <b>...</b> No one can say exactly what <b>effect</b> those vivid scenes have on American <b>opinion</b>. ... This caused an outcry of <b>public opinion</b> against the <b>war</b>. By&nbsp;...",
+                "formattedUrl": "https://prologue.blogs.archives.gov/2018/.../vietnam-the-first-television-war...",
+                "htmlFormattedUrl": "https://prologue.blogs.archives.gov/2018/.../vietnam-the-first-television-<b>war</b>...",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "fn": "Anonymous",
+                            "nickname": "Anonymous",
+                            "photo": "https://secure.gravatar.com/avatar/?s=60&d=mm&r=g"
+                        },
+                        {
+                            "fn": "Anonymous",
+                            "nickname": "Anonymous",
+                            "photo": "https://secure.gravatar.com/avatar/?s=60&d=mm&r=g"
+                        },
+                        {
+                            "url_text": "Nick",
+                            "fn": "Nick",
+                            "nickname": "Nick",
+                            "photo": "https://secure.gravatar.com/avatar/343c312f18fae4c9762947c4dc153338?s=60&d=mm&r=g",
+                            "url": "https://prologue.blogs.archives.gov/"
+                        },
+                        {
+                            "fn": "Chuck",
+                            "nickname": "Chuck",
+                            "photo": "https://secure.gravatar.com/avatar/8c9562bf2a8ccb42172f9819cbb4d111?s=60&d=mm&r=g"
+                        },
+                        {
+                            "fn": "Shawn joy",
+                            "photo": "https://secure.gravatar.com/avatar/ad0850c803d82d1de46db07e99c3c64d?s=60&d=mm&r=g"
+                        },
+                        {
+                            "fn": "G C",
+                            "photo": "https://secure.gravatar.com/avatar/d8d42bae8336c7d9c2e01a236dfbe672?s=60&d=mm&r=g"
+                        },
+                        {
+                            "fn": "jack",
+                            "nickname": "jack",
+                            "photo": "https://secure.gravatar.com/avatar/ed45f8465f602552d00b38d81e71b19f?s=60&d=mm&r=g"
+                        },
+                        {
+                            "fn": "Annmarie",
+                            "nickname": "Annmarie",
+                            "photo": "https://secure.gravatar.com/avatar/2a18b8ace8f5bf78bba092cf47e3d4d8?s=60&d=mm&r=g"
+                        },
+                        {
+                            "fn": "braiden",
+                            "nickname": "braiden",
+                            "photo": "https://secure.gravatar.com/avatar/b2d9b1351c56996cd0f8791915983d8b?s=60&d=mm&r=g"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShvyyu7B4J4pncn0b5xkt7fySxJep9hNEbJwlZRFhaIDJeRDe9WQl_SZA&s",
+                            "width": "183",
+                            "height": "275"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/01/111-ccv-570-cc44322.jpg?w=200",
+                            "og:type": "article",
+                            "article:published_time": "2018-01-25T16:28:18+00:00",
+                            "og:image:width": "200",
+                            "og:image:alt": "111-CCV-570-CC44322",
+                            "twitter:card": "summary",
+                            "og:site_name": "Pieces of History",
+                            "og:title": "Vietnam: The First Television War",
+                            "og:image:height": "300",
+                            "og:description": "Today\u2019s post comes from Madie Ward in the National Archives History Office. The Vietnam War (1955\u201375) was a time of great controversy in the United States. Cold War tensions ran high as the country\u2026",
+                            "twitter:image": "https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/01/111-ccv-570-cc44322.jpg?w=144",
+                            "twitter:text:title": "Vietnam: The First Television War",
+                            "twitter:image:alt": "111-CCV-570-CC44322",
+                            "article:modified_time": "2020-12-02T20:09:36+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://prologue.blogs.archives.gov/2018/01/25/vietnam-the-first-television-war/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/01/111-ccv-570-cc44322.jpg?w=200"
+                        }
+                    ],
+                    "hatomfeed": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... ensured that the news didn\u2019t report anything that the military did not want disclosed to the public.\u00a0Big stories like the A-bomb stayed out of the news until after the war ended. The main focus of the media was high morale and support for the war effort.\nIn contrast, the television news networks had a bleaker view of the war in Vietnam. After the Tet Offensive in 1968\u2014which the public saw as a defeat\u2014reports turned unfavorable toward the war effort. \u00a0The censorship that was in effect during World War II was much more lax by the 1960s. Camera crews were on-site almost constantly in combat zones. Journalists wrote day-to-day coverage and recorded their stories in the field. This gave Americans a more realistic glimpse into the lives of their soldiers, and they didn\u2019t like what they saw.\nOn April 1, 1968, the day after President Lyndon B. Johnson announced that he would not run for reelection, he stated:\n> As I sat in my office last evening, waiting to speak, I thought of the many times each week when television brings the war into the American home. No one can say exactly what effect those vivid scenes have on American opinion. Historians must only guess at the effect that television would have had during earlier conflicts on the future of this Nation: during the Korean war, for example, at that time when our forces were pushed back there to Pusan; of World War II, the Battle of the Bulge, or when our men were slugging it out in Europe or when most of our Air Force was shot down that day in June 1942 off Australia.\n]\nUS soldiers searching for Viet Cong near Laikhe, 1/8/1966. (National Archives Identifier 66956820)\nTelevising the Vietnam War helped to divide a nation that took pride in its ability to unify. The dramatization of stories in the news distorted the public\u2019s perception of what was actually happening in the field. Since it was visible in their homes, Americans were able to connect and empathize with the soldiers more than ever before. This caused an outcry of public opinion against the war.\nBy seeing the war on television, the anti-war advocates argued that the war was unnecessary, and hundreds of thousands of \u201cAmerican boys\u201d were not dying for a noble cause. In fact, they believed that the United States was involved in a war in which they shouldn\u2019t be involved at all.\n]\nU.S. soldiers searching for the Viet Cong near Tuy Hoa,...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "This blog is operated by the National Archives of the United States and serves as an educational platform about historical records. While it provides accurate information about governmental and historical topics, it primarily deals with archives rather than current events or fake news detection. Its credibility in historical accuracy is high, but its applicability to contemporary issues is limited."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2018-01-25"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This discusses the impact of television during the Vietnam War and how vivid depictions influenced public opinion against the war. While it provides historical context about the effect of media on perceptions of war, it is less directly focused on viral videos of leisure activities today, so it is somewhat less relevant but still contributes valuable insight into media's role in shaping public perceptions in wartime."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Inside Israel-Gaza war propaganda, fake videos and misinformation ...",
+                "htmlTitle": "Inside Israel-Gaza <b>war</b> propaganda, fake <b>videos</b> and misinformation ...",
+                "link": "https://www.washingtonpost.com/technology/2023/10/14/propaganda-misinformation-israel-hamas-war-social-media/",
+                "displayLink": "www.washingtonpost.com",
+                "snippet": "Oct 14, 2023 ... A flood of misinformation in the Israel-Gaza war is shaping how panicked citizens and a global public view the conflict with Hamas.",
+                "htmlSnippet": "Oct 14, 2023 <b>...</b> A flood of misinformation in the Israel-Gaza <b>war</b> is shaping how panicked citizens and a global <b>public view</b> the conflict with Hamas.",
+                "formattedUrl": "https://www.washingtonpost.com/.../propaganda-misinformation-israel-ham...",
+                "htmlFormattedUrl": "https://www.washingtonpost.com/.../propaganda-misinformation-israel-ham...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo8gLCTG0Scf2Qs9f8SzTNbjYFziiIhxJkwbKvNsUj6cUdvRPC-3_cfTtI&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter_description": "A flood of misinformation in the Israel-Gaza war is shaping how panicked citizens and a global public view the conflict with Hamas.",
+                            "article_modified_time": "2023-10-15T19:54:33.710Z",
+                            "og:image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KDOWJ526HYEAZA756PIWJLVDVM_size-normalized.jpg&w=1440",
+                            "apple-itunes-app": "app-id=352509417, app-argument=https://www.washingtonpost.com/technology/2023/10/14/propaganda-misinformation-israel-hamas-war-social-media/?sourceApp=apple-banner",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-10-14T11:00:45.042Z",
+                            "og:site_name": "Washington Post",
+                            "og_title": "A flood of misinformation shapes views of Israel-Gaza conflict",
+                            "og_type": "article",
+                            "og_url": "https://www.washingtonpost.com/technology/2023/10/14/propaganda-misinformation-israel-hamas-war-social-media/",
+                            "og:description": "A flood of misinformation in the Israel-Gaza war is shaping how panicked citizens and a global public view the conflict with Hamas.",
+                            "article_published_time": "2023-10-14T11:00:45.042Z",
+                            "next-head-count": "84",
+                            "article_section": "Technology",
+                            "twitter:site": "@WashingtonPost",
+                            "article:modified_time": "2023-10-15T19:54:33.710Z",
+                            "twitter_site": "@WashingtonPost",
+                            "og_description": "A flood of misinformation in the Israel-Gaza war is shaping how panicked citizens and a global public view the conflict with Hamas.",
+                            "article:content_tier": "metered",
+                            "twitter_title": "A flood of misinformation shapes views of Israel-Gaza conflict",
+                            "last_updated_date": "2023-10-15T19:54:33.710Z",
+                            "og:type": "article",
+                            "twitter:title": "A flood of misinformation shapes views of Israel-Gaza conflict",
+                            "article:section": "Technology",
+                            "og_site_name": "Washington Post",
+                            "twitter_card": "summary_large_image",
+                            "og:title": "A flood of misinformation shapes views of Israel-Gaza conflict",
+                            "og_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KDOWJ526HYEAZA756PIWJLVDVM_size-normalized.jpg&w=1440",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "A flood of misinformation in the Israel-Gaza war is shaping how panicked citizens and a global public view the conflict with Hamas.",
+                            "article_content_tier": "metered",
+                            "og:url": "https://www.washingtonpost.com/technology/2023/10/14/propaganda-misinformation-israel-hamas-war-social-media/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KDOWJ526HYEAZA756PIWJLVDVM_size-normalized.jpg&w=1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The barrage of false images, memes, videos and posts \u2014 mostly generated from within the region itself \u2014 is making it difficult to assess what is real\nA WhatsApp voice memo purporting to have insider information ricocheted across hundreds of group chats in Israel early on Monday. The Israeli army was planning for another \u201cbattle like we\u2019ve never experienced before,\u201d the anonymous woman said in Hebrew, warning that people should prepare to lose access to food, water and internet service for a week.\nAcross the country, Israelis raced to the banks and to the grocery stores, anticipating another attack. But the message, the army clarified hours later on X, turned out to be a falsehood.\nOne week into the war between Israel and Gaza, social media is inducing a fog of war surpassing previous clashes in the region \u2014 one that\u2019s shaping how panicked citizens and a global public view the conflict.\nSocial media has long played a critical role in battles in the area. During the 11-day war between Israel and Hamas in 2021, posts of carnage in Gaza rallied the public to the Palestinian cause. Researchers say increased internet access and the spread of smartphones enabled a watershed moment, revealing how tech platforms could show the horror and human toll of such events.\nBut now, a volatile, months-long fight over Israel\u2019s democratic future has primed conspiracies and false information to spread within its borders. Tech platforms, diminished from waves of layoffs, have receded from policing falsehoods, disinformation and hate speech online. Electricity outages and strikes on telecommunications infrastructure in Gaza threaten Palestinians\u2019 connectivity, according to human rights organizations.\nElon Musk's X faces EU probe over handling of Israel-Gaza war\nWhile social media has been a critical tool for disseminating wartime information in recent days, a barrage of images, memes and testimonials is making it difficult to assess what is real. Activists in the region warn that viral horror stories that turn out not to be true may lead people to further distrust authority figures \u2014 and could spark hate, violence and retaliation against innocent people.\n\u201cI\u2019m terrified,\u201d Marwa Fatafta, a policy analyst...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The Washington Post is one of the leading newspapers in the United States with a strong reputation for investigative journalism and high editorial standards. It has a history of reporting accurate news and providing in-depth analysis of current events, making it a reliable source for detecting misinformation. It also has dedicated sections for fact-checking and debunking false claims, which contributes to its high score."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-10-14"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This evidence highlights the misinformation flooding social media during the Israel-Gaza war. Although it discusses misinformation, it does not focus directly on depictions of leisure activities in wartime. Its relevance lies in how misinformation can mislead public understanding of conflict, including distorted views from viral content, but it doesn\u2019t specifically address leisure activity videos."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Digital Deception: Disinformation's Impact in the Israel-Hamas War ...",
+                "htmlTitle": "Digital Deception: Disinformation&#39;s <b>Impact</b> in the Israel-Hamas <b>War</b> ...",
+                "link": "https://www.wilsoncenter.org/article/digital-deception-disinformations-impact-israel-hamas-war",
+                "displayLink": "www.wilsoncenter.org",
+                "snippet": "Oct 20, 2023 ... Each of these platforms has the power to shape public perception beyond the digital realm, potentially influencing geopolitical outcomes. The EU\u00a0...",
+                "htmlSnippet": "Oct 20, 2023 <b>...</b> Each of these platforms has the power to shape <b>public perception</b> beyond the digital realm, potentially influencing geopolitical outcomes. The EU&nbsp;...",
+                "formattedUrl": "https://www.wilsoncenter.org/.../digital-deception-disinformations-impact-is...",
+                "htmlFormattedUrl": "https://www.wilsoncenter.org/.../digital-deception-disinformations-<b>impact</b>-is...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW5KThXEAakPgNsgRc6jis7tbCrSQSbqJKJttddr6i8DHZEJxeUL9B4Ak&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#0e6ea6",
+                            "og:image": "https://www.wilsoncenter.org/sites/default/files/styles/og_image/public/media/uploads/images/shutterstock_750914167.jpg",
+                            "msapplication-config": "/themes/custom/wilson/assets/pwa/browserconfig.xml",
+                            "og:type": "article",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "og:site_name": "Wilson Center",
+                            "handheldfriendly": "true",
+                            "og:title": "Digital Deception: Disinformation\u2019s Impact in the Israel-Hamas War",
+                            "og:image:height": "630",
+                            "og:description": "Disinformation and even complete fabrications have spread rapidly after Hamas\u2019 attack on Israel. The actions of social media giants like X have enabled disinformation to spread quickly. Regulations may help, but every false claim could potentially provoke a wider conflict.",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "mobileoptimized": "width",
+                            "og:url": "https://www.wilsoncenter.org/article/digital-deception-disinformations-impact-israel-hamas-war"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.wilsoncenter.org/sites/default/files/styles/og_image/public/media/uploads/images/shutterstock_750914167.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... to share information without considering its trustworthiness.\u00a0\nIn addition, the algorithm on X has been modified to prioritize posts with the maximum engagement, encouraging insidious users to share disinformation since dramatic and shocking content often performs exceptionally well, therefore distorting reality. Engagement with conflict-related images and videos creates a strong incentive for individuals pushing specific narratives to share old footage from unrelated events. Posts from X users with premium subscriptions (marked by a blue checkmark) were boosted to the top of users' news feeds. While the blue checkmark was initially\u00a0intended to foster a better user experience, it inadvertently led to the elevation of unverified and misleading content. Such content often garnered hundreds of thousands of views and engagements, spreading fabrications at an unparalleled pace.\nWhile X has garnered significant attention, other platforms such as TikTok, YouTube, and Telegram have also struggled with false information regarding the Israel-Hamas war\nWhile X has garnered significant attention, other platforms such as TikTok, YouTube, and Telegram have also struggled with false information regarding the Israel-Hamas war. Similar to previous crises, content from the conflict initially appeared on encrypted messaging platforms like\u00a0Telegram. While Telegram can serve as a primary source for footage, the lack of vetting and fact-checking on such media means that information can and is often taken out of context when shared on platforms like X. This prevalent problem underlines the challenges of addressing disinformation, as it often gains prominence due to its ability to elicit strong reactions and go viral. Each of these platforms has the power to shape public perception beyond the digital realm, potentially influencing geopolitical outcomes.\nThe EU Crackdown on Social Media Giants\nThe European Union is cracking down on tech giants to curb the rampant spread of disinformation across social media platforms. Mark Zuckerberg's Meta, the conglomerate that owns Facebook and Instagram, has been\u00a0served an injunction: comply with European law within 24 hours or face the consequences. X didn't\u00a0escape the EU's crosshairs either. Thierry Breton, the EU's industry chief, has\u00a0urged Meta and X to demonstrate \"timely, diligent, and objective action\" to combat the spread of disinformation. He had given them just one day to provide a detailed account of the \"proportionate and effective\" measures they had taken.\nBreton has demanded that Meta uphold its end of the bargain. The company has\u00a0responded by setting up a special operations center to monitor and counter the evolving situation. Still, the EU insists that the response must be comprehensive and swift. This isn't just a warning...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Wilson Center is a respected think tank that offers research and insights on global issues including politics, diplomacy, and security. It often publishes analyses grounded in academic research, but like the American University, it is more focused on analysis than real-time news. While dependable for research and expert opinion, its application to immediate news detection is not its primary focus."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-10-20"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This discusses how social media can shape public perceptions and emphasizes the speed at which misinformation spreads during wartime. Similar to Evidence 2, it implicates the role of viral content in altering narratives around conflicts, but it does not focus specifically on leisure activities, making it somewhat less relevant, though still helpful for understanding overall impacts on public perception."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Israel-Gaza war sparks debate over TikTok's role in setting public ...",
+                "htmlTitle": "Israel-Gaza <b>war</b> sparks debate over TikTok&#39;s <b>role</b> in setting <b>public</b> ...",
+                "link": "https://www.washingtonpost.com/technology/2023/11/02/tiktok-israel-hamas-video-brainwash/",
+                "displayLink": "www.washingtonpost.com",
+                "snippet": "Nov 2, 2023 ... But TikTok's recommendation system makes it hard to know why some videos go viral, and critics have long argued that the opaque algorithm could\u00a0...",
+                "htmlSnippet": "Nov 2, 2023 <b>...</b> But TikTok&#39;s recommendation system makes it hard to know why some <b>videos</b> go <b>viral</b>, and critics have long argued that the opaque algorithm could&nbsp;...",
+                "formattedUrl": "https://www.washingtonpost.com/.../tiktok-israel-hamas-video-brainwash/",
+                "htmlFormattedUrl": "https://www.washingtonpost.com/.../tiktok-israel-hamas-video-brainwash/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREgX7bukf9-bpqVF0BP8TWLOnJsuUKa6KSm9U0k5rIszYasyLV41rIGuG6&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter_description": "The Israel-Gaza war has again placed TikTok at the center of a heated global argument over the app\u2019s risks and power.",
+                            "article_modified_time": "2023-11-02T21:22:49.007Z",
+                            "og:image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7U2W6NE6TAJL7JONKXBFAF7UMA_size-normalized.jpg&w=1440",
+                            "apple-itunes-app": "app-id=352509417, app-argument=https://www.washingtonpost.com/technology/2023/11/02/tiktok-israel-hamas-video-brainwash/?sourceApp=apple-banner",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-11-02T11:00:05.792Z",
+                            "og:site_name": "Washington Post",
+                            "og_title": "Israel-Gaza war sparks debate over TikTok\u2019s role in setting public opinion",
+                            "og_type": "article",
+                            "og_url": "https://www.washingtonpost.com/technology/2023/11/02/tiktok-israel-hamas-video-brainwash/",
+                            "og:description": "The Israel-Gaza war has again placed TikTok at the center of a heated global argument over the app\u2019s risks and power.",
+                            "article_published_time": "2023-11-02T11:00:05.792Z",
+                            "next-head-count": "83",
+                            "article_section": "Technology",
+                            "twitter:site": "@WashingtonPost",
+                            "article:modified_time": "2023-11-02T21:22:49.007Z",
+                            "twitter_site": "@WashingtonPost",
+                            "og_description": "The Israel-Gaza war has again placed TikTok at the center of a heated global argument over the app\u2019s risks and power.",
+                            "article:content_tier": "metered",
+                            "twitter_title": "Israel-Gaza war sparks debate over TikTok\u2019s role in setting public opinion",
+                            "last_updated_date": "2023-11-02T21:22:49.007Z",
+                            "og:type": "article",
+                            "twitter:title": "Israel-Gaza war sparks debate over TikTok\u2019s role in setting public opinion",
+                            "article:section": "Technology",
+                            "og_site_name": "Washington Post",
+                            "twitter_card": "summary_large_image",
+                            "og:title": "Israel-Gaza war sparks debate over TikTok\u2019s role in setting public opinion",
+                            "og_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7U2W6NE6TAJL7JONKXBFAF7UMA_size-normalized.jpg&w=1440",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The Israel-Gaza war has again placed TikTok at the center of a heated global argument over the app\u2019s risks and power.",
+                            "article_content_tier": "metered",
+                            "og:url": "https://www.washingtonpost.com/technology/2023/11/02/tiktok-israel-hamas-video-brainwash/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7U2W6NE6TAJL7JONKXBFAF7UMA_size-normalized.jpg&w=1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...770 million views over the past 30 days in the United States, TikTok data shows. But even that didn\u2019t tell the whole story. Both pro-Palestinian hashtags include videos that are fiercely critical of Hamas, and they are most popular, according to TikTok data, in predominantly Muslim countries such as Malaysia, Pakistan and the United Arab Emirates, where support for Palestinians has long been high.\nTikTok\u2019s hashtags offer a limited and imperfect glimpse of public discourse; many people use them to criticize the stance they\u2019re referencing or in hopes of attracting viewers to unrelated content.\nAnd there is no clear rule for what the balance of ideological debate should be on any social media platform, including TikTok. The app is a global platform used in virtually every country and language, and Muslims are one of the world\u2019s largest religious groups.\nAnnie Wu Henry, a digital strategist who consults for political campaigns and organizations on TikTok, sharply dismissed the idea that TikTok was brainwashing Gen Z users into believing any specific ideology. \u201cTikTok is used as a scapegoat, and there\u2019s a lot of villainizing young people,\u201d she said.\nTikTok, like Facebook and YouTube, bans videos or comments promoting Hamas under its rules against extremist groups. The company says it does not influence views on the platform based on the interests of China\u2019s government or any other, and some videos voicing support for both sides of the Israel-Gaza divide have been shared and viewed millions of times.\nBut TikTok\u2019s recommendation system makes it hard to know why some videos go viral, and critics have long argued that the opaque algorithm could be used to suppress political causes the company dislikes. Creators of both pro-Israel and pro-Palestinian videos in recent weeks have voiced that suspicion as an explanation for why their videos aren\u2019t receiving the level of online engagement they expect.\nA group of Jewish TikTok creators on Wednesday issued an open \u201cDear TikTok\u201d letter calling on the company to step up its systems for safety and content moderation, saying the app was \u201cnot monitoring and guiding public discourse to ensure the platform doesn\u2019t become a permanent cesspool of indiscriminate and aggressive antisemitism.\u201d\nThe letter also claimed that \u201cprominent Jewish creators\u2019 posts about Israel\u201d had seen \u201cengagement of less than 1% from accounts that follow the creator.\u201d The organizers did not provide data to support the claim.\nWhy TikTok videos on the Israel-Hamas war have drawn billions of views\nAidan Kohn-Murphy, founder of Gen-Z for Change, a liberal activist group, and a creator whose posts have criticized both the Israeli war effort and antisemitic extremists...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The Washington Post is one of the leading newspapers in the United States with a strong reputation for investigative journalism and high editorial standards. It has a history of reporting accurate news and providing in-depth analysis of current events, making it a reliable source for detecting misinformation. It also has dedicated sections for fact-checking and debunking false claims, which contributes to its high score."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-11-02"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This discusses TikTok's role in public discourse and its opaque recommendation system. While it connects to how certain types of content can go viral, it does not focus on how leisure activities specifically influence perceptions of conflict, making it less relevant than the previous pieces of evidence."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "The Impact of Digital Platforms on News and Journalistic Content",
+                "htmlTitle": "The <b>Impact</b> of Digital Platforms on News and Journalistic Content",
+                "link": "https://www.accc.gov.au/system/files/ACCC+commissioned+report+-+The+impact+of+digital+platforms+on+news+and+journalistic+content,+Centre+for+Media+Transition+(2).pdf",
+                "displayLink": "www.accc.gov.au",
+                "snippet": "too much influence over public opinion and the political agenda'.70 Ofcom considered the potential for influence by individuals within the media group\u00a0...",
+                "htmlSnippet": "too much <b>influence</b> over <b>public opinion</b> and the political agenda&#39;.70 Ofcom considered the potential for <b>influence</b> by individuals within the media group&nbsp;...",
+                "formattedUrl": "https://www.accc.gov.au/.../ACCC+commissioned+report+-+The+impact+of...",
+                "htmlFormattedUrl": "https://www.accc.gov.au/.../ACCC+commissioned+report+-+The+<b>impact</b>+of...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "moddate": "D:20181204122237+11'00'",
+                            "creator": "Microsoft\u00ae Word 2016",
+                            "creationdate": "D:20181204122237+11'00'",
+                            "author": "Derek Wilding",
+                            "producer": "Microsoft\u00ae Word 2016",
+                            "title": "The Impact of Digital Platforms on         News and Journalistic Content"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "[Content truncated]... Measurement \nDespite some common themes, there is still wide variation in how, and even whether, \nregulation should be used in promoting a free and pluralistic environment. Klimkienwicz \n(2010, xiii) characterises such a divergence, eve n across the territories of Europe, in \nthe following terms: \n\u2026 the fundamental divide between the belief in efficiency of market forces or \nderegulation to create a free and diverse media environment, versus the belief \nthat regulation is needed in order for social, cultural and democratic needs to be \nmet and communication rights to be fully exercised. 47 \nThese differences are further accentuated in the contrast between European and US \ntraditions. In the US, regulation has been more limited and directed at effe ctive     \n> 47 Klimkienwicz cites various sources including P J Humphries (2008), \u2018The Principal Axes of the European Union\u2019s\n> Audiovisual Policy\u2019 in I. Fernandez Alonso & M. de Mogaras i Spa (eds), Communication and Cultural Policies in\n> Europe , Barcelona: Uni versitat Autonoma de Barcelona. 111\ncompetition of commercial participants, in contrast to a longstanding investment in \npublic broadcasting in the UK and Europe (see, for example, Metykova, 2016, p. 4): \nIn Western European countries public service broadcasting foregrounded the \npublic interest in communication from its inception, while the United States \nsupported competition in a marketplace of ideas that was independent from the \nintervention of the state. \nThis contrast between a liberal free market, \u2018marketplace of ideas\u2019 approach to \nregulation and the more interventionist, social democratic, public service style \napproach is also noted by Karol Jaku bowicz (2015, pp. 33 -35), among others. \nGiven the variation in approaches to media plurality, and the different rationales for \nregulating in this area, it is not surprising that measurement is still an evolving field and \nis itself characterised by significantly different approaches. Having described the goal \nof the FCC\u2019s approach to diversity as being \u2018instrumental\u2019, meaning \u2018it is designed to \nprovide citizens with the information they need to discharge the obligations of \ncitizenship\u2019, Jonathan Levy (2015, pp. 278, 280) characterises the policy challenge in \nthe following way: \nFirst, defining a performance metric is hard; second, deciding what level is \nacceptable involves judgment; third, at least part of what affects...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "The Australian Competition and Consumer Commission (ACCC) provides information primarily related to consumer protection, competition law, and corporate regulation in Australia. While it is a credible source for those topics, it does not focus on news content or misinformation, limiting its utility in evaluating current events or detecting fake news."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This report discusses the influence of digital platforms on news and public opinion but lacks specific mention of leisure activities or viral content. Its general insights about media influence are relevant but do not tie closely to the specific context of leisure in wartime."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Russia-Ukraine War Through the Eyes of Social Media | GJIA",
+                "htmlTitle": "Russia-Ukraine <b>War</b> Through the Eyes of Social Media | GJIA",
+                "link": "https://gjia.georgetown.edu/2024/02/02/russia-ukraine-through-the-eyes-of-social-media/",
+                "displayLink": "gjia.georgetown.edu",
+                "snippet": "Feb 2, 2024 ... Russia's full-scale invasion of Ukraine has ushered in a wave of information politics to sway public opinion through the digital space.",
+                "htmlSnippet": "Feb 2, 2024 <b>...</b> Russia&#39;s full-scale invasion of Ukraine has ushered in a wave of information politics to sway <b>public opinion</b> through the digital space.",
+                "formattedUrl": "https://gjia.georgetown.edu/.../russia-ukraine-through-the-eyes-of-social-me...",
+                "htmlFormattedUrl": "https://gjia.georgetown.edu/.../russia-ukraine-through-the-eyes-of-social-me...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Np75J73SFCrp7c2ydICN6xK8q9JRgH49qgd-b1lOpn13NZRtPhyvpydy&s",
+                            "width": "274",
+                            "height": "184"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://gjia.georgetown.edu/wp-content/uploads/sites/20/2024/02/Anti-terrorist_operation_in_eastern_Ukraine_War_Ukraine_27772194034.jpg",
+                            "msapplication-config": "/gjia-site/wp-content/uploads/sites/20/fbrfg/browserconfig.xml",
+                            "article:published_time": "2024-02-02T14:00:00+00:00",
+                            "og:image:width": "900",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "og:site_name": "Georgetown Journal of International Affairs",
+                            "twitter:label1": "Written by",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "Ukraine may have the footage of an invasion to prove its moral high ground, but Russian disinformation on social media cannot be discounted.",
+                            "twitter:creator": "@GJIA_Online",
+                            "article:publisher": "https://www.facebook.com/GUJournal/",
+                            "twitter:image": "https://gjia.georgetown.edu/wp-content/uploads/sites/20/2024/02/Anti-terrorist_operation_in_eastern_Ukraine_War_Ukraine_27772194034.jpg",
+                            "twitter:data1": "sk2247",
+                            "twitter:site": "@GJIA_Online",
+                            "article:modified_time": "2024-02-02T18:49:49+00:00",
+                            "msapplication-tilecolor": "#da532c",
+                            "og:type": "article",
+                            "twitter:title": "Russia-Ukraine War Through the Eyes of Social Media | GJIA",
+                            "author": "sk2247",
+                            "og:title": "Russia-Ukraine War Through the Eyes of Social Media | GJIA",
+                            "og:image:height": "603",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Ukraine may have the footage of an invasion to prove its moral high ground, but Russian disinformation on social media cannot be discounted.",
+                            "og:locale": "en_US",
+                            "og:url": "https://gjia.georgetown.edu/2024/02/02/russia-ukraine-through-the-eyes-of-social-media/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://gjia.georgetown.edu/wp-content/uploads/sites/20/2024/02/Anti-terrorist_operation_in_eastern_Ukraine_War_Ukraine_27772194034.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Russia\u2019s full-scale invasion of Ukraine has ushered in a wave of information politics to sway public opinion through the digital space. While Ukraine may have the footage of an ongoing invasion to prove its moral high ground, Russian Misinformation, Disinformation, and Malinformation (MDM) efforts across social media, as well as its continued reliance on compassion fatigue, cannot be discounted.\nThe Digital Backdrop \nRussia\u2019s full-scale invasion of Ukraine has set new precedents and pushed existing boundaries in all realms. It is being called the first commercial space war, the first full-scale drone war, and the first AI war. The invasion is unfolding amidst a status quo where a large majority of people receive breaking news through passive scrolling. Actors in both Russia and Ukraine have found ways to sway public opinion as the battle to shape the war\u2019s historical narrative continues.\nWhile the basis of traditional battle remains the same in the twenty-first century, many of the principal components of war now have a digital foundation to them. For example, intelligence on Russian troops\u2019 border movements and military plans was leaked and trending on social media right before Russian President Vladimir Putin declared the full-scale invasion. To this day, Ukrainian civilians resisting occupation can inform their army about Russian movements through social media and specially designed apps. Geo and chrono-located smartphone footage of military aggression under occupation can now spread through social media and even serve...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Georgetown Journal of International Affairs is a respected publication from a well-known academic institution. It provides credible research and insightful analysis on international affairs. While it focuses on scholarly content, it is relevant for understanding the complexities of global conflicts, including those involving Ukraine, making it a reliable source despite its academic nature."
+                },
+                "Newness": {
+                    "NewnessScore": 6,
+                    "Date": "2024-02-02"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This evidence details how social media has been used as a platform for information politics in the Russia-Ukraine war and discusses the tug-of-war over public perception. While it provides relevant context regarding how public narratives are shaped, it does not focus on leisure activities or their implications, thus making it moderately relevant."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Bush and Public Opinion | Pew Research Center",
+                "htmlTitle": "Bush and <b>Public Opinion</b> | Pew Research Center",
+                "link": "https://www.pewresearch.org/politics/2008/12/18/bush-and-public-opinion/",
+                "displayLink": "www.pewresearch.org",
+                "snippet": "Dec 18, 2008 ... Yet Bush's impact on public opinion over the past eight years is ... In many nations considered central to the war on terror, the general public\u00a0...",
+                "htmlSnippet": "Dec 18, 2008 <b>...</b> Yet Bush&#39;s <b>impact</b> on <b>public opinion</b> over the past eight years is ... In many nations considered central to the <b>war</b> on terror, the general <b>public</b>&nbsp;...",
+                "formattedUrl": "https://www.pewresearch.org/politics/2008/12/.../bush-and-public-opinion/",
+                "htmlFormattedUrl": "https://www.pewresearch.org/politics/2008/12/.../bush-and-<b>public</b>-opinion/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStG2XtpvYLZd507z-MXYcWy3HVWAo3jTIjrar0V_rlRS7XK6vbkbRroJw&s",
+                            "width": "259",
+                            "height": "195"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://assets.pewresearch.org/wp-content/uploads/sites/5/legacy/478-1.gif",
+                            "og:type": "article",
+                            "article:published_time": "2008-12-18T18:34:00+00:00",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Pew Research Center",
+                            "og:title": "Bush and Public Opinion",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "msapplication-tileimage": "https://www.pewresearch.org/wp-content/themes/prc-block-theme/assets/img/square.png",
+                            "og:description": "Overview: Bush and Public Opinion As George W. Bush prepares to leave the White House, the United States is in many ways dramatically different from when",
+                            "twitter:creator": "@pewresearch",
+                            "parsely-title": "Bush and Public Opinion",
+                            "article:publisher": "https://www.facebook.com/pewresearch",
+                            "twitter:data2": "10 minutes",
+                            "parsely-pub-date": "2008-12-18T13:34:00-05:00",
+                            "parsely-type": "post",
+                            "parsely-tags": "Election 2008,George W. Bush,Mobile,Presidential Approval,Survey Methods",
+                            "twitter:site": "@pewresearch",
+                            "article:modified_time": "2024-04-14T09:11:06+00:00",
+                            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                            "parsely-link": "https://www.pewresearch.org/politics/2008/12/18/bush-and-public-opinion/",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.pewresearch.org/politics/2008/12/18/bush-and-public-opinion/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://assets.pewresearch.org/wp-content/uploads/sites/5/legacy/478-1.gif"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... one-word descriptions outnumbered negative ones, but in more recent lists, the responses have been more negative. The most frequently mentioned description in the latest survey was \u201cincompetent,\u201d just as it was in February 2007 and March 2006. Many of the terms offered by respondents in the December 2008 survey are negative, though the second most frequently mentioned description was honest. Good and honorable also make the list.\n### The Global Outlook\nOn the foreign stage, a solid majority of Americans say the country is significantly less respected than in the past \u2013 and many of those people see that as a major problem. Many Americans are eager to turn inward to deal with this nation\u2019s problems: fully 60% said in September 2008 that domestic policy should be the primary focus of the new president. And a greater percentage than before the Iraq war now say the best way to reduce the threat of terror is to reduce America\u2019s military presence overseas, not increase it.\nMeanwhile, a 2008 survey by the Pew Global Attitudes Project showed that majorities in 19 of the 24 nations \u2013 including several strong U.S. allies \u2013 had little confidence in Bush as he neared the end of his presidency. A 2007 survey of 45 nations found anti-American sentiment extensive as well as increasing disapproval for key elements of U.S. foreign policy.\nAnd the image of the U.S. in the Muslim world remained abysmal. Iraq, the war on terrorism and American support for Israel continued to generate animosity in the Middle East, Asia and elsewhere. In many nations considered central to the war on terror, the general public deeply distrusted the United States. Even in countries like Kuwait that have long been considered relatively pro-American, the U.S. image had declined.\nAmong the few bright spots for Bush in the Global Attitudes surveys were the African nations that had benefited from administration programs to boost economic growth and reduce the spread of AIDS. In 2008, majorities in Tanzania and Nigeria expressed confidence in the president.\nStill, Bush has had some success at home building support for tough tactics \u2013 including harsh interrogation policies for foreign detainees and government monitoring of phone calls or e-mails without warrants \u2013 to gather information about possible terrorists and stop potential attacks. On balance, more Americans say they worry that anti-terror policies have not gone far enough in protecting the United States than say they feel the anti-terror policies have \u201cgone too far in restricting civil liberties.\u201d\n### The Political Legacy\nWhen Bush took office, Republicans controlled both Congress and the White House. But voter...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The Pew Research Center is an authoritative source for data and insights on various social trends, public opinions, and news media. Its research methodology is rigorous and it often examines issues related to media reliability and public perception, making it a strong candidate for understanding and exposing fake news."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2008-12-18"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "This evidence focuses on public opinion regarding Bush and the war on terror, without addressing social media or viral videos, making it largely irrelevant to the current context of the question about leisure activities in wartime."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "The big idea: can social media change the course of war? | Social ...",
+                "htmlTitle": "The big idea: can social media change the course of <b>war</b>? | Social ...",
+                "link": "https://www.theguardian.com/books/2022/apr/25/the-big-idea-can-social-media-change-the-course-of-war",
+                "displayLink": "www.theguardian.com",
+                "snippet": "Apr 25, 2022 ... ... viral memes and cat videos. This tide of unfiltered (or barely ... influence national \u2013 or global \u2013 public opinion. It may boost or\u00a0...",
+                "htmlSnippet": "Apr 25, 2022 <b>...</b> ... <b>viral</b> memes and cat <b>videos</b>. This tide of unfiltered (or barely ... <b>influence</b> national \u2013 or global \u2013 <b>public opinion</b>. It may boost or&nbsp;...",
+                "formattedUrl": "https://www.theguardian.com/.../the-big-idea-can-social-media-change-the-...",
+                "htmlFormattedUrl": "https://www.theguardian.com/.../the-big-idea-can-social-media-change-the-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6bcVF2JMRpGNkG-XjqwGQQchpJzDaLGmAottURZlzjBBwt7IbxksQ0kc&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.guim.co.uk/img/media/d74341270a950365c939503df17cad48b29058cf/0_17_1847_1108/master/1847.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjIucG5n&enable=upscale&s=4b1cb827cc2d49508e34d4629140f25e",
+                            "twitter:app:id:googleplay": "com.guardian",
+                            "twitter:app:url:iphone": "gnmguardian://books/2022/apr/25/the-big-idea-can-social-media-change-the-course-of-war?contenttype=Article&source=twitter",
+                            "theme-color": "#052962",
+                            "og:image:width": "1200",
+                            "article:published_time": "2022-04-25T11:30:53.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "the Guardian",
+                            "twitter:app:url:ipad": "gnmguardian://books/2022/apr/25/the-big-idea-can-social-media-change-the-course-of-war?contenttype=Article&source=twitter",
+                            "twitter:app:name:googleplay": "The Guardian",
+                            "al:ios:url": "gnmguardian://books/2022/apr/25/the-big-idea-can-social-media-change-the-course-of-war?contenttype=Article&source=applinks",
+                            "twitter:app:id:iphone": "409128287",
+                            "og:description": "What we see online can have real world effects, for good or ill",
+                            "twitter:creator": "@alexvtunzelmann",
+                            "article:publisher": "https://www.facebook.com/theguardian",
+                            "al:ios:app_store_id": "409128287",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://i.guim.co.uk/img/media/d74341270a950365c939503df17cad48b29058cf/0_17_1847_1108/master/1847.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjIucG5n&s=44e49e97f48550ef618529e4929921d9",
+                            "twitter:site": "@guardian",
+                            "article:modified_time": "2022-04-27T12:47:36.000Z",
+                            "og:type": "article",
+                            "article:section": "Books",
+                            "al:ios:app_name": "The Guardian",
+                            "og:title": "The big idea: can social media change the course of war?",
+                            "og:image:height": "720",
+                            "twitter:app:id:ipad": "409128287",
+                            "article:author": "https://www.theguardian.com/profile/alexvontunzelmann",
+                            "article:tag": "Social media,Books,Culture,History books,Digital media,Media",
+                            "fb:app_id": "180444840287",
+                            "twitter:app:url:googleplay": "guardian://www.theguardian.com/books/2022/apr/25/the-big-idea-can-social-media-change-the-course-of-war",
+                            "twitter:app:name:ipad": "The Guardian",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                            "og:url": "https://www.theguardian.com/books/2022/apr/25/the-big-idea-can-social-media-change-the-course-of-war",
+                            "twitter:app:name:iphone": "The Guardian"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.guim.co.uk/img/media/d74341270a950365c939503df17cad48b29058cf/0_17_1847_1108/master/1847.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjIucG5n&enable=upscale&s=4b1cb827cc2d49508e34d4629140f25e"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "What we see online can have real world effects, for good or ill\nAs Russia\u2019s invasion of Ukraine has played out, the ubiquity of social media in the conflict has been striking. Alongside the information wars being fought by the governments, militaries and authorities involved, and the reporting from accredited journalists, there is now almost unlimited potential for ordinary people caught up in events to share their own experiences. First-hand testimony and images of atrocities such as those in Bucha or Mariupol can appear on our social media feeds in real time, popping up incongruously between viral memes and cat videos.\nThis tide of unfiltered (or barely filtered) information is immediate and constant. It certainly makes a difference to the level of engagement that individuals around the world may have with dramatic events, often far away. But might that feed back to affect the course of wars themselves?\nThe technological revolution of the last three decades has linked human experiences and interactions more closely than ever before. Around two-thirds of the world\u2019s population \u2013 4.9 billion people \u2013 now have access to the internet (a number that has risen significantly during the coronavirus pandemic, by around 800 million new users). An estimated 4.4 to 4.6 billion of those use social media such as Facebook, YouTube, Instagram, TikTok and Twitter.\nSocial media users do not just watch these events unfold in real time; they react to and interact with them. Gestures such as incorporating a Ukrainian flag into one\u2019s username may be merely symbolic, but when users lobby politicians online, donate money, or even offer up their own homes to refugees, their engagement with the war begins to have real-world consequences. Invading Russian forces seem to be aware of the potential of social media: they have targeted Ukrainian mobile communications networks, launching a missile attack on Kyivstar\u2019s hub in Okhtyrka on 11 March...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Guardian is a well-known international news organization that emphasizes accountability and investigative journalism. It has a reputation for providing comprehensive news coverage and critical analysis of contemporary issues. While it has a strong editorial position, which can sometimes lead to bias, its overall reliability and commitment to factual reporting maintain its credibility."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2022-04-25"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "Discusses the general impact of social media on perception during wars but lacks specific examples or connections to leisure activities in conflicts, which makes it less relevant to the question."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Deepfakes and Disinformation: Exploring the Impact of Synthetic ...",
+                "htmlTitle": "Deepfakes and Disinformation: Exploring the <b>Impact</b> of Synthetic ...",
+                "link": "https://journals.sagepub.com/doi/10.1177/2056305120903408",
+                "displayLink": "journals.sagepub.com",
+                "snippet": "Feb 19, 2020 ... India, April 2018: A video goes viral on WhatsApp, the world's most popular mobile instant messaging platform. ... public debate and the formation\u00a0...",
+                "htmlSnippet": "Feb 19, 2020 <b>...</b> India, April 2018: A <b>video</b> goes <b>viral</b> on WhatsApp, the world&#39;s most popular mobile instant messaging platform. ... <b>public</b> debate and the formation&nbsp;...",
+                "formattedUrl": "https://journals.sagepub.com/doi/10.1177/2056305120903408",
+                "htmlFormattedUrl": "https://journals.sagepub.com/doi/10.1177/2056305120903408",
+                "pagemap": {
+                    "ScholarlyArticle": [
+                        {
+                            "noopener": "Facebook",
+                            "keywords": "Keywordsmisinformationdisinformationuncertaintypolitical deepfakesonline civic culture",
+                            "name": "Deepfakes and Disinformation: Exploring the Impact of Synthetic Political Video on Deception, Uncertainty, and Trust in News",
+                            "sameAs": "https://doi.org/10.1177/2056305120903408"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "dc.publisher": "SAGE PublicationsSage UK: London, England",
+                            "og:image": "/pb-assets/Images/SJ_Twitter_Card-1557144152440.jpg",
+                            "twitter:card": "summary_large_image",
+                            "og:image:width": "600",
+                            "og:site_name": "Sage Journals",
+                            "citation_journal_title": "Social Media + Society",
+                            "dc.format": "text/HTML",
+                            "dc.rights": "\u00a9 The Author(s) 2020",
+                            "og:description": "Artificial Intelligence (AI) now enables the mass creation of what have become known as \u201cdeepfakes\u201d: synthetic videos that closely resemble real videos. Integra...",
+                            "twitter:image": "https://journals.sagepub.com/pb-assets/cover-alt/sms-cover-social-1565280554703.jpg",
+                            "dc.type": "research-article",
+                            "dc.source": "https://doi.org/10.1177/2056305120903408",
+                            "dc.creator": "Cristian  Vaccari",
+                            "publication_doi": "10.1177/2056305120903408",
+                            "dc.description": "Artificial Intelligence (AI) now enables the mass creation of what have become known as \u201cdeepfakes\u201d: synthetic videos that closely resemble real videos. Integrating theories about the power of visu...",
+                            "og:type": "article",
+                            "dc.coverage": "Sage UK: London, England",
+                            "og:title": "Deepfakes and Disinformation: Exploring the Impact of Synthetic Political Video on Deception, Uncertainty, and Trust in News - Cristian Vaccari, Andrew Chadwick, 2020",
+                            "pbcontext": ";page:string:Article/Chapter View;ctype:string:Journal Content;website:website:sage;journal:journal:smsa;wgroup:string:Publication Websites;requestedJournal:journal:smsa;pageGroup:string:Publication Pages;subPage:string:Full Text;article:article:10.1177/2056305120903408;issue:issue:10.1177/SMSA_6_1",
+                            "og:image:height": "314",
+                            "dc.date": "2020-02-19",
+                            "article:published_time - datetime": "February 19, 2020",
+                            "article:author": "Cristian Vaccari, Andrew Chadwick",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "dc.title": "Deepfakes and Disinformation: Exploring the Impact of Synthetic Political Video on Deception, Uncertainty, and Trust in News",
+                            "og:locale": "en_US",
+                            "dc.subject": "misinformation; disinformation; uncertainty; political deepfakes; online civic culture",
+                            "dc.identifier": "10.1177/2056305120903408",
+                            "dc.language": "en",
+                            "og:url": "https://journals.sagepub.com/doi/10.1177/2056305120903408",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "/pb-assets/Images/SJ_Twitter_Card-1557144152440.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "!journals.sagepub.com\n-------------------------------------------------------------------------------------------------------\nVerifying you are human. This may take a few seconds.\n-----------------------------------------------------\njournals.sagepub.com needs to review the security of your connection before proceeding.",
+                    "content_tokens": 42
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "SAGE Publishing is known for its peer-reviewed journals across various fields, including social sciences and humanities. While it provides rigorous academic research, its application in the context of real-time news and immediate fact-checking is less direct. Its articles may contain reliable information, but the nature of academic publishing doesn't lend itself to rapid responses to current events or misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2020-02-19"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This evidence is about deepfakes and misinformation on social media but doesn't connect to the specific nuances of leisure activities during wartime, making it minimally relevant to the question posed."
+                }
+            }
+        }
+    ]
+}

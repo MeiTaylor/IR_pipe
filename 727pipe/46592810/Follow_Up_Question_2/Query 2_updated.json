@@ -1,0 +1,844 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - fact check viral video of children playing debunked Epstein claims",
+                "totalResults": "14400000",
+                "searchTerms": "fact check viral video of children playing debunked Epstein claims",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - fact check viral video of children playing debunked Epstein claims",
+                "totalResults": "14400000",
+                "searchTerms": "fact check viral video of children playing debunked Epstein claims",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.29995,
+        "formattedSearchTime": "0.30",
+        "totalResults": "14400000",
+        "formattedTotalResults": "14,400,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "No Evidence of 'Horrific' Clinton Video - FactCheck.org",
+                "htmlTitle": "No Evidence of &#39;Horrific&#39; Clinton <b>Video</b> - <b>FactCheck</b>.org",
+                "link": "https://www.factcheck.org/2018/04/no-evidence-of-horrific-clinton-video/",
+                "displayLink": "www.factcheck.org",
+                "snippet": "Apr 23, 2018 ... Q: Did a video of Hillary Clinton and Huma Abedin assaulting a young girl surface online? A: No. A story making that claim suggests the New\u00a0...",
+                "htmlSnippet": "Apr 23, 2018 <b>...</b> Q: Did a <b>video</b> of Hillary Clinton and Huma Abedin assaulting a young girl surface online? A: No. A story making that claim suggests the New&nbsp;...",
+                "formattedUrl": "https://www.factcheck.org/2018/04/no-evidence-of-horrific-clinton-video/",
+                "htmlFormattedUrl": "https://www.<b>factcheck</b>.org/2018/04/no-evidence-of-horrific-clinton-<b>video</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7hXlL02HBYvPsidd5I9VzsekGLUodBbwn4mMA4D_0UYMtWLaabKqtORo&s",
+                            "width": "200",
+                            "height": "200"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "jobtitle": "-",
+                            "name": "Various websites"
+                        }
+                    ],
+                    "organization": [
+                        {
+                            "image": "https://dhpikd1t89arn.cloudfront.net/logos/factcheckdotorg_logo.png",
+                            "name": "FactCheck.org",
+                            "url": "FactCheck.org"
+                        }
+                    ],
+                    "claimreview": [
+                        {
+                            "claimreviewed": "\u201cBreaking: Clinton-Abedin PedoGate Video Found On Dark Web\u201d",
+                            "datepublished": "2018-04-23 19:19:03 UTC",
+                            "url": "Read More"
+                        }
+                    ],
+                    "rating": [
+                        {
+                            "image": "https://s3.amazonaws.com/share-the-facts/rating_images/factcheck.org/noevidence.png",
+                            "ratingvalue": "5",
+                            "worstrating": "1",
+                            "alternatename": "No Evidence",
+                            "bestrating": "11"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cdn.factcheck.org/UploadedFiles/keyboard.png",
+                            "theme-color": "#ffffff",
+                            "article:published_time": "2018-04-23T19:04:36+00:00",
+                            "og:image:width": "200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "FactCheck.org",
+                            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/png",
+                            "msapplication-tileimage": "/ms-icon-144x144.png",
+                            "og:description": "Q: Did a video of Hillary Clinton and Huma Abedin assaulting a young girl surface online? A: No. A story making that claim suggests the New York City Police Department is investigating Clinton and Abedin. That\u2019s false. FULL ANSWER There is no evidence of a video showing former Secretary of State Hillary Clinton and her longtime aide Huma Abedin sexually assaulting and terrorizing a young girl \u2014",
+                            "twitter:creator": "@factcheckdotorg",
+                            "article:publisher": "https://www.facebook.com/factcheck.org",
+                            "twitter:data1": "Angelo Fichera",
+                            "twitter:data2": "3 minutes",
+                            "twitter:site": "@factcheckdotorg",
+                            "article:modified_time": "2018-04-23T19:20:20+00:00",
+                            "msapplication-tilecolor": "#ffffff",
+                            "og:type": "article",
+                            "author": "Angelo Fichera",
+                            "og:title": "No Evidence of 'Horrific' Clinton Video - FactCheck.org",
+                            "og:image:height": "200",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "apple-mobile-web-app-capable": "yes",
+                            "mobile-web-app-capable": "yes",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.factcheck.org/2018/04/no-evidence-of-horrific-clinton-video/"
+                        }
+                    ],
+                    "creativework": [
+                        {
+                            "image": "https://cdn.factcheck.org/UploadedFiles/Fake-News-widget.png",
+                            "datepublished": "2018-04-16"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.factcheck.org/UploadedFiles/keyboard.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": " By Angelo Fichera\nPosted on April 23, 2018\nQ: Did a video of Hillary Clinton and Huma Abedin assaulting a young girl surface online?\n\nA: No. A story making that claim suggests the New York City Police Department is investigating Clinton and Abedin. That\u2019s false.\n\nThere is no evidence of a video showing former Secretary of State Hillary Clinton and her longtime aide Huma Abedin sexually assaulting and terrorizing a young girl \u2014 despite a fictional tale being widely spread across social media.\nAn April 16 story on\u00a0thepedogate.com,\u00a0which is dedicated to such conspiracy theories, said the New York City Police Department dubbed the video the \u201c\u2018Rosetta Stone\u2019 of information connecting senior politicians, such as Clinton, to an elite pedophile ring\u201d \u2014 echoing the debunked \u201cPizzagate\u201d theory from 2016 that alleged Clinton and her aides were running a child sex ring out of a Washington, D.C. pizza shop.\nBut the NYPD\u2019s Office of the Deputy Commissioner for Public Information confirmed in an email to FactCheck.org that the department is not investigating such a video. There are also no credible news \u201creports\u201d about the video, as was claimed in a similar story on yournewswire.com.\nYournewswire.com \u2014 a website known to traffic false news \u2014 claimed that the video of\u00a0Clinton and Abedin had surfaced on the...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "FactCheck.org is an established, nonpartisan website that monitors the factual accuracy of statements made by public officials, politicians, and various media. They have a strong track record of providing well-researched articles and meticulously sourcing information, which greatly enhances their credibility. The site focuses on accountability, providing clear sources and context, thus significantly contributing to the fight against misinformation. The only minor critique is that their focus is somewhat U.S.-centric, which may limit their scope of information pertaining to global events or claims."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2018-04-23"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "This evidence discusses a completely different claim regarding a video involving Hillary Clinton and Huma Abedin, which is also debunked. While it shows the repetition of baseless claims on the internet, its direct relevance to tracing the origins of the viral video about Epstein is minimal. It doesn't provide any specific analysis or context regarding the video in question."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "'Hawk Tuah Girl' Fired from Preschool Teaching Job After Viral Video?",
+                "htmlTitle": "&#39;Hawk Tuah Girl&#39; Fired from Preschool Teaching Job After <b>Viral Video</b>?",
+                "link": "https://www.snopes.com/fact-check/hawk-tuah-girl-fired-from-job/",
+                "displayLink": "www.snopes.com",
+                "snippet": "Jun 26, 2024 ... Fact Check. 'Hawk Tuah Girl' Fired from Preschool Teaching Job After ... A false and scammy ad claimed Dana Perino was leaving the Fox News show\u00a0...",
+                "htmlSnippet": "Jun 26, 2024 <b>...</b> <b>Fact Check</b>. &#39;Hawk Tuah Girl&#39; Fired from Preschool Teaching Job After ... A false and scammy ad claimed Dana Perino was leaving the Fox News show&nbsp;...",
+                "formattedUrl": "https://www.snopes.com/fact-check/hawk-tuah-girl-fired-from-job/",
+                "htmlFormattedUrl": "https://www.snopes.com/<b>fact</b>-<b>check</b>/hawk-tuah-girl-fired-from-job/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoa8W9i5eUsu4XsozUuzU9S79B-tY1Kz-O0j5WqJzFvXVjpvx2OMpS3eM&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2024/06/hawk_tuah_girl.png",
+                            "theme-color": "#ffffff",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2024-06-26 15:49:54",
+                            "og:site_name": "Snopes",
+                            "apple-mobile-web-app-title": "Snopes.com",
+                            "twitter:creator": "@snopes",
+                            "og:description": "A video of the woman rapidly spread online due to her risqu\u00e9 relationship advice.",
+                            "twitter:image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2024/06/hawk_tuah_girl.png",
+                            "article:publisher": "https://www.facebook.com/snopes",
+                            "twitter:site": "@snopes",
+                            "article:modified_time": "2024-06-26 18:25:40",
+                            "msapplication-tilecolor": "#000000",
+                            "twitter:title": "'Hawk Tuah Girl' Fired from Preschool Teaching Job After Viral Video?",
+                            "og:type": "article",
+                            "og:title": "'Hawk Tuah Girl' Fired from Preschool Teaching Job After Viral Video?",
+                            "fb:pages": "120680396518",
+                            "article:author": "Nick Hardinges",
+                            "article:tag": "Teachers",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "viewport": "width=device-width, initial-scale=1.0,minimum-scale=1.0, maximum-scale=5.0",
+                            "apple-mobile-web-app-capable": "yes",
+                            "mobile-web-app-capable": "yes",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.snopes.com//fact-check/hawk-tuah-girl-fired-from-job/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2024/06/hawk_tuah_girl.png"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2024-06-26T08:49:54Z",
+                            "claimReviewed": "Internet celebrity the \"Hawk Tuah girl\" was",
+                            "url": "https://www.snopes.com//fact-check/hawk-tuah-girl-fired-from-job/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Claim:\nInternet celebrity the \"Hawk Tuah girl\" was fired from a preschool teaching job after a video of her went viral online.\nOn June 21, 2024, the Facebook page Tippah County Tribune  positing a social media celebrity known as the \"Hawk Tuah girl\" was fired from her job as a preschool teacher after a video of her\u00a0risqu\u00e9 relationship advice went viral online.\nDuring a \u00a0in Nashville with YouTubers Tim & Dee TV, the girl\u00a0\u2014\u00a0 as being named Hailey Welch, although this had not been officially confirmed at the time of this writing\u00a0\u2014 was asked: \"What's one move in bed that makes a man go crazy every time?\"\nMimicking spitting on her partner's private parts, she jokingly replied: \"Ahh you've got to give it that hawk tuah and spit on that thang. You get me?\"\nThe clip became an instant meme and spread like wildfire across social media.\nTippah County Tribune (TCT) responded by saying a 23-year-old girl named Hailey Wellington was forced to resign from her position at \"Epstein Day School\" because children who saw the video were \"spitting on each other\" after hearing the \"teacher\" say \"spit on that thang\" online.\nTCT quoted the school's director Carla Reed...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Snopes is widely regarded as one of the leading fact-checking websites. It specializes in debunking myths, rumors, and misinformation across various topics, including urban legends, current events, and viral content. Snopes champions thorough research and provides citations and links for readers to verify their findings. Their reputation is well-established over decades, though some critics argue that they occasionally exhibit bias in editorial choices. Overall, they remain a highly reliable source for fact-checking."
+                },
+                "Newness": {
+                    "NewnessScore": 8,
+                    "Date": "2024-06-26"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "Similar to evidence0, this revolves around a different story about the so-called 'Hawk Tuah girl' and does not address the viral video related to Epstein. The focus is unrelated, leading to a very low relevance score for tracing the original video in question."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "What We Know About the Brooklyn Synagogue Tunnel - FactCheck ...",
+                "htmlTitle": "What We Know About the Brooklyn Synagogue Tunnel - <b>FactCheck</b> ...",
+                "link": "https://www.factcheck.org/2024/01/what-we-know-about-the-brooklyn-synagogue-tunnel/",
+                "displayLink": "www.factcheck.org",
+                "snippet": "Jan 17, 2024 ... Viral posts made baseless claims that the tunnel was related to child sex trafficking. But the tunnel apparently resulted from a dispute between\u00a0...",
+                "htmlSnippet": "Jan 17, 2024 <b>...</b> <b>Viral</b> posts made baseless <b>claims</b> that the tunnel was related to child sex trafficking. But the tunnel apparently resulted from a dispute between&nbsp;...",
+                "formattedUrl": "https://www.factcheck.org/.../what-we-know-about-the-brooklyn-synagogu...",
+                "htmlFormattedUrl": "https://www.<b>factcheck</b>.org/.../what-we-know-about-the-brooklyn-synagogu...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1KrLo4FT8vH2B6Z3NqY2JTdf5bJL52Xp5oxf5WowfrwV7vNGKCcObkjvA&s",
+                            "width": "344",
+                            "height": "146"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cdn.factcheck.org/UploadedFiles/BrooklynTunnel.jpg",
+                            "theme-color": "#ffffff",
+                            "article:published_time": "2024-01-17T23:19:38+00:00",
+                            "og:image:width": "720",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "FactCheck.org",
+                            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "/ms-icon-144x144.png",
+                            "og:description": "Nine men were charged with criminal mischief or attempted criminal mischief and other offenses after New York officials ordered an unauthorized tunnel built adjacent to a Brooklyn synagogue be stabilized. Viral posts made baseless claims that the tunnel was related to child sex trafficking. But the tunnel apparently resulted from a dispute between two sects over synagogue expansion.",
+                            "twitter:creator": "@factcheckdotorg",
+                            "article:publisher": "https://www.facebook.com/factcheck.org",
+                            "twitter:data1": "Saranac Hale Spencer",
+                            "twitter:data2": "5 minutes",
+                            "twitter:site": "@factcheckdotorg",
+                            "article:modified_time": "2024-01-17T23:24:18+00:00",
+                            "msapplication-tilecolor": "#ffffff",
+                            "og:type": "article",
+                            "author": "Saranac Hale Spencer",
+                            "og:title": "What We Know About the Brooklyn Synagogue Tunnel - FactCheck.org",
+                            "og:image:height": "307",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "apple-mobile-web-app-capable": "yes",
+                            "mobile-web-app-capable": "yes",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.factcheck.org/2024/01/what-we-know-about-the-brooklyn-synagogue-tunnel/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.factcheck.org/UploadedFiles/BrooklynTunnel.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": " By Saranac Hale Spencer\nPosted on January 17, 2024\nPara leer en espa\u00f1ol, vea esta traducci\u00f3n de Google Translate.\nNine men were charged with criminal mischief or attempted criminal mischief and other offenses after New York officials ordered an unauthorized tunnel built adjacent to a Brooklyn synagogue be stabilized. Viral posts made baseless claims that the tunnel was related to child sex trafficking. But the tunnel apparently resulted from a dispute between two sects over synagogue expansion.\nA long-brewing dispute within a Hasidic Jewish group in Brooklyn boiled over when an unauthorized tunnel adjacent to a synagogue was discovered and ordered stabilized by New York City officials. Videos of the skirmish between some members of the group and city officials that ensued last week went viral on social media and quickly led to conspiracy-laden claims.\nFor example, social media influencer Andrew Tate, who has a history of spreading misinformation, falsely claimed that the tunnel led to a children\u2019s museum. His post on X \u2014 which has been viewed more than 11 million times, according to the platform \u2014 prompted responses from users such as, \u201cWell they have been involved in pedophilic ritual sacrifice for hundreds of years,\u201d and, \u201cyou weren\u2019t supposed to find out about the rape tunnels.\u201d\nOther social media posts had a similar tone, like a post on Instagram that included a video purportedly of the tunnel and asked, \u201cWas this part of an underground pedophile ring?\u201d\n\u201cI wouldn\u2019t be surprised if they dug a tunnel all the way to Episten\u2019s island !\u201d responded one commenter, referring to the accused sex-traff...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "FactCheck.org is an established, nonpartisan website that monitors the factual accuracy of statements made by public officials, politicians, and various media. They have a strong track record of providing well-researched articles and meticulously sourcing information, which greatly enhances their credibility. The site focuses on accountability, providing clear sources and context, thus significantly contributing to the fight against misinformation. The only minor critique is that their focus is somewhat U.S.-centric, which may limit their scope of information pertaining to global events or claims."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2024-01-17"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This evidence touches on misleading claims about child sex trafficking tied to a tunnel in Brooklyn but also includes a general discussion of how misinformation spreads. It lacks a direct connection to the Epstein video; therefore, it provides minimal help in tracing the video's origins."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Fact check: Biden makes false and misleading claims during ...",
+                "htmlTitle": "<b>Fact check</b>: Biden makes <b>false</b> and misleading <b>claims</b> during ...",
+                "link": "https://www.cnn.com/2024/04/19/politics/fact-check-biden-pennsylvania-campaign-swing/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Apr 19, 2024 ... ... playing. - Source: CNN. See More Videos. Washington CNN \u2014. President Joe Biden spent three days this week campaigning in the critical swing\u00a0...",
+                "htmlSnippet": "Apr 19, 2024 <b>...</b> ... <b>playing</b>. - Source: CNN. See More Videos. Washington CNN \u2014. President Joe Biden spent three days this week campaigning in the critical swing&nbsp;...",
+                "formattedUrl": "https://www.cnn.com/2024/04/19/politics/fact-check-biden.../index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/2024/04/19/politics/<b>fact</b>-<b>check</b>-biden.../index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlT_koJXVInXoM7YmiV0F2VkWkC59FtlW1fmC-rsd9j5mfXcz1EEAv8opR&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/211020183910-bifen-scranton-1020.jpg?q=x_194,y_455,h_1152,w_2048,c_crop/w_800",
+                            "twitter:title": "Fact check: Biden makes false and misleading claims during Pennsylvania campaign swing | CNN Politics",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2024-04-19T19:19:19.284Z",
+                            "og:site_name": "CNN",
+                            "author": "Daniel Dale",
+                            "og:title": "Fact check: Biden makes false and misleading claims during Pennsylvania campaign swing | CNN Politics",
+                            "meta-section": "politics",
+                            "type": "article",
+                            "og:description": "Here is a fact check of seven of Biden\u2019s Pennsylvania remarks.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/211020183910-bifen-scranton-1020.jpg?q=x_194,y_455,h_1152,w_2048,c_crop/w_800",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@cnnpolitics",
+                            "article:modified_time": "2024-04-19T19:19:19.284Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "Here is a fact check of seven of Biden\u2019s Pennsylvania remarks.",
+                            "template_type": "article_leaf",
+                            "meta-branding": "facts-first",
+                            "theme": "politics",
+                            "og:url": "https://www.cnn.com/2024/04/19/politics/fact-check-biden-pennsylvania-campaign-swing/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/211020183910-bifen-scranton-1020.jpg?q=x_194,y_455,h_1152,w_2048,c_crop/w_800"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\n            President Joe Biden spent three days this week campaigning in the critical swing state of Pennsylvania. He littered his remarks with false and misleading claims on subjects ranging from his annual earnings to his cap on seniors\u2019 prescription drug spending to the demographics of China to the frequency of his past travel to Iraq and Afghanistan.\n    \n\n            And in Biden\u2019s most eyebrow-raising remarks of the campaign swing, he told and then retold a story in which he strongly suggested his late uncle, Ambrose Finnegan, was eaten by cannibals after his plane was shot down while he fought in World War II. Biden\u2019s dramatic details don\u2019t match the Defense Department\u2019s official account of the plane crash.\n    \n\n            Here is a fact check of eight of Biden\u2019s Pennsylvania remarks.\n    \n\n            In the same Tuesday speech in Scranton, Biden repeated his regular promise that nobody making less than $400,000 per year will pay even a cent more in taxes under his proposals. He then added, \u201cI hope you\u2019re all able to make $400,000.\u00a0I never did.\u201d\n    \n\nFacts First: Biden\u2019s \u201cI never did\u201d claim is false. In fact, his presidential salary is $400,000 per year; the joint tax filings of President Biden and first lady Jill Biden showed $619,976 in income last year, $...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "CNN is a major news outlet that provides a broad range of articles and reports on current events. While it is known for professional journalism, the outlet has been criticized for occasional sensationalism and partisan biases, particularly in its opinion segments. CNN is generally reliable for reporting on news and important events but users should cross-check facts with other sources, especially regarding contentious issues or claims."
+                },
+                "Newness": {
+                    "NewnessScore": 6,
+                    "Date": "2024-04-19"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence focuses on fact-checking claims made by President Biden during a campaign and is not related to the topic of the viral video at all. It provides no useful information regarding the Epstein video's origins, thus scoring very low."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Post Makes False Claim About Children Missing After Maui Wildfires ...",
+                "htmlTitle": "Post Makes <b>False Claim</b> About <b>Children</b> Missing After Maui Wildfires ...",
+                "link": "https://www.factcheck.org/2023/09/post-makes-false-claim-about-children-missing-after-maui-wildfires/",
+                "displayLink": "www.factcheck.org",
+                "snippet": "Sep 20, 2023 ... But an online video, titled \u201cOver 1,000 Missing Children in Maui,\u201d falsely claims that 1,050 kids are \u201cgone without a trace.\u201d The video goes on\u00a0...",
+                "htmlSnippet": "Sep 20, 2023 <b>...</b> But an online <b>video</b>, titled \u201cOver 1,000 Missing <b>Children</b> in Maui,\u201d falsely <b>claims</b> that 1,050 kids are \u201cgone without a trace.\u201d The <b>video</b> goes on&nbsp;...",
+                "formattedUrl": "https://www.factcheck.org/.../post-makes-false-claim-about-children-missin...",
+                "htmlFormattedUrl": "https://www.<b>factcheck</b>.org/.../post-makes-false-claim-about-<b>children</b>-missin...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvcfWELoOP0Ytw6GkspqJafsoqnS_aRI3oUGazlBIaebwArsQACYq3lL-p&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cdn.factcheck.org/UploadedFiles/GettyImages-1664607364smaller.jpg",
+                            "theme-color": "#ffffff",
+                            "article:published_time": "2023-09-20T20:37:24+00:00",
+                            "og:image:width": "1500",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "FactCheck.org",
+                            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "/ms-icon-144x144.png",
+                            "og:description": "The wildfires in Maui caused widespread destruction on the island and claimed the lives of 97 people. The Maui Police Department and the FBI have released the list of 31 individuals still unaccounted for following the fire. Yet an Instagram post falsely claims \"over 1,000 children are missing.\"",
+                            "twitter:creator": "@factcheckdotorg",
+                            "article:publisher": "https://www.facebook.com/factcheck.org",
+                            "twitter:data1": "Blossom Izevbigie",
+                            "twitter:data2": "5 minutes",
+                            "twitter:site": "@factcheckdotorg",
+                            "article:modified_time": "2023-09-20T21:52:40+00:00",
+                            "msapplication-tilecolor": "#ffffff",
+                            "og:type": "article",
+                            "author": "Blossom Izevbigie",
+                            "og:title": "Post Makes False Claim About Children Missing After Maui Wildfires - FactCheck.org",
+                            "og:image:height": "1001",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "apple-mobile-web-app-capable": "yes",
+                            "mobile-web-app-capable": "yes",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.factcheck.org/2023/09/post-makes-false-claim-about-children-missing-after-maui-wildfires/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.factcheck.org/UploadedFiles/GettyImages-1664607364smaller.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... of 31 individuals still unaccounted for following the fires. Yet an Instagram post falsely claims \u201cover 1,000 children are missing.\u201d\nThe wildfires in Maui started on Aug. 8 and burned for days. They consumed more than 2,000 homes and other structures and largely destroyed Lahaina, a historic community that was hit the hardest by the fires. \nFollowing weeks of difficult work using DNA and other methods to confirm and identify the victims of the Maui wildfires, officials announced on Sept. 15 that the death toll was 97, a lower figure than previously reported.\nDr. Jeremy Stuelpnagel, the Maui medical examiner, said at a press conference that day, \u201cbecause of the fire, because of the heat, because of the situation of this being a mass disaster, many of them are down to the bones \u2014 some are fragmented.\u201d Stuelpnagel also said, \u201cWe\u2019re trying every single modality we have to make sure that we identify these people. It does take a lot of time. This is a mass disaster.\u201d\nThe county of Maui has released reports on those still unaccounted for following the fires. As of Sept. 15, 31 individuals were reported missing from an initial list of more than 3,200 people. A list identifying the missing was released by the Maui Police Department and the FBI, with one person identified as a minor.\nBut an online video, titled \u201cOver 1,000 Missing Children in Maui,\u201d falsely claims that 1,050 kids are \u201cgone without a trace.\u201d The video goes on to say, \u201cThey have absolutely no clue where these children are.\u201d\nThe numbers given in the video may be misleadingly based on the number of children who have not returned to schools or responded to outreach efforts in the Lahaina community of Maui. \nThe wildfires damaged an elementary school beyond repair, and some schools in the Lahaina area remain closed due to environmental concerns, NPR reported.\nThe Hawaii Department of Education released a report on Sept. 7 about the impact of the wildfires on Maui schools and student enrollment. \nDerek Inoshita, a spokesperson for the Education Department provided updated numbers on student enrollment in an email to FactCheck.org on Sep. 15. \nBefore the fire, 3,001 children had been pre-registered in the Lahaina area public schools. Since the fire, 782 students have reenrolled in 44 public schools; 907 have enrolled or been waitlisted in distance learning programs; and about 330 have enrolled in charter or independent schools. \nInoshita said \u201c...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "FactCheck.org is an established, nonpartisan website that monitors the factual accuracy of statements made by public officials, politicians, and various media. They have a strong track record of providing well-researched articles and meticulously sourcing information, which greatly enhances their credibility. The site focuses on accountability, providing clear sources and context, thus significantly contributing to the fight against misinformation. The only minor critique is that their focus is somewhat U.S.-centric, which may limit their scope of information pertaining to global events or claims."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-09-20"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This evidence discusses false claims about missing children after the Maui wildfires. It mentions an online video but does not relate specifically to the Epstein claim or the video in question, making it not very relevant to the specific inquiry."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Newschecker: Home",
+                "htmlTitle": "Newschecker: Home",
+                "link": "https://newschecker.in/",
+                "displayLink": "newschecker.in",
+                "snippet": "Epstein killed himself in 2019 while... Read more \u00b7 Fact Check \u00b7 Mass Cheating During UPSC Exam? No, Unrelated Video Viral With False Claim. Allegations of\u00a0...",
+                "htmlSnippet": "<b>Epstein</b> killed himself in 2019 while... Read more &middot; <b>Fact Check</b> &middot; Mass Cheating During UPSC Exam? No, Unrelated <b>Video Viral</b> With False Claim. Allegations of&nbsp;...",
+                "formattedUrl": "https://newschecker.in/",
+                "htmlFormattedUrl": "https://news<b>check</b>er.in/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgA18cj2lfJcGaCGg-Egfsy-S4oL7TETxmBfIbRd3Xcz2UYUZuwRx7ag&s",
+                            "width": "472",
+                            "height": "107"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://newschecker.in/wp-content/uploads/2021/02/Logo-All-Small-1.jpg",
+                            "og:type": "website",
+                            "og:image:width": "1201",
+                            "og:image:alt": "Home",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Home - Newschecker",
+                            "og:site_name": "Newschecker",
+                            "author": "hardik",
+                            "og:title": "Home - Newschecker",
+                            "og:image:height": "272",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Time to read",
+                            "og:image:type": "image/jpeg",
+                            "og:updated_time": "2024-06-14T16:39:31+05:30",
+                            "msapplication-tileimage": "https://newschecker.in/wp-content/uploads/2022/04/cropped-New-Project-1-1-270x270.png",
+                            "article:author": "https://www.facebook.com/",
+                            "og:image:secure_url": "https://newschecker.in/wp-content/uploads/2021/02/Logo-All-Small-1.jpg",
+                            "twitter:image": "https://newschecker.in/wp-content/uploads/2021/02/Logo-All-Small-1.jpg",
+                            "twitter:data1": "hardik",
+                            "twitter:data2": "9 minutes",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:locale": "en_US",
+                            "og:url": "https://newschecker.in/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://newschecker.in/wp-content/uploads/2021/02/Logo-All-Small-1.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Trending Now\n### \n### \n### \n### \nClaim Photo of US vice president Kamala Harris with convicted sex offender Jeffrey Epstein on his infamous Caribbean island. Epstein killed himself in 2019 while...\n### \n### \n### \n### \n#### NEWS\n(blob:https://newschecker.in/f8b1f25a7c4f909678c053b6eb011951)]\n### \nAt least 18 people were killed after a Saurya Airlines plane veered off the runway and crashed shortly after take off at Tribhuvan International Airport...\n(blob:https://newschecker.in/f8b1f25a7c4f909678c053b6eb011951)]\n### \nAllegations against trainee IAS officer Pooja Khedkar over submission of fake disability...\n#### POLITICS\n(blob:https://newschecker.in/f8b1f25a7c4f909678c053b6eb011951)]\n### \nA video of protesters raising slogans against Rahul Gandhi as the Congress leader...\n(blob:https://newschecker.in/f8b1f25a7c4f909678c053b6eb011951)]\n### \nA video of Congress leader Rahul Gandhi, the LoP in the newly elected Lok Sabha, purportedly saying...\n#### VIRAL\n(blob:https://newschecker.in/3d7e3536fb2191eecfa4af1023c9b129)]\n### \nClaim Photo of US vice president Kamala Harris with convicted sex offender Jeffrey Epstein on his infamous Caribbean island. Epstein killed himself in 2019 while...\n(blob:https://newschecker.in/3d7e3536fb2191eecfa4af1023c9b129)]\n### \nAllegations of submitting fake certificates for UPSC qualification against probationary...\n(blob:https://newschecker.in/3d7e3536fb2191eecfa4af1023c9b129)]\n### \nClaim China chooses a design inspired by the Palestinian flag for the 2024 Olympic Games in Paris, to be held from July 26 to August...\n#### RELIGION\n(blob:https://newschecker.in/3d7e3536fb2191eecfa4af1023c9b129)]\n### \nA video of Congress leader Rahul Gandhi, the LoP in the newly elected Lok Sabha, purportedly...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Newschecker is an emerging fact-checking platform that aims to combat misinformation, particularly in the Indian context. While it is making strides in verifying facts and reporting on fake news claims, its relatively recent establishment means it does not yet have the same level of reputation as more established fact-checkers. However, it is a valuable resource for regional misinformation awareness and continues to grow in credibility."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "This evidence includes a brief mention of Epstein but only states he killed himself in 2019 while reiterating unrelated claims. It doesn't provide conclusive tracing of the origins of the video nor does it debunk its ties effectively."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Fact Check: A Viral Video Claims To Show Young Girls on Jeffrey ...",
+                "htmlTitle": "<b>Fact Check</b>: A <b>Viral Video Claims</b> To Show Young Girls on Jeffrey ...",
+                "link": "https://www.yahoo.com/news/fact-check-viral-video-claims-163100636.html",
+                "displayLink": "www.yahoo.com",
+                "snippet": "Jan 8, 2024 ... Epstein died in jail at his own hands in 2019 while awaiting trial on charges of sex trafficking young girls. The unsealing of the documents\u00a0...",
+                "htmlSnippet": "Jan 8, 2024 <b>...</b> <b>Epstein</b> died in jail at his own hands in 2019 while awaiting trial on charges of sex trafficking young girls. The unsealing of the documents&nbsp;...",
+                "formattedUrl": "https://www.yahoo.com/news/fact-check-viral-video-claims-163100636.html",
+                "htmlFormattedUrl": "https://www.yahoo.com/news/<b>fact</b>-<b>check</b>-<b>viral</b>-<b>video</b>-<b>claims</b>-163100636.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl0sxdgleyp0rjwCCFQs_tbc1F9t4dP7iP_8Jf0tXAW37_SYckHOCMb5o&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=304158842,app-argument=yahoo://article/view?uuid=c040dfcb-e881-3b6f-968f-bb9f2fff7265&src=web",
+                            "og:image": "https://media.zenfs.com/en/snopes_632/7b30d95bb101be95581ce5f1f1c09301",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Yahoo News",
+                            "al:android:package": "com.yahoo.mobile.client.android.yahoo",
+                            "al:ios:url": "yahoo://article/view?uuid=c040dfcb-e881-3b6f-968f-bb9f2fff7265&src=web",
+                            "og:description": "The video was circulated on social media at least since 2019.",
+                            "al:ios:app_store_id": "304158842",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://media.zenfs.com/en/snopes_632/7b30d95bb101be95581ce5f1f1c09301",
+                            "oath:guce:consent-host": "guce.yahoo.com",
+                            "twitter:site": "@YahooNews",
+                            "news_keywords": "Jeffrey Epstein, viral video, Isaac Kappy, very young girls",
+                            "twitter:title": "Fact Check: A Viral Video Claims To Show Young Girls on Jeffrey Epstein's Island. Here's What We Found.",
+                            "og:type": "article",
+                            "al:ios:app_name": "Yahoo",
+                            "og:title": "Fact Check: A Viral Video Claims To Show Young Girls on Jeffrey Epstein's Island. Here's What We Found.",
+                            "og:image:height": "675",
+                            "twitter:image:src": "https://media.zenfs.com/en/snopes_632/7b30d95bb101be95581ce5f1f1c09301",
+                            "al:android:url": "yahoo://article/view?uuid=c040dfcb-e881-3b6f-968f-bb9f2fff7265&src=web",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The video was circulated on social media at least since 2019.",
+                            "og:url": "https://www.yahoo.com/news/fact-check-viral-video-claims-163100636.html",
+                            "al:android:app_name": "Yahoo"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.zenfs.com/en/snopes_632/7b30d95bb101be95581ce5f1f1c09301"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   *   New on Yahoo\n            *   \n            *   \n        *   USEnglish\nRead full article\nSnopes]\nFact Check: A Viral Video Claims To Show Young Girls on Jeffrey Epstein's Island. Here's What We Found.\n=======================================================================================================\nAleksandra Wrona\nJanuary 8, 2024\u00b74 min read\nLink Copied\n!\nX user @WeAreWoke1776\\_3\n*   Oops!\n    Something went wrong.\n    Please try again later.\n    More content below\n**Claim:**\nA viral video shared in January 2023 authentically shows young girls in a house on Jeffrey Epstein's island.\n**Rating:**\n]\nRating: Unfounded\nOn Jan. 4, 2024, a video was  on X (formerly Twitter), allegedly showing \"very young girls\" in a house on the island of the late, convicted sex offender Jeffrey Epstein. \"One of hundreds of videos of the girls from the interior of Epstein's island,\" one of the Spanish-language posts  the viral video. As of this writing, one post with the in-question video gained more than 1.5 million views on X.\n!\n**(X user @terra\\_cremada)**\nThe post's description read:\n> One publicly released vid out of hundreds..showing these very young girls from the interior of Epstein's island.\n> \n> What is it they\u2019re doing, and to what, and WHY!?\n> \n> WHAT ARE THEY PREPARING!???\n> \n> What do you see??\nEpstein was back in the news in early 2024 after a  in a lawsuit filed against his associate/partner in crime, Ghislaine Maxwell. Epstein died in jail at his own hands in 2019 while awaiting trial on charges of sex trafficking young girls. The unsealing of the documents caused a stir on social media, with  appearing on the topic.\nIn short, we found no evidence the viral video revealed girls on Epstein's island.\nWe used Google reverse-image search to investigate the origins of the video and found it was  multiple times in 2019 and 2020. For instance, one  on Reddit linked the video with actor Tom Hanks with a caption, \"Man Claims Tom Hanks is a Ped\\*ph\\*le, releases video upon death.\" Moreover, we found instances of the video being...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Yahoo is primarily an internet portal and not a dedicated news source. It aggregates news from various outlets and often serves as a platform for tabloid-style headlines and clickbait journalism. While it can provide links to credible sources, the lack of strict editorial oversight and interest in sensational stories diminishes its reliability. Users should be cautious when consuming content from Yahoo News, verifying through more authoritative sources."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2024-01-08"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This piece directly addresses the claim regarding the viral video shared in January 2023, stating that there is no evidence to connect the video to Epstein's island and examining the video\u2019s false claims thoroughly. It provides strong, relevant content for dispelling the viral video's claimed origins."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Fact check: Wayfair is not involved in child sex trafficking",
+                "htmlTitle": "<b>Fact check</b>: Wayfair is not involved in <b>child</b> sex trafficking",
+                "link": "https://www.usatoday.com/story/news/factcheck/2020/07/22/fact-check-wayfair-not-involved-child-sex-trafficking/5460739002/",
+                "displayLink": "www.usatoday.com",
+                "snippet": "Jul 22, 2020 ... The e-commerce firm has falsely been accused of human trafficking, and one organization's hotline is now overwhelmed with baseless claims.",
+                "htmlSnippet": "Jul 22, 2020 <b>...</b> The e-commerce firm has falsely been accused of human trafficking, and one organization&#39;s hotline is now overwhelmed with baseless <b>claims</b>.",
+                "formattedUrl": "https://www.usatoday.com/story/.../factcheck/.../fact-check.../5460739002/",
+                "htmlFormattedUrl": "https://www.usatoday.com/story/.../<b>factcheck</b>/.../<b>fact</b>-<b>check</b>.../5460739002/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoSe-MCSYni_3N5LkxVko8jcetQgcd2K7xo3aaUeTjTeIkOa-0Tk-8hyI&s",
+                            "width": "301",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.usatoday.com/gcdn/presto/2019/06/26/USAT/6e7e8761-f7a2-4963-ab00-c89fd17d24eb-AP_Immigration_Wayfair_Walkout.JPG?crop=2753,1536,x0,y0&width=2753&height=1536&format=pjpg&auto=webp",
+                            "apple-itunes-app": "app-id=504631398,app-argument=https://app.adjust.com/ivqo5xe",
+                            "theme-color": "#0098FE",
+                            "og:image:width": "2753",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Fact check: Home goods retailer Wayfair is not involved in child sex trafficking",
+                            "og:site_name": "USA TODAY",
+                            "og:title": "Fact check: Home goods retailer Wayfair is not involved in child sex trafficking",
+                            "og:image:height": "1536",
+                            "google": "notranslate",
+                            "og:description": "The e-commerce firm has falsely been accused of human trafficking, and one organization's hotline is now overwhelmed with baseless claims.",
+                            "fb:pages": "13652355666,48958576760,156345381090801,110471702456365,6566864515,137698179626815,315942225236045,927427260614748,183850168300771,1443524575938047,251228454889939,158095147555989,115535341805950,236655713446291,1621466394844549,250325640686,177037772444433,1972936962947967,2047091012096533,535551216797440",
+                            "twitter:creator": "@usatoday",
+                            "article:author": "Matthew Brown",
+                            "twitter:image": "https://www.usatoday.com/gcdn/presto/2019/06/26/USAT/6e7e8761-f7a2-4963-ab00-c89fd17d24eb-AP_Immigration_Wayfair_Walkout.JPG?crop=2753,1536,x0,y0&width=1600&height=800&format=pjpg&auto=webp",
+                            "fb:app_id": "215046668549694",
+                            "twitter:site": "@usatoday",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1",
+                            "twitter:description": "The e-commerce firm has falsely been accused of human trafficking, and one organization's hotline is now overwhelmed with baseless claims.",
+                            "article:content_tier": "free",
+                            "og:url": "https://www.usatoday.com/story/news/factcheck/2020/07/22/fact-check-wayfair-not-involved-child-sex-trafficking/5460739002/",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.usatoday.com/gcdn/presto/2019/06/26/USAT/6e7e8761-f7a2-4963-ab00-c89fd17d24eb-AP_Immigration_Wayfair_Walkout.JPG?crop=2753,1536,x0,y0&width=2753&height=1536&format=pjpg&auto=webp"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...? Those are the real questions that need to be asked not just about Wayfair but about our broad consumption of cheap goods and services,\" Carr said.\nIn 2017, about 152 million minors globally were engaged in some form of child labor, of which about 73 million were in hazardous labor, . The department also\u00a0 that includes furniture, clothing apparel and technological appliances.\n**More:**\n\"This is so convoluted,\" Sandy Skelaney, an anti-trafficking expert and adjunct lecturer Florida International University, told USA TODAY. \"It\u2019s, unfortunately, so much easier to traffic somebody than to create an entire furniture catalog around it.\"\nIt is difficult to estimate how prevalent forced labor and child sex-trafficking is in the United States and around the world. However experts and advocates caution that public perception wildly differs from the reality of the issue.\n\"People who are vulnerable get trafficked, especially those with multiple vulnerabilities,\" Skelaney said.\n\"Oftentimes it's young women of color, poor women who are put in these situations. I've seen cases that most people would only see in a movie, but rarely, if ever, does it look like the movie 'Taken,'\" she added.\n**More:**\nTrafficking hotline overwhelmed\n-------------------------------\nA 2018 report from the Polaris Project, a national organization that fights human trafficking, found that most of the victims it investigated were trafficked .\nAnd the Wayfair conspiracy theory has now affected the group's work operating the National Human Trafficking Hotline, which is overwhelmed with calls about the false claims.\n\"While Polaris treats all calls to the Trafficking Hotline seriously, the extreme volume of these contacts has made it more difficult for the Trafficking Hotline to provide support and attention to others who are in need of help,\" .\n\"We strongly encourage everyone to learn more about what human trafficking really looks like in most situations, and about how you can help fight trafficking in your own community,\" the statement continues.\nExperts note that real-life trafficking doesn't look much like many people might imagine.\n\u201cDespite the popular media narrative that human trafficking starts with people being snatched, that is not how any of the cases that we work on at the human trafficking clinic begin,\" Carr told USA TODAY.\n\"When I first started this work, no one was aware of human trafficking. Now, we've significantly raised the awareness, but there are all these hoaxes going around,\" Skelaney said.\nHuman trafficking claims are a popular trope in conspiracy theories. A high-profile example is the  which alleged that Hillary Clinton and other famous individuals were running a child sex trafficking operation in...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "USA Today is a reputable national newspaper known for its accessible journalism. It generally reports well on current events and societal issues. However, it has faced criticism for prioritizing headlines and brevity over depth in reporting. While it is a credible source, it may not always provide the comprehensive coverage or analysis that other more specialized news organizations do, thus warranting a slightly lower score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2020-07-22"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This evidence discusses the Wayfair conspiracy theory rather than the Epstein video. While it mentions misinformation in general, it does not clarify or dispel anything specific about the video or its origins."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Fact check: No evidence Bill Gates said 'at least 3 billion people ...",
+                "htmlTitle": "<b>Fact check</b>: No evidence Bill Gates said &#39;at least 3 billion people ...",
+                "link": "https://www.reuters.com/article/world/fact-check-no-evidence-bill-gates-said-at-least-3-billion-people-need-to-die-idUSKBN29Y1XS/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Jan 29, 2021 ... ... claim is false. An iteration posted to Instagram on Jan. 25 ( here ) was viewed over half a million times three days later. The clip was\u00a0...",
+                "htmlSnippet": "Jan 29, 2021 <b>...</b> ... claim is false. An iteration posted to Instagram on Jan. 25 ( here ) was viewed over half a million times three days later. The clip was&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/.../fact-check-no-evidence-bill-gates-said-at-least-3...",
+                "htmlFormattedUrl": "https://www.reuters.com/.../<b>fact</b>-<b>check</b>-no-evidence-bill-gates-said-at-least-3...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoiAt7-6MmC1b3oHgzb0O0MCs0PXY6SC06u7XQ2L9hcWF8xrfSLTT6Wwzj&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/article/world/fact-check-no-evidence-bill-gates-said-at-least-3-billion-people-need-to-die-idUSKBN29Y1XS/?id=KBN29Y1XS",
+                            "og:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204",
+                            "analytics:page_layout": "regular-article",
+                            "article:published_time": "2021-01-29T14:59:15.000Z",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Reuters",
+                            "ccbot": "nofollow",
+                            "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                            "analyticsattributes.topicchannel": "World",
+                            "title": "Fact check: No evidence Bill Gates said \u2018at least 3 billion people need to die\u2019 | Reuters",
+                            "og:description": "A video viewed thousands of times on social media attributes to Bill Gates a quote about \u201csterilization and population control\u201d. The clip shows a man saying: \u201cIn the words of Bill Gates, at least 3 billion people need to die\u201d. Reuters found no evidence Gates ever made such a statement.",
+                            "twitter:creator": "@Reuters",
+                            "twitter:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204",
+                            "twitter:image:alt": "Reuters logo",
+                            "twitter:site": "@Reuters",
+                            "article:modified_time": "2021-01-29T14:49:15.000Z",
+                            "render_timestamp": "2024-07-26T05:55:28.876Z",
+                            "fb:admins": "988502044532272",
+                            "article:content_tier": "metered",
+                            "og:type": "article",
+                            "article:section": "World",
+                            "og:image:alt": "Reuters logo",
+                            "twitter:title": "Fact check: No evidence Bill Gates said \u2018at least 3 billion people need to die\u2019",
+                            "ad:template": "article",
+                            "og:image:url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204",
+                            "dcsext.dartzone": "/4735792/reuters.com/world/article",
+                            "og:title": "Fact check: No evidence Bill Gates said \u2018at least 3 billion people need to die\u2019",
+                            "dcsext.channellist": "World;",
+                            "og:image:height": "628",
+                            "og:article:published_time": "2021-01-29T14:59:15.000Z",
+                            "fb:pages": "114050161948682",
+                            "article:author": "Reuters",
+                            "fb:app_id": "988502044532272",
+                            "og:locale:alternate": "en_US",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "A video viewed thousands of times on social media attributes to Bill Gates a quote about \u201csterilization and population control\u201d. The clip shows a man saying: \u201cIn the words of Bill Gates, at least 3 billion people need to die\u201d. Reuters found no evidence Gates ever made such a statement.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/article/world/fact-check-no-evidence-bill-gates-said-at-least-3-billion-people-need-to-die-idUSKBN29Y1XS/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/article/world/fact-check-no-evidence-bill-gates-said-at-least-3-billion-people-need-to-die-idUSKBN29Y1XS/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.reuters.com/article/world/fact-check-no-evidence-bill-gates-said-at-least-3-billion-people-need-to-die-idUSKBN29Y1XS/",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Reuters is one of the largest and most trusted news agencies, known for its commitment to factual reporting and impartiality. It maintains rigorous editorial standards and is respected for its global coverage and thoroughness in journalism. The agency is a go-to source for many other news organizations and is particularly strong in international news. Overall, its historical accuracy and focus on factual reporting make it a highly credible source."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2021-01-29"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence addresses a false claim attributed to Bill Gates and is unrelated to Epstein or the viral video's context. Thus, it has no relevance in tracing the video's origins."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Fact-check: Are Stephen Hawking and Jimmy Kimmel on Epstein's ...",
+                "htmlTitle": "<b>Fact</b>-<b>check</b>: Are Stephen Hawking and Jimmy Kimmel on <b>Epstein&#39;s</b> ...",
+                "link": "https://www.euronews.com/my-europe/2024/01/09/fact-check-are-stephen-hawking-and-jimmy-kimmel-on-epsteins-list",
+                "displayLink": "www.euronews.com",
+                "snippet": "Jan 9, 2024 ... On social media, Jimmy Kimmel hit back at the false claims notably ... A video has gone viral showing US actor Tom Hanks dancing while\u00a0...",
+                "htmlSnippet": "Jan 9, 2024 <b>...</b> On social media, Jimmy Kimmel hit back at the false <b>claims</b> notably ... A <b>video</b> has gone <b>viral</b> showing US actor Tom Hanks dancing while&nbsp;...",
+                "formattedUrl": "https://www.euronews.com/.../fact-check-are-stephen-hawking-and-jimmy-...",
+                "htmlFormattedUrl": "https://www.euronews.com/.../<b>fact</b>-<b>check</b>-are-stephen-hawking-and-jimmy-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJZaTk9VYaHTNnpY0FWgx-Du7dPyh0sF2R6hrfOagivzuKRUQz9Kdq5z4&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static.euronews.com/articles/stories/08/15/84/94/1200x675_cmsv2_f11aed92-b935-5bbc-9c17-13397775547c-8158494.jpg",
+                            "msapplication-config": "browserconfig.xml",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "adv:branded": "no",
+                            "og:site_name": "euronews",
+                            "msapplication-tooltip": "Euronews.com",
+                            "apple-mobile-web-app-title": "Euronews.com",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://static.euronews.com/favicons/mstile-144x144.png",
+                            "og:description": "Were the names of celebrities such as Jimmy Kimmel, Tom Hanks, and Stephen Hawking featured on the list of individuals linked to Jeffrey Epstein? The unsealing of court records relating to the late sex offender has prompted a wave of conspiracy theories and disinformation. #TheCube",
+                            "twitter:image": "https://static.euronews.com/articles/stories/08/15/84/94/1200x675_cmsv2_f11aed92-b935-5bbc-9c17-13397775547c-8158494.jpg",
+                            "twitter:image:alt": "Fact-check: Are Stephen Hawking and Jimmy Kimmel on Epstein's list?",
+                            "twitter:site": "@euronews",
+                            "news_keywords": "Court,fake news,Sexual Abuse,Jeffrey Epstein,disinformation",
+                            "article:theme": "europe-decoded",
+                            "application-name": "Euronews.com",
+                            "msapplication-tilecolor": "#0172F0",
+                            "msapplication-starturl": "./",
+                            "og:type": "article",
+                            "og:image:alt": "Fact-check: Are Stephen Hawking and Jimmy Kimmel on Epstein's list?",
+                            "twitter:title": "Fact-check: Are Stephen Hawking and Jimmy Kimmel on Epstein's list?",
+                            "msapplication-window": "width=1280;height=1024",
+                            "article:vertical": "my-europe",
+                            "og:title": "Fact-check: Are Stephen Hawking and Jimmy Kimmel on Epstein's list?",
+                            "og:image:height": "675",
+                            "sponsored": "no",
+                            "date.updated": "2024-01-10 08:16:27",
+                            "fb:pages": "101402598109",
+                            "msapplication-navbutton-color": "#0172F0",
+                            "program.url": "the-cube",
+                            "wire": "no",
+                            "og:locale:alternate": "en-GB",
+                            "twitter:description": "Were the names of celebrities such as Jimmy Kimmel, Tom Hanks, and Stephen Hawking featured on the list of individuals linked to Jeffrey Epstein? The unsealing of court records relating to the late sex offender has prompted a wave of conspiracy theories and disinformation.",
+                            "apple-mobile-web-app-capable": "no",
+                            "og:locale:alternate:url": "https://www.euronews.com/my-europe/2024/01/09/fact-check-are-stephen-hawking-and-jimmy-kimmel-on-epsteins-list",
+                            "adv:featured": "no",
+                            "og:locale": "en-GB",
+                            "mobile-web-app-capable": "no",
+                            "date.available": "2024-01-09 17:45:46 +01:00",
+                            "adv:premium": "yes",
+                            "og:url": "https://www.euronews.com/my-europe/2024/01/09/fact-check-are-stephen-hawking-and-jimmy-kimmel-on-epsteins-list",
+                            "date.modified": "2024-01-10 08:16:27 +01:00",
+                            "date.created": "2024-01-09 17:45:46"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.euronews.com/articles/stories/08/15/84/94/1200x675_cmsv2_f11aed92-b935-5bbc-9c17-13397775547c-8158494.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... the Epstein documents recently released.\nEven the account that first posted the fabricated screenshot later confirmed the exchange was a fake one.\n\"I thought it was outlandish enough to be obvious, commented the user under the viral post.\nHawking\u2019s name does appear in the documents released on 3 January. A 2015 email sent by Epstein outlines a reward he offered for people who could disprove an allegation from one of his victims Virginia Giuffre that the scientist took part in \u201can underage orgy.\u201d\nAnother document describes a request for Virginia Giuffre to produce all photos or videos with several people, including Hawking. There is no mention of Hawking\u2019s alleged \"proclivities.\"\nHawking and several other scientists  on Epstein\u2019s private island in the Caribbean in 2006 before the financier was charged with sex trafficking of minors.\nHawking, who died in 2018, has never been accused of any crime related to Jeffrey Epstein.\nJimmy Kimmel hits back at co-conspirator allegations\n----------------------------------------------------\nTV host Jimmy Kimmel also fell victim to (ttps://web.archive.org/web/20240104211328/http://web.archive.org/screenshot/https://www.instagram.com/p/C1qikYkNdD7/?img_index=2) alleging he had sex with one of Epstein\u2019s victims.\n!ADVERTISEMENT\nHowever, none of the released court documents ever mention Jimmy Kimmel.\nThe alleged screenshot shows the transcript is on page number 1,375, while the officially released document only has 943 pages.\nOn social media, Jimmy Kimmel hit back at the false claims notably spread by American football player, Aaron Rodgers, and threatened the athlete with legal action.\nNew York Jets quarterback Aaron Rodgers falsely accused Kimmel of being on Epstein\u2019s list the day before the document\u2019s release during an appearance on \u201cThe Pat McAfee Show.\u201d\n!ADVERTISEMENT\nNo, Tom Hanks did not flee to Israel following the unsealing of court records\n-----------------------------------------------------------------------------\nA video has gone viral showing US actor Tom Hanks dancing while wearing a kippah and a tallit, a Jewish prayer shawl.\n\"Tom Hanks converts to Judaism and flees to Israel following the release of the Epstein client list.\u00a0Sources say he was greeted with a massive welcome celebration upon his arrival,\" \nThe video uses the logo and graphics of CNN to dupe social media users into thinking the clip comes from a real news report.\nHowever, a CNN spokesperson  the news chyron appearing in the video is a fabrication.\n!ADVERTISEMENT\nBy doing a reverse image search, The Cube...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Euronews provides news coverage with a focus on Europe, presenting stories in a balanced manner from a European perspective. While it is generally reliable, there are occasional critiques regarding its editorial independence and occasional bias depending on the specific coverage. However, its multilingual capacity and effort to provide diverse viewpoints lend it a strong level of credibility."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2024-01-09"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This evidence pertains to broader false claims surrounding individuals associated with Epstein but does not focus exclusively on the video or its origins. It does provide some context on the misinformation surrounding the Epstein case but lacks specific details about the viral video."
+                }
+            }
+        }
+    ]
+}

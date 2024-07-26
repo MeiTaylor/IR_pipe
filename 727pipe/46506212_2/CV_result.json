@@ -1,0 +1,28 @@
+{
+    "Claim": "A video that went viral in August 2023 showed a beach party in Kyiv, proving that the war in Ukraine is a hoax.",
+    "Video_information": {
+        "Video_headline": "Is This An Authentic Video from a Beach Party in Kyiv in August 2023? | Snopes.com",
+        "Video_transcript": "",
+        "Video_description_on_platform": "This video clip is used in a fact-check article on Snopes.com. Visit the website for more details.",
+        "Video_platform": "youtube",
+        "Video_date": "2023_08_07",
+        "Video_description_from_descriptor": "The video clip is a mix-up, which shows a beach party with clips and photos of many boys and girls, drinks and beach umbrellas. It seems to happen on a daytime with lots of sunshine. It is hard to determine the location of party from the video pictures or contents."
+    },
+    "Initial_Question_Generation": {
+        "Question": "Is there credible evidence confirming the beach party in the viral video occurred in Kyiv during August 2023?",
+        "Answer": "Yes, there is credible evidence confirming that the beach party depicted in the viral video occurred in Kyiv during August 2023. 1. The video in question has been authenticated as showing a beach party that took place on August 6, 2023, at the Fifty Beach Club in Kyiv [Query 1_evidence_1]. This confirms the timing and location of the event. 2. Furthermore, while the video was used to suggest that the war in Ukraine is a hoax due to the lively atmosphere portrayed, it is essential to note that the video does not provide evidence that undermines the reality of the war. Kyiv is situated over 300 miles away from the active front lines of the conflict, which underscores that life in the capital can proceed normally despite the ongoing war [Query 2_evidence_1]. 3. There has been some misinformation concerning other videos being circulated under a similar premise, where videos showing parties were misrepresented as occurring in Ukraine when they were filmed elsewhere (such as in Israel) [Query 2_evidence_2]. However, this does not affect the authenticity of the specific video in question, which has been conclusively identified as taking place in Kyiv.",
+        "Confidence": "90%"
+    },
+    "CVResult": {
+        "Judgment": "Yes",
+        "Confidence": "90%",
+        "Reason": "The existing information is sufficient to determine the truthfulness of the claim. The video has been authenticated as showing a beach party that took place at the Fifty Beach Club in Kyiv on August 6, 2023. This confirms the timing and location of the event, directly addressing the claim that the beach party proves the war in Ukraine is a hoax. While the video showcases a lively environment, it does not provide evidence that undermines the reality of the ongoing war, as Kyiv is located far from the active conflict zones. Therefore, the contextual understanding remains intact. The high confidence of 90% reflects the validity of the evidence confirming the party’s occurrence, despite attempts to misconstrue the video's implications regarding the war."
+    },
+    "Final_Judgement": {
+        "Answer": "False",
+        "Reasons": "While the video does show a beach party in Kyiv that did occur on August 6, 2023, it is misleading to use this as evidence to suggest that the war in Ukraine is a hoax. Life can continue normally in parts of Ukraine, including Kyiv, which is over 300 miles from the active conflict zones. Therefore, the lively atmosphere of the beach party does not contradict the reality of the ongoing war in Ukraine [Initial_Question_Generation_Query 1_evidence 1][Initial_Question_Generation_Query 2_evidence 1].",
+        "Therefore, the Claim authenticity is": "False",
+        "The information type is": "False",
+        "The specific type of False Information is": "Text unsupported by the video."
+    }
+}

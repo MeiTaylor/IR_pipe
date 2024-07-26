@@ -1,0 +1,23 @@
+{
+    "Claim": "A video shows North Korean leader Kim Jong Un and Russian President Vladimir Putin toasting each other then placing their drinks on the table without consuming them.",
+    "Video_information": {
+        "Video_description_from_descriptor": "The video opens with a man in a black suit standing at a podium, holding a glass of wine, and appearing to deliver a speech or presentation in a formal setting with blue curtains in the background. The focus then shifts to another man in a suit standing at a table, also holding a glass of wine and giving a speech at the same event. Throughout the video, the man in the black suit with the wine glass remains the central figure, although both men are speaking. The scenes depict interactions between the individuals, highlighting moments of toasting and gestures with the glasses of wine. The setting suggests a formal event or ceremony, with microphone setups on the tables indicating a structured gathering. The key frames capture various interactions between the two men, showcasing subtle moments of trust issues or skepticism humorously referenced in the captions. These moments include both men holding glasses of what is presumed to be champagne, engaging in dialogue or gestures, and maintaining a serious demeanor. The occurrences culminate with the man in the black suit finishing his speech, implying a conclusion to the event or presentation. Overall, the video portrays a sequence of formal interactions and speeches at an organized function, emphasizing the dynamic between the two suited men through moments of raising glasses and engaging in speech delivery."
+    },
+    "Initial_Question_Generation": {
+        "Question": "Does the video show Kim Jong Un and Vladimir Putin drinking after toasting?",
+        "Answer": "The video does not show North Korean leader Kim Jong Un and Russian President Vladimir Putin drinking after toasting. Instead, the video has been manipulated to create the illusion that they placed their drinks down without consuming them. In reality, both leaders toasted and subsequently sipped their drinks. The misleading portion that appears to show them placing their drinks on the table was a clip played in reverse, omitting the actual moment when they drank after toasting [Query 1_evidence_1] [Query 1_evidence_2].",
+        "Confidence": "95%"
+    },
+    "CVResult": {
+        "Judgment": "Yes",
+        "Confidence": "95%",
+        "Reason": "The existing information is sufficient to determine the truthfulness of the claim. The QA_CONTEXTS clearly state that the video does not show Kim Jong Un and Vladimir Putin drinking after toasting. Instead, it indicates that the video was manipulated to create the illusion that they placed their drinks down without consuming them. The provided explanation specifically mentions that both leaders toasted and subsequently sipped their drinks, countering the false claim. Furthermore, the mention of the clip being played in reverse reinforces that the misleading perception was intentionally created. These elements provide a high level of confidence in the conclusions drawn regarding the claim."
+    },
+    "Final_Judgement": {
+        "Answer": "False",
+        "Reasons": "The claim that Kim Jong Un and Vladimir Putin did not drink after toasting is false. The video has been manipulated to create the illusion that they placed their drinks down without consuming them. In reality, both leaders did toast and subsequently drank from their glasses. The misleading portrayal is due to a clip being played in reverse, which omitted the actual moment of drinking after the toast [Initial_Question_Generation_Query 1_evidence 1] [Initial_Question_Generation_Query 1_evidence 2].",
+        "Therefore, the Claim authenticity is": "False",
+        "The information type is": "False",
+        "The specific type of False Information is": "Video Clip Edit"
+    }
+}

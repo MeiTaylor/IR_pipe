@@ -1,0 +1,848 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Did Kim Jong Un and Vladimir Putin drink after toasting in the recent video?",
+                "totalResults": "388000",
+                "searchTerms": "Did Kim Jong Un and Vladimir Putin drink after toasting in the recent video?",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Did Kim Jong Un and Vladimir Putin drink after toasting in the recent video?",
+                "totalResults": "388000",
+                "searchTerms": "Did Kim Jong Un and Vladimir Putin drink after toasting in the recent video?",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.527137,
+        "formattedSearchTime": "0.53",
+        "totalResults": "388000",
+        "formattedTotalResults": "388,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "This Video Is a Lie: Putin and Kim Did Not Refuse To Drink After ...",
+                "htmlTitle": "This <b>Video</b> Is a Lie: <b>Putin</b> and <b>Kim Did</b> Not Refuse To <b>Drink After</b> ...",
+                "link": "https://www.snopes.com/fact-check/kim-putin-toast/",
+                "displayLink": "www.snopes.com",
+                "snippet": "Jan 3, 2024 ... A video shows North Korean leader Kim Jong Un and Russian President Vladimir Putin toasting each other then placing their drinks on the\u00a0...",
+                "htmlSnippet": "Jan 3, 2024 <b>...</b> A <b>video</b> shows North Korean leader <b>Kim Jong Un</b> and Russian President <b>Vladimir Putin toasting</b> each other then placing their <b>drinks</b> on the&nbsp;...",
+                "formattedUrl": "https://www.snopes.com/fact-check/kim-putin-toast/",
+                "htmlFormattedUrl": "https://www.snopes.com/fact-check/<b>kim</b>-<b>putin</b>-toast/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKiOPSwx3YFvy9G38x2zbDda9JoNTNW6UIqDU96_GajgoCeoLrQ-n_U54&s",
+                            "width": "312",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2024/01/kim-putin-toast.png",
+                            "theme-color": "#ffffff",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2024-01-03 22:13:19",
+                            "og:site_name": "Snopes",
+                            "apple-mobile-web-app-title": "Snopes.com",
+                            "twitter:creator": "@snopes",
+                            "og:description": "A widely shared clip allegedly showed \"trust issues\" between the leaders of North Korea and Russia.",
+                            "twitter:image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2024/01/kim-putin-toast.png",
+                            "article:publisher": "https://www.facebook.com/snopes",
+                            "twitter:site": "@snopes",
+                            "article:modified_time": "2024-01-03 22:23:45",
+                            "msapplication-tilecolor": "#000000",
+                            "twitter:title": "This Video Is a Lie: Putin and Kim Did Not Refuse To Drink After Toasting Each Other",
+                            "og:type": "article",
+                            "og:title": "This Video Is a Lie: Putin and Kim Did Not Refuse To Drink After Toasting Each Other",
+                            "fb:pages": "120680396518",
+                            "article:author": "Alex Kasprak",
+                            "article:tag": "Kim Jong-un",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "viewport": "width=device-width, initial-scale=1.0,minimum-scale=1.0, maximum-scale=5.0",
+                            "apple-mobile-web-app-capable": "yes",
+                            "mobile-web-app-capable": "yes",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.snopes.com//fact-check/kim-putin-toast/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2024/01/kim-putin-toast.png"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2024-01-03T14:13:19Z",
+                            "claimReviewed": "A video shows North Korean leader Kim Jong",
+                            "url": "https://www.snopes.com//fact-check/kim-putin-toast/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "A widely shared clip allegedly showed \"trust issues\" between the leaders of North Korea and Russia.\n---------------------------------------------------------------------------------------------------\n### Published Jan. 3, 2024\nClaim:\nA video shows North Korean leader Kim Jong Un and Russian President Vladimir Putin toasting each other then placing their drinks on the table without consuming them.\nRating:\n]\nA  that frequently goes viral on social media is often presented as an awkward exchange between North Korean leader Kim Jong Un and Russian President Vladimir Putin, betraying a lack of trust between the two. A popular account on X, for example, shared the clip in late 2023 with the caption \"Trust issues\":\n!\nThis video was manipulated. The portion appearing to show the two leaders placing their full drinks on the table after toasting is simply a clip of the two picking their glasses up played in reverse. The full  shows the action as it occurred, and it ends with both leaders sipping from their drinks after their toast:\nThis meeting occurred in Russia on April 25, 2019, following a breakdown of talks between former U.S. President Donald Trump and Kim over North Korea's nuclear program, with Putin attempting to serve as a mediator, as  by The Washington Post:\n> Russian President Vladimir Putin emerged from his first summit with Kim Jong Un \\ saying that North Korea needs international security guarantees, not just U.S. pledges, to consider giving up its nuclear arsenal.\n> \n> Putin\u2019s call for more multinational involvement contrasts sharply with President Trump\u2019s strategy of one-on-one dialogue with the North Korean leader. It...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Snopes is one of the most trusted fact-checking websites available. It has a long-standing reputation for investigating and debunking urban legends, rumors, and misinformation. The site provides thorough research and citations, clearly explaining its methodology for fact-checking. While it is not infallible, the consistency in its reliability earns it a high score."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2024-01-03"
+                },
+                "Relevance": {
+                    "RelevanceScore": 10,
+                    "Relevance Justification": "This evidence explicitly addresses the claim that Putin and Kim did not consume their drinks after toasting. It directly states that the video is manipulated and that the full context shows both leaders sipping from their drinks after toasting. Thus, it decisively refutes the claim and confirms that the leaders did indeed drink, which is central to evaluating the truthfulness of the claim and video information."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Fact Check: Viral Video Is Misleading: Putin and Kim Both Sipped ...",
+                "htmlTitle": "Fact Check: Viral <b>Video</b> Is Misleading: <b>Putin</b> and <b>Kim</b> Both Sipped ...",
+                "link": "https://ca.news.yahoo.com/fact-check-viral-video-misleading-222400228.html",
+                "displayLink": "ca.news.yahoo.com",
+                "snippet": "This video was manipulated. The portion appearing to show the two leaders placing their full drinks on the table after toasting is simply a clip of the two\u00a0...",
+                "htmlSnippet": "This <b>video was</b> manipulated. The portion appearing to show the two leaders placing their full <b>drinks</b> on the table <b>after toasting</b> is simply a clip <b>of</b> the two&nbsp;...",
+                "formattedUrl": "https://ca.news.yahoo.com/fact-check-viral-video-misleading-222400228.h...",
+                "htmlFormattedUrl": "https://ca.news.yahoo.com/fact-check-viral-<b>video</b>-misleading-222400228.h...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6u8QDwsKPvUXrZiAkgadmO38lda0Yqm5fjQ1av_sUQqA2dbFeVWcWXN4&s",
+                            "width": "312",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=304158842,app-argument=yahoo://article/view?uuid=e37bf8b7-38ba-348a-b1a2-f1429d37c0ee&src=web",
+                            "og:image": "https://media.zenfs.com/en/snopes_632/c3d57ccf39eb1a44ba0429320e324612",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Yahoo News",
+                            "al:android:package": "com.yahoo.mobile.client.android.yahoo",
+                            "al:ios:url": "yahoo://article/view?uuid=e37bf8b7-38ba-348a-b1a2-f1429d37c0ee&src=web",
+                            "og:description": "While Kim Jong Un and Vladimir Putin could have \"trust issues\" as the video implies, they were not on display during an April 2019 meeting.",
+                            "al:ios:app_store_id": "304158842",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://media.zenfs.com/en/snopes_632/c3d57ccf39eb1a44ba0429320e324612",
+                            "oath:guce:consent-host": "guce.yahoo.com",
+                            "twitter:site": "@Yahoo",
+                            "news_keywords": "Vladimir Putin, Kim Jong Un, North Korea, North Korean leader",
+                            "twitter:title": "Fact Check: Viral Video Is Misleading: Putin and Kim Both Sipped After Toasting Each Other",
+                            "og:type": "article",
+                            "al:ios:app_name": "Yahoo",
+                            "og:title": "Fact Check: Viral Video Is Misleading: Putin and Kim Both Sipped After Toasting Each Other",
+                            "og:image:height": "624",
+                            "twitter:image:src": "https://media.zenfs.com/en/snopes_632/c3d57ccf39eb1a44ba0429320e324612",
+                            "al:android:url": "yahoo://article/view?uuid=e37bf8b7-38ba-348a-b1a2-f1429d37c0ee&src=web",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "While Kim Jong Un and Vladimir Putin could have \"trust issues\" as the video implies, they were not on display during an April 2019 meeting.",
+                            "og:url": "https://ca.news.yahoo.com/fact-check-viral-video-misleading-222400228.html",
+                            "al:android:app_name": "Yahoo"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.zenfs.com/en/snopes_632/c3d57ccf39eb1a44ba0429320e324612"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \nAdvertisement\nRead full article\nSnopes]\nFact Check: Viral Video Is Misleading: Putin and Kim Both Sipped After Toasting Each Other\n==========================================================================================\nAlex Kasprak\nJanuary 25, 2024 at 5:24 p.m.\u00b72 min read\nLink Copied\n!\nTwitter / Snopes\n**Claim:**\nA video shows North Korean leader Kim Jong Un and Russian President Vladimir Putin toasting each other then placing their drinks on the table without consuming them.\n**Rating:**\n]\nRating: False\nA video of a 2019 meeting between North Korean leader Kim Jong Un and Russian President Vladimir Putin is often shared as a way to illustrate \"trust issues.\" The video shows both leaders toast each other and then place their drinks down without sipping. A Jan. 24, 2024 post on X (formerly Twitter), for example, shared the video with  \"When no one trust no one\":\n!\nThis video was manipulated. The portion appearing to show the two leaders placing their full drinks on the table after toasting is simply a clip of the two picking their glasses up played in reverse. The full  shows the action as it occurred, and it ends with both leaders sipping from their drinks after their toast:\n> \nThis meeting occurred in Russia on April 25, 2019, following a breakdown of talks between former U.S. President Donald Trump and Kim over North Korea's nuclear program, with Putin attempting to serve as a mediator, as  by The Washington Post:\n> Russian President Vladimir Putin emerged from his first summit with Kim Jong Un \\ saying that North Korea needs international security guarantees, not just U.S. pledges, to consider giving up its nuclear arsenal.\n> \n> Putin\u2019s call for more multinational involvement contrasts sharply with President Trump\u2019s strategy of one-on-one dialogue with the North Korean leader. It also reinforced North Korea\u2019s attempt to link security and sanctions relief as twin demands in negotiations over its nuclear program.\nBecause the video was manipulated to suggest a sequence of events that did not happen, the claim is False.\n#### Sources:\nFerris-Rotman, Amie, and Simon Denyer....[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Yahoo News serves as an aggregator that includes content from various sources, some of which may not have stringent editorial standards. While it features articles from reputable journalists and established news outlets, the variable nature of its content provides room for less reliable information. It can be a useful source, but caution is advised due to potential mixed quality."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 10,
+                    "Relevance Justification": "Similar to evidence0, this source confirms that the video was manipulated. It clearly indicates that the portion suggesting the leaders placed their drinks down without drinking was altered, and that the complete video depicts them drinking after toasting. This solidly counters the claim and is critical in assessing the veracity of the provided information."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "North Korea summit: Putin and Kim toast in Vladivostok",
+                "htmlTitle": "North Korea summit: <b>Putin</b> and <b>Kim toast</b> in Vladivostok",
+                "link": "https://www.bbc.com/news/av/world-asia-48051166",
+                "displayLink": "www.bbc.com",
+                "snippet": "Apr 25, 2019 ... North Korea's Kim Jong-un and Russia's Vladimir Putin sat down to a lavish dinner following talks in the Russian far-eastern city of Vladivostok\u00a0...",
+                "htmlSnippet": "Apr 25, 2019 <b>...</b> North Korea&#39;s <b>Kim Jong</b>-<b>un</b> and Russia&#39;s <b>Vladimir Putin</b> sat down to a lavish dinner <b>following</b> talks in the Russian far-eastern city of Vladivostok&nbsp;...",
+                "formattedUrl": "https://www.bbc.com/news/av/world-asia-48051166",
+                "htmlFormattedUrl": "https://www.bbc.com/news/av/world-asia-48051166",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBsHLrIB2CCw2RovyEcd9NDCBSV-PAai2gxDc6MZORilBwi0bL5-As5QM&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/1007A/production/_106585656_p077dl8k.jpg",
+                            "twitter:title": "North Korea summit: Putin and Kim toast in Vladivostok",
+                            "twitter:card": "summary_large_image",
+                            "og:image:alt": "Putin and Kim toast",
+                            "theme-color": "#ffffff",
+                            "og:title": "North Korea summit: Putin and Kim toast in Vladivostok",
+                            "og:description": "The Russian and North Korean leaders dine following their first face-to-face meeting.",
+                            "version": "2.5.0+19",
+                            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/1007A/production/_106585656_p077dl8k.jpg",
+                            "next-head-count": "27",
+                            "twitter:image:alt": "Putin and Kim toast",
+                            "viewport": "width=device-width",
+                            "twitter:description": "The Russian and North Korean leaders dine following their first face-to-face meeting."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/1007A/production/_106585656_p077dl8k.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... in Kathmandu, Nepal, killing at least 18 people. 2 days ago Asia]\n! Waterspout spotted off Philippines coast ---------------------------------------- Footage shows the column of air and water near Misamis Oriental province on Thursday. 8 days ago Asia]\n! Watch: Huge fire engulfs 14-storey shopping centre in China ----------------------------------------------------------- At least 16 people have died in the mishap at the 14-storey building. 18 Jul 2024 Asia]\n! Former PMs, film and sports stars join Ambani wedding ----------------------------------------------------- Tony Blair and Boris Johnson were among guests to arrive at the wedding of a billionaire's son. 12 Jul 2024 Asia]\n! Lavish Ambani wedding divides opinions in India ----------------------------------------------- The noise around the lavish wedding has drawn public fascination - and ire. 12 Jul 2024 Asia]\n! Debris flies through air as tornado hits China city --------------------------------------------------- Eyewitness footage shows a funnel-shaped column ripping through Shandong province. 5 Jul 2024 Asia]\n! WATCH: Families mourn victims of deadly India crush --------------------------------------------------- At least 121 people, mostly women, were killed in the crush at a religious event in northern India. 3 Jul 2024 Asia]\n! WATCH: Distress as dozens die in India stampede ----------------------------------------------- The incident took place at a Hindu religious event in Uttar Pradesh state. 2 Jul 2024 Asia]\n! China rocket crashes after 'accidental' launch ---------------------------------------------- Footage shows the Tianlong-3 rocket falling back to Earth and exploding in a hillside in central China. 1 Jul 2024 Asia]\n! Watch: Delhi airport roof collapses due to heavy rain ----------------------------------------------------- The incident has left one person dead and injured four others. 28 Jun 2024 Asia]\n! Footage shows moment deadly S Korea factory fire breaks out ----------------------------------------------------------- Twenty-three people died in a lithium battery explosion and fire in a South Korea factory. 25 Jun 2024 Asia]\n! King and Queen welcome Japanese Emperor to UK --------------------------------------------- The ceremonial welcome marks the start of a three-day state visit to the country. 25 Jun 2024 Asia]\n! Moment China's lunar probe lands back on Earth ---------------------------------------------- The probe returned with the first ever samples from the Moon's unexplored far side. 25 Jun 2024 Asia]\n! Watch: Chinese coast guard clashes with Filipino navy ----------------------------------------------------- The Philippines says its soldiers were attacked with swords, spears and knives in the South China Sea. 20 Jun 2024 Asia]\n!...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The BBC is an internationally recognized public broadcaster known for its commitment to impartial news reporting and high editorial standards. It has a strong reputation for accuracy and independence in journalism. The rigorous checks they implement for journalistic integrity contribute to its high score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2019-04-25"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This evidence provides context about the meeting but does not directly address the specific claim of whether they drank after toasting. It lacks details on what occurred immediately after the toast, reducing its relevance but still contributing to understanding the setting and background of the event."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Fact Check: This Video Is a Lie: Putin and Kim Did Not Refuse To ...",
+                "htmlTitle": "Fact Check: This <b>Video</b> Is a Lie: <b>Putin</b> and <b>Kim Did</b> Not Refuse To ...",
+                "link": "https://uk.news.yahoo.com/fact-check-video-lie-putin-221300613.html?_fsig=RvhR6mGOLRj7KQlEHnLuUQ--%7EA",
+                "displayLink": "uk.news.yahoo.com",
+                "snippet": "Fact Check: This Video Is a Lie: Putin and Kim Did Not Refuse To Drink After Toasting Each Other ... Vladimir Putin, Kim Jong Un Toast to Peace at First Summit in\u00a0...",
+                "htmlSnippet": "Fact Check: This <b>Video</b> Is a Lie: Putin and Kim <b>Did</b> Not Refuse To <b>Drink After Toasting</b> Each Other ... <b>Vladimir Putin</b>, <b>Kim Jong Un Toast</b> to Peace at First Summit in&nbsp;...",
+                "formattedUrl": "https://uk.news.yahoo.com/fact-check-video-lie-putin-221300613.html?_...",
+                "htmlFormattedUrl": "https://uk.news.yahoo.com/fact-check-<b>video</b>-lie-<b>putin</b>-221300613.html?_...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRURaRMITaMTldpneVWQ7hrqw8NldAJ3O_TvJoJOw9akPzLXgl9CI3R9zcz&s",
+                            "width": "312",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=304158842,app-argument=yahoo://article/view?uuid=6df6d746-71ac-39d4-a997-0ecc92f1d84e&src=web",
+                            "og:image": "https://media.zenfs.com/en/snopes_632/90cbd8a801b92a91d8eeaed0bc7fa17c",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Yahoo News",
+                            "al:android:package": "com.yahoo.mobile.client.android.yahoo",
+                            "al:ios:url": "yahoo://article/view?uuid=6df6d746-71ac-39d4-a997-0ecc92f1d84e&src=web",
+                            "og:description": "A widely shared clip allegedly showed \"trust issues\" between the leaders of North Korea and Russia.",
+                            "al:ios:app_store_id": "304158842",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://media.zenfs.com/en/snopes_632/90cbd8a801b92a91d8eeaed0bc7fa17c",
+                            "oath:guce:consent-host": "guce.yahoo.com",
+                            "twitter:site": "@yahooNewsUK",
+                            "news_keywords": "Vladimir Putin, Kim Jong Un, North Korea, North Korean leader, Kim Jong",
+                            "twitter:title": "Fact Check: This Video Is a Lie: Putin and Kim Did Not Refuse To Drink After Toasting Each Other",
+                            "og:type": "article",
+                            "al:ios:app_name": "Yahoo",
+                            "og:title": "Fact Check: This Video Is a Lie: Putin and Kim Did Not Refuse To Drink After Toasting Each Other",
+                            "og:image:height": "624",
+                            "twitter:image:src": "https://media.zenfs.com/en/snopes_632/90cbd8a801b92a91d8eeaed0bc7fa17c",
+                            "al:android:url": "yahoo://article/view?uuid=6df6d746-71ac-39d4-a997-0ecc92f1d84e&src=web",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "A widely shared clip allegedly showed \"trust issues\" between the leaders of North Korea and Russia.",
+                            "og:url": "https://uk.news.yahoo.com/fact-check-video-lie-putin-221300613.html",
+                            "al:android:app_name": "Yahoo"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.zenfs.com/en/snopes_632/90cbd8a801b92a91d8eeaed0bc7fa17c"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "We, Yahoo, are part of the Yahoo family of brands.\nWhen you use our sites and apps, we use cookies to:\n*   provide our sites and apps to you\n*   authenticate users, apply security measures, and prevent spam and abuse, and\n*   measure your use of our sites and apps\nIf you click '**Accept all**', we and , including 237 who are part of the IAB Transparency & Consent Framework, will also store and/or access information on a device (in other words, use cookies) and use precise geolocation data and other personal data such as IP address and browsing and search data, for personalised advertising and content, advertising and content measurement, and audience research and services development.\nIf you do not want us and our partners to use cookies and personal data for these additional purposes, click '**Reject all**'.\nIf you would like to customise your choices, click '**Manage privacy settings**'.\nYou can change your choices at any time by clicking on the 'Privacy & cookie settings' or 'Privacy dashboard' links on our sites and apps. Find out more about how we use your personal data in our  and .",
+                    "content_tokens": 234
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Similar to its Canadian counterpart, Yahoo UK aggregates news from various sources. The reliability varies because not all included articles may be from established reporters or organizations. It\u2019s important to verify the original sources of news articles featured on the platform, giving it a moderate score."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 10,
+                    "Relevance Justification": "This evidence repeats the key findings of evidence0 and evidence1, noting that the video has been manipulated to create a misleading narrative. It claims that both leaders did sip from their drinks after raising them in a toast, which directly contradicts the original claim. Its directness and specificity make it highly relevant."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Putin's reaching out to Kim Jong-un is a desperate move \u2013 and ...",
+                "htmlTitle": "<b>Putin&#39;s</b> reaching out to <b>Kim Jong</b>-<b>un</b> is a desperate move \u2013 and ...",
+                "link": "https://www.theguardian.com/commentisfree/2023/sep/07/putin-kim-jong-un-russia-north-korea",
+                "displayLink": "www.theguardian.com",
+                "snippet": "Sep 8, 2023 ... Kim was seen proudly showing him around the latest models of North Korean weaponry. ... North Korean leader Kim Jong-un toasts Russian president\u00a0...",
+                "htmlSnippet": "Sep 8, 2023 <b>...</b> Kim <b>was</b> seen proudly showing him around the <b>latest</b> models <b>of</b> North Korean weaponry. ... North Korean leader <b>Kim Jong</b>-<b>un toasts</b> Russian <b>president</b>&nbsp;...",
+                "formattedUrl": "https://www.theguardian.com/.../sep/.../putin-kim-jong-un-russia-north-kor...",
+                "htmlFormattedUrl": "https://www.theguardian.com/.../sep/.../<b>putin</b>-<b>kim</b>-<b>jong</b>-<b>un</b>-russia-north-kor...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKMVkrKLLm0dWY68cUC8QEu3U6NzQ0i2Yw_79mhunDovReaXvU-BDsg13J&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.guim.co.uk/img/media/42ae5f448cc51a04bddefd9b6016d534b97cf92f/133_197_1844_1106/master/1844.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=e899ad3ca56bec53ef0bf244ca72cf93",
+                            "twitter:app:id:googleplay": "com.guardian",
+                            "twitter:app:url:iphone": "gnmguardian://commentisfree/2023/sep/07/putin-kim-jong-un-russia-north-korea?contenttype=Article&source=twitter",
+                            "theme-color": "#052962",
+                            "og:image:width": "1200",
+                            "article:published_time": "2023-09-07T07:00:19.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "the Guardian",
+                            "twitter:app:url:ipad": "gnmguardian://commentisfree/2023/sep/07/putin-kim-jong-un-russia-north-korea?contenttype=Article&source=twitter",
+                            "twitter:app:name:googleplay": "The Guardian",
+                            "al:ios:url": "gnmguardian://commentisfree/2023/sep/07/putin-kim-jong-un-russia-north-korea?contenttype=Article&source=applinks",
+                            "twitter:app:id:iphone": "409128287",
+                            "og:description": "The reported meeting of the dictators reveals the threat of a return to old, cold war politics, says Sergey Radchenko of the Johns Hopkins School of Advanced International Studies",
+                            "article:publisher": "https://www.facebook.com/theguardian",
+                            "al:ios:app_store_id": "409128287",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://i.guim.co.uk/img/media/42ae5f448cc51a04bddefd9b6016d534b97cf92f/133_197_1844_1106/master/1844.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&s=c86b10cb3853e454b93a53ae810df9ab",
+                            "twitter:site": "@guardian",
+                            "article:modified_time": "2023-09-08T15:18:14.000Z",
+                            "og:type": "article",
+                            "article:section": "Opinion",
+                            "al:ios:app_name": "The Guardian",
+                            "og:title": "Putin\u2019s reaching out to Kim Jong-un is a desperate move \u2013 and potentially a dangerous one | Sergey Radchenko",
+                            "og:image:height": "720",
+                            "twitter:app:id:ipad": "409128287",
+                            "article:author": "https://www.theguardian.com/profile/sergey-radchenko",
+                            "article:tag": "Russia,North Korea,Vladimir Putin,Kim Jong-un,Ukraine,South Korea,Europe,Asia Pacific,World news",
+                            "fb:app_id": "180444840287",
+                            "twitter:app:url:googleplay": "guardian://www.theguardian.com/commentisfree/2023/sep/07/putin-kim-jong-un-russia-north-korea",
+                            "twitter:app:name:ipad": "The Guardian",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                            "og:url": "https://www.theguardian.com/commentisfree/2023/sep/07/putin-kim-jong-un-russia-north-korea",
+                            "twitter:app:name:iphone": "The Guardian"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.guim.co.uk/img/media/42ae5f448cc51a04bddefd9b6016d534b97cf92f/133_197_1844_1106/master/1844.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=e899ad3ca56bec53ef0bf244ca72cf93"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... ally in north-east Asia. But at that time, the North Koreans were, at best, poor supplicants to a mighty superpower. Today, Kim\u2019s hermit kingdom stands tall and proud as Russia\u2019s partner in crime.\nPutin\u2019s engagement with North Korea is as old as his presidency. But the relationship was generally more exotic than practical. Russia\u2019s real partner was , which consistently ranked among its top 10 trade partners, with nearly $30bn in trade volume in 2021. North Korea was never an attractive partner, and it was subject to very restrictive sanctions that Russia, as a permanent member of the UN security council, had helped craft. Until it invaded Ukraine, Russia tried to abide by them in letter and spirit.\nEverything changed with the invasion. In May 2022 \u2013 in a development that may foreshadow the beginning of the end for the North Korean sanctions regime \u2013 Russia (and China) vetoed a UN security council resolution that would penalise Pyongyang for another round of missile tests.\nIn July 2022, Pyongyang recognised the Russian-occupied puppet republics of Donetsk and Luhansk (just over two months before their annexation by Russia made this recognition moot). Then, in July this year, the Russian defence minister, Sergei Shoigu, turned up in Pyongyang to an . Kim was seen proudly showing him around the latest models of North Korean weaponry. Amid the smiles and camaraderie, a new relationship was being born.\nRussia\u2019s quest for North Korean weapons and ammunition (much like the Kremlin\u2019s purchase of Iranian drones) suggests a high degree of desperation in the Kremlin. With Russia\u2019s vaunted military machine having been proved something of a paper tiger by the Ukrainians, there is an implied humiliation in shopping around for weapons in places like North Korea, a disdained client state at the best of times. There are also important practical considerations that Putin must weigh before embracing Kim.\n!\n\u2018Kim Jong-un was seen proudly showing Sergei Shoigu around the latest models of North Korean weaponry. Amid the smiles and camaraderie, a new relationship was being born.\u2019 Photograph: EyePress News/Shutterstock\nThe first \u2013 violating the sanctions regime that Russia has helped built up over the years \u2013 is probably the least of Putin\u2019s hurdles. Now that Russia itself has become a pariah state, on the receiving end of extensive western sanctions, it is only reasonable that the Kremlin might reach out to fellow rogues. You may argue, of course, that the (partial) dismantling of the sanctions regime will bury all hopes for Pyongyang...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Guardian is a respected publication with a global reach. It is known for its investigative journalism and thorough reporting. Although it has a distinct editorial voice, which can lean left, it generally maintains high standards for accuracy and factual reporting, thus earning a solid score."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-09-08"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This evidence discusses the relationship between Putin and Kim but does not focus specifically on the drinking aspect after the toast. It does not provide any confirmation or refutation regarding the claim about whether they drank after toasting, making it largely irrelevant to the question."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "snopes.com on X: \"A video purportedly showing Vladimir Putin and ...",
+                "htmlTitle": "snopes.com on X: &quot;A <b>video</b> purportedly showing <b>Vladimir Putin</b> and ...",
+                "link": "https://twitter.com/snopes/status/1742913130748113079?lang=en",
+                "displayLink": "twitter.com",
+                "snippet": "Jan 4, 2024 ... A video purportedly showing Vladimir Putin and Kim Jong Un refusing to drink after toasting one another was manipulated.",
+                "htmlSnippet": "Jan 4, 2024 <b>...</b> A <b>video</b> purportedly showing <b>Vladimir Putin</b> and <b>Kim Jong Un</b> refusing to <b>drink after toasting</b> one another <b>was</b> manipulated.",
+                "formattedUrl": "https://twitter.com/snopes/status/1742913130748113079?lang=en",
+                "htmlFormattedUrl": "https://twitter.com/snopes/status/1742913130748113079?lang=en",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnscarS64V7Nu9DswDEY6ZqjIndivQ3xPJQVK5oFI84P4YDBcx7rHqLoyX&s",
+                            "width": "312",
+                            "height": "162"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "contenturl": "https://pbs.twimg.com/media/GDASQXNa4AAEGRM.jpg",
+                            "width": "1200",
+                            "caption": "Image",
+                            "thumbnailurl": "https://pbs.twimg.com/media/GDASQXNa4AAEGRM?format=jpg&name=thumb"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "identifier": "14294848",
+                            "givenname": "snopes.com",
+                            "additionalname": "snopes"
+                        }
+                    ],
+                    "interactioncounter": [
+                        {
+                            "userinteractioncount": "286128",
+                            "interactiontype": "https://schema.org/FollowAction",
+                            "name": "Likes"
+                        },
+                        {
+                            "userinteractioncount": "83",
+                            "interactiontype": "https://schema.org/SubscribeAction",
+                            "name": "Retweets"
+                        },
+                        {
+                            "userinteractioncount": "95305",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Quotes"
+                        },
+                        {
+                            "userinteractioncount": "8",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/snopes/status/1742913130748113079/likes"
+                        },
+                        {
+                            "userinteractioncount": "3",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/snopes/status/1742913130748113079/retweets"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/snopes/status/1742913130748113079/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/snopes/status/1742913130748113079"
+                        },
+                        {
+                            "userinteractioncount": "7252",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://pbs.twimg.com/media/GDASQXNa4AAEGRM.jpg:large",
+                            "theme-color": "#FFFFFF",
+                            "og:type": "article",
+                            "og:site_name": "X (formerly Twitter)",
+                            "al:ios:app_name": "X",
+                            "apple-mobile-web-app-title": "Twitter",
+                            "og:title": "snopes.com (@snopes) on X",
+                            "al:android:package": "com.twitter.android",
+                            "al:ios:url": "twitter://status?id=1742913130748113079",
+                            "title": "snopes.com (@snopes) on X",
+                            "og:description": "A video purportedly showing Vladimir Putin and Kim Jong Un refusing to drink after toasting one another was manipulated.  https://t.co/N4kjwjI23G",
+                            "al:ios:app_store_id": "333903271",
+                            "facebook-domain-verification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+                            "al:android:url": "twitter://status?id=1742913130748113079",
+                            "fb:app_id": "2231777543",
+                            "apple-mobile-web-app-status-bar-style": "white",
+                            "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "https://twitter.com/snopes/status/1742913130748113079",
+                            "al:android:app_name": "X"
+                        }
+                    ],
+                    "collection": [
+                        {
+                            "name": "Post with replies"
+                        }
+                    ],
+                    "creativework": [
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/N4kjwjI23G"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://pbs.twimg.com/media/GDASQXNa4AAEGRM.jpg:large"
+                        }
+                    ],
+                    "socialmediaposting": [
+                        {
+                            "identifier": "1742913130748113079",
+                            "commentcount": "0",
+                            "articlebody": "A video purportedly showing Vladimir Putin and Kim Jong Un refusing to drink after toasting one another was manipulated. https://snopes.com/fact-check/kim-putin-toast/?utm_medium=Social&utm_source=...",
+                            "position": "1",
+                            "datecreated": "2024-01-04T14:17:26.000Z",
+                            "datepublished": "2024-01-04T14:17:26.000Z",
+                            "url": "https://twitter.com/snopes/status/1742913130748113079",
+                            "mainentityofpage": "https://twitter.com/snopes/status/1742913130748113079"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Don\u2019t miss what\u2019s happening\nPeople on X are the first to know.",
+                    "content_tokens": 16
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "Twitter is a platform for user-generated content, meaning that it can be a source of both accurate information and misinformation. While credible journalists and organizations use Twitter, it lacks a formal editorial process, leading to a significant risk of spreading unverified information. Content quality is highly variable on the platform."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2024-01-04"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This evidence reiterates that the video in question has been manipulated and that it does not accurately illustrate what occurred. It emphasizes that the leaders did indeed drink after toasting, addressing the question directly and contributing effectively to assessing the truthfulness of the claim."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Fact check: Video of Kim Jong Un visiting Russia is from 2019 summit",
+                "htmlTitle": "Fact check: <b>Video of Kim Jong Un</b> visiting Russia is from 2019 summit",
+                "link": "https://www.usatoday.com/story/news/factcheck/2022/10/11/fact-check-video-kim-jong-un-visiting-russia-2019-summit/8195177001/",
+                "displayLink": "www.usatoday.com",
+                "snippet": "Oct 11, 2022 ... A video of Kim Jong Un visiting Russia is not recent. It was captured in Vladivostok in 2019 when Un and Vladimir Putin held a summit.",
+                "htmlSnippet": "Oct 11, 2022 <b>...</b> A <b>video</b> of <b>Kim Jong Un</b> visiting Russia is not <b>recent</b>. It <b>was</b> captured in Vladivostok in 2019 when Un and <b>Vladimir Putin</b> held a summit.",
+                "formattedUrl": "https://www.usatoday.com/story/...video-kim-jong-un.../8195177001/",
+                "htmlFormattedUrl": "https://www.usatoday.com/story/...<b>video</b>-<b>kim</b>-<b>jong</b>-<b>un</b>.../8195177001/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLVlVAtffsjorqSSHN7bmK7iw3Sd8payrLrEpLIJdXDBc_UEW_5MjigHO5&s",
+                            "width": "297",
+                            "height": "170"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.usatoday.com/gcdn/presto/2019/04/25/USAT/645d3e9a-6d73-4682-bc34-4e8de426e13a-AP_Putin_Kim_Summit.JPG?crop=3911,2237,x0,y0&width=3200&height=1831&format=pjpg&auto=webp",
+                            "apple-itunes-app": "app-id=504631398,app-argument=https://app.adjust.com/ivqo5xe",
+                            "theme-color": "#0098FE",
+                            "og:image:width": "3200",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Fact check: Video of Kim Jong Un visiting Russia is from 2019 summit, not a recent meeting",
+                            "og:site_name": "USA TODAY",
+                            "og:title": "Fact check: Video of Kim Jong Un visiting Russia is from 2019 summit, not a recent meeting",
+                            "og:image:height": "1831",
+                            "google": "notranslate",
+                            "og:description": "A video of Kim Jong Un visiting Russia is not recent. It was captured in Vladivostok in 2019 when Un and Vladimir Putin held a summit.",
+                            "fb:pages": "13652355666,48958576760,156345381090801,110471702456365,6566864515,137698179626815,315942225236045,927427260614748,183850168300771,1443524575938047,251228454889939,158095147555989,115535341805950,236655713446291,1621466394844549,250325640686,177037772444433,1972936962947967,2047091012096533,535551216797440",
+                            "twitter:creator": "@usatoday",
+                            "article:author": "Hannah Hudnall",
+                            "twitter:image": "https://www.usatoday.com/gcdn/presto/2019/04/25/USAT/645d3e9a-6d73-4682-bc34-4e8de426e13a-AP_Putin_Kim_Summit.JPG?crop=3911,2237,x0,y0&width=1600&height=800&format=pjpg&auto=webp",
+                            "fb:app_id": "215046668549694",
+                            "twitter:site": "@usatoday",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1",
+                            "twitter:description": "A video of Kim Jong Un visiting Russia is not recent. It was captured in Vladivostok in 2019 when Un and Vladimir Putin held a summit.",
+                            "article:content_tier": "free",
+                            "og:url": "https://www.usatoday.com/story/news/factcheck/2022/10/11/fact-check-video-kim-jong-un-visiting-russia-2019-summit/8195177001/",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.usatoday.com/gcdn/presto/2019/04/25/USAT/645d3e9a-6d73-4682-bc34-4e8de426e13a-AP_Putin_Kim_Summit.JPG?crop=3911,2237,x0,y0&width=3200&height=1831&format=pjpg&auto=webp"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2022-10-11T19:30:12Z",
+                            "claimReviewed": "Video shows Kim Jong Un visiting Moscow on Sept. 30",
+                            "url": "https://www.usatoday.com/story/news/factcheck/2022/10/11/fact-check-video-kim-jong-un-visiting-russia-2019-summit/8195177001/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... false. The footage shared in the post was originally captured in 2019 when Putin and Kim held a summit in Vladivostok, Russia. The meeting was covered by numerous media outlets at the time.\nUSA TODAY reached out to the user who shared the post for comment.\nVideo was captured in 2019\n--------------------------\nThe video was originally captured on April 25,\u00a02019, when Kim arrived in\u00a0Vladivostok for . It was the first time the two leaders had met face-to-face, and\u00a0they reportedly discussed security and denuclearization of\u00a0the Korean peninsula.\nFootage of the meeting, including the clip featured in the Facebook post,\u00a0was shared online by , \u00a0and  at the time.\nPictures from the day were captured and published by\u00a0,\u00a0as well as  and \n**Fact check:** \n does not mention any recent or pending meetings with Kim following Putin's\u00a0Sept. 30 speech.\nThis claim has been debunked by  and \u00a0as well.\nEarlier this year, USA TODAY\u00a0\u00a0that the same video showed Putin meeting with South Korean\u00a0President\u00a0Moon Jae-in.\nOur rating: False\n-----------------\nBased on our research, we rate FALSE the claim that a video shows Kim visiting Moscow on Sept. 30. The video was captured in 2019 when Putin and Kim met for a summit in Vladivostok.\nOur fact-check sources:\n-----------------------\n*   USA TODAY, Oct. 2,\u00a0\n*   USA TODAY, April\u00a025, 2019,\u00a0\u00a0\n*   YouTube, April 25, 2019, \n*   Reuters, April 25, 2019, \u00a0\n*   CNN, April 27, 2019,\u00a0\n*   Kremlin, accessed Oct. 6, \n*   Reuters, Oct. 3,\u00a0\n*   AP News, Oct. 2,\u00a0\n*   USA TODAY, March\u00a010, \n*   Kremlin, April\u00a025, 2019,\u00a0\n*   AP Images, April\u00a025, 2019, \n*   Getty Images, April\u00a025, 2019, \n_Thank you for supporting our journalism.\u00a0You can\u00a0_\n_Our fact-check work is supported in part by a grant from Facebook._\n]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "USA Today is a mainstream news organization with a national audience, known for its straightforward news reporting. While the overall quality is good, the sometimes simplified reporting style may lead to oversimplifications or omissions of complex issues. They also aim for balanced reporting but can occasionally have biases."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2022-10-11"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "While it confirms the date and context of the meeting, it does not address the claim about drinking after the toast or provide evidence in either direction on that specific action. Thus, it is minimally relevant."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "What's really behind Kim Jong Un's meeting with Putin?",
+                "htmlTitle": "What&#39;s really behind <b>Kim Jong Un&#39;s</b> meeting with <b>Putin</b>?",
+                "link": "https://www.nbcnews.com/news/world/what-s-really-behind-putin-s-meeting-kim-jong-un-n998406",
+                "displayLink": "www.nbcnews.com",
+                "snippet": "Apr 25, 2019 ... After years of isolation, Kim has appeared more eager to reach out in recent ... Vladimir Putin meets with North Korean leader Kim Jong Un\u00a0...",
+                "htmlSnippet": "Apr 25, 2019 <b>...</b> <b>After</b> years of isolation, Kim <b>has</b> appeared more eager to reach out in <b>recent</b> ... <b>Vladimir Putin</b> meets with North Korean leader <b>Kim Jong Un</b>&nbsp;...",
+                "formattedUrl": "https://www.nbcnews.com/.../what-s-really-behind-putin-s-meeting-kim-jon...",
+                "htmlFormattedUrl": "https://www.nbcnews.com/.../what-s-really-behind-<b>putin</b>-s-meeting-<b>kim</b>-<b>jon</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXxTaeULqe48kyaC_S-s_uIo4ml-RccnrjIeWekd2mvUrUnGE4V05zC1dT&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-config": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/browserconfig.xml",
+                            "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2019_17/2834951/190425-kim-putin-mn-1254.jpg",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "NBC News",
+                            "branch:deeplink:title": "What's behind North Korea's Kim and Putin's meeting in Russia?",
+                            "og:image:type": "image/jpeg",
+                            "twitter:creator": "NBCNews",
+                            "og:description": "Analysis: \"There are a number of reasons for the trip, and one of them is to show the U.S. that they are not the only game in town,\" one expert said.",
+                            "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2019_17/2834951/190425-kim-putin-mn-1254.jpg",
+                            "branch:deeplink:description": "Analysis: \"There are a number of reasons for the trip, and one of them is to show the U.S. that they are not the only game in town,\" one expert said.",
+                            "twitter:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/newscms/2019_17/2834951/190425-kim-putin-mn-1254.jpg",
+                            "twitter:site": "@NBCNews",
+                            "article:content_tier": "free",
+                            "branch:deeplink:type": "article",
+                            "og:type": "article",
+                            "twitter:title": "What's behind North Korea's Kim and Putin's meeting in Russia?",
+                            "branch:deeplink:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2019_17/2834951/190425-kim-putin-mn-1254.jpg",
+                            "og:title": "What's behind North Korea's Kim and Putin's meeting in Russia?",
+                            "og:image:height": "630",
+                            "fb:pages": "155869377766434",
+                            "twitter:image:src": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/newscms/2019_17/2834951/190425-kim-putin-mn-1254.jpg",
+                            "fb:app_id": "10150138890205613",
+                            "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                            "twitter:description": "Analysis: \"There are a number of reasons for the trip, and one of them is to show the U.S. that they are not the only game in town,\" one expert said.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.nbcnews.com/news/world/what-s-really-behind-putin-s-meeting-kim-jong-un-n998406",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2019_17/2834951/190425-kim-putin-mn-1254.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... real significance of the latest foreign trip by North Korea's young dictator: a stark message to President Donald Trump that talks with the United States are not the only game in town.\nNorth Korea has for months been negotiating with the U.S. \u2014 ostensibly toward the goal of denuclearizing the Korean Peninsula. Trump left his first meeting with Kim in 2018 saying the pair had a \"special bond.\"\nHowever, Kim's last summit with Trump in February . Negotiations between the two sides have since stalled, and it appears they still disagree about what \"denuclearization\" actually means.\nAnd meeting Putin is partly Kim's way of signaling to Trump that he \"can shop around for a deal,\" according to Robert Kelly, a professor of international relations at South Korea's Pusan University.\n\"Trump, as is his wont, has turned the engagement with Kim into an all-encompassing personal psychodrama, and the U.S. public and media drank that Kool-Aid,\" Kelly said. \"Kim Jong Un is now happy to talk to anyone.\"\nThe North Korean dictator's overriding aim may be to protect his family's dynastic rule against regime change, experts believe. But Kim is also keen to ease the international sanctions that are squeezing his country's poor economy.\nAfter years of isolation, Kim has appeared more eager to reach out in recent years, partly because he has achieved the ultimate bargaining chip: an intercontinental ballistic missile theoretically capable of carrying out a nuclear strike on the U.S. mainland.\nThis isn't all about Washington. As well as the two meetings with Trump, there have been four summits with Chinese President Xi Jinping and three more .\nNow, with the U.S. talks going nowhere, the North Korean ruler is turning to Russia, to see what Putin can offer but also as a message to the other players.\n\"There are a number of reasons for the trip, and one of them is to show the U.S. that they are not the only game in town,\" according to Tom Plant at the Royal United Services Institute, a London think tank. \"The U.S. will clearly be watching very closely for any outcomes.\"\n!\nPutin met Kim at the Far Eastern Federal University campus on Russky Island.Alexey Nikolsky / AFP - Getty Images\nThursday's summit , near Russia's far-eastern port of Vladivostok.\nThere was substance, as well as symbolism. The two countries share a tiny, 11-mile land border, and Putin wants to build a gas pipeline and rail routes through the North and into South Korea.\nPutin would prefer not to have another nuclear power on his doorstep. But while that is a reality, experts say he would at least like...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "NBC News has a solid reputation in American journalism. The organization is noted for breaking news coverage and provides in-depth reporting and analysis. While it is generally reliable, like all large organizations, it can occasionally reflect biases in specific coverage."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2019-04-25"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "Like evidence6, this provides historical context about the meeting but does not mention the specifics around the drinks or the toasts. Consequently, it has little to no relevance to resolving the claim."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Putin Kim Toast Drink | TikTok",
+                "htmlTitle": "<b>Putin Kim Toast Drink</b> | TikTok",
+                "link": "https://www.tiktok.com/discover/Putin-kim-toast-drink",
+                "displayLink": "www.tiktok.com",
+                "snippet": "Jul 15, 2024 ... North Korea's Kim Jong Un and Russian President Putin share a toast after signing a new historic partnership agreement. #russia #putin\u00a0...",
+                "htmlSnippet": "Jul 15, 2024 <b>...</b> North Korea&#39;s <b>Kim Jong Un</b> and Russian <b>President Putin</b> share a <b>toast after</b> signing a <b>new</b> historic partnership agreement. #russia #putin&nbsp;...",
+                "formattedUrl": "https://www.tiktok.com/discover/Putin-kim-toast-drink",
+                "htmlFormattedUrl": "https://www.tiktok.com/discover/<b>Putin</b>-<b>kim</b>-toast-<b>drink</b>",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa3hhhr9UvHFtuZeQfMacAqxBuL9bjkBTE_350_B70Brh4JGVrdMnUmlY&s",
+                            "width": "168",
+                            "height": "300"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter:app:id:googleplay": "com.zhiliaoapp.musically",
+                            "og:image": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/6eb7547314814317beda17cb4fb17e1f_1696880442~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=66222&refresh_token=f3aaceeb39d616727e643defe964adcf&x-expires=1722175200&x-signature=uWtDYAApWCJOrXyigmD29Skuiww%3D&shp=b59d6b55&shcp=-",
+                            "twitter:card": "summary",
+                            "og:image:width": "360",
+                            "og:site_name": "TikTok",
+                            "applicable-device": "pc, mobile",
+                            "al:android:package": "com.zhiliaoapp.musically",
+                            "pumbaa-ctx": "login=0,ftc=0",
+                            "al:ios:url": "snssdk1233://user/profile/",
+                            "twitter:app:id:iphone": "835599320",
+                            "og:description": "54.3M posts. Discover videos related to Putin Kim Toast Drink on TikTok. See more videos about Keep It 100 Raq Baby Sample, Gre and Farmer Kirkland, Aaron Love Island It Is What It Is Til It Isnt, Daughter Passed Away from The Fatal Seizure, If Were Not Having A Health Baby Then Were Not Habing A Baby, How to Change Your Settings for Tracking Film.",
+                            "al:ios:app_store_id": "835599320",
+                            "twitter:image": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/6eb7547314814317beda17cb4fb17e1f_1696880442~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=66222&refresh_token=f3aaceeb39d616727e643defe964adcf&x-expires=1722175200&x-signature=uWtDYAApWCJOrXyigmD29Skuiww%3D&shp=b59d6b55&shcp=-",
+                            "twitter:site": "TikTok",
+                            "og:type": "website",
+                            "twitter:title": "Putin Kim Toast Drink | TikTok",
+                            "og:image:alt": "Putin Kim Toast Drink | TikTok",
+                            "al:ios:app_name": "musical.ly",
+                            "og:title": "Putin Kim Toast Drink | TikTok",
+                            "og:image:height": "360",
+                            "google": "notranslate",
+                            "al:android:url": "snssdk1233://user/profile/",
+                            "fb:app_id": "597615686992125",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no",
+                            "twitter:description": "54.3M posts. Discover videos related to Putin Kim Toast Drink on TikTok. See more videos about Keep It 100 Raq Baby Sample, Gre and Farmer Kirkland, Aaron Love Island It Is What It Is Til It Isnt, Daughter Passed Away from The Fatal Seizure, If Were Not Having A Health Baby Then Were Not Habing A Baby, How to Change Your Settings for Tracking Film.",
+                            "og:url": "https://www.tiktok.com/discover/Putin-kim-toast-drink",
+                            "al:android:app_name": "musical.ly",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/6eb7547314814317beda17cb4fb17e1f_1696880442~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=66222&refresh_token=f3aaceeb39d616727e643defe964adcf&x-expires=1722175200&x-signature=uWtDYAApWCJOrXyigmD29Skuiww%3D&shp=b59d6b55&shcp=-"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "TikTok - Make Your Day\n===============\nLog in\n*   \n*   \n*   \n*   \n*   \nLog in to follow creators, like videos, and view comments.\nLog in\n #### Create TikTok effects, get a reward]\n#### Company\n#### Program\n#### Terms & Policies\n\u00a9 2024 TikTok",
+                    "content_tokens": 65
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 3,
+                    "justification": "TikTok is primarily an entertainment platform with a vast range of user-generated content and short videos. The informal and often viral nature of content means that factual accuracy is highly uncertain. Users should approach information on TikTok with extreme caution, as misinformation can spread rapidly."
+                },
+                "Newness": {
+                    "NewnessScore": 9,
+                    "Date": "2024-07-15"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This source appears to be unrelated to the event in question and does not provide any relevant information about the claims surrounding the toast and subsequent drinking. It offers no context related to the specific question."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Here's what happened in Kim Jong Un's meeting with Putin : NPR",
+                "htmlTitle": "Here&#39;s what happened in <b>Kim Jong Un&#39;s</b> meeting with <b>Putin</b> : NPR",
+                "link": "https://www.npr.org/2023/09/13/1199324612/heres-what-happened-in-kim-jong-uns-meeting-with-putin",
+                "displayLink": "www.npr.org",
+                "snippet": "Sep 13, 2023 ... North Korean leader Kim Jong Un pledged support for Russia's war in Ukraine at his meeting with Russian President Vladimir Putin.",
+                "htmlSnippet": "Sep 13, 2023 <b>...</b> North Korean leader <b>Kim Jong Un</b> pledged support for Russia&#39;s war in Ukraine at his meeting with Russian President <b>Vladimir Putin</b>.",
+                "formattedUrl": "https://www.npr.org/.../heres-what-happened-in-kim-jong-uns-meeting-wit...",
+                "htmlFormattedUrl": "https://www.npr.org/.../heres-what-happened-in-<b>kim</b>-<b>jong</b>-uns-meeting-wit...",
+                "pagemap": {
+                    "speakablespecification": [
+                        {
+                            "cssselector": "[data-is-speakable]"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "date": "2023-09-13",
+                            "apple-itunes-app": "app-id=324906251, app-argument=https://www.npr.org/2023/09/13/1199324612/heres-what-happened-in-kim-jong-uns-meeting-with-putin",
+                            "og:image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+                            "og:type": "article",
+                            "twitter:card": "summary",
+                            "twitter:title": "Here's what happened in Kim Jong Un's meeting with Putin",
+                            "og:site_name": "NPR",
+                            "cxenseparse:pageclass": "article",
+                            "twitter:domain": "npr.org",
+                            "cxenseparse:publishtime": "2023-09-13T17:13:03-04:00",
+                            "og:title": "Here's what happened in Kim Jong Un's meeting with Putin",
+                            "rating": "General",
+                            "og:description": "North Korean leader Kim Jong Un pledged support for Russia's war in Ukraine at his meeting with Russian President Vladimir Putin.",
+                            "fb:pages": "10643211755",
+                            "fb:app_id": "138837436154588",
+                            "cxenseparse:author": "Charles Maynes",
+                            "twitter:site": "@NPR",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "article:content_tier": "free",
+                            "og:url": "https://www.npr.org/2023/09/13/1199324612/heres-what-happened-in-kim-jong-uns-meeting-with-putin",
+                            "article:opinion": "false"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "By\u00a0\n\n\n      Charles Maynes\n    \n\nNorth Korean leader Kim Jong Un pledged support for Russia's war in Ukraine at his meeting with Russian President Vladimir Putin.\nAILSA CHANG, HOST:  Seven time zones east of Moscow today, Russian President Vladimir Putin greeted the leader of North Korea, Kim Jong Un. Russia had announced Kim was coming for this summit of two authoritarians, but details of the meeting's timing and location were kept secret until Kim's arrival in his armored train after a two-day journey from Pyongyang. NPR's Charles Maynes reports from Moscow that each leader is looking to gain something from the other.CHARLES MAYNES, BYLINE: Kim's state visit came at Putin's invitation. And the setting, once revealed, was clearly designed to impress. North Korea had recently failed to place its own spy satellites into orbit, so Putin chose the venue of Russia's new Vostochny Cosmodrome for the summit, welcoming Kim with a warm handshake and, later, a personal tour.(SOUNDBITE OF ARCHIVED RECORDING)UNIDENTIFIED PERSON: (Non-English language spoken).MAYNES: As Putin looked on, officials from Roscosmos, the Russian space agency told Kim about the latest in Russian space technology. In fact, before Kim's arrival, Putin told reporters Russia would help North Korea's quest to launch a satellite. That...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "NPR (National Public Radio) is known for its quality journalism and in-depth analysis of news developments. The organization adheres to high journalistic standards and has a reputation for balanced coverage. Despite occasional criticisms of bias, it remains a credible source for news."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-09-13"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence describes a meeting between Kim and Putin but does not specifically relate to the toast or subsequent drinking actions, making it largely irrelevant while still being mildly related due to discussing the general interaction between the two leaders."
+                }
+            }
+        }
+    ]
+}
