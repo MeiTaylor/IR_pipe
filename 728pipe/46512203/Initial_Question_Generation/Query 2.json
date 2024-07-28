@@ -1,0 +1,654 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Fact-check Trump Maui visit August 2023 wildfires video",
+                "totalResults": "909000",
+                "searchTerms": "Fact-check Trump Maui visit August 2023 wildfires video",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Fact-check Trump Maui visit August 2023 wildfires video",
+                "totalResults": "909000",
+                "searchTerms": "Fact-check Trump Maui visit August 2023 wildfires video",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.383497,
+        "formattedSearchTime": "0.38",
+        "totalResults": "909000",
+        "formattedTotalResults": "909,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Video falsely claims Trump visited Maui amid wildfires| Fact check",
+                "htmlTitle": "<b>Video</b> falsely claims <b>Trump visited Maui</b> amid <b>wildfires</b>| <b>Fact check</b>",
+                "link": "https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/",
+                "displayLink": "www.usatoday.com",
+                "snippet": "Aug 18, 2023 ... An Aug. 16 Facebook video (direct link, archive link) shows a TikTok video that features former President Donald Trump and former first lady ...",
+                "htmlSnippet": "Aug 18, 2023 <b>...</b> An <b>Aug</b>. 16 Facebook <b>video</b> (direct link, archive link) shows a TikTok <b>video</b> that features former President <b>Donald Trump</b> and former first lady&nbsp;...",
+                "formattedUrl": "https://www.usatoday.com/.../factcheck/2023/.../video...trump-visited-maui...",
+                "htmlFormattedUrl": "https://www.usatoday.com/.../<b>factcheck</b>/<b>2023</b>/.../<b>video</b>...<b>trump</b>-<b>visit</b>ed-<b>maui</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAV4TSFYdJeWKeHpDRgQYMpKWDCFl55zOVJTshOt5Kl90tz96s9Cw7diBO&s",
+                            "width": "299",
+                            "height": "169"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/17/USAT/70610409007-afp-afp-33-rc-8-u-4.jpg?crop=8255,4665,x0,y419&width=3200&height=1809&format=pjpg&auto=webp",
+                            "apple-itunes-app": "app-id=504631398,app-argument=https://app.adjust.com/ivqo5xe",
+                            "theme-color": "#0098FE",
+                            "og:image:width": "3200",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Video of Trump visiting a storm-destroyed area is from 2019, not Maui fires | Fact check",
+                            "og:site_name": "USA TODAY",
+                            "og:title": "Video of Trump visiting a storm-destroyed area is from 2019, not Maui fires | Fact check",
+                            "og:image:height": "1809",
+                            "google": "notranslate",
+                            "og:description": "A miscaptioned video claimed to show Donald Trump visiting Maui. In reality, it's a 2019 video of his visit to Alabama after a deadly tornado.",
+                            "fb:pages": "13652355666,48958576760,156345381090801,110471702456365,6566864515,137698179626815,315942225236045,927427260614748,183850168300771,1443524575938047,251228454889939,158095147555989,115535341805950,236655713446291,1621466394844549,250325640686,177037772444433,1972936962947967,2047091012096533,535551216797440",
+                            "twitter:creator": "@usatoday",
+                            "article:author": "Gabrielle Settles",
+                            "twitter:image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/17/USAT/70610409007-afp-afp-33-rc-8-u-4.jpg?crop=8255,4665,x0,y419&width=1600&height=800&format=pjpg&auto=webp",
+                            "fb:app_id": "215046668549694",
+                            "twitter:site": "@usatoday",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1",
+                            "twitter:description": "A miscaptioned video claimed to show Donald Trump visiting Maui. In reality, it's a 2019 video of his visit to Alabama after a deadly tornado.",
+                            "article:content_tier": "free",
+                            "og:url": "https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/17/USAT/70610409007-afp-afp-33-rc-8-u-4.jpg?crop=8255,4665,x0,y419&width=3200&height=1809&format=pjpg&auto=webp"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-08-18T14:10:19Z",
+                            "claimReviewed": "Video shows Trump visiting Maui after wildfires",
+                            "url": "https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Video falsely claims Trump visited Maui amid wildfires| Fact check\n===============\nONLY AT USA TODAY:\nOUR PORTFOLIO:\n: 61°F Cloudy\")\nfact-checking\nAdd Topic\nVideo of Trump visiting a storm-destroyed area is from 2019, not Maui fires | Fact check\n========================================================================================\n  Gabrielle Settles]\nUSA TODAY\n!\n0:00\n1:16\nAD\nSKIP\nThe claim: Video shows Trump visiting Maui after wildfires\n----------------------------------------------------------\nAn Aug. 16 Facebook video (, ) shows a TikTok video that features former President Donald Trump and former first lady Melania Trump walking past a FEMA truck in a disaster-struck area and talking with people in a building filled with supplies and clothes.\n“THE PEOPLE'S PRESIDENT,” reads text on the screen. “Thank you Mr. Trump for checking on the people of Maui!”\nThe Facebook video was shared over 900 times in one day, while the original TikTok video has been shared more than 7,000 times.\n**Follow us on Facebook!** \nOur rating: False\n-----------------\nThe video is years old and shows the former president's 2019 visit to Alabama after a tornado damaged part of the state. Trump has not visited the Hawaiian island of Maui following the devastating wildfires there that killed more than 100 in early August.\nVideo shows Trump visiting Alabama in 2019\n------------------------------------------\nAt least  have died in wildfires that consumed parts of Maui, the second-largest of the Hawaiian islands, since . But there is no evidence the former president has visited the island.\nThe video shared on Facebook shows then-president Trump delivering remarks to a group of people at Providence Baptist Church in Opelika, Alabama, on March 8, 2019, after the area was struck by a tornado that caused serious damage and left  injured. The church was serving as a disaster relief center for those affected.\nThe White House shared footage of the visit on  the same day. His full comments can be found in the White House’s .\n**Fact check**: \nThere are no credible reports that Trump has gone to visit Maui amid the island’s wildfires. However, the former president did  about the crisis.\nUSA TODAY reached out to the user who shared the post for comment but did not immediately receive a response.\nOur fact-check sources:\n-----------------------\n*   WFSA 12 News, March 3,...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "A video doesn't show a laser beam igniting Maui's wildfires. It's a ...",
+                "htmlTitle": "A <b>video</b> doesn&#39;t show a laser beam igniting <b>Maui&#39;s wildfires</b>. It&#39;s a ...",
+                "link": "https://apnews.com/article/fact-check-hawaii-maui-wildfires-chile-DEW-434395550756",
+                "displayLink": "apnews.com",
+                "snippet": "Aug 14, 2023 ... THE FACTS: Social media users are claiming a video shows a laser beam from a so-called directed energy weapon shooting down from space and ...",
+                "htmlSnippet": "Aug 14, 2023 <b>...</b> THE <b>FACTS</b>: Social media users are claiming a <b>video</b> shows a laser beam from a so-called directed energy weapon shooting down from space and&nbsp;...",
+                "formattedUrl": "https://apnews.com/.../fact-check-hawaii-maui-wildfires-chile-DEW-43439...",
+                "htmlFormattedUrl": "https://apnews.com/.../<b>fact-check</b>-hawaii-<b>maui</b>-<b>wildfires</b>-chile-DEW-43439...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkq5vKgiawYxdxCY6OWyPPNw9fru3Itfs-S21cZVMeDOYc7dxkqUYnBqKP&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/8b35666/2147483647/strip/true/crop/1339x753+81+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1a%2F4a%2Feeb20f8921d5ad64067f3b32a0b3%2F535d80b24ddc49089034444a114e6795"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://dims.apnews.com/dims4/default/8b35666/2147483647/strip/true/crop/1339x753+81+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1a%2F4a%2Feeb20f8921d5ad64067f3b32a0b3%2F535d80b24ddc49089034444a114e6795",
+                            "og:image:width": "1440",
+                            "article:published_time": "2023-08-14T22:32:39.008",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "AP News",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "THE FACTS: Social media users are claiming a video shows a laser beam from a so-called directed energy weapon shooting down from space and igniting the deadly fires on the island of Maui this month.",
+                            "twitter:creator": "@philmarcelo",
+                            "twitter:image": "https://dims.apnews.com/dims4/default/8b35666/2147483647/strip/true/crop/1339x753+81+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1a%2F4a%2Feeb20f8921d5ad64067f3b32a0b3%2F535d80b24ddc49089034444a114e6795",
+                            "twitter:image:alt": "This photo provided by County of Maui shows fire and smoke filling the sky from wildfires on the intersection at Hokiokio Place and Lahaina Bypass in Maui, Hawaii on Tuesday, Aug. 8, 2023. Wildfires in Hawaii fanned by strong winds burned multiple structures in areas including historic Lahaina town, forcing evacuations and closing schools in several communities Wednesday, and rescuers pulled a dozen people escaping smoke and flames from the ocean. (Zeke Kalua/County of Maui via AP)",
+                            "twitter:site": "@AP",
+                            "article:modified_time": "2023-08-17T17:21:51.776",
+                            "brightspot.contentid": "00000189-f626-db3e-a7bf-f62e1cea0000",
+                            "thumbnail": "https://dims.apnews.com/dims4/default/8b35666/2147483647/strip/true/crop/1339x753+81+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1a%2F4a%2Feeb20f8921d5ad64067f3b32a0b3%2F535d80b24ddc49089034444a114e6795",
+                            "og:image:alt": "This photo provided by County of Maui shows fire and smoke filling the sky from wildfires on the intersection at Hokiokio Place and Lahaina Bypass in Maui, Hawaii on Tuesday, Aug. 8, 2023. Wildfires in Hawaii fanned by strong winds burned multiple structures in areas including historic Lahaina town, forcing evacuations and closing schools in several communities Wednesday, and rescuers pulled a dozen people escaping smoke and flames from the ocean. (Zeke Kalua/County of Maui via AP)",
+                            "og:type": "article",
+                            "article:section": "AP Fact Check",
+                            "twitter:title": "A video doesn’t show a laser beam igniting Maui’s wildfires. It’s a transformer explosion in Chile",
+                            "og:image:url": "https://dims.apnews.com/dims4/default/8b35666/2147483647/strip/true/crop/1339x753+81+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1a%2F4a%2Feeb20f8921d5ad64067f3b32a0b3%2F535d80b24ddc49089034444a114e6795",
+                            "ga-datalayer": "{\n  \"dimension15\" : \"Fact-checking,AP Fact Check\",\n  \"dimension9\" : \"2023-08-14 18:32:39\",\n  \"dimension10\" : \"PHILIP MARCELO\"\n}",
+                            "ntv-kv": "Fact-checking",
+                            "og:title": "A video doesn’t show a laser beam igniting Maui’s wildfires. It’s a transformer explosion in Chile",
+                            "og:image:height": "810",
+                            "permutive-datalayer": "{\n  \"category\" : \"AP Fact Check\",\n  \"dfp_kv\" : {\n    \"page_type\" : \"Article\"\n  },\n  \"tags\" : [ \"Fact-checking\" ],\n  \"page_type\" : \"Article\",\n  \"publication_date\" : \"2023-08-14T18:32:39.000Z\",\n  \"item_id\" : null,\n  \"headline\" : \"A video doesn’t show a laser beam igniting Maui’s wildfires. It’s a transformer explosion in Chile\",\n  \"authors\" : [ \"PHILIP MARCELO\" ]\n}",
+                            "article:author": "https://apnews.com/author/philip-marcelo",
+                            "article:tag": "Fact-checking",
+                            "fb:app_id": "870613919693099",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+                            "twitter:description": "THE FACTS: Social media users are claiming a video shows a laser beam from a so-called directed energy weapon shooting down from space and igniting the deadly fires on the island of Maui this month.",
+                            "og:url": "https://apnews.com/article/fact-check-hawaii-maui-wildfires-chile-DEW-434395550756",
+                            "gtm-datalayer": "{\n  \"event\" : \"Article Visited\",\n  \"Tag_CMS\" : \"Fact-checking,AP Fact Check\",\n  \"tag_array\" : \"Fact-checking,AP Fact Check\",\n  \"headline\" : \"A video doesn’t show a laser beam igniting Maui’s wildfires. It’s a transformer explosion in Chile\",\n  \"publication_date\" : \"2023-08-14 18:32:39\",\n  \"author\" : \"PHILIP MARCELO\",\n  \"linked_video\" : \"NO\",\n  \"pr_content\" : \"NO\",\n  \"featured\" : \"NO\",\n  \"lead_media\" : \"Photo\",\n  \"page_type\" : \"Article\",\n  \"is_infobox_present\" : \"NO\",\n  \"is_inline_link_present\" : \"YES\",\n  \"character_count\" : 4251,\n  \"primary_section\" : \"AP Fact Check\",\n  \"seo_title_updated\" : \"\",\n  \"seo_description_updated\" : \"\"\n}"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/8b35666/2147483647/strip/true/crop/1339x753+81+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1a%2F4a%2Feeb20f8921d5ad64067f3b32a0b3%2F535d80b24ddc49089034444a114e6795"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "claimReviewed": "Video of a flash of light and an explosion",
+                            "url": "https://apnews.com/article/fact-check-hawaii-maui-wildfires-chile-DEW-434395550756"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://apnews.com/article/fact-check-hawaii-maui-wildfires-chile-DEW-434395550756: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://apnews.com/article/fact-check-hawaii-maui-wildfires-chile-DEW-434395550756",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Fact Check: Did Joe Biden Fall Asleep During Maui Fire Event ...",
+                "htmlTitle": "<b>Fact Check</b>: Did Joe Biden Fall Asleep During <b>Maui Fire</b> Event ...",
+                "link": "https://www.newsweek.com/joe-biden-fall-asleep-maui-fire-event-fact-check-1821663",
+                "displayLink": "www.newsweek.com",
+                "snippet": "Aug 22, 2023 ... President Joe Biden was said to have dozed off during a community event in Lahaina, Hawaii, based on a video shared online.",
+                "htmlSnippet": "Aug 22, 2023 <b>...</b> President Joe Biden was said to have dozed off during a community event in Lahaina, Hawaii, based on a <b>video</b> shared online.",
+                "formattedUrl": "https://www.newsweek.com/joe-biden-fall-asleep-maui-fire-event-fact-chec...",
+                "htmlFormattedUrl": "https://www.newsweek.com/joe-biden-fall-asleep-<b>maui</b>-fire-event-<b>fact-chec</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCtVOSyNYq37w-QV-svvb9Gr6WcdrdzPCuo4Ils5IOYdlZJOdPhVQ7fDA&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://d.newsweek.com/en/full/2272932/joe-biden-lahaina.jpg",
+                            "msapplication-config": "https://g.newsweek.com/themes/newsweek/favicons/browserconfig.xml",
+                            "og:image:width": "2500",
+                            "article:published_time": "2023-08-22T12:05:01-04:00",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ff0500",
+                            "og:site_name": "Newsweek",
+                            "twitter:url": "https://www.newsweek.com/joe-biden-fall-asleep-maui-fire-event-fact-check-1821663",
+                            "og:description": "President Joe Biden was said to have dozed off during a community event in Lahaina, Hawaii, based on a video shared online.",
+                            "article:publisher": "https://www.facebook.com/Newsweek",
+                            "twitter:image": "https://d.newsweek.com/en/full/2272932/joe-biden-lahaina.webp",
+                            "twitter:site": "@newsweek",
+                            "article:modified_time": "2023-08-23T00:04:10-04:00",
+                            "msapplication-tilecolor": "#ff0500",
+                            "og:type": "article",
+                            "og:image:alt": "Joe Biden in Lahaina",
+                            "article:section": "Fact Check",
+                            "twitter:title": "Fact Check: Did Joe Biden fall asleep during Maui fire event?",
+                            "og:title": "Fact Check: Did Joe Biden fall asleep during Maui fire event?",
+                            "og:image:height": "1667",
+                            "fb:pages": "18343191100",
+                            "article:tag": "Fact Check",
+                            "fb:app_id": "245537789135954",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "President Joe Biden was said to have dozed off during a community event in Lahaina, Hawaii, based on a video shared online.",
+                            "og:url": "https://www.newsweek.com/joe-biden-fall-asleep-maui-fire-event-fact-check-1821663"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d.newsweek.com/en/full/2272932/joe-biden-lahaina.jpg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-08-22T12:05:01-04:00",
+                            "claimReviewed": "Fact Check: Did Joe Biden fall asleep during",
+                            "url": "https://www.newsweek.com/joe-biden-fall-asleep-maui-fire-event-fact-check-1821663"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...Share\nCopy Link\n✓ Link copied to clipboard!\n*   \n*   \n*   \n*   \n*   \nFact Check: Did Joe Biden Fall Asleep During Maui Fire Event?\n=============================================================\n**Published** Aug 22, 2023 at 12:05 PM EDT **Updated** Aug 23, 2023 at 12:04 AM EDT\nCLOSE X\nBy \nShare\nCopy Link\n✓ Link copied to clipboard!\nPresident 's response to the wildfires in Maui, which have claimed the lives of at least 115 people, has been roundly criticized by conservatives who claim he has not behaved appropriately following the disaster.\nBiden had been attacked , and faced further scrutiny at a community event on Monday for making a joke that appeared to \nVideo from that same event this week, shared on social media, has since been used by conservative commentators to suggest Biden fell asleep as community leaders spoke.\n!\nPresident Joe Biden looks down as he listens to a speaker during a community engagement event in Lahaina, Hawaii, on August 21, 2023. Videos of the president at the event were shared by conservative commentators... President Joe Biden looks down as he listens to a speaker during a community engagement event in Lahaina, Hawaii, on August 21, 2023. Videos of the president at the event were shared by conservative commentators who claimed he had fallen asleep. More MANDEL NGAN/AFP via Getty Images\nThe Claim\nSeveral posts by conservative commentators on X, formerly , on August 22, 2023, suggested that Joe Biden fell asleep during an engagement event in Lahaina, Hawaii, which addressed the recent wildfires in Maui.\n by DC\\_Draino, since viewed more than 400,000 times, stated Biden \"just fell asleep during a ceremony in Hawaii honoring the hundreds of Americans killed by the fires.\"\nTrending Politics' Collin Rugg also sent , since viewed more than 560,000 times, which stated: \"Biden appears to briefly fall asleep during a ceremony in Maui honoring the hundreds of people who died.\"\n by Fox News host Sean Hannity, since viewed more than 102,000 times, stated: \"Biden appears to fall asleep during a ceremony in Hawaii honoring the hundreds of Americans killed by the fires.\"\nThe Facts\nThe comments based on the clip shared on X, taken from the community event in Lahaina, Hawaii, are inaccurate.\nThe clips, taken from a TV broadcast, are of particularly low quality, making it hard to tell whether the president's eyes are open or not. There is no way to tell from them whether he is...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "A shortened video distorts Hawaii governor's comments about the ...",
+                "htmlTitle": "A shortened <b>video</b> distorts Hawaii governor&#39;s comments about the ...",
+                "link": "https://www.poynter.org/fact-checking/2023/maui-city-smart-project-state-lands-josh-green/",
+                "displayLink": "www.poynter.org",
+                "snippet": "Aug 18, 2023 ... Josh Green said he was looking for ways for the state to buy land in Lahaina to preserve it for local residents. ... Some Maui residents displaced ...",
+                "htmlSnippet": "Aug 18, 2023 <b>...</b> Josh Green said he was looking for ways for the state to buy land in Lahaina to preserve it for local residents. ... Some <b>Maui</b> residents displaced&nbsp;...",
+                "formattedUrl": "https://www.poynter.org/fact-checking/2023/maui-city-smart-project-state-l...",
+                "htmlFormattedUrl": "https://www.poynter.org/<b>fact-check</b>ing/<b>2023</b>/<b>maui</b>-city-smart-project-state-l...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxiKjnqIF2K9PP-a5V3-qWxP_vVh3QvX_98uBPuNIEAK6Y7fTjFcp0jg8&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.poynter.org/wp-content/uploads/2023/08/AP23225047082427.jpg",
+                            "article:published_time": "2023-08-18T11:00:51+00:00",
+                            "og:image:width": "1080",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Poynter",
+                            "tec-api-origin": "https://www.poynter.org",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "et-api-origin": "https://www.poynter.org",
+                            "msapplication-tileimage": "https://www.poynter.org/wp-content/uploads/2020/06/favicon.png",
+                            "og:description": "Gov. Josh Green said he was looking for ways for the state to buy land in Lahaina to preserve it for local residents.",
+                            "twitter:creator": "@Poynter",
+                            "article:publisher": "https://www.facebook.com/Poynter",
+                            "twitter:data1": "Jeff Cercone",
+                            "twitter:data2": "4 minutes",
+                            "twitter:site": "@Poynter",
+                            "article:modified_time": "2023-08-18T15:02:38+00:00",
+                            "tec-api-version": "v1",
+                            "og:type": "article",
+                            "author": "Jeff Cercone",
+                            "og:title": "A shortened video distorts Hawaii governor’s comments about the state buying land in Lahaina - Poynter",
+                            "og:image:height": "608",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "et-api-version": "v1",
+                            "og:url": "https://www.poynter.org/fact-checking/2023/maui-city-smart-project-state-lands-josh-green/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.poynter.org/wp-content/uploads/2023/08/AP23225047082427.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "A shortened video distorts Hawaii governor’s comments about the state buying land in Lahaina - Poynter\n===============\n   A shortened video distorts Hawaii governor’s comments about the state buying land in Lahaina - Poynter\n===============\n*   \n*   \n*   \n*   \n | \n(javascript:void\\(0\\))\nJuly 27, 2024\n]\n  Newsletters]\n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   Locations\n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   \n    *   \n        *   \n        *   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n]\n(javascript:void\\(0\\))\n | \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   Locations\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nA shortened video distorts Hawaii governor’s comments about the state buying land in Lahaina\n============================================================================================\nGov. Josh Green said he was looking for ways for the state to buy land in Lahaina to preserve it for local residents.\n---------------------------------------------------------------------------------------------------------------------\n!\nHawaii Gov. Josh Green, left, and Maui County Mayor Richard Bissen, Jr., speak during a tour of wildfire damage on Saturday, Aug. 12, 2023, in Lahaina, Hawaii. (AP Photo/Rick Bowmer)\nBy: \nAugust 18, 2023\n(javascript:;)\nSome Maui residents displaced by wildfires said that  are approaching them to , leading to concerns among locals .\nHawaii Gov. Josh Green addressed those concerns in a recent interview, suggesting that the state could buy some land in the historic city of Lahaina to preserve it and protect it from outside developers.\nNow, some social media users are presenting a shortened clip of his comments to falsely claim his comments show a state plan to usher in smart cities.\nSticker text on an  read, “Governor (Josh) Green wants to turn Lahaina Maui into state lands. All planned for smart city.\nThe video played an Aug. 12 clip from local TV news station KHON showing Green talking to reporters in Lahaina.\n“I’m already thinking about ways for the state to acquire that land, so that we can put it into workforce housing,” he said in the clip. The Instagram video then cut to a man speaking in a  video.\n“Let me get this straight,” he said. “The houses burned down. Most of the trees are fine. The governor’s talking about how to acquire the land and...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Video of crowd insulting Biden during Maui visit is altered | Reuters",
+                "htmlTitle": "<b>Video</b> of crowd insulting Biden during <b>Maui visit</b> is altered | Reuters",
+                "link": "https://www.reuters.com/article/fact-check/video-of-crowd-insulting-biden-during-maui-visit-is-altered-idUSL1N3A61VD/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Aug 25, 2023 ... Biden visited Maui after devastating wildfires killed more than 114 people in August 2023 (here). ... Fact Check: Transgender woman misidentified ...",
+                "htmlSnippet": "Aug 25, 2023 <b>...</b> Biden <b>visited Maui</b> after devastating <b>wildfires</b> killed more than 114 people in <b>August 2023</b> (here). ... <b>Fact Check</b>: Transgender woman misidentified&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/.../fact-check/video-of-crowd-insulting-biden-duri...",
+                "htmlFormattedUrl": "https://www.reuters.com/.../<b>fact-check</b>/<b>video</b>-of-crowd-insulting-biden-duri...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoiAt7-6MmC1b3oHgzb0O0MCs0PXY6SC06u7XQ2L9hcWF8xrfSLTT6Wwzj&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/article/fact-check/video-of-crowd-insulting-biden-during-maui-visit-is-altered-idUSL1N3A61VD/?id=L1N3A61VD",
+                            "og:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204",
+                            "analytics:page_layout": "regular-article",
+                            "article:published_time": "2023-08-25T17:01:45.000Z",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Reuters",
+                            "ccbot": "nofollow",
+                            "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                            "analyticsattributes.topicchannel": "Fact Check",
+                            "title": "Video of crowd insulting Biden during Maui visit is altered | Reuters",
+                            "og:description": "(Editor’s note: Article contains profanity in paragraph two)",
+                            "twitter:creator": "@Reuters",
+                            "twitter:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204",
+                            "twitter:image:alt": "Reuters logo",
+                            "twitter:site": "@Reuters",
+                            "article:modified_time": "2023-08-25T17:01:45.000Z",
+                            "render_timestamp": "2024-07-24T17:10:59.184Z",
+                            "fb:admins": "988502044532272",
+                            "article:content_tier": "free",
+                            "og:type": "article",
+                            "article:section": "Fact Check",
+                            "og:image:alt": "Reuters logo",
+                            "twitter:title": "Video of crowd insulting Biden during Maui visit is altered",
+                            "ad:template": "article",
+                            "og:image:url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204",
+                            "dcsext.dartzone": "/4735792/reuters.com/fact-check/article",
+                            "og:title": "Video of crowd insulting Biden during Maui visit is altered",
+                            "dcsext.channellist": "Fact Check;",
+                            "og:image:height": "628",
+                            "og:article:published_time": "2023-08-25T17:01:45.000Z",
+                            "fb:pages": "114050161948682",
+                            "article:author": "Reuters Fact Check",
+                            "fb:app_id": "988502044532272",
+                            "og:locale:alternate": "en_US",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "(Editor’s note: Article contains profanity in paragraph two)",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/article/fact-check/video-of-crowd-insulting-biden-during-maui-visit-is-altered-idUSL1N3A61VD/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/article/fact-check/video-of-crowd-insulting-biden-during-maui-visit-is-altered-idUSL1N3A61VD/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.reuters.com/article/fact-check/video-of-crowd-insulting-biden-during-maui-visit-is-altered-idUSL1N3A61VD/",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Fact Check: Did Trump visit Maui after wildfires? Viral video debunked",
+                "htmlTitle": "<b>Fact Check</b>: Did <b>Trump visit Maui</b> after <b>wildfires</b>? Viral <b>video</b> debunked",
+                "link": "https://www.sportskeeda.com/pop-culture/fact-check-did-trump-visit-maui-wildfires-viral-video-debunked",
+                "displayLink": "www.sportskeeda.com",
+                "snippet": "Aug 18, 2023 ... Hence, the claims that Trump visited the Maui wildfire are false, as the video is old and is being circulated with a fake title. On August 17, ...",
+                "htmlSnippet": "Aug 18, 2023 <b>...</b> Hence, the claims that <b>Trump visited</b> the <b>Maui wildfire</b> are false, as the <b>video</b> is old and is being circulated with a fake title. On <b>August</b> 17,&nbsp;...",
+                "formattedUrl": "https://www.sportskeeda.com/.../fact-check-did-trump-visit-maui-wildfires-...",
+                "htmlFormattedUrl": "https://www.sportskeeda.com/.../<b>fact-check</b>-did-<b>trump</b>-<b>visit</b>-<b>maui</b>-<b>wildfires</b>-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUOmawhQv1oCEjnZBrCRV_Q9XKSE0VKSRxQdArjwG9pIieCiyWTRyRvak&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://staticg.sportskeeda.com/editor/2023/08/ce3aa-16923499892422-1920.jpg",
+                            "theme-color": "#FFFFFF",
+                            "og:type": "article",
+                            "twitter:title": "Fact Check: Did Trump visit Maui after wildfires? Viral video debunked",
+                            "article:published_time": "2023-08-18T10:08:43+00:00",
+                            "author": "Srishti Marwah",
+                            "og:title": "Fact Check: Did Trump visit Maui after wildfires? Viral video debunked",
+                            "google": "notranslate",
+                            "fb:pages": "116151972998",
+                            "og:description": "If you are active on social media, you might have come across a video claiming that former President Trump visited Maui, Hawaii, after the wildfires caused massive destruction in the area.",
+                            "twitter:image": "https://staticg.sportskeeda.com/editor/2023/08/ce3aa-16923499892422-1920.jpg",
+                            "fb:app_id": "394687130715834",
+                            "article:modified_time": "2023-08-18T10:08:43+00:00",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes",
+                            "twitter:description": "If you are active on social media, you might have come across a video claiming that former President Trump visited Maui, Hawaii, after the wildfires caused massive destruction in the area.",
+                            "fb:admins": "603431824",
+                            "og:url": "https://www.sportskeeda.com/pop-culture/fact-check-did-trump-visit-maui-wildfires-viral-video-debunked"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://staticg.sportskeeda.com/editor/2023/08/ce3aa-16923499892422-1920.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... active on social media, you might have come across a video claiming that former President Trump visited Maui, Hawaii, after the wildfires caused massive destruction in the area. In the 1-minute video, the former President can be seen entering a building and addressing the public, as he says:\n> “These are incredible people. We met some of the survivors and family members and what they’ve been through is incredible. One woman lost 10 people in her family, an incredible woman. I said, 'How did it go?' She said, 'I lost 10, 10 people.”\n!\nThe video was titled:\n> “A real President truly cares. Trump 2024.”\nIn the video, Melania Trump can be seen accompanying the former president, along with a FEMA truck in the background. While the claims have been misguiding a lot of people, upon searching social media, similar videos existed that dated back to March 11, 2019, when the former President visited Beauregard, Alabama, after a tornado killed more than 15 people.\nHence, the claims that  visited the Maui wildfire are false, as the video is old and is being circulated with a fake title. On August 17, 2023, a video was shared , and within a short period of time, it received more than 2300 views.\nExpand Tweet\n* * *\nDonald Trump did not visit Maui after wildfires\n-----------------------------------------------\nWhile the news of Trump visiting  has been circulating with an old video, the truth is that the video was taken in 2019, when Trump visited Alabama after it was hit by a tornado. On the other hand, the former President did speak up on the matter and acknowledged the situation, as he took a dig at the current President, , and said:\n> “I would like to express my sympathy and warmest regards to the people of Hawaii, and specifically all of those who have been so gravely and irreparably hurt by the tragedy of the wildfires in Maui, something the likes of which have seldom been seen anywhere at any time.”\n!\nHe then talked about how the government was \"not prepared\" to deal with the crisis and the wildfires. He also stated that Biden’s government dealt with the aftermath \"very poorly.\" He also talked about Hawaii Gov. Josh Green and stated that the \"governor did nothing and just blamed global warming.\"\nThe Maui fires that started on August 8, 2023, have claimed the lives of more than 100 people. The government has stated that the wildfires began due to global warming and excessive heat from the dry leaves...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "CNN Site Map (Articles) for August - 2023",
+                "htmlTitle": "CNN Site Map (Articles) for <b>August</b> - <b>2023</b>",
+                "link": "https://www.cnn.com/article/sitemap-2023-8.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "2023-08-22Fact check: Trump makes new false claim to support old false claim ... 2023-08-16Bidens to visit Hawaii on Monday following Maui wildfires ...",
+                "htmlSnippet": "<b>2023</b>-08-22<b>Fact check</b>: <b>Trump</b> makes new false claim to support old false claim ... <b>2023</b>-08-16Bidens to <b>visit</b> Hawaii on Monday following <b>Maui wildfires</b>&nbsp;...",
+                "formattedUrl": "https://www.cnn.com/article/sitemap-2023-8.html",
+                "htmlFormattedUrl": "https://www.cnn.com/article/sitemap-<b>2023</b>-8.html",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "twitter:card": "summary_large_image",
+                            "fb:app_id": "80401312489",
+                            "og:site_name": "CNN",
+                            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+                            "fb:pages": "5550296508,18793419640"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "DateTitle\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-06\n*   2023-08-06\n*   2023-08-06\n*   2023-08-06\n*   2023-08-06\n*   2023-08-06\n*   2023-08-06\n*   2023-08-06\n*   2023-08-06\n*   2023-08-06\n*   2023-08-06\n*   2023-08-06\n*   2023-08-06\n*   2023-08-06\n*   2023-08-06\n*   2023-08-06\n*   2023-08-06\n*   2023-08-06\n*   2023-08-06\n*   2023-08-06\n*   2023-08-06\n*   2023-...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Biden did not doze off listening to Hawaii wildfire victims | Fact Check",
+                "htmlTitle": "Biden did not doze off listening to Hawaii <b>wildfire</b> victims | <b>Fact Check</b>",
+                "link": "https://factcheck.afp.com/doc.afp.com.33T39HU",
+                "displayLink": "factcheck.afp.com",
+                "snippet": "Aug 22, 2023 ... Critics of Joe Biden are claiming he fell asleep during an August 2023 event with survivors of the deadly wildfires that scorched the US ...",
+                "htmlSnippet": "Aug 22, 2023 <b>...</b> Critics of Joe Biden are claiming he fell asleep during an <b>August 2023</b> event with survivors of the deadly <b>wildfires</b> that scorched the US&nbsp;...",
+                "formattedUrl": "https://factcheck.afp.com/doc.afp.com.33T39HU",
+                "htmlFormattedUrl": "https://<b>factcheck</b>.afp.com/doc.afp.com.33T39HU",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IlHPtcFcJ_qohhFecKM2XVSQBZmWzsbjOWM7DDjqeb-185HvlO9kqnPT&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://factcheck.afp.com/sites/default/files/medias/factchecking/g2/2023-08//bad90223799b8225fecc611b3f4c914b.jpeg",
+                            "og:type": "Article",
+                            "og:site_name": "Fact Check",
+                            "handheldfriendly": "true",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:title": "Biden did not doze off listening to Hawaii wildfire victims",
+                            "mobileoptimized": "width",
+                            "og:url": "https://factcheck.afp.com/doc.afp.com.33T39HU",
+                            "og:updated_time": "2024-04-17T18:44:09+02:00",
+                            "og:description": "Critics of Joe Biden are claiming he fell asleep during an August 2023 event with survivors of the deadly wildfires that scorched the US state of Hawaii. This is false; the video shared online is abbreviated and low-resolution -- higher-quality footage shows the president was awake."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://factcheck.afp.com/sites/default/files/medias/factchecking/g2/2023-08//bad90223799b8225fecc611b3f4c914b.jpeg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-08-22T22:42:00",
+                            "claimReviewed": "Joe Biden fell asleep during an event with",
+                            "name": "Biden did not doze off listening to Hawaii",
+                            "url": "https://factcheck.afp.com/doc.afp.com.33T39HU"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "]\n**Copyright © AFP 2017-2024.** Any commercial use of this content requires a subscription. Click  to find out more.\nCritics of Joe Biden are claiming he fell asleep during an August 2023 event with survivors of the deadly wildfires that scorched the US state of Hawaii. This is false; the video shared online is abbreviated and low-resolution -- higher-quality footage shows the president was awake.\n\"Joe Biden just fell asleep in the middle of his meeting with victims of the Maui fires,\" says an  from Matt Wallace, a far-right social media personality who has  shared misinformation about the  on the island of Maui.\nScreenshot from Twitter, which is being rebranded as \"X,\" taken August 22, 2023\n posts  across , which is being rebranded as \"X,\" as well as ,  and .  and  such as Fox News host , US  and , Donald Trump's former acting director of national intelligence,  the claims.\nBiden  to Hawaii on August 21 to tour the scene of the worst wildfires the United States has seen in more than a century. The visit came nearly two weeks after the blazes leveled the historic town of Lahaina, killing at least 114 people.\nDespite the  on , Biden did not nod off while  more than 100 survivors and their family members at the Lahaina Civic Center.\n cite low-resolution,  --  as short as 12 seconds -- taken from Hawaii News Now's  (archived ). ...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Fact Check: FEMA official was in Hawaii to attend conference ahead ...",
+                "htmlTitle": "<b>Fact Check</b>: FEMA official was in Hawaii to attend conference ahead ...",
+                "link": "https://www.reuters.com/fact-check/fema-official-was-hawaii-attend-conference-ahead-august-wildfires-2023-09-13/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Sep 13, 2023 ... A Federal Emergency Management Agency (FEMA) administrator mentioned by Joe Biden in a video was in Hawaii ahead of deadly wildfires on Aug.",
+                "htmlSnippet": "Sep 13, 2023 <b>...</b> A Federal Emergency Management Agency (FEMA) administrator mentioned by Joe Biden in a <b>video</b> was in Hawaii ahead of deadly <b>wildfires</b> on <b>Aug</b>.",
+                "formattedUrl": "https://www.reuters.com/fact-check/fema-official-was-hawaii-attend-confer...",
+                "htmlFormattedUrl": "https://www.reuters.com/<b>fact-check</b>/fema-official-was-hawaii-attend-confer...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfe5_InjL6qCje_2NqPbpVzsoPLcCIbDgdOkbnBcicJ0iMs3Ca2n0o4t8&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/fact-check/fema-official-was-hawaii-attend-conference-ahead-august-wildfires-2023-09-13/?id=OGQQVWNOMRJ3VOI742PBKLHDUM",
+                            "og:image": "https://www.reuters.com/resizer/v2/JUPGQHR5KNB7VG2BPAVVMJE5K4.jpg?auth=0bd5367d98dca0ccac19e50df7b000e20d2d8e289e0be357d974ffc070e9d3a3&height=1005&width=1920&quality=80&smart=true",
+                            "article:published_time": "2023-09-13T13:47:45.971Z",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Reuters",
+                            "ccbot": "nofollow",
+                            "analyticsattributes.topicchannel": "Fact Check",
+                            "title": "Fact Check: FEMA official was in Hawaii to attend conference ahead of August wildfires | Reuters",
+                            "og:description": "A Federal Emergency Management Agency (FEMA) administrator mentioned by Joe Biden in a video was in Hawaii ahead of deadly wildfires on Aug. 8 to attend an annual agency conference, a FEMA official told Reuters. Social media posts have suggested his presence indicates the disaster was planned.",
+                            "twitter:creator": "@Reuters",
+                            "twitter:image": "https://www.reuters.com/resizer/v2/JUPGQHR5KNB7VG2BPAVVMJE5K4.jpg?auth=0bd5367d98dca0ccac19e50df7b000e20d2d8e289e0be357d974ffc070e9d3a3&height=1005&width=1920&quality=80&smart=true",
+                            "twitter:image:alt": "Reuters Fact Check logo",
+                            "twitter:site": "@Reuters",
+                            "article:modified_time": "2023-09-13T16:34:34.575Z",
+                            "render_timestamp": "2024-07-23T22:53:36.609Z",
+                            "fb:admins": "988502044532272",
+                            "article:content_tier": "free",
+                            "og:type": "article",
+                            "article:section": "Fact Check",
+                            "og:image:alt": "Reuters Fact Check logo",
+                            "twitter:title": "Fact Check: FEMA official was in Hawaii to attend conference ahead of August wildfires",
+                            "ad:template": "article",
+                            "og:image:url": "https://www.reuters.com/resizer/v2/JUPGQHR5KNB7VG2BPAVVMJE5K4.jpg?auth=0bd5367d98dca0ccac19e50df7b000e20d2d8e289e0be357d974ffc070e9d3a3&height=1005&width=1920&quality=80&smart=true",
+                            "dcsext.dartzone": "/4735792/reuters.com/fact-check/article",
+                            "og:title": "Fact Check: FEMA official was in Hawaii to attend conference ahead of August wildfires",
+                            "dcsext.channellist": "Fact Check;",
+                            "og:image:height": "628",
+                            "og:article:published_time": "2023-09-13T13:47:45.971Z",
+                            "fb:pages": "114050161948682",
+                            "article:author": "Reuters Fact Check",
+                            "fb:app_id": "988502044532272",
+                            "og:locale:alternate": "en_US",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "A Federal Emergency Management Agency (FEMA) administrator mentioned by Joe Biden in a video was in Hawaii ahead of deadly wildfires on Aug. 8 to attend an annual agency conference, a FEMA official told Reuters. Social media posts have suggested his presence indicates the disaster was planned.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/fact-check/fema-official-was-hawaii-attend-conference-ahead-august-wildfires-2023-09-13/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/resizer/v2/JUPGQHR5KNB7VG2BPAVVMJE5K4.jpg?auth=0bd5367d98dca0ccac19e50df7b000e20d2d8e289e0be357d974ffc070e9d3a3&height=1005&width=1920&quality=80&smart=true"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/fact-check/fema-official-was-hawaii-attend-conference-ahead-august-wildfires-2023-09-13/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.reuters.com/fact-check/fema-official-was-hawaii-attend-conference-ahead-august-wildfires-2023-09-13/",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Expletive-strewn anti-Biden chant added to Hawaii footage | Fact ...",
+                "htmlTitle": "Expletive-strewn anti-Biden chant added to Hawaii footage | <b>Fact</b> ...",
+                "link": "https://factcheck.afp.com/doc.afp.com.33RU3F9",
+                "displayLink": "factcheck.afp.com",
+                "snippet": "Aug 21, 2023 ... A video circulating online appears to show Maui residents chanting a highly offensive slogan at Joe Biden as he toured wildfire-hit Hawaii.",
+                "htmlSnippet": "Aug 21, 2023 <b>...</b> A <b>video</b> circulating online appears to show <b>Maui</b> residents chanting a highly offensive slogan at Joe Biden as he toured <b>wildfire</b>-hit Hawaii.",
+                "formattedUrl": "https://factcheck.afp.com/doc.afp.com.33RU3F9",
+                "htmlFormattedUrl": "https://<b>factcheck</b>.afp.com/doc.afp.com.33RU3F9",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRf1QBikU3HrUZRDx9uy5yPCclOifN1Rzu_U7MwUXxUqj_y_reJaRZfZht&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://factcheck.afp.com/sites/default/files/medias/factchecking/g2/2023-08//010ef310b43d079770ddeceabe2edf2d.jpeg",
+                            "og:type": "Article",
+                            "og:site_name": "Fact Check",
+                            "handheldfriendly": "true",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:title": "Expletive-strewn anti-Biden chant added to Hawaii footage",
+                            "mobileoptimized": "width",
+                            "og:url": "https://factcheck.afp.com/doc.afp.com.33RU3F9",
+                            "og:updated_time": "2024-04-17T18:44:09+02:00",
+                            "og:description": "A video circulating online appears to show Maui residents chanting a highly offensive slogan at Joe Biden as he toured wildfire-hit Hawaii. But the clip's audio has been manipulated; the original footage of the US president walking past decimated cars features no expletive-laden chant."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://factcheck.afp.com/sites/default/files/medias/factchecking/g2/2023-08//010ef310b43d079770ddeceabe2edf2d.jpeg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-08-23T22:42:00",
+                            "claimReviewed": "Video shows Maui residents chanting \"Fuck Joe Biden\"",
+                            "name": "Expletive-strewn anti-Biden chant added to",
+                            "url": "https://factcheck.afp.com/doc.afp.com.33RU3F9"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "]\nUS President Joe Biden and US First Lady Jill Biden participate in a blessing ceremony with the Lahaina elders at Moku'ula following wildfires in Lahaina, Hawaii on August 21, 2023. ( AFP / Mandel NGAN)\n**Copyright © AFP 2017-2024.** Any commercial use of this content requires a subscription. Click  to find out more.\nA video circulating online appears to show Maui residents chanting a highly offensive slogan at Joe Biden as he toured wildfire-hit Hawaii. But the clip's audio has been manipulated; the original footage of the US president walking past decimated cars features no expletive-laden chant.\n\"Sleepy Joe landed in #Hawaii. The entire population there are shouting - 'Fk Joe Biden.' #MauiFires,\" says an  sharing the video on Twitter, which has rebranded as \"X.\"\nScreenshot from Twitter, which is rebranding as \"X,\" taken August 23, 2023\nSimilar  spread in  across  and other , including ,  and , after Biden  to Hawaii on August 21 to tour the deadliest wildfires the United States has seen in more than a century.\nThe Democrat's visit came nearly two weeks after the historic town of Lahaina was leveled, killing at least 114 people.\nBut the clip has been altered to add the insulting chant. It appears to have  with  a popular pro-Donald Trump  that has  shared  targeting Biden with .\nThe footage is lifted from C-SPAN, which posted an  to X of Biden walking alongside First Lady Jill Biden, Hawaii Governor Josh Green and Hawaii First Lady Jaime Green (archived ).\nThe C-SPAN video shows...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

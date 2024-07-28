@@ -1,0 +1,1019 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Did President Trump visit Maui after the August 2023 wildfires?",
+                "totalResults": "601000",
+                "searchTerms": "Did President Trump visit Maui after the August 2023 wildfires?",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Did President Trump visit Maui after the August 2023 wildfires?",
+                "totalResults": "601000",
+                "searchTerms": "Did President Trump visit Maui after the August 2023 wildfires?",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.375871,
+        "formattedSearchTime": "0.38",
+        "totalResults": "601000",
+        "formattedTotalResults": "601,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Biden says he plans to visit Maui soon as he mourns devastation ...",
+                "htmlTitle": "Biden says he plans to <b>visit Maui</b> soon as he mourns devastation ...",
+                "link": "https://www.cnn.com/2023/08/15/politics/white-house-biden-hawaii-wildfires/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Aug 16, 2023 ... President Joe Biden on Tuesday said he will travel to Maui soon to visit the devastation left behind by wildfires that ravaged the Hawaiian ...",
+                "htmlSnippet": "Aug 16, 2023 <b>...</b> <b>President</b> Joe Biden on Tuesday said he will <b>travel</b> to <b>Maui</b> soon to <b>visit</b> the devastation left behind by <b>wildfires</b> that ravaged the Hawaiian&nbsp;...",
+                "formattedUrl": "https://www.cnn.com/2023/08/15/politics/white...wildfires/index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/<b>2023</b>/08/15/politics/white...<b>wildfires</b>/index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwUGf-nWf7dttxRyMD1X_1xhsqsVjI1gvvshDiPcGzX2XGFC73ytGTEaU&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/230815142716-01-joe-biden-wisconsin-081523.jpg?c=16x9&q=w_800,c_fill",
+                            "twitter:title": "Biden says he plans to visit Maui soon as he mourns devastation from wildfires | CNN Politics",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-08-15T12:48:12Z",
+                            "og:site_name": "CNN",
+                            "author": "Betsy Klein,Kevin Liptak",
+                            "og:title": "Biden says he plans to visit Maui soon as he mourns devastation from wildfires | CNN Politics",
+                            "meta-section": "politics",
+                            "type": "article",
+                            "og:description": "President Joe Biden on Tuesday said he will travel to Maui soon to visit the devastation left behind by wildfires that ravaged the Hawaiian island last week, leaving scores dead and untold damage.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/230815142716-01-joe-biden-wisconsin-081523.jpg?c=16x9&q=w_800,c_fill",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "article:tag": "2023 maui wildfires, accidents, disasters and safety, brand safety-nsf accidents and disasters, brand safety-nsf sensitive, continents and regions, domestic alerts, domestic-us politics, fires, government and public administration, government bodies and offices, hawaii, iab-disasters, iab-politics, international alerts, international-us politics, joe biden, maui, natural disasters, north america, political figures - us, politics, the americas, united states, us federal government, white house, wildfires",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@cnnpolitics",
+                            "article:modified_time": "2023-08-16T12:43:36Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "President Joe Biden on Tuesday said he will travel to Maui soon to visit the devastation left behind by wildfires that ravaged the Hawaiian island last week, leaving scores dead and untold damage.",
+                            "template_type": "article_leaf",
+                            "theme": "politics",
+                            "og:url": "https://www.cnn.com/2023/08/15/politics/white-house-biden-hawaii-wildfires/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/230815142716-01-joe-biden-wisconsin-081523.jpg?c=16x9&q=w_800,c_fill"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\nPresident Joe Biden on Tuesday said he will travel to Maui soon to visit the devastation left behind by wildfires that ravaged the Hawaiian island last week, leaving scores dead and untold damage.\n    \n\n            In his first comments on the disaster since late last week, Biden said he wanted to ensure a possible presidential visit wouldn’t impede recovery efforts.\n    \n\n            “My wife Jill and I are going to travel to Hawaii as soon as we can, that’s what I’ve been talking to governor about,” he said. “I don’t want to get in the way – I’ve been to too many disaster areas, but I want to go and make sure we got everything they need. I want to be sure we don’t disrupt the ongoing recovery efforts.”\n    \n\n            The remarks were Biden’s first public comments about the unfolding disaster in Hawaii since last Thursday, when he similarly began a prescheduled speech addressing the devastation. The period of silence had not gone unnoticed by Biden’s critics, including former President Donald Trump and other Republicans.\n    \n\n            Biden’s aides have pointed to the president’s frequent phone calls with FEMA leadership, Hawaii’s congressional delegation and its governor as evidence of his sustained engagement. So far, Democrats have publicly supported Biden’s response. The president has been in regular contact with Hawaii Gov. Josh Green, who has publicly praised the administration’s response and the president’s “full support.” Sen. Mazie Hirono of Hawaii...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Video falsely claims Trump visited Maui amid wildfires| Fact check",
+                "htmlTitle": "Video falsely claims <b>Trump visited Maui</b> amid <b>wildfires</b>| Fact check",
+                "link": "https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/",
+                "displayLink": "www.usatoday.com",
+                "snippet": "Aug 18, 2023 ... A miscaptioned video claimed to show Donald Trump visiting Maui. In reality, it's a 2019 video of his visit to Alabama after a deadly ...",
+                "htmlSnippet": "Aug 18, 2023 <b>...</b> A miscaptioned video claimed to show <b>Donald Trump visiting Maui</b>. In reality, it&#39;s a 2019 video of his <b>visit</b> to Alabama <b>after</b> a deadly&nbsp;...",
+                "formattedUrl": "https://www.usatoday.com/.../2023/...trump-visited-maui...wildfires.../7061...",
+                "htmlFormattedUrl": "https://www.usatoday.com/.../<b>2023</b>/...<b>trump</b>-<b>visit</b>ed-<b>maui</b>...<b>wildfires</b>.../7061...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAV4TSFYdJeWKeHpDRgQYMpKWDCFl55zOVJTshOt5Kl90tz96s9Cw7diBO&s",
+                            "width": "299",
+                            "height": "169"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/17/USAT/70610409007-afp-afp-33-rc-8-u-4.jpg?crop=8255,4665,x0,y419&width=3200&height=1809&format=pjpg&auto=webp",
+                            "apple-itunes-app": "app-id=504631398,app-argument=https://app.adjust.com/ivqo5xe",
+                            "theme-color": "#0098FE",
+                            "og:image:width": "3200",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Video of Trump visiting a storm-destroyed area is from 2019, not Maui fires | Fact check",
+                            "og:site_name": "USA TODAY",
+                            "og:title": "Video of Trump visiting a storm-destroyed area is from 2019, not Maui fires | Fact check",
+                            "og:image:height": "1809",
+                            "google": "notranslate",
+                            "og:description": "A miscaptioned video claimed to show Donald Trump visiting Maui. In reality, it's a 2019 video of his visit to Alabama after a deadly tornado.",
+                            "fb:pages": "13652355666,48958576760,156345381090801,110471702456365,6566864515,137698179626815,315942225236045,927427260614748,183850168300771,1443524575938047,251228454889939,158095147555989,115535341805950,236655713446291,1621466394844549,250325640686,177037772444433,1972936962947967,2047091012096533,535551216797440",
+                            "twitter:creator": "@usatoday",
+                            "article:author": "Gabrielle Settles",
+                            "twitter:image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/17/USAT/70610409007-afp-afp-33-rc-8-u-4.jpg?crop=8255,4665,x0,y419&width=1600&height=800&format=pjpg&auto=webp",
+                            "fb:app_id": "215046668549694",
+                            "twitter:site": "@usatoday",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1",
+                            "twitter:description": "A miscaptioned video claimed to show Donald Trump visiting Maui. In reality, it's a 2019 video of his visit to Alabama after a deadly tornado.",
+                            "article:content_tier": "free",
+                            "og:url": "https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/17/USAT/70610409007-afp-afp-33-rc-8-u-4.jpg?crop=8255,4665,x0,y419&width=3200&height=1809&format=pjpg&auto=webp"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-08-18T14:10:19Z",
+                            "claimReviewed": "Video shows Trump visiting Maui after wildfires",
+                            "url": "https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... video that features former President Donald Trump and former first lady Melania Trump walking past a FEMA truck in a disaster-struck area and talking with people in a building filled with supplies and clothes.\n“THE PEOPLE'S PRESIDENT,” reads text on the screen. “Thank you Mr. Trump for checking on the people of Maui!”\nThe Facebook video was shared over 900 times in one day, while the original TikTok video has been shared more than 7,000 times.\n**Follow us on Facebook!** \nOur rating: False\n-----------------\nThe video is years old and shows the former president's 2019 visit to Alabama after a tornado damaged part of the state. Trump has not visited the Hawaiian island of Maui following the devastating wildfires there that killed more than 100 in early August.\nVideo shows Trump visiting Alabama in 2019\n------------------------------------------\nAt least  have died in wildfires that consumed parts of Maui, the second-largest of the Hawaiian islands, since . But there is no evidence the former president has visited the island.\nThe video shared on Facebook shows then-president Trump delivering remarks to a group of people at Providence Baptist Church in Opelika, Alabama, on March 8, 2019, after the area was struck by a tornado that caused serious damage and left  injured. The church was serving as a disaster relief center for those affected.\nThe White House shared footage of the visit on  the same day. His full comments can be found in the White House’s .\n**Fact check**: \nThere are no credible reports that Trump has gone to visit Maui amid the island’s wildfires. However, the former president did  about the crisis.\nUSA TODAY reached out to the user who shared the post for comment but did not immediately receive a response.\nOur fact-check sources:\n-----------------------\n*   WFSA 12 News, March 3, 2022, \n*   Trump White House, March 8, 2019,  (YouTube)\n*   Trump White House, March 8, 2019, \n*   Trump Campaign, Aug. 14, \n_Thank you for supporting our journalism. You can ._\n_Our fact-check work is supported in part by a grant from Facebook._\n]\nFeatured Weekly Ad\n© 2024 USA TODAY, a division of Gannett Satellite Information Network, LLC.",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Biden returns from Maui after viewing Lahaina wildfire devastation ...",
+                "htmlTitle": "Biden returns from <b>Maui after</b> viewing Lahaina <b>wildfire</b> devastation ...",
+                "link": "https://www.cbsnews.com/news/maui-wildfires-lahaina-biden-visit-criticism-white-house-response/",
+                "displayLink": "www.cbsnews.com",
+                "snippet": "Aug 22, 2023 ... ... August 22, 2023 / 3:57 AM EDT / CBS/AFP. President Biden visited Hawaii Monday to view the widespread damage from the recent Maui wildfires ...",
+                "htmlSnippet": "Aug 22, 2023 <b>...</b> ... <b>August</b> 22, <b>2023</b> / 3:57 AM EDT / CBS/AFP. <b>President</b> Biden <b>visited</b> Hawaii Monday to view the widespread damage from the recent <b>Maui wildfires</b>&nbsp;...",
+                "formattedUrl": "https://www.cbsnews.com/.../maui-wildfires-lahaina-biden-visit-criticism-w...",
+                "htmlFormattedUrl": "https://www.cbsnews.com/.../<b>maui</b>-<b>wildfires</b>-lahaina-biden-<b>visit</b>-criticism-w...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrG6OGRlxqkqkRFvE3G_lGYYFIhb5y0IjL2-gst2wG_2QZF1gBhUrjH5E&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/21/44083ef5-ecd2-4362-8611-425c1ee84def/thumbnail/1200x630/45a6de99ddfb719de0e620d45c797371/2023-08-21t224522z-1898466077-rc2js2ao5jki-rtrmadp-3-hawaii-wildfires.jpg?v=bc37a4cad39dacb7e4b48f11b71f691b",
+                            "twitter:app:url:iphone": "cbsnewsapp://cbsnews.com/news/maui-wildfires-lahaina-biden-visit-criticism-white-house-response/",
+                            "twitter:app:id:googleplay": "com.treemolabs.apps.cbsnews",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#101010",
+                            "twitter:app:url:ipad": "cbsnewsapp://cbsnews.com/news/maui-wildfires-lahaina-biden-visit-criticism-white-house-response/",
+                            "apple-mobile-web-app-title": "CBS News",
+                            "al:android:package": "com.treemolabs.apps.cbsnews",
+                            "twitter:app:name:googleplay": "CBS News",
+                            "al:ios:url": "cbsnewsapp://cbsnews.com/news/maui-wildfires-lahaina-biden-visit-criticism-white-house-response/",
+                            "twitter:app:id:iphone": "334256223",
+                            "og:description": "The president and first lady saw the destruction close up and met with responders in Lahaina amid criticism of the White House response to the catastrophic blaze.",
+                            "al:ios:app_store_id": "334256223",
+                            "article:publisher": "https://www.facebook.com/CBSNews/",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/21/44083ef5-ecd2-4362-8611-425c1ee84def/thumbnail/1200x630/45a6de99ddfb719de0e620d45c797371/2023-08-21t224522z-1898466077-rc2js2ao5jki-rtrmadp-3-hawaii-wildfires.jpg?v=bc37a4cad39dacb7e4b48f11b71f691b",
+                            "twitter:site": "@CBSNews",
+                            "news_keywords": "Hawaii Wildfires",
+                            "twitter:app:country": "US",
+                            "article:content_tier": "free",
+                            "og:type": "article",
+                            "twitter:title": "Biden returns from Maui after viewing Lahaina wildfire devastation",
+                            "al:ios:app_name": "CBS News",
+                            "og:title": "Biden returns from Maui after viewing Lahaina wildfire devastation",
+                            "og:image:height": "630",
+                            "twitter:app:id:ipad": "334256223",
+                            "color-scheme": "only light",
+                            "al:web:url": "https://www.cbsnews.com/news/maui-wildfires-lahaina-biden-visit-criticism-white-house-response/",
+                            "fb:pages": "131459315949",
+                            "al:android:url": "cbsnewsapp://cbsnews.com/news/maui-wildfires-lahaina-biden-visit-criticism-white-house-response/",
+                            "fb:app_id": "1536620209892267",
+                            "twitter:app:url:googleplay": "cbsnewsapp://cbsnews.com/news/maui-wildfires-lahaina-biden-visit-criticism-white-house-response/",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:app:name:ipad": "CBS News",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0",
+                            "twitter:description": "The president and first lady saw the destruction close up and met with responders in Lahaina amid criticism of the White House response to the catastrophic blaze.",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:url": "https://www.cbsnews.com/news/maui-wildfires-lahaina-biden-visit-criticism-white-house-response/",
+                            "al:android:app_name": "CBS News",
+                            "twitter:app:name:iphone": "CBS News",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/21/44083ef5-ecd2-4362-8611-425c1ee84def/thumbnail/1200x630/45a6de99ddfb719de0e620d45c797371/2023-08-21t224522z-1898466077-rc2js2ao5jki-rtrmadp-3-hawaii-wildfires.jpg?v=bc37a4cad39dacb7e4b48f11b71f691b"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Updated on: August 22, 2023 / 3:57 AM EDT / CBS/AFP\nPresident Biden visited Hawaii Monday to view the widespread damage from the recent , meet with survivors and officials -- and fend off criticism that his administration responded to the disaster too slowly.\nThe president and first lady Jill Biden arrived nearly two weeks after ferocious, wind-whipped blazes claimed at least 115 lives — and likely many more. They returned to the U.S. mainland later in the day, arriving in Reno, Nevada overnight en route to Lake Tahoe, where the Bidens are scheduled to vacation for several days.\nMr. Biden began his visit to Maui with an aerial tour, a common way for presidents to view the magnitude of disaster zones without hampering the response on the ground. From above, Mr. Biden had a clear view of the devastation wrought on the community of Lahaina. Hawaii's governor says many of the victims of Lahaina .\n\"To the people of Hawaii, we're with you for as long as it takes, I promise you,\" the president said in brief remarks from Lahaina Monday. \"May God bless all those we've lost, may God find those who we haven't determined yet, and may God bless you all.\"\nOn the ground in Lahaina, the president surveyed the damage, and heard firsthand from first responders and local leaders. He also met with community elders out of the earshot of reporters. In brief remarks, Mr. Biden said the federal government will be...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Trump Finally Addresses Tragedy in Maui — to Attack Biden & Deny ...",
+                "htmlTitle": "<b>Trump</b> Finally Addresses Tragedy in <b>Maui</b> — to Attack Biden &amp; Deny ...",
+                "link": "https://truthout.org/articles/trump-finally-addresses-tragedy-in-maui-to-attack-biden-deny-climate-crisis/",
+                "displayLink": "truthout.org",
+                "snippet": "Aug 15, 2023 ... ... wildfire, in Lahaina, western Maui, Hawaii, on August 14, 2023. Yuki Iwamura / AFP via Getty Images. Support justice-driven, accurate and ...",
+                "htmlSnippet": "Aug 15, 2023 <b>...</b> ... <b>wildfire</b>, in Lahaina, western <b>Maui</b>, Hawaii, on <b>August 14, 2023</b>. Yuki Iwamura / AFP via Getty Images. Support justice-driven, accurate and&nbsp;...",
+                "formattedUrl": "https://truthout.org/.../trump-finally-addresses-tragedy-in-maui-to-attack-bi...",
+                "htmlFormattedUrl": "https://truthout.org/.../<b>trump</b>-finally-addresses-tragedy-in-<b>maui</b>-to-attack-bi...",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "url_text": "Chris Walker",
+                            "fn": "Chris Walker",
+                            "url": "https://truthout.org/authors/chris-walker/"
+                        },
+                        {
+                            "url_text": "Jessica Corbett",
+                            "fn": "Jessica Corbett",
+                            "url": "https://truthout.org/authors/jessica-corbett/"
+                        },
+                        {
+                            "url_text": "Jessica Kutz",
+                            "fn": "Jessica Kutz",
+                            "url": "https://truthout.org/authors/jessica-kutz/"
+                        },
+                        {
+                            "url_text": "Chris Walker",
+                            "fn": "Chris Walker",
+                            "url": "https://truthout.org/authors/chris-walker/"
+                        },
+                        {
+                            "url_text": "Chris Walker",
+                            "fn": "Chris Walker",
+                            "url": "https://truthout.org/authors/chris-walker/"
+                        },
+                        {
+                            "url_text": "Sharon Zhang",
+                            "fn": "Sharon Zhang",
+                            "url": "https://truthout.org/authors/sharon-zhang/"
+                        },
+                        {
+                            "url_text": "Chris Walker",
+                            "fn": "Chris Walker",
+                            "url": "https://truthout.org/authors/chris-walker/"
+                        },
+                        {
+                            "url_text": "Chris Walker",
+                            "fn": "Chris Walker",
+                            "url": "https://truthout.org/authors/chris-walker/"
+                        },
+                        {
+                            "url_text": "Jessica Corbett",
+                            "fn": "Jessica Corbett",
+                            "url": "https://truthout.org/authors/jessica-corbett/"
+                        },
+                        {
+                            "url_text": "Schuyler Mitchell",
+                            "fn": "Schuyler Mitchell",
+                            "url": "https://truthout.org/authors/schuyler-mitchell/"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbGXkDmG1nqEVvVQx08-AqiIdQcWIIzN22viLXLGeyIfSYsQKVdN-E3yCf&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "reportagenewsarticle": [
+                        {
+                            "\"headline\"": "Trump Finally Addresses Tragedy in Maui — to Attack Biden & Deny Climate Crisis",
+                            "datecreated": "2023-08-15T19:07:21+00:00",
+                            "datepublished": "2023-08-15T19:07:21+00:00"
+                        },
+                        {
+                            "description": "Amidst historic destruction, activists decry fossil fuels’ role in “apocalyptic” Hawaiian fires.",
+                            "datecreated": "2023-08-13T17:06:03+00:00",
+                            "headline": "Hawaii AG Investigates Wildfire Policies as Death Toll Reaches 80",
+                            "datepublished": "2023-08-13T17:06:03+00:00"
+                        },
+                        {
+                            "description": "Climate scientists say that wildfires have become deadlier in recent years due to the climate crisis.",
+                            "datecreated": "2023-08-10T17:38:20+00:00",
+                            "headline": "Maui Wildfires Have Killed 36 People So Far, Hawaiian Officials Say",
+                            "datepublished": "2023-08-10T17:38:20+00:00"
+                        },
+                        {
+                            "description": "Other images in the advertisement are deeply misleading, leaving out additional context that would also embarrass Trump.",
+                            "datecreated": "2023-05-03T17:15:16+00:00",
+                            "headline": "Trump Facebook Ad Attacks Biden Using Images That Occurred During Trump Era",
+                            "datepublished": "2023-05-03T17:15:16+00:00"
+                        },
+                        {
+                            "description": "Major Wall Street donors have mounted a push to oust the FTC chair over her crackdowns on corporate power.",
+                            "datecreated": "2024-07-26T18:44:53+00:00",
+                            "headline": "Sanders Rebukes Billionaire Effort to Get Harris to Dump Antitrust Champion Khan",
+                            "datepublished": "2024-07-26T18:44:53+00:00"
+                        },
+                        {
+                            "description": "Kagan suggested a panel of respected judges with “experience and a reputation for fairness” could enforce the rules.",
+                            "datecreated": "2024-07-26T18:05:01+00:00",
+                            "headline": "Elena Kagan: Supreme Court Should Have Enforcement Mechanism for Ethics Rules",
+                            "datepublished": "2024-07-26T18:05:01+00:00"
+                        },
+                        {
+                            "description": "Trump has yet to release an official health assessment to the public since the attempt on his life nearly two weeks ago.",
+                            "datecreated": "2024-07-25T20:08:36+00:00",
+                            "headline": "FBI Director Tells Congress Agency Is Unsure If Bullet Actually Hit Trump",
+                            "datepublished": "2024-07-25T20:08:36+00:00"
+                        },
+                        {
+                            "description": "Rep. Joe Morelle’s effort is backed by more than 40 House Democrats and has the support of multiple advocacy groups.",
+                            "datecreated": "2024-07-25T19:07:17+00:00",
+                            "headline": "House Democrat Proposes Amendment to Overturn SCOTUS Immunity Ruling",
+                            "datepublished": "2024-07-25T19:07:17+00:00"
+                        },
+                        {
+                            "description": "Some Republicans privately worry that Vance as the vice presidential nominee “doesn't add much” to Trump's chances.",
+                            "datecreated": "2024-07-25T15:49:05+00:00",
+                            "headline": "Polls Show Vance Is Deeply Unpopular — Could the RNC Remove Him From the Ticket?",
+                            "datepublished": "2024-07-25T15:49:05+00:00"
+                        },
+                        {
+                            "description": "Attendees will vote on model policies that target the environment, education, elections and fundamental human rights.",
+                            "datecreated": "2024-07-25T15:21:22+00:00",
+                            "headline": "ALEC’s Annual Meeting This Week Centers a Right-Wing Corporate Agenda",
+                            "datepublished": "2024-07-25T15:21:22+00:00"
+                        },
+                        {
+                            "description": "“Make no mistake: this event is a celebration of the ethnic cleansing of Palestinians,” Tlaib said.",
+                            "datecreated": "2024-07-24T18:31:51+00:00",
+                            "headline": "Tlaib: Netanyahu Should Be Sent to The Hague, Not Addressing Congress",
+                            "datepublished": "2024-07-24T18:31:51+00:00"
+                        },
+                        {
+                            "description": "The far right court handed a major win to corporate and right-wing interests in their “Chevron” ruling last month.",
+                            "datecreated": "2024-07-23T21:03:34+00:00",
+                            "headline": "Warren Introduces Bill Effectively Overturning Extremist SCOTUS “Chevron” Ruling",
+                            "datepublished": "2024-07-23T21:03:34+00:00"
+                        }
+                    ],
+                    "analysisnewsarticle": [
+                        {
+                            "description": "Democrats are frustrated with Netanyahu, and support for Israel’s war on Gaza is an increasingly partisan cause.",
+                            "datecreated": "2024-07-24T19:49:17+00:00",
+                            "headline": "Despite Protests, Netanyahu Solidifies Support From the Right During US Trip",
+                            "datepublished": "2024-07-24T19:49:17+00:00"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "caption": "Carcasses of cars are seen among the ashes of burnt neighborhood in the aftermath of a wildfire, in Lahaina, western Maui, Hawaii, on August 14, 2023.",
+                            "url": "https://truthout.org/app/uploads/2023/08/2023_0815-maui-1200x800.jpg"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "Chris Walker",
+                            "url": "Chris Walker"
+                        },
+                        {
+                            "name": "Yuki Iwamura / AFP via Getty Images"
+                        },
+                        {
+                            "name": "Jessica Corbett",
+                            "url": "Jessica Corbett"
+                        },
+                        {
+                            "name": "Chris Walker",
+                            "description": "Chris Walker is a news writer at Truthout, and is based out of Madison, Wisconsin. Focusing on both national and local topics since the early 2000s, he has produced thousands of articles analyzing...",
+                            "url": "Chris Walker"
+                        },
+                        {
+                            "name": "Jessica Kutz",
+                            "url": "Jessica Kutz"
+                        },
+                        {
+                            "name": "Chris Walker",
+                            "url": "Chris Walker"
+                        },
+                        {
+                            "name": "Chris Walker",
+                            "url": "Chris Walker"
+                        },
+                        {
+                            "name": "Sharon Zhang",
+                            "url": "Sharon Zhang"
+                        },
+                        {
+                            "name": "Chris Walker",
+                            "url": "Chris Walker"
+                        },
+                        {
+                            "name": "Chris Walker",
+                            "url": "Chris Walker"
+                        },
+                        {
+                            "name": "Jessica Corbett",
+                            "url": "Jessica Corbett"
+                        },
+                        {
+                            "name": "Schuyler Mitchell",
+                            "url": "Schuyler Mitchell"
+                        },
+                        {
+                            "name": "Chris Walker",
+                            "url": "Chris Walker"
+                        },
+                        {
+                            "name": "David Armiak",
+                            "url": "David Armiak"
+                        },
+                        {
+                            "name": "Mike Ludwig",
+                            "url": "Mike Ludwig"
+                        },
+                        {
+                            "name": "Sharon Zhang",
+                            "url": "Sharon Zhang"
+                        },
+                        {
+                            "name": "Sharon Zhang",
+                            "url": "Sharon Zhang"
+                        }
+                    ],
+                    "organization": [
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        },
+                        {
+                            "name": "CommonDreams",
+                            "url": "CommonDreams"
+                        },
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        },
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        },
+                        {
+                            "name": "The19th",
+                            "url": "The19th"
+                        },
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        },
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        },
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        },
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        },
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        },
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        },
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        },
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        },
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        },
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        },
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        },
+                        {
+                            "name": "CommonDreams",
+                            "url": "CommonDreams"
+                        },
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        },
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        },
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        },
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        },
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        },
+                        {
+                            "name": "CenterforMediaandDemocracy",
+                            "url": "CenterforMediaandDemocracy"
+                        },
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        },
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        },
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        },
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        },
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        },
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        },
+                        {
+                            "name": "Truthout",
+                            "url": "Truthout"
+                        }
+                    ],
+                    "opinionnewsarticle": [
+                        {
+                            "description": "We can, and should, demand more from our officials than cynical political maneuvering.",
+                            "datecreated": "2024-07-25T16:53:30+00:00",
+                            "headline": "Why Did AOC and Bernie Sanders Keep Backing Biden in His Campaign’s Last Days?",
+                            "datepublished": "2024-07-25T16:53:30+00:00"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://truthout.org/app/uploads/2023/08/2023_0815-maui-scaled.jpg",
+                            "msapplication-config": "https://truthout.org/webicons/browserconfig.xml",
+                            "theme-color": "#000000",
+                            "og:image:width": "2560",
+                            "article:published_time": "2023-08-15T19:07:21+00:00",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Truthout",
+                            "apple-mobile-web-app-title": "Truthout",
+                            "msapplication-tileimage": "https://truthout.org/app/uploads/2018/03/cropped-Truthout-T-logo-sq-1200x1200-e1521532408148-400x400.png",
+                            "og:description": "At least 99 individuals have perished as a result of the wildfires on the island of Maui.",
+                            "twitter:image": "https://truthout.org/app/uploads/2023/08/2023_0815-maui-scaled.jpg",
+                            "twitter:image:alt": "Carcasses of cars are seen among the ashes of burnt neighborhood in the aftermath of a wildfire, in Lahaina, western Maui, Hawaii, on August 14, 2023.",
+                            "article:modified_time": "2023-08-15T19:07:23+00:00",
+                            "application-name": "Truthout",
+                            "msapplication-tilecolor": "#c42b35",
+                            "og:type": "article",
+                            "og:image:alt": "Carcasses of cars are seen among the ashes of burnt neighborhood in the aftermath of a wildfire, in Lahaina, western Maui, Hawaii, on August 14, 2023.",
+                            "twitter:title": "Trump Finally Addresses Tragedy in Maui — to Attack Biden & Deny Climate Crisis",
+                            "msvalidate.01": "A8B609490531D97CB12F2800611EEAC3",
+                            "author": "Chris Walker",
+                            "og:title": "Trump Finally Addresses Tragedy in Maui — to Attack Biden & Deny Climate Crisis",
+                            "og:image:height": "1707",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "twitter:description": "At least 99 individuals have perished as a result of the wildfires on the island of Maui.",
+                            "og:locale": "en_US",
+                            "og:url": "https://truthout.org/articles/trump-finally-addresses-tragedy-in-maui-to-attack-biden-deny-climate-crisis/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://truthout.org/app/uploads/2023/08/2023_0815-maui-scaled.jpg"
+                        }
+                    ],
+                    "newsarticle": [
+                        {
+                            "description": "Pregnancy-related needs are often overlooked during disasters, leaving grassroots and mutual aid groups to step in.",
+                            "datecreated": "2023-08-11T17:14:55+00:00",
+                            "headline": "Group Mobilizes to Help Pregnant and Postpartum People During Maui Wildfires",
+                            "datepublished": "2023-08-11T17:14:55+00:00"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...*   \n*   \n*   \n#### Trending\n*   \n*   \n*   \n*   \n*   \n#### \nNew York\n##### \nFracking\n##### \nClimate Crisis\n##### \nLabor\n##### \n#### More\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n© 2024 Truthout\n|\nTrump Finally Addresses Tragedy in Maui — to Attack Biden & Deny Climate Crisis\n===============================================================================\nAt least 99 individuals have perished as a result of the wildfires on the island of Maui.\nBy\n ,\nPublished\nAugust 15, 2023\n!\nCarcasses of cars are seen among the ashes of burnt neighborhood in the aftermath of a wildfire, in Lahaina, western Maui, Hawaii, on August 14, 2023.\nYuki Iwamura / AFP via Getty Images\n_Honest, paywall-free news is rare. Please support our boldly independent journalism with_  _of any size._\nFormer President Donald Trump published a video message to the people of Hawaii on Monday, using the opportunity to make political digs at President Joe Biden and voicing skepticism over any suggestion that the climate crisis was partly responsible for the devastation.\n“I would like to express my sympathy and warmest regards to the people of Hawaii,” , “and specifically all of those who have been so gravely and irreparably hurt by the tragedy of the wildfires in Maui, something the likes of which have seldom been seen anywhere at any time.”\nTrump then shifted gears, saying the catastrophe “should never have happened,” that the government “was not prepared” to deal with the wildfires, and claiming the aftermath “is going very poorly.”\nDon’t miss a beat\n-----------------\nGet the latest news and thought-provoking analysis from _Truthout_.\n*   Email\\*\n*   \n*   \n*   \n*   \n*   \n*   \n*   Phone\n    This field is for validation purposes and should be left unchanged.\nTrump attacked Hawaii Gov. Josh Green (D), opining that he wanted “to do nothing but blame \\ on global warming and other things that just popped into his head.” Trump also said that Biden responded to reporters over the weekend by saying, “with a laugh and a smile” that he had “no comment” on the situation.\nThose reporters were trying to ask Biden questions as he was entering a vehicle. In truth, Biden responded to the crisis several days ago, both in words and in action.\n### Related Story\n]\n|\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------\nAmidst historic destruction, activists decry fossil fuels’ role in “apocalyptic”...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Maui wildfires: Joe Biden visits Hawaiian island after days of ...",
+                "htmlTitle": "<b>Maui wildfires</b>: Joe Biden <b>visits</b> Hawaiian island <b>after</b> days of ...",
+                "link": "https://news.sky.com/story/maui-wildfires-joe-biden-visits-hawaiian-island-after-days-of-criticism-12944874",
+                "displayLink": "news.sky.com",
+                "snippet": "Tuesday 22 August 2023 12:16, UK. President Joe Biden and first lady Jill Biden walk with Hawaii Gov. ... Biden also faced criticism from former president Donald Trump - the current frontrunner ...",
+                "htmlSnippet": "Tuesday 22 <b>August 2023</b> 12:16, UK. President Joe Biden and first lady Jill Biden walk with Hawaii Gov. ... Biden also faced criticism from former president <b>Donald Trump</b> - the current frontrunner&nbsp;...",
+                "formattedUrl": "https://news.sky.com/.../maui-wildfires-joe-biden-visits-hawaiian-island-afte...",
+                "htmlFormattedUrl": "https://news.sky.com/.../<b>maui</b>-<b>wildfires</b>-joe-biden-<b>visit</b>s-hawaiian-island-<b>afte</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuuPSKFVYlXocgjXIL63AyyN0qub7Sa66rjw9cMyfML7cwUCwlPnh2UiY&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "smartbanner:button-url-apple": "https://apps.apple.com/gb/app/sky-news-breaking-uk-world/id316391924",
+                            "smartbanner:price": "FREE",
+                            "apple-itunes-app": "app-id=316391924",
+                            "twitter:app:id:googleplay": "com.bskyb.skynews.android",
+                            "og:image": "https://e3.365dm.com/23/08/1600x900/skynews-joe-biden-hawaii-wildfire_6258625.jpg?20230822011921",
+                            "smartbanner:api": "true",
+                            "twitter:card": "summary_large_image",
+                            "smartbanner:price-suffix-google": "- In Google Play",
+                            "og:site_name": "Sky News",
+                            "smartbanner:hide-ttl": "604800000",
+                            "twitter:app:id:iphone": "316391924",
+                            "smartbanner:author": "Sky UK Limited",
+                            "og:description": "At least 114 people have been found dead since the wildfires struck the island of Maui 13 days ago, while around 850 people are still recorded as missing.",
+                            "twitter:image": "https://e3.365dm.com/23/08/768x432/skynews-joe-biden-hawaii-wildfire_6258625.jpg?20230822011921",
+                            "smartbanner:icon-apple": "https://e0.365dm.com/skynews/apple-touch-icon.png",
+                            "twitter:image:alt": "President Joe Biden and first lady Jill Biden walk with Hawaii Gov. Josh Green and his wife Jaime Green as they visit areas devastated by the Maui wildfires, Monday, Aug. 21, 2023, in Lahaina, Hawaii. (AP Photo/Evan Vucci)",
+                            "twitter:site": "@skynews",
+                            "twitter:app:country": "GB",
+                            "smartbanner:disable-positioning": "true",
+                            "twitter:title": "Maui wildfires: Joe Biden visits Hawaiian island after days of criticism",
+                            "og:type": "article",
+                            "smartbanner:include-user-agent-regex": "CriOS",
+                            "handheldfriendly": "True",
+                            "smartbanner:button": "VIEW",
+                            "smartbanner:button-url-google": "https://play.google.com/store/apps/details?id=com.bskyb.skynews.android",
+                            "smartbanner:price-suffix-apple": "- On the App Store",
+                            "og:title": "Maui wildfires: Joe Biden visits Hawaiian island after days of criticism",
+                            "twitter:app:id:ipad": "316391924",
+                            "smartbanner:enabled-platforms": "android",
+                            "smartbanner:title": "Sky News: Breaking, UK & World",
+                            "smartbanner:icon-google": "https://e0.365dm.com/skynews/apple-touch-icon.png",
+                            "smartbanner:close-label": "Close",
+                            "fb:app_id": "744976955573926",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "twitter:description": "At least 114 people have been found dead since the wildfires struck the island of Maui 13 days ago, while around 850 people are still recorded as missing.",
+                            "al:web:should_fallback": "false",
+                            "og:locale": "en_GB",
+                            "og:url": "https://news.sky.com/story/maui-wildfires-joe-biden-visits-hawaiian-island-after-days-of-criticism-12944874",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://e3.365dm.com/23/08/1600x900/skynews-joe-biden-hawaii-wildfire_6258625.jpg?20230822011921"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... his administration faced criticism over the response to the wildfires - the deadliest in the US in more than a century.\nA protester held out a banner urging \"relief for Maui now\" as the president's motorcade weaved through the streets of Lahaina, while another signed urged Mr Biden to \"listen to the people\".\n![Image 3: A woman holds a sign as U.S. President Joe Biden and first lady Jill Biden visit the fire-ravaged town of Lahaina on the island of Maui in Hawaii, U.S., August 21, 2023. REUTERS/Kevin Lamarque\n]\nImage: A woman holds a sign as calling for more relief for Maui during Mr Biden's visit to the island\n![Image 4: People hold signs as U.S. President Joe Biden and first lady Jill Biden visit the fire-ravaged town of Lahaina on the island of Maui in Hawaii, U.S., August 21, 2023. REUTERS/Kevin Lamarque\n]\nIt comes after former Democratic Hawaii Representative, Tulsi Gabbard, compared the response to the wildfires in Hawaii - the 50th state of the US - to America's support for Ukraine.\n\"Maybe if we change the name of Maui to Ukraine, maybe they will pay attention to us,\" she said.\nBiden also faced criticism from former president Donald Trump - the current frontrunner amongst Republicans to challenge him at next year's presidential elections.\nPlease use Chrome browser for a more accessible video player\nMaui resident reflects on wildfires\nMr Trump said it was \"disgraceful\" that his successor had not responded more quickly to the crisis.\nHowever, The White House has pushed back against the criticism, insisting that the president had kept in close touch with the governor and other emergency officials on Maui throughout the unfolding crisis.\n!\nImage: Pic: AP\nMore than $8.5m (£6.6m) worth of aid has also been distributed to some 8,000 affected families, according to Deanne Criswell, the administrator of the Federal Emergency Management Agency (FEMA).\n#### Analysis: Presidential visits to disaster zones are always politically fraught\n]\nRemember that 2005 image of George W Bush glimpsing down from an Air Force One window at a destroyed New Orleans? It was a disastrous moment quickly etched in presidential history.\nPresidential visits to disaster zones are always politically fraught.\nGo too early and the charge will be that the entourage is getting in the way of the rescue and recovery. Go too late and the charge will be that the president doesn’t care enough. Or,...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Why did President Biden wait 13 days before visiting Maui after the ...",
+                "htmlTitle": "Why <b>did President</b> Biden wait 13 days before <b>visiting Maui after</b> the ...",
+                "link": "https://www.quora.com/Why-did-President-Biden-wait-13-days-before-visiting-Maui-after-the-wildfire",
+                "displayLink": "www.quora.com",
+                "snippet": "Aug 28, 2023 ... ... Maui, who have lost lives and so much else in the rampaging fires of August 2023? President Biden declared a natural disaster and this opens ...",
+                "htmlSnippet": "Aug 28, 2023 <b>...</b> ... <b>Maui</b>, who have lost lives and so much else in the rampaging <b>fires</b> of <b>August 2023</b>? <b>President</b> Biden declared a natural disaster and this opens&nbsp;...",
+                "formattedUrl": "https://www.quora.com/Why-did-President-Biden-wait-13-days-before-visit...",
+                "htmlFormattedUrl": "https://www.quora.com/Why-<b>did</b>-<b>President</b>-Biden-wait-13-days-before-<b>visit</b>...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "al:android:url": "intent://www.quora.com/Why-did-President-Biden-wait-13-days-before-visiting-Maui-after-the-wildfire#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FWhy-did-President-Biden-wait-13-days-before-visiting-Maui-after-the-wildfire&logging_data=uid%3DNone;end",
+                            "theme-color": "#b92b27",
+                            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+                            "al:android:package": "com.quora.android",
+                            "fb:pages": "255232486973",
+                            "twitter:widgets:theme": "light"
+                        }
+                    ],
+                    "QAPage": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "Why did President Biden wait 13 days before visiting Maui after the wildfire? - Quora\n===============\nSomething went wrong. Wait a moment and try again.\nTry again\nSkip to content\nSkip to search\nSign In\nWhy did President Biden wait 13 days before visiting Maui after the wildfire?\nAll related (46)\nSort\nRecommended\n]\nFormer Database Analyst at Microsoft (company) (2000–2017) · Author has 26.6K answers and 5.2M answer views\n · \nRelated\nWhat specifically would you recommend that President Biden and Official Washington do in reaching out to the people of Maui, who have lost lives and so much else in the rampaging fires of August 2023?\nPresident Biden declared a natural disaster and this opens the recovery process with federal help.\nUpvote ·\n9940\n91\nRelated questions\nMore answers below\n]\nAuthor has 11.6K answers and 3.9M answer views\n · \nOriginally Answered:  ·\nStop lying fuckwit!!!\nUpvote ·\n9933\n]\nConstruction Engineering Inspector (1971–present) · Author has 2.9K answers and 176.6K answer views\n · \nRelated\nWhy can’t President Biden visit Maui from large naval vessels that can logistically stage relief efforts to Hawaii in the same waters people found shelter in being the tip of the spear as a Commander?\nPresident Biden has performed his job well . Has notified Hawaii officials when he is arriving. At this time Hawaii does not need the distraction his presence would create. He notified FEMA on the day of the fire started. They are in charge.\nUpvote ·\n9931\n92\n]\nFormer Attorney at deHolczer Law PC · Author has 4.3K answers and 6.4M answer views\n · \nRelated\nWhat specifically would you recommend that President Biden and Official Washington do in reaching out to the people of Maui, who have lost lives and so much else in the rampaging fires of August 2023?\nExactly what he is doing.\nUpvote ·\n9924\n91\nRelated questions\nRelated questions\nAdvertisement\n ·  ·  ·  ·  ·  ·  ·  ·\n© Quora, Inc. 2024",
+                    "content_tokens": 468
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Fact Check: Did Trump visit Maui after wildfires? Viral video debunked",
+                "htmlTitle": "Fact Check: <b>Did Trump visit Maui after wildfires</b>? Viral video debunked",
+                "link": "https://www.sportskeeda.com/pop-culture/fact-check-did-trump-visit-maui-wildfires-viral-video-debunked",
+                "displayLink": "www.sportskeeda.com",
+                "snippet": "Aug 18, 2023 ... If you are active on social media, you might have come across a video claiming that former President Trump visited Maui, Hawaii, after the ...",
+                "htmlSnippet": "Aug 18, 2023 <b>...</b> If you are active on social media, you might have come across a video claiming that former <b>President Trump visited Maui</b>, Hawaii, <b>after</b> the&nbsp;...",
+                "formattedUrl": "https://www.sportskeeda.com/.../fact-check-did-trump-visit-maui-wildfires-...",
+                "htmlFormattedUrl": "https://www.sportskeeda.com/.../fact-check-<b>did</b>-<b>trump</b>-<b>visit</b>-<b>maui</b>-<b>wildfires</b>-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUOmawhQv1oCEjnZBrCRV_Q9XKSE0VKSRxQdArjwG9pIieCiyWTRyRvak&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://staticg.sportskeeda.com/editor/2023/08/ce3aa-16923499892422-1920.jpg",
+                            "theme-color": "#FFFFFF",
+                            "og:type": "article",
+                            "twitter:title": "Fact Check: Did Trump visit Maui after wildfires? Viral video debunked",
+                            "article:published_time": "2023-08-18T10:08:43+00:00",
+                            "author": "Srishti Marwah",
+                            "og:title": "Fact Check: Did Trump visit Maui after wildfires? Viral video debunked",
+                            "google": "notranslate",
+                            "fb:pages": "116151972998",
+                            "og:description": "If you are active on social media, you might have come across a video claiming that former President Trump visited Maui, Hawaii, after the wildfires caused massive destruction in the area.",
+                            "twitter:image": "https://staticg.sportskeeda.com/editor/2023/08/ce3aa-16923499892422-1920.jpg",
+                            "fb:app_id": "394687130715834",
+                            "article:modified_time": "2023-08-18T10:08:43+00:00",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes",
+                            "twitter:description": "If you are active on social media, you might have come across a video claiming that former President Trump visited Maui, Hawaii, after the wildfires caused massive destruction in the area.",
+                            "fb:admins": "603431824",
+                            "og:url": "https://www.sportskeeda.com/pop-culture/fact-check-did-trump-visit-maui-wildfires-viral-video-debunked"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://staticg.sportskeeda.com/editor/2023/08/ce3aa-16923499892422-1920.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...    *   \n    *   \n    *   \n    *   \n]\nManage your profile\nLogout\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nMore\n!\n*   ]\n*   \n*   Fact Check: Did Trump visit Maui after wildfires? Viral video debunked\nFact Check: Did Trump visit Maui after wildfires? Viral video debunked\n======================================================================\nBy \nModified Aug 18, 2023 10:08 GMT\n  Follow Us]\n ! Share\n ! 0 Discuss\n  Follow Us]\n ! Share\n !(blob:https://www.sportskeeda.com/d5e6f9f9ba4ec244147bb96406df9788) 0 Discuss\n ! 0 Discuss\n!\n!\nWhat's your opinion?\nFact Check: Did Trump visit Maui after wildfires? Viral video debunked\nDiscuss Now\n!\n!\nDonald Trump did not visit Maui: Social media fake news debunked. (Image via Getty Images)\n ! \nIf you are active on social media, you might have come across a video claiming that former President Trump visited Maui, Hawaii, after the wildfires caused massive destruction in the area. In the 1-minute video, the former President can be seen entering a building and addressing the public, as he says:\n> “These are incredible people. We met some of the survivors and family members and what they’ve been through is incredible. One woman lost 10 people in her family, an incredible woman. I said, 'How did it go?' She said, 'I lost 10, 10 people.”\n!\nThe video was titled:\n> “A real President truly cares. Trump 2024.”\nIn the video, Melania Trump can be seen accompanying the former president, along with a FEMA truck in the background. While the claims have been misguiding a lot of people, upon searching social media, similar videos existed that dated back to March 11, 2019, when the former President visited Beauregard, Alabama, after a tornado killed more than 15 people.\nHence, the claims that  visited the Maui wildfire are false, as the video is old and is being circulated with a fake title. On August 17, 2023, a video was shared , and within a short period of time, it received more than 2300 views.\nExpand Tweet\n* * *\nDonald Trump did not visit Maui after wildfires\n-----------------------------------------------\nWhile the news of Trump visiting  has been circulating with an old video, the truth is that the video was taken in 2019, when Trump visited Alabama...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "White House defends Biden after conservatives criticize him over ...",
+                "htmlTitle": "White House defends Biden <b>after</b> conservatives criticize him over ...",
+                "link": "https://www.washingtonpost.com/politics/2023/08/14/biden-maui-wildfires-comment/",
+                "displayLink": "www.washingtonpost.com",
+                "snippet": "Aug 14, 2023 ... ... president was asked if he would visit Maui. He answered, “We're looking at it.” But later that evening, after the official numbers exceeded ...",
+                "htmlSnippet": "Aug 14, 2023 <b>...</b> ... <b>president was</b> asked if he would <b>visit Maui</b>. He answered, “We&#39;re looking at it.” But later that evening, <b>after</b> the official numbers exceeded&nbsp;...",
+                "formattedUrl": "https://www.washingtonpost.com/.../2023/08/.../biden-maui-wildfires-com...",
+                "htmlFormattedUrl": "https://www.washingtonpost.com/.../<b>2023</b>/08/.../biden-<b>maui</b>-<b>wildfires</b>-com...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKvsp0Xivf8zU1QBvd5bq_OyRQ6W_MPh0ULkhfjo-JsvyhiU9pG6Semmc&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter_description": "Several Republicans and conservative media outlets have attacked the president's lack of comments over the weekend on the wildfires as a sign of disinterest.",
+                            "article_modified_time": "2023-08-18T17:45:56.870Z",
+                            "og:image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/INXOZWYUWGYHZOVPHMS3E6H3YM_size-normalized.jpg&w=1440",
+                            "apple-itunes-app": "app-id=352509417, app-argument=https://www.washingtonpost.com/politics/2023/08/14/biden-maui-wildfires-comment/?sourceApp=apple-banner",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-08-14T23:21:39.877Z",
+                            "og:site_name": "Washington Post",
+                            "og_title": "White House defends Biden’s actions after criticism over Maui response",
+                            "og_type": "article",
+                            "og_url": "https://www.washingtonpost.com/politics/2023/08/14/biden-maui-wildfires-comment/",
+                            "og:description": "Several Republicans and conservative media outlets have attacked the president's lack of comments over the weekend on the wildfires as a sign of disinterest.",
+                            "article_published_time": "2023-08-14T23:21:39.877Z",
+                            "next-head-count": "84",
+                            "article_section": "White House",
+                            "twitter:site": "@WashingtonPost",
+                            "article:modified_time": "2023-08-18T17:45:56.870Z",
+                            "twitter_site": "@WashingtonPost",
+                            "og_description": "Several Republicans and conservative media outlets have attacked the president's lack of comments over the weekend on the wildfires as a sign of disinterest.",
+                            "article:content_tier": "metered",
+                            "twitter_title": "White House defends Biden’s actions after criticism over Maui response",
+                            "last_updated_date": "2023-08-18T17:45:56.870Z",
+                            "og:type": "article",
+                            "twitter:title": "White House defends Biden’s actions after criticism over Maui response",
+                            "article:section": "White House",
+                            "og_site_name": "Washington Post",
+                            "twitter_card": "summary_large_image",
+                            "og:title": "White House defends Biden’s actions after criticism over Maui response",
+                            "og_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/INXOZWYUWGYHZOVPHMS3E6H3YM_size-normalized.jpg&w=1440",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Several Republicans and conservative media outlets have attacked the president's lack of comments over the weekend on the wildfires as a sign of disinterest.",
+                            "article_content_tier": "metered",
+                            "og:url": "https://www.washingtonpost.com/politics/2023/08/14/biden-maui-wildfires-comment/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/INXOZWYUWGYHZOVPHMS3E6H3YM_size-normalized.jpg&w=1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...700-per-household payment for survivors, and the government is working with community-led groups to reach all residents regardless of language or other barriers, Biden tweeted Monday.\nBiden and Hawaii Gov. Josh Green (D) spoke Friday after the governor had surveyed the destruction, and Green provided an update and assessment of the state’s needs. He praised Biden on MSNBC after he signed the emergency declaration hours after Hawaii asked.\nThe president expressed support for the victims Thursday, during an event in Salt Lake City to mark the anniversary of the signing of the Pact Act, the law that provides aid to veterans exposed to “burn pits” and other toxic substances during their service.\n“Our prayers are with the people of Hawaii, but not just our prayers — every asset we have will be available to them,” Biden said last week. “They’ve seen their home, their business destroyed, and some have lost loved ones. And it’s not over yet.”\nBut the president has come under attack for seeming to appear tone deaf while vacationing over the weekend. Biden left Washington on Friday morning for his home in Rehoboth Beach, Del., attending Mass on Saturday, and biking and visiting the beach Sunday. Otherwise, he kept out of the public eye over the weekend.\nDuring a bike ride on Sunday morning, the president was asked if he would visit Maui. He answered, “We’re looking at it.”\nBut later that evening, after the official numbers exceeded the 85 killed by the 2018 Camp Fire in Northern California, Biden answered “no comment” when asked about the death count. Biden is now facing scrutiny from numerous Republicans, including those who shared the video and argued that the president should address the loss of life.\nFormer president Donald Trump’s campaign issued a video message on Monday evening, expressing sympathy for those affected while adding to the criticism of Biden’s response.\n“To say no comment is oftentimes fine, but to be smiling when you say it, especially against such a tragedy as this, is absolutely horrible and unacceptable,” Trump said in the message. He also went after Hawaii’s governor for “wanting to do nothing but blame it on global warming, and other things that just happen to pop into his head.”\nThe region’s remote location and the extensive scope of the destruction have made recovery a huge logistical challenge, officials say. Many Native Hawaiians and others have mobilized to deliver generators, food, clothing and other supplies to the survivors as firefighters continue to put out the blazes.\n“There’s no government agency helping us — this is it,” Native Hawaiian...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "In Maui, Biden sees 'long road' ahead in recovering from deadly ...",
+                "htmlTitle": "In <b>Maui</b>, Biden sees &#39;long road&#39; ahead in recovering from deadly ...",
+                "link": "https://www.reuters.com/world/us/biden-heading-maui-console-wildfire-survivors-2023-08-21/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Aug 22, 2023 ... U.S. President Joe Biden on Monday praised the \"remarkable resiliency\" of the people of Maui, after wildfires killed more than 114 people on ...",
+                "htmlSnippet": "Aug 22, 2023 <b>...</b> U.S. <b>President</b> Joe Biden on Monday praised the &quot;remarkable resiliency&quot; of the people of <b>Maui</b>, <b>after wildfires</b> killed more than 114 people on&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/.../biden-heading-maui-console-wildfire-survivors-...",
+                "htmlFormattedUrl": "https://www.reuters.com/.../biden-heading-<b>maui</b>-console-wildfire-survivors-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9OS5a95dZzEqGamHB0UZymrHRzCBSvKBTGZO2DeS0EcKOoOZSuLgEbDQ&s=0",
+                            "width": "150",
+                            "height": "100"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/world/us/biden-heading-maui-console-wildfire-survivors-2023-08-21/?id=27WG4PJPFRL47HW5X7EIKPPP2A",
+                            "og:image": "https://www.reuters.com/resizer/v2/7ECRH6RY2BNI7HBLHN35QLPNQY.jpg?auth=34030caa98f3aaedc8e8d21a67499ce94dd8aa3386ac7606ba93ae3623e26c03&height=1005&width=1920&quality=80&smart=true",
+                            "analytics:page_layout": "regular-article",
+                            "article:published_time": "2023-08-22T07:13:02Z",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Reuters",
+                            "ccbot": "nofollow",
+                            "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                            "analyticsattributes.topicchannel": "World",
+                            "title": "In Maui, Biden sees 'long road' ahead in recovering from deadly wildfires | Reuters",
+                            "og:description": "U.S. President Joe Biden on Monday praised the \"remarkable resiliency\" of the people of Maui, after wildfires killed more than 114 people on the Hawaiian island two weeks ago, and said America would stand by them for as long as it takes.",
+                            "twitter:creator": "@Reuters",
+                            "twitter:image": "https://www.reuters.com/resizer/v2/7ECRH6RY2BNI7HBLHN35QLPNQY.jpg?auth=34030caa98f3aaedc8e8d21a67499ce94dd8aa3386ac7606ba93ae3623e26c03&height=1005&width=1920&quality=80&smart=true",
+                            "twitter:image:alt": "President Joe Biden and first lady Jill Biden, accompanied by Hawaii Governor Josh Green, Jaime Green, First Lady of Hawaii, and FEMA administrator Deanne Criswell, visit the fire-ravaged town of Lahaina on the island of Maui in Hawaii, U.S., August 21. REUTERS/Kevin Lamarque",
+                            "twitter:site": "@Reuters",
+                            "article:modified_time": "2023-08-22T07:13:44.639Z",
+                            "render_timestamp": "2024-07-24T22:11:55.899Z",
+                            "fb:admins": "988502044532272",
+                            "article:content_tier": "metered",
+                            "og:type": "article",
+                            "article:section": "United States",
+                            "og:image:alt": "President Joe Biden and first lady Jill Biden, accompanied by Hawaii Governor Josh Green, Jaime Green, First Lady of Hawaii, and FEMA administrator Deanne Criswell, visit the fire-ravaged town of Lahaina on the island of Maui in Hawaii, U.S., August 21. REUTERS/Kevin Lamarque",
+                            "twitter:title": "In Maui, Biden sees 'long road' ahead in recovering from deadly wildfires",
+                            "ad:template": "article",
+                            "og:image:url": "https://www.reuters.com/resizer/v2/7ECRH6RY2BNI7HBLHN35QLPNQY.jpg?auth=34030caa98f3aaedc8e8d21a67499ce94dd8aa3386ac7606ba93ae3623e26c03&height=1005&width=1920&quality=80&smart=true",
+                            "dcsext.dartzone": "/4735792/reuters.com/world/us/article",
+                            "og:title": "In Maui, Biden sees 'long road' ahead in recovering from deadly wildfires",
+                            "dcsext.channellist": "World;Environment;Commodities",
+                            "og:image:height": "628",
+                            "og:article:published_time": "2023-08-22T07:13:02Z",
+                            "fb:pages": "114050161948682",
+                            "article:author": "Steve Holland",
+                            "article:tag": "MTVID,MTGFX,MTPIX,DIP,DIS,ENV,GEN,GFIN,INCEN,NEWS1,POL,POTUS,PXP,WASH,WFIRE,AMERS,US,NAMER,USAHI,TOPNWS,TOPCMB,COM,PRCP,WEA,AID",
+                            "analyticsattributes.topicsubchannel": "United States",
+                            "fb:app_id": "988502044532272",
+                            "og:locale:alternate": "en_US",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "U.S. President Joe Biden on Monday praised the \"remarkable resiliency\" of the people of Maui, after wildfires killed more than 114 people on the Hawaiian island two weeks ago, and said America would stand by them for as long as it takes.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/world/us/biden-heading-maui-console-wildfire-survivors-2023-08-21/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/6BXJPFOYIRK3BM25ZIWWVJ3CB4.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/world/us/biden-heading-maui-console-wildfire-survivors-2023-08-21/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.reuters.com/world/us/biden-heading-maui-console-wildfire-survivors-2023-08-21/",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Joe Biden Backtracks on Maui Visit After Hawaii Response ...",
+                "htmlTitle": "Joe Biden Backtracks on <b>Maui Visit After</b> Hawaii Response ...",
+                "link": "https://www.newsweek.com/joe-biden-maui-hawaii-wildfire-visit-date-1820211",
+                "displayLink": "www.newsweek.com",
+                "snippet": "Aug 16, 2023 ... President Joe Biden and first lady Jill Biden will travel to the Hawaiian island of Maui in the wake of the deadly wildfires there on August ...",
+                "htmlSnippet": "Aug 16, 2023 <b>...</b> <b>President</b> Joe Biden and first lady Jill Biden will <b>travel</b> to the Hawaiian island of <b>Maui</b> in the wake of the deadly <b>wildfires</b> there on <b>August</b>&nbsp;...",
+                "formattedUrl": "https://www.newsweek.com/joe-biden-maui-hawaii-wildfire-visit-date-1820...",
+                "htmlFormattedUrl": "https://www.newsweek.com/joe-biden-<b>maui</b>-hawaii-wildfire-<b>visit</b>-date-1820...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNV_aOGq26nizUS0FM_Y4S7KOQeVp9YktsgxServi_84sBrEbBEAxbIx5C&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://d.newsweek.com/en/full/2270409/joe-biden.jpg",
+                            "msapplication-config": "https://g.newsweek.com/themes/newsweek/favicons/browserconfig.xml",
+                            "og:image:width": "2500",
+                            "article:published_time": "2023-08-16T09:39:22-04:00",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ff0500",
+                            "og:site_name": "Newsweek",
+                            "twitter:url": "https://www.newsweek.com/joe-biden-maui-hawaii-wildfire-visit-date-1820211",
+                            "og:description": "The White House announced a trip to the island next Monday, after the president faced criticism for not committing to a definitive date.",
+                            "article:publisher": "https://www.facebook.com/Newsweek",
+                            "twitter:image": "https://d.newsweek.com/en/full/2270409/joe-biden.webp?w=1600&h=900&q=88&f=f27651c856b0dc3aa259aa1f733066df",
+                            "twitter:site": "@newsweek",
+                            "article:modified_time": "2023-08-19T14:02:56-04:00",
+                            "msapplication-tilecolor": "#ff0500",
+                            "og:type": "article",
+                            "og:image:alt": "Joe Biden",
+                            "article:section": "U.S.",
+                            "twitter:title": "Joe Biden backtracks on Maui visit after Hawaii response receives backlash",
+                            "og:title": "Joe Biden backtracks on Maui visit after Hawaii response receives backlash",
+                            "og:image:height": "1667",
+                            "fb:pages": "18343191100",
+                            "article:tag": "Joe Biden",
+                            "fb:app_id": "245537789135954",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The White House announced a trip to the island next Monday, after the president faced criticism for not committing to a definitive date.",
+                            "og:url": "https://www.newsweek.com/joe-biden-maui-hawaii-wildfire-visit-date-1820211"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d.newsweek.com/en/full/2270409/joe-biden.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   Login\n×\nLogin\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nShare\nCopy Link\n✓ Link copied to clipboard!\n*   \n*   \n*   \n*   \nJoe Biden Backtracks on Maui Visit After Hawaii Response Receives Backlash\n==========================================================================\n**Published** Aug 16, 2023 at 9:39 AM EDT **Updated** Aug 19, 2023 at 2:02 PM EDT\nCLOSE X\n00:54\nJoe Biden Looks To Stem Growing Fury Over Maui Fire Response\nBy \nU.S. News Reporter\n51\nShare\nCopy Link\n✓ Link copied to clipboard!\nPresident  and first lady  will travel to the Hawaiian island of Maui in the wake of the deadly wildfires there on August 21, the White House has announced.\nIn a statement on Wednesday morning, the office of the president said he will go to the island on Monday to \"meet with first responders, survivors, as well as federal, state, and local officials.\"\nIt comes a day after  \"as soon as we can\" to survey the ongoing recovery, but expressed caution about his presence disrupting those efforts. \"I don't want to get in the way,\" he said.\nBiden , after what  to the death toll on the island while staying at his Delaware beach house, reportedly brushing off questions about the disaster from journalists.\n!\nPresident Joe Biden speaks to guests at Ingeteam Inc., an electrical equipment manufacturer, on August 15, 2023 in Milwaukee, Wisconsin. The president will visit Maui on August 21. President Joe Biden speaks to guests at Ingeteam Inc., an electrical equipment manufacturer, on August 15, 2023 in Milwaukee, Wisconsin. The president will visit Maui on August 21. Scott Olson/Getty Images\nThe announcement marks an about-turn from Tuesday's remarks, offering both a definitive date and confirmation that Biden will travel to the island of Maui.\n\"In Maui, the President and First Lady will be welcomed by state and local leaders to see first-hand the impacts of the wildfires and the devastating loss of life and land that has occurred on the island, as well as discuss the next steps in the recovery effort,\" the White House said.\n! Newsletter\nThe Bulletin\nYour Morning Starts Here\nBegin your day with a curated outlook of top news around the world and why it matters.\n        I want to receive...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

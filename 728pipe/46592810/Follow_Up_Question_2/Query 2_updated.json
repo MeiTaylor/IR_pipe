@@ -1,0 +1,797 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - origin of viral video about girls in house related to Epstein January 2023",
+                "totalResults": "807000",
+                "searchTerms": "origin of viral video about girls in house related to Epstein January 2023",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - origin of viral video about girls in house related to Epstein January 2023",
+                "totalResults": "807000",
+                "searchTerms": "origin of viral video about girls in house related to Epstein January 2023",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.445652,
+        "formattedSearchTime": "0.45",
+        "totalResults": "807000",
+        "formattedTotalResults": "807,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Jimmy Kimmel on X: \"Dear Aasshole: for the record, I've not met ...",
+                "htmlTitle": "Jimmy Kimmel on X: &quot;Dear Aasshole: for the record, I&#39;ve not met ...",
+                "link": "https://twitter.com/jimmykimmel/status/1742324477323833546",
+                "displayLink": "twitter.com",
+                "snippet": "Jan 2, 2024 ... Dear Aasshole: for the record, I've not met, flown with, visited, or had any contact whatsoever with Epstein, nor will you find my name on\u00a0...",
+                "htmlSnippet": "Jan 2, 2024 <b>...</b> Dear Aasshole: for the record, I&#39;ve not met, flown with, visited, or had any contact whatsoever with <b>Epstein</b>, nor will you find my name on&nbsp;...",
+                "formattedUrl": "https://twitter.com/jimmykimmel/status/1742324477323833546",
+                "htmlFormattedUrl": "https://twitter.com/jimmykimmel/status/1742324477323833546",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBukoL11dV7lqeEzGpk8Wm45B6A9VQiOzVo8EzZdF364cWPbbfXiu6u0M&s",
+                            "width": "200",
+                            "height": "200"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "identifier": "26053643",
+                            "givenname": "Jimmy Kimmel",
+                            "additionalname": "jimmykimmel"
+                        }
+                    ],
+                    "interactioncounter": [
+                        {
+                            "userinteractioncount": "11329414",
+                            "interactiontype": "https://schema.org/FollowAction",
+                            "name": "Likes"
+                        },
+                        {
+                            "userinteractioncount": "882",
+                            "interactiontype": "https://schema.org/SubscribeAction",
+                            "name": "Retweets"
+                        },
+                        {
+                            "userinteractioncount": "8176",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Quotes"
+                        },
+                        {
+                            "userinteractioncount": "219532",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/jimmykimmel/status/1742324477323833546/likes"
+                        },
+                        {
+                            "userinteractioncount": "20899",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/jimmykimmel/status/1742324477323833546/retweets"
+                        },
+                        {
+                            "userinteractioncount": "9896",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/jimmykimmel/status/1742324477323833546/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "72811",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/jimmykimmel/status/1742324477323833546"
+                        },
+                        {
+                            "userinteractioncount": "111792824",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://pbs.twimg.com/profile_images/1767450918835126272/PQ5daQOb_200x200.jpg",
+                            "theme-color": "#FFFFFF",
+                            "og:type": "article",
+                            "og:site_name": "X (formerly Twitter)",
+                            "al:ios:app_name": "X",
+                            "apple-mobile-web-app-title": "Twitter",
+                            "og:title": "Jimmy Kimmel (@jimmykimmel) on X",
+                            "al:android:package": "com.twitter.android",
+                            "al:ios:url": "twitter://status?id=1742324477323833546",
+                            "title": "Jimmy Kimmel (@jimmykimmel) on X",
+                            "og:description": "Dear Aasshole: for the record, I\u2019ve not met, flown with, visited, or had any contact whatsoever with Epstein, nor will you find my name on any \u201clist\u201d other than the clearly-phony nonsense that soft-brained wackos like yourself can\u2019t seem to distinguish from reality. Your reckless",
+                            "al:ios:app_store_id": "333903271",
+                            "facebook-domain-verification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+                            "al:android:url": "twitter://status?id=1742324477323833546",
+                            "fb:app_id": "2231777543",
+                            "apple-mobile-web-app-status-bar-style": "white",
+                            "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "https://twitter.com/jimmykimmel/status/1742324477323833546",
+                            "al:android:app_name": "X"
+                        }
+                    ],
+                    "collection": [
+                        {
+                            "name": "Post with replies"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://pbs.twimg.com/profile_images/1767450918835126272/PQ5daQOb_200x200.jpg"
+                        }
+                    ],
+                    "socialmediaposting": [
+                        {
+                            "identifier": "1742324477323833546",
+                            "commentcount": "72811",
+                            "articlebody": "Dear Aasshole: for the record, I\u2019ve not met, flown with, visited, or had any contact whatsoever with Epstein, nor will you find my name on any \u201clist\u201d other than the clearly-phony nonsense...",
+                            "position": "1",
+                            "datecreated": "2024-01-02T23:18:20.000Z",
+                            "isbasedon": "https://twitter.com/CollinRugg/status/1742290323550978196",
+                            "datepublished": "2024-01-02T23:18:20.000Z",
+                            "url": "https://twitter.com/jimmykimmel/status/1742324477323833546",
+                            "mainentityofpage": "https://twitter.com/jimmykimmel/status/1742324477323833546"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Jimmy Kimmel on X: \"Dear Aasshole: for the record, I\u2019ve not met, flown with, visited, or had any contact whatsoever with Epstein, nor will you find my name on any \u201clist\u201d other than the clearly-phony nonsense that soft-brained wackos like yourself can\u2019t seem to distinguish from reality. Your reckless\" / X\n===============\nDon\u2019t miss what\u2019s happening\nPeople on X are the first to know.\nWelcome to x.com!\nWe are letting you know that we are changing our URL, but your privacy and data protection settings remain the same.\nFor more details, see our Privacy Policy:\n========================\nPost\n----\nSee new posts\nConversation\n============\n]\nDear Aasshole: for the record, I\u2019ve not met, flown with, visited, or had any contact whatsoever with Epstein, nor will you find my name on any \u201clist\u201d other than the clearly-phony nonsense that soft-brained wackos like yourself can\u2019t seem to distinguish from reality. Your reckless words put my family in danger. Keep it up and we will debate the facts further in court.\nQuote\n!\nCollin Rugg\n@CollinRugg\n\u00b7\nJan 2\nNEW: Quarterback Aaron Rodgers says he will pop \"some sort of bottle\" when the Epstein associates list is released and suggests Jimmy Kimmel will be named. Everyone is excited ! \u201cThere\u2019s a lot of people, including Jimmy Kimmel are really hoping that doesn't come out.\u201d \u201cI'll https://x.com/collinrugg/sta/CollinRugg/status/1742290323550978196/video/1\u2026\n\u00b7\n111.7M\nViews\n8,236\nBookmarks\n8.2K\nNew to X?\n-------------\nSign up now to get your own personalized timeline!\nSign up with Apple\nBy signing up, you agree to the  and , including \nRelevant people\n-------------------\n]\nFollow\nClick to Follow jimmykimmel\nI still call it twitter\n]\nFollow\nClick to Follow CollinRugg\nCo-Owner of Trending Politics | Investor | American !\nSomething went wrong. Try reloading.\nRetry\nMore\n\u00a9 2024 X Corp.\n !!!!",
+                    "content_tokens": 455
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "Twitter is a social media platform where information is rapidly disseminated, often without verification. While it can serve as a source for real-time updates and discussions, its lack of editorial oversight allows for the spread of misinformation and misleading claims."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2024-01-02"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This tweet from Jimmy Kimmel focuses on his personal denial of any association with Epstein but does not provide context regarding the viral video itself. It does not address the origins of the video or the misinformation surrounding it."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Let's deep dive into this one : r/KendrickLamar",
+                "htmlTitle": "Let&#39;s deep dive into this one : r/KendrickLamar",
+                "link": "https://www.reddit.com/r/KendrickLamar/comments/1cp9xu7/lets_deep_dive_into_this_one/",
+                "displayLink": "www.reddit.com",
+                "snippet": "May 11, 2024 ... ... video right here and this video was days before the 22nd of 2023 ... Weinstein and epstein were once connected and epstein may have used the mark?",
+                "htmlSnippet": "May 11, 2024 <b>...</b> ... <b>video</b> right here and this <b>video</b> was days before the 22nd of <b>2023</b> ... Weinstein and <b>epstein</b> were once <b>connected</b> and <b>epstein</b> may have used the mark?",
+                "formattedUrl": "https://www.reddit.com/r/KendrickLamar/.../lets_deep_dive_into_this_one/",
+                "htmlFormattedUrl": "https://www.reddit.com/r/KendrickLamar/.../lets_deep_dive_into_this_one/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "theme-color": "#000000",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "msapplication-navbutton-color": "#000000"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Reddit - Dive into anything\n===============\n                            Open menu Open navigation  Go to Reddit Home\nr/KendrickLamar A chip A close button\nGet app Get the Reddit app  Log in to Reddit\nExpand user menu Open settings menu\n*   *   *   \n### Get the Reddit app\nScan this QR code to download the app now\nOr check it out in the app stores\n\"THIS IS UNITY AT ITS FINEST!\"\n* * *\nMembers Online\n\u2022\n\\\nADMIN MOD\nLet\u2019s deep dive into this one\n=============================\nSorry, this post was deleted by the person who originally posted it.\n*   &nbsp;\n*   &nbsp;\n* * *\n*   TOPICS\n*   Internet Culture (Viral)\n*   *   *   *   *   *   *   *   *   \n*   Games\n*   *   *   *   *   *   *   *   *   *   *   *   \n*   Q&As\n*   *   \n*   Technology\n*   *   *   *   *   *   *   *   *   *   \n*   Pop Culture\n*   *   *   *   *   *   \n*   Movies & TV\n*   *   *   *   *   *   *   *   *   *   *   *   *   *   \n* * *\n*   RESOURCES\n*   *   *   *   *   *   \n* * *\n*   *   *   \n* * *\n*   *   *   ",
+                    "content_tokens": 321
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Reddit is a community-driven platform with many subreddits focusing on various topics. The reliability varies significantly by subreddit, with some threads involving rigorous debate and fact-checking, while others can spread false information."
+                },
+                "Newness": {
+                    "NewnessScore": 7,
+                    "Date": "2024-05-11"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "This Reddit post hints at possible connections involving other influential figures but does not directly address the viral video or clarify its origins. It mentions Epstein in a context that suggests a broader conspiracy but lacks specific information about the video."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Fact Check: A Viral Video Claims To Show Young Girls on Jeffrey ...",
+                "htmlTitle": "Fact Check: A <b>Viral Video</b> Claims To Show Young <b>Girls</b> on Jeffrey ...",
+                "link": "https://www.yahoo.com/news/fact-check-viral-video-claims-163100636.html",
+                "displayLink": "www.yahoo.com",
+                "snippet": "Jan 8, 2024 ... Claim: A viral video shared in January 2023 authentically shows young girls in a house on Jeffrey Epstein's island. Rating:.",
+                "htmlSnippet": "Jan 8, 2024 <b>...</b> Claim: A <b>viral video</b> shared in <b>January 2023</b> authentically shows young <b>girls</b> in a <b>house</b> on Jeffrey <b>Epstein&#39;s</b> island. Rating:.",
+                "formattedUrl": "https://www.yahoo.com/news/fact-check-viral-video-claims-163100636.html",
+                "htmlFormattedUrl": "https://www.yahoo.com/news/fact-check-<b>viral</b>-<b>video</b>-claims-163100636.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl0sxdgleyp0rjwCCFQs_tbc1F9t4dP7iP_8Jf0tXAW37_SYckHOCMb5o&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=304158842,app-argument=yahoo://article/view?uuid=c040dfcb-e881-3b6f-968f-bb9f2fff7265&src=web",
+                            "og:image": "https://media.zenfs.com/en/snopes_632/7b30d95bb101be95581ce5f1f1c09301",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Yahoo News",
+                            "al:android:package": "com.yahoo.mobile.client.android.yahoo",
+                            "al:ios:url": "yahoo://article/view?uuid=c040dfcb-e881-3b6f-968f-bb9f2fff7265&src=web",
+                            "og:description": "The video was circulated on social media at least since 2019.",
+                            "al:ios:app_store_id": "304158842",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://media.zenfs.com/en/snopes_632/7b30d95bb101be95581ce5f1f1c09301",
+                            "oath:guce:consent-host": "guce.yahoo.com",
+                            "twitter:site": "@YahooNews",
+                            "news_keywords": "Jeffrey Epstein, viral video, Isaac Kappy, very young girls",
+                            "twitter:title": "Fact Check: A Viral Video Claims To Show Young Girls on Jeffrey Epstein's Island. Here's What We Found.",
+                            "og:type": "article",
+                            "al:ios:app_name": "Yahoo",
+                            "og:title": "Fact Check: A Viral Video Claims To Show Young Girls on Jeffrey Epstein's Island. Here's What We Found.",
+                            "og:image:height": "675",
+                            "twitter:image:src": "https://media.zenfs.com/en/snopes_632/7b30d95bb101be95581ce5f1f1c09301",
+                            "al:android:url": "yahoo://article/view?uuid=c040dfcb-e881-3b6f-968f-bb9f2fff7265&src=web",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The video was circulated on social media at least since 2019.",
+                            "og:url": "https://www.yahoo.com/news/fact-check-viral-video-claims-163100636.html",
+                            "al:android:app_name": "Yahoo"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.zenfs.com/en/snopes_632/7b30d95bb101be95581ce5f1f1c09301"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n### \nNew on Yahoo\n*   \n*   \n*   \n*   \n*   ] \n*   \n*   \n\u00a9 2024 All rights reserved.\nSearch query \nSelect edition\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   More\n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   *   New on Yahoo\n            *   \n            *   \n        *   USEnglish\nAdvertisement\nRead full article\nSnopes]\nFact Check: A Viral Video Claims To Show Young Girls on Jeffrey Epstein's Island. Here's What We Found.\n=======================================================================================================\nAleksandra Wrona\nJanuary 8, 2024 at 8:31 AM\u00b74 min read\nLink Copied\n!\nX user @WeAreWoke1776\\_3\n*   Oops!\n    Something went wrong.\n    Please try again later.\n    More content below\n**Claim:**\nA viral video shared in January 2023 authentically shows young girls in a house on Jeffrey Epstein's island.\n**Rating:**\n]\nRating: Unfounded\nOn Jan. 4, 2024, a video was  on X (formerly Twitter), allegedly showing \"very young girls\" in a house on the island of the late, convicted sex offender Jeffrey Epstein. \"One of hundreds of videos of the girls from the interior of Epstein's island,\" one of the Spanish-language posts  the viral video. As of this writing, one post with the in-question video gained more than 1.5 million views on X.\n!\n**(X user @terra\\_cremada)**\nThe...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Yahoo offers a mix of news aggregation and original reporting. While it does curate content from reputable sources, the quality of its journalism can be inconsistent and has faced criticism for sensationalism."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2024-01-08"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This article explicitly states that the claim regarding the viral video showing girls on Epstein's island is rated as unfounded. It provides a clear context for the viral claim, directly addressing the central question about the origins and misinformation of the video. It emphasizes the lack of credible evidence linking the video to Epstein and thus is highly relevant."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Everything we know about EbonyPrince2k24 : r/KendrickLamar",
+                "htmlTitle": "Everything we know about EbonyPrince2k24 : r/KendrickLamar",
+                "link": "https://www.reddit.com/r/KendrickLamar/comments/1cqsb9r/everything_we_know_about_ebonyprince2k24/",
+                "displayLink": "www.reddit.com",
+                "snippet": "May 13, 2024 ... ... House of the Prodigies, House of Chanel, House of Overness,\u201d. Reply ... Epstein!\u201d as Drake left the hotel, according to video footage.\".",
+                "htmlSnippet": "May 13, 2024 <b>...</b> ... <b>House</b> of the Prodigies, <b>House</b> of Chanel, <b>House</b> of Overness,\u201d. Reply ... <b>Epstein</b>!\u201d as Drake left the hotel, according to <b>video</b> footage.&quot;.",
+                "formattedUrl": "https://www.reddit.com/r/.../everything_we_know_about_ebonyprince2k24...",
+                "htmlFormattedUrl": "https://www.reddit.com/r/.../everything_we_know_about_ebonyprince2k24...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "theme-color": "#000000",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "msapplication-navbutton-color": "#000000"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Reddit is a community-driven platform with many subreddits focusing on various topics. The reliability varies significantly by subreddit, with some threads involving rigorous debate and fact-checking, while others can spread false information."
+                },
+                "Newness": {
+                    "NewnessScore": 7,
+                    "Date": "2024-05-13"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "Similar to evidence1, this Reddit post discusses Epstein in a disconnected context and does not offer relevant information regarding the viral video. It lacks substantial content surrounding the origins or truthfulness of the video."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "New documents in the Jeffrey Epstein case detail how girls were ...",
+                "htmlTitle": "New documents in the Jeffrey <b>Epstein</b> case detail how <b>girls</b> were ...",
+                "link": "https://www.nbcnews.com/news/us-news/documents-jeffrey-epstein-case-released-rcna132236",
+                "displayLink": "www.nbcnews.com",
+                "snippet": "Jan 4, 2024 ... Another set of unsealed documents related to the late financier and convicted sex offender Jeffrey Epstein was released Thursday,\u00a0...",
+                "htmlSnippet": "Jan 4, 2024 <b>...</b> Another set of unsealed documents <b>related</b> to the late financier and convicted sex offender Jeffrey <b>Epstein</b> was released Thursday,&nbsp;...",
+                "formattedUrl": "https://www.nbcnews.com/.../documents-jeffrey-epstein-case-released-rcna1...",
+                "htmlFormattedUrl": "https://www.nbcnews.com/.../documents-jeffrey-<b>epstein</b>-case-released-rcna1...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCMfgdFseA1RVTGV-Idi0ogvyOoP1JDbde-5afthAxlJgrXv03MXrWhh4Y&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-config": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/browserconfig.xml",
+                            "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-06/230601-jeffrey-epstein-2005-ac-547p-94aa33.jpg",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "NBC News",
+                            "branch:deeplink:title": "New documents in the Jeffrey Epstein case detail how girls were recruited to his home",
+                            "og:image:type": "image/jpeg",
+                            "twitter:creator": "NBCNews",
+                            "og:description": "The records previously released include names of people in the late financier\u2019s orbit and depositions from women who say they were recruited for his alleged sex trafficking network.",
+                            "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-06/230601-jeffrey-epstein-2005-ac-547p-94aa33.jpg",
+                            "branch:deeplink:description": "The records previously released include names of people in the late financier\u2019s orbit and depositions from women who say they were recruited for his alleged sex trafficking network.",
+                            "twitter:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/rockcms/2023-06/230601-jeffrey-epstein-2005-ac-547p-94aa33.jpg",
+                            "twitter:site": "@NBCNews",
+                            "branch:deeplink:type": "article",
+                            "og:type": "article",
+                            "twitter:title": "New documents in the Jeffrey Epstein case detail how girls were recruited to his home",
+                            "branch:deeplink:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-06/230601-jeffrey-epstein-2005-ac-547p-94aa33.jpg",
+                            "og:title": "New documents in the Jeffrey Epstein case detail how girls were recruited to his home",
+                            "og:image:height": "630",
+                            "fb:pages": "155869377766434",
+                            "twitter:image:src": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/rockcms/2023-06/230601-jeffrey-epstein-2005-ac-547p-94aa33.jpg",
+                            "socialcopy": "More documents in Jeffrey Epstein case have been released",
+                            "fb:app_id": "10150138890205613",
+                            "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                            "twitter:description": "The records previously released include names of people in the late financier\u2019s orbit and depositions from women who say they were recruited for his alleged sex trafficking network.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.nbcnews.com/news/us-news/documents-jeffrey-epstein-case-released-rcna132236",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-06/230601-jeffrey-epstein-2005-ac-547p-94aa33.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Another set of  related to the late financier and convicted sex offender  was released Thursday, many of them focusing on how teen girls were recruited to go to his Florida home.\nSome of the depositions released Thursday center on how girls were convinced to go to the home and then were asked to bring friends for additional payment.\nOne woman who was 16 or 17 at the time said she had no massage experience and no assumption or expectation that the visit would involve sexual activity.\n\u201cJeffrey took my clothes off without my consent the first time I met him,\u201d according to a transcript of a deposition from the woman, whose name has been redacted.\nFormer Palm Beach police Det. Joseph Recarey, who is now deceased, said in 2016 that Ghislaine Maxwell, , was involved in seeking girls to give massages and work at Epstein\u2019s home.\nRecarey said he interviewed around 33 women, according to a transcript. Only two, who were older, had any massage experience, he said. Most of the girls were younger than 18.\n\"Each of the victims that went to the home were asked to bring their friends to the home. Some complied and some didn\u2019t,\" Recarey said.\nThe descriptions of how women were recruited contained in the documents is consistent with what was testified to at Maxwell\u2019s criminal trial.\u00a0Nineteen exhibits totaling 327 pages of previously sealed documents were released...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "NBC News adheres to journalistic standards and has a strong track record of factual reporting and transparency, making it a valuable source for news despite occasional criticism for bias."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2024-01-04"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This source covers general allegations related to Epstein and newly unsealed documents but does not directly discuss the viral video. It does provide context on Epstein's case, which indirectly relates to misinformation but lacks a direct link to the query."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "The Day Jeffrey Epstein Told Me He Had Dirt on Powerful People ...",
+                "htmlTitle": "The Day Jeffrey <b>Epstein</b> Told Me He Had Dirt on Powerful People ...",
+                "link": "https://www.nytimes.com/2019/08/12/business/jeffrey-epstein-interview.html",
+                "displayLink": "www.nytimes.com",
+                "snippet": "Aug 12, 2019 ... Epstein made no secret of his own scandalous past \u2014 he'd pleaded guilty to state charges of soliciting prostitution from underage girls and was\u00a0...",
+                "htmlSnippet": "Aug 12, 2019 <b>...</b> <b>Epstein</b> made no secret of his own scandalous past \u2014 he&#39;d pleaded guilty to state charges of soliciting prostitution from underage <b>girls</b> and was&nbsp;...",
+                "formattedUrl": "https://www.nytimes.com/2019/08/12/.../jeffrey-epstein-interview.html",
+                "htmlFormattedUrl": "https://www.nytimes.com/2019/08/12/.../jeffrey-<b>epstein</b>-interview.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq531DdJFsq2qdFo6ZoF0Ub84kTck-SJWjd2mGjjxhdMqcQcNkRMBzkV4&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static01.nyt.com/images/2019/08/12/business/12stewart1/12stewart1-facebookJumbo.jpg?year=2019&h=549&w=1050&s=351b18d53196222fef0771f5d6e996ee648f93956b17f3a521fa1c40f8bf8f7e&k=ZQJBKqZ0VN",
+                            "nyt_uri": "nyt://article/f63150dc-dcff-54c8-bb5a-09d66d766375",
+                            "twitter:app:id:googleplay": "com.nytimes.android",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2019-08-12T21:53:27.000Z",
+                            "pt": "article",
+                            "twitter:url": "https://www.nytimes.com/2019/08/12/business/jeffrey-epstein-interview.html",
+                            "pdate": "20190812",
+                            "articleid": "100000006658551",
+                            "al:android:package": "com.nytimes.android",
+                            "al:ipad:app_store_id": "357066198",
+                            "twitter:app:name:googleplay": "NYTimes",
+                            "og:description": "I went to Mr. Epstein\u2019s Manhattan mansion to talk about Tesla. We ended up discussing much more \u2014 including his belief that sex with teenage girls should be acceptable.",
+                            "twitter:image": "https://static01.nyt.com/images/2019/08/12/business/12stewart1/12stewart1-videoSixteenByNine3000.jpg?year=2019&h=1686&w=3000&s=5ee64476f595533e6181cb8db7d68080e7504aeff03177f457e4d2c738466013&k=ZQJBKqZ0VN&tw=1",
+                            "pst": "News",
+                            "twitter:image:alt": "Jeffrey Epstein\u2019s home on East 71st Street.",
+                            "al:iphone:app_name": "NYTimes",
+                            "article:modified_time": "2021-08-26T23:26:15.319Z",
+                            "news_keywords": "Jeffrey Epstein,Elon Musk,Tesla,Rape,Child Abuse,Prostitution;sex workers,Human trafficking",
+                            "article:content_tier": "metered",
+                            "msapplication-starturl": "https://www.nytimes.com",
+                            "image": "https://static01.nyt.com/images/2019/08/12/business/12stewart1/12stewart1-facebookJumbo.jpg?year=2019&h=549&w=1050&s=351b18d53196222fef0771f5d6e996ee648f93956b17f3a521fa1c40f8bf8f7e&k=ZQJBKqZ0VN",
+                            "og:type": "article",
+                            "og:image:alt": "Jeffrey Epstein\u2019s home on East 71st Street.",
+                            "twitter:title": "The Day Jeffrey Epstein Told Me He Had Dirt on Powerful People (Published 2019)",
+                            "article:section": "Business",
+                            "cg": "business",
+                            "pubp_event_id": "pubp://event/b266ef902e44436f8e70c52446f5a055",
+                            "og:title": "The Day Jeffrey Epstein Told Me He Had Dirt on Powerful People (Published 2019)",
+                            "cn": "common-sense",
+                            "url": "https://www.nytimes.com/2019/08/12/business/jeffrey-epstein-interview.html",
+                            "article:tag": "Epstein, Jeffrey E (1953- )",
+                            "al:iphone:url": "nytimes://www.nytimes.com/2019/08/12/business/jeffrey-epstein-interview.html",
+                            "al:android:url": "nyt://article/f63150dc-dcff-54c8-bb5a-09d66d766375",
+                            "twitter:app:url:googleplay": "nyt://article/f63150dc-dcff-54c8-bb5a-09d66d766375",
+                            "al:ipad:url": "nytimes://www.nytimes.com/2019/08/12/business/jeffrey-epstein-interview.html",
+                            "byl": "By James B. Stewart",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "I went to Mr. Epstein\u2019s Manhattan mansion to talk about Tesla. We ended up discussing much more \u2014 including his belief that sex with teenage girls should be acceptable.",
+                            "al:iphone:app_store_id": "284862083",
+                            "al:ipad:app_name": "NYTimes",
+                            "og:url": "https://www.nytimes.com/2019/08/12/business/jeffrey-epstein-interview.html",
+                            "al:android:app_name": "NYTimes",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static01.nyt.com/images/2019/08/12/business/12stewart1/12stewart1-facebookJumbo.jpg?year=2019&h=549&w=1050&s=351b18d53196222fef0771f5d6e996ee648f93956b17f3a521fa1c40f8bf8f7e&k=ZQJBKqZ0VN"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Advertisement\nSupported by\nCommon Sense\nBy James B. Stewart\nAlmost exactly a year ago, on Aug. 16, 2018, I visited Jeffrey Epstein at his cavernous Manhattan mansion.\nThe overriding impression I took away from our roughly 90-minute conversation was that Mr. Epstein knew an astonishing number of rich, famous and powerful people, and had photos to prove it. He also claimed to know a great deal about these people, some of it potentially damaging or embarrassing, including details about their supposed sexual proclivities and recreational drug use.\nSo one of my first thoughts on hearing of Mr. Epstein\u2019s suicide was that many prominent men and at least a few women must be breathing sighs of relief that whatever Mr. Epstein knew, he has taken it with him.\n[The Latest: Lawsuit claims Mr. Epstein trafficked girls in Caribbean until 2018.]\nDuring our conversation, Mr. Epstein made no secret of his own scandalous past \u2014 he\u2019d pleaded guilty to state charges of soliciting prostitution from underage girls and was a registered sex offender \u2014 and acknowledged to me that he was a pariah in polite society. At the same time, he seemed unapologetic. His very notoriety, he said, was what made so many people willing to confide in him. Everyone, he suggested, has secrets and, he added, compared with his own, they seemed innocuous. People confided in him without feeling awkward or embarrassed, he claimed.\nI\u2019d never met Mr. Epstein before. I had contacted him because my colleagues and I had heard a rumor that he was advising Tesla\u2019s embattled chief executive, Elon Musk, who was in trouble after announcing on Twitter that he had lined up the funding to take Tesla private.\nThe Securities and Exchange Commission began an investigation into Mr. Musk\u2019s remarks, which moved markets but didn\u2019t appear to have much basis in fact. There were calls for Mr. Musk to relinquish his position as Tesla\u2019s chairman and for Tesla to recruit more independent directors. I\u2019d heard that Mr. Epstein was compiling a list of candidates at Mr. Musk\u2019s behest \u2014 and that Mr. Epstein had an email from Mr. Musk authorizing the search for a new chairman.\nWe are having trouble retrieving the article content.\nPlease...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The New York Times is known for its rigorous fact-checking and comprehensive investigative journalism. It has a strong reputation for reliability and is frequently referenced as a credible source."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2019-08-12"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This article focuses on Epstein's history and interactions unrelated to the viral video or its specific claims. It does not provide any relevant context for the viral video in question."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "A Town for People with Chronic-Fatigue Syndrome | The New Yorker",
+                "htmlTitle": "A Town for People with Chronic-Fatigue Syndrome | The New Yorker",
+                "link": "https://www.newyorker.com/culture/personal-history/a-town-for-people-with-chronic-fatigue",
+                "displayLink": "www.newyorker.com",
+                "snippet": "Sep 3, 2019 ... House successfully treats him with mints from the ... The brief article, titled \u201cChronic Fatigue Possibly Related to Epstein-Barr Virus\u00a0...",
+                "htmlSnippet": "Sep 3, 2019 <b>...</b> <b>House</b> successfully treats him with mints from the ... The brief article, titled \u201cChronic Fatigue Possibly <b>Related to Epstein</b>-Barr <b>Virus</b>&nbsp;...",
+                "formattedUrl": "https://www.newyorker.com/.../a-town-for-people-with-chronic-fatigue",
+                "htmlFormattedUrl": "https://www.newyorker.com/.../a-town-for-people-with-chronic-fatigue",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBWNMhNydme9W33b9QI0KilqG8p_gTqxfaXGySMTlRwBr6ph3sXiQphbk&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.newyorker.com/photos/5cf193abdbca2c414e0f4995/16:9/w_1280,c_limit/Mariani-ChronicFatigue-social.jpg",
+                            "copyright": "Copyright (c) Cond\u00e9 Nast 2024",
+                            "article:published_time": "2019-09-03T09:00:00.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "The New Yorker",
+                            "parsely-metadata": "{\"description\":\"Mike Mariani reports on people with chronic-fatigue syndrome who moved to Incline Village, Nevada, the only place in the U.S. where they could join a trial for a drug called Ampligen, which mitigates C.F.S. symptoms for many patients.\",\"image-16-9\":\"https://media.newyorker.com/photos/5d08054fab1a6dd7569fec97/16:9/w_1000,c_limit/Mariani-ChronicFatigue-1050-128.gif\",\"image-1-1\":\"https://media.newyorker.com/photos/5d08054fab1a6dd7569fec97/1:1/w_1000,c_limit/Mariani-ChronicFatigue-1050-128.gif\"}",
+                            "og:description": "Patients moved from all over the country to Incline Village, Nevada, for an experimental drug. Then the drug disappeared.",
+                            "twitter:creator": "@NewYorker",
+                            "twitter:image": "https://media.newyorker.com/photos/5cf193abdbca2c414e0f4995/16:9/w_1280,c_limit/Mariani-ChronicFatigue-social.jpg?mbid=social_retweet",
+                            "msapplication-tap-highlight": "no",
+                            "twitter:site": "@NewYorker",
+                            "article:modified_time": "2019-09-03T09:00:00.000Z",
+                            "news_keywords": "chronic fatigue,personal history",
+                            "content-type": "article",
+                            "article:content_tier": "free",
+                            "id": "5c5c524ab001b15d200eb719",
+                            "og:type": "article",
+                            "article:section": "tags",
+                            "twitter:title": "A Town for People with Chronic-Fatigue Syndrome",
+                            "parsely-post-id": "5c5c524ab001b15d200eb719",
+                            "twitter:domain": "https://www.newyorker.com",
+                            "pinterest:image": "https://media.newyorker.com/photos/5cf193abdbca2c414e0f4995/2:3/w_1000,h_1500,c_limit/Mariani-ChronicFatigue-social.jpg",
+                            "author": "Cond\u00e9 Nast",
+                            "og:title": "A Town for People with Chronic-Fatigue Syndrome",
+                            "fb:pages": "9258148868",
+                            "article:author": "Mike Mariani",
+                            "fb:app_id": "1147169538698836",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Patients moved from all over the country to Incline Village, Nevada, for an experimental drug. Then the drug disappeared.",
+                            "og:url": "https://www.newyorker.com/culture/personal-history/a-town-for-people-with-chronic-fatigue",
+                            "google-signin-client_id": "275906274807-b4eqbdqr511u9msdpj8mh0pf77fcciv7.apps.googleusercontent.com",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.newyorker.com/photos/5cf193abdbca2c414e0f4995/16:9/w_1280,c_limit/Mariani-ChronicFatigue-social.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... spread of a disease\u2014took a wary tack. When they examined the patients, their apprehensions were deepened by the varied symptoms they encountered: most reported fatigue and muscle or joint pain, but some also experienced light sensitivity, hair loss, and anomic aphasia\u2014difficulty recalling words and phrases. \u201cThe whole situation was bizarre,\u201d Kaplan told Johnson, years later. \u201cI mean, here you have this exceptionally beautiful place with weird people and weird doctors and a weird medical problem\u2014the whole thing was weird.\u201d Holmes described the situation to Johnson as \u201ctwo doctors isolated in a mountainous area who had worked themselves into a frenzy.\u201d\nWhen the doctors set up interviews with Kaplan and Holmes and their sickest patients, the conversations only reinforced the investigators\u2019 skepticism. Peterson and Cheney were ebullient to finally have the chance to show this flummoxing condition to highly trained epidemiologists; to Kaplan and Holmes, it felt as though they were being aggressively lobbied to believe in a strange new disease. Kaplan later confessed to Johnson that he suspected a kind of \u201ccollusion\u201d between the doctors and patients. The pair left Incline with a sense that the epidemic was exaggerated. They believed that, at most, it was a set of disparate symptoms haphazardly lumped together. At times, they seemed to imply that it was a sort of mass folie \u00e0 deux\u2014a shared delusion. (There are documented cases of group psychogenic illness. In 2011, some twenty girls at a high school in Le Roy, New York, simultaneously developed a condition that caused them to stutter and twitch uncontrollably, and which seemed to have no biological cause. In the past few years, hundreds of refugee children in Sweden have fallen into  after being informed that their families would be deported.) Peterson had considered the possibility of psychosomatic illness but felt it improbable, because many of the patients were otherwise well-adjusted, with no history of mental instability or trauma. \u201cI\u2019d seen almost all these people for three years when they were well,\u201d he told me. Any psychological theory just \u201cwasn\u2019t right.\u201d\nIn May, 1986, Kaplan and Holmes published their findings in a weekly C.D.C. digest. (Holmes declined to be interviewed for this story, and Kaplan couldn\u2019t be reached for comment.) The brief article, titled \u201cChronic Fatigue Possibly Related to Epstein-Barr Virus - Nevada,\u201d advised doctors to make a diagnosis of chronic Epstein-Barr virus\u2014the C.D.C. didn\u2019t adopt the name \u201cchronic-fatigue syndrome\u201d for another two years\u2014only at the exclusion of all other possible diseases. The article acknowledged that the patients had unusually high Epstein-Barr antibodies in their blood but noted that these proteins could sometimes be found at similar levels...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The New Yorker is known for its in-depth journalism and cultural commentary, with articles often featuring extensive research and strong editorial standards."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2019-09-03"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This piece talks about chronic fatigue syndrome and related issues, with no connection to Epstein or the viral video. It is irrelevant to the specific question."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "24 years ago a virus left me with a Long COVID-like condition. What ...",
+                "htmlTitle": "24 years ago a <b>virus</b> left me with a Long COVID-like condition. What ...",
+                "link": "https://fortune.com/2022/06/11/what-life-is-like-with-long-covid-like-condition-quarter-century-later-mono-ebv/",
+                "displayLink": "fortune.com",
+                "snippet": "Jun 11, 2022 ... Mononucleosis\u2014known as the \u201ckissing disease\u201d because it can be spread by saliva\u2014is an infection caused by the herpes virus Epstein-Barr. It can\u00a0...",
+                "htmlSnippet": "Jun 11, 2022 <b>...</b> Mononucleosis\u2014known as the \u201ckissing disease\u201d because it can be spread by saliva\u2014is an infection caused by the herpes <b>virus Epstein</b>-Barr. It can&nbsp;...",
+                "formattedUrl": "https://fortune.com/.../what-life-is-like-with-long-covid-like-condition-quar...",
+                "htmlFormattedUrl": "https://fortune.com/.../what-life-is-like-with-long-covid-like-condition-quar...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhU2f9mJbo7ZuPofIkukxhWyr0GVyVtRiDpUuZ1mg6wa0koRCcS4DStMxb&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#ffc40d",
+                            "og:image": "https://fortune.com/img-assets/wp-content/uploads/2022/06/GettyImages-1202043938.jpg?resize=1200,600",
+                            "theme-color": "#FFFFFF",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "24 years ago a virus left me with a Long COVID-like condition. What life is like as a working mom dealing with the fallout",
+                            "og:site_name": "Fortune",
+                            "twitter:url": "https://fortune.com/2022/06/11/what-life-is-like-with-long-covid-like-condition-quarter-century-later-mono-ebv/",
+                            "author": "Erin Prater",
+                            "og:title": "24 years ago a virus left me with a Long COVID-like condition. What life is like as a working mom dealing with the fallout",
+                            "og:description": "There is life with Chronic Fatigue Syndrome, even if we may never know a life after it.",
+                            "fb:pages": "56501027948",
+                            "og:height": "683",
+                            "twitter:image": "https://fortune.com/img-assets/wp-content/uploads/2022/06/GettyImages-1202043938.jpg?resize=1200,600",
+                            "next-head-count": "39",
+                            "viewport": "width=device-width",
+                            "twitter:description": "There is life with Chronic Fatigue Syndrome, even if we may never know a life after it.",
+                            "og:url": "https://fortune.com/2022/06/11/what-life-is-like-with-long-covid-like-condition-quarter-century-later-mono-ebv/",
+                            "og:width": "1024"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://fortune.com/img-assets/wp-content/uploads/2022/06/GettyImages-1202043938.jpg?resize=1200,600"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n24 years ago a virus left me with a Long COVID-like condition. What life is like as a working mom dealing with the fallout\n==========================================================================================================================\nBY\n*   \n*   \n*   \n*   \nMy name is Erin, and I don\u2019t have Long COVID.\nI\u2019m not sure how I would know if I did.\nTwenty-five years ago, in junior high, I came down with mono as it circulated through my social circle. Mononucleosis\u2014known as the \u201ckissing disease\u201d because it can be spread by saliva\u2014is an infection caused by the herpes virus Epstein-Barr. It can also be passed on via coughs and sneezes, and sharing drinks and food.\nNot surprisingly, it\u2019s common among teens and young adults.\nMore than anything, mono exhausted me, and kept exhausting me\u2014long after the infection was over. Getting out of bed felt like a herculean task. Every morning I found myself sick, in pain, and burdened by some invisible weight I couldn\u2019t quite describe. But I looked fine. And after the acute phase of mono, no one really believed me.\nMy friends with mono bounced back within days or weeks. But me? Flash forward to high school\u2014usually a star student and teacher\u2019s pet, I was failing and enrolled in night school with other so-called troublemakers because I was exhausted and couldn\u2019t pry myself out of bed before 10 a.m.\nThe accusations of laziness and resulting shame were real. But the symptoms, as nebulous as they were, were even more so. I felt like I was living in an alternate reality, suffering in some invisible hell no one else could see or understand. My symptoms and character were regularly called into question.\nEventually I received a diagnosis of Chronic Fatigue Syndrome, a disorder involving extreme fatigue for six months or more that can\u2019t be explained otherwise, and which rest doesn\u2019t help.  may involve aches and pains, temper lymph nodes, digestive issues, chills and sweats, muscle weakness, shortness of breath, brain fog, and an irregular heartbeat.\nSounds a little like Long COVID, huh?\nThere was no treatment, I was told, and left to soldier on as if nothing was happening, for fear I\u2019d be accused of being slovenly yet again. Mentally, I struggled with the weight of others\u2019 judgements. I was raised by Midwestern Boomers\u2014lethargy was a sin, and so, I sloughed on. But...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Fortune is recognized for its insights into financial news and trends, though it can sometimes lean towards sensationalism. Its focus on business issues adds credibility."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2022-06-11"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This article discusses a long COVID-like condition related to a different virus and does not mention Epstein or provide relevant details about the viral video."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Andrew Schulz (@andrewschulz) \u2022 Instagram photos and videos",
+                "htmlTitle": "Andrew Schulz (@andrewschulz) \u2022 Instagram photos and <b>videos</b>",
+                "link": "https://www.instagram.com/andrewschulz/",
+                "displayLink": "www.instagram.com",
+                "snippet": "4M Followers, 2368 Following, 4294 Posts - Andrew Schulz (@andrewschulz) on Instagram: \" STANDUP TICKETS AVAILABLE NOW Pre Sale Code: ANDREW\"",
+                "htmlSnippet": "4M Followers, 2368 Following, 4294 Posts - Andrew Schulz (@andrewschulz) on Instagram: &quot;   STANDUP TICKETS AVAILABLE NOW Pre Sale Code: ANDREW&quot;",
+                "formattedUrl": "https://www.instagram.com/andrewschulz/",
+                "htmlFormattedUrl": "https://www.instagram.com/andrewschulz/",
+                "pagemap": {
+                    "xfn": [
+                        {}
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/49401275_247764892835186_4780596568099127296_n.jpg?stp=dst-jpg_s100x100&_nc_cat=1&ccb=1-7&_nc_sid=3fd06f&_nc_ohc=BUVCFhKsQpAQ7kNvgEasu_5&_nc_ht=scontent-ord5-2.cdninstagram.com&oh=00_AYAXBDKt50lj8BnWcKTflqavyRXd_-l9MbwbWdRnV-uOYA&oe=66A7210E",
+                            "theme-color": "#FFFFFF",
+                            "og:type": "profile",
+                            "al:ios:app_name": "Instagram",
+                            "og:title": "Andrew Schulz (@andrewschulz) \u2022 Instagram photos and videos",
+                            "al:android:package": "com.instagram.android",
+                            "bingbot": "noarchive",
+                            "al:ios:url": "instagram://user?username=andrewschulz",
+                            "color-scheme": "light",
+                            "og:description": "4M Followers, 2,368 Following, 4,294 Posts - See Instagram photos and videos from Andrew Schulz (@andrewschulz)",
+                            "al:ios:app_store_id": "389801252",
+                            "al:android:url": "https://instagram.com/_u/andrewschulz/",
+                            "apple-mobile-web-app-status-bar-style": "default",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "https://www.instagram.com/andrewschulz/",
+                            "al:android:app_name": "Instagram"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/49401275_247764892835186_4780596568099127296_n.jpg?stp=dst-jpg_s100x100&_nc_cat=1&ccb=1-7&_nc_sid=3fd06f&_nc_ohc=BUVCFhKsQpAQ7kNvgEasu_5&_nc_ht=scontent-ord5-2.cdninstagram.com&oh=00_AYAXBDKt50lj8BnWcKTflqavyRXd_-l9MbwbWdRnV-uOYA&oe=66A7210E"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Login \u2022 Instagram\n===============\n!(blob:https://www.instagram.com/a2c4acc86ce977bdb7718eba199dd413)!(blob:https://www.instagram.com/a7d152ce433b443153f919ae47dd7fc4)\nPhone number, username, or email\nPassword\nLog in\nor\nLog in with Facebook\nDon't have an account? \nGet the app.\n]](ms-windows-store://pdp/?productid=9nblggh5l9xt&referrer=appbadge&source=www.instagram.com&mode=mini&pos=280%2C280%2C780%2C580&next=https%3A%2F%2Fwww.instagram.com%2Fandrewschulz%2F)\nEnglish\nAfrikaans\u0627\u0644\u0639\u0631\u0628\u064a\u0629\u010ce\u0161tinaDanskDeutsch\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acEnglishEnglish (UK)Espa\u00f1ol (Espa\u00f1a)Espa\u00f1ol\u0641\u0627\u0631\u0633\u06ccSuomiFran\u00e7ais\u05e2\u05d1\u05e8\u05d9\u05eaBahasa IndonesiaItaliano\u65e5\u672c\u8a9e\ud55c\uad6d\uc5b4Bahasa MelayuNorskNederlandsPolskiPortugu\u00eas (Brasil)Portugu\u00eas (Portugal)\u0420\u0443\u0441\u0441\u043a\u0438\u0439Svenska\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22FilipinoT\u00fcrk\u00e7e\u4e2d\u6587(\u7b80\u4f53)\u4e2d\u6587(\u53f0\u7063)\u09ac\u09be\u0982\u09b2\u09be\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0\u0939\u093f\u0928\u094d\u0926\u0940HrvatskiMagyar\u0c95\u0ca8\u0ccd\u0ca8\u0ca1\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02\u092e\u0930\u093e\u0920\u0940\u0928\u0947\u092a\u093e\u0932\u0940\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40\u0dc3\u0dd2\u0d82\u0dc4\u0dbdSloven\u010dina\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41\u0627\u0631\u062f\u0648Ti\u1ebfng Vi\u1ec7t\u4e2d\u6587(\u9999\u6e2f)\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438Fran\u00e7ais (Canada)Rom\u00e2n\u0103\u0421\u0440\u043f\u0441\u043a\u0438\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\n\u00a9 2024 Instagram from Meta",
+                    "content_tokens": 464
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 3,
+                    "justification": "Instagram is primarily a visual content platform. The lack of verification and reliance on user-generated posts significantly reduces its reliability as a source of news."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This is a social media post about an unrelated topic (stand-up tickets) and does not address Epstein or the video context at all."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Jeffrey Epstein list: Whose names are on the newly unsealed ...",
+                "htmlTitle": "Jeffrey <b>Epstein</b> list: Whose names are on the newly unsealed ...",
+                "link": "https://www.aljazeera.com/news/2024/1/4/jeffrey-epstein-list-whose-names-are-on-the-newly-unsealed-documents",
+                "displayLink": "www.aljazeera.com",
+                "snippet": "Jan 4, 2024 ... The documents have unearthed sexual assault allegations against Prince Andrew. Trump, Bill Clinton are also mentioned.",
+                "htmlSnippet": "Jan 4, 2024 <b>...</b> The documents have unearthed sexual assault allegations against Prince Andrew. Trump, Bill Clinton are also mentioned.",
+                "formattedUrl": "https://www.aljazeera.com/.../jeffrey-epstein-list-whose-names-are-on-the-n...",
+                "htmlFormattedUrl": "https://www.aljazeera.com/.../jeffrey-<b>epstein</b>-list-whose-names-are-on-the-n...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT92sg5Tz68twxrTNJAaaldAq_OM-RfDRcSAKxdJXq7qM0j7Mm4vOVgj8c&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "Article Page",
+                            "og:image": "https://www.aljazeera.com/wp-content/uploads/2024/01/2019-07-08T160300Z_1145025213_RC197C513270_RTRMADP_3_PEOPLE-JEFFREY-EPSTEIN-1704369900.jpg?resize=1920%2C1440",
+                            "apple-itunes-app": "app-id=1534955972",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Al Jazeera",
+                            "postlabel": "Explainer",
+                            "twitter:url": "https://www.aljazeera.com/news/2024/1/4/jeffrey-epstein-list-whose-names-are-on-the-newly-unsealed-documents",
+                            "pagesection": "Explainer,News,Courts,Crime,Human Trafficking,Sexual Assault",
+                            "channel": "aje",
+                            "publisheddate": "2024-01-04T15:02:09",
+                            "postid": "2597410",
+                            "source": "Al Jazeera and news agencies",
+                            "displayauthors": "Sarah Shamim",
+                            "og:description": "The documents have unearthed sexual assault allegations against Prince Andrew. Trump, Bill Clinton are also mentioned.",
+                            "taxonomyterms": "News, Courts, Crime, Explainer, Human Trafficking, Sexual Assault, United States, US & Canada",
+                            "lastdate": "2024-01-05T05:13:35",
+                            "primarytopic": "News",
+                            "twitter:image:alt": "Jeffrey Epstein list: Whose names are on the newly unsealed documents?",
+                            "sourcetaxonomy": "Al Jazeera and news agencies",
+                            "internalreporting": "Break it down for me",
+                            "where": "United States, US & Canada",
+                            "primarytag": "Courts",
+                            "ga4": "G-XN9JB9Q0M1",
+                            "twitter:account_id": "5536782",
+                            "pageauthors": "Sarah Shamim",
+                            "og:type": "article",
+                            "twitter:title": "Jeffrey Epstein list: Whose names are on the newly unsealed documents?",
+                            "taxonomy-tags": "News, Courts, Crime, Explainer, Human Trafficking, Sexual Assault",
+                            "topics": "News",
+                            "author": "Sarah Shamim",
+                            "og:title": "Jeffrey Epstein list: Whose names are on the newly unsealed documents?",
+                            "tags": "Courts, Crime, Explainer, Human Trafficking, Sexual Assault",
+                            "contenttype": "post",
+                            "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2024/01/2019-07-08T160300Z_1145025213_RC197C513270_RTRMADP_3_PEOPLE-JEFFREY-EPSTEIN-1704369900.jpg?resize=1920%2C1440",
+                            "articleslug": "jeffrey-epstein-list-whose-names-are-on-the-newly-unsealed-documents",
+                            "postlink": "/news/2024/1/4/jeffrey-epstein-list-whose-names-are-on-the-newly-unsealed-documents",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "The documents have unearthed sexual assault allegations against Prince Andrew. Trump, Bill Clinton are also mentioned.",
+                            "pagetitle": "Jeffrey Epstein list: Whose names are on the newly unsealed documents?",
+                            "og:url": "https://www.aljazeera.com/news/2024/1/4/jeffrey-epstein-list-whose-names-are-on-the-newly-unsealed-documents"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.aljazeera.com/wp-content/uploads/2024/01/2019-07-08T160300Z_1145025213_RC197C513270_RTRMADP_3_PEOPLE-JEFFREY-EPSTEIN-1704369900.jpg?resize=1920%2C1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The documents have unearthed sexual assault allegations against Prince Andrew. Donald Trump and Bill Clinton are also mentioned.\nAbout 950 pages of court documents identifying associates of financier and sex offender Jeffrey Epstein were made public on Wednesday.\nIncluded in the unsealed papers are the names of about 150 Epstein associates. The documents were filed as part of Virginia Giuffre\u2019s 2015 defamation lawsuit against Ghislaine Maxwell, Epstein\u2019s co-conspirator in his sexual abuse scheme. Maxwell was sentenced to 20 years in prison in 2022. Epstein died by suicide in 2019 while awaiting sex trafficking charges.\nGiuffre is one of the women who sued Epstein for abusing them at his homes in Florida, New York, the United States Virgin Islands and New Mexico. She said she was pressured into having sex with men in Epstein\u2019s social orbit.\nOther documents were unsealed by the court from 2019 to 2022.\nLast month, a judge listed in a 50-page document about 180 people \u2013 under pseudonyms \u2013 ordering that their identities be made public within 14 days of the order. Some individuals have objected to the disclosure of their identities in the case.\nThe inclusion of a name on the list does not indicate there are any allegations against the individual.\n \n\n \nHere is a...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Al Jazeera is recognized for its international reporting and in-depth coverage. While it has been critiqued for perceived biases, it remains a respected source for diverse perspectives."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2024-01-04"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This article discusses the unsealing of documents related to Epstein and mentions potential connections and allegations but does not focus on the viral video or clarify its origins. It provides some indirect context, but it is limited in relevance to the video itself."
+                }
+            }
+        }
+    ]
+}

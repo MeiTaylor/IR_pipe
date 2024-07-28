@@ -1,0 +1,535 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - current situation in Ukraine war August 2023",
+                "totalResults": "116000000",
+                "searchTerms": "current situation in Ukraine war August 2023",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - current situation in Ukraine war August 2023",
+                "totalResults": "116000000",
+                "searchTerms": "current situation in Ukraine war August 2023",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.264623,
+        "formattedSearchTime": "0.26",
+        "totalResults": "116000000",
+        "formattedTotalResults": "116,000,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "August 30, 2023 - Russia-Ukraine news | CNN",
+                "htmlTitle": "<b>August 30, 2023</b> - Russia-<b>Ukraine news</b> | CNN",
+                "link": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-08-30-23/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Aug 30, 2023 ... Russia saw the largest drone assault on its territory Wednesday since it launched its war on Ukraine.",
+                "htmlSnippet": "Aug 30, 2023 <b>...</b> Russia saw the largest drone assault on its territory Wednesday since it launched its <b>war</b> on <b>Ukraine</b>.",
+                "formattedUrl": "https://www.cnn.com/europe/live-news/russia-ukraine-war.../index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/europe/live-news/russia-<b>ukraine</b>-<b>war</b>.../index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1x9tvT-E2T7k6YMc5v5_CKmR3FpdXpfojWBc77F5Ou4MK5TgVc1C91r_A&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/230828122542-04-ukraine-f16-fighter-planes-intl.jpg?c=16x9&q=w_800,c_fill",
+                            "twitter:title": "August 30, 2023 - Russia-Ukraine news | CNN",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-08-30T04:00:20Z",
+                            "og:site_name": "CNN",
+                            "author": "Jessie Yeung,Sophie Tanno,Caolan Magee,Mike,Hayes,Hannah Strange",
+                            "og:title": "August 30, 2023 - Russia-Ukraine news | CNN",
+                            "meta-section": "world",
+                            "type": "live-story",
+                            "og:description": "Russia saw the largest drone assault on its territory Wednesday since it launched its war on Ukraine.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/230828122542-04-ukraine-f16-fighter-planes-intl.jpg?c=16x9&q=w_800,c_fill",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "article:tag": "continents and regions, eastern europe, europe, russia, ukraine",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@CNN",
+                            "article:modified_time": "2023-08-31T04:01:49.450Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "Russia saw the largest drone assault on its territory Wednesday since it launched its war on Ukraine.",
+                            "template_type": "article_livestory",
+                            "meta-branding": "live-story-v2",
+                            "theme": "world",
+                            "og:url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-08-30-23/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/230828122542-04-ukraine-f16-fighter-planes-intl.jpg?c=16x9&q=w_800,c_fill"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated].... Six Russian regions including Moscow came under attack early Wednesday, while in the city of Pskov, near the Estonian border, several transport planes were reportedly damaged when drones targeted an airport. Russian officials haven’t reported any casualties, and claimed to have thwarted almost all of the strikes.\n    \n\n            Ukraine has increasingly been emboldened to hit strategic targets inside Russia through the air in recent weeks, even as it suffers assaults on its own cities, setting up a new phase of the conflict defined by Kyiv’s apparent efforts to wear down domestic Russian support for the war.\n    \n\n            Kyiv officials meanwhile said Russia hit the Ukrainian capital with a “massive” bombardment overnight. \n    \n\nCNN’s Rob Picheta, Anna Chernova and Gul Tuysuz contributed reporting to this post.\n\n\n            The northeastern Ukrainian city of Kharkiv has set up 60 classrooms in its subway ahead of the start of the school year in September, the mayor said in a statement.\n    \n\n            Kharkiv, which lies roughly 20 miles from the Russian border, was occupied by Russian forces in the early months of the war. Ukraine managed to liberate the city in September last year — but Russian forces have since tried to recapture the city, which has come under frequent bombardment for much of this summer.\n    \n\n            The underground classrooms will accommodate around 1,000 students, with plans to set up even more classrooms to allow for safe in-person education several days a week, Kharkiv mayor Ihor Terekhov said.\n    \n\n            The city’s subways were the main shelter for its residents during intense Russian bombardment in the first few months of the war.\n    \n\n            Ukraine ordered mandatory evacuations in Kharkiv region earlier this month, after a local Ukrainian official said that substantial reinforcements had turned the area into the “epicenter” of hostilities.\n    \n\n            Russia claimed to have captured several Ukrainian positions near the city of Kharkiv in recent weeks, with the eventual goal of capturing the city for a second time. \n    \n\n            A Kremlin spokesman has attributed the biggest drone assault on Russian territory since the war in Ukraine began to the “continued terrorist activity of the Kyiv regime.” \n    \n\n            The Russian President Vladimir Putin is receiving “timely and up-to-date information” on all developments, Kremlin spokesman Dmitry Peskov told reporters on Wednesday. \n    \n\n        “Of course, with regard to such massive attacks, the information is also immediately brought to the attention of the Supreme Commander-in-Chief [Vladimir Putin],” Peskov added.\n    \n\n            Journalists on the regular Kremlin call pressed P...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Russia-Ukraine war: List of events, day 552",
+                "htmlTitle": "Russia-<b>Ukraine war</b>: List of events, day 552",
+                "link": "https://www.aljazeera.com/news/2023/8/29/russia-ukraine-war-list-of-events-day-552",
+                "displayLink": "www.aljazeera.com",
+                "snippet": "Aug 29, 2023 ... A vegetable oil factory on fire after a Russian missile attack. There are flames and ... Here is the situation on August 29, 2023. Fighting.",
+                "htmlSnippet": "Aug 29, 2023 <b>...</b> A vegetable oil factory on fire after a Russian missile attack. There are flames and ... Here is the <b>situation</b> on <b>August 29, 2023</b>. <b>Fighting</b>.",
+                "formattedUrl": "https://www.aljazeera.com/.../2023/.../russia-ukraine-war-list-of-events-day-...",
+                "htmlFormattedUrl": "https://www.aljazeera.com/.../<b>2023</b>/.../russia-<b>ukraine</b>-<b>war</b>-list-of-events-day-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQqUmBacTocC0WwqKncLLOkI8ZlKAVZZaqWQf5acxompMC_8_Qaj25JW0b&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "Article Page",
+                            "og:image": "https://www.aljazeera.com/wp-content/uploads/2023/08/2023-08-28T191838Z_1618971776_RC2YW2ACEJ65_RTRMADP_3_UKRAINE-CRISIS-ATTACK-POLTAVA-1693271814.jpg?resize=1200%2C630",
+                            "apple-itunes-app": "app-id=1534955972",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Al Jazeera",
+                            "twitter:url": "https://www.aljazeera.com/news/2023/8/29/russia-ukraine-war-list-of-events-day-552",
+                            "pagesection": "News,Conflict,Military,Politics,Russia-Ukraine war,Weapons",
+                            "channel": "aje",
+                            "publisheddate": "2023-08-29T01:43:48",
+                            "postid": "2335784",
+                            "source": "Al Jazeera and news agencies",
+                            "og:description": "As the war enters its 552nd day, these are the main developments.",
+                            "taxonomyterms": "News, Conflict, Military, Politics, Russia-Ukraine war, Weapons, Europe, Russia, Ukraine",
+                            "lastdate": "2023-08-29T01:43:48",
+                            "primarytopic": "News",
+                            "twitter:image:alt": "Russia-Ukraine war: List of events, day 552",
+                            "sourcetaxonomy": "Al Jazeera and news agencies",
+                            "where": "Europe, Russia, Ukraine",
+                            "primarytag": "Russia-Ukraine war",
+                            "ga4": "G-XN9JB9Q0M1",
+                            "twitter:account_id": "5536782",
+                            "og:type": "article",
+                            "twitter:title": "Russia-Ukraine war: List of events, day 552",
+                            "taxonomy-tags": "News, Conflict, Military, Politics, Russia-Ukraine war, Weapons",
+                            "topics": "News",
+                            "og:title": "Russia-Ukraine war: List of events, day 552",
+                            "ia:markup_url": "https://www.aljazeera.com/ia_markup/news/2023/8/29/russia-ukraine-war-list-of-events-day-552",
+                            "tags": "Conflict, Military, Politics, Russia-Ukraine war, Weapons",
+                            "contenttype": "post",
+                            "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2023/08/2023-08-28T191838Z_1618971776_RC2YW2ACEJ65_RTRMADP_3_UKRAINE-CRISIS-ATTACK-POLTAVA-1693271814.jpg?resize=1200%2C630",
+                            "articleslug": "russia-ukraine-war-list-of-events-day-552",
+                            "postlink": "/news/2023/8/29/russia-ukraine-war-list-of-events-day-552",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "As the war enters its 552nd day, these are the main developments.",
+                            "pagetitle": "Russia-Ukraine war: List of events, day 552",
+                            "og:url": "https://www.aljazeera.com/news/2023/8/29/russia-ukraine-war-list-of-events-day-552"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.aljazeera.com/wp-content/uploads/2023/08/2023-08-28T191838Z_1618971776_RC2YW2ACEJ65_RTRMADP_3_UKRAINE-CRISIS-ATTACK-POLTAVA-1693271814.jpg?resize=1200%2C630"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "!\nRussian missiles destroyed a vegetable oil factory in the Poltava region, killing at least three people and injuring five \\\nHere is the situation on August 29, 2023.\nFighting\n--------\n*   Ukraine’s Deputy Defence Minister Hanna Maliar said the country’s armed forces had broken through Russian defences in the southeastern village of Robotyne. “Robotyne has been liberated,” she said, adding that troops were trying to push further south in their counteroffensive against Russian forces.\n*   At least three people were killed in an overnight Russian missile strike on Ukraine and two more in shelling, Ukrainian officials said. Interior Minister Ihor Klymenko said three people were killed and five injured after a factory in the Poltava region was hit with a missile. One person remains unaccounted for. The shelling killed two villagers in settlements in the south and east of the country.\n*   Russia’s Ministry of Defence said Russia scrambled two fighter jets to ward off two United States reconnaissance drones flying over the Black Sea near Crimea. Separately, Russian state-run news agency TASS said air defence systems shot down two drones over Crimea. Moscow invaded and later annexed the peninsula from Ukraine in 2014.\n*   Russian air defences destroyed a drone approaching Moscow and two others in a region near the Ukrainian border, according to Russian authorities. The drone coming at Moscow prompted a brief suspension of flights...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Situation Ukraine Refugee Situation",
+                "htmlTitle": "<b>Situation Ukraine</b> Refugee <b>Situation</b>",
+                "link": "https://data.unhcr.org/en/situations/ukraine",
+                "displayLink": "data.unhcr.org",
+                "snippet": "This report describes the most relevant trends and data points on education of refugee children and youth from Ukraine based on the most recent 2023 ...",
+                "htmlSnippet": "This report describes the most relevant trends and data points on education of refugee children and youth from <b>Ukraine</b> based on the most <b>recent 2023</b>&nbsp;...",
+                "formattedUrl": "https://data.unhcr.org/en/situations/ukraine",
+                "htmlFormattedUrl": "https://data.unhcr.org/en/<b>situation</b>s/<b>ukraine</b>",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nPinned\n*   ! ]\n    ----------------------------------------------------------------------------------------\n    Document\n    *     Download] View]\n    *   2.99 MB\n    *   Download Count: 141\n    Ukraine Situation: Flash Update #71 22-07-2024\n    Publish date: **22 July 2024** (5 days ago)  \n    Create date: **24 July 2024** (3 days ago)\n    !\n    *   !\n    *   !\n    *   \n*   ! ]\n    ----------------------------------------------------------------------------------------------------------------------------------------------------\n    Document\n    *     Download] View]\n    *   3.63 MB\n    *   Download Count: 501\n    This report presents key findings related to protection, including child protection, gender-based violence, and accountability to affected populations based on the most recent 2023 Multi-Sector Needs ...\n    Publish date: **28 June 2024** (29 days ago)  \n    Create date: **28 June 2024** (29 days ago)\n    !\n    *   !\n    *   !\n    *   \n*   ! ]\n    ----------------------------------------------------------------------------------------------------------\n    Document\n    *     Download] View]\n    *   684.29 KB\n    *   Download Count: 595\n    This report describes the most relevant trends and data points on education of refugee children and youth from Ukraine based on the most recent 2023 Multi-Sector Needs Assessment (MSNA) conducted in s...\n    Publish date: **26 June 2024** (1 month ago)  \n    Create date: **26 June 2024** (1 month ago)\n    !\n    *   !\n    *   !\n    *   \n*   ! ]\n    ------------------------------------------------------------------------------------------------------------------------------------------------------------------\n    Document\n    *     Download] View]\n    *   2.03 MB\n    *   Download Count: 535\n    Belarus, Bulgaria, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Hungary, Moldova, Poland, Romania, and Slovakia\n    Publish date: **18 June 2024** (1 month ago)  \n    Create date: **18 June 2024** (1 month ago)\n    !\n    *   !\n    *   !\n    *   \n*   ! ]\n    ----------------------------------------------------------------------------------------\n    Document\n    *     Download] View]\n    *   1.66 MB\n    *   Download Count: 641\n    Publish date: **14 June 2024** (1 month ago)  \n    Create date: **14 June 2024** (1 month ago)\n    !\n    *   !\n    *   !\n    *   \n*   !...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Ukraine war: What are the impacts on the world today ...",
+                "htmlTitle": "<b>Ukraine war</b>: What are the impacts on the world <b>today</b> ...",
+                "link": "https://www.rescue.org/article/ukraine-war-what-are-impacts-world-today",
+                "displayLink": "www.rescue.org",
+                "snippet": "Ukraine Crisis. Ukraine war: What are the impacts on the world today? August 23, 2022. Last updated: August 15, 2023. Photo: Francesco Pistilli for IRC.",
+                "htmlSnippet": "<b>Ukraine Crisis</b>. <b>Ukraine war</b>: What are the impacts on the world <b>today</b>? <b>August</b> 23, 2022. Last updated: <b>August</b> 15, <b>2023</b>. Photo: Francesco Pistilli for IRC.",
+                "formattedUrl": "https://www.rescue.org/article/ukraine-war-what-are-impacts-world-today",
+                "htmlFormattedUrl": "https://www.rescue.org/article/<b>ukraine</b>-<b>war</b>-what-are-impacts-world-today",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS90yn60LaP1SNiNuyglIckubeHe4vJuihTvqjiRGKhHp-VrAO5zfHT_u-_&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.rescue.org/sites/default/files/styles/widescreen_16x9_1280px_wide/public/2022-08/pic%202.png?itok=0cWIFH9w",
+                            "og:image:width": "1280",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Ukraine war: What are the impacts on the world today?",
+                            "og:site_name": "The IRC",
+                            "handheldfriendly": "true",
+                            "twitter:url": "https://www.rescue.org/article/ukraine-war-what-are-impacts-world-today",
+                            "og:title": "Ukraine war: What are the impacts on the world today?",
+                            "og:image:height": "720",
+                            "twitter:image:height": "720",
+                            "og:description": "The ripple effects of the war can be felt across the globe.",
+                            "twitter:image": "https://www.rescue.org/sites/default/files/styles/widescreen_16x9_1280px_wide/public/2022-08/pic%202.png?itok=0cWIFH9w",
+                            "twitter:site": "@RescueOrg",
+                            "naver-site-verification": "68258c8ce45da2ff0efe53ad2e145328686db956",
+                            "twitter:image:width": "1280",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "The ripple effects of the war can be felt across the globe.",
+                            "mobileoptimized": "width",
+                            "og:url": "https://www.rescue.org/article/ukraine-war-what-are-impacts-world-today"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.rescue.org/sites/default/files/styles/widescreen_16x9_1280px_wide/public/2022-08/pic%202.png?itok=0cWIFH9w"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...ainian refugees are predominantly finding safety in neighboring countries. To date, there are almost 1 million Ukrainian refugees in Poland while other nearby countries Hungary, Romania, Slovakia and Moldova have each given safety to tens of thousands of Ukrainian refugees.\n!\nMarta\\* and Oksana\\* are two sisters from Ukraine. When the war escalated they fled together with their children and one small bag to Poland. The sisters are grateful for the assistance provided by volunteers who are welcoming refugees.\nPhoto: Andrew Oberstadt for the IRC\n### What is life like for Ukrainian women and children fleeing the conflict?\nIn crisis settings, existing gender inequality is exacerbated while instances of gender based violence increase. Women and girls with extremely stretched resources and disrupted support networks are vulnerable to traffickers ready to exploit the crisis.\nWomen forced to flee their homes also often struggle to access critical reproductive health care and pre and post-natal care, which are typically limited in crisis situations.\nChildren forced to flee Ukraine have had their lives uprooted, education interrupted and are in some cases have even been separated from their families.\n!\nMaria waits for transportation with her daughter, Daryna, and their dog, Tyson. “It was time to leave. I was also concerned about my child. I wanted her to stay alive, that no bombs would fall on us,\" said Maria.\nPhoto: Andrew Oberstadt for IRC\nHow does the war in Ukraine affect the rest of the world?\n---------------------------------------------------------\nThe war in Ukraine has an obvious impact on those within the country. Outside of Ukraine, the war also continues to have a  The impact of the armed conflict on grain exports has worsened a global hunger crisis, with catastrophic impacts throughout the world.\n### Why is Ukraine grain so important?\nUkraine is historically a large exporter of grain. In 2021, Ukrainian grain . For the first 5 months of the war, Ukraine was unable to export its grain through its primary shipping routes through the Black Sea.\nCountries reliant on this grain suffered as a consequence. Several grain-receiving countries across the Middle East and Africa were already experiencing hunger crises due to conflict and climate change. The war in Ukraine made these hunger crises worse.\n### What countries are impacted by the war in Ukraine?\nThe global repercussions of the war have had catastrophic impacts on countries already facing conflict and crises.\nisexperiencing one of the worst droughts in recent decades, triggered by six consecutive  alongside the disruption in food supply caused by the war in Ukraine. Across the region, 22 million people don’t have access to sufficient food, and 1.5 million...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Alternate Reality: How Russian Society Learned to Stop Worrying ...",
+                "htmlTitle": "Alternate Reality: How Russian Society Learned to Stop Worrying ...",
+                "link": "https://carnegieendowment.org/2023/11/28/alternate-reality-how-russian-society-learned-to-stop-worrying-about-war-pub-91118",
+                "displayLink": "carnegieendowment.org",
+                "snippet": "Nov 28, 2023 ... See the August assessments poll on the conflict with Ukraine: https://www.levada.ru/2023/09/05/konflikt-s-ukrainoj-otsenki-kontsa-avgusta-2023- ...",
+                "htmlSnippet": "Nov 28, 2023 <b>...</b> See the <b>August</b> assessments poll on the <b>conflict</b> with <b>Ukraine</b>: https://www.levada.ru/<b>2023</b>/09/05/konflikt-s-ukrainoj-otsenki-kontsa-avgusta-<b>2023</b>-&nbsp;...",
+                "formattedUrl": "https://carnegieendowment.org/2023/.../alternate-reality-how-russian-societ...",
+                "htmlFormattedUrl": "https://carnegieendowment.org/<b>2023</b>/.../alternate-reality-how-russian-societ...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPP4gaeTZ2Msw6ZrvPSxzdBiMsbroxrSgYREswm3MhgnEnRQqLlXv938U&s",
+                            "width": "305",
+                            "height": "165"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://carnegie-production-assets.s3.amazonaws.com/static/media/images/R-U-Conf-1421.jpg",
+                            "twitter:title": "Alternate Reality: How Russian Society Learned to Stop Worrying About the War",
+                            "twitter:card": "summary_large_image",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Many Russians equate their country with the political regime that rules it, and believe it is their duty to support the state’s actions. This belief and the limited impact the war in Ukraine has had on the day-to-day lives of most Russians go some way to explaining continuing high levels of support for the war among Russians.",
+                            "og:title": "Alternate Reality: How Russian Society Learned to Stop Worrying About the War",
+                            "google": "notranslate",
+                            "og:description": "Many Russians equate their country with the political regime that rules it, and believe it is their duty to support the state’s actions. This belief and the limited impact the war in Ukraine has had on the day-to-day lives of most Russians go some way to explaining continuing high levels of support for the war among Russians.",
+                            "twitter:image": "https://carnegie-production-assets.s3.amazonaws.com/static/media/images/R-U-Conf-1421.jpg"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://carnegie-production-assets.s3.amazonaws.com/static/media/images/R-U-Conf-1421.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... as the years have passed, Russian society still hasn’t been able to emancipate itself from the state. For most people, the interest of the state, especially on a symbolic level (for example, the Russian national anthem, the flag of the Russian Federation, the president, and the armed forces), is equated with the national interest. The “special military operation” has laid this phenomenon bare. While there is little trust for the authorities on everyday matters, the state is still sacralized as waging a “defensive” and “liberational” battle against an imaginary enemy “attack” on the homeland.\nThe state continues to create the prevailing public opinion through propaganda. That success artificially generates demand for the country’s false imperial grandeur. Russian society has yet to develop immunity against such moves by the state. Of course, the Russian public is not some kind of collective Dr. Strangelove that has “learned to stop worrying and love the bomb.” But the processes by which society has absorbed ideas and events over the past twenty months of the protracted “special military operation” have tarnished people’s morals and distorted their sense of reality. A year ago, this segment of society might have chosen to hide from reality. Today it is living in an artificial world in which the Russian nation is carrying out a messianic mission and defending itself from the West that seeks to destroy it.\n1Andrei Kolesnikov, “Wait and See: How Ordinary Russians Are Adapting to the New Reality,” Carnegie Politika, August 4, 2023, https://carnegieendowment.org/politika/90327.\n2Denis Volkov and Andrei Kolesnikov, “My Country, Right or Wrong: Russian Public Opinion on Ukraine,” Carnegie Endowment for International Peace, September 7, 2022, https://carnegieendowment.org/2022/09/07/my-country-right-or-wrong-russian-public-opinion-on-ukraine-pub-87803.\n3The average total numbers of “definitely support” and “mostly support” answers are recorded in this Levada Center poll: “Conflict With Ukraine: Review at the End of August 2023” [in Russian], published September 5, 2023, https://www.levada.ru/2023/09/05/konflikt-s-ukrainoj-otsenki-kontsa-avgusta-2023-goda/.\n4We wrote about this last year, and the situation has changed little since then. See Volkov and Kolesnikov, “My Country, Right...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "U.S. Security Assistance to Ukraine",
+                "htmlTitle": "U.S. Security Assistance to <b>Ukraine</b>",
+                "link": "https://crsreports.congress.gov/product/pdf/IF/IF12040",
+                "displayLink": "crsreports.congress.gov",
+                "snippet": "May 22, 2024 ... Since August 2023 most PDA packages have been transferred under ... FY2016-FY2023, as obligated; FY2024, as announced by the Department of State.",
+                "htmlSnippet": "May 22, 2024 <b>...</b> Since <b>August 2023</b> most PDA packages have been transferred under ... FY2016-FY2023, as obligated; FY2024, as announced by the Department of <b>State</b>.",
+                "formattedUrl": "https://crsreports.congress.gov/product/pdf/IF/IF12040",
+                "htmlFormattedUrl": "https://crsreports.congress.gov/product/pdf/IF/IF12040",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "moddate": "D:20240524163123-04'00'",
+                            "creationdate": "D:20240524163119-04'00'",
+                            "producer": "iText® 7.1.2 ©2000-2018 iText Group NV (AGPL-version); modified using iText® 7.1.2 ©2000-2018 iText Group NV (AGPL-version)"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Biden Administration Announces Additional Security Assistance for ...",
+                "htmlTitle": "Biden Administration Announces Additional Security Assistance for ...",
+                "link": "https://www.defense.gov/News/Releases/Release/Article/3509116/biden-administration-announces-additional-security-assistance-for-ukraine/",
+                "displayLink": "www.defense.gov",
+                "snippet": "Aug 29, 2023 ... ... Ukraine since August 2021. It includes additional air defense and ... Ukraine counter Russia's ongoing war of aggression on the battlefield and ...",
+                "htmlSnippet": "Aug 29, 2023 <b>...</b> ... <b>Ukraine</b> since <b>August</b> 2021. It includes additional air defense and ... <b>Ukraine</b> counter Russia&#39;s ongoing <b>war</b> of aggression on the battlefield and&nbsp;...",
+                "formattedUrl": "https://www.defense.gov/.../biden-administration-announces-additional-sec...",
+                "htmlFormattedUrl": "https://www.defense.gov/.../biden-administration-announces-additional-sec...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlD8n4SJq9vGj4n1oirvQS80czDRQH1vZTOphFNkt1Fx4WW9i-4r6fvQgE&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.defense.gov/2021/Sep/30/2002865254/1280/1280/0/210930-D-EX074-055.JPG",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Biden Administration Announces Additional Security Assistance for Ukra",
+                            "og:type": "website",
+                            "og:site_name": "U.S. Department of Defense",
+                            "og:title": "Biden Administration Announces Additional Security Assistance for Ukraine",
+                            "twitter:creator": "@DeptofDefense",
+                            "og:description": "The DOD announced additional security assistance to meet Ukraine's critical security and defense needs.",
+                            "twitter:image": "https://media.defense.gov/2021/Sep/30/2002865254/1280/1280/0/210930-D-EX074-055.JPG",
+                            "twitter:site": "@DeptofDefense",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "twitter:description": "The DOD announced additional security assistance to meet Ukraine's critical security and defense needs.",
+                            "contact": "dma.meade.web-mil-service-desk@mail.mil",
+                            "host": "DMA Public Web",
+                            "og:url": "https%3A%2F%2Fwww.defense.gov%2FNews%2FReleases%2FRelease%2FArticle%2F3509116%2Fbiden-administration-announces-additional-security-assistance-for-ukraine%2F"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.defense.gov/2021/Sep/30/2002865254/1280/1280/0/210930-D-EX074-055.JPG"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... *   \n        *   \n    *   \n        *   \n        *   \n        *   \n*   \n    *   \n        *   \n        *   \n        *   \n*   \n    *   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n        *   \n        *   \n*   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n*   \n*   \n*   \nImmediate Release\nBiden Administration Announces Additional Security Assistance for Ukraine\n=========================================================================\nAug. 29, 2023 |\n×\nShare\n(javascript:void\\(0\\))\nEmail\nFacebook\nX\nLinkedIn\nWhatsApp\nToday, the Department of Defense (DoD) announced additional security assistance to meet Ukraine's critical security and defense needs. This announcement is the Biden Administration's forty-fifth tranche of equipment to be provided from DoD inventories for Ukraine since August 2021. It includes additional air defense and artillery munitions, mine clearing equipment, medical vehicles, and other equipment to help Ukraine counter Russia's ongoing war of aggression on the battlefield and protect its people.\nThe capabilities in this package, valued at up to $250 million, include:\n*   AIM-9M missiles for air defense;\n*   Additional ammunition for High Mobility Artillery Rocket Systems (HIMARS);\n*   155mm and 105mm artillery rounds;\n*   Mine clearing equipment;\n*   Tube-Launched, Optically-Tracked, Wire-Guided (TOW) missiles;\n*   Javelin and other anti-armor systems and rockets;\n*   Hydra-70 Rockets;\n*   Over 3 million rounds of small arms ammunition;\n*   Armored medical treatment vehicles and High Mobility Multipurpose Wheeled Vehicle (HMMWV) ambulances;\n*   Demolitions munitions for obstacle clearing; and\n*   Spare parts, maintenance, and other field equipment.\nThis security assistance package will utilize assistance previously authorized under Presidential Drawdown Authority (PDA) for Ukraine that remained after the PDA revaluation process concluded in June.\nThe United States will continue to work with its Allies and partners to provide Ukraine with capabilities to meet its immediate battlefield needs and longer-term...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Russian Offensive Campaign Assessment, August 28, 2023 ...",
+                "htmlTitle": "Russian Offensive Campaign Assessment, <b>August</b> 28, <b>2023</b> ...",
+                "link": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-august-28-2023",
+                "displayLink": "www.understandingwar.org",
+                "snippet": "Aug 28, 2023 ... Ukrainian officials formally acknowledged that Ukrainian forces had liberated Robotyne amid continued Ukrainian advances in western ...",
+                "htmlSnippet": "Aug 28, 2023 <b>...</b> <b>Ukrainian</b> officials formally acknowledged that <b>Ukrainian</b> forces had liberated Robotyne amid continued <b>Ukrainian</b> advances in western&nbsp;...",
+                "formattedUrl": "https://www.understandingwar.org/.../russian-offensive-campaign-assessme...",
+                "htmlFormattedUrl": "https://www.understanding<b>war</b>.org/.../russian-offensive-campaign-assessme...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd2mWIFI8P7M-XBxHTSsAtdnVSDpw_QUKZO0nHISiBAWzZLZpMSW8T&s",
+                            "width": "125",
+                            "height": "125"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:type": "website",
+                            "og:site_name": "Institute for the Study of War",
+                            "og:title": "Institute for the Study of War",
+                            "fb:admins": "100003039833570",
+                            "og:url": "http://dev-isw.bivings.com/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.understandingwar.org/sites/default/files/styles/square_thumbnail/public/ISW%20LOGO%20FINAL%20ACRONYM%20%20%20NAME_ISW%20LOGO%20FINAL%20ACRONYM%20NAME%20CMYK_1543.png?itok=fKG_2X59"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "**Russian Offensive Campaign Assessment, August 28, 2023**\n**Riley Bailey, Kateryna Stepanenko, Nicole Wolkov, Christina Harward, and Mason Clark**\n**August 28, 2023, time 7:10pm ET**\n**Click**  **to see ISW’s interactive map of the Russian invasion of Ukraine. This map is updated daily alongside the static maps present in this report.**\n**Click**  **to access ISW’s archive of interactive time-lapse maps of the Russian invasion of Ukraine. These maps complement the static control-of-terrain map that ISW produces daily by showing a dynamic frontline. ISW will update this time-lapse map archive monthly.**\n**Note: The data cut-off for this product was 1:30pm ET on August 28. ISW will cover subsequent reports in the August 29 Russian Offensive Campaign Assessment.**\n**Ukrainian officials formally acknowledged that Ukrainian forces had liberated Robotyne amid continued Ukrainian advances in western Zaporizhia Oblast and near Bakhmut.** Ukrainian Deputy Defense Minister Hanna Malyar reported on August 28 that Ukrainian forces have liberated Robotyne, achieved unspecified successes southeast of Robotyne (10km south of Orikhiv) and south of Mala Tokmachka (7km southeast of Orikhiv), and are advancing in the directions of Novodanylivka (4km south of Orikhiv), Novopokropivka (15km south of Orikhiv), Mala Tokmachka, and Ocheretuvate (25km southwest of Orikhiv).\\ Heat anomalies from NASA FIRMS/VIIRS sensors and Russian claims of Ukrainian advances likely indicate that Ukrainian forces advanced near Verbove.\\ Malyar also stated that Ukrainian forces pushed Russian forces out of positions east of Klishchiivka (7km southwest of Bakhmut) and in the center of the settlement and have made unspecified progress near Orikhovo-Vasylivka (11km northwest of Bakhmut).\\\nMalyar reported that Ukrainian forces continue offensive operations in the southern direction, which she specified is the main direction of Ukrainian...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Conflict in Ukraine: A timeline (2014 - eve of 2022 invasion)",
+                "htmlTitle": "<b>Conflict in Ukraine</b>: A timeline (2014 - eve of 2022 <b>invasion</b>)",
+                "link": "https://researchbriefings.files.parliament.uk/documents/CBP-9476/CBP-9476.pdf",
+                "displayLink": "researchbriefings.files.parliament.uk",
+                "snippet": "Aug 22, 2023 ... The current conflict in Ukraine began on 24 February 2022 when Russian ... Commons Library Research Briefing, 22 August 2023. Ukraine and urges ...",
+                "htmlSnippet": "Aug 22, 2023 <b>...</b> The <b>current conflict in Ukraine</b> began on 24 February 2022 when Russian ... Commons Library Research Briefing, 22 <b>August 2023</b>. <b>Ukraine</b> and urges&nbsp;...",
+                "formattedUrl": "https://researchbriefings.files.parliament.uk/documents/CBP.../CBP-9476.pd...",
+                "htmlFormattedUrl": "https://researchbriefings.files.parliament.uk/documents/CBP.../CBP-9476.pd...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxPg636nCmh2ncEz9uaMkk5CTdYdxpoCtbcRFRanjRYyPQ5dBLsOyqM3ZR&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "monep_sizes_side_comment": "Width=116.25|Heights=Small,144;Medium,201;Large,312|Left=-128.15|PageType=One",
+                            "msip_label_a8f77787_5df4_43b6_a2a8_8d8b678a318b_actionid": "2cacb921-06fb-4a3e-b22b-e02aaf734a14",
+                            "creationdate": "D:20230823094138+01'00'",
+                            "msip_label_a8f77787_5df4_43b6_a2a8_8d8b678a318b_setdate": "2022-02-26T17:59:03Z",
+                            "monep_coverimage": "S:\\Teams\\Research and Library Central Team\\Images\\Briefing paper images\\Subject based images\\International affairs\\Ukraine conflict images\\OSCE_SMM_monitoring_the_movement_of_heavy_weaponry_in_eastern_Ukraine_(16705750566).jpg",
+                            "monep_docver": "1.0.10",
+                            "msip_label_a8f77787_5df4_43b6_a2a8_8d8b678a318b_siteid": "1ce6dd9e-b337-4088-be5e-8dbbec04b34a",
+                            "moddate": "D:20230823094200+01'00'",
+                            "sourcemodified": "D:20230823083650",
+                            "monep_sizes_page_landscape": "Width=751|Heights=Small,144;Medium,201;Large,312|Left=-128.15|PageType=Landscape",
+                            "monep_sizes_page": "Width=504.65|Heights=Small,144;Medium,201;Large,312|Left=-128.15|PageType=One",
+                            "msip_label_a8f77787_5df4_43b6_a2a8_8d8b678a318b_contentbits": "0",
+                            "monep_sizes_page_blank_landscape": "Width=785.25|Heights=Large,595.35|Left=0|PageType=BlankLandscape",
+                            "order": "152000.000000",
+                            "creator": "Acrobat PDFMaker 23 for Word",
+                            "rmkeyword2": "13;#Research Publications|e82f486a-a3ac-432f-993e-ae1176475c2d",
+                            "msip_label_a8f77787_5df4_43b6_a2a8_8d8b678a318b_method": "Standard",
+                            "_dlc_dociditemguid": "1b078033-916f-4794-a8cf-4198252350ac",
+                            "author": "WALKER, Nigel",
+                            "monep_docauthor": "Meta One Limited",
+                            "contenttypeid": "0x0101000359265A85CD3448B1AC585A6F0481F4",
+                            "monep_covertype": "picCover2",
+                            "monep_sizes_column": "Width=376.5|Heights=Small,144;Medium,201;Large,312|Left=0|PageType=One",
+                            "monep_sizes_column_landscape": "Width=623.1|Heights=Small,144;Medium,201;Large,312|Left=0|PageType=Landscape",
+                            "monep_sizes_page_blank_portrait": "Width=538.65|Heights=Large,841.95|Left=0|PageType=BlankPortrait",
+                            "producer": "Adobe PDF Library 23.3.45",
+                            "msip_label_a8f77787_5df4_43b6_a2a8_8d8b678a318b_name": "a8f77787-5df4-43b6-a2a8-8d8b678a318b",
+                            "monep_doctype": "Library Research Briefing",
+                            "msip_label_a8f77787_5df4_43b6_a2a8_8d8b678a318b_enabled": "true"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "x-raw-image:///fed5b09509224ab4a2e35dc42436c0a9ce52dd10adb04a240d00e3375d4a81c2"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Ukraine Events Timeline",
+                "htmlTitle": "<b>Ukraine</b> Events Timeline",
+                "link": "https://www.defense.gov/Spotlights/Support-for-Ukraine/Timeline/",
+                "displayLink": "www.defense.gov",
+                "snippet": "Russian War in UkraineTIMELINE. Since Feb. 24, 2022, the United States and its allies and partners have provided equipment and training to Ukraine, ...",
+                "htmlSnippet": "Russian <b>War</b> in <b>Ukraine</b>TIMELINE. Since Feb. 24, 2022, the United States and its allies and partners have provided equipment and training to <b>Ukraine</b>,&nbsp;...",
+                "formattedUrl": "https://www.defense.gov/Spotlights/Support-for-Ukraine/Timeline/",
+                "htmlFormattedUrl": "https://www.defense.gov/Spotlights/Support-for-<b>Ukraine</b>/Timeline/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsiUGl8n22STgiRtmLunW9aV5ntopR0Yz67PgwRy5gULhtRHwRT4sPcsDK&s",
+                            "width": "290",
+                            "height": "174"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.defense.gov/Portals/1/Spotlight/2022/ukraine/Ukraine_map_lg2.jpg",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Support for Ukraine: Timeline",
+                            "og:site_name": "U.S. Department of Defense",
+                            "og:title": "Russian War in Ukraine: Timeline",
+                            "og:description": "Since Feb. 24, 2022, the United States and its allies and partners have provided equipment and training to Ukraine, capabilities necessary for Ukraine’s defense of its sovereign territory. This international security assistance has had a significant impact in defending against Russian aggression within Ukraine and preparing the Ukrainian armed forces for the fight ahead.",
+                            "twitter:creator": "@DeptofDefense",
+                            "twitter:image": "https://www.defense.gov/Portals/1/Spotlight/2022/ukraine/Ukraine_map_lg2.jpg",
+                            "twitter:site": "https://www.defense.gov/Spotlights/Support-for-Ukraine/Timeline/",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "twitter:description": "Since Feb. 24, 2022, the United States and its allies and partners have provided equipment and training to Ukraine, capabilities necessary for Ukraine’s defense of its sovereign territory. This international security assistance has had a significant impact in defending against Russian aggression within Ukraine and preparing the Ukrainian armed forces for the fight ahead.",
+                            "contact": "dma.meade.web-mil-service-desk@mail.mil",
+                            "host": "DMA Public Web",
+                            "og:url": "https://www.defense.gov/Spotlights/Support-for-Ukraine/Timeline/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.defense.gov/Portals/1/Spotlight/2022/ukraine/Ukraine_map_lg2.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Official websites use .gov\nSecure .gov websites use HTTPS\n\nlast updated July 24, 2024 10:30 a.m. ET\nSince Feb. 24, 2022, the United States and its allies and partners have provided equipment and training to Ukraine, capabilities necessary for Ukraine's defense of its sovereign territory. This international security assistance has had a significant impact in defending against Russian aggression within Ukraine and preparing the Ukrainian armed forces for the fight ahead.\nIn total, the United States has committed more than $30.4 billion in security assistance to Ukraine since the beginning of the Biden Administration. Since 2014, the United States has committed more than $32.4 billion and more than $29.8 billion since the beginning of Russia’s unprovoked and brutal invasion on Feb. 24, 2022. \nIn total, the United States has committed more than $30.4 billion in security assistance to Ukraine since the beginning of the Biden Administration. Since 2014, the United States has committed more than $32.4 billion and more than $29.8 billion since the beginning of Russia’s unprovoked and brutal invasion on Feb. 24, 2022.\nSecretary of Defense Lloyd J. Austin III reaffirmed the United States' unwavering support for Ukraine as it relates to that country's ongoing conflict with Russia during a phone call with Ukrainian Defense Minister Rustem Umerov. The two leaders also discussed steps allies are taking to support Ukraine,...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}
