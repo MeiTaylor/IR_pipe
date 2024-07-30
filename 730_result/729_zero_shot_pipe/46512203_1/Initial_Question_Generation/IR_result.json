@@ -1,0 +1,178 @@
+{
+    "Question": "Does the video accurately depict President Trump visiting Maui after the August 2023 wildfires, or is it misleading?",
+    "Prediction": {
+        "need_online_search": "Yes",
+        "reasoning": "To verify whether President Trump actually visited Maui after the August 2023 wildfires, an online search is necessary to access credible news sources and current events.",
+        "Queries": {
+            "Query1": {
+                "query": "Did Donald Trump visit Maui after August 2023 wildfires? (site:cnn.com OR site:bbc.com OR site:nytimes.com)",
+                "key_terms": "visit"
+            },
+            "Query2": {
+                "query": "Trump Maui wildfires response August 2023 news (site:axios.com OR site:wapo.com OR site:usatoday.com)",
+                "key_terms": "wildfires"
+            }
+        }
+    },
+    "Query1": [
+        {
+            "title": "Biden says he plans to visit Maui soon as he mourns devastation ...",
+            "link": "https://www.cnn.com/2023/08/15/politics/white-house-biden-hawaii-wildfires/index.html",
+            "snippet": "Aug 16, 2023 ... President Joe Biden on Tuesday said he will travel to Maui soon to visit the devastation left behind by wildfires that ravaged the Hawaiian ...",
+            "content": {
+                "content": "\nPresident Joe Biden on Tuesday said he will travel to Maui soon to visit the devastation left behind by wildfires that ravaged the Hawaiian island last week, leaving scores dead and untold damage.\n    \n\n            In his first comments on the disaster since late last week, Biden said he wanted to ensure a possible presidential visit wouldn’t impede recovery efforts.\n    \n\n            “My wife Jill and I are going to travel to Hawaii as soon as we can, that’s what I’ve been talking to governor about,” he said. “I don’t want to get in the way – I’ve been to too many disaster areas, but I want to go and make sure we got everything they need. I want to be sure we don’t disrupt the ongoing recovery efforts.”\n    \n\n            The remarks were Biden’s first public comments about the unfolding disaster in Hawaii since last Thursday, when he similarly began a prescheduled speech addressing the devastation. The period of silence had not gone unnoticed by Biden’s critics, including former President Donald Trump and other Republicans.\n    \n\n            Biden’s aides have pointed to the president’s frequent phone calls with FEMA leadership, Hawaii’s congressional delegation and its governor as evidence of his sustained engagement. So far, Democrats have publicly supported Biden’s response. The president has been in regular contact with Hawaii Gov. Josh Green, who has publicly praised the administration’s response and the president’s “full support.” Sen. Mazie Hirono of Hawaii...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 8,
+                "justification": "CNN is a globally recognized news organization known for its extensive coverage of significant news events, including natural disasters and political developments. It adheres to journalistic standards of fact-checking and verification. Historically, CNN has faced criticism for perceived biases in political coverage, which could impact its credibility with some audiences. However, it still maintains a solid reputation for providing accurate news and has initiatives in place to combat misinformation."
+            },
+            "Newness": {
+                "NewnessScore": 5,
+                "Date": "2023-08-16"
+            },
+            "Relevance": {
+                "RelevanceScore": 8,
+                "Relevance Justification": "This evidence discusses President Biden's plans to visit Maui following the wildfires, which reveals that no visit from Trump occurred around that time. Since it indicates Biden's presence instead of Trump in the aftermath of the wildfires, it indirectly supports the conclusion that the video claiming Trump visited Maui is likely misleading."
+            },
+            "total_score": 29
+        },
+        {
+            "title": "5 things to know for Aug. 16: Maui fires, Trump, Water shortage ...",
+            "link": "https://www.cnn.com/2023/08/16/us/5-things-to-know-for-aug-16-maui-fires-trump-water-shortage-north-korea-landslide/index.html",
+            "snippet": "Aug 16, 2023 ... 16: Maui fires, Trump, Water shortage, North Korea, Landslide ... X, the platform formerly known as Twitter, is facing renewed scrutiny for ...",
+            "content": {
+                "content": "\n            X, the platform formerly known as Twitter, is facing renewed scrutiny for apparently slowing load times for links to its competitors. While the platform has been plagued by technical issues after Elon Musk bought the site last year, many link delays this week appeared intentional, cybersecurity experts said, as the issues mainly affected X’s rivals and news outlets that Musk has previously criticized.\n    \n\n            Here’s what else you need to know to Get Up to Speed and On with Your Day.\n    \n\n      Your day is busy. 5 Things is your one-stop shop for the latest headlines, plus other stories and videos that people are clicking on. Sign up here for the 5 Things newsletter.\n    \n\n            The death toll from the Maui wildfires has climbed to 106 as Hawaii’s governor warns identifying all the victims will be difficult. Identification is challenging and will likely take weeks because the remains are largely unrecognizable and fingerprints are rarely being found, Gov. Josh Green said Tuesday. So far, family members of missing people have provided 41 DNA samples, trying to see whether their loved ones are among the dead, county officials said. As the search expands for more unaccounted people, President Joe Biden on Tuesday said he will travel to Maui soon to visit the devastation. “I want to go and make sure we got everything they need,” Biden said, adding he wants to make sure...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 8,
+                "justification": "CNN is a globally recognized news organization known for its extensive coverage of significant news events, including natural disasters and political developments. It adheres to journalistic standards of fact-checking and verification. Historically, CNN has faced criticism for perceived biases in political coverage, which could impact its credibility with some audiences. However, it still maintains a solid reputation for providing accurate news and has initiatives in place to combat misinformation."
+            },
+            "Newness": {
+                "NewnessScore": 5,
+                "Date": "2023-08-16"
+            },
+            "Relevance": {
+                "RelevanceScore": 8,
+                "Relevance Justification": "This piece similarly emphasizes Biden’s planned visit to Maui and his engagement in disaster response. Since it focuses on Biden’s involvement rather than Trump’s, it supports the notion that the claim about Trump visiting Maui is misleading and highlights who the actual contributors were in the aftermath."
+            },
+            "total_score": 29
+        },
+        {
+            "title": "Bidens to visit Hawaii on Monday following Maui wildfires | CNN ...",
+            "link": "https://www.cnn.com/2023/08/16/politics/biden-maui-visit-wildfires/index.html",
+            "snippet": "Aug 16, 2023 ... The relative silence did not go unnoticed by Biden's critics, including former President Donald Trump and other Republicans, and the Biden ...",
+            "content": {
+                "content": "\nPresident Joe Biden and first lady Dr. Jill Biden will travel to Hawaii on Monday, the White House announced, as search, rescue and recovery efforts continue following the devastating wildfires there.\n    \n\n            “The President and First Lady will travel to Maui on Monday, August 21 to meet with first responders, survivors, as well as federal, state, and local officials, in the wake of deadly wildfires on the island,” White House press secretary Karine Jean-Pierre said in a statement.\n    \n\n            The planned visit comes amid mounting pressure on Biden, who – despite signing a federal disaster declaration last week – had only sparingly referenced the disaster, which has left at least 100 dead. The relative silence did not go unnoticed by Biden’s critics, including former President Donald Trump and other Republicans, and the Biden administration in recent days has been promoting its commitment to helping local authorities recover and rebuild.\n    \n\n            The Bidens, Jean-Pierre said, will “see firsthand the impacts of the wildfires and the devastating loss of life and land that has occurred on the island, as well as discuss the next steps in the recovery effort.”\n    \n\n            Biden said in Wisconsin on Tuesday that he did not want a presidential visit, which requires a significant security and operational footprint, to interfere with efforts or divert response resources on the ground. \n    \n\n            But Hawaii Democratic Gov. Josh Green, Jean-Pierre said, “advised that the search and recovery efforts are expected to be at a stage early next week to allow for a presidential visit.”\n    \n\n            The White House is taking care to ensure Biden’s visit to Hawaii will not disrupt recovery efforts on the island, FEMA Administrator Deanne Criswell told reporters Wednesday.\n    \n\n            “Our biggest goal was to make sure that we weren’t going to disrupt the ability of our search and rescue teams to continue their operations, and when I was just briefing the president and he spoke with [Green], he asked the governor if this was going to be an appropriate time and the governor agreed,” Criswell told reporters during Wednesday’s White House press briefing.\n    \n\n            Biden has stayed in close...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 8,
+                "justification": "CNN is a globally recognized news organization known for its extensive coverage of significant news events, including natural disasters and political developments. It adheres to journalistic standards of fact-checking and verification. Historically, CNN has faced criticism for perceived biases in political coverage, which could impact its credibility with some audiences. However, it still maintains a solid reputation for providing accurate news and has initiatives in place to combat misinformation."
+            },
+            "Newness": {
+                "NewnessScore": 5,
+                "Date": "2023-08-16"
+            },
+            "Relevance": {
+                "RelevanceScore": 8,
+                "Relevance Justification": "Confirming Biden's upcoming visit to Hawaii, this evidence is relevant as it reinforces that he, not Trump, was the president engaging with the aftermath of the wildfires. This further dispells the video’s claim of Trump's visit."
+            },
+            "total_score": 29
+        }
+    ],
+    "Query2": [
+        {
+            "title": "Video falsely claims Trump visited Maui amid wildfires| Fact check",
+            "link": "https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/",
+            "snippet": "Aug 18, 2023 ... Trump has not visited the Hawaiian island of Maui following the devastating wildfires there that killed more than 100 in early August.",
+            "content": {
+                "content": "[Content truncated]... shows Trump visiting Maui after wildfires\n----------------------------------------------------------\nAn Aug. 16 Facebook video (, ) shows a TikTok video that features former President Donald Trump and former first lady Melania Trump walking past a FEMA truck in a disaster-struck area and talking with people in a building filled with supplies and clothes.\n“THE PEOPLE'S PRESIDENT,” reads text on the screen. “Thank you Mr. Trump for checking on the people of Maui!”\nThe Facebook video was shared over 900 times in one day, while the original TikTok video has been shared more than 7,000 times.\n**Follow us on Facebook!** \nOur rating: False\n-----------------\nThe video is years old and shows the former president's 2019 visit to Alabama after a tornado damaged part of the state. Trump has not visited the Hawaiian island of Maui following the devastating wildfires there that killed more than 100 in early August.\nVideo shows Trump visiting Alabama in 2019\n------------------------------------------\nAt least  have died in wildfires that consumed parts of Maui, the second-largest of the Hawaiian islands, since . But there is no evidence the former president has visited the island.\nThe video shared on Facebook shows then-president Trump delivering remarks to a group of people at Providence Baptist Church in Opelika, Alabama, on March 8, 2019, after the area was struck by a tornado that caused serious damage and left  injured. The church was serving as a disaster relief center for those affected.\nThe White House shared footage of the visit on  the same day. His full comments can be found in the White House’s .\n**Fact check**: \nThere are no credible reports that Trump has gone to visit Maui amid the island’s wildfires. However, the former president did  about the crisis.\nUSA TODAY reached out to the user who shared the post for comment but did not immediately receive a response.\nOur fact-check sources:\n-----------------------\n*   WFSA 12 News, March 3, 2022, \n*   Trump White House, March 8, 2019,  (YouTube)\n*   Trump White House, March 8, 2019, \n*   Trump Campaign, Aug. 14, \n_Thank you for supporting our journalism. You can ._\n_Our fact-check work is supported in part by a grant from Facebook._\n]\nFeatured Weekly Ad\n© 2024 USA TODAY, a division of Gannett Satellite Information Network, LLC.",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 8,
+                "justification": "USA Today is a nationally recognized news organization known for its widespread distribution and comprehensive news coverage. The publication generally adheres to journalistic standards, fact-checks its information, and provides contextual articles. Although it has faced criticism for clickbait headlines and sensationalism at times, it maintains a reputation for providing factual news. Its historical accuracy is supported by independent fact-checking ventures. While it may not always provide in-depth analyses, its factual reporting and emphasis on major news stories warrant a high quality score."
+            },
+            "Newness": {
+                "NewnessScore": 5,
+                "Date": "2023-08-18"
+            },
+            "Relevance": {
+                "RelevanceScore": 10,
+                "Relevance Justification": "This evidence explicitly states that Trump has not visited Hawaii after the wildfires and clarifies that a video claiming to show him in Maui is misleading, as it was recorded in 2019 during a different event in Alabama. This provides direct confirmation that the original claim is false, making it highly relevant."
+            },
+            "total_score": 33
+        },
+        {
+            "title": "wildfire, Canada, Maui, Lahaina, California hurricane, Trump ...",
+            "link": "https://www.usatoday.com/story/news/2023/08/18/canada-wildfire-weather-maui-hawaii-camp-david-japan-south-korea-trump-georgia-taylor-swift/70617611007/",
+            "snippet": "Aug 18, 2023 ... Also in the news: President Joe Biden brings foreign policy with South Korea and Japan to Camp David today and new research shows middle-age ...",
+            "content": {
+                "content": "Residents are fleeing the capital of Canada’s Northwest Territories ahead of a noon Friday deadline as a wildfire nears the city of 20,000. **_Also in the news:_** President Joe Biden brings foreign policy with South Korea and Japan to Camp David today and new research shows middle-age Americans have really embraced wine night.\n**🙋🏼‍♀️** _**I'm ,**_ Daily Briefing author. ?\n_**Now, here we go with**_**_Friday's news._**\nEntire city forced to evacuate as Canada's wildfires get worse\n--------------------------------------------------------------\n\"Unprecedented\" wildfires closing in on the capital of Canada's Northwest Territories prompted citywide evacuations by land and sky Thursday, officials said. Authorities instructed residents of the highest-risk areas of Yellowknife to evacuate immediately, while others had until Friday afternoon to leave the city of about 20,000 people. Canada has been plagued by the worst wildfire season on record. The effects will be felt in the U.S., too: An air quality alert was issued across the entire state of Wisconsin, and central and northeastern Minnesota, from Thursday morning through Monday. **__**\n*   **?** Never. Hilary could change that.\n*   **** rattled Colombia, and a nearby aftershock registered at 5.7.\n*   **** are remembered by family and friends.\n!\nMaui emergency chief resigns after criticism for deadly wildfire response\n-------------------------------------------------------------------------\nMaui's top emergency management official resigned Thursday, a day after he defended his decision...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 8,
+                "justification": "USA Today is a nationally recognized news organization known for its widespread distribution and comprehensive news coverage. The publication generally adheres to journalistic standards, fact-checks its information, and provides contextual articles. Although it has faced criticism for clickbait headlines and sensationalism at times, it maintains a reputation for providing factual news. Its historical accuracy is supported by independent fact-checking ventures. While it may not always provide in-depth analyses, its factual reporting and emphasis on major news stories warrant a high quality score."
+            },
+            "Newness": {
+                "NewnessScore": 5,
+                "Date": "2023-08-18"
+            },
+            "Relevance": {
+                "RelevanceScore": 2,
+                "Relevance Justification": "Similar to evidence0, it discusses the wildfires but doesn’t mention any actions taken by Donald Trump regarding the wildfires or his presence in Maui. Thus, this evidence holds minimal relevance to the claim."
+            },
+            "total_score": 17
+        },
+        {
+            "title": "Maui police release report on Lahaina fire response",
+            "link": "https://www.axios.com/2024/02/06/maui-wildfires-police-first-report-response-lahaina",
+            "snippet": "Feb 5, 2024 ... ... August and razed the historic town of Lahaina. The big picture: The Lahaina fire killed at least 100 people, and Maui Police Chief John ...",
+            "content": {
+                "content": "Read: Maui police release report on response to deadly wildfires\n----------------------------------------------------------------\n!\n*   \n!\nAn aerial view of burned structures in Lahaina, Hawai'i, in October — two months after a devastating wildfire swept the island of Maui. Photo: Mario Tama/Getty Images\nThe  Police Department released a preliminary report Monday on authorities' response to the devastating  last August and razed the historic town of Lahaina.\n**The big picture:** The Lahaina fire killed at least  people, and Maui Police Chief John Pelletier noted at  announcing the \"after-action\"  that \"the search is not over\" for three people still listed as missing from the island's blaze that destroyed thousands of acres and structures.\n*   The cause of the fire on Maui is still being investigated and this preliminary report analyzes the police's response to the tragedy and makes 32 recommendations for improvements to better prepare for any future catastrophe, as well as identifying what worked well.\n**What they found:** The report finds that the Maui PD was understaffed as officers in the Lahaina District faced communications and equipment issues as they responded to \"critical events\" at the same time in multiple different locations issues, such as downed trees\n*   \"At most times, this radio traffic was being monitored by and responded to by a single dispatcher. ... on a typical day, radio channels will have at most 15 officers working over a single radio frequency,\" notes the report.\n*   Officers responded to multiple safety hazard reports, including \"downed trees, utility poles, power lines, debris on roads, power outages, non-functional traffic signals, and compromised cellular and internet services.\"\n*   Fallen poles and debris blocked roads, leaving traffic gridlocked as the Lahaina fire spread, prompting a large-scale evacuation of \"over a thousand people\" at one center, many of whom. the report noted, were without vehicles.\n*   Several disinformation campaigns were identified as the tragedy unfolded...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 9,
+                "justification": "Axios is known for its straightforward and concise reporting style. It focuses on delivering news efficiently and prides itself on its 'Smart Brevity' approach, which makes important information easily digestible. Axios employs fact-checking and analytical insights, which helps in delivering accurate news. The site has built a solid reputation for reliability and has been trusted to report accurate and timely news. As such, its credibility is strong, and its historical accuracy supports a high quality score, reflecting a commitment to transparency in reporting."
+            },
+            "Newness": {
+                "NewnessScore": 6,
+                "Date": "2024-02-05"
+            },
+            "Relevance": {
+                "RelevanceScore": 1,
+                "Relevance Justification": "This evidence focuses on the response of Maui police to the wildfires and does not mention Trump or confirm or deny his visit to Maui. Thus, it is largely irrelevant to the specific claim."
+            },
+            "total_score": 17
+        }
+    ],
+    "RelevantEvidence": {
+        "Query2_evidence_1": {
+            "title": "Video falsely claims Trump visited Maui amid wildfires| Fact check",
+            "link": "https://www.usatoday.com/story/news/factcheck/2023/08/18/video-falsely-claims-trump-visited-maui-amid-wildfires-fact-check/70614328007/",
+            "snippet": "Aug 18, 2023 ... Trump has not visited the Hawaiian island of Maui following the devastating wildfires there that killed more than 100 in early August.",
+            "content": "[Content truncated]... shows Trump visiting Maui after wildfires\n----------------------------------------------------------\nAn Aug. 16 Facebook video (, ) shows a TikTok video that features former President Donald Trump and former first lady Melania Trump walking past a FEMA truck in a disaster-struck area and talking with people in a building filled with supplies and clothes.\n“THE PEOPLE'S PRESIDENT,” reads text on the screen. “Thank you Mr. Trump for checking on the people of Maui!”\nThe Facebook video was shared over 900 times in one day, while the original TikTok video has been shared more than 7,000 times.\n**Follow us on Facebook!** \nOur rating: False\n-----------------\nThe video is years old and shows the former president's 2019 visit to Alabama after a tornado damaged part of the state. Trump has not visited the Hawaiian island of Maui following the devastating wildfires there that killed more than 100 in early August.\nVideo shows Trump visiting Alabama in 2019\n------------------------------------------\nAt least  have died in wildfires that consumed parts of Maui, the second-largest of the Hawaiian islands, since . But there is no evidence the former president has visited the island.\nThe video shared on Facebook shows then-president Trump delivering remarks to a group of people at Providence Baptist Church in Opelika, Alabama, on March 8, 2019, after the area was struck by a tornado that caused serious damage and left  injured. The church was serving as a disaster relief center for those affected.\nThe White House shared footage of the visit on  the same day. His full comments can be found in the White House’s .\n**Fact check**: \nThere are no credible reports that Trump has gone to visit Maui amid the island’s wildfires. However, the former president did  about the crisis.\nUSA TODAY reached out to the user who shared the post for comment but did not immediately receive a response.\nOur fact-check sources:\n-----------------------\n*   WFSA 12 News, March 3, 2022, \n*   Trump White House, March 8, 2019,  (YouTube)\n*   Trump White House, March 8, 2019, \n*   Trump Campaign, Aug. 14, \n_Thank you for supporting our journalism. You can ._\n_Our fact-check work is supported in part by a grant from Facebook._\n]\nFeatured Weekly Ad\n© 2024 USA TODAY, a division of Gannett Satellite Information Network, LLC."
+        },
+        "Query1_evidence_1": {
+            "title": "Biden says he plans to visit Maui soon as he mourns devastation ...",
+            "link": "https://www.cnn.com/2023/08/15/politics/white-house-biden-hawaii-wildfires/index.html",
+            "snippet": "Aug 16, 2023 ... President Joe Biden on Tuesday said he will travel to Maui soon to visit the devastation left behind by wildfires that ravaged the Hawaiian ...",
+            "content": "\nPresident Joe Biden on Tuesday said he will travel to Maui soon to visit the devastation left behind by wildfires that ravaged the Hawaiian island last week, leaving scores dead and untold damage.\n    \n\n            In his first comments on the disaster since late last week, Biden said he wanted to ensure a possible presidential visit wouldn’t impede recovery efforts.\n    \n\n            “My wife Jill and I are going to travel to Hawaii as soon as we can, that’s what I’ve been talking to governor about,” he said. “I don’t want to get in the way – I’ve been to too many disaster areas, but I want to go and make sure we got everything they need. I want to be sure we don’t disrupt the ongoing recovery efforts.”\n    \n\n            The remarks were Biden’s first public comments about the unfolding disaster in Hawaii since last Thursday, when he similarly began a prescheduled speech addressing the devastation. The period of silence had not gone unnoticed by Biden’s critics, including former President Donald Trump and other Republicans.\n    \n\n            Biden’s aides have pointed to the president’s frequent phone calls with FEMA leadership, Hawaii’s congressional delegation and its governor as evidence of his sustained engagement. So far, Democrats have publicly supported Biden’s response. The president has been in regular contact with Hawaii Gov. Josh Green, who has publicly praised the administration’s response and the president’s “full support.” Sen. Mazie Hirono of Hawaii...[Content truncated]"
+        },
+        "Query1_evidence_2": {
+            "title": "5 things to know for Aug. 16: Maui fires, Trump, Water shortage ...",
+            "link": "https://www.cnn.com/2023/08/16/us/5-things-to-know-for-aug-16-maui-fires-trump-water-shortage-north-korea-landslide/index.html",
+            "snippet": "Aug 16, 2023 ... 16: Maui fires, Trump, Water shortage, North Korea, Landslide ... X, the platform formerly known as Twitter, is facing renewed scrutiny for ...",
+            "content": "\n            X, the platform formerly known as Twitter, is facing renewed scrutiny for apparently slowing load times for links to its competitors. While the platform has been plagued by technical issues after Elon Musk bought the site last year, many link delays this week appeared intentional, cybersecurity experts said, as the issues mainly affected X’s rivals and news outlets that Musk has previously criticized.\n    \n\n            Here’s what else you need to know to Get Up to Speed and On with Your Day.\n    \n\n      Your day is busy. 5 Things is your one-stop shop for the latest headlines, plus other stories and videos that people are clicking on. Sign up here for the 5 Things newsletter.\n    \n\n            The death toll from the Maui wildfires has climbed to 106 as Hawaii’s governor warns identifying all the victims will be difficult. Identification is challenging and will likely take weeks because the remains are largely unrecognizable and fingerprints are rarely being found, Gov. Josh Green said Tuesday. So far, family members of missing people have provided 41 DNA samples, trying to see whether their loved ones are among the dead, county officials said. As the search expands for more unaccounted people, President Joe Biden on Tuesday said he will travel to Maui soon to visit the devastation. “I want to go and make sure we got everything they need,” Biden said, adding he wants to make sure...[Content truncated]"
+        }
+    },
+    "QA": {
+        "Question": "Does the video accurately depict President Trump visiting Maui after the August 2023 wildfires, or is it misleading?",
+        "Answer": "The video in question is misleading in its claim that President Donald Trump visited Maui after the August 2023 wildfires. The evidence indicates that Trump has not visited the Hawaiian island in the aftermath of the disaster. Instead, the video that's being circulated actually shows a past event, specifically a visit Trump made in March 2019 to Alabama following a tornado. This misunderstanding has led to the video being falsely portrayed as a recent visit to Maui, where he supposedly interacted with hurricane victims and volunteers. Moreover, during the time that the wildfires were devastating Maui, President Joe Biden was publicly discussing his planned visit to the island to assess the situation, which would have been inconsistent with Trump's involvement in the disaster response. This further supports the conclusion that the video is fabricated or manipulated, as there are no credible reports of Trump's presence in Maui during this time. In conclusion, the claim that the video accurately depicts President Trump visiting Maui post-wildfires is false; it misrepresents a past event and deceives viewers about his involvement in the response to the recent disaster.",
+        "Confidence": "95%"
+    }
+}

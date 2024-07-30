@@ -1,0 +1,681 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Current humanitarian situation in Kyiv Ukraine - BBC, CNN, Reuters",
+                "totalResults": "53400",
+                "searchTerms": "Current humanitarian situation in Kyiv Ukraine - BBC, CNN, Reuters",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Current humanitarian situation in Kyiv Ukraine - BBC, CNN, Reuters",
+                "totalResults": "53400",
+                "searchTerms": "Current humanitarian situation in Kyiv Ukraine - BBC, CNN, Reuters",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.351668,
+        "formattedSearchTime": "0.35",
+        "totalResults": "53400",
+        "formattedTotalResults": "53,400"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "October 13, 2023 - Israel-Hamas war news | CNN",
+                "htmlTitle": "October 13, 2023 - Israel-Hamas war <b>news</b> | <b>CNN</b>",
+                "link": "https://www.cnn.com/middleeast/live-news/israel-news-hamas-war-10-13-23/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Oct 13, 2023 ... Gaza's humanitarian crisis deepened Thursday with warnings people are at risk of starvation as Israel maintained a siege and bombarded\u00a0...",
+                "htmlSnippet": "Oct 13, 2023 <b>...</b> Gaza&#39;s <b>humanitarian crisis</b> deepened Thursday with warnings people are at risk of starvation as Israel maintained a siege and bombarded&nbsp;...",
+                "formattedUrl": "https://www.cnn.com/middleeast/live-news/israel-news...10.../index.html",
+                "htmlFormattedUrl": "https://www.<b>cnn</b>.com/middleeast/live-news/israel-news...10.../index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsObvpqB4ziq3gsmdioFqwWcmINc8j60IZwjodlllvHbtAak4zB49P0DI&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/231012123519-01-israeli-forces-gaza-border-1012.jpg?c=16x9&q=w_800,c_fill",
+                            "twitter:title": "October 13, 2023 - Israel-Hamas war news | CNN",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-10-13T04:04:16Z",
+                            "og:site_name": "CNN",
+                            "author": "Kathleen Magramo,Adam Renton,Christian Edwards,Ed Upright,Aditi Sangal,Alisha Ebrahimji,Elise Hammond,Kaanita Iyer,Zoe Sottile,Tori B. Powell",
+                            "og:title": "October 13, 2023 - Israel-Hamas war news | CNN",
+                            "meta-section": "world",
+                            "type": "live-story",
+                            "og:description": "Gaza\u2019s humanitarian crisis deepened Thursday with warnings people are at risk of starvation as Israel maintained a siege and bombarded targets in response to the Hamas terror attacks that killed more than 1,200 people.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/231012123519-01-israeli-forces-gaza-border-1012.jpg?c=16x9&q=w_800,c_fill",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@CNN",
+                            "article:modified_time": "2023-10-16T11:44:40.568Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "Gaza\u2019s humanitarian crisis deepened Thursday with warnings people are at risk of starvation as Israel maintained a siege and bombarded targets in response to the Hamas terror attacks that killed more than 1,200 people.",
+                            "template_type": "article_livestory",
+                            "meta-branding": "live-story-v2",
+                            "theme": "world",
+                            "og:url": "https://www.cnn.com/middleeast/live-news/israel-news-hamas-war-10-13-23/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/231012123519-01-israeli-forces-gaza-border-1012.jpg?c=16x9&q=w_800,c_fill"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...        \u201cI\u2019m really worried. My heart goes to all those who have lost their lives and their families both from Israel and Palestine. This is a very sad moment,\u201d he told reporters in Lyon, France.\n    \n\nOne way in: Under the Israeli siege, the only corridor through which Palestinians or aid can pass in and out of Gaza is the Rafah Crossing that borders Egypt.\n    \n\n            Egypt on Thursday denied reports of the crossing being closed, saying it has however sustained damage due to repeated Israeli airstrikes on the Palestinian side of the border.\n    \n\n            CNN could not independently verify whether the crossing is open.\n    \n\n            Hamas on Friday told Palestinians living in Gaza not to leave their homes, according to a statement sent to media organizations.\n    \n\n            The armed group, which governs the territory, accused Israel of engaging in \u201cpsychological warfare\u201d by sending messages that told Palestinian civilians and employees of international organizations to evacuate to the south.\n    \n\n        \u201cThe occupation is attempting to spread and circulate false propaganda through various means, aiming to create confusion among citizens and undermine the stability of our internal front,\u201d the statement said, referring to Israel.\n    \n\n\n\n            Employees of \u201cinternational institutions\u201d remained at their posts and were not evacuating, the statement claimed.\u00a0CNN has not independently verified the claim.\n    \n\n            Israel is maintaining its bombardment of Gaza in response to\u00a0Hamas terror attacks that killed more than 1,300 people and has amassed more than\u00a0300,000 reservists\u00a0along its southern border \u2014 but has not confirmed whether it is planning an intensified military operation.\n    \n\n            The Israeli military on Friday called on\u00a0all civilians in Gaza City\u00a0to evacuate \u201csouthwards.\u201d The UN has said the order for 1.1 million\u00a0people\u00a0to leave northern Gaza was \u201cimpossible\u201d without major\u00a0humanitarian consequences.\n\n\n            The United Nations Relief and Works Agency (UNRWA) on Friday said it has relocated its central operations center and international staff in Gaza to the south of the besieged enclave.\n    \n\n            The silence on Lebanon\u2019s border with Israel is deafening. After five days of near constant crossfire between fighters in Lebanon and Israeli forces, the guns seem to have largely gone quiet.\n    \n\n            This remains one of the most important, and dangerous, fault lines in this volatile region. Following the\u00a0surprise Hamas attacks on Israel on October 7, this frontier \u2014 largely calm since the 2006 Israel-Lebanon war \u2014 is even more charged with consequence.\n    \n\nAny conflict erupting here could pour fuel on the raging fire of the current Hamas-Israel war by drawing in the most powerful paramilitary group in the Middle East: Iran-backed Hezbollah...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "CNN is a well-established news organization with a long history of reporting on global events, including conflicts like the war in Ukraine. While it has faced criticism for perceived bias and sensationalism in the past, it typically employs professional journalists and follows editorial standards that ensure fact-checking and reliability. CNN's extensive coverage of the Ukraine war, including on-the-ground reporting, provides valuable context for evaluating the situation depicted in the beach party video and its implications. However, its mainstream orientation sometimes draws allegations of bias, slightly lowering its score."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-10-13"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This evidence discusses the humanitarian crisis in Gaza, which is not directly relevant to the situation in Kyiv or Ukraine. It does not provide specific information about ongoing hardships or conditions in Kyiv."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Fact Check | Reuters",
+                "htmlTitle": "Fact Check | <b>Reuters</b>",
+                "link": "https://www.reuters.com/fact-check/",
+                "displayLink": "www.reuters.com",
+                "snippet": "4 days ago ... Reuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality.",
+                "htmlSnippet": "4 days ago <b>...</b> <b>Reuters</b> Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality.",
+                "formattedUrl": "https://www.reuters.com/fact-check/",
+                "htmlFormattedUrl": "https://www.<b>reuters</b>.com/fact-check/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXUJULIHN3bzkOUFJxUds8ElRln9VYTZZirMN6srh0nHeiI9O7X8mHE7rw&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809",
+                            "og:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-factcheck-default.webp?d=204",
+                            "og:type": "website",
+                            "twitter:title": "Fact Check | Reuters",
+                            "ad:template": "landing",
+                            "og:site_name": "Reuters",
+                            "dcsext.dartzone": "/4735792/reuters.com/fact-check/home",
+                            "ccbot": "nofollow",
+                            "dcsext.channellist": "Fact Check",
+                            "og:title": "Fact Check | Reuters",
+                            "analyticsattributes.topicchannel": "Fact Check",
+                            "title": "Reuters Fact Check | Reuters",
+                            "fb:pages": "114050161948682",
+                            "og:description": "Reuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. The unit is part of Reuters news agency.",
+                            "fb:app_id": "988502044532272",
+                            "datemodified": "2024-07-30T06:39:55Z",
+                            "render_timestamp": "2024-07-30T06:53:36.159Z",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Reuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. The unit is part of Reuters news agency.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/fact-check/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/pf/resources/images/reuters/reuters-factcheck-default.webp?d=204"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Please enable JS and disable any ad blocker",
+                    "content_tokens": 8
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Reuters is known for its high journalistic standards and is often regarded as one of the most reliable news sources in the world. Its reporting is fact-based and generally free of sensationalism, making it a trusted outlet for international news, including coverage of conflicts. The organization has a significant international presence and is respected for its commitment to accuracy and neutrality. This makes Reuters particularly useful for cross-verifying claims about serious topics like the war in Ukraine."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "While this links to fact-checking efforts which could provide relevant information, it lacks specific content that addresses the hardships in Kyiv, thus providing minimal insight into the situation at hand."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Russian invasion of Ukraine: A timeline of key events on the 1st ...",
+                "htmlTitle": "Russian invasion of <b>Ukraine</b>: A timeline of key events on the 1st ...",
+                "link": "https://www.cnn.com/interactive/2023/02/europe/russia-ukraine-war-timeline/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Feb 23, 2023 ... Russia's war on. Ukraine, one year on \u00b7 Putin orders a so-called \"special military operation\" in Ukraine. \u00b7 A photo provided by the Ukrainian\u00a0...",
+                "htmlSnippet": "Feb 23, 2023 <b>...</b> Russia&#39;s war on. <b>Ukraine</b>, one year on &middot; Putin orders a so-called &quot;special military operation&quot; in <b>Ukraine</b>. &middot; A photo provided by the <b>Ukrainian</b>&nbsp;...",
+                "formattedUrl": "https://www.cnn.com/interactive/2023/02/europe/...ukraine.../index.html",
+                "htmlFormattedUrl": "https://www.<b>cnn</b>.com/interactive/2023/02/europe/...<b>ukraine</b>.../index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSijxeXeWtsThFxFN1xQW1bxUMB4_ERu9LaiC4Px3z77-Osuo2ncRSjS01d&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "application-name": "CNN",
+                            "og:image": "https://www.cnn.com/interactive/2023/02/europe/russia-ukraine-war-timeline/media/ogimage.jpg",
+                            "og:type": "Article",
+                            "twitter:title": "Russian invasion of Ukraine: A timeline of key events on the 1st anniversary of the war",
+                            "twitter:card": "summary_large_image",
+                            "twitter:site:id": "759251",
+                            "og:title": "Russian invasion of Ukraine: A timeline of key events on the 1st anniversary of the war",
+                            "section": "europe",
+                            "source": "CNN",
+                            "title": "Russian invasion of Ukraine: A timeline of key events on the 1st anniversary of the war",
+                            "og:description": "Russia\u2019s war on Ukraine, one year on",
+                            "twitter:creator": "@cnn",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@cnn",
+                            "viewport": "width=device-width initial-scale=1 shrink-to-fit=no",
+                            "apple-mobile-web-app-capable": "yes",
+                            "twitter:description": "Russian invasion of Ukraine: A timeline of key events on the 1st anniversary of the war",
+                            "fb:admins": "690014395",
+                            "og:url": "https://www.cnn.com/interactive/2023/02/europe/russia-ukraine-war-timeline/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.cnn.com/interactive/2023/02/europe/russia-ukraine-war-timeline/media/ogimage.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Russia\u2019s war on Ukraine, one year on\nThis feature contains graphic photos, including images of the deceased.\n\n                                On February 24, Russia launched a full-scale invasion of Ukraine.\n\nspecial report\nFebruary 23, 2023\nPutin orders a so-called \"special military operation\" in Ukraine. Photo: Sergei Illnitsky/EPA-EFE/Shutterstock, Video: Reuters\nA photo provided by the Ukrainian President's office appears to show an explosion in Kyiv. There were explosions in a number of cities as Russia\u2019s invasion began before dawn. Ukrainian President's Office\nAudio of the exchange between Russian and Ukrainian military has been edited down for brevity. The Armed Forces of Ukraine\nA satellite view of Snake Island. Maxar Technologies\nThe destroyed Antonov An-225 Mriya cargo plane is seen at the Antonov airfield in Hostomel, Ukraine. Mikhail Palinchak/Reuters\nA satellite view shows fires and damage at Antonov Airport. Maxar Technologies\nUkrainian President Volodymyr and his cabinet declare \u201dWe\u2019re here\u201d in Kyiv. From Facebook/Office of the President of Ukraine\nA mother and son rest in Lviv, Ukraine, while waiting to board a train to Poland. Dan Kitwood/Getty Images\nNot included on map: 134,000 refugees to other European countries. Russia total includes approximately 96,000 people from the Donetsk and Luhansk regions between Feb. 18 and Feb. 23. Totals for all other countries...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "CNN is a well-established news organization with a long history of reporting on global events, including conflicts like the war in Ukraine. While it has faced criticism for perceived bias and sensationalism in the past, it typically employs professional journalists and follows editorial standards that ensure fact-checking and reliability. CNN's extensive coverage of the Ukraine war, including on-the-ground reporting, provides valuable context for evaluating the situation depicted in the beach party video and its implications. However, its mainstream orientation sometimes draws allegations of bias, slightly lowering its score."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-02-23"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This evidence provides a timeline of the Russia-Ukraine war, which may offer context for ongoing issues. However, it does not specifically address current hardships in Kyiv, thus only somewhat relevant."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Department Press Briefing \u2013 July 29, 2024",
+                "htmlTitle": "Department Press Briefing \u2013 July 29, 2024",
+                "link": "https://www.state.gov/?post_type=state_briefing&%3Bp=92333",
+                "displayLink": "www.state.gov",
+                "snippet": "Jul 17, 2024 ... QUESTION: And Hamas has accused Israel of blocking a ceasefire, saying Netanyahu's government has inserted new conditions into the proposal at\u00a0...",
+                "htmlSnippet": "Jul 17, 2024 <b>...</b> QUESTION: And Hamas has accused Israel of blocking a ceasefire, saying Netanyahu&#39;s government has inserted new <b>conditions</b> into the proposal at&nbsp;...",
+                "formattedUrl": "https://www.state.gov/?post_type=state_briefing&%3Bp=92333",
+                "htmlFormattedUrl": "https://www.state.gov/?post_type=state_briefing&amp;%3Bp=92333",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8jWETtbXKtKBiLjoFb81omztMXSw91HObC0NWgso92KPHj7t9rwusrVx4&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.state.gov/wp-content/uploads/2021/01/Placeholder_seal_final.png",
+                            "og:type": "website",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "msapplication-tap-highlight": "no",
+                            "og:site_name": "United States Department of State",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:image:height": "675",
+                            "og:image:type": "image/png",
+                            "msapplication-tileimage": "https://www.state.gov/wp-content/uploads/2022/04/cropped-dos_seal-270x270.png"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.state.gov/wp-content/uploads/2021/01/Placeholder_seal_final.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Human Verification\n=============== \n!(blob:https://www.state.gov/eeb8ff871b20791d771f8160e1b575dd)Temporary error. Please try again.\n!(blob:https://www.state.gov/eeb8ff871b20791d771f8160e1b575dd)Before proceeding to your request, you need to solve a puzzle, and the puzzle requires Google Translate to be disabled. Please disable Google Translate and retry.\nLet's confirm you are human\n===========================\nComplete the security check before continuing. This step verifies that you are not a bot, which helps to protect your account and prevent spam.\nBegin!(blob:https://www.state.gov/779b3395f11278e4dca8a34b00b2f1bf)\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629DeutschEnglishEspa\u00f1olFran\u00e7aisItaliano\u65e5\u672c\u8a9eNederlandsPortugu\u00easT\u00fcrk\u00e7e\u4e2d\u6587",
+                    "content_tokens": 199
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "The official website of the U.S. State Department provides authoritative information on U.S. foreign policy and international relations, including issues related to Ukraine. While it can provide important context and reports on foreign assistance and policy responses, it is a government site that may present information with a specific political agenda. However, it is valuable for accessing official statements, reports, and analysis, thereby earning a solid score."
+                },
+                "Newness": {
+                    "NewnessScore": 9,
+                    "Date": "2024-07-17"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "The content is not available and does not talk about any direct events or circumstances related to Kyiv or Ukraine, making it irrelevant for identifying specific hardships."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "June 23, 2023 - Russia-Ukraine news | CNN",
+                "htmlTitle": "June 23, 2023 - Russia-<b>Ukraine news</b> | <b>CNN</b>",
+                "link": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-23-23/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Jun 23, 2023 ... Russian Prosecutor General Igor Krasnov made a report to President Vladimir Putin about initiating a criminal case against Wagner Group chief\u00a0...",
+                "htmlSnippet": "Jun 23, 2023 <b>...</b> Russian Prosecutor General Igor Krasnov made a report to President Vladimir Putin about initiating a criminal <b>case</b> against Wagner Group chief&nbsp;...",
+                "formattedUrl": "https://www.cnn.com/europe/live-news/russia-ukraine-war.../index.html",
+                "htmlFormattedUrl": "https://www.<b>cnn</b>.com/europe/live-news/russia-<b>ukraine</b>-war.../index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXX60uF1TPqD9CnahSJDttQS8eP8bLTgQSIuildJQik7xiMQmWqgeoSwQ&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/230622153927-05-ukraine-counteroffensive-neskuchne-storozheve-intl.jpg?c=16x9&q=w_800,c_fill",
+                            "twitter:title": "June 23, 2023 - Russia-Ukraine news | CNN",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-06-23T04:00:32Z",
+                            "og:site_name": "CNN",
+                            "author": "Kathleen Magramo,Christian Edwards,Aditi Sangal,Adrienne Vogt,Leinz Vales,Tori B. Powell,Amir Vera",
+                            "og:title": "June 23, 2023 - Russia-Ukraine news | CNN",
+                            "meta-section": "world",
+                            "type": "live-story",
+                            "og:description": "Russia\u2019s FSB security service accused Wagner Group leader Yevgeny Prigozhin of calling for an \u201carmed rebellion\u201d when he vowed retaliation after claiming Moscow\u2019s military killed a \u201chuge amount\u201d of his mercenaries in a strike on a camp.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/230622153927-05-ukraine-counteroffensive-neskuchne-storozheve-intl.jpg?c=16x9&q=w_800,c_fill",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "article:tag": "continents and regions, eastern europe, europe, russia, ukraine",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@CNN",
+                            "article:modified_time": "2023-06-24T04:07:04.902Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "Russia\u2019s FSB security service accused Wagner Group leader Yevgeny Prigozhin of calling for an \u201carmed rebellion\u201d when he vowed retaliation after claiming Moscow\u2019s military killed a \u201chuge amount\u201d of his mercenaries in a strike on a camp.",
+                            "template_type": "article_livestory",
+                            "meta-branding": "live-story-v2",
+                            "theme": "world",
+                            "og:url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-23-23/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/230622153927-05-ukraine-counteroffensive-neskuchne-storozheve-intl.jpg?c=16x9&q=w_800,c_fill"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... instead of the broader Russian objectives.\u00a0\n    \n\n            The Wagner Group, which the West claimed had recruited prison convicts for fighting in Ukraine, was making decisions based on \u201cwhat they will generate for Prigozhin, in terms of positive publicity,\u201d John Kirby, the National Security Council spokesman, said in January.\n    \n\n            Since then, White House and other US national security aides have been highly attuned to what one official said was an \u201congoing battle\u201d between Prigozhin and the Russian defense ministry.\u00a0\n    \n\nYevgeny Prigozhin, the bombastic chief of Russia\u2019s private mercenary group Wagner, appears to be falling out of favor fast in Moscow, after he unleashed a tirade against the Russian military on Friday and vowed to retaliate against its leaders.\n    \n\n            Russia\u2019s domestic intelligence service, the FSB, has opened a criminal case against Prigozhin, accusing him of \u201ccalling for an armed rebellion.\u201d It also urged his own mercenaries to detain him. \n    \n\nHere\u2019s what you need to know:\n\n\nWhat did he do? Prigozhin on Friday accused Russia\u2019s military of attacking a Wagner camp and killing a \u201chuge amount\u201d of his men. He vowed to retaliate with force, insinuating that his forces would \u201cdestroy\u201d any resistance, including roadblocks and aircraft.\n    \n\n            Prigozhin later rowed back on his threat, saying his criticism of the Russian military leadership was a \u201cmarch of justice\u201d and not a coup \u2013 but by that point he appears to have already crossed a line with the Kremlin.\n    \n\n            Late on Friday, Prigozhin said his fighters had entered Russia\u2019s Rostov region.\n    \n\nWhat Russia\u2019s saying. Russia\u2019s defense ministry has denied attacking Wagner troops, calling the claim \u201cinformational propaganda.\u201d And the FSB also opened a criminal case against Prigozhin for his threats, accusing him of calling for \u201can armed rebellion.\u201d\n    \n\n            Russian President Vladimir Putin is aware of the situation, according to Kremlin spokesman Dmitry Peskov.\n    \n\n            Russian officials meanwhile appeared to take no chances with security measures stepping up in Moscow, according to Russian state media TASS. Social media posts showed military vehicles were seen driving around the main streets of the Russian capital in the early hours of Saturday.\n    \n\nRead more:\n\n\n            Yevgeny Prigozhin, the chief of the private military group Wagner, accused the Russian military\u2019s chief of staff Valery Gerasimov of ordering an aerial attack \u201cin the middle of civilian cars.\u201d\u00a0\n    \n\n        \u201cThe Chief of the General Staff has just given the order to...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "CNN is a well-established news organization with a long history of reporting on global events, including conflicts like the war in Ukraine. While it has faced criticism for perceived bias and sensationalism in the past, it typically employs professional journalists and follows editorial standards that ensure fact-checking and reliability. CNN's extensive coverage of the Ukraine war, including on-the-ground reporting, provides valuable context for evaluating the situation depicted in the beach party video and its implications. However, its mainstream orientation sometimes draws allegations of bias, slightly lowering its score."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-06-23"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This evidence from CNN discusses military confrontations and the state of the conflict which implicitly suggests ongoing hardships but doesn't provide specific details about life in Kyiv."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Ukraine tensions: Can diplomacy prevent war?",
+                "htmlTitle": "<b>Ukraine</b> tensions: Can diplomacy prevent war?",
+                "link": "https://www.bbc.com/news/world-europe-60341966",
+                "displayLink": "www.bbc.com",
+                "snippet": "Feb 10, 2022 ... Reuters A Ukrainian territorial defence reservist during trains near Kyiv, Ukraine. File photo Reuters. Territorial defence reservists across\u00a0...",
+                "htmlSnippet": "Feb 10, 2022 <b>...</b> <b>Reuters</b> A <b>Ukrainian</b> territorial defence reservist during trains near <b>Kyiv</b>, <b>Ukraine</b>. File photo <b>Reuters</b>. Territorial defence reservists across&nbsp;...",
+                "formattedUrl": "https://www.bbc.com/news/world-europe-60341966",
+                "htmlFormattedUrl": "https://www.<b>bbc</b>.com/news/world-europe-60341966",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwsItGvxXVK7EltEQzZ07f07kmITCzbUWRIxPa9AoqJPYBwG9pjz4CnB8&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/5AFF/production/_123259232_2022-01-29t142839z_56206221_rc209s9fk209_rtrmadp_3_ukraine-crisis-defence.jpg",
+                            "twitter:title": "Ukraine tensions: Can diplomacy prevent war?",
+                            "twitter:card": "summary_large_image",
+                            "og:image:alt": "Reservists of the Ukrainian Territorial Defence Forces take part in military exercises on the outskirts of Kyiv, Ukraine January 29, 2022.",
+                            "theme-color": "#ffffff",
+                            "og:title": "Ukraine tensions: Can diplomacy prevent war?",
+                            "og:description": "Diplomats hope that warring sides can get off the road to war - but finding such a path is not easy.",
+                            "version": "2.5.0+19",
+                            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/5AFF/production/_123259232_2022-01-29t142839z_56206221_rc209s9fk209_rtrmadp_3_ukraine-crisis-defence.jpg",
+                            "next-head-count": "28",
+                            "twitter:image:alt": "Reservists of the Ukrainian Territorial Defence Forces take part in military exercises on the outskirts of Kyiv, Ukraine January 29, 2022.",
+                            "viewport": "width=device-width",
+                            "twitter:description": "Diplomats hope that warring sides can get off the road to war - but finding such a path is not easy."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/5AFF/production/_123259232_2022-01-29t142839z_56206221_rc209s9fk209_rtrmadp_3_ukraine-crisis-defence.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "!!Reuters\nTerritorial defence reservists across Ukraine have been preparing for a possible Russian invasion\n**The prospect of a wider war in Ukraine is dreadful to contemplate. If Russia were to invade, thousands could die. Many more might flee.**\nThe economic cost would be severe, the humanitarian cost devastating.\nYet Russia continues to build up its forces around Ukraine, and the West continues to threaten dire consequences if they were to step one foot over the border.\nSo is there a diplomatic way out, an exit from this confrontation that is peaceful and durable?\nDiplomats talk of an \"off ramp\", a way that all sides can get off the road to war. But finding such a path is not easy.\nAny compromise would come at a price. Here, though, are some potential routes that do not involve a military and thus bloody outcome.\nThe West could persuade President Putin to back down\n----------------------------------------------------\nUnder this scenario, Western powers would effectively deter any invasion by convincing Russian President Vladimir Putin the costs would outweigh the benefits.\nHe would be persuaded that the human casualties, the economic sanctions and the diplomatic blowback would be so great that he would come off worst even if he made military gains on the battlefield.\nHe would have to fear the West might support a military insurgency in Ukraine, thus bogging him down in a costly war for years.\nMr Putin would have to believe these costs would reduce his domestic...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The BBC is a globally respected news organization known for its impartial and thorough reporting. Its coverage of international events, including the Ukraine war, has been extensive and well-researched, making it a trustworthy source for news. The BBC adheres to strict editorial guidelines for accuracy and impartiality. Its global reach and reputation enhance its credibility significantly."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2022-02-10"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This piece discusses the potential impacts of a military conflict in Ukraine, hinting at severe humanitarian costs, contributing more relevant background to the situation in Kyiv."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Isa Soares (@isasoarescnn) \u2022 Instagram photos and videos",
+                "htmlTitle": "Isa Soares (@<b>isasoarescnn</b>) \u2022 Instagram photos and videos",
+                "link": "https://www.instagram.com/isasoarescnn/",
+                "displayLink": "www.instagram.com",
+                "snippet": "15K Followers, 1091 Following, 1587 Posts - Isa Soares (@isasoarescnn) on Instagram: \"\ud83c\udf99\ufe0f CNN award-winning Correspondent Anchor, Isa Soares Tonight,\u00a0...",
+                "htmlSnippet": "15K Followers, 1091 Following, 1587 Posts - Isa Soares (@isasoarescnn) on Instagram: &quot;\ud83c\udf99\ufe0f <b>CNN</b> award-winning Correspondent Anchor, Isa Soares Tonight,&nbsp;...",
+                "formattedUrl": "https://www.instagram.com/isasoarescnn/",
+                "htmlFormattedUrl": "https://www.instagram.com/isasoares<b>cnn</b>/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/301153411_383988437205396_3507395385716237962_n.jpg?stp=dst-jpg_s100x100&_nc_cat=106&ccb=1-7&_nc_sid=3fd06f&_nc_ohc=qfp8sseR3CcQ7kNvgHwIaRH&_nc_ht=scontent-lax3-2.cdninstagram.com&gid=A94DtvChVGVSUEGxguy92Bt&oh=00_AYAvlls6o4nq01OqXHIbJQLs-9DXv-3VJ3F_XGHgzHfYFQ&oe=66ADB37E",
+                            "theme-color": "#FFFFFF",
+                            "og:type": "profile",
+                            "al:ios:app_name": "Instagram",
+                            "og:title": "Isa Soares (@isasoarescnn) \u2022 Instagram photos and videos",
+                            "al:android:package": "com.instagram.android",
+                            "bingbot": "noarchive",
+                            "al:ios:url": "instagram://user?username=isasoarescnn",
+                            "color-scheme": "light",
+                            "og:description": "15K Followers, 1,091 Following, 1,587 Posts - See Instagram photos and videos from Isa Soares (@isasoarescnn)",
+                            "al:ios:app_store_id": "389801252",
+                            "al:android:url": "https://instagram.com/_u/isasoarescnn/",
+                            "apple-mobile-web-app-status-bar-style": "default",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "https://www.instagram.com/isasoarescnn/",
+                            "al:android:app_name": "Instagram"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/301153411_383988437205396_3507395385716237962_n.jpg?stp=dst-jpg_s100x100&_nc_cat=106&ccb=1-7&_nc_sid=3fd06f&_nc_ohc=qfp8sseR3CcQ7kNvgHwIaRH&_nc_ht=scontent-lax3-2.cdninstagram.com&gid=A94DtvChVGVSUEGxguy92Bt&oh=00_AYAvlls6o4nq01OqXHIbJQLs-9DXv-3VJ3F_XGHgzHfYFQ&oe=66ADB37E"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Login \u2022 Instagram\n===============\n!(blob:https://www.instagram.com/a2c4acc86ce977bdb7718eba199dd413)!(blob:https://www.instagram.com/a7d152ce433b443153f919ae47dd7fc4)\nPhone number, username, or email\nPassword\nLog in\nor\nLog in with Facebook\nDon't have an account? \nGet the app.\n]](ms-windows-store://pdp/?productid=9nblggh5l9xt&referrer=appbadge&source=www.instagram.com&mode=mini&pos=310%2C310%2C780%2C580&next=https%3A%2F%2Fwww.instagram.com%2Fisasoarescnn%2F)\nEnglish\nAfrikaans\u0627\u0644\u0639\u0631\u0628\u064a\u0629\u010ce\u0161tinaDanskDeutsch\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acEnglishEnglish (UK)Espa\u00f1ol (Espa\u00f1a)Espa\u00f1ol\u0641\u0627\u0631\u0633\u06ccSuomiFran\u00e7ais\u05e2\u05d1\u05e8\u05d9\u05eaBahasa IndonesiaItaliano\u65e5\u672c\u8a9e\ud55c\uad6d\uc5b4Bahasa MelayuNorskNederlandsPolskiPortugu\u00eas (Brasil)Portugu\u00eas (Portugal)\u0420\u0443\u0441\u0441\u043a\u0438\u0439Svenska\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22FilipinoT\u00fcrk\u00e7e\u4e2d\u6587(\u7b80\u4f53)\u4e2d\u6587(\u53f0\u7063)\u09ac\u09be\u0982\u09b2\u09be\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0\u0939\u093f\u0928\u094d\u0926\u0940HrvatskiMagyar\u0c95\u0ca8\u0ccd\u0ca8\u0ca1\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02\u092e\u0930\u093e\u0920\u0940\u0928\u0947\u092a\u093e\u0932\u0940\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40\u0dc3\u0dd2\u0d82\u0dc4\u0dbdSloven\u010dina\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41\u0627\u0631\u062f\u0648Ti\u1ebfng Vi\u1ec7t\u4e2d\u6587(\u9999\u6e2f)\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438Fran\u00e7ais (Canada)Rom\u00e2n\u0103\u0421\u0440\u043f\u0441\u043a\u0438\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\n\u00a9 2024 Instagram from Meta",
+                    "content_tokens": 464
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 3,
+                    "justification": "While Instagram is a popular social media platform where users share content, it is not a reliable source of news. Information on Instagram can be misleading, as it lacks the journalistic rigor and verification processes found in traditional news outlets. Content may be viral, but without proper context or fact-checking. The platform is often misused to spread misinformation, making it a low-quality source for news verification."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence is simply an Instagram page of a journalist and does not contain information pertinent to the ongoing situation or hardships in Kyiv."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Ukraine war: Zelensky says situation in Bakhmut worsening",
+                "htmlTitle": "<b>Ukraine</b> war: Zelensky says <b>situation</b> in Bakhmut worsening",
+                "link": "https://www.bbc.com/news/world-europe-64793923",
+                "displayLink": "www.bbc.com",
+                "snippet": "Feb 28, 2023 ... The Ukrainian leader's remarks came as US Treasury Secretary Janet Yellen warned China against arming Russia during a visit to Kyiv on Monday.",
+                "htmlSnippet": "Feb 28, 2023 <b>...</b> The <b>Ukrainian</b> leader&#39;s remarks came as US Treasury Secretary Janet Yellen warned China against arming Russia during a visit to <b>Kyiv</b> on Monday.",
+                "formattedUrl": "https://www.bbc.com/news/world-europe-64793923",
+                "htmlFormattedUrl": "https://www.<b>bbc</b>.com/news/world-europe-64793923",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCBe1nofEnvzlcRJ4s9nDhnDcXiYj_mdScFdv0M043qZLbb5MBN66cw80D&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/15C65/production/_128798198_gettyimages-1247538450.jpg",
+                            "twitter:title": "Ukraine war: Zelensky says situation in Bakhmut worsening",
+                            "twitter:card": "summary_large_image",
+                            "og:image:alt": "People sit in a humanitarian aid centre in Bakhmut, Ukraine",
+                            "theme-color": "#ffffff",
+                            "og:title": "Ukraine war: Zelensky says situation in Bakhmut worsening",
+                            "og:description": "Russian forces have been trying to capture the eastern city of Bakhmut for over six months.",
+                            "version": "2.5.0+19",
+                            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/15C65/production/_128798198_gettyimages-1247538450.jpg",
+                            "next-head-count": "28",
+                            "twitter:image:alt": "People sit in a humanitarian aid centre in Bakhmut, Ukraine",
+                            "viewport": "width=device-width",
+                            "twitter:description": "Russian forces have been trying to capture the eastern city of Bakhmut for over six months."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/15C65/production/_128798198_gettyimages-1247538450.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The situation in the city of Bakhmut, on the eastern front line, is becoming \"more and more difficult\", Ukraine's President Volodymyr Zelensky has said.\nRussian forces have been trying to take the city for over six months.\n\"The enemy is constantly destroying everything that can be used to protect our positions\", Mr Zelensky stated.\nThe Ukrainian leader's remarks came as US Treasury Secretary Janet Yellen warned China against arming Russia during a visit to Kyiv on Monday.\nSome of the fiercest fighting since Russia invaded Ukraine just over a year ago has taken place in Bakhmut, in Ukraine's Donetsk region, part of which is under the control of Russia and its proxy forces. \nRecently efforts by Russian forces to capture the industrial city have intensified, with its troops gaining ground. Footage carried by the Russian RIA state news agency showed Su-25 fighter jets roaring over Bakhmut.\nDespite the Russian gains, a reporter from the Reuters news agency who visited the area on Monday said there was no indication that Ukraine's forces were preparing to withdraw, and said reinforcements were arriving. \nThe separatist leader of the self-proclaimed Donetsk People's Republic, Denis Pushilin, said \"practically all roads\" into the city were \"under [Russian] fire control\".\nAnd the commander of Ukraine's ground forces, Col Gen Oleksandr Syrskyi, said the situation around Bakhmut was \"extremely tense\". \n\"Despite significant losses, the enemy threw in the most prepared assault units of Wagner, who are trying to break through the defences of our troops and surround the city,\" Gen Syrskyi said.\nSpeaking about the situation in...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The BBC is a globally respected news organization known for its impartial and thorough reporting. Its coverage of international events, including the Ukraine war, has been extensive and well-researched, making it a trustworthy source for news. The BBC adheres to strict editorial guidelines for accuracy and impartiality. Its global reach and reputation enhance its credibility significantly."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-02-28"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This evidence explicitly mentions the worsening situation in Bakhmut and ongoing military pressures, which can be connected to the conditions in Kyiv, offering considerable relevance about the hardships faced by Ukrainians."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Whose suffering counts? A discussion ... - The New Humanitarian",
+                "htmlTitle": "Whose suffering counts? A discussion ... - The New Humanitarian",
+                "link": "https://www.thenewhumanitarian.org/opinion/2022/04/08/event-crisis-coverage-beyond-Ukraine",
+                "displayLink": "www.thenewhumanitarian.org",
+                "snippet": "Apr 8, 2022 ... Whose suffering counts? A discussion looking at crisis coverage beyond Ukraine - The New Humanitarian puts quality, independent journalism\u00a0...",
+                "htmlSnippet": "Apr 8, 2022 <b>...</b> Whose suffering counts? A discussion looking at <b>crisis</b> coverage beyond <b>Ukraine</b> - The New <b>Humanitarian</b> puts quality, independent journalism&nbsp;...",
+                "formattedUrl": "https://www.thenewhumanitarian.org/.../event-crisis-coverage-beyond-Ukra...",
+                "htmlFormattedUrl": "https://www.thenew<b>humanitarian</b>.org/.../event-crisis-coverage-beyond-<b>Ukra</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJs8bHiv4golhs32_T-CYmVBHefY45wN266V8WzIDGkaEeMxpQCzmRbh8&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:type": "Article",
+                            "article:published_time": "2022-04-08T18:05:52+01:00",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Whose suffering counts? A discussion looking at crisis coverage beyond Ukraine",
+                            "og:site_name": "The New Humanitarian",
+                            "og:image:url": "https://assets.thenewhumanitarian.org/s3fs-public/styles/social_large/public/legacy_s3_root/ukraine-media-coverage.jpg?itok=LrYyf5oD",
+                            "handheldfriendly": "true",
+                            "twitter:url": "https://www.thenewhumanitarian.org/opinion/2022/04/08/event-crisis-coverage-beyond-Ukraine",
+                            "og:title": "Whose suffering counts? A discussion looking at crisis coverage beyond Ukraine",
+                            "og:updated_time": "2023-12-22T13:36:29+00:00",
+                            "og:description": "At a recent TNH event, a diverse panel was asked to consider why some humanitarian crises get more attention than others.",
+                            "og:image:secure_url": "https://assets.thenewhumanitarian.org/s3fs-public/styles/social_large/public/legacy_s3_root/ukraine-media-coverage.jpg?itok=LrYyf5oD",
+                            "twitter:image": "https://assets.thenewhumanitarian.org/s3fs-public/styles/social_large/public/legacy_s3_root/ukraine-media-coverage.jpg?itok=LrYyf5oD",
+                            "article:modified_time": "2023-12-22T13:36:29+00:00",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "At a recent TNH event, a diverse panel was asked to consider why some humanitarian crises get more attention than others.",
+                            "mobileoptimized": "width",
+                            "og:url": "https://www.thenewhumanitarian.org/opinion/2022/04/08/event-crisis-coverage-beyond-Ukraine"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://assets.thenewhumanitarian.org/s3fs-public/legacy_s3_root/ukraine-media-coverage.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... level of news coverage of the war in Ukraine is driven by geopolitics, the economics of the news business, and racism, according to an online conversation hosted last week by The New Humanitarian.\nSpeaking from a range of perspectives \u2013 non-Western media consumer, humanitarian ethicist, refugee, and professor of journalism \u2013 four panellists sat down with moderator and TNH CEO Heba Aly to discuss why some crises get more attention than others.\nSpeakers:\n*   **Patrick Gathara**,\u00a0media critic and award-winning political cartoonist based in Nairobi, who recently wrote an Op-Ed on the  of the media and broader international response to Russia\u2019s invasion of Ukraine.\n*   **Hugo Slim**, humanitarian ethicist and senior research fellow at the University of Oxford, who  that the West\u2019s focus on Ukraine is perfectly justified.\n*   **Mel Bunce**, Head of the Journalism Department at City, University of London,\u00a0who recently conducted  on how coverage of humanitarian crises affects aid funding.\n*   **Mustafa Alio**, Managing Director, Refugees Seeking Equal Access at the Table (R-SEAT), which  for all refugees fleeing Ukraine, including Africans and Afghans, to be treated equally.\n*   **Heba Aly**\u00a0(moderator), CEO, The New Humanitarian,\u00a0whose reporting specifically focuses on .\nHere are some key takeaways:\nIs Ukraine getting too much coverage?\n-------------------------------------\nA  found that the amount of news attention received by other humanitarian crises pales in comparison to the constant flood of articles on the war in Ukraine. Outlets have been devoting their entire homepages to Ukraine coverage: On 2 March, for example, 20 of 22 items on the BBC\u2019s \u201cWorld\u201d page were Ukraine-related stories. Those of Al Jazeera and others had similar ratios.\n\u201cIt's been quite a lot of full hours dedicated to showing not just what's happening \\, but also delving into personal stories, humanising the victims,\u201d said Patrick Gathara, a media critic and political cartoonist based in Nairobi, Kenya. \u201cThis is all great and good and should be done.\u201d\nBut it\u2019s a different story for other crises: \u201cIn many cases, victims are presented as collectives, not really as individuals. The stories that are told don't tend to be as granular and to allow people to really identify with the people who are suffering,\u201d Gathara said. \u201cAnd it leads us to ask: Does all suffering count the same way? Do we then privilege the suffering of some above others?\u201d\n> \u201cThe ultimate wrong...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The New Humanitarian focuses on humanitarian issues, reporting on crises and conflicts worldwide, including extensive coverage of the war in Ukraine. Its commitment to high-quality journalism and focus on humanitarian perspectives makes it a credible source for insights into the human impact of such conflicts. The organization emphasizes accuracy and depth, which provides valuable context."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2022-04-08"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "This discussion on media coverage and the perception of suffering addresses the broader context but does not provide concrete evidence of hardships in Kyiv itself."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "War Crimes in Ukraine",
+                "htmlTitle": "War Crimes in <b>Ukraine</b>",
+                "link": "https://crsreports.congress.gov/product/pdf/R/R47762",
+                "displayLink": "crsreports.congress.gov",
+                "snippet": "Oct 16, 2023 ... well as justice officials in several allied EU and NATO countries, to support current and future investigations and prosecutions for the so-\u00a0...",
+                "htmlSnippet": "Oct 16, 2023 <b>...</b> well as justice officials in several allied EU and NATO countries, to support <b>current</b> and future investigations and prosecutions for the so-&nbsp;...",
+                "formattedUrl": "https://crsreports.congress.gov/product/pdf/R/R47762",
+                "htmlFormattedUrl": "https://crsreports.congress.gov/product/pdf/R/R47762",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ7yxtE8W6qlWAu8hF5nLL7n2nIC89Yxt_56IQyyJW_ipc7t1OxZdsf7E&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "moddate": "D:20231017143907-04'00'",
+                            "creationdate": "D:20231017143903-04'00'",
+                            "creator": "Microsoft\u00ae Word LTSC",
+                            "author": "Andrew S. Bowen, Matthew C. Weed",
+                            "subject": "CRS Report",
+                            "producer": "Microsoft\u00ae Word LTSC; modified using iText\u00ae 7.1.2 \u00a92000-2018 iText Group NV (AGPL-version)",
+                            "title": "War Crimes in Ukraine"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "x-raw-image:///0c2acc61407270c6d126750a999618b8c1a0c72b97a26b61135e106b2641d1b7"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "This site provides Congressional Research Service reports, which are credible, nonpartisan analysis documents on various issues, including international conflicts. While it is not a news outlet per se, the analyses offered are well-researched and provide valuable context for understanding policy implications and international relations, particularly as they pertain to the U.S. stance on the conflict in Ukraine."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-10-16"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This evidence regarding investigations into war crimes can indicate the severity of the conflict's impacts, thus framing the context of hardships faced in the country, including Kyiv, but lacks direct specific details."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,637 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Living conditions in Kyiv during ongoing conflict (site:bbc.com OR site:cnn.com OR site:aljazeera.com)",
+                "totalResults": "21100",
+                "searchTerms": "Living conditions in Kyiv during ongoing conflict (site:bbc.com OR site:cnn.com OR site:aljazeera.com)",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Living conditions in Kyiv during ongoing conflict (site:bbc.com OR site:cnn.com OR site:aljazeera.com)",
+                "totalResults": "21100",
+                "searchTerms": "Living conditions in Kyiv during ongoing conflict (site:bbc.com OR site:cnn.com OR site:aljazeera.com)",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.237965,
+        "formattedSearchTime": "0.24",
+        "totalResults": "21100",
+        "formattedTotalResults": "21,100"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Ukraine in maps: Tracking the war with Russia",
+                "htmlTitle": "<b>Ukraine</b> in maps: Tracking the <b>war</b> with Russia",
+                "link": "https://www.bbc.com/news/world-europe-60506682",
+                "displayLink": "www.bbc.com",
+                "snippet": "May 17, 2024 ... While it is a significant town in the region, Vovchansk is not of specific military importance, though its capture would be a blow to Ukrainian ...",
+                "htmlSnippet": "May 17, 2024 <b>...</b> <b>While</b> it is a significant town in the region, Vovchansk is not of specific military importance, though its capture would be a blow to <b>Ukrainian</b>&nbsp;...",
+                "formattedUrl": "https://www.bbc.com/news/world-europe-60506682",
+                "htmlFormattedUrl": "https://www.bbc.com/news/world-europe-60506682",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMJL5OcFY573M7bMfCb_yzmGkq-CzcvHMhcfSQLYJe-2VvIhQ-drFpHYxO&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/AAFA/production/_133307734_promo-nc.png",
+                            "twitter:title": "Ukraine in maps: Tracking the war with Russia",
+                            "twitter:card": "summary_large_image",
+                            "og:image:alt": "Map showing front line",
+                            "theme-color": "#ffffff",
+                            "og:title": "Ukraine in maps: Tracking the war with Russia",
+                            "og:description": "Russian forces make \"tactically significant advances\" near Kharkiv, with the war now in its third year.",
+                            "version": "2.5.0+19",
+                            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/AAFA/production/_133307734_promo-nc.png",
+                            "next-head-count": "28",
+                            "twitter:image:alt": "Map showing front line",
+                            "viewport": "width=device-width",
+                            "twitter:description": "Russian forces make \"tactically significant advances\" near Kharkiv, with the war now in its third year."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/AAFA/production/_133307734_promo-nc.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Fighting has been raging in Ukraine for two years since Russia's invasion, with Moscow's forces edging forwards in recent weeks after months of virtual stalemate.\nHere are the latest developments:\nRussian forces have crossed the international border to the north of Ukraine's second biggest city Kharkiv and have made what analysts are calling \"tactically significant advances\".\nUS-based analysts at the Institute for the Study of War (ISW) say they have advanced in northern areas of the town of Vovchansk and appear to have taken control of Vovchansk Central District Hospital. They have also made small gains in the village of Starytsia and have advanced closer to the village of Lyptsi to the west.\nRussia has intensified its attacks on the region following Friday's surprise incursions across the border, seizing several villages and settlements in one of the most significant ground attacks since its full-scale invasion of Ukraine began in February 2022. \nVovchansk, located 74km (45 miles) from Kharkiv, has been heavily bombed in recent days. While it is a significant town in the region, Vovchansk is not of specific military importance, though its capture would be a blow to Ukrainian morale.\nHowever, Ukrainian officials say they are stabilising the situation and that the tempo of Russian operations in the area is decreasing.\nThousands of civilians have fled towards Kharkiv and there are concerns among Ukrainian commanders about what could happen if Russian troops get within artillery-range of the city.\nThe UK Ministry of Defence (MoD) assessment is that Russia is \"almost certainly attempting to divert Ukrainian resources away from other parts of the front line\", but adds: \"It is unlikely that Russia has built up sufficient combat power to take the city (Kharkiv) without diverting additional forces into the area.\"\nBut BBC defence correspondent Jonathan Beale, who is in the area, says it will be hard to dislodge the Russian forces in the region and that there are believed to be about 30,000 more troops just over the border.\nThe incursion is some miles from the main front line to the east where Russia has continued its offensive operations and been edging forwards since October 2023.\nThe MoD noted that Russian attacks intensified further in April - up 17% from March - with more than three quarters on the areas around...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Russian invasion of Ukraine: Latest news, analysis and videos | CNN",
+                "htmlTitle": "Russian invasion of <b>Ukraine</b>: Latest news, analysis and videos | CNN",
+                "link": "https://www.cnn.com/world/europe/ukraine",
+                "displayLink": "www.cnn.com",
+                "snippet": "Everything you need to know about Russia's invasion of Ukraine.",
+                "htmlSnippet": "Everything you need to know about Russia&#39;s invasion of <b>Ukraine</b>.",
+                "formattedUrl": "https://www.cnn.com/world/europe/ukraine",
+                "htmlFormattedUrl": "https://www.cnn.com/world/europe/ukraine",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "twitter:title": "Russian invasion of Ukraine: Latest news, analysis and videos | CNN",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "CNN",
+                            "og:title": "Russian invasion of Ukraine: Latest news, analysis and videos | CNN",
+                            "meta-section": "world",
+                            "type": "section",
+                            "og:description": "Everything you need to know about Russia’s invasion of Ukraine.",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@CNN",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "Everything you need to know about Russia’s invasion of Ukraine.",
+                            "template_type": "section_onezone",
+                            "theme": "world",
+                            "og:url": "https://www.cnn.com/world/europe/ukraine"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n*   \n    *   \n    *   \n*   \n*   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \nRussian invasion of Ukraine\n===========================\nEverything you need to know about Russia's invasion of Ukraine.\nLatest News\n-----------\n Brendan Smialowski/AFP/Getty Images/File]\n Achmad Ibrahim/AP]\n Jeff Spicer/BFC/Getty Images/File]\n Ukraine’s Foreign Affairs Ministry]\n Pedro Pardo/Pool/AFP/Getty Images]\n Alexander Nemenov/AFP/Getty Images]\nAd Feedback\nVideos\n------\n • Video 15:39 Montinique Monroe/Getty Images]\n • Video 3:33 Prosecutor's Office/ABW Rzeszow, Poland]\n • Video 4:48 Prosecutors Office/ABW]\n • Video 7:43 Clipped From Video]\n • Video 1:49 CNN]\n • Video 1:14 GAVRIIL GRIGOROV/AFP/POOL/AFP via Getty Images]\n • Video 1:15 Darrel Loveless]\n • Video 1:17 CNN]\n Ukraine’s Foreign Affairs Ministry]\n Getty Images]\nSign in\nMy Account\n*   \n*   \n*   \nYour CNN account Sign in to your CNN account\n* * *\n* * *\n*   \n    *...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Ukraine War | Latest News & Updates| BBC News",
+                "htmlTitle": "<b>Ukraine War</b> | Latest News &amp; Updates| BBC News",
+                "link": "https://www.bbc.com/news/war-in-ukraine",
+                "displayLink": "www.bbc.com",
+                "snippet": "Follow the latest news about the Russia Ukraine war. Find reports from the ground, verified videos, maps and expert analysis by BBC correspondents across ...",
+                "htmlSnippet": "Follow the latest news about the Russia <b>Ukraine war</b>. Find reports from the ground, verified videos, maps and expert analysis by BBC correspondents across&nbsp;...",
+                "formattedUrl": "https://www.bbc.com/news/war-in-ukraine",
+                "htmlFormattedUrl": "https://www.bbc.com/news/war-in-ukraine",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "next-head-count": "22",
+                            "twitter:title": "Ukraine War | Latest News & Updates| BBC News",
+                            "theme-color": "#ffffff",
+                            "viewport": "width=device-width",
+                            "twitter:description": "Follow the latest news about the Russia Ukraine war. Find reports from the ground, verified videos, maps and expert analysis by BBC correspondents across the world.",
+                            "og:title": "Ukraine War | Latest News & Updates| BBC News",
+                            "og:description": "Follow the latest news about the Russia Ukraine war. Find reports from the ground, verified videos, maps and expert analysis by BBC correspondents across the world.",
+                            "version": "2.5.0+19"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... in Russian port --------------------------------------------------- The attack, which left several injured, occurred on a port near the illegally-annexed Crimean peninsula. 6 days ago Europe]\n! Zelensky: Trump would be hard work, but we are hard workers ----------------------------------------------------------- The Ukrainian leader tells the BBC in an exclusive interview that he is willing to work with anyone who is in power in the US. 18 Jul 2024 Europe]\n* * *\nAnalysis\n--------\n! Germany plans to halve military aid for Ukraine ----------------------------------------------- Berlin says a G7 scheme to raise $50bn from interest on frozen Russian assets will ensure other funding. 18 Jul 2024 Europe]\n! Fined for yellow and blue shoes: How Russian laws smother dissent ----------------------------------------------------------------- Since the invasion of Ukraine, the measures used to clamp down on Kremlin critics have swelled. 21 Jul 2024 Europe]\n! What weapons are being supplied to Ukraine? ------------------------------------------- New arms supplies from the US are arriving in Ukraine but Germany plans to cut military aid. 18 Jul 2024 Europe]\n! Russia promises release of Indians fighting in its army ------------------------------------------------------- India says Prime Minister Narendra Modi raised the issue with President Putin during his visit to Russia. 10 Jul 2024 World]\n! BBC Verify looks at evidence linking Russia to Kyiv hospital strike ------------------------------------------------------------------- Watch BBC Verify's visual analysis of the strike which killed two adults and injured 300. 9 Jul 2024 Europe]\n* * *\nOn the ground\n-------------\n! Aid worker marks 500 days in Ukraine ------------------------------------ Michael Betoin from Sheffield says he felt a \"calling\" to help those affected by the conflict. 17 Jul 2024 South Yorkshire]\n! Kyiv hospital boss describes 'real hell' of missile attack ---------------------------------------------------------- Children screamed in fear at Kyiv's Ohmatdyt hospital after a deadly Russian missile hit, the director says. 9 Jul 2024 World]\n! NI photographer caught in Russian ambush in Ukraine --------------------------------------------------- A Belfast man found himself in the middle of a Russian ambush while reporting on Ukrainian troops. 15 Jul 2024 Northern Ireland]\n! 'We've learnt to do surgery without electricity': Ukraine's power cuts worsen ----------------------------------------------------------------------------- Russia is pummelling Ukraine's energy grid, forcing Ukrainians to live and work by torch light. 5 Jul 2024 Europe]\n! LGBT troops on Ukraine's front line fight homophobia at home ------------------------------------------------------------ Gay marriage is illegal in Ukraine. Activists hope the LGBT troops at the front can change minds. ...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "May 14, 2024 - Russia's war in Ukraine | CNN",
+                "htmlTitle": "May 14, 2024 - Russia&#39;s <b>war</b> in <b>Ukraine</b> | CNN",
+                "link": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-05-14-24/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "May 14, 2024 ... Ukrainian President Volodymyr Zelensky last month showed his dissatisfaction over deliveries of Western military aid from key allies, saying air ...",
+                "htmlSnippet": "May 14, 2024 <b>...</b> <b>Ukrainian</b> President Volodymyr Zelensky last month showed his dissatisfaction <b>over</b> deliveries of Western military aid from key allies, saying air&nbsp;...",
+                "formattedUrl": "https://www.cnn.com/europe/live-news/russia-ukraine-war.../index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/europe/live-news/russia-ukraine-war.../index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXTs2wWbYTT_O91hjfbtMfPsZP7__nC61moAMXi9Be_FG9onMullFWS1o&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/240514110028-01-blinken-ukraine-051424.jpg?c=16x9&q=w_800,c_fill",
+                            "twitter:title": "May 14, 2024 - Russia’s war in Ukraine | CNN",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2024-05-14T09:28:25Z",
+                            "og:site_name": "CNN",
+                            "author": "Ivana Kottasová,Michelle Shen,Aditi Sangal",
+                            "og:title": "May 14, 2024 - Russia’s war in Ukraine | CNN",
+                            "meta-section": "world",
+                            "type": "live-story",
+                            "og:description": "Antony Blinken met with Volodymyr Zelensky in Kyiv earlier Tuesday, where the Ukrainian president told the US secretary of state that Ukraine urgently needs more air defenses.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/240514110028-01-blinken-ukraine-051424.jpg?c=16x9&q=w_800,c_fill",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@CNN",
+                            "article:modified_time": "2024-05-15T04:05:29.962Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "Antony Blinken met with Volodymyr Zelensky in Kyiv earlier Tuesday, where the Ukrainian president told the US secretary of state that Ukraine urgently needs more air defenses.",
+                            "template_type": "article_livestory",
+                            "meta-branding": "live-story-v2",
+                            "theme": "world",
+                            "og:url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-05-14-24/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/240514110028-01-blinken-ukraine-051424.jpg?c=16x9&q=w_800,c_fill"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... towns – Kostiantynivka, Kramatorsk and Sloviansk – in the Donetsk region.\nWhile Russia’s desire to capture all of Donetsk is clear – it announced it had annexed the region back in 2022 – some analysts argue the Kharkiv operation might also be about the creation of a buffer zone along Russia’s border with Ukraine.\nThe Institute for the Study of War says reports of the destruction of several bridges across key waterways suggest Moscow is “prioritizing the creation of a ‘buffer zone’ over a deeper penetration into the region.”\nRussia’s President Vladimir Putin has made several references in the past to creating such a zone inside Ukraine, to better protect Russian towns like Belgorod from coming under Ukrainian attack.\n!\nRescuers work at the site of Russian air strikes in the village of Lyptsi, Ukraine, on April 10.\nVolodymyr Pavlov/Reuters/File\nRussian forces continue to make advances south into Ukrainian villages in the Kharkiv region after launching their surprise cross-border assault four days ago.\nOne of the main Russian efforts appears , described by one Ukrainian military blogger as “a very important village” – due to its position on Ukraine’s second defensive line.\nThe DeepStateMap monitoring group indicates two further settlements in the direction of the village have been taken under full or partial Russian control, though Serhii Melnyk, Commander of the Kharkiv city defense forces, said an attempted advance on Lyptsi itself had been repelled.\nReports make clear that Russia continues to make heavy use of large glide bombs ahead of its ground operations. Glide bombs can carry hundreds of kilograms of explosives and are dropped from aircraft which – in the case of attacks on the Kharkiv border region – do not even need to enter Ukrainian airspace.\nA Ukrainian National Guard Special Forces unit reported 20 such aerial attacks in one direction alone.\nMeanwhile, a few dozen kilometers to the east, Vovchansk remains a Russian focus, though it appears Ukraine has still managed to prevent a full Russian assault on the town.\n!\nGerman Chancellor Olaf Scholz speaks during a press conference in Stockholm, Sweden, on May 14.\nSamuel Steen/TT News Agency/Reuters\nGerman Chancellor Olaf Scholz has appealed to European countries to do more to support Ukraine, saying he hoped they would provide Ukraine with “munition, artillery, tanks, and air defense, and especially Patriot \\”\nSpeaking in Stockholm on Tuesday, the German chancellor vowed support for Ukraine for as long as necessary.\nScholz said Germany’s announcement in April that it would send a third Patriot system to Ukraine had not been an easy decision as Germany did not have many...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "May 15, 2024 - Russia's war in Ukraine | CNN",
+                "htmlTitle": "May 15, 2024 - Russia&#39;s <b>war</b> in <b>Ukraine</b> | CNN",
+                "link": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-05-15-24/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "May 15, 2024 ... Russian President Vladimir Putin arrives in Beijing at the start of a 2-day state visit to China. From CNN's Abel Alvarado. Russian President ...",
+                "htmlSnippet": "May 15, 2024 <b>...</b> Russian President Vladimir Putin arrives in Beijing <b>at</b> the start of a 2-day state visit to China. From CNN&#39;s Abel Alvarado. Russian President&nbsp;...",
+                "formattedUrl": "https://www.cnn.com/europe/live-news/russia-ukraine-war.../index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/europe/live-news/russia-ukraine-war.../index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTCnGtcT6re_MBOaS0Ij7atg3kUDvkylL2dQSZAJQJzcxeaq2GCJliZGkG&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/240514184828-kharkiv-conflic-ukraine.jpg?c=16x9&q=w_800,c_fill",
+                            "twitter:title": "May 15, 2024 - Russia’s war in Ukraine | CNN",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2024-05-15T04:01:58Z",
+                            "og:site_name": "CNN",
+                            "author": "Heather Chen,Sana Noor Haq,Adrienne Vogt,Maureen Chowdhury",
+                            "og:title": "May 15, 2024 - Russia’s war in Ukraine | CNN",
+                            "meta-section": "world",
+                            "type": "live-story",
+                            "og:description": "US Secretary of State Antony Blinken announced $2 billion in military financing for Ukraine as Russia is pushing into northeastern part of the country.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/240514184828-kharkiv-conflic-ukraine.jpg?c=16x9&q=w_800,c_fill",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@CNN",
+                            "article:modified_time": "2024-05-16T04:02:29.882Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "US Secretary of State Antony Blinken announced $2 billion in military financing for Ukraine as Russia is pushing into northeastern part of the country.",
+                            "template_type": "article_livestory",
+                            "meta-branding": "live-story-v2",
+                            "theme": "world",
+                            "og:url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-05-15-24/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/240514184828-kharkiv-conflic-ukraine.jpg?c=16x9&q=w_800,c_fill"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\nOur live coverage of Russia’s war in Ukraine has moved here.\n\n\n            Russian President Vladimir Putin arrived in Beijing early Thursday morning local time to begin a two-day state visit to China, according to TASS and Chinese state media CCTV.\n    \n\n            Russia has stepped up its disinformation efforts to discredit Ukraine’s President Volodymyr Zelensky and raise questions about his legitimacy in recent months, US intelligence agencies have observed.\n    \n\n            A recently downgraded intelligence assessment shared with CNN says that Russia has seized on various recent events to fuel criticism about Zelensky’s abilities and place as Ukraine’s leader, a senior Biden administration official said in an interview.\n    \n\n            Russia has spread disinformation about Zelensky since before the war started but recent intelligence shows “it’s definitely increasing,” the official said.\n    \n\n            Russia has highlighted two main areas in this recent disinformation push, the intelligence indicates: Ukraine’s painful withdrawal from the eastern city of Avdiivka and the fact that Ukraine postponed its presidential election scheduled for this Spring due to the war.\n    \n\nWider impacts: The US is more concerned about the impact of the disinformation on countries abroad than on Ukrainians’ confidence in Zelensky, the official said.\n    \n\n            “That’s why we’re briefing our allies and partners about...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Russia-Ukraine war in maps and charts: Live Tracker | Infographic ...",
+                "htmlTitle": "Russia-<b>Ukraine war</b> in maps and charts: <b>Live</b> Tracker | Infographic ...",
+                "link": "https://www.aljazeera.com/news/2022/2/28/russia-ukraine-crisis-in-maps-and-charts-live-news-interactive",
+                "displayLink": "www.aljazeera.com",
+                "snippet": "Feb 28, 2022 ... Conflict at a glance. After months of tensions and intense diplomacy, Russian forces invaded Ukraine. Explosions were heard across the country.",
+                "htmlSnippet": "Feb 28, 2022 <b>...</b> <b>Conflict at</b> a glance. After months of tensions and intense diplomacy, Russian forces invaded <b>Ukraine</b>. Explosions were heard across the country.",
+                "formattedUrl": "https://www.aljazeera.com/.../russia-ukraine-crisis-in-maps-and-charts-live-...",
+                "htmlFormattedUrl": "https://www.aljazeera.com/.../russia-ukraine-crisis-in-maps-and-charts-live-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmCWAFv8pA1MVFWPrW3vi3toizzb3KCNgQxN6wpaB5CLbYoihO52eqfrHE&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "Article Page",
+                            "og:image": "https://www.aljazeera.com/wp-content/uploads/2022/02/INTERACTIVE-LIVETRACKER-poster.jpg?resize=1200%2C630",
+                            "apple-itunes-app": "app-id=1534955972",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Al Jazeera",
+                            "twitter:url": "https://www.aljazeera.com/news/2022/2/28/russia-ukraine-crisis-in-maps-and-charts-live-news-interactive",
+                            "pagesection": "News,Conflict,Infographic,Interactive,Maps,Russia-Ukraine war",
+                            "channel": "aje",
+                            "publisheddate": "2022-02-28T10:36:34",
+                            "postid": "1654853",
+                            "source": "Al Jazeera",
+                            "og:description": "The Russian offensive enters its 127th week, we track where battles are taking place and the human cost of war.",
+                            "taxonomyterms": "News, Conflict, Infographic, Interactive, Maps, Russia-Ukraine war, Europe, Russia, Ukraine",
+                            "lastdate": "2024-07-24T13:37:51",
+                            "primarytopic": "News",
+                            "twitter:image:alt": "Russia-Ukraine war in maps and charts: Live Tracker",
+                            "sourcetaxonomy": "Al Jazeera",
+                            "internalreporting": "Break it down for me",
+                            "where": "Europe, Russia, Ukraine",
+                            "primarytag": "Infographic",
+                            "ga4": "G-XN9JB9Q0M1",
+                            "twitter:account_id": "5536782",
+                            "og:type": "article",
+                            "twitter:title": "Russia-Ukraine war in maps and charts: Live Tracker",
+                            "taxonomy-tags": "News, Conflict, Infographic, Interactive, Maps, Russia-Ukraine war",
+                            "topics": "News",
+                            "og:title": "Russia-Ukraine war in maps and charts: Live Tracker",
+                            "tags": "Conflict, Infographic, Interactive, Maps, Russia-Ukraine war",
+                            "contenttype": "post",
+                            "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2022/02/INTERACTIVE-LIVETRACKER-poster.jpg?resize=1200%2C630",
+                            "articleslug": "russia-ukraine-crisis-in-maps-and-charts-live-news-interactive",
+                            "postlink": "/news/2022/2/28/russia-ukraine-crisis-in-maps-and-charts-live-news-interactive",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "The Russian offensive enters its 127th week, we track where battles are taking place and the human cost of war.",
+                            "pagetitle": "Russia-Ukraine war in maps and charts: Live Tracker",
+                            "og:url": "https://www.aljazeera.com/news/2022/2/28/russia-ukraine-crisis-in-maps-and-charts-live-news-interactive"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.aljazeera.com/wp-content/uploads/2022/02/INTERACTIVE-LIVETRACKER-poster.jpg?resize=1200%2C630"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The Russian offensive enters its 127th week, we track where battles are taking place and the human cost of war.\nThe Russian offensive enters its 127th week, we track where the fighting is happening and how we got here.\nRead on for an overview of the situation in infographics and maps.\n\n \n \n\n \n \nAccording to the United Nations High Commissioner for Refugees, there have been 38 million border crossings out of Ukraine since the Russian invasion began in February 2022. Many people have sought refuge in neighbouring countries.\nThe latest data show 21,388,745 border crossings into Poland, 4,951,795 to Romania, 2,852,395 to Russia, 5,191,955 to Hungary, 2,471,670 to Slovakia, 1,142,655 to Moldova and 16,705 into Belarus. Most of those displaced have been women and children. Men aged 18 to 60 have been asked to remain in Ukraine to fight.\n\n \nBelow are ten infographics that break down the history, politics and economics of the Ukraine-Russia crisis.\nAfter months of tensions and intense diplomacy, Russian forces invaded Ukraine. Explosions were heard across the country. Kyiv declared martial law, saying Ukraine will defend itself. Below is a summary of the conflict at a glance.\nRussia and Ukraine were part of the 15 Soviet republics that made up the Soviet Union. Following the collapse of the Soviet Union in 1991, Ukraine declared independence on August 24. The map below shows when each of these countries declared independence.\nAfter independence, Ukraine moved to shed its Russian imperial legacy and forge increasingly close ties with the West.\nOver the past 30 years, Ukraine has been led by seven presidents. The country has had a rocky path towards democracy with two revolutions, first in 2005 and then in 2014. Both times, protesters rejected Russia’s supremacy and sought a path to join the European Union and NATO.\nBy comparison, Russia has been led by three presidents, with Putin having been in office for 17 years. In 2021, Putin, the former agent of the Soviet Union’s KGB security services,...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "My dread, as a European, about the war in Ukraine | Russia-Ukraine ...",
+                "htmlTitle": "My dread, as a European, about the <b>war</b> in <b>Ukraine</b> | Russia-<b>Ukraine</b> ...",
+                "link": "https://www.aljazeera.com/news/2022/3/5/my-dread-as-a-european-about-the-war-in-ukraine",
+                "displayLink": "www.aljazeera.com",
+                "snippet": "Mar 5, 2022 ... No one will emerge safer out of the terrible situation in Ukraine – European wars have a tendency to escalate.",
+                "htmlSnippet": "Mar 5, 2022 <b>...</b> No one will emerge safer out of the terrible <b>situation</b> in <b>Ukraine</b> – European wars have a tendency to escalate.",
+                "formattedUrl": "https://www.aljazeera.com/.../my-dread-as-a-european-about-the-war-in-uk...",
+                "htmlFormattedUrl": "https://www.aljazeera.com/.../my-dread-as-a-european-about-the-war-in-uk...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh1LmVjAle2FnLonGu4z1JFo_LgdWKChm5kQqaxfLlHgps__GxvuMPcW0&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "Article Page",
+                            "og:image": "https://www.aljazeera.com/wp-content/uploads/2022/03/2022-03-05T142735Z_1229587259_RC2EWS90ZRRR_RTRMADP_3_UKRAINE-CRISIS-BORDER-POLAND.jpg?resize=1920%2C1440",
+                            "apple-itunes-app": "app-id=1534955972",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Al Jazeera",
+                            "postlabel": "Reporter's Notebook",
+                            "twitter:url": "https://www.aljazeera.com/news/2022/3/5/my-dread-as-a-european-about-the-war-in-ukraine",
+                            "pagesection": "Reporter's Notebook,News,Conflict,Media,Russia-Ukraine war",
+                            "channel": "aje",
+                            "publisheddate": "2022-03-05T16:36:57",
+                            "postid": "1662155",
+                            "source": "Al Jazeera",
+                            "displayauthors": "Barbara Serra",
+                            "og:description": "No one will emerge safer out of the terrible situation in Ukraine – European wars have a tendency to escalate.",
+                            "taxonomyterms": "News, Conflict, Media, Russia-Ukraine war, Europe, Russia, Ukraine",
+                            "lastdate": "2022-03-05T17:47:18",
+                            "primarytopic": "News",
+                            "twitter:image:alt": "My dread, as a European, about the war in Ukraine",
+                            "sourcetaxonomy": "Al Jazeera",
+                            "where": "Europe, Russia, Ukraine",
+                            "primarytag": "Russia-Ukraine war",
+                            "ga4": "G-XN9JB9Q0M1",
+                            "twitter:account_id": "5536782",
+                            "pageauthors": "Barbara Serra",
+                            "og:type": "article",
+                            "twitter:title": "My dread, as a European, about the war in Ukraine",
+                            "taxonomy-tags": "News, Conflict, Media, Russia-Ukraine war",
+                            "topics": "News",
+                            "author": "Barbara Serra",
+                            "og:title": "My dread, as a European, about the war in Ukraine",
+                            "tags": "Conflict, Media, Russia-Ukraine war",
+                            "contenttype": "post",
+                            "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2022/03/2022-03-05T142735Z_1229587259_RC2EWS90ZRRR_RTRMADP_3_UKRAINE-CRISIS-BORDER-POLAND.jpg?resize=1920%2C1440",
+                            "articleslug": "my-dread-as-a-european-about-the-war-in-ukraine",
+                            "postlink": "/news/2022/3/5/my-dread-as-a-european-about-the-war-in-ukraine",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "No one will emerge safer out of the terrible situation in Ukraine – European wars have a tendency to escalate.",
+                            "pagetitle": "My dread, as a European, about the war in Ukraine",
+                            "og:url": "https://www.aljazeera.com/news/2022/3/5/my-dread-as-a-european-about-the-war-in-ukraine"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.aljazeera.com/wp-content/uploads/2022/03/2022-03-05T142735Z_1229587259_RC2EWS90ZRRR_RTRMADP_3_UKRAINE-CRISIS-BORDER-POLAND.jpg?resize=1920%2C1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "No one will emerge safer out of the terrible situation in Ukraine – European wars have a tendency to escalate.\nI have been an Al Jazeera English news presenter since the channel’s launch in 2006. Since then, along with brave and talented colleagues past and present, we have always strived to redress the imbalance in international news which gives the West prominence over the Global South – an imbalance which has been on full display during the coverage of Russia’s invasion of Ukraine.\nAl Jazeera exists to be the voice of the voiceless, or certainly of the least heard, and I have never sat at the anchor desk without keeping that mission at the heart of my work. And my heart has broken for the people involved in every conflict that the channel has covered.\nBut as a continental European, I have to admit that I now feel a particular dread over the current war in Ukraine.\nAm I falling foul of the same double standards I have been working against for years? Do I feel this way because Ukrainians, being fellow Europeans, “look like me”?\nMaybe. But the truth is that like most Southern Europeans, my colouring and features are much more typically Middle Eastern than Slavic. My maternal homeland of Sicily is a few hundred kilometres from the Tunisian coast.\nMy young son does not look like the many blond, blue-eyed Ukrainian children making the...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Russia-Ukraine war updates: Borrell on Kyiv trip stresses EU's support",
+                "htmlTitle": "Russia-<b>Ukraine war</b> updates: Borrell on <b>Kyiv</b> trip stresses EU&#39;s support",
+                "link": "https://www.aljazeera.com/news/liveblog/2024/2/6/russia-ukraine-war-live-news-baby-killed-in-russian-strike-on-northeast-uk",
+                "displayLink": "www.aljazeera.com",
+                "snippet": "Feb 6, 2024 ... This live page has now been closed. EU foreign policy chief Josep Borrell has arrived in Kyiv on a trip to underline the European Union's “ ...",
+                "htmlSnippet": "Feb 6, 2024 <b>...</b> This <b>live</b> page has now been closed. EU foreign policy chief Josep Borrell has arrived in <b>Kyiv</b> on a trip to underline the European Union&#39;s “&nbsp;...",
+                "formattedUrl": "https://www.aljazeera.com/.../russia-ukraine-war-live-news-baby-killed-in-r...",
+                "htmlFormattedUrl": "https://www.aljazeera.com/.../russia-ukraine-war-live-news-baby-killed-in-r...",
+                "pagemap": {
+                    "LiveBlogPosting": [
+                        {}
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThkgIWMuyNhQ2yzBWYg05Jb0O5H_XUVCa_omSlnGBmRvznMPUQv9VGlDxc&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "Article Page",
+                            "og:image": "https://www.aljazeera.com/wp-content/uploads/2024/02/2024-02-06T125615Z_1858718634_RC2YW5A7J2U2_RTRMADP_3_UKRAINE-CRISIS-EU-BORRELL-1707227744_ba13c0-1707228067.jpg?resize=1200%2C630&quality=80",
+                            "apple-itunes-app": "app-id=1534955972",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Al Jazeera",
+                            "twitter:url": "https://www.aljazeera.com/news/liveblog/2024/2/6/russia-ukraine-war-live-news-baby-killed-in-russian-strike-on-northeast-uk",
+                            "pagesection": "liveblog,News,Russia-Ukraine war",
+                            "channel": "aje",
+                            "publisheddate": "2024-02-06T09:26:23",
+                            "postid": "2681986",
+                            "source": "Al Jazeera and news agencies",
+                            "displayauthors": "Federica Marsi",
+                            "og:description": "These were the updates on the Russia-Ukraine war for Tuesday, February 6, 2024.",
+                            "taxonomyterms": "News, Russia-Ukraine war, Europe, Russia, Ukraine",
+                            "lastdate": "2024-02-06T17:32:27",
+                            "primarytopic": "News",
+                            "twitter:image:alt": "Borrell on Kyiv trip stresses EU’s ‘unwavering’ military, financial support",
+                            "sourcetaxonomy": "Al Jazeera and news agencies",
+                            "internalreporting": "Update me now",
+                            "where": "Europe, Russia, Ukraine",
+                            "primarytag": "Russia-Ukraine war",
+                            "ga4": "G-XN9JB9Q0M1",
+                            "twitter:account_id": "5536782",
+                            "og:type": "article",
+                            "twitter:title": "Borrell on Kyiv trip stresses EU’s ‘unwavering’ military, financial support",
+                            "topics": "News",
+                            "author": "Federica Marsi",
+                            "og:title": "Borrell on Kyiv trip stresses EU’s ‘unwavering’ military, financial support",
+                            "ia:markup_url": "https://www.aljazeera.com/ia_markup/news/liveblog/2024/2/6/russia-ukraine-war-live-news-baby-killed-in-russian-strike-on-northeast-uk",
+                            "tags": "Russia-Ukraine war",
+                            "contenttype": "liveblog",
+                            "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2024/02/2024-02-06T125615Z_1858718634_RC2YW5A7J2U2_RTRMADP_3_UKRAINE-CRISIS-EU-BORRELL-1707227744_ba13c0-1707228067.jpg?resize=1200%2C630&quality=80",
+                            "articleslug": "russia-ukraine-war-live-news-baby-killed-in-russian-strike-on-northeast-uk",
+                            "postlink": "/news/liveblog/2024/2/6/russia-ukraine-war-live-news-baby-killed-in-russian-strike-on-northeast-uk",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "These were the updates on the Russia-Ukraine war for Tuesday, February 6, 2024.",
+                            "pagetitle": "Russia-Ukraine war updates: Borrell on Kyiv trip stresses EU’s support",
+                            "og:url": "https://www.aljazeera.com/news/liveblog/2024/2/6/russia-ukraine-war-live-news-baby-killed-in-russian-strike-on-northeast-uk"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.aljazeera.com/wp-content/uploads/2024/02/2024-02-06T125615Z_1858718634_RC2YW5A7J2U2_RTRMADP_3_UKRAINE-CRISIS-EU-BORRELL-1707227744_ba13c0-1707228067.jpg?resize=1200%2C630&quality=80"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "These were the updates on the Russia-Ukraine war for Tuesday, February 6, 2024.\nThis live page has now been closed.\nFollow Al Jazeera English:",
+                    "content_tokens": 34
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "July 4 2023 news on Russia's war in Ukraine | CNN",
+                "htmlTitle": "July 4 2023 news on Russia&#39;s <b>war</b> in <b>Ukraine</b> | CNN",
+                "link": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-07-04-23/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Jul 5, 2023 ... Zelensky and NATO chief discuss upcoming alliance summit in Lithuania. From Svetlana Vlasova in Kyiv. Ukrainian President Volodymyr Zelensky and ...",
+                "htmlSnippet": "Jul 5, 2023 <b>...</b> Zelensky and NATO chief discuss <b>upcoming</b> alliance summit in Lithuania. From Svetlana Vlasova in <b>Kyiv</b>. <b>Ukrainian</b> President Volodymyr Zelensky and&nbsp;...",
+                "formattedUrl": "https://www.cnn.com/europe/live-news/russia-ukraine-war.../index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/europe/live-news/russia-ukraine-war.../index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwahWtBFPvZJ63Rt98RdunMg2PGEYh1F_GD6s_Vb28pOcxSF-vOqYHSdGS&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/230703170327-01-kupyansk-shelling-062823.jpg?c=16x9&q=w_800,c_fill",
+                            "twitter:title": "July 4, 2023 Russia-Ukraine news | CNN",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-07-04T04:00:21Z",
+                            "og:site_name": "CNN",
+                            "author": "Tara Subramaniam,Sana Noor Haq,Ivana Kottasová,Aditi Sangal",
+                            "og:title": "July 4, 2023 Russia-Ukraine news | CNN",
+                            "meta-section": "world",
+                            "type": "live-story",
+                            "og:description": "Russia’s defense ministry said it intercepted five Ukrainian drones near Moscow Tuesday in what it called a “terrorist” attack. There were no casualties or damage, it said.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/230703170327-01-kupyansk-shelling-062823.jpg?c=16x9&q=w_800,c_fill",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@CNN",
+                            "article:modified_time": "2023-07-05T04:01:13.247Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "Russia’s defense ministry said it intercepted five Ukrainian drones near Moscow Tuesday in what it called a “terrorist” attack. There were no casualties or damage, it said.",
+                            "template_type": "article_livestory",
+                            "meta-branding": "live-story-v2",
+                            "theme": "world",
+                            "og:url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-07-04-23/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/230703170327-01-kupyansk-shelling-062823.jpg?c=16x9&q=w_800,c_fill"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... “for security reasons” due to the “attempted drone attack by Ukrainian drones,” Moscow Mayor Sergey Sobyanin said. Russia’s defense ministry said it downed five “Ukrainian drones” near Moscow. Kyiv has not commented on the allegations.\n    \n\nRussia says it opposes renewal of Black Sea grain deal: The UN-brokered deal, which is set to expire on July 17, was established to provide “assistance to needy countries in Africa, Asia and Latin America,” but “has turned into a purely commercial export of Ukrainian food to ‘well-fed’ countries,” the Russian foreign ministry claimed in a statement. “It is obvious that there are no grounds for further continuation of the ‘Black Sea Initiative.’”\n    \n\nPutin attends virtual summit: President Vladimir Putin thanked allies who expressed solidarity with Russia after last month’s short-lived rebellion led by the Wagner private military company. He spoke at the Shanghai Cooperation Organization conference, hosted by Indian Prime Minister Narendra Modi. Other leaders taking part included China’s Xi Jinping, Iranian President Ebrahim Raisi and Belarusian President Aleksandr Lukashenko.\n    \n\nNATO chief gets extension: Ahead of a critical meeting of NATO leaders next week in Lithuania – expected to be dominated by Russia’s war in Ukraine – the alliance resolved one outstanding issue by extending the term of Secretary General Jens Stoltenberg for one more year. Ukraine’s President Volodymyr Zelensky welcomed the news while US President Joe Biden said it was an “important signal of stability” heading into the summit.\n    \n\n            Ukrainian President Volodymyr Zelensky and NATO Secretary General Jens Stoltenberg held a phone call to coordinate their positions ahead of the alliance’s upcoming summit in Vilnius.\n    \nOn the eve of the NATO Summit in Vilnius on July 11-12, I had a phone call with @jensstoltenberg, the Secretary General of @NATO.I congratulated him on the decision of the Allies to extend his mandate as Secretary General for another year. I am hopeful that our cooperation will…\n\n            A former prime minister of Norway and UN Special Envoy on Climate Change, Stoltenberg became NATO’s Secretary General in October 2014. \n    \n\n            On Tuesday, he announced his term was extended for a further year.\n    \n\n            Ukraine is expected to be at the top of the agenda when the leaders of the military alliance meet in the Lithuanian capital next week. \n    \n\n            The Ukrainian forces have “proceeded in a very precise and well-organized...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Borderlands: Fear, uncertainty and life on Ukraine's front line ...",
+                "htmlTitle": "Borderlands: Fear, uncertainty and <b>life</b> on <b>Ukraine&#39;s</b> front line ...",
+                "link": "https://www.aljazeera.com/features/2022/2/6/borderlands-fear-uncertainty-and-life-along-ukraines-frontline",
+                "displayLink": "www.aljazeera.com",
+                "snippet": "Feb 6, 2022 ... Amid fears of a Russian invasion, war-weary residents ask what the future holds for the region – and for their lives.",
+                "htmlSnippet": "Feb 6, 2022 <b>...</b> Amid fears of a Russian invasion, <b>war</b>-weary residents ask what the future holds for the region – and for their lives.",
+                "formattedUrl": "https://www.aljazeera.com/.../borderlands-fear-uncertainty-and-life-along-u...",
+                "htmlFormattedUrl": "https://www.aljazeera.com/.../borderlands-fear-uncertainty-and-life-along-u...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6k2fixC9vRFd_BpF_PINaGBvLmC-mxJAay3ujP3FYTlwOraYwmpO-V1fS&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "Article Page",
+                            "og:image": "https://www.aljazeera.com/wp-content/uploads/2022/02/Popasna2.jpg?resize=1920%2C1440",
+                            "apple-itunes-app": "app-id=1534955972",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Al Jazeera",
+                            "postlabel": "Long Read",
+                            "twitter:url": "https://www.aljazeera.com/features/2022/2/6/borderlands-fear-uncertainty-and-life-along-ukraines-frontline",
+                            "pagesection": "Long Read,Features,Russia-Ukraine war",
+                            "channel": "aje",
+                            "publisheddate": "2022-02-06T09:59:06",
+                            "postid": "1632195",
+                            "source": "Al Jazeera",
+                            "displayauthors": "Nils Adler",
+                            "og:description": "Amid fears of a Russian invasion, war-weary residents ask what the future holds for the region – and for their lives.",
+                            "taxonomyterms": "Features, Russia-Ukraine war, Europe, Ukraine",
+                            "lastdate": "2022-02-06T09:59:06",
+                            "primarytopic": "Features",
+                            "twitter:image:alt": "Borderlands: Fear and uncertainty on Ukraine’s front line",
+                            "sourcetaxonomy": "Al Jazeera",
+                            "where": "Europe, Ukraine",
+                            "primarytag": "Russia-Ukraine war",
+                            "ga4": "G-XN9JB9Q0M1",
+                            "twitter:account_id": "5536782",
+                            "pageauthors": "Nils Adler",
+                            "og:type": "article",
+                            "twitter:title": "Borderlands: Fear and uncertainty on Ukraine’s front line",
+                            "taxonomy-tags": "Features, Russia-Ukraine war",
+                            "topics": "Features",
+                            "author": "Nils Adler",
+                            "og:title": "Borderlands: Fear and uncertainty on Ukraine’s front line",
+                            "ia:markup_url": "https://www.aljazeera.com/ia_markup/features/2022/2/6/borderlands-fear-uncertainty-and-life-along-ukraines-frontline",
+                            "tags": "Russia-Ukraine war",
+                            "contenttype": "post",
+                            "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2022/02/Popasna2.jpg?resize=1920%2C1440",
+                            "articleslug": "borderlands-fear-uncertainty-and-life-along-ukraines-frontline",
+                            "postlink": "/features/2022/2/6/borderlands-fear-uncertainty-and-life-along-ukraines-frontline",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "Amid fears of a Russian invasion, war-weary residents ask what the future holds for the region – and for their lives.",
+                            "pagetitle": "Borderlands: Fear, uncertainty and life on Ukraine’s front line",
+                            "og:url": "https://www.aljazeera.com/features/2022/2/6/borderlands-fear-uncertainty-and-life-along-ukraines-frontline"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.aljazeera.com/wp-content/uploads/2022/02/Popasna2.jpg?resize=1920%2C1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Amid fears of a Russian invasion, war-weary residents of eastern Ukraine who have endured more than seven years of a protracted conflict ask what the future holds for the region – and for their lives.\nListen to this story:\nBakhmut, Ukraine – Mikhailo Kulishov, 34, is tired of war.\nA gentle family man, with a passion for landscape photography, Kulishov has devoted himself in recent years to tourism, specialising in taking people to explore former industrial sites in eastern Ukraine. He has tried to forget the ongoing conflict which forced him out of his home, a mere 40km away, in January 2015.\nAt an upscale restaurant in his adopted town of Bakhmut, Kulishov spoke with gusto as he described a local salt mine in the Donetsk region that, among other events, hosts a philharmonic music festival.\nHe paused and poured himself some uzvar, a traditional beverage made with dried fruit and berries. Even with a separatist conflict on the border, the future of Donetsk region looked bright, he said in a serious tone, but now, as tensions between Ukraine and Russia rise, it seems as though history might repeat itself.\n“I have already had the experience of having to leave my home,” he said. If shells started to land near his home again, he would not hesitate to leave.\nKulishov was attached to his hometown of Horlivka, also in the Donetsk region. So even as Russian-backed separatists stormed the city hall on April 30, ...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

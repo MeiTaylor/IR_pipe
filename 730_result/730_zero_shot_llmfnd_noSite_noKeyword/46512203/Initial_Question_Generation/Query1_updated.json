@@ -1,0 +1,696 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Did Donald Trump visit Maui after wildfires? CNN, BBC, Reuters",
+                "totalResults": "29400",
+                "searchTerms": "Did Donald Trump visit Maui after wildfires? CNN, BBC, Reuters",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Did Donald Trump visit Maui after wildfires? CNN, BBC, Reuters",
+                "totalResults": "29400",
+                "searchTerms": "Did Donald Trump visit Maui after wildfires? CNN, BBC, Reuters",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.325994,
+        "formattedSearchTime": "0.33",
+        "totalResults": "29400",
+        "formattedTotalResults": "29,400"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Why weren't Maui residents warned about the fire sooner?",
+                "htmlTitle": "Why weren&#39;t <b>Maui</b> residents warned about the <b>fire</b> sooner?",
+                "link": "https://www.bbc.com/news/world-us-canada-66476746",
+                "displayLink": "www.bbc.com",
+                "snippet": "Aug 14, 2023 ... Despite an extensive emergency warning system, Lahaina residents say the wildfire came as a surprise.",
+                "htmlSnippet": "Aug 14, 2023 <b>...</b> Despite an extensive emergency warning system, Lahaina residents say the <b>wildfire</b> came <b>as a</b> surprise.",
+                "formattedUrl": "https://www.bbc.com/news/world-us-canada-66476746",
+                "htmlFormattedUrl": "https://www.<b>bbc</b>.com/news/world-us-canada-66476746",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv7KzyuZBfmBj94unKWHD-CbWqqf4DiO6IMcyiURXwYCFRbOvE0BA8eW6a&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/B029/production/_130779054_84de31600908338d79279c16a6388e763eda9a5b0_584_4032_22671000x563.jpg",
+                            "twitter:title": "Why weren't Maui residents warned about the fire sooner?",
+                            "twitter:card": "summary_large_image",
+                            "og:image:alt": "The damage at the Ho'Onanea condominium complex is seen in the aftermath of a wildfire, in Lahaina, Maui, Hawaii,",
+                            "theme-color": "#ffffff",
+                            "og:title": "Why weren't Maui residents warned about the fire sooner?",
+                            "og:description": "Despite an extensive emergency warning system, Lahaina residents say the wildfire came as a surprise.",
+                            "version": "2.5.0+19",
+                            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/B029/production/_130779054_84de31600908338d79279c16a6388e763eda9a5b0_584_4032_22671000x563.jpg",
+                            "next-head-count": "28",
+                            "twitter:image:alt": "The damage at the Ho'Onanea condominium complex is seen in the aftermath of a wildfire, in Lahaina, Maui, Hawaii,",
+                            "viewport": "width=device-width",
+                            "twitter:description": "Despite an extensive emergency warning system, Lahaina residents say the wildfire came as a surprise."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/B029/production/_130779054_84de31600908338d79279c16a6388e763eda9a5b0_584_4032_22671000x563.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]....\nLocal evacuations first took place on Tuesday, followed by an announcement that the flames were \"100% contained\". \nBy the following day, however, fast-moving flames had engulfed Maui's Lahaina town. \nAbout 80% of the town has been destroyed, according to officials. \nAt least 96 have been reported dead in Maui County. Hundreds more are missing. \nWhile some reported receiving text alerts, it is unclear why the warnings were not more widespread. Many residents have reported that strong winds knocked out communications systems hours before the fires arrived. \nHere's what we know. \nWe know now that the fires began on Tuesday, but there was no specific warning ahead of it. \nThe National Weather Service did issue a number of warnings for strong winds and dry weather that can help fuel wildfires. But that warning was cancelled on Wednesday.\nSoon after flames were reported on Maui on the morning of 8 August, officials ordered an evacuation order of an area near a school to the east of Lahaina. \nShortly before 0900 local time (2000 BST), Maui County's official website put out a statement in which they said that the brush fire had been \"100% contained\", although \"winds in the area remain a concern\". \nApart from a warning to avoid blocked roads, officials gave no further warnings regarding Lahaina until 16:45 local time, when the county said \"an apparent flare-up\" of the fire had caused the closure of a bypass near the town, as well as some evacuations. \nMore evacuations were announced later that afternoon, followed by an emergency declaration by Mayor Richard Bissen before 2200 local time that night. Tourists in some hotels were instructed to remain in place to avoid clogging up local roads. \nBy then, flames had already engulfed parts of Lahaina, forcing some residents to flee into the sea. \nHawaii has what officials have previously touted as the world's largest all-hazard public warning system, which includes a network of over 400 sirens across the state's many islands that can help alert residents and visitors to various kinds of threats. Eighty outdoor sirens are in Maui alone. \nThe head of the state's emergency management agency, Adam Weintraub, told the Associated Press this week that records do not suggest that those sirens were triggered on Maui on Tuesday. \nInstead, Mr Weintraub said, officials used emergency alerts sent to mobile phones as well as TVs and radio stations. \nIn the wake of the fire, many residents have reported not seeing these, prompting speculation that they came only after widespread power and communications outages occurred on Maui. \nSpeaking to reporters on Thursday night, fire chief Bradford Ventura said that the flames...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The BBC is a highly reputable international news organization known for its thorough journalism and commitment to impartiality. It holds a standard of fact-checking and accountability, making it a reliable source for news. The organization has a long history of reporting accurately and is trusted globally. It has dedicated teams that work on debunking misinformation and fake news. The only reason it does not receive a perfect score is the potential for varying international coverage accuracy based on the context of local issues."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-08-14"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This evidence discusses the wildfires and the response but does not mention Donald Trump's visit to Maui. It focuses on the emergency response and communication failures during the wildfires. Therefore, it is only slightly relevant to the question as it does not confirm or deny the claim."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "2023: The year in pictures",
+                "htmlTitle": "2023: The year in pictures",
+                "link": "https://www.cnn.com/interactive/2023/specials/year-in-pictures/",
+                "displayLink": "www.cnn.com",
+                "snippet": "Dec 1, 2023 ... It was a year filled with tragedy, historic firsts and inspiring performances.",
+                "htmlSnippet": "Dec 1, 2023 <b>...</b> It was <b>a</b> year filled <b>with</b> tragedy, historic firsts <b>and</b> inspiring performances.",
+                "formattedUrl": "https://www.cnn.com/interactive/2023/specials/year-in-pictures/",
+                "htmlFormattedUrl": "https://www.<b>cnn</b>.com/interactive/2023/specials/year-in-pictures/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwIFec05J2m3XhtSTx62ZwwVtszA2dStRJQ8LVwmgQnUHTdPI8iyEpNmc&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "application-name": "CNN",
+                            "og:image": "https://www.cnn.com/interactive/2023/specials/year-in-pictures/media/images/s_AF7E6D6C318BDB33E318AD8641A02443C6F555A6F5CEF0419C6D9B8C0E63BEC0_1700691508049_11-GettyImages-1715804677.jpg",
+                            "og:type": "Article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:site:id": "759251",
+                            "og:title": "2023: The year in pictures",
+                            "section": "us",
+                            "source": "CNN",
+                            "title": "2023: The year in pictures",
+                            "og:description": "It was a year filled with tragedy, historic firsts and inspiring performances. Look back at 2023 in pictures.",
+                            "twitter:creator": "@cnn",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@cnn",
+                            "viewport": "viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                            "twitter:description": "It was a year filled with tragedy, historic firsts and inspiring performances. Look back at 2023 in pictures.",
+                            "fb:admins": "690014395",
+                            "og:url": "https://www.cnn.com/interactive/2023/specials/year-in-pictures/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.cnn.com/interactive/2023/specials/year-in-pictures/media/images/s_AF7E6D6C318BDB33E318AD8641A02443C6F555A6F5CEF0419C6D9B8C0E63BEC0_1700691508049_11-GettyImages-1715804677.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... fewer than half attend school.\u00a0\u00a0Taiwo Aina for CNN\n!(blob:https://www.cnn.com/4eb6460ab93a7ae1978320dda45af1eb)\nWomen walk among vegetable crops, which are the main economic driver in the town of Almolonga, Guatemala. Guatemala is one of the world\u2019s . The rainy season, which used to reliably start in May, has shifted much later. And when the rains do come, they are often intense and destructive. Destroyed crops and decimated livelihoods can force people from their homes in search of jobs and safety. Men in these communities make up the majority of those who migrate, leaving women with a double burden: protecting their homes and children, and finding a way to make money until the men can send home remittances.\u00a0\u00a0Victoria Razo for CNN\n!(blob:https://www.cnn.com/4eb6460ab93a7ae1978320dda45af1eb)\nA police officer walks near destroyed cars in Lahaina, Hawaii, after the wildfires on Maui. The blaze that devastated Lahaina is the , officials said.\u00a0\u00a0Go Nakamura/The New York Times/Redux\n!(blob:https://www.cnn.com/4eb6460ab93a7ae1978320dda45af1eb)\nThe McDougall Creek wildfire burns on the mountainside above homes in West Kelowna, British Columbia. Canada experienced its . Millions of acres were charred across the country.\u00a0\u00a0Darryl Dyck/The Canadian Press/AP\n!(blob:https://www.cnn.com/4eb6460ab93a7ae1978320dda45af1eb)\nPeople wearing Tyrannosaurus rex costumes race at the Emerald Downs track in Auburn, Washington.\u00a0\u00a0Lindsey Wasson/AP\n!(blob:https://www.cnn.com/4eb6460ab93a7ae1978320dda45af1eb)\nSheep and goats are led to fertile plateaus and pastures at the foothills of Mount Nemrut to prevent them being affected by the hot weather in Bitlis, Turkey.\u00a0\u00a0Sener Toktas/Anadolu Agency/Getty Images\n!(blob:https://www.cnn.com/4eb6460ab93a7ae1978320dda45af1eb)\nSpanish players celebrate after winning the  final. Olga Carmona\u2019s goal in the 29th minute was the only scoring in the . It\u2019s...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "CNN is a well-established news outlet with a significant presence in breaking news reporting and in-depth analysis. While it has a reputation for thorough reporting, it has faced criticism for bias in certain political contexts. Nonetheless, CNN employs fact-checking initiatives and has been instrumental in exposing misinformation, which enhances its credibility. The score reflects its reliability but acknowledges periodic concerns regarding objectivity."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-12-01"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence is more general and does not specifically mention Donald Trump or his visitation status concerning Maui's wildfires. It focuses on various events of 2023 that do not aid in verifying the claim."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Reuters | Breaking International News & Views",
+                "htmlTitle": "<b>Reuters</b> | Breaking International News &amp; Views",
+                "link": "https://www.reuters.com/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Find latest news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
+                "htmlSnippet": "Find latest news from every corner <b>of</b> the globe <b>at Reuters</b>.com, your online source <b>for</b> breaking international news coverage.",
+                "formattedUrl": "https://www.reuters.com/",
+                "htmlFormattedUrl": "https://www.<b>reuters</b>.com/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoiAt7-6MmC1b3oHgzb0O0MCs0PXY6SC06u7XQ2L9hcWF8xrfSLTT6Wwzj&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809",
+                            "og:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204",
+                            "analytics:page_layout": "landing",
+                            "og:type": "website",
+                            "twitter:title": "Reuters | Breaking International News & Views",
+                            "ad:template": "home",
+                            "og:site_name": "Reuters",
+                            "dcsext.dartzone": "/4735792/reuters.com/home",
+                            "ccbot": "nofollow",
+                            "dcsext.channellist": "Home",
+                            "og:title": "Reuters | Breaking International News & Views",
+                            "analytics:ad_layout": "leaderboard, right rail",
+                            "analyticsattributes.topicchannel": "Home",
+                            "title": "Reuters Reuters | Breaking International News & Views",
+                            "fb:pages": "114050161948682",
+                            "og:description": "Find latest news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
+                            "fb:app_id": "988502044532272",
+                            "datemodified": "2024-06-14T12:05:32.344Z",
+                            "render_timestamp": "2024-07-30T09:27:09.757Z",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Find latest news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.reuters.com/",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Reuters is known for its commitment to factual reporting and is widely respected in the field of journalism. The agency follows rigorous standards for news reporting, and its articles are often cited for their accuracy and impartiality. Reuters also has dedicated efforts in combatting misinformation and producing fact-checks, which contribute to its high credibility in news consumption. As with other major outlets, slight biases in presentation can occur, which prevents a perfect score."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "The snippet suggests that it is a general news source and does not provide specific information related to Trump's alleged visit to Maui or any relevant verification regarding the wildfires."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "World | Latest News & Updates | BBC News",
+                "htmlTitle": "World | Latest News &amp; Updates | <b>BBC</b> News",
+                "link": "https://www.bbc.com/news/world",
+                "displayLink": "www.bbc.com",
+                "snippet": "Get all the latest news, live updates and content about the World from across the BBC.",
+                "htmlSnippet": "Get all the latest news, live updates <b>and</b> content about the World from across the <b>BBC</b>.",
+                "formattedUrl": "https://www.bbc.com/news/world",
+                "htmlFormattedUrl": "https://www.<b>bbc</b>.com/news/world",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "next-head-count": "22",
+                            "twitter:title": "World | Latest News & Updates | BBC News",
+                            "theme-color": "#ffffff",
+                            "viewport": "width=device-width",
+                            "twitter:description": "Get all the latest news, live updates and content about the World from across the BBC.",
+                            "og:title": "World | Latest News & Updates | BBC News",
+                            "og:description": "Get all the latest news, live updates and content about the World from across the BBC.",
+                            "version": "2.5.0+19"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... donors helped push Biden out. Now ordinary people have the spotlight as they fundraise for Harris via video calls. Just now US & Canada]\n! IMF approves \u2018landmark\u2019 Ethiopia bailout ---------------------------------------- A financing package of $3.4bn will support the country's reform measures over the next four years. 3 hrs ago Africa]\n* * *\nWatch/Listen\n------------\n! Watch: Protesters descend on Caracas after election win claim ------------------------------------------------------------- Videos show opposition protesters in multiple locations taking to the streets. 3 hrs ago Latin America]\n! Watch: Venezuela's Maduro declared winner in disputed vote ---------------------------------------------------------- Both Maduro and Gonz\u00e1lez, the opposition candidate, have claimed victory in this presidential election. 1 day ago Latin America]\n! Watch: Moment Robert Downey Jr revealed at San Diego Comic Con -------------------------------------------------------------- The actor will make his comeback as Dr Victor Von Doom, a prominent villain in the comic books that spawned the popular Marvel film series. 2 days ago Culture]\n! 'There was a siren, but no-one had time to react' ------------------------------------------------- The BBC's Paul Adams visits the site where 12 people, mostly children, were killed in the Israeli-occupied Golan Heights. 2 days ago Middle East]\n! Watch: Astronauts enjoy zero-gravity Olympics --------------------------------------------- As the Olympics kicks off on earth, astronauts working on the International Space Station wish athletes well. 3 days ago US & Canada]\n* * *\nFeatures\n--------\n! What's the problem with swimming in the Seine? ---------------------------------------------- Parisians and visitors tell the BBC whether they would take a dip in the River Seine. 11 hrs ago Europe]\n! 'A dangerous moment' - Israelis face spectre of another war ----------------------------------------------------------- Fears mount that the deadly attack on the occupied Golan Heights could trigger a major conflict. 2 days ago Middle East]\n! Lebanon fears new phase in Hezbollah-Israel fighting ---------------------------------------------------- Israel has warned Hezbollah will \"pay a heavy price\" following the rocket strike on Golan Heights. 2 days ago Middle East]\n! Timing, luck or talent - what makes a billionaire? -------------------------------------------------- Are billionaires good or bad for society - or simply very very rich? The BBC's Simon Jack investigates. 2 days ago Business]\n! The 'upside-down' sex life of a rare Indian frog revealed --------------------------------------------------------- In India, a species of frogs mate and lay their eggs while upside down, a new study has found. 2 days ago Asia]\n* * *\nLatest updates\n--------------\n! Giant Zoom calls fuel record fundraising behind Harris campaign ------------------------------------------------...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The BBC is a highly reputable international news organization known for its thorough journalism and commitment to impartiality. It holds a standard of fact-checking and accountability, making it a reliable source for news. The organization has a long history of reporting accurately and is trusted globally. It has dedicated teams that work on debunking misinformation and fake news. The only reason it does not receive a perfect score is the potential for varying international coverage accuracy based on the context of local issues."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "Similar to evidence1 and evidence2, this evidence offers no specifics about Trump\u2019s actions or visits. It is general news content and does not help validate or invalidate the claim."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Walgreens pharmacy employees plan walkout at US stores, CNN ...",
+                "htmlTitle": "Walgreens pharmacy employees plan walkout <b>at</b> US stores, <b>CNN</b> ...",
+                "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/pharmacy-employees-us-walgreens-stores-plan-walkout-cnn-2023-10-07/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Oct 8, 2023 ... The walkout is in response to what pharmacy employees call burdensome prescription and vaccination expectations placed on pharmacists, the\u00a0...",
+                "htmlSnippet": "Oct 8, 2023 <b>...</b> The walkout <b>is</b> in response to what pharmacy employees call burdensome prescription <b>and</b> vaccination expectations placed <b>on</b> pharmacists, the&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/.../pharmacy-employees-us-walgreens-stores-plan-...",
+                "htmlFormattedUrl": "https://www.<b>reuters</b>.com/.../pharmacy-employees-us-walgreens-stores-plan-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhvmbYMp4tCnu6wIz6-P1BGmtMzpClz7inoT69Z31Ya2JC3owu19nj6AQa&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/business/healthcare-pharmaceuticals/pharmacy-employees-us-walgreens-stores-plan-walkout-cnn-2023-10-07/?id=HFWHFKKVMRKEVHOFH4V53RKPCM",
+                            "og:image": "https://www.reuters.com/resizer/v2/NKD4MUEQTVJEHOAJ33LVAPTYFM.jpg?auth=1be62e9f1e4605813223b444a16e7e0e2b47d7f944671be3c5482dbd948ff70e&height=1005&width=1920&quality=80&smart=true",
+                            "analytics:page_layout": "regular-article",
+                            "article:published_time": "2023-10-09T00:52:06Z",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Reuters",
+                            "ccbot": "nofollow",
+                            "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                            "analyticsattributes.topicchannel": "Business",
+                            "title": "Walgreens pharmacy employees plan walkout at US stores, CNN reports | Reuters",
+                            "og:description": "Pharmacy employees at some U.S. Walgreens stores, including pharmacists, technicians and support staff, plan a walkout between Monday and Wednesday, CNN reported on Friday, citing an organizer.",
+                            "twitter:creator": "@Reuters",
+                            "twitter:image": "https://www.reuters.com/resizer/v2/NKD4MUEQTVJEHOAJ33LVAPTYFM.jpg?auth=1be62e9f1e4605813223b444a16e7e0e2b47d7f944671be3c5482dbd948ff70e&height=1005&width=1920&quality=80&smart=true",
+                            "twitter:image:alt": "Signage is seen outside of a Walgreens, owned by the Walgreens Boots Alliance, Inc., in Manhattan, New York City, U.S., November 26, 2021. REUTERS/Andrew Kelly/File Photo",
+                            "twitter:site": "@Reuters",
+                            "article:modified_time": "2023-10-09T00:52:30.165Z",
+                            "render_timestamp": "2024-07-30T07:47:17.523Z",
+                            "fb:admins": "988502044532272",
+                            "article:content_tier": "metered",
+                            "og:type": "article",
+                            "article:section": "Healthcare & Pharmaceuticals",
+                            "og:image:alt": "Signage is seen outside of a Walgreens, owned by the Walgreens Boots Alliance, Inc., in Manhattan, New York City, U.S., November 26, 2021. REUTERS/Andrew Kelly/File Photo",
+                            "twitter:title": "Walgreens pharmacy employees plan walkout at US stores, CNN reports",
+                            "ad:template": "article",
+                            "og:image:url": "https://www.reuters.com/resizer/v2/NKD4MUEQTVJEHOAJ33LVAPTYFM.jpg?auth=1be62e9f1e4605813223b444a16e7e0e2b47d7f944671be3c5482dbd948ff70e&height=1005&width=1920&quality=80&smart=true",
+                            "dcsext.dartzone": "/4735792/reuters.com/sustainable/finance/article",
+                            "og:title": "Walgreens pharmacy employees plan walkout at US stores, CNN reports",
+                            "dcsext.channellist": "Business;",
+                            "og:image:height": "628",
+                            "og:article:published_time": "2023-10-09T00:52:06Z",
+                            "fb:pages": "114050161948682",
+                            "article:author": "Reuters",
+                            "article:tag": "RSBI:WORKER-RIGHTS,RHPI:EMPLOYEE-HEALTH,BLR,CMPNY,DISP,FDRT,HECA,JOB,NCYC,PHAG08,PHAR,PHAR08,PHAR1,PHMR,PUBL,RDRU,RDRU1,SHOPAL,WPAY,SASIA,AMERS,IN,US,NAMER,ASXPAC,EMRG,ASIA,RHPI:HEALTHCARE-PROVIDERS,GEN,HEA,HFAC,HFAC1,HLTHSE,HPAS,RSBI:LITIGATION,SUSTAINABLE-BUSINESS,MTPIX",
+                            "analyticsattributes.topicsubchannel": "Healthcare & Pharmaceuticals",
+                            "fb:app_id": "988502044532272",
+                            "og:locale:alternate": "en_US",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Pharmacy employees at some U.S. Walgreens stores, including pharmacists, technicians and support staff, plan a walkout between Monday and Wednesday, CNN reported on Friday, citing an organizer.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pharmacy-employees-us-walgreens-stores-plan-walkout-cnn-2023-10-07/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/resizer/v2/NKD4MUEQTVJEHOAJ33LVAPTYFM.jpg?auth=1be62e9f1e4605813223b444a16e7e0e2b47d7f944671be3c5482dbd948ff70e&height=1005&width=1920&quality=80&smart=true"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/business/healthcare-pharmaceuticals/pharmacy-employees-us-walgreens-stores-plan-walkout-cnn-2023-10-07/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.reuters.com/business/healthcare-pharmaceuticals/pharmacy-employees-us-walgreens-stores-plan-walkout-cnn-2023-10-07/",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Reuters is known for its commitment to factual reporting and is widely respected in the field of journalism. The agency follows rigorous standards for news reporting, and its articles are often cited for their accuracy and impartiality. Reuters also has dedicated efforts in combatting misinformation and producing fact-checks, which contribute to its high credibility in news consumption. As with other major outlets, slight biases in presentation can occur, which prevents a perfect score."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-10-08"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence appears to be unrelated to the specifics of Trump's visit to Maui. It diverts to a different topic about pharmacy employees and does not address the wildfires directly."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Breaking News, Latest News and Videos | CNN",
+                "htmlTitle": "Breaking News, Latest News <b>and</b> Videos | <b>CNN</b>",
+                "link": "https://edition.cnn.com/?hpt=header_edition-picker",
+                "displayLink": "edition.cnn.com",
+                "snippet": "View the latest news and breaking news today for U.S., world, weather, entertainment, politics and health at CNN.com.",
+                "htmlSnippet": "View the latest news <b>and</b> breaking news today <b>for</b> U.S., world, weather, entertainment, politics <b>and</b> health <b>at CNN</b>.com.",
+                "formattedUrl": "https://edition.cnn.com/?hpt=header_edition-picker",
+                "htmlFormattedUrl": "https://edition.<b>cnn</b>.com/?hpt=header_edition-picker",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "twitter:title": "Breaking News, Latest News and Videos | CNN",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "CNN",
+                            "og:title": "Breaking News, Latest News and Videos | CNN",
+                            "meta-section": "homepage",
+                            "type": "section",
+                            "og:description": "View the latest news and breaking news today for U.S., world, weather, entertainment, politics and health at CNN.com.",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "article:tag": "cnn news, daily news, breaking news, news today, current events",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@cnn",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "View the latest news and breaking news today for U.S., world, weather, entertainment, politics and health at CNN.com.",
+                            "template_type": "landing_homepage",
+                            "theme": "cnn",
+                            "og:url": "https://www.cnn.com"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": " \u2022 Analysis Analysis Kevin Dietsch/Getty Images]\n Christopher Furlong/Getty Images]\n Fernando Vergara/AP]\n!\nCatch up on today's global news\n\\- Source: \nAd Feedback\nParis Olympics 2024\n-------------------\n Jerome Broulliet/AFP/Getty Images]\nFeatured\n--------\n \u2022 Analysis Analysis Aleksei Permiakov/Moment RF/Getty Images]\n John Portmann]\nAd Feedback\n Stringer/Reuters]\n Hakan Nurral/Anadolu/Getty Images/File]\n From Telegram]\n @wendyheon1 /TMX]\nAd Feedback\n Sunset Boulevard/Corbis/Getty Images]\n \u2022 Analysis Analysis Marvel Studios]\n \u2022 Gallery Gallery Al Grillo/AP]\n \u2022 Video 0:46 Israeli Defense Forces]\n Courtesy That Good Media]\n Way Mullery/CNN]\n Michael Siluk/UCG/Universal Images Group/Getty Images/File]\n Justin Sullivan/Getty Images/File]\n Axelle/Bauer-Griffin/FilmMagic/Getty Images/File]\n Simon Dawson/Bloomberg/Getty Images]\n Jakub Porzycki/NurPhoto/Shutterstock/FILE]\n Illustration by CNN]\n \u2022 Video 1:47 WLS]\nAd Feedback\nFeatured Sections\n-----------------\nCNN Business\n------------\n Charly Triballeau/AFP/Getty Images]\n Maureen O'Hare/CNN]\nAd Feedback\n Ludovic Marin/Pool/AP]\nStyle\n-----\n Simon Carter]\nOpinion\n-------\n Tom Werner/Digital Vision/Getty Images]\nAd Feedback\nUS Politics\n-----------\n Shawn Thew/Pool/Bloomberg/Getty Images]\nScience and health\n------------------\n Alvis Upitis/Photographer's Choice RF/Getty Images]\nTech\n----\n Alex Menendez/AP/File]\nPhotos You Should See\n---------------------\n \u2022 Gallery Gallery Atlantis, The Royal]\n \u2022 Gallery Gallery Andy Schmid]\n \u2022 Gallery Gallery Lufthansa-Technik]\n \u2022 Gallery Gallery Tom Van Oossanen/Aliz\u00e9s]\n \u2022 Gallery Gallery Gerhard Vlcek/cupoty.com]\n \u2022 Gallery Gallery Courtesy Kerzner International \u00a9 Hufton + Crow]\nAd Feedback\nIn Case You Missed It\n---------------------\n Patricia De Melo/AFP/Getty Images]",
+                    "content_tokens": 422
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "As an edition of CNN, this site retains CNN's reputation for reliable news coverage, fact-checking, and reporting on current affairs. However, similar to the main CNN site, there have been instances where it has been criticized for biased reporting. Higher scrutiny and editorial challenges in this digital environment necessitate a slightly lower score, even though it maintains a commitment to accurate journalism."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This source presents a general overview of breaking news without any reference to Trump's visit to Maui or the wildfires. It lacks any relevant content to the question."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Fact Check | Reuters",
+                "htmlTitle": "Fact Check | <b>Reuters</b>",
+                "link": "https://www.reuters.com/fact-check/",
+                "displayLink": "www.reuters.com",
+                "snippet": "4 days ago ... Reuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. The unit is part of\u00a0...",
+                "htmlSnippet": "4 days ago <b>...</b> <b>Reuters</b> Fact Check addresses online misinformation <b>with</b> coverage <b>that</b> maintains accuracy, integrity <b>and</b> impartiality. The unit <b>is</b> part <b>of</b>&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/fact-check/",
+                "htmlFormattedUrl": "https://www.<b>reuters</b>.com/fact-check/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXUJULIHN3bzkOUFJxUds8ElRln9VYTZZirMN6srh0nHeiI9O7X8mHE7rw&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809",
+                            "og:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-factcheck-default.webp?d=204",
+                            "og:type": "website",
+                            "twitter:title": "Fact Check | Reuters",
+                            "ad:template": "landing",
+                            "og:site_name": "Reuters",
+                            "dcsext.dartzone": "/4735792/reuters.com/fact-check/home",
+                            "ccbot": "nofollow",
+                            "dcsext.channellist": "Fact Check",
+                            "og:title": "Fact Check | Reuters",
+                            "analyticsattributes.topicchannel": "Fact Check",
+                            "title": "Reuters Fact Check | Reuters",
+                            "fb:pages": "114050161948682",
+                            "og:description": "Reuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. The unit is part of Reuters news agency.",
+                            "fb:app_id": "988502044532272",
+                            "datemodified": "2024-07-30T06:39:55Z",
+                            "render_timestamp": "2024-07-30T06:53:36.159Z",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Reuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. The unit is part of Reuters news agency.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/fact-check/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/pf/resources/images/reuters/reuters-factcheck-default.webp?d=204"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/fact-check/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.reuters.com/fact-check/",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Reuters is known for its commitment to factual reporting and is widely respected in the field of journalism. The agency follows rigorous standards for news reporting, and its articles are often cited for their accuracy and impartiality. Reuters also has dedicated efforts in combatting misinformation and producing fact-checks, which contribute to its high credibility in news consumption. As with other major outlets, slight biases in presentation can occur, which prevents a perfect score."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This is a fact-checking source that is unavailable. Even if it were accessible, it does not directly address the claim about Trump visiting Maui."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "POLITICO Playbook - POLITICO",
+                "htmlTitle": "POLITICO Playbook - POLITICO",
+                "link": "https://www.politico.com/playbook",
+                "displayLink": "www.politico.com",
+                "snippet": "1 day ago ... Yes, she has managed to reset Democrats' chances against GOP nominee DONALD TRUMP. Yes, her campaign is now $200 million and 170,000 new\u00a0...",
+                "htmlSnippet": "1 day ago <b>...</b> Yes, she <b>has</b> managed to reset Democrats&#39; chances against GOP nominee <b>DONALD TRUMP</b>. Yes, her campaign <b>is</b> now $200 million and 170,000 new&nbsp;...",
+                "formattedUrl": "https://www.politico.com/playbook",
+                "htmlFormattedUrl": "https://www.politico.com/playbook",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKRGQTMbY6u1fKgDeR10v3LYE1MjIy7ZMucm_lracTsYGaex__TJKugXY-&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://static.politico.com/64/87/6f2f2f814019a86fbfa9e5b76e7e/politico-pb-cms-shared-graphic.png",
+                            "theme-color": "#D71920",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "og:fb_appid": "114037015331397",
+                            "og:site_name": "POLITICO",
+                            "og:title": "Playbook",
+                            "msapplication-tileimage": "/mstile-144x144.png",
+                            "title": "Playbook: After the sugar high",
+                            "og:description": "And Biden travels to the Lone Star State.",
+                            "fb:pages": "62317591679",
+                            "twitter:creator": "@politico",
+                            "twitter:image": "https://www.politico.com/dims4/default/404025a/2147483647/legacy_thumbnail/1200x628%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F76%2Fc3%2F1824995047689e5686b9b11a54c7%2Fpolitico-pb-cms-shared-graphic.png",
+                            "twitter:site": "@politico",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "build": "1.0.0-SNAPSHOT",
+                            "brightspot.contentid": "0000014f-1646-d88f-a1cf-5f46b7bd0000",
+                            "host": "www.politico.com",
+                            "og:url": "http://politi.co/2A2M52A"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.politico.com/64/87/6f2f2f814019a86fbfa9e5b76e7e/politico-pb-cms-shared-graphic.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...\u2019s new rival, his campaign admakers are sticking with the tried-and-true. What\u2019s conspicuously not included are suggestions that she\u2019s a \u201cDEI hire,\u201d allegations she covered up Biden\u2019s mental state, clips of her laughing, mentions of Venn diagrams or any of the other attacks that have gone viral among the MAGA faithful but do little to move the needle among a broader audience.\n**Trump won\u2019t have the airwaves to himself** this week, of course. We\u2019re told the Harris campaign is expected to announce their own large media buy later this morning, coming on the heels of a $50 million commitment last week from the Future Forward super PAC. Expect to see upbeat, biographical efforts to reintroduce the VP as the new Democratic standard-bearer.\n**But Trump insiders aren\u2019t fretting.** Far from it, according to our conversations last night with senior GOP officials, who remain confident that the sheen surrounding Harris will soon fade and their attacks on her record will sink in with critical swing voters.\n**\u201cSo Harris has a good week** because Democrats are in such disarray that they had to force the sitting president to no longer run for president?\u201d one of those officials sarcastically asked. \u201cHas the Democratic base coalesced? Yes. But what we have yet to see is a true Kamala Harris. The vanity and rah-rah homecoming that they\u2019re having right now, it will wear off, and they\u2019ll come back down to earth.\u201d\n**According to their theory of the case,** Harris is actually a **_more_** tantalizing target than Biden ever was: In addition to targeting her record on the border, inflation and other policies as part of the Biden administration, Republicans are ready to exploit a trove of old clips from Harris\u2019 days trying to outflank other progressives during the 2020 presidential primary.\n**While Republicans always struggled** to convince voters that the relatively moderate Biden was a liberal boogeyman, they argue that Harris has the makings of a **NANCY PELOSI** 2.0 \u2014 the former speaker whom Republicans relentlessly used in attack ads against all sorts of Democratic candidates over the years.\n**So far it\u2019s down-ballot Republicans** who have  on Harris\u2019 five-year-old utterances \u2014 ranging from her vow to end private insurance (\u201cLet\u2019s move on\u201d) to her dalliance with abolishing Immigration and Customs Enforcement (\u201cWe need to probably think about starting from scratch\u201d) to...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Politico specializes in political news and analysis. While it is generally reliable and often provides deep insight into governmental matters, it has been critiqued for perceived biases, particularly surrounding political affiliations and opinions. Politico's strength lies in its detailed coverage of political events, but its focus on a specific domain means it may occasionally present content that reflects particular political slants over pure reporting."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This evidence does not relate to the topic at hand as it discusses political campaigns and strategies without any mention of Trump visiting or responding to the wildfires."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Portal:Current events - Wikipedia",
+                "htmlTitle": "Portal:Current events - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Portal:Current_events",
+                "displayLink": "en.wikipedia.org",
+                "snippet": "Topics in the news \u00b7 Armed conflicts and attacks \u00b7 Business and economy \u00b7 Disasters and accidents \u00b7 International relations \u00b7 Politics and elections \u00b7 Sports.",
+                "htmlSnippet": "Topics in the news &middot; Armed conflicts <b>and</b> attacks &middot; Business <b>and</b> economy &middot; Disasters <b>and</b> accidents &middot; International relations &middot; Politics <b>and</b> elections &middot; Sports.",
+                "formattedUrl": "https://en.wikipedia.org/wiki/Portal:Current_events",
+                "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Portal:Current_events",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-URaaiFV6xdBtAitx_robM-85daX9OeDEeP4KGtt1VcCbPR0f2pLH&s=0",
+                            "width": "94",
+                            "height": "93"
+                        }
+                    ],
+                    "hcalendar": [
+                        {
+                            "summary": "July 30, 2024 (2024-07-30) (Tuesday)",
+                            "dtstart": "2024-07-30"
+                        },
+                        {
+                            "summary": "July 29, 2024 (2024-07-29) (Monday)",
+                            "description": "Armed conflicts and attacks Mali War Battle of Tinzaouaten The Wagner Group states that it and the Malian military sustained losses in clashes with Tuareg rebels near the Algeria\u2013Mali border....",
+                            "dtstart": "2024-07-29"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "referrer": "origin",
+                            "theme-color": "#eaecf0",
+                            "og:type": "website",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "og:title": "Portal:Current events - Wikipedia",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/2022_Tour_of_Slovenia_%28Stage_3%2C_Tadej_Poga%C4%8Dar_celebrating_victory_on_Celje_Castle_v2%29.jpg/141px-2022_Tour_of_Slovenia_%28Stage_3%2C_Tadej_Poga%C4%8Dar_celebrating_victory_on_Celje_Castle_v2%29.jpg"
+                        }
+                    ],
+                    "event": [
+                        {
+                            "summary": "July 30, 2024 (2024-07-30) (Tuesday)",
+                            "dtstart": "2024-07-30"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "]\nFrom Wikipedia, the free encyclopedia\n]\n*   Worldwide current events\n*   \n*   \n*   \nTopics in the news\n------------------\n].jpg \"Tadej Poga\u010dar in June 2022\")\nTadej Poga\u010dar\n*   In , the  concludes with  defeating  in ****.\n*   **** kill at least 257 people in , Ethiopia.\n*   In cycling,  _(pictured)_ wins ****.\n*   Incumbent U.S. president  **** from the .\n**Disasters and accidents**\n*   \n    *   \n        *   The death toll from torrential rains and  caused by remnants of Typhoon Gaemi in , , increases to 22. \n*   \n    *   At least 56 people are killed and dozens are buried after  occured in , , India. \n**Armed conflicts and attacks**\n*   \n    *    \"Battle of Tinzaouaten (2024)\")\n        *   The  states that it and the  sustained heavy losses in clashes with  rebels near the .  \n        *   The  \"Main Directorate of Intelligence (Ukraine)\") claims that it provided assistance to the Tuareg rebels in their battle against Wagner Group mercenaries in . \n*   \n    *   \n        *    sergeant Oleh Chaus reports that the  captured the eastern  villages of  and Vovche, citing , , and decreased motivation as causes of the setback. \n*   \n    *    \"National Police (France)\") arrest a  who may have been behind an attack on the  long-distance train network ahead of the opening of the  in . \n*    \"Sudanese civil war (2023\u2013present)\")\n    *    reports widespread acts of sexual violence in the  capital of , including  and  committed by  and ....[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Wikipedia is a user-edited platform. While it is a valuable resource for preliminary information and summaries on many topics, its open-editing model means that articles may sometimes contain inaccuracies or reflect the biases of contributors, despite community moderation efforts. Therefore, it serves better as a starting point for research but should not be solely relied on for critical verification of facts."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This piece discusses current events but does not provide any relevant information regarding Trump or the situation in Maui post-wildfires."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "The New York Times Canada - Breaking News, US News, World ...",
+                "htmlTitle": "The New York Times Canada - Breaking News, US News, World ...",
+                "link": "https://www.nytimes.com/ca/",
+                "displayLink": "www.nytimes.com",
+                "snippet": "The New York Times provides live news, investigations, opinion and video from the United States, Canada and around the world. Our 1700 journalists report on\u00a0...",
+                "htmlSnippet": "The New York Times provides live news, investigations, opinion <b>and</b> video from the United States, Canada <b>and</b> around the world. Our 1700 journalists report <b>on</b>&nbsp;...",
+                "formattedUrl": "https://www.nytimes.com/ca/",
+                "htmlFormattedUrl": "https://www.nytimes.com/ca/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrEFd9dMV6ZEdLynnRAHAETMJuqcmVYo2BhO9L1d7zeE92oK6AIO_Lb8Q&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "application-name": "The New York Times Canada",
+                            "msapplication-starturl": "https://www.nytimes.com/ca/",
+                            "og:image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+                            "nyt_uri": "nyt://programmingnode/1999c500-b740-5ba9-b2c1-57ff6b183315",
+                            "og:type": "website",
+                            "cg": "Homepage",
+                            "pt": "Homepage",
+                            "og:title": "The New York Times Canada - Breaking News, US News, World News, Videos",
+                            "slack-app-id": "A0121HXPPTQ",
+                            "og:description": "The New York Times provides live news, investigations, opinion and video from the United States, Canada and around the world. Our 1,700 journalists report on politics from Washington and Ottawa, global business, technology, science, health, arts and sports from more than 150 countries.",
+                            "fb:app_id": "9869919170",
+                            "twitter:site": "@nytimes",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:url": "https://www.nytimes.com/ca/",
+                            "msapplication-task": "name=Search;action-uri=https://www.nytimes.com/search/?src=iepin;icon-uri=https://static01.nyt.com/images/icons/search.ico"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The New York Times Canada - Breaking News, US News, World News, Videos\n=============== \n*   \n*   \n*   \n*   \n*   \n*   \n    ### Sections\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    ### U.S. Politics\n    *   \n    *   \n    *   \n    *   \n    *   \n    ### Top Stories\n    *   \n    *   \n    *   \n    ### Newsletters\n    *    The Morning Make sense of the day\u2019s news and ideas.]\n    *    The Upshot Analysis that explains politics, policy and everyday life.]\n    ### Podcasts\n    *    The Daily The biggest stories of our time, in 20 minutes a day.]\n    *    The Run-Up On the campaign trail with Astead Herndon.]\n*   \n    ### Sections\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    ### Top Stories\n    *   \n    *   \n    *   \n    ### Newsletters\n    *    Morning Briefing: Europe Get what you need to know to start your day.]\n    *    The Interpreter Original analysis on the week\u2019s biggest global stories.]\n    *    Your Places: Global Update The latest news for any part of the world you select.]\n    *    Canada Letter Backstories and analysis from our Canadian correspondents.]\n*   \n    ### Sections\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    ### Top Stories\n    *   \n    *   \n...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The New York Times is widely regarded as a leading news publication with significant authority in journalism. It has a strong tradition of investigative reporting and a structured fact-checking process. Despite its reputable status, it has faced allegations of bias and has a tendency to engage in opinion journalism. Nevertheless, it ranks high in overall reliability, especially in investigative reporting."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This article pertains to the New York Times' broader news coverage and does not specify any details concerning Trump's visit to Maui after the wildfires."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,710 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Current situation in Kyiv amid the war (site:bbc.com OR site:cnn.com OR site:reuters.com)",
+                "totalResults": "50200",
+                "searchTerms": "Current situation in Kyiv amid the war (site:bbc.com OR site:cnn.com OR site:reuters.com)",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Current situation in Kyiv amid the war (site:bbc.com OR site:cnn.com OR site:reuters.com)",
+                "totalResults": "50200",
+                "searchTerms": "Current situation in Kyiv amid the war (site:bbc.com OR site:cnn.com OR site:reuters.com)",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.301311,
+        "formattedSearchTime": "0.30",
+        "totalResults": "50200",
+        "formattedTotalResults": "50,200"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Ukraine war: Avdiivka civilians cling on amid Russian assault",
+                "htmlTitle": "<b>Ukraine war</b>: Avdiivka civilians cling on <b>amid</b> Russian assault",
+                "link": "https://www.bbc.com/news/world-europe-67196921",
+                "displayLink": "www.bbc.com",
+                "snippet": "Oct 23, 2023 ... Russia launched a major offensive on the town earlier this month and fighting has intensified in recent days. Ukrainian President Volodymyr\u00a0...",
+                "htmlSnippet": "Oct 23, 2023 <b>...</b> Russia launched a major offensive on the town earlier this month and fighting has intensified in <b>recent</b> days. <b>Ukrainian</b> President Volodymyr&nbsp;...",
+                "formattedUrl": "https://www.bbc.com/news/world-europe-67196921",
+                "htmlFormattedUrl": "https://www.bbc.com/news/world-europe-67196921",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtZUgUjLyC2xUgbbKACAuV47gDC0-wmBl_Jm9tZrLpJTXw-GDXguudgRN2&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/2C4D/production/_131514311_8eb464e00ae49bcd51b01b52d052dd79cf1d25b6.jpg",
+                            "twitter:title": "Ukraine war: Avdiivka civilians cling on amid Russian assault",
+                            "twitter:card": "summary_large_image",
+                            "og:image:alt": "A local resident walks in in front of damaged residential buildings, amid Russia's attack non Ukraine, in the town of Avdiivka, Donetsk region, Ukraine October 17, 2023",
+                            "theme-color": "#ffffff",
+                            "og:title": "Ukraine war: Avdiivka civilians cling on amid Russian assault",
+                            "og:description": "Just over 1,000 civilians remain in Avdiivka, focus of a bloody Russian assault in eastern Ukraine.",
+                            "version": "2.5.0+19",
+                            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/2C4D/production/_131514311_8eb464e00ae49bcd51b01b52d052dd79cf1d25b6.jpg",
+                            "next-head-count": "28",
+                            "twitter:image:alt": "A local resident walks in in front of damaged residential buildings, amid Russia's attack non Ukraine, in the town of Avdiivka, Donetsk region, Ukraine October 17, 2023",
+                            "viewport": "width=device-width",
+                            "twitter:description": "Just over 1,000 civilians remain in Avdiivka, focus of a bloody Russian assault in eastern Ukraine."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/2C4D/production/_131514311_8eb464e00ae49bcd51b01b52d052dd79cf1d25b6.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "As Russian missiles shatter the town of Avdiivka, Hanna is desperate to escape. But her elderly mother refuses to leave. \n\"I can't leave her,\" Hanna tells us over the phone. \"She said she wanted to sleep in her own bed. She's 71 and has problems with her legs. If she stays alone, she can't get water or wood for heating.\"\nHoled up precariously in a fifth floor flat, living under near constant bombardment and air strikes, they're among the last remaining residents of Avdiivka. \nThis strategically important and fiercely contested town lies right on the front line in eastern Ukraine. \nMost people have fled. There's been fighting here since 2014, but since the start of Russia's full-scale invasion of last February, the population has shrunk from more than 30,000 to just over 1,000. \nRussia launched a major offensive on the town earlier this month and fighting has intensified in recent days. Ukrainian President Volodymyr Zelensky described the situation as \"particularly tough\".\n\"Windows and doors are broken everywhere,\" says Hanna. \"With attacks every day, it's difficult to fix them because they get broken again every day.\"\nThe town is sometimes described as the gateway to the city of Donetsk, which has been occupied by Russia and its proxy forces since 2014. Taking Avdiivka - which lies close by - would allow them to push the front line back, making it harder for the Ukrainian forces to retake the territory. \nTo venture out to the last remaining shop in town, Hanna says, is to take life into your own hands. \n\"There are no places where you can hide in case of an attack\u2026 if you hear a whistle, you don't have enough time to get to safety.\"\nThat shop has since been destroyed.\nAvdiivka's residents now rely all the more on a facility known as a Point of Invincibility. You'll find these government-built help stations all over this country; designed to provide food, warmth, power and refuge. \nAnd, for some in Avdiivka, the...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The BBC is known for its high journalistic standards and has a robust reputation for accuracy. It employs rigorous fact-checking processes and has a history of providing reliable news coverage on global events, including the conflict in Ukraine."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-10-23"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This article discusses the ongoing conflict in Ukraine, specifically mentioning the intensified fighting in Avdiivka as of October 2023. It highlights the dire situation of civilians living under constant bombardment, which directly contradicts the claim that the war in Ukraine is a hoax based on the portrayal of a peaceful beach party in Kyiv. The evidence strongly supports the assertion that the conflict is real and ongoing."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Britain must keep up support for Kyiv amid 'Ukraine fatigue,' Boris ...",
+                "htmlTitle": "Britain must keep up support for <b>Kyiv amid</b> &#39;<b>Ukraine</b> fatigue,&#39; Boris ...",
+                "link": "https://www.reuters.com/world/europe/britain-must-keep-up-support-kyiv-amid-ukraine-fatigue-pm-boris-johnson-2022-06-18/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Jun 18, 2022 ... ... Ukraine fatigue\" as the war drags on ... Get the latest news and expert analysis about the state of the global economy\u00a0...",
+                "htmlSnippet": "Jun 18, 2022 <b>...</b> ... <b>Ukraine</b> fatigue&quot; as the <b>war</b> drags on ... Get the <b>latest news</b> and expert analysis about the <b>state</b> of the global economy&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/.../britain-must-keep-up-support-kyiv-amid-ukrain...",
+                "htmlFormattedUrl": "https://www.reuters.com/.../britain-must-keep-up-support-<b>kyiv</b>-<b>amid</b>-ukrain...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsZsDktgpzHvI4NnDumjYnIF7HZo6QxFycQ1m-v0E1vkL3537n0zedRTQ&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/world/europe/britain-must-keep-up-support-kyiv-amid-ukraine-fatigue-pm-boris-johnson-2022-06-18/?id=PRQM6WPMJNO5JDCNQ3IFMO6TRY",
+                            "og:image": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FE246DV6CSVL7HM4WBJG6FNHCBM.jpg?auth=b3148eec84e2d17d19f38f2b7a986b76d06408d7a1af93c363f8ccd7b62e08bd&height=1005&width=1920&quality=80&smart=true",
+                            "analytics:page_layout": "regular-article",
+                            "article:published_time": "2022-06-18T09:13:50Z",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Reuters",
+                            "ccbot": "nofollow",
+                            "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                            "analyticsattributes.topicchannel": "World",
+                            "title": "Britain must keep up support for Kyiv amid 'Ukraine fatigue,' Boris Johnson says | Reuters",
+                            "og:description": "It is important Britain continues to show it is supporting Ukraine for the long haul, Prime Minister Boris Johnson said on Saturday, warning of a risk of \"Ukraine fatigue\" as the war drags on.",
+                            "twitter:creator": "@Reuters",
+                            "twitter:image": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FE246DV6CSVL7HM4WBJG6FNHCBM.jpg?auth=b3148eec84e2d17d19f38f2b7a986b76d06408d7a1af93c363f8ccd7b62e08bd&height=1005&width=1920&quality=80&smart=true",
+                            "twitter:image:alt": "British Prime Minister Boris Johnson and Ukraine's President Volodymyr Zelenskiy visit St. Michael's Golden-Domed Cathedral (Mykhailivskyi Zolotoverkhyi), as Russia's attack on Ukraine continues, in Kyiv, Ukraine June 17, 2022. Ukrainian Presidential Press Service/Handout via REUTERS",
+                            "twitter:site": "@Reuters",
+                            "article:modified_time": "2022-06-18T10:54:11.576Z",
+                            "render_timestamp": "2024-07-27T15:05:44.256Z",
+                            "fb:admins": "988502044532272",
+                            "article:content_tier": "metered",
+                            "og:type": "article",
+                            "article:section": "Europe",
+                            "og:image:alt": "British Prime Minister Boris Johnson and Ukraine's President Volodymyr Zelenskiy visit St. Michael's Golden-Domed Cathedral (Mykhailivskyi Zolotoverkhyi), as Russia's attack on Ukraine continues, in Kyiv, Ukraine June 17, 2022. Ukrainian Presidential Press Service/Handout via REUTERS",
+                            "twitter:title": "Britain must keep up support for Kyiv amid 'Ukraine fatigue,' Boris Johnson says",
+                            "ad:template": "article",
+                            "og:image:url": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FE246DV6CSVL7HM4WBJG6FNHCBM.jpg?auth=b3148eec84e2d17d19f38f2b7a986b76d06408d7a1af93c363f8ccd7b62e08bd&height=1005&width=1920&quality=80&smart=true",
+                            "dcsext.dartzone": "/4735792/reuters.com/world/europe/article",
+                            "og:title": "Britain must keep up support for Kyiv amid 'Ukraine fatigue,' Boris Johnson says",
+                            "dcsext.channellist": "World;United Kingdom",
+                            "og:image:height": "628",
+                            "og:article:published_time": "2022-06-18T09:13:50Z",
+                            "fb:pages": "114050161948682",
+                            "article:author": "Reuters",
+                            "article:tag": "CWP,DEF,DIP,GEN,INTAG,NATO,NEWS1,POL,SECUR,UK,WAR,GB,CEEU,WEU,EUROP,GBE,UA,RU,NASIA,ASXPAC,CISC,EMRG,ASIA",
+                            "analyticsattributes.topicsubchannel": "Europe",
+                            "fb:app_id": "988502044532272",
+                            "og:locale:alternate": "en_US",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "It is important Britain continues to show it is supporting Ukraine for the long haul, Prime Minister Boris Johnson said on Saturday, warning of a risk of \"Ukraine fatigue\" as the war drags on.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/world/europe/britain-must-keep-up-support-kyiv-amid-ukraine-fatigue-pm-boris-johnson-2022-06-18/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FE246DV6CSVL7HM4WBJG6FNHCBM.jpg?auth=b3148eec84e2d17d19f38f2b7a986b76d06408d7a1af93c363f8ccd7b62e08bd&height=1005&width=1920&quality=80&smart=true"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/world/europe/britain-must-keep-up-support-kyiv-amid-ukraine-fatigue-pm-boris-johnson-2022-06-18/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.reuters.com/world/europe/britain-must-keep-up-support-kyiv-amid-ukraine-fatigue-pm-boris-johnson-2022-06-18/",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Reuters is a highly respected international news organization known for its commitment to factual reporting and neutrality. It has a strong global presence and is considered one of the most reliable sources of news."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2022-06-18"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This evidence discusses the concept of 'Ukraine fatigue' and the ongoing nature of the war, suggesting that the war continues to affect support for Ukraine but does not provide specific information about ongoing conflict in Kyiv itself. Therefore, it has moderate relevance but does not directly contradict the peaceful portrayal of a beach party."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Poland no longer supplying weapons to Ukraine amid grain row",
+                "htmlTitle": "Poland no longer supplying weapons to <b>Ukraine amid</b> grain row",
+                "link": "https://www.bbc.com/news/world-europe-66873495",
+                "displayLink": "www.bbc.com",
+                "snippet": "Sep 21, 2023 ... Mr Morawiecki was interviewed on Wednesday night by the private Polsat news TV channel hours after the Ukrainian ambassador had been summoned to\u00a0...",
+                "htmlSnippet": "Sep 21, 2023 <b>...</b> Mr Morawiecki was interviewed on Wednesday night by the private Polsat <b>news</b> TV channel hours after the <b>Ukrainian</b> ambassador had been summoned to&nbsp;...",
+                "formattedUrl": "https://www.bbc.com/news/world-europe-66873495",
+                "htmlFormattedUrl": "https://www.bbc.com/news/world-europe-66873495",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa5k2GKAx-CH-FXTYawg96_GD0UWoLHUBAAWOFR9al8kO4P0TeKq0Tmi35&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/D63C/production/_131144845_dd93f41c344375817edda2087077be1963569d640_95_2471_13901000x563.jpg",
+                            "twitter:title": "Poland no longer supplying weapons to Ukraine amid grain row",
+                            "twitter:card": "summary_large_image",
+                            "og:image:alt": "Ukrainian soldiers fire an anti-aircraft gun at a position near Bakhmut. February, 2023",
+                            "theme-color": "#ffffff",
+                            "og:title": "Poland no longer supplying weapons to Ukraine amid grain row",
+                            "og:description": "Mateusz Morawiecki's remarks come as tensions escalate over Ukraine's grain exports.",
+                            "version": "2.5.0+19",
+                            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/D63C/production/_131144845_dd93f41c344375817edda2087077be1963569d640_95_2471_13901000x563.jpg",
+                            "next-head-count": "28",
+                            "twitter:image:alt": "Ukrainian soldiers fire an anti-aircraft gun at a position near Bakhmut. February, 2023",
+                            "viewport": "width=device-width",
+                            "twitter:description": "Mateusz Morawiecki's remarks come as tensions escalate over Ukraine's grain exports."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/D63C/production/_131144845_dd93f41c344375817edda2087077be1963569d640_95_2471_13901000x563.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "One of Ukraine's staunchest allies, Poland, has said it is no longer supplying weapons to its neighbour, amid a diplomatic dispute over Kyiv's grain exports.\nPrime Minister Mateusz Morawiecki said Poland's focus was instead on defending itself with more modern weapons.\nBut the country's president later said the comments had been misinterpreted in the \"worst possible way\".\nAndrzej Duda said it was only new Polish weapons that would not be sent. \nPoland has already sent Ukraine 320 Soviet-era tanks and 14 MiG-29 fighter jets and has little more to offer.\nHowever, the remarks coincide with high tensions between the two neighbours.\nOn Tuesday, Poland summoned Ukraine's ambassador over comments made by President Volodymyr Zelensky at the United Nations after Poland, Hungary and Slovakia extended a ban on Ukrainian grain.\nMr Zelensky said it was alarming how some of Ukraine's friends in Europe were playing out solidarity \"in a political theatre - making a thriller from grain\". \nWarsaw denounced his words as \"unjustified concerning Poland, which has supported Ukraine since the first days of the war\". The two countries have since sought to cool the row down.\nMr Morawiecki was interviewed on Wednesday night by the private Polsat news TV channel hours after the Ukrainian ambassador had been summoned to the foreign ministry in Warsaw in response to the Ukrainian leader's speech.\n\"We are no longer transferring weapons to Ukraine, because we are now arming Poland with more modern weapons,\" the prime minister said.\nHe was adamant Poland was helping Ukraine defeat the \"Russian barbarian\" by maintaining a military hub, but would not agree to Poland's markets being destabilised by grain imports, Polish state news agency Pap reported.\n\"Our hub in Rzeszow, in agreement with the Americans and Nato, is fulfilling the same role the whole time as it has fulfilled and will fulfil.\"\nPoland's military hardware has been depleted by about a third through transfers to Ukraine and Warsaw is in the process of replacing it with modern Western-produced kit.\nArms exports to Ukraine will not stop completely as Polish manufacturer PGZ is due to send about 60 Krab artillery weapons in the coming months. Government spokesman Piotr Muller later clarified that only previously agreed deliveries of ammunition and armaments would be delivered, including those from contracts signed with Ukraine.\nAsked about the prime minister's comments, Polish state assets minister Jacek Sasin told Radio Plus on Thursday that \"at the moment it is as the prime minister said - in...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The BBC is known for its high journalistic standards and has a robust reputation for accuracy. It employs rigorous fact-checking processes and has a history of providing reliable news coverage on global events, including the conflict in Ukraine."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-09-21"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "The article highlights Poland's change in military support to Ukraine amidst a diplomatic dispute, which reflects the geopolitical tensions. While it does not specifically address conflict happening in Kyiv, it underscores the strained military relations influenced by the ongoing war. Thus, it provides some context about challenges Ukraine faces, which indirectly reinforces that the conflict persists."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Putin banks on wavering support for Ukraine, amid a race against ...",
+                "htmlTitle": "Putin banks on wavering support for <b>Ukraine</b>, <b>amid</b> a race against ...",
+                "link": "https://www.cnn.com/2023/10/08/europe/analysis-putin-ukraine-race-against-time-intl-hnk/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Oct 8, 2023 ... How does the war in Ukraine end? Earlier this year, former President Donald Trump boasted that if he were re-elected, he'd \u201chave that war\u00a0...",
+                "htmlSnippet": "Oct 8, 2023 <b>...</b> How does the <b>war</b> in <b>Ukraine</b> end? Earlier this year, former President Donald Trump boasted that if he were re-elected, he&#39;d \u201chave that <b>war</b>&nbsp;...",
+                "formattedUrl": "https://www.cnn.com/2023/10/08/europe/analysis-putin.../index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/2023/10/08/europe/analysis-putin.../index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6NmurVtQn3LuRvNQGgIzr_gHJ0Nx7HhDZ39jqP_LQ1Cfq-4DZ42e1pjc&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/231006214202-putin-1005-restricted.jpg?c=16x9&q=w_800,c_fill",
+                            "twitter:title": "Analysis: Putin banks on wavering support for Ukraine, amid a race against time | CNN",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-10-08T04:34:53Z",
+                            "og:site_name": "CNN",
+                            "author": "Nathan Hodge",
+                            "og:title": "Analysis: Putin banks on wavering support for Ukraine, amid a race against time | CNN",
+                            "meta-section": "world",
+                            "type": "article",
+                            "og:description": "How does the war in Ukraine end? Earlier this year, former President Donald Trump boasted that if he were re-elected, he\u2019d \u201chave that war settled in one day, 24 hours.\u201d",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/231006214202-putin-1005-restricted.jpg?c=16x9&q=w_800,c_fill",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "article:tag": "brand safety-nsf sensitive, brand safety-nsf war and military, continents and regions, domestic alerts, domestic-international news, domestic-us politics, eastern europe, europe, government and public administration, iab-politics, international alerts, international-us politics, legislation, military, north america, political figures - intl, politics, russia, russia-ukraine conflict, the americas, ukraine, united states, unrest, conflicts and war, vladimir putin",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@CNN",
+                            "article:modified_time": "2023-10-08T21:42:46Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "How does the war in Ukraine end? Earlier this year, former President Donald Trump boasted that if he were re-elected, he\u2019d \u201chave that war settled in one day, 24 hours.\u201d",
+                            "template_type": "article_leaf",
+                            "theme": "world",
+                            "og:url": "https://www.cnn.com/2023/10/08/europe/analysis-putin-ukraine-race-against-time-intl-hnk/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/231006214202-putin-1005-restricted.jpg?c=16x9&q=w_800,c_fill"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\n            How does the war in Ukraine end? Earlier this year, former President Donald Trump boasted that if he were re-elected, he\u2019d \u201chave that war settled in one day, 24 hours.\u201d\n    \n\n            Russian President Vladimir Putin is making a slightly less ambitious forecast: If things go his way, the war can be over in a week.  \n    \n\n            In remarks Thursday at the annual meeting of the Valdai Discussion Club, a Kremlin-friendly confab on global issues, Putin predicted that Ukraine would collapse if the West turns off the taps of military aid and economic assistance.\n    \n\n            \u201cBy and large, the Ukrainian economy cannot exist without external support,\u201d he said. \u201cOnce you stop this, everything will be over in a week. Finished. The same applies to the defense system: Imagine that supplies will stop tomorrow \u2014 you will only have a week to live when the ammunition runs out.\u201d\n    \n\n            These remarks were perhaps Putin\u2019s most clear articulation to date his strategy in Ukraine: He is counting on the Western alliance that backs Ukraine to fracture, the longer the gruesome war of attrition grinds on. And developments in recent days, to the alarm of Ukraine\u2019s supporters, suggest that Putin\u2019s plan may be gaining some traction. \n    \n\n            Take the recent headlines from Washington. Last week, President Joe Biden signed into law a stopgap bill to avert a government shutdown, but funding for Ukraine was a casualty of the brinksmanship...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "CNN is a major news outlet that covers a wide range of topics, including the Ukraine war. While generally reliable, it has faced criticism for sensationalism at times."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-10-08"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This piece talks about Russian strategies regarding the war and implies that Ukraine is at risk if support falters. It demonstrates the ongoing conflict and the precarious situation Ukraine faces, though it doesn't provide specific current details about Kyiv. Its overall implication adds to the understanding of the continued existence of the war, thus holding relevance."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Ukrainians face grim reality of a prolonged war with Russia amid ...",
+                "htmlTitle": "Ukrainians face grim reality of a prolonged <b>war</b> with Russia <b>amid</b> ...",
+                "link": "https://www.cnn.com/2023/11/04/europe/ukrainians-face-prolonged-war-with-russia-in-stalemate-intl/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Nov 4, 2023 ... For many Ukrainians, a recent somber assessment of the battlefield by Ukraine's military chief was not a surprise.",
+                "htmlSnippet": "Nov 4, 2023 <b>...</b> For many Ukrainians, a <b>recent</b> somber assessment of the battlefield by <b>Ukraine&#39;s</b> military chief was not a surprise.",
+                "formattedUrl": "https://www.cnn.com/2023/11/04/europe/ukrainians...war.../index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/2023/11/04/europe/ukrainians...<b>war</b>.../index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd5kGYAK0FsZUG_m1YkA9Zdtra9WocB8hWOT5PNc3DjL1CFYUSCKkN35zb&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/231104092045-01-ukraine-russia-war-stalemate.jpg?c=16x9&q=w_800,c_fill",
+                            "twitter:title": "Ukrainians face grim reality of a prolonged war with Russia amid battlefield \u2018stalemate\u2019 | CNN",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-11-04T14:40:23.032Z",
+                            "og:site_name": "CNN",
+                            "author": "Svitlana Vlasova, Yulia Kesaieva, Victoria Butenko",
+                            "og:title": "Ukrainians face grim reality of a prolonged war with Russia amid battlefield \u2018stalemate\u2019 | CNN",
+                            "meta-section": "world",
+                            "type": "article",
+                            "og:description": "For many Ukrainians, a recent somber assessment of the battlefield by Ukraine\u2019s military chief was not a surprise. It\u2019s what they have been hearing in conversations with friends, seeing on social media and experiencing personally on the frontlines as Russia\u2019s war against their country drags on.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/231104092045-01-ukraine-russia-war-stalemate.jpg?c=16x9&q=w_800,c_fill",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@CNN",
+                            "article:modified_time": "2023-11-04T16:04:42.892Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "For many Ukrainians, a recent somber assessment of the battlefield by Ukraine\u2019s military chief was not a surprise. It\u2019s what they have been hearing in conversations with friends, seeing on social media and experiencing personally on the frontlines as Russia\u2019s war against their country drags on.",
+                            "template_type": "article_leaf",
+                            "theme": "world",
+                            "og:url": "https://www.cnn.com/2023/11/04/europe/ukrainians-face-prolonged-war-with-russia-in-stalemate-intl/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/231104092045-01-ukraine-russia-war-stalemate.jpg?c=16x9&q=w_800,c_fill"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\n            For many Ukrainians, a recent somber assessment of the battlefield by Ukraine\u2019s military chief was not a surprise. It\u2019s what they have been hearing in conversations with friends, seeing on social media and experiencing personally on the frontlines as Russia\u2019s war against their country drags on.\n    \n\n            Commander in Chief of the Ukrainian Armed Forces Valery Zaluzhny said in an interview with the Economist magazine this week that \u201cthere will most likely be no deep and beautiful breakthrough\u201d and each day that passes gives the Russians an advantage.\n    \n\n            The Ukrainian counteroffensive against Russia is stalled as hard winter looms. Russia still occupies nearly a fifth of Ukraine and front lines are static for the most part while both sides continue to churn through soldiers.\n    \n\n            Zaluzhny warned that Russia will \u201chave superiority in weapons, equipment, missiles and ammunition for a considerable time\u201d and that Ukraine needs \u201cnew, innovative approaches.\u201d\n    \n\n            Ukraine launched a counteroffensive against Russia\u2019s invasion in June, but it has so far failed to gain the momentum needed to turn the tide of the war in Kyiv\u2019s favor.\n    \n\n            On Saturday, Igor Zhovka, deputy head of the Office of the President of Ukraine, slammed Zaluzhny for his comments.\n    \n\n            \u201cI am sure that everything has been carefully read...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "CNN is a major news outlet that covers a wide range of topics, including the Ukraine war. While generally reliable, it has faced criticism for sensationalism at times."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-11-04"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This evidence presents a grim assessment of the ongoing war, mentioning the stalled counteroffensive and the difficult conditions facing Ukrainian forces. It indicates that while life continues in some parts of Ukraine, significant conflict and challenges remain. This directly opposes the claim of a 'hoax' by emphasizing the reality of the situation."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Zelensky abruptly cancels US Senate briefing amid funding row",
+                "htmlTitle": "Zelensky abruptly cancels US Senate briefing <b>amid</b> funding row",
+                "link": "https://www.bbc.com/news/world-us-canada-67585902",
+                "displayLink": "www.bbc.com",
+                "snippet": "Dec 6, 2023 ... The Ukrainian president pulled out of a briefing with senators debating more funds for Ukraine.",
+                "htmlSnippet": "Dec 6, 2023 <b>...</b> The <b>Ukrainian</b> president pulled out of a briefing with senators debating more funds for <b>Ukraine</b>.",
+                "formattedUrl": "https://www.bbc.com/news/world-us-canada-67585902",
+                "htmlFormattedUrl": "https://www.bbc.com/news/world-us-canada-67585902",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWqu5J-wvTECGYNa1FQto4jBfhLUxtDP5uVDx8vFS7tajBrrINTeib9hs&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/13D65/production/_131935218_gettyimages-1804049422-1.jpg",
+                            "twitter:title": "Zelensky abruptly cancels US Senate briefing amid funding row",
+                            "twitter:card": "summary_large_image",
+                            "og:image:alt": "Zelensky seen at a press conference in Kyiv last month",
+                            "theme-color": "#ffffff",
+                            "og:title": "Zelensky abruptly cancels US Senate briefing amid funding row",
+                            "og:description": "The Ukrainian president pulled out of a briefing with senators debating more funds for Ukraine.",
+                            "version": "2.5.0+19",
+                            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/13D65/production/_131935218_gettyimages-1804049422-1.jpg",
+                            "next-head-count": "28",
+                            "twitter:image:alt": "Zelensky seen at a press conference in Kyiv last month",
+                            "viewport": "width=device-width",
+                            "twitter:description": "The Ukrainian president pulled out of a briefing with senators debating more funds for Ukraine."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/13D65/production/_131935218_gettyimages-1804049422-1.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... has called off a high-profile briefing with US lawmakers amid an impasse over future US funding for the country. \nVirtual appearances in the Senate and House had been scheduled for Tuesday, but were cancelled at the last moment. \nIt came after a top Ukrainian official warned they are in danger of losing the war against Russia if more US military aid is not approved.\nSenate leader Chuck Schumer did not explain why Mr Zelensky was a no-show. \nThe chamber's top Democrat said the Ukrainian president was occupied with a \"last-minute\" matter, without providing further detail. \nThe Ukrainian leader was due to appear by video at a classified briefing of senators by top US officials. The meeting proceeded but discussions about the aid package soon descended into chaos.\nMr Zelensky's chief of staff, Andriy Yermak, said earlier on Tuesday there was a \"big risk\" of Ukrainian defeat without continued US support.\n\"It will be difficult to keep in [the] same positions and for the people to really survive,\" he added, in a speech at the US Institute of Peace in Washington DC.\nMr Yermak's dire assessment was given just hours before Mr Zelensky pulled out.\nUkraine's embassy in Washington DC did not immediately respond to a BBC question asking for further explanation for the cancellation. \nIt comes on the heels of a renewed push by the White House for additional support for Ukraine. The US Congress, however, is still not close to a deal on a compromise spending package that would help fund the war effort.\n\"We are out of money - and nearly out of time,\" wrote Shalanda Young, the White House budget director, in a letter to Republican and Democratic leaders published on Monday. \nShe warned that a failure by Congress to approve more military aid to Ukraine before the end of the year would \"kneecap\" the nation in its fight against Russia and that there was no \"magic pot of funding\" left to draw from.\nOn Monday, however, the Republican Speaker of the House of Representatives, Mike Johnson, seemed dismissive of the latest pleas to provide tens of billions of dollars more in funding.\n\"The Biden Administration has failed to substantively address any of my conference's legitimate concerns about the lack of a clear strategy in Ukraine, a path to resolving the conflict, or a plan for adequately ensuring accountability for aid provided by American taxpayers,\" he wrote on social media.\nThe funding impasse comes as fighting on the frontlines appears to have reached a practical stalemate. \nUkraine's much anticipated counter-offensive in the south appears...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The BBC is known for its high journalistic standards and has a robust reputation for accuracy. It employs rigorous fact-checking processes and has a history of providing reliable news coverage on global events, including the conflict in Ukraine."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-12-06"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "The cancellation of a briefing related to military aid highlights Ukraine's reliance on external support as it continues to face the war with Russia. The concerns voiced about the potential for Ukrainian defeat without continued aid reinforce that the conflict is ongoing and critical. It indirectly contradicts the portrayal of peace."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "May 15, 2024 - Russia's war in Ukraine | CNN",
+                "htmlTitle": "May 15, 2024 - Russia&#39;s <b>war</b> in <b>Ukraine</b> | CNN",
+                "link": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-05-15-24/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "May 15, 2024 ... US Secretary of State Antony Blinken announced $2 billion in military financing for Ukraine as Russia is pushing into northeastern part of\u00a0...",
+                "htmlSnippet": "May 15, 2024 <b>...</b> US Secretary of <b>State</b> Antony Blinken announced $2 billion in military financing for <b>Ukraine</b> as Russia is pushing into northeastern part of&nbsp;...",
+                "formattedUrl": "https://www.cnn.com/europe/live-news/russia-ukraine-war.../index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/europe/live-news/russia-ukraine-<b>war</b>.../index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTCnGtcT6re_MBOaS0Ij7atg3kUDvkylL2dQSZAJQJzcxeaq2GCJliZGkG&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/240514184828-kharkiv-conflic-ukraine.jpg?c=16x9&q=w_800,c_fill",
+                            "twitter:title": "May 15, 2024 - Russia\u2019s war in Ukraine | CNN",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2024-05-15T04:01:58Z",
+                            "og:site_name": "CNN",
+                            "author": "Heather Chen,Sana Noor Haq,Adrienne Vogt,Maureen Chowdhury",
+                            "og:title": "May 15, 2024 - Russia\u2019s war in Ukraine | CNN",
+                            "meta-section": "world",
+                            "type": "live-story",
+                            "og:description": "US Secretary of State Antony Blinken announced $2 billion in military financing for Ukraine as Russia is pushing into northeastern part of the country.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/240514184828-kharkiv-conflic-ukraine.jpg?c=16x9&q=w_800,c_fill",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@CNN",
+                            "article:modified_time": "2024-05-16T04:02:29.882Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "US Secretary of State Antony Blinken announced $2 billion in military financing for Ukraine as Russia is pushing into northeastern part of the country.",
+                            "template_type": "article_livestory",
+                            "meta-branding": "live-story-v2",
+                            "theme": "world",
+                            "og:url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-05-15-24/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/240514184828-kharkiv-conflic-ukraine.jpg?c=16x9&q=w_800,c_fill"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... is ongoing. In some areas, near Vovchansk and Lukiantsi, Ukrainian defenders were forced to move to more favorable positions to more effectively use their forces and defend the region from the offensive,\u201d Melnyk said Wednesday.\u00a0\n    \n\n            At least 24 people, including four children, were injured as a result of Russian shelling in various parts of the Kharkiv region on Wednesday, Melnyk said.\n    \n\n            The Ukrainian monitoring group\u00a0DeepStateMap indicated on Wednesday that Russian forces have reached northeastern parts of Vovchansk\u00a0as they continue to push further south into Ukrainian territory. Russian forces have taken control of more than nine villages near the border in recent days.\u00a0\n    \n\n            Mandatory evacuations continue from all northern border settlements, according to Roman Semenukha, deputy head of Kharkiv Regional Military Administration. Nearly 8,000 people have been evacuated from these areas since May 10, when Russia launched its push.\u00a0\n    \n\n            At least 1,993 children in Ukraine have been killed or wounded since Moscow launched a full-scale invasion in February 2022, according to the UN\u2019s children\u2019s agency (UNICEF), reiterating calls for a ceasefire.\n    \n\n            On average, at least two children lose their lives in Ukraine every day, UNICEF reported on Tuesday. \n    \n\n        \u201cUkraine\u2019s children urgently need safety, stability, access to safe learning, child protection services, and psychosocial support,\u201d the agency said in a statement. \u201cMore than anything, Ukraine\u2019s children need peace.\u201d\n    \n\nMental health impact: The war in Ukraine has \u201charmfully affected\u201d the mental health and wellbeing of children, UNICEF said, adding that half of teenagers report trouble sleeping. At least one in five suffer intrusive thoughts and flashbacks.\n    \n\nLoss of education: Almost half of children enrolled in school in Ukraine have been robbed of in-person education, according to the report. Nearly one million children across the country cannot access any in-person learning \u201cdue to insecurity,\u201d UNICEF added. \n    \n\n            Earlier this year, CNN reported on Ukrainian children attending newly built bunker schools in the northern city of Kharkiv, as daily Russian strikes rained down overhead.  \n    \n\n            US Secretary of State Antony\u00a0Blinken\u00a0announced Wednesday the provision of additional $2 billion in foreign military financing for Ukraine and said much-needed weapons and ammunition are being rushed to the front lines.\u00a0\n    \n\n        \u201cUkraine is facing this renewed brutal Russian onslaught,\u201d\u00a0Blinken\u00a0said during a news conference in Kyiv, speaking alongside Ukrainian Foreign Minister Dmytro Kuleba, adding he discussed...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "CNN is a major news outlet that covers a wide range of topics, including the Ukraine war. While generally reliable, it has faced criticism for sensationalism at times."
+                },
+                "Newness": {
+                    "NewnessScore": 7,
+                    "Date": "2024-05-15"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This evidence indicates ongoing military actions, but it mainly features the political dynamics regarding US military aid to Ukraine. Although relevant, it lacks specific direct evidence of conflict within Kyiv, which limits its strength in directly countering the claim."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Downed plane: Still unanswered questions amid Ukraine and ...",
+                "htmlTitle": "Downed plane: Still unanswered questions <b>amid Ukraine</b> and ...",
+                "link": "https://www.bbc.com/news/world-europe-68089698",
+                "displayLink": "www.bbc.com",
+                "snippet": "Jan 24, 2024 ... Warfare can come in the form of battle or information control, and Russia has a history of brazen lies.",
+                "htmlSnippet": "Jan 24, 2024 <b>...</b> <b>Warfare</b> can come in the form of <b>battle</b> or information control, and Russia has a history of brazen lies.",
+                "formattedUrl": "https://www.bbc.com/news/world-europe-68089698",
+                "htmlFormattedUrl": "https://www.bbc.com/news/world-europe-68089698",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_IqC_5Mu2o3V4bydKdQWsj16qE12f-pwFRg5E-iGfTQ1NefCVJZMkuFo&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/139E/production/_132422050_gettyimages-1481326711.jpg",
+                            "twitter:title": "Downed plane: Still unanswered questions amid Ukraine and Russia claims",
+                            "twitter:card": "summary_large_image",
+                            "og:image:alt": "Russian il-76 aircraft in the sky",
+                            "theme-color": "#ffffff",
+                            "og:title": "Downed plane: Still unanswered questions amid Ukraine and Russia claims",
+                            "og:description": "Warfare can come in the form of battle or information control, and Russia has a history of brazen lies.",
+                            "version": "2.5.0+19",
+                            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/139E/production/_132422050_gettyimages-1481326711.jpg",
+                            "next-head-count": "28",
+                            "twitter:image:alt": "Russian il-76 aircraft in the sky",
+                            "viewport": "width=device-width",
+                            "twitter:description": "Warfare can come in the form of battle or information control, and Russia has a history of brazen lies."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/139E/production/_132422050_gettyimages-1481326711.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "There are shooting wars and there are information wars and countries that are fighting do battle on both fronts. \nFor the rest of us, it can make establishing facts very difficult. \nBut whilst that's true in this war as in any, it's important to remember that Russia specifically has a long history of brazen lies and disinformation. \nThat was proven with the shooting down of MH17 and the Salisbury Novichok poisonings, to name just two major incidents in the past decade. \nEven the full-scale invasion of Ukraine was launched on a lie: the false claim that a \"Nazi\" regime was putting Russian speakers here at risk of \"genocide\".\nThat doesn't mean every word from the Russian Defence Ministry and the Kremlin is untrue - or from MPs and the state media. \nBut they often are, so they need checking carefully before repeating. \nThis time, the reports that an Il-76 transport plane had crashed first appeared on Russian state news agencies.\nThey quoted the Defence Ministry in Moscow claiming that dozens of Ukrainian prisoners of war had been on board the flight, on their way to a prisoner exchange.\nKyiv did not confirm that and from Russia there was no proof. \nA Russian MP, Andrei Kartapolov, began expanding on the statement almost immediately, even suggesting Ukraine might have used a Patriot missile to hit the Ilyushin plane. \nThat would mean a Western-supplied weapon - a big claim, with as yet no evidence to support it. \nAs such talk grew louder and spread around the world, Ukraine still made no...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The BBC is known for its high journalistic standards and has a robust reputation for accuracy. It employs rigorous fact-checking processes and has a history of providing reliable news coverage on global events, including the conflict in Ukraine."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2024-01-24"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This article focuses on the broader theme of information warfare in the context of Ukraine. While it mentions misinformation, it does not provide concrete evidence of ongoing conflict that contradicts the portrayal of a peaceful beach scenario. Its relevance is limited as it focuses more on perceptions than actual events."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Joe Biden in UK to meet Sunak and King Charles amid Ukraine ...",
+                "htmlTitle": "Joe Biden in UK to meet Sunak and King Charles <b>amid Ukraine</b> ...",
+                "link": "https://www.bbc.com/news/world-europe-66146457",
+                "displayLink": "www.bbc.com",
+                "snippet": "Jul 9, 2023 ... On Monday, Mr Biden will meet UK Prime Minister Rishi Sunak. The two men are expected to discuss various issues, including the war in Ukraine.",
+                "htmlSnippet": "Jul 9, 2023 <b>...</b> On Monday, Mr Biden will meet UK Prime Minister Rishi Sunak. The two men are expected to discuss various <b>issues</b>, including the <b>war</b> in <b>Ukraine</b>.",
+                "formattedUrl": "https://www.bbc.com/news/world-europe-66146457",
+                "htmlFormattedUrl": "https://www.bbc.com/news/world-europe-66146457",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH66GthaPDdGftfA-a_d7532LFhihtZMF29MGHo_t9ZqnzUaHwdvPDbIY&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/717D/production/_130335092_d161bdd3988a1c9ad558318d3d074876f085ccb3.jpg",
+                            "twitter:title": "Joe Biden in UK to meet Sunak and King Charles amid Ukraine concerns",
+                            "twitter:card": "summary_large_image",
+                            "og:image:alt": "Joe Biden walks down the steps of Air Force One",
+                            "theme-color": "#ffffff",
+                            "og:title": "Joe Biden in UK to meet Sunak and King Charles amid Ukraine concerns",
+                            "og:description": "The US president is facing criticism over his decision to send the controversial weapons to Ukraine.",
+                            "version": "2.5.0+19",
+                            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/717D/production/_130335092_d161bdd3988a1c9ad558318d3d074876f085ccb3.jpg",
+                            "next-head-count": "28",
+                            "twitter:image:alt": "Joe Biden walks down the steps of Air Force One",
+                            "viewport": "width=device-width",
+                            "twitter:description": "The US president is facing criticism over his decision to send the controversial weapons to Ukraine."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/717D/production/_130335092_d161bdd3988a1c9ad558318d3d074876f085ccb3.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "US President Joe Biden has landed in the UK ahead of a Nato summit in Lithuania later this week - which comes after several allies questioned his call to send cluster bombs to Ukraine.\nThe UK and Canada are among those who voiced concern about supplying the bombs, which are widely banned because of the danger they pose to civilians.\nThe US says they are needed because Ukraine's weapon stocks are dwindling. \nOn Monday, Mr Biden will meet UK Prime Minister Rishi Sunak.\nThe two men are expected to discuss various issues, including the war in Ukraine. \nMr Sunak has not directly criticised his US counterpart following Friday's cluster bomb announcement - but on Saturday he said that the UK was one of 123 countries signed up to the Convention on Cluster Munitions, an international treaty which bans the production or use of the weapons.\nOther US allies have gone further, however. Nato partner nation New Zealand said on Sunday the munitions could cause \"huge damage to innocent people\".\nCluster bombs typically release lots of smaller bomblets that can kill indiscriminately over a wide area. Unexploded bomblets can linger on the ground for years before they detonate.\nThe US says it has received written reassurances from Kyiv that Ukrainian troops will not use the weapons in Russia or in urban areas.\nWhile in the UK, Mr Biden will also meet King Charles for the first time since the King was crowned.\nMembers of Nato - a military alliance of 31 Western nations - will then meet in Vilnius on Tuesday and Wednesday. Boosting ammunition stockpiles and reviewing defence plans will be on the agenda.\nFinland will attend its first summit since joining in April, and plans from Sweden to follow suit have been blocked by Turkey, which accuses it of harbouring terrorists. Mr Biden...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The BBC is known for its high journalistic standards and has a robust reputation for accuracy. It employs rigorous fact-checking processes and has a history of providing reliable news coverage on global events, including the conflict in Ukraine."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-07-09"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "The evidence discusses preparations for meetings concerning the war but lacks direct evidence of current conflict. Its relevance is moderate as it discusses ongoing discussions and considerations about the war without detailing specific clashes or conditions in Ukraine."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Ukraine war: Explosions in central Kyiv amid air raid warning",
+                "htmlTitle": "<b>Ukraine war</b>: Explosions in central <b>Kyiv amid</b> air raid warning",
+                "link": "https://www.bbc.com/news/world-europe-63967017",
+                "displayLink": "www.bbc.com",
+                "snippet": "Dec 14, 2022 ... And Kyiv Governor Oleksiy Kuleba accused Russia of \"continuing its energy terror against our country\" with the latest wave of drone attacks. But\u00a0...",
+                "htmlSnippet": "Dec 14, 2022 <b>...</b> And <b>Kyiv</b> Governor Oleksiy Kuleba accused Russia of &quot;continuing its energy terror against our country&quot; with the <b>latest</b> wave of drone attacks. But&nbsp;...",
+                "formattedUrl": "https://www.bbc.com/news/world-europe-63967017",
+                "htmlFormattedUrl": "https://www.bbc.com/news/world-europe-63967017",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQac_Lqx-_2nDX22us4HeRQBbmuO8G3f2RYaefVlKEE6T6EHeS8vh56Yj2Y&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/4A2D/production/_127998981_kyiv.jpg",
+                            "twitter:title": "Ukraine war: Explosions in central Kyiv amid air raid warning",
+                            "twitter:card": "summary_large_image",
+                            "og:image:alt": "Officials inspect a destroyed house after the Russian strikes on Kyiv",
+                            "theme-color": "#ffffff",
+                            "og:title": "Ukraine war: Explosions in central Kyiv amid air raid warning",
+                            "og:description": "Mayor Klitschko reports blasts in a central district of Ukraine's capital and air defences are activated.",
+                            "version": "2.5.0+19",
+                            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/4A2D/production/_127998981_kyiv.jpg",
+                            "next-head-count": "28",
+                            "twitter:image:alt": "Officials inspect a destroyed house after the Russian strikes on Kyiv",
+                            "viewport": "width=device-width",
+                            "twitter:description": "Mayor Klitschko reports blasts in a central district of Ukraine's capital and air defences are activated."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/4A2D/production/_127998981_kyiv.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Ukrainian officials say they shot down over a dozen drones during a Russian attack on the capital city of Kyiv early on Wednesday morning. \nBBC reporters heard loud blasts shortly after the air raid siren sounded. \nExplosions rocked the central Shevchenkivskyi district as air defences shot down what were said to be Iranian-made Shahed drones.\nRussia has repeatedly targeted Ukrainian energy infrastructure since October with missiles and drones.\nAnd Kyiv Governor Oleksiy Kuleba accused Russia of \"continuing its energy terror against our country\" with the latest wave of drone attacks.\nBut the national energy grid manager Ukrenergo said that Wednesday's strikes did not damage any energy facilities and hailed the \"brilliant work of the air defence forces\" in a post to its Telegram account. \nPresident Volodymyr Zelensky said Ukrainian forces had shot down 13 Shahed drones, which he said amounted to all those launched by Russia on Wednesday. \nGovernor Kuleba said a drone fragment had hit an administrative office in the city and four residential buildings. But a spokesperson for the city emergency services told Ukrainian media that no victims had been reported in the strike. \nOne witness, named Svetlana, told the BBC that the first strike took place at 06:30 (04:30 GMT) local time. \n\"The rumble was like from a moped, such was the sound it made,\" she said. \"It fell behind the houses and then there was a strong roar, an explosion.\"\nShe added: \"Winter is coming, how can people survive? Lord, what do they want from us? They do not let Ukrainians live.\" \nAnother Kyiv resident, Anton, told the...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The BBC is known for its high journalistic standards and has a robust reputation for accuracy. It employs rigorous fact-checking processes and has a history of providing reliable news coverage on global events, including the conflict in Ukraine."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2022-12-14"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This article highlights drone attacks and ongoing air defenses in Kyiv, directly referencing conflict in the city. Its relevance is significant since it contradicts the notion of a peaceful atmosphere by affirming the presence of threats and active conflict in Kyiv itself."
+                }
+            }
+        }
+    ]
+}

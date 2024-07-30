@@ -1,0 +1,786 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Daily life in Kyiv amidst war threats (site:nytimes.com OR site:reuters.com OR site:theguardian.com)",
+                "totalResults": "44100",
+                "searchTerms": "Daily life in Kyiv amidst war threats (site:nytimes.com OR site:reuters.com OR site:theguardian.com)",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Daily life in Kyiv amidst war threats (site:nytimes.com OR site:reuters.com OR site:theguardian.com)",
+                "totalResults": "44100",
+                "searchTerms": "Daily life in Kyiv amidst war threats (site:nytimes.com OR site:reuters.com OR site:theguardian.com)",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.229421,
+        "formattedSearchTime": "0.23",
+        "totalResults": "44100",
+        "formattedTotalResults": "44,100"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "A year after Russia's invasion: How Ukraine endured",
+                "htmlTitle": "A year after Russia&#39;s invasion: How <b>Ukraine</b> endured",
+                "link": "https://www.reuters.com/graphics/UKRAINE-CRISIS/ANNIVERSARY-SURVIVAL/movaklxlmva/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Feb 20, 2023 ... As the shock of the most deadly conflict in Europe since World War Two wears off, Ukrainians' defiance is sometimes taken for granted. But a ...",
+                "htmlSnippet": "Feb 20, 2023 <b>...</b> As the shock of the most deadly conflict in Europe since World <b>War</b> Two wears off, Ukrainians&#39; defiance is sometimes taken for granted. But a&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/graphics/UKRAINE-CRISIS/.../movaklxlmva/",
+                "htmlFormattedUrl": "https://www.reuters.com/graphics/UKRAINE-CRISIS/.../movaklxlmva/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQBKaETqg5aPIHffyjYLubFI-4DmcyUtbvUc5D50RDKcuCD1X1w4nrtAQ&s",
+                            "width": "309",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.reuters.com/graphics/UKRAINE-CRISIS/ANNIVERSARY-SURVIVAL/movaklxlmva/cdn/images/reuters-graphics.jpg",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "How Ukraine endured",
+                            "og:site_name": "Reuters",
+                            "twitter:domain": "https://www.reuters.com",
+                            "og:title": "How Ukraine endured",
+                            "og:description": "A year on from Russia’s invasion, the country and its government have not just survived. They’ve fought back.",
+                            "twitter:creator": "@ReutersGraphics",
+                            "twitter:image": "https://www.reuters.com/graphics/UKRAINE-CRISIS/ANNIVERSARY-SURVIVAL/movaklxlmva/cdn/images/reuters-graphics.jpg",
+                            "twitter:image:alt": "Map of Ukraine",
+                            "fb:app_id": "319194411438328",
+                            "twitter:site": "@ReutersGraphics",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "A year on from Russia’s invasion, the country and its government have not just survived. They’ve fought back.",
+                            "fb:admins": "616167736",
+                            "og:url": "https://www.reuters.com/graphics/UKRAINE-CRISIS/ANNIVERSARY-SURVIVAL/movaklxlmva/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/graphics/UKRAINE-CRISIS/ANNIVERSARY-SURVIVAL/movaklxlmva/cdn/images/reuters-graphics.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "A year after Russian troops poured over the Ukrainian border and reached the gates of the capital Kyiv in a full-scale invasion Moscow hoped would bring swift victory, one of the most striking aspects of the war so far is that Ukraine has survived.\nAs the shock of the most deadly conflict in Europe since World War Two wears off, Ukrainians’ defiance is sometimes taken for granted.\nBut a combination of planning, courage, tactics, overseas military and financial assistance and Russia’s battlefield failings has meant that, far from capitulating within days as many had expected, Ukraine has kept the enemy at bay.\nThat said, Russia has stabilised positions in the east and south of Ukraine after suffering major setbacks late in 2022, and has begun to make incremental gains ahead of what Kyiv fears will be another big offensive.\nRussian President Vladimir Putin seems determined to dig in, sanctions against Moscow have not yet had a devastating impact on the economy, and Russia's army still has resources to throw at the conflict.\nFor now, though, Russia has met its match in a smaller, more nimble adversary led by President Volodymyr Zelenskiy – the public face of Ukraine’s war and a rallying figure for his besieged people – and “iron general” Valeriy Zaluzhnyi, who leads the troops.\nThere is no sense of complacency in Kyiv. The United States estimates that up to 100,000 people have been killed or wounded on each side, and trench warfare in the east is attritional and deadly.\nRussia has hit critical infrastructure, meaning no power or heating for millions of...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Opinion | What I Learned in Ukraine - The New York Times",
+                "htmlTitle": "Opinion | What I Learned in <b>Ukraine</b> - The New York Times",
+                "link": "https://www.nytimes.com/2023/07/23/opinion/ukraine-war-russia.html",
+                "displayLink": "www.nytimes.com",
+                "snippet": "Jul 23, 2023 ... To adapt a phrase attributed to Yitzhak Rabin, Ukrainians are going about their everyday lives as if there is no war, while waging war as if ...",
+                "htmlSnippet": "Jul 23, 2023 <b>...</b> To adapt a phrase attributed to Yitzhak Rabin, Ukrainians are going about their <b>everyday lives</b> as if there is no <b>war</b>, while waging <b>war</b> as if&nbsp;...",
+                "formattedUrl": "https://www.nytimes.com/2023/07/23/opinion/ukraine-war-russia.html",
+                "htmlFormattedUrl": "https://www.nytimes.com/2023/07/23/opinion/ukraine-<b>war</b>-russia.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMSkrs_Z8K12mipIYwKOiomJ1Bo1GvKecg6we-2TAr8KL8NAvMCXWN3JzN&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static01.nyt.com/images/2023/07/23/multimedia/23stephens-vzkh/23stephens-vzkh-facebookJumbo.jpg?year=2023&h=550&w=1050&s=f9d0b2fe9276a4292bc49d15c78a9b3abbb069e5fb1c9652dd06d0b88ec08292&k=ZQJBKqZ0VN",
+                            "nyt_uri": "nyt://article/6a46bff6-5958-5045-9c48-0a654ca9a2e8",
+                            "twitter:app:id:googleplay": "com.nytimes.android",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-07-23T10:00:09.000Z",
+                            "pt": "article",
+                            "twitter:url": "https://www.nytimes.com/2023/07/23/opinion/ukraine-war-russia.html",
+                            "pdate": "20230723",
+                            "articleid": "100000009006623",
+                            "al:android:package": "com.nytimes.android",
+                            "twitter:app:name:googleplay": "NYTimes",
+                            "og:description": "Memo from a nation of closed skies, air-raid apps and bustling urban life.",
+                            "twitter:image": "https://static01.nyt.com/images/2023/07/23/multimedia/23stephens-vzkh/23stephens-vzkh-videoSixteenByNine3000.jpg?year=2023&h=1688&w=3000&s=8e7b179d57e14a2c4963ec08f7fbde4c689b4f349dd135e76a36077670f1aa23&k=ZQJBKqZ0VN&tw=1",
+                            "pst": "Op-Ed",
+                            "twitter:image:alt": "People walking last week amid the tanks and vehicles left as a memorial to the war outside St Mykhalo’s Monastery in Kyiv, Ukraine.",
+                            "al:iphone:app_name": "NYTimes",
+                            "article:modified_time": "2023-07-23T10:00:09.000Z",
+                            "news_keywords": "International relations,US Foreign Policy,Military,Russian Invasion of Ukraine (2022),Diplomats Embassies and Consulates,War Crimes;Genocide;Crimes Against Humanity,United States Agency for International Development,Samantha Power,Ukraine,Russia",
+                            "article:content_tier": "metered",
+                            "msapplication-starturl": "https://www.nytimes.com",
+                            "image": "https://static01.nyt.com/images/2023/07/23/multimedia/23stephens-vzkh/23stephens-vzkh-facebookJumbo.jpg?year=2023&h=550&w=1050&s=f9d0b2fe9276a4292bc49d15c78a9b3abbb069e5fb1c9652dd06d0b88ec08292&k=ZQJBKqZ0VN",
+                            "og:type": "article",
+                            "og:image:alt": "People walking last week amid the tanks and vehicles left as a memorial to the war outside St Mykhalo’s Monastery in Kyiv, Ukraine.",
+                            "twitter:title": "Opinion | What I Learned in Ukraine (Published 2023)",
+                            "article:section": "Opinion",
+                            "cg": "opinion",
+                            "pubp_event_id": "pubp://event/49184173447d481ea72a186d9483d9c5",
+                            "og:title": "Opinion | What I Learned in Ukraine (Published 2023)",
+                            "cn": "bret-stephens",
+                            "url": "https://www.nytimes.com/2023/07/23/opinion/ukraine-war-russia.html",
+                            "article:tag": "International Relations",
+                            "al:iphone:url": "nytimes://www.nytimes.com/2023/07/23/opinion/ukraine-war-russia.html",
+                            "al:android:url": "nyt://article/6a46bff6-5958-5045-9c48-0a654ca9a2e8",
+                            "twitter:app:url:googleplay": "nyt://article/6a46bff6-5958-5045-9c48-0a654ca9a2e8",
+                            "al:ipad:url": "nytimes://www.nytimes.com/2023/07/23/opinion/ukraine-war-russia.html",
+                            "byl": "By Bret Stephens",
+                            "twitter:description": "Memo from a nation of closed skies, air-raid apps and bustling urban life.",
+                            "al:iphone:app_store_id": "284862083",
+                            "og:url": "https://www.nytimes.com/2023/07/23/opinion/ukraine-war-russia.html",
+                            "al:android:app_name": "NYTimes",
+                            "article:opinion": "true"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static01.nyt.com/images/2023/07/23/multimedia/23stephens-vzkh/23stephens-vzkh-facebookJumbo.jpg?year=2023&h=550&w=1050&s=f9d0b2fe9276a4292bc49d15c78a9b3abbb069e5fb1c9652dd06d0b88ec08292&k=ZQJBKqZ0VN"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... answer.\nI learned how strange it is to visit a country to which no plane flies and, as of last Monday, no ship sails — thanks to Vladimir Putin’s cruel and cynical withdrawal from the Black Sea Grain Initiative through which Ukrainian farm products reached hungry countries like Kenya, Lebanon and Somalia. The only feasible way for a visitor to get from the Polish border to Kyiv is a nine-hour train ride, where the sign inside the carriage door urges, “Be Brave Like Ukraine.”\nI learned that you need to download the Air Alert! app to your smartphone as soon as you enter the country. It sounds an alarm every time the system detects drones, missiles or other incoming aerial threats in your vicinity, something that happened time and again during my short stay. Following the alarm, a recording — in English by the  — intones: “Proceed to the nearest shelter. Don’t be careless. Your overconfidence is your weakness.”\nI learned that Kyiv is hopping. Despite what the U.S. Embassy says have been 1,620 missile and drone attacks on the city — and despite an economy that contracted  in the first year of the war — cars jam the roads, people dine in outdoor cafes on well-swept sidewalks and activists, civil servants and elected officials freely share divergent views with visiting columnists. To adapt a phrase attributed to Yitzhak Rabin, Ukrainians are going about their everyday lives as if there is no war, while waging war as if there is no everyday life.\nI learned that every member of the American Embassy staff in Kyiv, led by our courageous and cleareyed ambassador, Bridget Brink, volunteered for the duty. They have been separated from their families and living for months on end in hotel rooms. They have the job of overseeing one of the largest U.S. assistance efforts since the Marshall Plan, ensuring that tens of thousands of individual pieces of American military hardware in Ukrainian hands are properly accounted for, reconstituting an embassy that was gutted on the eve of Russia’s invasion and keeping tabs on Russian war crimes — some 95,000 of which have been documented so far by the Ukrainian prosecutor general’s office.\nI learned what it was like to sit in conference rooms and walk along corridors that would soon be shattered by Russian ordnance. On Tuesday, I joined a diplomatic group led by Administrator Samantha Power of the United States Agency for International Development on a visit to the port of Odesa. Power met first with Ukrainian officials to discuss logistical options for their exports after Putin’s withdrawal from the grain agreement, then with farmers to discuss issues like de-mining their fields and...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Opinion | A Trip to Ukraine Clarified the Stakes. And They're Huge ...",
+                "htmlTitle": "Opinion | A Trip to <b>Ukraine</b> Clarified the Stakes. And They&#39;re Huge ...",
+                "link": "https://www.nytimes.com/2023/09/15/opinion/ukraine-war-putin.html",
+                "displayLink": "www.nytimes.com",
+                "snippet": "Sep 15, 2023 ... Nearly every Ukrainian I spoke to in Kyiv was at once exhausted by the war and passionately determined to recover every inch of their Russian- ...",
+                "htmlSnippet": "Sep 15, 2023 <b>...</b> Nearly every <b>Ukrainian</b> I spoke to in <b>Kyiv</b> was at once exhausted by the <b>war</b> and passionately determined to recover every inch of their Russian-&nbsp;...",
+                "formattedUrl": "https://www.nytimes.com/2023/09/15/opinion/ukraine-war-putin.html",
+                "htmlFormattedUrl": "https://www.nytimes.com/2023/09/15/opinion/ukraine-<b>war</b>-putin.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS28LU1CPV8YSAGBYSqj0dyO2oFuY4VUEnn6Ay40GHVvEFEeG5LpX58-X8&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static01.nyt.com/images/2023/09/17/multimedia/15friedman-vlfk/15friedman-vlfk-facebookJumbo.jpg",
+                            "nyt_uri": "nyt://article/aa4bc2de-0204-5fdd-853d-d4e90b7a183e",
+                            "twitter:app:id:googleplay": "com.nytimes.android",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-09-15T09:03:14.000Z",
+                            "pt": "article",
+                            "twitter:url": "https://www.nytimes.com/2023/09/15/opinion/ukraine-war-putin.html",
+                            "pdate": "20230915",
+                            "articleid": "100000009086342",
+                            "al:android:package": "com.nytimes.android",
+                            "al:ipad:app_store_id": "357066198",
+                            "twitter:app:name:googleplay": "NYTimes",
+                            "og:description": "Ukraine is a game-changer for the West, rivaling the importance of German unification, and the European Union is the key.",
+                            "twitter:image": "https://static01.nyt.com/images/2023/09/17/multimedia/15friedman-vlfk/15friedman-vlfk-videoSixteenByNine3000-v2.jpg",
+                            "pst": "Op-Ed",
+                            "twitter:image:alt": "Destroyed Russian military equipment is exhibited in Kyiv at St. Michael’s Golden Domed Monastery.",
+                            "al:iphone:app_name": "NYTimes",
+                            "article:modified_time": "2023-09-15T22:41:18.000Z",
+                            "news_keywords": "Russian Invasion of Ukraine (2022),Russia,Vladimir Putin,Ukraine,Volodymyr Zelensky,EU,NATO,Military",
+                            "article:content_tier": "metered",
+                            "msapplication-starturl": "https://www.nytimes.com",
+                            "image": "https://static01.nyt.com/images/2023/09/17/multimedia/15friedman-vlfk/15friedman-vlfk-facebookJumbo.jpg",
+                            "og:type": "article",
+                            "og:image:alt": "Destroyed Russian military equipment is exhibited in Kyiv at St. Michael’s Golden Domed Monastery.",
+                            "twitter:title": "Opinion | A Trip to Ukraine Clarified the Stakes. And They’re Huge.",
+                            "article:section": "Opinion",
+                            "cg": "opinion",
+                            "pubp_event_id": "pubp://event/8ccc40a856c044c0b514f2eef8399066",
+                            "og:title": "Opinion | A Trip to Ukraine Clarified the Stakes. And They’re Huge.",
+                            "cn": "thomas-l-friedman",
+                            "article:author": "https://www.nytimes.com/by/thomas-l-friedman",
+                            "url": "https://www.nytimes.com/2023/09/15/opinion/ukraine-war-putin.html",
+                            "article:tag": "Russian Invasion of Ukraine (2022)",
+                            "al:iphone:url": "nytimes://www.nytimes.com/2023/09/15/opinion/ukraine-war-putin.html",
+                            "al:android:url": "nyt://article/aa4bc2de-0204-5fdd-853d-d4e90b7a183e",
+                            "twitter:app:url:googleplay": "nyt://article/aa4bc2de-0204-5fdd-853d-d4e90b7a183e",
+                            "al:ipad:url": "nytimes://www.nytimes.com/2023/09/15/opinion/ukraine-war-putin.html",
+                            "byl": "By Thomas L. Friedman",
+                            "twitter:description": "Ukraine is a game-changer for the West, rivaling the importance of German unification, and the European Union is the key.",
+                            "al:iphone:app_store_id": "284862083",
+                            "og:url": "https://www.nytimes.com/2023/09/15/opinion/ukraine-war-putin.html",
+                            "al:android:app_name": "NYTimes",
+                            "article:opinion": "true"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static01.nyt.com/images/2023/09/17/multimedia/15friedman-vlfk/15friedman-vlfk-facebookJumbo.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... will load.\nThomas L. Friedman\n!\nDestroyed Russian military equipment is exhibited in Kyiv at St. Michael’s Golden Domed Monastery.Credit...Emile Ducke for The New York Times\nWhile visiting Kyiv last week, my first trip to Ukraine since Vladimir Putin’s invasion in February 2022, I tried to get my exercise every morning by walking the grounds of St. Michael’s Golden Domed Monastery. Its serenity, though, has been disrupted by a jarring exhibit of destroyed Russian tanks and armored personnel carriers. During my walks, I’d poke my head into these jagged, rocket-pierced hulks, wondering what terrible death must have come to the Russian soldiers operating them.\nBut the shock of this tangled mass of rusting steel, sitting in the middle of this grand, whitish-stone piazza, evoked a different image in my mind’s eye: a meteor.\nIt looked as if a giant meteor had plummeted from space, disrupting life as we knew it — nearly eight decades without a “great power” war in Europe, a continent where centuries of invasions and conquest had given way to security and prosperity. Now we have this ugly pile sitting here in our midst, smoldering, and we, both Ukrainians and the world community, are struggling with how to deal with it.\nNearly every Ukrainian I spoke to in Kyiv was at once exhausted by the war and passionately determined to recover every inch of their Russian-occupied territory — but no one had clear answers about the road ahead, the painful trade-offs that await, only certainty that defeat would mean an end to Ukraine’s democratic dream and a smashing of the post-World War II era that had produced a Europe more whole and free than ever before in its history.\nWhat Putin is doing in Ukraine is not just reckless, not just a war of choice, not just an invasion in a class of its own for overreach, mendacity, immorality and incompetence, all wrapped in a farrago of lies. What he is doing is evil. He has trumped up any number of shifting justifications — one day it was removing a Nazi regime in power in Kyiv, the next it was preventing NATO expansion, the next it was fending off a Western cultural invasion of Russia — for what ultimately was a personal flight of fancy that now requires his superpower army turning to North Korea for help. It’s like the biggest bank in town having to ask the local pawnshop for a loan. So much for Putin’s bare-chested virility.\n* * *\nThank you for your patience while we verify access. If you are in Reader mode please exit and  your Times account, or  for all of The Times.\n* * *\nThank you for your patience while we verify access.\nAlready a subscriber? .\nWant all of The Times? .\nAdvertisement",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Opinion | While Ukrainian Writers Read Poems, Russian Military ...",
+                "htmlTitle": "Opinion | While <b>Ukrainian</b> Writers Read Poems, Russian <b>Military</b> ...",
+                "link": "https://www.nytimes.com/2022/03/13/opinion/ukraine-odessa-poems.html",
+                "displayLink": "www.nytimes.com",
+                "snippet": "Mar 13, 2022 ... Why are so many turning to poetry during this war?",
+                "htmlSnippet": "Mar 13, 2022 <b>...</b> Why are so many turning to poetry <b>during</b> this <b>war</b>?",
+                "formattedUrl": "https://www.nytimes.com/2022/03/13/opinion/ukraine-odessa-poems.html",
+                "htmlFormattedUrl": "https://www.nytimes.com/2022/03/13/opinion/ukraine-odessa-poems.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXYhVtM1cqL6jrH2QdRpyTNh-HnAnApnLfUsRI8fF_-X6xCaX4YLTC1wKM&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static01.nyt.com/images/2022/03/13/opinion/13kaminsky/13kaminsky-facebookJumbo.jpg?year=2022&h=550&w=1050&s=c9e2bf4cf7c6e845695a9cb79111dba279755047d84fc68c1532a3e9763eaedd&k=ZQJBKqZ0VN",
+                            "nyt_uri": "nyt://article/8f672851-bd06-5452-8466-4669d6a408a3",
+                            "twitter:app:id:googleplay": "com.nytimes.android",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2022-03-13T10:00:09.000Z",
+                            "pt": "article",
+                            "twitter:url": "https://www.nytimes.com/2022/03/13/opinion/ukraine-odessa-poems.html",
+                            "pdate": "20220313",
+                            "articleid": "100000008246304",
+                            "al:android:package": "com.nytimes.android",
+                            "twitter:app:name:googleplay": "NYTimes",
+                            "og:description": "Why are so many turning to poetry during this war?",
+                            "twitter:image": "https://static01.nyt.com/images/2022/03/13/opinion/13kaminsky/13kaminsky-videoSixteenByNineJumbo1600.jpg?year=2022&h=900&w=1600&s=fc1af05961db45aa4a7d0a353372c8c18e98fb4f970b3705cf0b31e9d86ffdda&k=ZQJBKqZ0VN&tw=1",
+                            "pst": "Op-Ed",
+                            "al:iphone:app_name": "NYTimes",
+                            "article:modified_time": "2022-03-14T02:51:51.065Z",
+                            "news_keywords": "Poetry,Russian Invasion of Ukraine (2022),Military,Russian language,Politics,Books,Language,Vladimir Putin,Odessa Ukraine,Russia,Ukraine,US,Soviet Union",
+                            "article:content_tier": "metered",
+                            "msapplication-starturl": "https://www.nytimes.com",
+                            "image": "https://static01.nyt.com/images/2022/03/13/opinion/13kaminsky/13kaminsky-facebookJumbo.jpg?year=2022&h=550&w=1050&s=c9e2bf4cf7c6e845695a9cb79111dba279755047d84fc68c1532a3e9763eaedd&k=ZQJBKqZ0VN",
+                            "og:type": "article",
+                            "twitter:title": "Opinion | Poems in a Time of Crisis (Published 2022)",
+                            "article:section": "Opinion",
+                            "cg": "opinion",
+                            "pubp_event_id": "pubp://event/43355b48d959406db797aaf48713d1fb",
+                            "og:title": "Opinion | Poems in a Time of Crisis (Published 2022)",
+                            "url": "https://www.nytimes.com/2022/03/13/opinion/ukraine-odessa-poems.html",
+                            "article:tag": "Poetry and Poets",
+                            "al:iphone:url": "nytimes://www.nytimes.com/2022/03/13/opinion/ukraine-odessa-poems.html",
+                            "al:android:url": "nyt://article/8f672851-bd06-5452-8466-4669d6a408a3",
+                            "twitter:app:url:googleplay": "nyt://article/8f672851-bd06-5452-8466-4669d6a408a3",
+                            "al:ipad:url": "nytimes://www.nytimes.com/2022/03/13/opinion/ukraine-odessa-poems.html",
+                            "byl": "By Ilya Kaminsky",
+                            "twitter:description": "Why are so many turning to poetry during this war?",
+                            "al:iphone:app_store_id": "284862083",
+                            "og:url": "https://www.nytimes.com/2022/03/13/opinion/ukraine-odessa-poems.html",
+                            "al:android:app_name": "NYTimes",
+                            "article:opinion": "true"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static01.nyt.com/images/2022/03/13/opinion/13kaminsky/13kaminsky-facebookJumbo.jpg?year=2022&h=550&w=1050&s=c9e2bf4cf7c6e845695a9cb79111dba279755047d84fc68c1532a3e9763eaedd&k=ZQJBKqZ0VN"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... of “Dancing in Odessa” and “Deaf Republic.”\nTwo weeks into the war, the Russians are still menacing , in southwestern Ukraine. It sits on high bluffs above the Black Sea, its famous steps leading from the water to a square.\nI don’t want to imagine soldiers chasing civilians through my city. Some part of my brain turns it into a farce, based on something I remember from my own childhood: In 1984, in a village just outside Odessa, I’m a 7-year-old deaf boy running in the government’s corn field. Behind me, waving his arms, runs a policeman. My grandmother, in her 60s, sprints in front of me.\nWe are stealing corn from the government, my grandmother and I. We get away, and we don’t stop at corn. A different day, Grandmother hauls me up onto the roof of the state farm so my long arms can reach into the branches of the plum trees. Her lips say, “Pick only the ripest.” She makes jam. Years later, I read the Russian poet Inna Kabysh: “Whoever is making a jam in Russia / knows there is no way out.”\nNow I spend most of every day online, in America, trying to find ways out for Ukrainian poets and translators. Many literary organizations are willing to open their doors, bring in refugees, but unlike my grandmother and me, lots of Ukrainians writers don’t want to leave. They want their freedoms. They want their own languages — Ukrainian _and_ Russian — in their own streets. I understand. My Jewish family keeps running from Odessa — and then returning.\nSince the war began, I have received emails from journalists asking me to  “We Lived Happily During the War,” which went viral on the day Vladimir Putin’s troops began bombing my birth country. The poem was published on Poetry International in 2013, the same year the Maidan protests began in Ukraine. Viktor Yanukovych, Ukraine’s president at the time, was trying to lean closer to Putin and crush protests. Ukrainians rejected him; Putin stole Crimea; and the war in Donbas began.\n“We lived happily during the war,” the poem begins, “and when they bombed other people’s houses, we / protested / but not enough, we opposed them but not / enough.” As I was writing the poem, my adopted country, the United States, was in the middle of its own “freedom” campaigns.\n* * *\nThank you for your patience while we verify access. If you are in Reader mode please exit and...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "How life in Ukraine has been shattered by two years of war | Reuters",
+                "htmlTitle": "How <b>life</b> in <b>Ukraine</b> has been shattered by two years of <b>war</b> | Reuters",
+                "link": "https://www.reuters.com/world/europe/how-life-ukraine-has-been-shattered-by-two-years-war-2024-02-22/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Feb 22, 2024 ... Alona Onyshchuk and her five-year-old daughter Anhelina visited Lozuvatka's graveyard on a snowswept winter's day. ... among households and ...",
+                "htmlSnippet": "Feb 22, 2024 <b>...</b> Alona Onyshchuk and her five-year-old daughter Anhelina visited Lozuvatka&#39;s graveyard on a snowswept winter&#39;s <b>day</b>. ... <b>among</b> households and&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/.../how-life-ukraine-has-been-shattered-by-two-ye...",
+                "htmlFormattedUrl": "https://www.reuters.com/.../how-<b>life</b>-ukraine-has-been-shattered-by-two-ye...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxLU8NzA4NIUD_p5nlqUPRZ-SCY5pBSRXKM_J0-62nYcU2KSFP2zI8LPLV&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/world/europe/how-life-ukraine-has-been-shattered-by-two-years-war-2024-02-22/?id=TIKVFA63SNMI5GVXCM66SWBEVQ",
+                            "og:image": "https://www.reuters.com/resizer/v2/4PXKQIQLKNIILHARO5VBI6QH64.jpg?auth=e1a119588a2858604ffee70719a64db161c30b2f5a86f0def5008acf6d44fcf8&height=1005&width=1920&quality=80&smart=true",
+                            "analytics:page_layout": "regular-article",
+                            "article:published_time": "2024-02-22T10:27:42Z",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Reuters",
+                            "ccbot": "nofollow",
+                            "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                            "analyticsattributes.topicchannel": "World",
+                            "title": "How life in Ukraine has been shattered by two years of war | Reuters",
+                            "og:description": "Wives have become widows, parents long for captured sons, classrooms are empty and farmers can't find the hands to work the land. Unlikely friendships have formed; old ones have fallen apart.",
+                            "twitter:creator": "@Reuters",
+                            "twitter:image": "https://www.reuters.com/resizer/v2/4PXKQIQLKNIILHARO5VBI6QH64.jpg?auth=e1a119588a2858604ffee70719a64db161c30b2f5a86f0def5008acf6d44fcf8&height=1005&width=1920&quality=80&smart=true",
+                            "twitter:image:alt": "Yurii, 53, and Tetiana, 51, Terletski attend a rally of families of Ukrainian prisoners of war (POWs) calling to return their relatives from Russian captivity, with a poster about their son Denys, 29, a serviceman of the National Guard of Ukraine, amid Russia's attack on Ukraine, in Kryvyi Rih, Dnipropetrovsk region, Ukraine, January 21, 2024. REUTERS/Alina Smutko",
+                            "twitter:site": "@Reuters",
+                            "article:modified_time": "2024-02-22T10:28:13.746Z",
+                            "render_timestamp": "2024-07-29T08:01:59.296Z",
+                            "fb:admins": "988502044532272",
+                            "article:content_tier": "metered",
+                            "og:type": "article",
+                            "article:section": "Europe",
+                            "og:image:alt": "Yurii, 53, and Tetiana, 51, Terletski attend a rally of families of Ukrainian prisoners of war (POWs) calling to return their relatives from Russian captivity, with a poster about their son Denys, 29, a serviceman of the National Guard of Ukraine, amid Russia's attack on Ukraine, in Kryvyi Rih, Dnipropetrovsk region, Ukraine, January 21, 2024. REUTERS/Alina Smutko",
+                            "twitter:title": "How life in Ukraine has been shattered by two years of war",
+                            "ad:template": "article",
+                            "og:image:url": "https://www.reuters.com/resizer/v2/4PXKQIQLKNIILHARO5VBI6QH64.jpg?auth=e1a119588a2858604ffee70719a64db161c30b2f5a86f0def5008acf6d44fcf8&height=1005&width=1920&quality=80&smart=true",
+                            "dcsext.dartzone": "/4735792/reuters.com/world/europe/article",
+                            "og:title": "How life in Ukraine has been shattered by two years of war",
+                            "dcsext.channellist": "World;Commodities",
+                            "og:image:height": "628",
+                            "og:article:published_time": "2024-02-22T10:27:42Z",
+                            "fb:pages": "114050161948682",
+                            "article:author": "Charlotte Bruneau",
+                            "article:tag": "RSBI:HUMAN-RIGHTS,RULES:UKRAINE-EVERGREEN,RULES:UKRAINE-CRISIS,RULES:BS5,INSGHT,MTVID,HLF,MTPIX,HLS,EREP,AGRI,ANLINS,CIV,COM,CWP,DIP,EU,FARM,FOBE,FOTB,GEN,GRA,HEA,HRGT,IMM,INTAG,NCYC,NEWS1,POL,VIO,WAR,CEEU,EUROP,UA,RU,NASIA,EMEA,ASXPAC,CISC,EMRG,ASIA",
+                            "analyticsattributes.topicsubchannel": "Europe",
+                            "fb:app_id": "988502044532272",
+                            "og:locale:alternate": "en_US",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Wives have become widows, parents long for captured sons, classrooms are empty and farmers can't find the hands to work the land. Unlikely friendships have formed; old ones have fallen apart.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/world/europe/how-life-ukraine-has-been-shattered-by-two-years-war-2024-02-22/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/resizer/v2/4PXKQIQLKNIILHARO5VBI6QH64.jpg?auth=e1a119588a2858604ffee70719a64db161c30b2f5a86f0def5008acf6d44fcf8&height=1005&width=1920&quality=80&smart=true"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/world/europe/how-life-ukraine-has-been-shattered-by-two-years-war-2024-02-22/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.reuters.com/world/europe/how-life-ukraine-has-been-shattered-by-two-years-war-2024-02-22/",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Opinion | Corruption Is an Existential Threat to Ukraine, and ...",
+                "htmlTitle": "Opinion | Corruption Is an Existential <b>Threat</b> to <b>Ukraine</b>, and ...",
+                "link": "https://www.nytimes.com/2023/09/10/opinion/ukraine-war-corruption.html",
+                "displayLink": "www.nytimes.com",
+                "snippet": "Sep 10, 2023 ... Ukraine is making progress, no small feat in the middle of a hot war. But it is still ranked the second most corrupt country in Europe, after ...",
+                "htmlSnippet": "Sep 10, 2023 <b>...</b> <b>Ukraine</b> is making progress, no small feat in the middle of a hot <b>war</b>. But it is still ranked the second most corrupt country in Europe, after&nbsp;...",
+                "formattedUrl": "https://www.nytimes.com/2023/09/10/.../ukraine-war-corruption.html",
+                "htmlFormattedUrl": "https://www.nytimes.com/2023/09/10/.../ukraine-<b>war</b>-corruption.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPsXgn6MgzD9svSL5Es5JUSHt72-eGvZ2eWtB1-vcc4y6OWzwO5lxF5HX0&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static01.nyt.com/images/2023/09/13/multimedia/10stockman1-btwf/10stockman1-btwf-facebookJumbo.jpg",
+                            "nyt_uri": "nyt://article/853eadd8-365a-5d13-bb7c-403d98c0ffda",
+                            "twitter:app:id:googleplay": "com.nytimes.android",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-09-10T10:00:14.000Z",
+                            "pt": "article",
+                            "twitter:url": "https://www.nytimes.com/2023/09/10/opinion/ukraine-war-corruption.html",
+                            "pdate": "20230910",
+                            "articleid": "100000009075469",
+                            "al:android:package": "com.nytimes.android",
+                            "twitter:app:name:googleplay": "NYTimes",
+                            "og:description": "The fight against it amounts to a second front in Ukraine’s existential war against Russia.",
+                            "twitter:image": "https://static01.nyt.com/images/2023/09/13/multimedia/10stockman1-btwf/10stockman1-btwf-videoSixteenByNine3000.jpg",
+                            "pst": "Op-Ed",
+                            "twitter:image:alt": "The Motherland Monument in Kyiv, Ukraine.",
+                            "al:iphone:app_name": "NYTimes",
+                            "article:modified_time": "2023-09-14T14:38:10.447Z",
+                            "news_keywords": "Corruption,Ukraine,Politics,Inspector General,International relations,Military,Russian Invasion of Ukraine (2022),Democracy,Transparency International,Igor V. Kolomoisky",
+                            "article:content_tier": "metered",
+                            "msapplication-starturl": "https://www.nytimes.com",
+                            "image": "https://static01.nyt.com/images/2023/09/13/multimedia/10stockman1-btwf/10stockman1-btwf-facebookJumbo.jpg",
+                            "og:type": "article",
+                            "og:image:alt": "The Motherland Monument in Kyiv, Ukraine.",
+                            "twitter:title": "Opinion | Corruption Is an Existential Threat to Ukraine, and Ukrainians Know It",
+                            "article:section": "Opinion",
+                            "cg": "opinion",
+                            "pubp_event_id": "pubp://event/55f9d2efca7b4668899f6ebf0e453394",
+                            "og:title": "Opinion | Corruption Is an Existential Threat to Ukraine, and Ukrainians Know It",
+                            "article:author": "https://www.nytimes.com/by/farah-stockman",
+                            "url": "https://www.nytimes.com/2023/09/10/opinion/ukraine-war-corruption.html",
+                            "article:tag": "Corruption (Institutional)",
+                            "al:iphone:url": "nytimes://www.nytimes.com/2023/09/10/opinion/ukraine-war-corruption.html",
+                            "al:android:url": "nyt://article/853eadd8-365a-5d13-bb7c-403d98c0ffda",
+                            "twitter:app:url:googleplay": "nyt://article/853eadd8-365a-5d13-bb7c-403d98c0ffda",
+                            "al:ipad:url": "nytimes://www.nytimes.com/2023/09/10/opinion/ukraine-war-corruption.html",
+                            "byl": "By Farah Stockman",
+                            "twitter:description": "The fight against it amounts to a second front in Ukraine’s existential war against Russia.",
+                            "al:iphone:app_store_id": "284862083",
+                            "og:url": "https://www.nytimes.com/2023/09/10/opinion/ukraine-war-corruption.html",
+                            "al:android:app_name": "NYTimes",
+                            "article:opinion": "true"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static01.nyt.com/images/2023/09/13/multimedia/10stockman1-btwf/10stockman1-btwf-facebookJumbo.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Advertisement\nSupported by\nFarah Stockman\nBy Farah Stockman\nMs. Stockman is a member of the editorial board who has reported from Afghanistan.\nPresident Biden talks of the world being divided into autocracies and democracies. But a more important division exists: between kleptocracies, where leaders treat their nations like personal piggy banks, and places where corruption is the exception rather than the rule.\nSince 2014, Ukrainians have been fighting to drag their country into that second category. The Maidan revolution, which sent a pro-Russian president packing, wasn’t just about freeing Ukraine from Russian influence. It was also about breaking the stranglehold of oligarchs who — as in so many former Soviet republics — controlled everything from television stations to the politicians on ballots. The fight against corruption amounts to a second front in Ukraine’s war against Russia.\nUkraine is making progress, no small feat in the middle of a hot war. But it is still ranked the second most corrupt country in Europe, after Russia, according to Transparency International. Since the February 2022 Russian invasion, a host of characters — from arms dealers to suppliers of soldiers’ meals — has stood to reap big profits, creating vested interests in prolonging the conflict.\nCorruption has been the elephant in the room since the invasion — an unpopular subject in Washington, since it risks undermining the American support that Ukraine desperately needs.\nBut guess who hasn’t shied away from calling out corruption in Ukraine? Ukrainians. No one knows better what an existential threat corruption can be, sapping the public trust and the legitimacy of the state. Ukrainians consider corruption the country’s second-most-serious problem, behind only the Russian invasion, according to a poll conducted by the Kyiv International Institute of Sociology this year. They know that they must root out money laundering and the influence of oligarchs as a condition of joining the European Union. Since the war started, the percentage of Ukrainians who say they are willing to stand up for their rights when they interact with bureaucrats doubled — from 26 percent in 2021 to 52...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Restaurants bustle, new bookshops open, the air raid app goes off ...",
+                "htmlTitle": "Restaurants bustle, new bookshops open, the air raid app goes off ...",
+                "link": "https://www.theguardian.com/commentisfree/2024/feb/24/kyiv-russia-ukrainians-ukraine",
+                "displayLink": "www.theguardian.com",
+                "snippet": "Feb 24, 2024 ... As Russia seeks to destroy our way of life, Ukrainian efforts to keep society going should never be taken for granted, says Ukrainian ...",
+                "htmlSnippet": "Feb 24, 2024 <b>...</b> As Russia seeks to destroy our way of <b>life</b>, <b>Ukrainian</b> efforts to keep society going should never be taken for granted, says <b>Ukrainian</b>&nbsp;...",
+                "formattedUrl": "https://www.theguardian.com/.../2024/feb/.../kyiv-russia-ukrainians-ukraine",
+                "htmlFormattedUrl": "https://www.theguardian.com/.../2024/feb/.../<b>kyiv</b>-russia-ukrainians-ukraine",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7iWfI7uLMmL_7j0s7OtIlmVHuCYxx1-yCPNyXwalRE0x4Sy3UfK8c4Vk&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.guim.co.uk/img/media/2be432976fa84217f0054b24faa80218f792c0e2/0_224_6720_4032/master/6720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=117769b9521014b2ca9322fda74e28d9",
+                            "twitter:app:id:googleplay": "com.guardian",
+                            "twitter:app:url:iphone": "gnmguardian://commentisfree/2024/feb/24/kyiv-russia-ukrainians-ukraine?contenttype=Article&source=twitter",
+                            "theme-color": "#052962",
+                            "og:image:width": "1200",
+                            "article:published_time": "2024-02-24T07:00:22.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "the Guardian",
+                            "twitter:app:url:ipad": "gnmguardian://commentisfree/2024/feb/24/kyiv-russia-ukrainians-ukraine?contenttype=Article&source=twitter",
+                            "twitter:app:name:googleplay": "The Guardian",
+                            "al:ios:url": "gnmguardian://commentisfree/2024/feb/24/kyiv-russia-ukrainians-ukraine?contenttype=Article&source=applinks",
+                            "twitter:app:id:iphone": "409128287",
+                            "og:description": "As Russia seeks to destroy our way of life, Ukrainian efforts to keep society going should never be taken for granted, says Ukrainian journalist Nataliya Gumenyuk",
+                            "article:publisher": "https://www.facebook.com/theguardian",
+                            "al:ios:app_store_id": "409128287",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://i.guim.co.uk/img/media/2be432976fa84217f0054b24faa80218f792c0e2/0_224_6720_4032/master/6720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&s=0ff00073fd4faba618049441db252fc1",
+                            "twitter:site": "@guardian",
+                            "article:modified_time": "2024-02-24T16:42:42.000Z",
+                            "og:type": "article",
+                            "article:section": "Opinion",
+                            "al:ios:app_name": "The Guardian",
+                            "og:title": "Restaurants bustle, new bookshops open, the air raid app goes off. This is our defiant reality in Kyiv | Nataliya Gumenyuk",
+                            "og:image:height": "720",
+                            "twitter:app:id:ipad": "409128287",
+                            "article:author": "https://www.theguardian.com/profile/nataliya-gumenyuk",
+                            "article:tag": "Ukraine,Kyiv,Foreign policy,Politics,Europe,Society,Russia",
+                            "fb:app_id": "180444840287",
+                            "twitter:app:url:googleplay": "guardian://www.theguardian.com/commentisfree/2024/feb/24/kyiv-russia-ukrainians-ukraine",
+                            "twitter:app:name:ipad": "The Guardian",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                            "og:url": "https://www.theguardian.com/commentisfree/2024/feb/24/kyiv-russia-ukrainians-ukraine",
+                            "twitter:app:name:iphone": "The Guardian"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.guim.co.uk/img/media/2be432976fa84217f0054b24faa80218f792c0e2/0_224_6720_4032/master/6720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=117769b9521014b2ca9322fda74e28d9"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... normal during the daytime, but at night it’s a different story. This is when most of the attacks take place. By now, people have figured out how to navigate these risks: there is a state alert, and multiple Telegram channels indicating the levels of danger depending on the types of weapons involved. We all know it’s riskier to reside on the top floors, have large windows, or live in the neighbourhoods situated close to power substations.\nThe official alert app warning of air raids tells us, borrowing from Luke Skywalker: “Don’t be careless. Your overconfidence is your weakness.” Usually it’s not overconfidence that puts people at risk but exhaustion, after a string of sleepless nights forces you to snooze the air alert as if it were a regular alarm. Once you get an alert, you stay glued to your mobile phone, searching for which neighbourhood has been targeted. We’re forbidden from publishing the precise address of attacks until hours have passed; doing so could give the Russians the opportunity to make a more precise strike. So we message our relatives, colleagues and friends, hoping for the response: “It was far away. We’re in the shelter.”\nThe following day, unexpected sounds will startle you. But pursuing a normal working day after such a night is a matter of dignity. When Russia wants to destroy our way of life, living itself becomes an act of defiance. Ukrainians are the victims of Russian aggression, but being perceived as victims feels unpleasant, especially when you’re fighting back. These signs of resilience have perhaps made outsiders take for granted the efforts that Ukrainians are making to keep our state and society functioning. It takes all the running we can do simply to stand still.\nAcknowledging this collective exhaustion may seem like admitting weakness – as if our international audience expects Ukrainians to demonstrate their successes in their flawless fight against Goliath. Our country finds itself in an impossible position, where we are expected to show that we’re in control, while simultaneously making it clear how critical the situation is. Delays with weapons deliveries mean our armed forces are lacking ammunition. Foreign aid – financial, humanitarian, military – is essential right now.\n!\nAt Kyiv’s wall of remembrance friends embrace Liudmyla (left) whose son was killed fighting Russian troops. Photograph: Roman Pilipey/AFP/Getty Images\nBut two years of imminent threat has taught Ukrainians the value of staying calm. Emotions do not help organise a life inside a permanent calamity. Western debates about the war with Russia can seem more emotional and dramatic than the discussions at...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Russia accuses Kyiv of election sabotage, Medvedev warns 'traitors ...",
+                "htmlTitle": "Russia accuses <b>Kyiv</b> of election sabotage, Medvedev warns &#39;traitors ...",
+                "link": "https://www.reuters.com/world/europe/ukraine-strikes-russian-city-refinery-day-two-presidential-vote-2024-03-16/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Mar 16, 2024 ... The war has cast a shadow over voting in the three-day presidential election, which is all but certain to hand Vladimir Putin six more years ...",
+                "htmlSnippet": "Mar 16, 2024 <b>...</b> The <b>war</b> has cast a shadow over voting in the three-<b>day</b> presidential election, which is all but certain to hand Vladimir Putin six more years&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/.../ukraine-strikes-russian-city-refinery-day-two-pr...",
+                "htmlFormattedUrl": "https://www.reuters.com/.../ukraine-strikes-russian-city-refinery-day-two-pr...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvDq8EukKK16kSa5_lcqG3vOPNAEQkFhAp-2zo2mfvdMNil0XvziXAZf-t&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/world/europe/ukraine-strikes-russian-city-refinery-day-two-presidential-vote-2024-03-16/?id=OREE6NDWCFMPBN3EMORNMGMI7A",
+                            "og:image": "https://www.reuters.com/resizer/v2/7MBZQWU6TVO5TOHTXFY5XDHFLA.jpg?auth=626960910a3893e8ba626f15733b4297c4093c6e6b83cc028ea56c6d1eb00e43&height=1005&width=1920&quality=80&smart=true",
+                            "analytics:page_layout": "regular-article",
+                            "article:published_time": "2024-03-16T22:52:16Z",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Reuters",
+                            "ccbot": "nofollow",
+                            "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                            "analyticsattributes.topicchannel": "World",
+                            "title": "Russia accuses Kyiv of election sabotage, Medvedev warns 'traitors' | Reuters",
+                            "og:description": "The war has cast a shadow over voting in the three-day presidential election, which is all but certain to hand Vladimir Putin six more years in the Kremlin, but has been marked by scattered acts of protest.",
+                            "twitter:creator": "@Reuters",
+                            "twitter:image": "https://www.reuters.com/resizer/v2/7MBZQWU6TVO5TOHTXFY5XDHFLA.jpg?auth=626960910a3893e8ba626f15733b4297c4093c6e6b83cc028ea56c6d1eb00e43&height=1005&width=1920&quality=80&smart=true",
+                            "twitter:image:alt": "A resident casts her vote in Avdiivka, Donetsk Region, Russian-controlled Ukraine, March 16, 2024. REUTERS/Alexander Ermochenko",
+                            "twitter:site": "@Reuters",
+                            "article:modified_time": "2024-03-16T22:52:46.099Z",
+                            "render_timestamp": "2024-07-29T13:51:40.623Z",
+                            "fb:admins": "988502044532272",
+                            "article:content_tier": "metered",
+                            "og:type": "article",
+                            "article:section": "Europe",
+                            "og:image:alt": "A resident casts her vote in Avdiivka, Donetsk Region, Russian-controlled Ukraine, March 16, 2024. REUTERS/Alexander Ermochenko",
+                            "twitter:title": "Russia accuses Kyiv of election sabotage, Medvedev warns 'traitors'",
+                            "ad:template": "article",
+                            "og:image:url": "https://www.reuters.com/resizer/v2/7MBZQWU6TVO5TOHTXFY5XDHFLA.jpg?auth=626960910a3893e8ba626f15733b4297c4093c6e6b83cc028ea56c6d1eb00e43&height=1005&width=1920&quality=80&smart=true",
+                            "dcsext.dartzone": "/4735792/reuters.com/technology/cybersec/article",
+                            "og:title": "Russia accuses Kyiv of election sabotage, Medvedev warns 'traitors'",
+                            "dcsext.channellist": "World;Commodities",
+                            "og:image:height": "628",
+                            "og:article:published_time": "2024-03-16T22:52:16Z",
+                            "fb:pages": "114050161948682",
+                            "article:author": "Reuters",
+                            "article:tag": "REPI:GRID-INFRASTRUCTURE,RULES:ELECTION-EXCLUDE-USA,RULES:ELECTION-EXCLUDE-USA,RULES:RUSSIA,MTVID,MTPIX,CLJ,COM,CRIM,CWP,ENR,FRAUD1,GEN,HACK,NEWS1,NRG,POL,REF,VOTE,VOTP,WAR,CEEU,EUROP,UA,RU,NASIA,EMEA,ASXPAC,CISC,EMRG,ASIA,PACKAGE:WORLD-NEWS,PACKAGE:US-TOP-NEWS,STAT,CMPNY,PRIVT,WEU,IT,EZC,TOPNWS,DIP,TOPCMB,VIO",
+                            "analyticsattributes.topicsubchannel": "Europe",
+                            "fb:app_id": "988502044532272",
+                            "og:locale:alternate": "en_US",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The war has cast a shadow over voting in the three-day presidential election, which is all but certain to hand Vladimir Putin six more years in the Kremlin, but has been marked by scattered acts of protest.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/world/europe/ukraine-strikes-russian-city-refinery-day-two-presidential-vote-2024-03-16/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/resizer/v2/7MBZQWU6TVO5TOHTXFY5XDHFLA.jpg?auth=626960910a3893e8ba626f15733b4297c4093c6e6b83cc028ea56c6d1eb00e43&height=1005&width=1920&quality=80&smart=true"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/world/europe/ukraine-strikes-russian-city-refinery-day-two-presidential-vote-2024-03-16/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.reuters.com/world/europe/ukraine-strikes-russian-city-refinery-day-two-presidential-vote-2024-03-16/",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Opinion | Russia. Invasion. And Poland's Very Long Memory. - The ...",
+                "htmlTitle": "Opinion | Russia. Invasion. And Poland&#39;s Very Long Memory. - The ...",
+                "link": "https://www.nytimes.com/2022/03/13/opinion/poland-russia-ukraine.html",
+                "displayLink": "www.nytimes.com",
+                "snippet": "Mar 13, 2022 ... The War Next Door · USTRZYKI DOLNE, Poland — Polish people know the pain of being invaded. · This crisis is fast becoming the largest humanitarian ...",
+                "htmlSnippet": "Mar 13, 2022 <b>...</b> The <b>War</b> Next Door &middot; USTRZYKI DOLNE, Poland — Polish people know the pain of being invaded. &middot; This crisis is fast becoming the largest humanitarian&nbsp;...",
+                "formattedUrl": "https://www.nytimes.com/2022/03/13/opinion/poland-russia-ukraine.html",
+                "htmlFormattedUrl": "https://www.nytimes.com/2022/03/13/opinion/poland-russia-ukraine.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwZc915kvnc2NOU2mRVkwGbWyuuskykNJ3vPSk1xbxDgsoviMZIEhSMODc&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static01.nyt.com/images/2022/03/14/opinion/12stockman-EDIT-1/12stockman-EDIT-1-facebookJumbo.jpg?year=2022&h=550&w=1050&s=4762fa6e2898612dcb3b4b240152f57b2c5e96317c175f8f941186931d6b6816&k=ZQJBKqZ0VN",
+                            "nyt_uri": "nyt://article/85eb7f36-14cf-5399-a4d2-e2014cfbd3b3",
+                            "twitter:app:id:googleplay": "com.nytimes.android",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2022-03-13T10:00:09.000Z",
+                            "pt": "article",
+                            "twitter:url": "https://www.nytimes.com/2022/03/13/opinion/poland-russia-ukraine.html",
+                            "pdate": "20220313",
+                            "articleid": "100000008243402",
+                            "al:android:package": "com.nytimes.android",
+                            "al:ipad:app_store_id": "357066198",
+                            "twitter:app:name:googleplay": "NYTimes",
+                            "og:description": "In Poland, people watch the unthinkable in Ukraine and worry about the future.",
+                            "twitter:image": "https://static01.nyt.com/images/2022/03/14/opinion/12stockman-EDIT-1/12stockman-EDIT-1-videoSixteenByNine3000.jpg?year=2022&h=1687&w=3000&s=fc3ceaad7df6ca274f10460263feeb349a1da10039f65c791a1c5ac776f391b8&k=ZQJBKqZ0VN&tw=1",
+                            "pst": "Op-Ed",
+                            "twitter:image:alt": "A group of refugees waiting for a bus to go to a reception area near the border crossing between Ustrzyki Dolne, Poland, and Ukraine.",
+                            "al:iphone:app_name": "NYTimes",
+                            "article:modified_time": "2022-04-06T15:23:19.357Z",
+                            "news_keywords": "Russian Invasion of Ukraine (2022),Refugees;Internally Displaced People,Immigration,Poland,Ukraine,Ustrzyki Dolne,Russia",
+                            "article:content_tier": "metered",
+                            "msapplication-starturl": "https://www.nytimes.com",
+                            "image": "https://static01.nyt.com/images/2022/03/14/opinion/12stockman-EDIT-1/12stockman-EDIT-1-facebookJumbo.jpg?year=2022&h=550&w=1050&s=4762fa6e2898612dcb3b4b240152f57b2c5e96317c175f8f941186931d6b6816&k=ZQJBKqZ0VN",
+                            "og:type": "article",
+                            "og:image:alt": "A group of refugees waiting for a bus to go to a reception area near the border crossing between Ustrzyki Dolne, Poland, and Ukraine.",
+                            "twitter:title": "Opinion | The War Next Door (Published 2022)",
+                            "article:section": "Opinion",
+                            "cg": "opinion",
+                            "pubp_event_id": "pubp://event/1c88114abc304bb683ad46848c8cb108",
+                            "og:title": "Opinion | The War Next Door (Published 2022)",
+                            "url": "https://www.nytimes.com/2022/03/13/opinion/poland-russia-ukraine.html",
+                            "article:tag": "Russian Invasion of Ukraine (2022)",
+                            "al:iphone:url": "nytimes://www.nytimes.com/2022/03/13/opinion/poland-russia-ukraine.html",
+                            "al:android:url": "nyt://article/85eb7f36-14cf-5399-a4d2-e2014cfbd3b3",
+                            "twitter:app:url:googleplay": "nyt://article/85eb7f36-14cf-5399-a4d2-e2014cfbd3b3",
+                            "fb:app_id": "9869919170",
+                            "al:ipad:url": "nytimes://www.nytimes.com/2022/03/13/opinion/poland-russia-ukraine.html",
+                            "byl": "By Farah Stockman and Davide Monteleone",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "In Poland, people watch the unthinkable in Ukraine and worry about the future.",
+                            "al:iphone:app_store_id": "284862083",
+                            "al:ipad:app_name": "NYTimes",
+                            "og:url": "https://www.nytimes.com/2022/03/13/opinion/poland-russia-ukraine.html",
+                            "al:android:app_name": "NYTimes",
+                            "article:opinion": "true"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static01.nyt.com/images/2022/03/14/opinion/12stockman-EDIT-1/12stockman-EDIT-1-facebookJumbo.jpg?year=2022&h=550&w=1050&s=4762fa6e2898612dcb3b4b240152f57b2c5e96317c175f8f941186931d6b6816&k=ZQJBKqZ0VN"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Advertisement\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\nFarah Stockman\nThe War Next Door\n-----------------\n!\nA group of refugees waiting for a bus to go to a reception area near the border crossing between Ustrzyki Dolne, Poland, and Ukraine.\nPhotographs by Davide Monteleone\nMs. Stockman is a member of the editorial board.\nUSTRZYKI DOLNE, Poland — Polish people know the pain of being invaded. This is what an opera singer told me as she handed out hot stew to Ukrainian refugees in a tent near the mountainous border between Ukraine and Poland on a chilly night in early March. She had planned to go skiing. She came here instead.\n“We were in the same situation in 1939,” said Susan Grey, the opera singer, referring to the Polish people during World War II. “We didn’t have such an opportunity to be welcomed. We didn’t have a place to go.”\nIt feels as if the entire country of Poland has joined the effort to welcome Ukrainian refugees. I met software developers and chief executives who had taken time off work to drive supplies to the border.  are offering free rooms, insurance companies free insurance. About  of Poles say that Poland should open its doors to Ukrainian refugees. It’s a stunning contrast with 2015, when the pope himself  Poland to accept Syrians fleeing civil war. Just over three months ago,  Iraqi and Syrian asylum seekers to push them back into Belarus.\nPolish people gave me many reasons that it’s different this time: “Ukrainians are neighbors.” “They are Christians.” “They are fellow...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Opinion | What It's Like on the Front Line in Ukraine - The New York ...",
+                "htmlTitle": "Opinion | What It&#39;s Like on the Front Line in <b>Ukraine</b> - The New York ...",
+                "link": "https://www.nytimes.com/2022/05/10/opinion/international-world/ukraine-russia-war-donbas.html",
+                "displayLink": "www.nytimes.com",
+                "snippet": "May 10, 2022 ... Home for Ukrainian soldiers on the front line. The artillery sound got louder. “Every day is like that,” Lt. Denis Gordiev, a platoon commander ...",
+                "htmlSnippet": "May 10, 2022 <b>...</b> Home for <b>Ukrainian</b> soldiers on the front line. The artillery sound got louder. “Every <b>day</b> is like that,” Lt. Denis Gordiev, a platoon commander&nbsp;...",
+                "formattedUrl": "https://www.nytimes.com/2022/05/10/.../ukraine-russia-war-donbas.html",
+                "htmlFormattedUrl": "https://www.nytimes.com/2022/05/10/.../ukraine-russia-<b>war</b>-donbas.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJkKukyhdfpTIlAqQoU-08VWeXuXN6r8nVu5N6KhL5i47ySvxsDLPQ-tGi&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static01.nyt.com/images/2022/05/12/opinion/10kozyreva/10kozyreva-facebookJumbo.jpg?year=2022&h=550&w=1050&s=d8a379832e8c14557d9139f2b6748da928bc88777cd1c1bedb8081eaf940d32a&k=ZQJBKqZ0VN",
+                            "nyt_uri": "nyt://article/eb8fac95-8e89-5e4a-b3bc-d519982a6f26",
+                            "twitter:app:id:googleplay": "com.nytimes.android",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2022-05-10T05:00:08.000Z",
+                            "pt": "article",
+                            "twitter:url": "https://www.nytimes.com/2022/05/10/opinion/international-world/ukraine-russia-war-donbas.html",
+                            "pdate": "20220510",
+                            "articleid": "100000008325934",
+                            "al:android:package": "com.nytimes.android",
+                            "al:ipad:app_store_id": "357066198",
+                            "twitter:app:name:googleplay": "NYTimes",
+                            "og:description": "War has no clean edges where normal life resumes.",
+                            "twitter:image": "https://static01.nyt.com/images/2022/05/12/opinion/10kozyreva/10kozyreva-videoSixteenByNine3000.jpg?year=2022&h=1688&w=3000&s=68e080dfee5eb56777a58e61a7aa70e13b33c66521467ba8475a95528a381ec6&k=ZQJBKqZ0VN&tw=1",
+                            "pst": "Op-Ed",
+                            "twitter:image:alt": "Sheltering in a basement near Russian positions that were only a few miles away in the Zaporizhzhia region of southeastern Ukraine.",
+                            "al:iphone:app_name": "NYTimes",
+                            "twitter:site": "@nytimes",
+                            "article:modified_time": "2022-05-13T16:56:38.249Z",
+                            "news_keywords": "Russian Invasion of Ukraine (2022),Russia,Ukraine,Civilian casualties",
+                            "scg": "international-world",
+                            "article:content_tier": "metered",
+                            "msapplication-starturl": "https://www.nytimes.com",
+                            "image": "https://static01.nyt.com/images/2022/05/12/opinion/10kozyreva/10kozyreva-facebookJumbo.jpg?year=2022&h=550&w=1050&s=d8a379832e8c14557d9139f2b6748da928bc88777cd1c1bedb8081eaf940d32a&k=ZQJBKqZ0VN",
+                            "og:type": "article",
+                            "og:image:alt": "Sheltering in a basement near Russian positions that were only a few miles away in the Zaporizhzhia region of southeastern Ukraine.",
+                            "twitter:title": "Opinion | I Spent Weeks on Ukraine’s Front Lines. Everything Has Changed. (Published 2022)",
+                            "article:section": "Opinion",
+                            "cg": "opinion",
+                            "pubp_event_id": "pubp://event/ea06a5e0b4ab4e3090228e9c7a66b98c",
+                            "og:title": "Opinion | I Spent Weeks on Ukraine’s Front Lines. Everything Has Changed. (Published 2022)",
+                            "slack-app-id": "A0121HXPPTQ",
+                            "url": "https://www.nytimes.com/2022/05/10/opinion/international-world/ukraine-russia-war-donbas.html",
+                            "article:tag": "Russian Invasion of Ukraine (2022)",
+                            "al:iphone:url": "nytimes://www.nytimes.com/2022/05/10/opinion/international-world/ukraine-russia-war-donbas.html",
+                            "al:android:url": "nyt://article/eb8fac95-8e89-5e4a-b3bc-d519982a6f26",
+                            "twitter:app:url:googleplay": "nyt://article/eb8fac95-8e89-5e4a-b3bc-d519982a6f26",
+                            "fb:app_id": "9869919170",
+                            "al:ipad:url": "nytimes://www.nytimes.com/2022/05/10/opinion/international-world/ukraine-russia-war-donbas.html",
+                            "byl": "By Tanya Kozyreva",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "War has no clean edges where normal life resumes.",
+                            "al:iphone:app_store_id": "284862083",
+                            "al:ipad:app_name": "NYTimes",
+                            "og:url": "https://www.nytimes.com/2022/05/10/opinion/international-world/ukraine-russia-war-donbas.html",
+                            "al:android:app_name": "NYTimes",
+                            "article:opinion": "true"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static01.nyt.com/images/2022/05/12/opinion/10kozyreva/10kozyreva-facebookJumbo.jpg?year=2022&h=550&w=1050&s=d8a379832e8c14557d9139f2b6748da928bc88777cd1c1bedb8081eaf940d32a&k=ZQJBKqZ0VN"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Advertisement\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\nGuest Essay\nI Spent Weeks on Ukraine’s Front Lines. Everything Has Changed.\n---------------------------------------------------------------\n!\nSheltering in a basement near Russian positions that were only a few miles away in the Zaporizhzhia region of southeastern Ukraine.Credit...Lynsey Addario for The New York Times\nTanya Kozyreva\nMs. Kozyreva is a Ukrainian journalist.\nFirst the whiz and then the explosion a second later. One after another. One after another.\nI was hiding in an underground dugout. It would be difficult to call it a bunker: no solid entrance door, no proper stash of food and water. The walls were wooden and there were two sort-of beds, a couple of rugs and some wooden chairs. The place was untidy with phone chargers and military clothing — helmets, flak jackets. There were a few cookies and some chocolate bars. Home for Ukrainian soldiers on the front line.\nThe artillery sound got louder. “Every day is like that,” Lt. Denis Gordiev, a platoon commander in the Ukrainian Army, told me cheerfully. I’d come with a few British journalists to Pisky, a village roughly six miles from occupied Donetsk in eastern Ukraine. It was late April and Russia had already shifted to the second phase of its war, pulling back its forces near Kyiv and escalating its attacks in the east.\n“They are trying to break through,” Lieutenant Gordiev calmly explained. “First it’s artillery and then tanks.” He served us tea.\nFor weeks I have been crisscrossing Ukraine reporting on the war. I’ve learned that war can sound very tidy when it’s described with words like “phases,” “offensives” and “territory,” but it’s not tidy. The front line may stretch about 300 miles, up through the Donbas in the southeast to the city of Kharkiv, but where does the war stop? It has no clean edges where it ends and normal life resumes.\nI’ve met people who’ve lost everything they had, women with children who have nowhere to go,...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

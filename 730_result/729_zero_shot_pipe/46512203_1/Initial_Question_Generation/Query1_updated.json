@@ -1,0 +1,775 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Did Donald Trump visit Maui after August 2023 wildfires? (site:cnn.com OR site:bbc.com OR site:nytimes.com)",
+                "totalResults": "1460",
+                "searchTerms": "Did Donald Trump visit Maui after August 2023 wildfires? (site:cnn.com OR site:bbc.com OR site:nytimes.com)",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Did Donald Trump visit Maui after August 2023 wildfires? (site:cnn.com OR site:bbc.com OR site:nytimes.com)",
+                "totalResults": "1460",
+                "searchTerms": "Did Donald Trump visit Maui after August 2023 wildfires? (site:cnn.com OR site:bbc.com OR site:nytimes.com)",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.495937,
+        "formattedSearchTime": "0.50",
+        "totalResults": "1460",
+        "formattedTotalResults": "1,460"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Biden says he plans to visit Maui soon as he mourns devastation ...",
+                "htmlTitle": "Biden says he plans to <b>visit Maui</b> soon <b>as</b> he mourns devastation ...",
+                "link": "https://www.cnn.com/2023/08/15/politics/white-house-biden-hawaii-wildfires/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Aug 16, 2023 ... President Joe Biden on Tuesday said he will travel to Maui soon to visit the devastation left behind by wildfires that ravaged the Hawaiian\u00a0...",
+                "htmlSnippet": "Aug 16, 2023 <b>...</b> <b>President</b> Joe Biden <b>on</b> Tuesday said he will <b>travel</b> to <b>Maui</b> soon to <b>visit</b> the devastation left behind <b>by wildfires that</b> ravaged the Hawaiian&nbsp;...",
+                "formattedUrl": "https://www.cnn.com/2023/08/15/politics/white...wildfires/index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/<b>2023</b>/08/15/politics/white...<b>wildfires</b>/index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwUGf-nWf7dttxRyMD1X_1xhsqsVjI1gvvshDiPcGzX2XGFC73ytGTEaU&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/230815142716-01-joe-biden-wisconsin-081523.jpg?c=16x9&q=w_800,c_fill",
+                            "twitter:title": "Biden says he plans to visit Maui soon as he mourns devastation from wildfires | CNN Politics",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-08-15T12:48:12Z",
+                            "og:site_name": "CNN",
+                            "author": "Betsy Klein,Kevin Liptak",
+                            "og:title": "Biden says he plans to visit Maui soon as he mourns devastation from wildfires | CNN Politics",
+                            "meta-section": "politics",
+                            "type": "article",
+                            "og:description": "President Joe Biden on Tuesday said he will travel to Maui soon to visit the devastation left behind by wildfires that ravaged the Hawaiian island last week, leaving scores dead and untold damage.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/230815142716-01-joe-biden-wisconsin-081523.jpg?c=16x9&q=w_800,c_fill",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "article:tag": "2023 maui wildfires, accidents, disasters and safety, brand safety-nsf accidents and disasters, brand safety-nsf sensitive, continents and regions, domestic alerts, domestic-us politics, fires, government and public administration, government bodies and offices, hawaii, iab-disasters, iab-politics, international alerts, international-us politics, joe biden, maui, natural disasters, north america, political figures - us, politics, the americas, united states, us federal government, white house, wildfires",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@cnnpolitics",
+                            "article:modified_time": "2023-08-16T12:43:36Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "President Joe Biden on Tuesday said he will travel to Maui soon to visit the devastation left behind by wildfires that ravaged the Hawaiian island last week, leaving scores dead and untold damage.",
+                            "template_type": "article_leaf",
+                            "theme": "politics",
+                            "og:url": "https://www.cnn.com/2023/08/15/politics/white-house-biden-hawaii-wildfires/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/230815142716-01-joe-biden-wisconsin-081523.jpg?c=16x9&q=w_800,c_fill"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\nPresident Joe Biden on Tuesday said he will travel to Maui soon to visit the devastation left behind by wildfires that ravaged the Hawaiian island last week, leaving scores dead and untold damage.\n    \n\n            In his first comments on the disaster since late last week, Biden said he wanted to ensure a possible presidential visit wouldn\u2019t impede recovery efforts.\n    \n\n            \u201cMy wife Jill and I are going to travel to Hawaii as soon as we can, that\u2019s what I\u2019ve been talking to governor about,\u201d he said. \u201cI don\u2019t want to get in the way \u2013 I\u2019ve been to too many disaster areas, but I want to go and make sure we got everything they need. I want to be sure we don\u2019t disrupt the ongoing recovery efforts.\u201d\n    \n\n            The remarks were Biden\u2019s first public comments about the unfolding disaster in Hawaii since last Thursday, when he similarly began a prescheduled speech addressing the devastation. The period of silence had not gone unnoticed by Biden\u2019s critics, including former President Donald Trump and other Republicans.\n    \n\n            Biden\u2019s aides have pointed to the president\u2019s frequent phone calls with FEMA leadership, Hawaii\u2019s congressional delegation and its governor as evidence of his sustained engagement. So far, Democrats have publicly supported Biden\u2019s response. The president has been in regular contact with Hawaii Gov. Josh Green, who has publicly praised the administration\u2019s response and the president\u2019s \u201cfull support.\u201d Sen. Mazie Hirono of Hawaii...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "CNN is a globally recognized news organization known for its extensive coverage of significant news events, including natural disasters and political developments. It adheres to journalistic standards of fact-checking and verification. Historically, CNN has faced criticism for perceived biases in political coverage, which could impact its credibility with some audiences. However, it still maintains a solid reputation for providing accurate news and has initiatives in place to combat misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-08-16"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This evidence discusses President Biden's plans to visit Maui following the wildfires, which reveals that no visit from Trump occurred around that time. Since it indicates Biden's presence instead of Trump in the aftermath of the wildfires, it indirectly supports the conclusion that the video claiming Trump visited Maui is likely misleading."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "5 things to know for Aug. 16: Maui fires, Trump, Water shortage ...",
+                "htmlTitle": "5 things to know <b>for Aug</b>. 16: <b>Maui fires</b>, <b>Trump</b>, Water shortage ...",
+                "link": "https://www.cnn.com/2023/08/16/us/5-things-to-know-for-aug-16-maui-fires-trump-water-shortage-north-korea-landslide/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Aug 16, 2023 ... 16: Maui fires, Trump, Water shortage, North Korea, Landslide ... X, the platform formerly known as Twitter, is facing renewed scrutiny for\u00a0...",
+                "htmlSnippet": "Aug 16, 2023 <b>...</b> 16: <b>Maui fires</b>, <b>Trump</b>, Water shortage, North Korea, Landslide ... X, the platform formerly known <b>as</b> Twitter, <b>is</b> facing renewed scrutiny <b>for</b>&nbsp;...",
+                "formattedUrl": "https://www.cnn.com/2023/08/16/us/5...maui...trump.../index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/<b>2023</b>/08/16/us/5...<b>maui</b>...<b>trump</b>.../index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVyjDhKffUXixGhUV-tJYCCA6HwTS_Cj7YqA0W8sysft762xSyAyCmRXJE&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/230816114913-rescue-team-maui-wildfire-0813.jpg?c=16x9&q=w_800,c_fill",
+                            "twitter:title": "5 things to know for Aug. 16: Maui fires, Trump, Water shortage, North Korea, Landslide | CNN",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-08-16T11:28:37.091Z",
+                            "og:site_name": "CNN",
+                            "author": "Alexandra Meeks",
+                            "og:title": "5 things to know for Aug. 16: Maui fires, Trump, Water shortage, North Korea, Landslide | CNN",
+                            "meta-section": "us",
+                            "type": "article",
+                            "og:description": "CNN\u2019s 5 Things brings you the news you need to know every morning.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/230816114913-rescue-team-maui-wildfire-0813.jpg?c=16x9&q=w_800,c_fill",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@CNN",
+                            "article:modified_time": "2023-08-16T11:28:37.091Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "CNN\u2019s 5 Things brings you the news you need to know every morning.",
+                            "template_type": "article_leaf",
+                            "meta-branding": "5-things-to-know",
+                            "theme": "us",
+                            "og:url": "https://www.cnn.com/2023/08/16/us/5-things-to-know-for-aug-16-maui-fires-trump-water-shortage-north-korea-landslide/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/230816114913-rescue-team-maui-wildfire-0813.jpg?c=16x9&q=w_800,c_fill"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\n            X, the platform formerly known as Twitter, is facing renewed scrutiny for apparently slowing load times for links to its competitors. While the platform has been plagued by technical issues after Elon Musk bought the site last year, many link delays this week appeared intentional, cybersecurity experts said, as the issues mainly affected X\u2019s rivals and news outlets that Musk has previously criticized.\n    \n\n            Here\u2019s what else you need to know to\u00a0Get Up to Speed and On with Your Day.\n    \n\n      Your day is busy. 5 Things is your one-stop shop for the latest headlines, plus other stories and videos that people are clicking on. Sign up here for the 5 Things newsletter.\n    \n\n            The death toll from the Maui wildfires has climbed to 106 as Hawaii\u2019s governor warns identifying all the victims will be difficult. Identification is challenging and will likely take weeks because the remains are largely unrecognizable and fingerprints are rarely being found, Gov. Josh Green said Tuesday. So far, family members of missing people have provided 41 DNA samples, trying to see whether their loved ones are among the dead, county officials said. As the search expands for more unaccounted people, President Joe Biden on Tuesday said he will travel to Maui soon to visit the devastation. \u201cI want to go and make sure we got everything they need,\u201d Biden said, adding he wants to make sure...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "CNN is a globally recognized news organization known for its extensive coverage of significant news events, including natural disasters and political developments. It adheres to journalistic standards of fact-checking and verification. Historically, CNN has faced criticism for perceived biases in political coverage, which could impact its credibility with some audiences. However, it still maintains a solid reputation for providing accurate news and has initiatives in place to combat misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-08-16"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This piece similarly emphasizes Biden\u2019s planned visit to Maui and his engagement in disaster response. Since it focuses on Biden\u2019s involvement rather than Trump\u2019s, it supports the notion that the claim about Trump visiting Maui is misleading and highlights who the actual contributors were in the aftermath."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "August 14 Maui wildfire news | CNN",
+                "htmlTitle": "<b>August</b> 14 <b>Maui wildfire</b> news | CNN",
+                "link": "https://www.cnn.com/us/live-news/hawaii-maui-wildfires-08-13-23/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Aug 13, 2023 ... Catastrophic wildfires have scorched Maui, killing dozens of people and destroying most of the historic town of Lahaina.",
+                "htmlSnippet": "Aug 13, 2023 <b>...</b> Catastrophic <b>wildfires</b> have scorched <b>Maui</b>, killing dozens <b>of</b> people <b>and</b> destroying most <b>of</b> the historic town <b>of</b> Lahaina.",
+                "formattedUrl": "https://www.cnn.com/us/live-news/hawaii-maui-wildfires-08.../index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/us/live-news/hawaii-<b>maui</b>-<b>wildfires</b>-08.../index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_JWuTdxv_7avqbnpgBaiif5VvUTV_8oZGM1EqcnbMdUgS9W68rOcyc1ns&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/230812040728-32-maui-fire-gallery.jpg?c=16x9&q=w_800,c_fill",
+                            "twitter:title": "August 13, 2023 Maui wildfire news | CNN",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-08-13T14:17:21Z",
+                            "og:site_name": "CNN",
+                            "author": "Amir Vera,Matt Meyer,Helen Regan",
+                            "og:title": "August 13, 2023 Maui wildfire news | CNN",
+                            "meta-section": "us",
+                            "type": "live-story",
+                            "og:description": "Catastrophic wildfires have scorched Maui, killing dozens of people and destroying most of the historic town of Lahaina. Follow here for live updates.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/230812040728-32-maui-fire-gallery.jpg?c=16x9&q=w_800,c_fill",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@CNN",
+                            "article:modified_time": "2023-08-14T09:40:37.473Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "Catastrophic wildfires have scorched Maui, killing dozens of people and destroying most of the historic town of Lahaina. Follow here for live updates.",
+                            "template_type": "article_livestory",
+                            "meta-branding": "live-story-v2",
+                            "theme": "us",
+                            "og:url": "https://www.cnn.com/us/live-news/hawaii-maui-wildfires-08-13-23/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/230812040728-32-maui-fire-gallery.jpg?c=16x9&q=w_800,c_fill"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... jumping onto and engulfing homes, forcing harrowing escapes and\u00a0displacing thousands.\n    \n\n            While the Federal Emergency Management Agency on Saturday said it was premature to assign even an approximate dollar amount to the damage done on Maui, the governor estimated \u201cthe losses approach $6 billion.\u201d\n    \n\n            Even as authorities take stock of the losses and work gets underway to identify lost loved ones, the firefight hasn\u2019t stopped.\n    \n\nRead more here. \n\n\n            Power has been restored to more than 60% of Hawaiian Electric customers, the company\u00a0said\u00a0in a news release Sunday.\u00a0\u00a0\n    \n\n        \u201cHawaiian Electric restoration crews have brought back online more than 60% of customers who have been without electricity since Tuesday and are continuing work to restore approximately 5,000 customers in West Maui and Upcountry,\u201d the release said. \n    \n\n            Hawaiian Electric warned customers to expect some intermittent outages once the power comes back on. \n    \n\n        \u201cAll Maui customers are asked to be mindful of their use of electricity and conserve by limiting non-essential uses,\u201d the company said.\u00a0\u00a0\n    \n\n\n\n            At height of the outage, more than 14,000 customers were without power, CNN previously reported.\u00a0\u00a0\n    \n\n            Staff at most of Maui\u2019s public schools will return to campus Monday for the first time since wildfires devastated the island.\n    \n\n            Hawaii\u2019s Department of Education is beginning phased reopenings but schools in West Maui and the King Kekaulike High in Upcountry will remain closed.\n    \n\n        \u201cFrom the bottom of my heart, thank you for the strength, leadership and courage you\u2019ve shown throughout this tragedy that has shaken L\u0101hain\u0101, our Maui communities and all of Hawai\u2018i,\u201d\u00a0said Superintendent\u00a0Keith Hayashi in a letter to staff and students Sunday. \u201cThe loss you are experiencing is unimaginable \u2014 the loss of loved ones, of homes and neighborhoods, of a school and a community.\u201d\n    \n\n            Staff at public schools in Upcountry, South and Central Maui will report to campus on Monday with students returning Wednesday.\n    \n\n            \u201cThis staggered schedule will allow school teams time to assess damage and staffing capacity to ensure a safe reopening,\u201d the education department said in a news release Friday. \n    \n\n            Hayashi said one school on Front Street in Lahaina was \u201cdamaged beyond repair.\u201d\n    \n\n            \u201cWhile assessments are being made about the closed campuses, we are looking at other options for our students who remain in West Maui including our King Kamehameha III Elementary students,\u201d Hayashi said.\n    \n\n            With West Maui schools closed, Hawaii\u2019s education department and Hayashi encouraged displaced families...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "CNN is a globally recognized news organization known for its extensive coverage of significant news events, including natural disasters and political developments. It adheres to journalistic standards of fact-checking and verification. Historically, CNN has faced criticism for perceived biases in political coverage, which could impact its credibility with some audiences. However, it still maintains a solid reputation for providing accurate news and has initiatives in place to combat misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-08-13"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This evidence provides background on the impact of the wildfires, but does not mention Trump at all. Its value lies in establishing the timeline and importance of presidential visits in disaster recovery, reinforcing that Biden was the focal point during the aftermath instead of Trump."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Bidens to visit Hawaii on Monday following Maui wildfires | CNN ...",
+                "htmlTitle": "Bidens to <b>visit</b> Hawaii <b>on</b> Monday following <b>Maui wildfires</b> | CNN ...",
+                "link": "https://www.cnn.com/2023/08/16/politics/biden-maui-visit-wildfires/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Aug 16, 2023 ... The relative silence did not go unnoticed by Biden's critics, including former President Donald Trump and other Republicans, and the Biden\u00a0...",
+                "htmlSnippet": "Aug 16, 2023 <b>...</b> The relative silence <b>did</b> not go unnoticed by Biden&#39;s critics, including former President <b>Donald Trump</b> and other Republicans, and the Biden&nbsp;...",
+                "formattedUrl": "https://www.cnn.com/2023/08/16/politics/...maui-visit-wildfires/index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/<b>2023</b>/08/16/politics/...<b>maui</b>-<b>visit</b>-<b>wildfires</b>/index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxEFCPe20wuc_HFUauIM4malRNKe2MxWpjyBDsu9CKAP02GrDz6eVvbw&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/230816091017-03-joe-biden-081523.jpg?c=16x9&q=w_800,c_fill",
+                            "twitter:title": "Bidens to visit Hawaii on Monday following Maui wildfires | CNN Politics",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-08-16T13:14:06Z",
+                            "og:site_name": "CNN",
+                            "author": "Betsy Klein",
+                            "og:title": "Bidens to visit Hawaii on Monday following Maui wildfires | CNN Politics",
+                            "meta-section": "politics",
+                            "type": "article",
+                            "og:description": "President Joe Biden and first lady Dr. Jill Biden will travel to Hawaii on Monday, the White House announced, as search, rescue and recovery efforts continue following the devastating wildfires there.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/230816091017-03-joe-biden-081523.jpg?c=16x9&q=w_800,c_fill",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "article:tag": "2023 maui wildfires, accidents, disasters and safety, brand safety-nsf accidents and disasters, brand safety-nsf sensitive, continents and regions, domestic alerts, domestic-us politics, fires, government and public administration, government bodies and offices, hawaii, iab-disasters, iab-politics, international alerts, international-us politics, jill biden, joe biden, josh green, maui, natural disasters, north america, political figures - us, politics, rescue operations, the americas, united states, us federal government, white house, wildfires",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@cnnpolitics",
+                            "article:modified_time": "2023-08-16T18:50:04Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "President Joe Biden and first lady Dr. Jill Biden will travel to Hawaii on Monday, the White House announced, as search, rescue and recovery efforts continue following the devastating wildfires there.",
+                            "template_type": "article_leaf",
+                            "theme": "politics",
+                            "og:url": "https://www.cnn.com/2023/08/16/politics/biden-maui-visit-wildfires/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/230816091017-03-joe-biden-081523.jpg?c=16x9&q=w_800,c_fill"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\nPresident Joe Biden and first lady Dr. Jill Biden will travel to Hawaii on Monday, the White House announced, as search, rescue and recovery efforts continue following the devastating wildfires there.\n    \n\n            \u201cThe President and First Lady will travel to Maui on Monday, August 21 to meet with first responders, survivors, as well as federal, state, and local officials, in the wake of deadly wildfires on the island,\u201d White House press secretary Karine Jean-Pierre said in a statement.\n    \n\n            The planned visit comes amid mounting pressure on Biden, who \u2013 despite signing a federal disaster declaration last week \u2013 had only sparingly referenced the disaster, which has left at least 100 dead. The relative silence did not go unnoticed by Biden\u2019s critics, including former President Donald Trump and other Republicans, and the Biden administration in recent days has been promoting its commitment to helping local authorities recover and rebuild.\n    \n\n            The Bidens, Jean-Pierre said, will \u201csee firsthand the impacts of the wildfires and the devastating loss of life and land that has occurred on the island, as well as discuss the next steps in the recovery effort.\u201d\n    \n\n            Biden said in Wisconsin on Tuesday that he did not want a presidential visit, which requires a significant security and operational footprint, to interfere with efforts or divert response resources on the ground. \n    \n\n            But Hawaii Democratic Gov. Josh Green, Jean-Pierre said, \u201cadvised that the search and recovery efforts are expected to be at a stage early next week to allow for a presidential visit.\u201d\n    \n\n            The White House is taking care to ensure Biden\u2019s visit to Hawaii will not disrupt recovery efforts on the island, FEMA Administrator Deanne Criswell told reporters Wednesday.\n    \n\n            \u201cOur biggest goal was to make sure that we weren\u2019t going to disrupt the ability of our search and rescue teams to continue their operations, and when I was just briefing the president and he spoke with [Green], he asked the governor if this was going to be an appropriate time and the governor agreed,\u201d Criswell told reporters during Wednesday\u2019s White House press briefing.\n    \n\n            Biden has stayed in close...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "CNN is a globally recognized news organization known for its extensive coverage of significant news events, including natural disasters and political developments. It adheres to journalistic standards of fact-checking and verification. Historically, CNN has faced criticism for perceived biases in political coverage, which could impact its credibility with some audiences. However, it still maintains a solid reputation for providing accurate news and has initiatives in place to combat misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-08-16"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "Confirming Biden's upcoming visit to Hawaii, this evidence is relevant as it reinforces that he, not Trump, was the president engaging with the aftermath of the wildfires. This further dispells the video\u2019s claim of Trump's visit."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Opinion: After 'no comment,' Biden's response to Maui will be key ...",
+                "htmlTitle": "Opinion: <b>After</b> &#39;no comment,&#39; Biden&#39;s response to <b>Maui</b> will be key ...",
+                "link": "https://www.cnn.com/2023/08/17/opinions/biden-maui-wildfires-response-zelizer/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Aug 18, 2023 ... President Joe Biden must respond to the Maui wildfires with federal support, broader public policy decisions and leadership, writes Julian\u00a0...",
+                "htmlSnippet": "Aug 18, 2023 <b>...</b> <b>President</b> Joe Biden must respond to the <b>Maui wildfires with</b> federal support, broader public policy decisions <b>and</b> leadership, writes Julian&nbsp;...",
+                "formattedUrl": "https://www.cnn.com/2023/08/17/opinions/...maui-wildfires.../index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/<b>2023</b>/08/17/opinions/...<b>maui</b>-<b>wildfires</b>.../index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxEFCPe20wuc_HFUauIM4malRNKe2MxWpjyBDsu9CKAP02GrDz6eVvbw&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/230816091017-03-joe-biden-081523.jpg?c=16x9&q=w_800,c_fill",
+                            "twitter:title": "Opinion: After \u2018no comment,\u2019 Biden\u2019s response to Maui will be key | CNN",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-08-17T21:18:32.481Z",
+                            "og:site_name": "CNN",
+                            "author": "Julian Zelizer",
+                            "og:title": "Opinion: After \u2018no comment,\u2019 Biden\u2019s response to Maui will be key | CNN",
+                            "meta-section": "opinions",
+                            "type": "article",
+                            "og:description": "President Joe Biden must respond to the Maui wildfires with federal support, broader public policy decisions and leadership, writes Julian Zelizer.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/230816091017-03-joe-biden-081523.jpg?c=16x9&q=w_800,c_fill",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@CNNOpinions",
+                            "article:modified_time": "2023-08-18T13:46:33.956Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "President Joe Biden must respond to the Maui wildfires with federal support, broader public policy decisions and leadership, writes Julian Zelizer.",
+                            "template_type": "article_leaf",
+                            "theme": "opinions",
+                            "og:url": "https://www.cnn.com/2023/08/17/opinions/biden-maui-wildfires-response-zelizer/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/230816091017-03-joe-biden-081523.jpg?c=16x9&q=w_800,c_fill"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Rico, Trump was widely condemned for his chaotic and unreliable statements as the Covid-19 pandemic unfolded.\n    \n\n            When disasters strike, presidents need to tackle the situation on at least three different fronts. Federal support for the local response is paramount, which Biden has been working on. Broader public policy decisions \u2014 whether that be addressing climate change or FEMA\u2019s shortfalls \u2014 are also essential. The climate provisions in the Inflation Reduction Act have been some of the strongest initiatives thus far to push the nation toward renewable energy. Without the first two elements, presidents are only putting band-aids on whatever went wrong.\n    \n\n            But the third part, the public-facing response \u2014 whether it be meeting with survivors, surveying the damage or making speeches and formal statements \u2014 matters as well. The public wants to see a president who can lead the nation through a crisis. They seek elected officials who can stay in control amidst the chaos and help those who need it. They look for presidents who can address the nation and do so with the kind of presence that President Ronald Reagan had after the Space Shuttle Challenger crashed in 1986. He helped the nation mourn when he gave one of his\u00a0most moving speeches on television\u00a0and said, \u201cWe will never forget them, nor the last time we saw them, this morning, as they prepared for their journey and waved goodbye and \u2018slipped the surly bonds of earth\u2019 to \u2018touch the face of God.\u2019\u201d\n    \n\n            Biden has a chance to right some of the missteps and take a more assertive role, without becoming an overwhelming presence. With this trip, Biden needs to demonstrate that the federal government will be making sure Hawaii can recover and rebuild, and that he will work with Congress to address the underlying causes. And Biden should offer hope and moral support to the survivors \u2014\u00a0a task that shouldn\u2019t be difficult, given that he is known for his empathy. While he might not match Reagan, he certainly can\u2019t afford to make the mistakes that George W. Bush did.\n    \n\nThis article has been updated to note Biden\u2019s statements about Maui.\n\n\u00a9 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans \u2122 & \u00a9 2016 Cable News Network.",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "CNN is a globally recognized news organization known for its extensive coverage of significant news events, including natural disasters and political developments. It adheres to journalistic standards of fact-checking and verification. Historically, CNN has faced criticism for perceived biases in political coverage, which could impact its credibility with some audiences. However, it still maintains a solid reputation for providing accurate news and has initiatives in place to combat misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-08-18"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "While it discusses the importance of presidential involvement in disaster responses and touches upon the pressure on Biden, it lacks specific mentions of Trump\u2019s actions or absence in this context, making it less directly relevant to the misleading claim."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Hawaii fire: Maps and before and after images reveal Maui devastation",
+                "htmlTitle": "Hawaii <b>fire</b>: Maps <b>and</b> before <b>and after</b> images reveal <b>Maui</b> devastation",
+                "link": "https://www.bbc.com/news/world-us-canada-66465570",
+                "displayLink": "www.bbc.com",
+                "snippet": "Aug 14, 2023 ... Lahaina's Banyan Court destroyed by wildfire \u00b7 Drag button left to see the extent of fire damage \u00b7 Maui fire map shows spread \u00b7 Buildings destroyed\u00a0...",
+                "htmlSnippet": "Aug 14, 2023 <b>...</b> Lahaina&#39;s Banyan Court destroyed <b>by wildfire</b> &middot; Drag button left to <b>see</b> the extent <b>of fire</b> damage &middot; <b>Maui fire</b> map shows spread &middot; Buildings destroyed&nbsp;...",
+                "formattedUrl": "https://www.bbc.com/news/world-us-canada-66465570",
+                "htmlFormattedUrl": "https://www.bbc.com/news/world-us-canada-66465570",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeh7CPDNmDMNpdfRlwrDQKOVLu3C1IRbG-tLUoWgYhqcr53tdz613_yn8&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/87D4/production/_130727743_lahaina-index-pic.jpg",
+                            "twitter:title": "Hawaii fire: Maps and before and after images reveal Maui devastation",
+                            "twitter:card": "summary_large_image",
+                            "og:image:alt": "Before and after image of Lahaina",
+                            "theme-color": "#ffffff",
+                            "og:title": "Hawaii fire: Maps and before and after images reveal Maui devastation",
+                            "og:description": "Satellite images and before-and-after pictures show extent of damage to town of Lahaina on Maui.",
+                            "version": "2.5.0+19",
+                            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/87D4/production/_130727743_lahaina-index-pic.jpg",
+                            "next-head-count": "28",
+                            "twitter:image:alt": "Before and after image of Lahaina",
+                            "viewport": "width=device-width",
+                            "twitter:description": "Satellite images and before-and-after pictures show extent of damage to town of Lahaina on Maui."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/87D4/production/_130727743_lahaina-index-pic.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...aced for a significant rise in the death toll from the fast-spreading wildfires, which caused devastation on the island of Maui and destroyed most of the historic town of Lahaina.\nHawaii Governor Josh Green said the fires were the \"largest natural disaster in Hawaii state history\" and that 80% of the beach-front town had \"gone\" - satellite images gave an immediate sense of the scale of the damage.\nHundreds of people remain missing almost a week after the disaster, and search teams have only covered a tiny percentage of the area affected.\nThe fires are now reported to be under control, but efforts to fully extinguish them continue on some parts of the island.\nHundreds of people who fled their homes in Lahaina have been taking cover in an emergency shelter. About 2,700 homes are reported to have been destroyed.\nIncredibly strong winds from Hurricane Dora, which passed south of Hawaii on Tuesday 8 August fanned the flames and prevented aircraft from flying over the town during the fire - but once they had passed, pilots were shocked by what they saw.\n\"It's horrifying. I've flown here 52 years and I've never seen anything come close to that,\" helicopter pilot Richard Olsten told the Associated Press news agency. \"We had tears in our eyes.\" \nThe flames destroyed most of the buildings in front of the port, including the old courthouse.\nAnger has grown among the community with many people telling the BBC they were not forewarned about the fires. It is currently unclear if early warning systems were used, or if they malfunctioned.\nThe town's lighthouse has survived but most of the surrounding buildings were destroyed, including the oldest hotel in Hawaii - the 122-year-old Pioneer Inn.\nThe centre of Lahaina dated back to the 1700s and was on the US National Register of Historic Places - it was once Hawaii's capital.\nThe town was home to about 12,000 people - the initial assessments say about 86% of the damaged buildings were residential.\nAlice Lee, chair of the Maui County Council, told the BBC World Service's Newsday programme how the fire razed the \"beautiful\" Front Street, the town's main strip.\n\"The fire traversed almost the entire street, so all the shops and little restaurants that people visited on their trips to Maui, most of them are burnt down to the ground,\" Lee said, adding: \"So many businesses will have to struggle to recover,\" she said.\nFormer US President Barack Obama - who was born in Hawaii - is among those who has expressed his sorrow at the...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The BBC is known for its commitment to impartial and rigorous journalism. It has a long-standing reputation for accuracy and thorough reporting across various topics, including international news and crisis coverage. The BBC follows strict editorial guidelines that emphasize not only accuracy but also impartiality. This commitment to quality reporting and fact-checking makes the BBC one of the most reliable sources for news reporting worldwide, justifying a high score."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-08-14"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "Focused mainly on the severity of the wildfires and the extent of the damage, it doesn't mention Trump and thus does not help ascertain the truthfulness of the claim regarding his presence."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Opinion | These Aren't the Darkest Years in American History, but ...",
+                "htmlTitle": "Opinion | These Aren&#39;t the Darkest Years in American History, but ...",
+                "link": "https://www.nytimes.com/2023/08/21/opinion/maui-biden-trump-republican-debate.html",
+                "displayLink": "www.nytimes.com",
+                "snippet": "Aug 21, 2023 ... Bret Stephens: Before we get to Donald Trump's indictment in Georgia or the upcoming G.O.P. \u00b7 Gail Collins: Maui is going to be hard for any of\u00a0...",
+                "htmlSnippet": "Aug 21, 2023 <b>...</b> Bret Stephens: Before we get to <b>Donald Trump&#39;s</b> indictment in Georgia or the upcoming G.O.P. &middot; Gail Collins: <b>Maui is</b> going to be hard for any of&nbsp;...",
+                "formattedUrl": "https://www.nytimes.com/2023/.../maui-biden-trump-republican-debate.ht...",
+                "htmlFormattedUrl": "https://www.nytimes.com/<b>2023</b>/.../<b>maui</b>-biden-<b>trump</b>-republican-debate.ht...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR81XoVutDJm7HMDMfFxfMvyLK378pn6VrYtDAyj4QiKu0puQsV4HY2DaU&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static01.nyt.com/images/2023/08/22/multimedia/21conversation-kpfg/21conversation-kpfg-facebookJumbo.jpg",
+                            "nyt_uri": "nyt://article/65fbc5e4-0c8e-5409-9146-3dea7ba1ccab",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-08-21T09:00:25.000Z",
+                            "pt": "article",
+                            "twitter:url": "https://www.nytimes.com/2023/08/21/opinion/maui-biden-trump-republican-debate.html",
+                            "pdate": "20230821",
+                            "articleid": "100000009049532",
+                            "al:android:package": "com.nytimes.android",
+                            "og:description": "It isn\u2019t every generation that produces a president who is charged with 91 counts by two local D.A.s and one special counsel.",
+                            "twitter:image": "https://static01.nyt.com/images/2023/08/22/multimedia/21conversation-kpfg/21conversation-kpfg-videoSixteenByNine3000.jpg",
+                            "pst": "Op-Ed",
+                            "twitter:image:alt": "The scene in Lahaina, Hawaii, on Aug. 18, 10 days after wildfires swept through the town.",
+                            "article:modified_time": "2023-08-21T20:15:50.000Z",
+                            "news_keywords": "Presidential Election of 2024,Polls,US Politics,Presidential debates;Democratic debates;2020 debates,Vice President US,Primaries,Electric Cars and Hybrids,Climate Change,Global Warming,Democrats,Republicans,Joe Biden,Chris Christie,Vivek Ramaswamy,Donald Trump,Wildfires,Lanai,Ron DeSantis",
+                            "article:content_tier": "metered",
+                            "msapplication-starturl": "https://www.nytimes.com",
+                            "image": "https://static01.nyt.com/images/2023/08/22/multimedia/21conversation-kpfg/21conversation-kpfg-facebookJumbo.jpg",
+                            "og:type": "article",
+                            "og:image:alt": "The scene in Lahaina, Hawaii, on Aug. 18, 10 days after wildfires swept through the town.",
+                            "twitter:title": "Opinion | These Aren\u2019t the Darkest Years in American History, but They Are Among the Weirdest",
+                            "article:section": "Opinion",
+                            "cg": "opinion",
+                            "pubp_event_id": "pubp://event/b0ba75a194bb427585595f23e107bc47",
+                            "og:title": "Opinion | These Aren\u2019t the Darkest Years in American History, but They Are Among the Weirdest",
+                            "cn": "the-conversation",
+                            "url": "https://www.nytimes.com/2023/08/21/opinion/maui-biden-trump-republican-debate.html",
+                            "article:tag": "Presidential Election of 2024",
+                            "al:android:url": "nyt://article/65fbc5e4-0c8e-5409-9146-3dea7ba1ccab",
+                            "byl": "By Gail Collins and Bret Stephens",
+                            "twitter:description": "It isn\u2019t every generation that produces a president who is charged with 91 counts by two local D.A.s and one special counsel.",
+                            "og:url": "https://www.nytimes.com/2023/08/21/opinion/maui-biden-trump-republican-debate.html",
+                            "al:android:app_name": "NYTimes",
+                            "article:opinion": "true"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static01.nyt.com/images/2023/08/22/multimedia/21conversation-kpfg/21conversation-kpfg-facebookJumbo.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Advertisement\nThe Conversation\n!\nThe scene in Lahaina, Hawaii, on Aug. 18, 10 days after wildfires swept through the town. Credit...Bryan Anselm for The New York Times\n**Bret Stephens:** Before we get to Donald Trump\u2019s indictment in Georgia or the upcoming G.O.P. debate, I want to take note of the appalling tragedy in Hawaii. The images from Maui are just heartbreaking. But I also get a sense that heartbreak will soon turn to outrage as we learn more about the cascade of  that led to the disaster.\n**Gail Collins:** Maui is going to be hard for any of us to forget. Or, in some cases, forgive. There are certainly a heck of a lot of serious questions about whether the folks who were supposed to be responsible did their jobs.\n**Bret:** There\u2019s  that made me want to scream. It seems Hawaiian Electric knew four years ago that it needed to do more to keep power lines from emitting sparks, but it invested only $245,000 to try to do something about it. The state and private owners let old dams fall into disrepair and then allowed for them to be destroyed rather than restoring them, leading to less stored water and more dry land. And then there was the emergency chief who decided not to sound warning sirens. At least he had the good sense to resign.\n**Gail:** But let\u2019s look at the way bigger issue, Bret. The weather\u2019s been awful in all sorts of scary ways this summer, all around the planet. Pretty clear it\u2019s because of global warming. You ready to rally around a big push toward environmental revolution?\n**Bret:** I\u2019m opposed on principle to all big revolutions, Gail, beginning with the French. But I am in favor of 10,000 evolutions to deal with the climate. In...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The New York Times has a prestigious reputation for in-depth journalism and investigative reporting. It is known for its thorough research and fact-checking protocols. While some may criticize it for perceived biases in political reporting, its overall track record for accuracy and commitment to journalistic integrity rates it highly. The New York Times also provides a robust opinion section where diverse viewpoints are presented, which can contribute to discussions around public sentiment and political representation."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-08-21"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "This opinion piece reflects on broader issues surrounding the wildfires and federal responses. It does not specifically reference Trump's visit or actions, making it relatively less relevant."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Biden tours 'overwhelming' Hawaii wildfire damage",
+                "htmlTitle": "Biden tours &#39;overwhelming&#39; Hawaii <b>wildfire</b> damage",
+                "link": "https://www.bbc.com/news/world-us-canada-66571294",
+                "displayLink": "www.bbc.com",
+                "snippet": "Aug 21, 2023 ... President Joe Biden has toured wildfire damage in Hawaii after scrutiny of his administration's response to the state's worst ever natural\u00a0...",
+                "htmlSnippet": "Aug 21, 2023 <b>...</b> <b>President</b> Joe Biden <b>has</b> toured <b>wildfire</b> damage in Hawaii <b>after</b> scrutiny <b>of</b> his administration&#39;s response to the state&#39;s worst ever natural&nbsp;...",
+                "formattedUrl": "https://www.bbc.com/news/world-us-canada-66571294",
+                "htmlFormattedUrl": "https://www.bbc.com/news/world-us-canada-66571294",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2JYI4tY0pTBz2wJkHbICzT6vS7rUg_ofV7yEkd-7mzN7Kll6GH37q8xZQ&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/16D6A/production/_130864539_biden23.jpg",
+                            "twitter:title": "Biden tours 'overwhelming' Hawaii wildfire damage",
+                            "twitter:card": "summary_large_image",
+                            "og:image:alt": "US President Joe Biden delivers remarks as he visits an area devastated by wildfires in Lahaina, Hawaii on 21 August 2023",
+                            "theme-color": "#ffffff",
+                            "og:title": "Biden tours 'overwhelming' Hawaii wildfire damage",
+                            "og:description": "The president meets survivors after scrutiny of his response to the deadliest US wildfire in over a century.",
+                            "version": "2.5.0+19",
+                            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/16D6A/production/_130864539_biden23.jpg",
+                            "next-head-count": "28",
+                            "twitter:image:alt": "US President Joe Biden delivers remarks as he visits an area devastated by wildfires in Lahaina, Hawaii on 21 August 2023",
+                            "viewport": "width=device-width",
+                            "twitter:description": "The president meets survivors after scrutiny of his response to the deadliest US wildfire in over a century."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/16D6A/production/_130864539_biden23.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "President Joe Biden has toured wildfire damage in Hawaii after scrutiny of his administration's response to the state's worst ever natural disaster.\nHe arrived in Maui on Monday, 13 days after the deadliest US wildfire in over a century, telling survivors the nation \"grieves with you\". \nMr Biden and First Lady Jill Biden toured the charred ruins of the town of Lahaina and met first responders. \nAt least 114 people have died and 850 people are still missing. \nHawaii's governor has said many of the victims may be children. \n\"For as long as it takes, we're going to be with you,\" said Mr Biden, who spoke for about 10 minutes amid the rubble. \"The whole country will be with you.\" \nHe added: \"The country grieves with you, stands with you and will do everything possible to help you recover.\"\nMr Biden - who also took an aerial tour - described the wildfire devastation as \"overwhelming\".\nThe president and the federal agencies he oversees have come under fire from Hawaiians who say aid has been inadequate and poorly organised.\nRepublicans have led criticism of the Democratic president for having been on two holidays since the fire struck on 8 August. \nTo visit Hawaii, Mr Biden paused his current vacation at Lake Tahoe in Nevada, where he is renting a home belonging to a Democratic donor, according to the...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The BBC is known for its commitment to impartial and rigorous journalism. It has a long-standing reputation for accuracy and thorough reporting across various topics, including international news and crisis coverage. The BBC follows strict editorial guidelines that emphasize not only accuracy but also impartiality. This commitment to quality reporting and fact-checking makes the BBC one of the most reliable sources for news reporting worldwide, justifying a high score."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-08-21"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This evidence discusses Biden touring the wildfire damage, which implies his active role compared to Trump, but lacks direct information on Trump\u2019s potential visit, making it moderately relevant."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Maui Wildfires: Lahaina Reopens to Residents to Assess Damage ...",
+                "htmlTitle": "<b>Maui Wildfires</b>: Lahaina Reopens to Residents to Assess Damage ...",
+                "link": "https://www.nytimes.com/article/maui-wildfires-hawaii.html",
+                "displayLink": "www.nytimes.com",
+                "snippet": "Sep 29, 2023 ... Some Lahaina residents will be allowed to visit what's left of their homes for the first time since wildfires swept across Maui.",
+                "htmlSnippet": "Sep 29, 2023 <b>...</b> Some Lahaina residents will be allowed to <b>visit</b> what&#39;s left <b>of</b> their homes <b>for</b> the first time <b>since wildfires</b> swept across <b>Maui</b>.",
+                "formattedUrl": "https://www.nytimes.com/article/maui-wildfires-hawaii.html",
+                "htmlFormattedUrl": "https://www.nytimes.com/article/<b>maui</b>-<b>wildfires</b>-hawaii.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNrHG-p7u_bcZp46_Dvvyk2RKMmWB_Uu5N_xllUTVp_0OwfLeXdkg4He_&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static01.nyt.com/images/2023/09/10/multimedia/10nat-wwk-hawaiifires-gjzc/10nat-wwk-hawaiifires-gjzc-facebookJumbo.jpg",
+                            "nyt_uri": "nyt://article/1394d4b2-4daf-512d-ae80-9481a7f62a56",
+                            "twitter:app:id:googleplay": "com.nytimes.android",
+                            "twitter:card": "summary_large_image",
+                            "pt": "article",
+                            "twitter:url": "https://www.nytimes.com/article/maui-wildfires-hawaii.html",
+                            "pdate": "20230810",
+                            "articleid": "100000009035777",
+                            "al:android:package": "com.nytimes.android",
+                            "twitter:app:name:googleplay": "NYTimes",
+                            "og:description": "Some Lahaina residents will be allowed to visit what\u2019s left of their homes for the first time since wildfires swept across Maui.",
+                            "twitter:image": "https://static01.nyt.com/images/2023/09/10/multimedia/10nat-wwk-hawaiifires-gjzc/10nat-wwk-hawaiifires-gjzc-videoSixteenByNineJumbo1600.jpg",
+                            "pst": "News",
+                            "twitter:image:alt": "Much of Lahaina was destroyed by a fast-moving wildfire on Maui.",
+                            "article:modified_time": "2023-09-29T18:44:32.945Z",
+                            "news_keywords": "Lahaina,Wildfires,Weather,Maui,Hawaii,Hawaiian Electric Company,Fatalities;casualties,Lawsuits,Forensic science,FEMA,Red Cross,Josh Green",
+                            "article:content_tier": "metered",
+                            "msapplication-starturl": "https://www.nytimes.com",
+                            "image": "https://static01.nyt.com/images/2023/09/10/multimedia/10nat-wwk-hawaiifires-gjzc/10nat-wwk-hawaiifires-gjzc-facebookJumbo.jpg",
+                            "og:type": "article",
+                            "og:image:alt": "Much of Lahaina was destroyed by a fast-moving wildfire on Maui.",
+                            "twitter:title": "Maui Wildfires Latest: Lahaina Reopens to Residents",
+                            "article:section": "U.S.",
+                            "cg": "us",
+                            "pubp_event_id": "pubp://event/94e34b7ba0a946d78a999ecf8dcd8441",
+                            "og:title": "Maui Wildfires Latest: Lahaina Reopens to Residents",
+                            "article:author": "https://www.nytimes.com/by/adeel-hassan",
+                            "url": "https://www.nytimes.com/article/maui-wildfires-hawaii.html",
+                            "article:tag": "Lahaina (Hawaii)",
+                            "al:iphone:url": "nytimes://www.nytimes.com/article/maui-wildfires-hawaii.html",
+                            "al:android:url": "nyt://article/1394d4b2-4daf-512d-ae80-9481a7f62a56",
+                            "twitter:app:url:googleplay": "nyt://article/1394d4b2-4daf-512d-ae80-9481a7f62a56",
+                            "byl": "By Adeel Hassan and Anna Betts",
+                            "twitter:description": "Some Lahaina residents will be allowed to visit what\u2019s left of their homes for the first time since wildfires swept across Maui.",
+                            "al:iphone:app_store_id": "284862083",
+                            "og:url": "https://www.nytimes.com/article/maui-wildfires-hawaii.html",
+                            "al:android:app_name": "NYTimes",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static01.nyt.com/images/2023/09/10/multimedia/10nat-wwk-hawaiifires-gjzc/10nat-wwk-hawaiifires-gjzc-facebookJumbo.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Advertisement\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\nSome Lahaina residents will be allowed to visit what\u2019s left of their homes for the first time since wildfires swept across Maui.\n!\nMuch of Lahaina was destroyed by a fast-moving wildfire on Maui.Credit...Philip Cheung for The New York Times\nSome Lahaina residents will be allowed into their neighborhood on Monday to see what is left of their homes, for the first time since wildfires swept across parts of Maui on Aug. 8 and killed at least 97 people, making it one of the nation\u2019s deadliest disasters.\nThe center of Lahaina, a town on the western shore of Maui, has been off limits for the last six weeks, fenced off and patrolled by National Guard troops, to allow crews to conduct mop-up firefighting operations and assess and clean up hazardous materials.\nThe first neighborhood to be reopened is at the westernmost edge of the burn zone, on the way from downtown Lahaina to the resort area of Ka\u2019anapali. As more neighborhoods are deemed safe, they, too, will be opened to residents who show proof of residency and obtain a re-entry permit, officials said at a public informational meeting in Lahaina on Sept. 22.\nThe Maui County authorities will provide returnees with masks and other personal protective equipment for the visit, official said, and will have counselors on hand to help with the emotional aspects of the visit.\nThere are significant worries about how much it will cost for residents to rebuild homes \u2014 an early estimate projects that $5.5 billion will be needed to repair damaged areas in West Maui \u2014 as well as the economic revival of a tourism-dependent island.\nHere\u2019s what else we know.\nImage\nResidents searching for belongings in Lahaina.Credit...Philip Cheung for The New York Times\n* * *\nThank you for your patience while we verify access. If you are in Reader mode please exit and\u00a0\u00a0your Times account, or\u00a0\u00a0for all of The Times.\n* * *\nThank you for your patience while we verify access.\nAlready a subscriber?\u00a0.\nWant all of The Times?\u00a0.\nAdvertisement",
+                    "content_tokens": 447
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The New York Times has a prestigious reputation for in-depth journalism and investigative reporting. It is known for its thorough research and fact-checking protocols. While some may criticize it for perceived biases in political reporting, its overall track record for accuracy and commitment to journalistic integrity rates it highly. The New York Times also provides a robust opinion section where diverse viewpoints are presented, which can contribute to discussions around public sentiment and political representation."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-09-29"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This evidence primarily covers residents returning to assess damage, which does not touch on Trump's involvement or comments regarding the wildfires, making it largely irrelevant to the claim."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Biden to Visit Maui on Monday to View Wildfire Damage - The New ...",
+                "htmlTitle": "Biden to <b>Visit Maui on</b> Monday to View <b>Wildfire</b> Damage - The New ...",
+                "link": "https://www.nytimes.com/2023/08/16/us/politics/biden-hawaii-maui-wildfires.html",
+                "displayLink": "www.nytimes.com",
+                "snippet": "Aug 16, 2023 ... President Biden will travel to the Hawaiian island of Maui on Monday to view the damage from raging wildfires that devastated much of a\u00a0...",
+                "htmlSnippet": "Aug 16, 2023 <b>...</b> <b>President</b> Biden will <b>travel</b> to the Hawaiian island <b>of Maui on</b> Monday to view the damage <b>from</b> raging <b>wildfires that</b> devastated much <b>of a</b>&nbsp;...",
+                "formattedUrl": "https://www.nytimes.com/2023/08/16/us/.../biden-hawaii-maui-wildfires.ht...",
+                "htmlFormattedUrl": "https://www.nytimes.com/<b>2023</b>/08/16/us/.../biden-hawaii-<b>maui</b>-<b>wildfires</b>.ht...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2hnSRvyIw6I09qDEDD8AvKNqxJKyGfiw0dQXlKX3IZYhE6a4v9-gQiDfq&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static01.nyt.com/images/2023/08/16/multimedia/16dc-biden-hawaii-wcfm/16dc-biden-hawaii-wcfm-facebookJumbo.jpg",
+                            "nyt_uri": "nyt://article/c8b1010c-8ba2-5fd7-bd08-de240e5bef1d",
+                            "twitter:app:id:googleplay": "com.nytimes.android",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-08-16T15:08:14.000Z",
+                            "pt": "article",
+                            "twitter:url": "https://www.nytimes.com/2023/08/16/us/politics/biden-hawaii-maui-wildfires.html",
+                            "pdate": "20230816",
+                            "articleid": "100000009043767",
+                            "al:android:package": "com.nytimes.android",
+                            "al:ipad:app_store_id": "357066198",
+                            "twitter:app:name:googleplay": "NYTimes",
+                            "og:description": "The president and the first lady will meet with emergency workers and survivors of the fire, which killed more than 100 people on the Hawaiian island.",
+                            "twitter:image": "https://static01.nyt.com/images/2023/08/16/multimedia/16dc-biden-hawaii-wcfm/16dc-biden-hawaii-wcfm-videoSixteenByNineJumbo1600.jpg",
+                            "pst": "News",
+                            "twitter:image:alt": "The wildfires in Hawaii last week are the country\u2019s deadliest in more than a century.",
+                            "al:iphone:app_name": "NYTimes",
+                            "article:modified_time": "2023-08-16T20:33:58.000Z",
+                            "news_keywords": "Maui,Wildfires,Fatalities;casualties,Joe Biden,US Politics",
+                            "scg": "politics",
+                            "article:content_tier": "metered",
+                            "msapplication-starturl": "https://www.nytimes.com",
+                            "image": "https://static01.nyt.com/images/2023/08/16/multimedia/16dc-biden-hawaii-wcfm/16dc-biden-hawaii-wcfm-facebookJumbo.jpg",
+                            "og:type": "article",
+                            "og:image:alt": "The wildfires in Hawaii last week are the country\u2019s deadliest in more than a century.",
+                            "twitter:title": "Biden to Visit Maui on Monday to View Wildfire Damage",
+                            "article:section": "U.S.",
+                            "cg": "us",
+                            "pubp_event_id": "pubp://event/0a5eeee48e2846cba4c946ea584118c6",
+                            "og:title": "Biden to Visit Maui on Monday to View Wildfire Damage",
+                            "cn": "live-blog-20230815-hawaii-maui-wildfires",
+                            "url": "https://www.nytimes.com/2023/08/16/us/politics/biden-hawaii-maui-wildfires.html",
+                            "article:tag": "Maui (Hawaii)",
+                            "al:iphone:url": "nytimes://www.nytimes.com/2023/08/16/us/politics/biden-hawaii-maui-wildfires.html",
+                            "al:android:url": "nyt://article/c8b1010c-8ba2-5fd7-bd08-de240e5bef1d",
+                            "ct": "spotlight",
+                            "twitter:app:url:googleplay": "nyt://article/c8b1010c-8ba2-5fd7-bd08-de240e5bef1d",
+                            "al:ipad:url": "nytimes://www.nytimes.com/2023/08/16/us/politics/biden-hawaii-maui-wildfires.html",
+                            "byl": "By Peter Baker",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The president and the first lady will meet with emergency workers and survivors of the fire, which killed more than 100 people on the Hawaiian island.",
+                            "al:iphone:app_store_id": "284862083",
+                            "al:ipad:app_name": "NYTimes",
+                            "og:url": "https://www.nytimes.com/2023/08/16/us/politics/biden-hawaii-maui-wildfires.html",
+                            "al:android:app_name": "NYTimes",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static01.nyt.com/images/2023/08/16/multimedia/16dc-biden-hawaii-wcfm/16dc-biden-hawaii-wcfm-facebookJumbo.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Advertisement\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\nThe president and the first lady will meet with emergency workers and survivors of the fire, which killed more than 100 people on the Hawaiian island.\n!\nThe wildfires in Hawaii last week are the country\u2019s deadliest in more than a century.Credit...Philip Cheung for The New York Times\nPeter Baker covers the White House and reported from Washington.\n*   Aug. 16, 2023\nPresident Biden will travel to the Hawaiian island of Maui on Monday to view the damage from raging wildfires that devastated much of a coastal town and killed more than 100 people, the White House announced on Wednesday.\nMr. Biden had  that he would visit \u201cas soon as we can,\u201d and the White House statement formalized the timing. Jill Biden, the first lady, will accompany the president, who will meet with emergency workers, survivors, and federal, state and local officials.\n\u201cI remain committed to delivering everything the people of Hawai\u2019i need as they recover from this disaster,\u201d , the social media platform formerly known as Twitter.\nWhile Mr. Biden offered condolences and vowed assistance last week, Republicans criticized him for not addressing the disaster for the next several days and distributed images of him relaxing over the weekend in Rehoboth Beach, Del. \u201cHeartless Joe,\u201d read the banner headline of  on Tuesday, before Mr. Biden said in a speech later in the day in Milwaukee that he wanted to visit but did not want to get in the way of response operations.\nFormer President Donald J. Trump, whose own  was widely criticized, took a shot at Mr. Biden on Monday. \u201cIt is a disgraceful thing that Joe Biden refuses to help or comment on the tragedy in Maui,\u201d Mr. Trump said in a video posted online shortly before he was  on racketeering and conspiracy charges for trying to overturn the 2020...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The New York Times has a prestigious reputation for in-depth journalism and investigative reporting. It is known for its thorough research and fact-checking protocols. While some may criticize it for perceived biases in political reporting, its overall track record for accuracy and commitment to journalistic integrity rates it highly. The New York Times also provides a robust opinion section where diverse viewpoints are presented, which can contribute to discussions around public sentiment and political representation."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-08-16"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "It discusses Biden\u2019s intended visit and acknowledges criticism from Trump, implying engagement from both presidents but primarily focusing on Biden\u2019s actions, suggesting a lack of evidence for Trump's visit and thus somewhat relevant."
+                }
+            }
+        }
+    ]
+}

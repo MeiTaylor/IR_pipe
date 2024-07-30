@@ -1,0 +1,1743 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Misinformation spread about Trump Maui visit on CNN, BBC, and Reuters",
+                "totalResults": "9430",
+                "searchTerms": "Misinformation spread about Trump Maui visit on CNN, BBC, and Reuters",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Misinformation spread about Trump Maui visit on CNN, BBC, and Reuters",
+                "totalResults": "9430",
+                "searchTerms": "Misinformation spread about Trump Maui visit on CNN, BBC, and Reuters",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.433245,
+        "formattedSearchTime": "0.43",
+        "totalResults": "9430",
+        "formattedTotalResults": "9,430"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Reuters Video",
+                "htmlTitle": "<b>Reuters</b> Video",
+                "link": "https://www.reuters.com/video/reuters-video/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Reuters news in video: footage captured by award winning Reuters journalists from around the globe.",
+                "htmlSnippet": "<b>Reuters</b> news in video: footage captured by award winning <b>Reuters</b> journalists from around the globe.",
+                "formattedUrl": "https://www.reuters.com/video/reuters-video/",
+                "htmlFormattedUrl": "https://www.<b>reuters</b>.com/video/<b>reuters</b>-video/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLBT9algkEu2jJsq7rCfLGOT2G-BGOFkEs2QKjc0Nzh9GE_LhvVblNvAlY&s=0",
+                            "width": "150",
+                            "height": "150"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809",
+                            "og:image": "https://ajo.prod.reuters.tv/api/v2/img/66a38938e4b061069eaa3e48-1721993530770?width=1200&height=1200",
+                            "analytics:page_layout": "landing",
+                            "article:published_time": "2024-07-26T11:32:42Z",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Reuters",
+                            "ccbot": "nofollow",
+                            "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                            "og:description": "Reuters news in video: footage captured by award winning Reuters journalists from around the globe.",
+                            "twitter:creator": "@Reuters",
+                            "twitter:image": "https://ajo.prod.reuters.tv/api/v2/img/66a38938e4b061069eaa3e48-1721993530770?width=1200&height=1200",
+                            "twitter:image:alt": "Keep on top of the latest and biggest stories with this quick update on what you need to know about today.",
+                            "twitter:site": "@Reuters",
+                            "article:modified_time": "2024-07-26T11:32:43Z",
+                            "render_timestamp": "2024-07-26T15:52:23.372Z",
+                            "fb:admins": "988502044532272",
+                            "og:video:height": "628",
+                            "og:video:url": "https://ajo.prod.reuters.tv/v3/playlist/631283/master.m3u8",
+                            "og:video:alt": "Keep on top of the latest and biggest stories with this quick update on what you need to know about today.",
+                            "og:type": "article",
+                            "og:image:alt": "Keep on top of the latest and biggest stories with this quick update on what you need to know about today.",
+                            "twitter:title": "Reuters Video",
+                            "ad:template": "video",
+                            "og:image:url": "https://ajo.prod.reuters.tv/api/v2/img/66a38938e4b061069eaa3e48-1721993530770?width=1200&height=1200",
+                            "og:title": "Reuters Video",
+                            "og:image:height": "628",
+                            "fb:pages": "114050161948682",
+                            "og:video:width": "1200",
+                            "article:author": "Reuters",
+                            "fb:app_id": "988502044532272",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Reuters news in video: footage captured by award winning Reuters journalists from around the globe.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/video/reuters-video/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ajo.prod.reuters.tv/api/v2/img/66a38938e4b061069eaa3e48-1721993530770?width=1200&height=1200"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/video/reuters-video/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.reuters.com/video/reuters-video/",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Reuters is known for its strong commitment to factual reporting and journalistic integrity. The organization adheres to rigorous fact-checking procedures and maintains a reputation for delivering reliable news. It has a long history of accurate reporting on political matters, making it a strong resource for verifying claims about public figures. Additionally, their reporting style avoids sensationalism, which is key for assessing the truthfulness of statements regarding public events."
+                },
+                "Newness": {
+                    "NewnessScore": 10,
+                    "Date": "2024-07-26"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "The link is related to a video repository from Reuters but contains no relevant information about the misrepresentation of the Trump video or the spread of misinformation."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Fact Check | Reuters",
+                "htmlTitle": "Fact Check | <b>Reuters</b>",
+                "link": "https://www.reuters.com/fact-check/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Reuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. The unit is part of Reuters news\u00a0...",
+                "htmlSnippet": "<b>Reuters</b> Fact Check addresses online <b>misinformation</b> with coverage that maintains accuracy, integrity and impartiality. The unit is part of <b>Reuters</b> news&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/fact-check/",
+                "htmlFormattedUrl": "https://www.<b>reuters</b>.com/fact-check/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXUJULIHN3bzkOUFJxUds8ElRln9VYTZZirMN6srh0nHeiI9O7X8mHE7rw&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809",
+                            "og:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-factcheck-default.webp?d=204",
+                            "og:type": "website",
+                            "twitter:title": "Fact Check | Reuters",
+                            "ad:template": "landing",
+                            "og:site_name": "Reuters",
+                            "dcsext.dartzone": "/4735792/reuters.com/fact-check/home",
+                            "ccbot": "nofollow",
+                            "dcsext.channellist": "Fact Check",
+                            "og:title": "Fact Check | Reuters",
+                            "analyticsattributes.topicchannel": "Fact Check",
+                            "title": "Reuters Fact Check | Reuters",
+                            "fb:pages": "114050161948682",
+                            "og:description": "Reuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. The unit is part of Reuters news agency.",
+                            "fb:app_id": "988502044532272",
+                            "datemodified": "2024-07-29T17:43:45Z",
+                            "render_timestamp": "2024-07-29T22:49:32.774Z",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Reuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. The unit is part of Reuters news agency.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/fact-check/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/pf/resources/images/reuters/reuters-factcheck-default.webp?d=204"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/fact-check/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.reuters.com/fact-check/",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Reuters is known for its strong commitment to factual reporting and journalistic integrity. The organization adheres to rigorous fact-checking procedures and maintains a reputation for delivering reliable news. It has a long history of accurate reporting on political matters, making it a strong resource for verifying claims about public figures. Additionally, their reporting style avoids sensationalism, which is key for assessing the truthfulness of statements regarding public events."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "It mentions that Reuters fact-checks misinformation but does not provide specific details on the Trump video context, making it somewhat relevant but lacking in specific confirmation."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Reuters Video",
+                "htmlTitle": "<b>Reuters</b> Video",
+                "link": "https://www.reuters.com/video/watch/idRCV00AYJT",
+                "displayLink": "www.reuters.com",
+                "snippet": "A rocket attack that killed 12 children on a soccer field has sparked new warnings of a wider war between Israel and Hezbollah militants in Lebanon.",
+                "htmlSnippet": "A rocket attack that killed 12 children on a soccer field has sparked new warnings of a wider war between Israel and Hezbollah militants in Lebanon.",
+                "formattedUrl": "https://www.reuters.com/video/watch/idRCV00AYJT",
+                "htmlFormattedUrl": "https://www.<b>reuters</b>.com/video/watch/idRCV00AYJT",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc_ZNoCbm-fyJuy1X1YE4ULPLonSwK1JtyzoLjWvg18Nmc5v_IfDuLxumD&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809",
+                            "og:image": "https://ajo.prod.reuters.tv/api/v2/img/66a67f56e4b061069eaa4045-1722187655865?width=1200&height=1200",
+                            "analytics:page_layout": "landing",
+                            "article:published_time": "2024-07-28T17:26:45Z",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Reuters",
+                            "ccbot": "nofollow",
+                            "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                            "og:description": "A rocket attack that killed 12 children on a soccer field has sparked new warnings of a wider war between Israel and Hezbollah militants in Lebanon. Zachary Goelman produced this report.",
+                            "twitter:creator": "@Reuters",
+                            "twitter:image": "https://ajo.prod.reuters.tv/api/v2/img/66a67f56e4b061069eaa4045-1722187655865?width=1200&height=1200",
+                            "twitter:image:alt": "A rocket attack that killed 12 children on a soccer field has sparked new warnings of a wider war between Israel and Hezbollah militants in Lebanon. Zachary Goelman produced this report.",
+                            "twitter:site": "@Reuters",
+                            "article:modified_time": "2024-07-28T17:29:57Z",
+                            "render_timestamp": "2024-07-29T07:22:41.339Z",
+                            "fb:admins": "988502044532272",
+                            "og:video:height": "628",
+                            "og:video:url": "https://ajo.prod.reuters.tv/v3/playlist/631586/master.m3u8",
+                            "og:video:alt": "A rocket attack that killed 12 children on a soccer field has sparked new warnings of a wider war between Israel and Hezbollah militants in Lebanon. Zachary Goelman produced this report.",
+                            "og:type": "article",
+                            "og:image:alt": "A rocket attack that killed 12 children on a soccer field has sparked new warnings of a wider war between Israel and Hezbollah militants in Lebanon. Zachary Goelman produced this report.",
+                            "twitter:title": "Reuters Video",
+                            "ad:template": "video",
+                            "og:image:url": "https://ajo.prod.reuters.tv/api/v2/img/66a67f56e4b061069eaa4045-1722187655865?width=1200&height=1200",
+                            "og:title": "Reuters Video",
+                            "og:image:height": "628",
+                            "fb:pages": "114050161948682",
+                            "og:video:width": "1200",
+                            "article:author": "Reuters",
+                            "fb:app_id": "988502044532272",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "A rocket attack that killed 12 children on a soccer field has sparked new warnings of a wider war between Israel and Hezbollah militants in Lebanon. Zachary Goelman produced this report.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/video/watch/idRCV00AYJT"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ajo.prod.reuters.tv/api/v2/img/66a67f56e4b061069eaa4045-1722187655865?width=1200&height=1200"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/video/watch/idRCV00AYJT: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.reuters.com/video/watch/idRCV00AYJT",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Reuters is known for its strong commitment to factual reporting and journalistic integrity. The organization adheres to rigorous fact-checking procedures and maintains a reputation for delivering reliable news. It has a long history of accurate reporting on political matters, making it a strong resource for verifying claims about public figures. Additionally, their reporting style avoids sensationalism, which is key for assessing the truthfulness of statements regarding public events."
+                },
+                "Newness": {
+                    "NewnessScore": 10,
+                    "Date": "2024-07-28"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "The content appears unrelated to the question. It relates to a different situation and provides no confirmation about the misrepresentation of the Trump video."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Protests Supreme Court Residences",
+                "htmlTitle": "Protests Supreme Court Residences",
+                "link": "https://www.justice.gov/d9/2023-05/03.13.23.%20--%20Protests%20Supreme%20Court%20Residences%20--%20Interim%20-%20Part%201.pdf",
+                "displayLink": "www.justice.gov",
+                "snippet": "Jan 6, 2023 ... ... See also: Bloomberg, CBS, CNN, Courthouse News, Fox, HuffPost, LAT, NBC, NPR, NYT, Reuters, USA Today,. WaPo, WSJ. Reuters: U.S. Justice\u00a0...",
+                "htmlSnippet": "Jan 6, 2023 <b>...</b> ... <b>See</b> also: Bloomberg, CBS, <b>CNN</b>, Courthouse News, Fox, HuffPost, LAT, NBC, NPR, NYT, <b>Reuters</b>, USA Today,. WaPo, WSJ. <b>Reuters</b>: U.S. Justice&nbsp;...",
+                "formattedUrl": "https://www.justice.gov/.../03.13.23.%20--%20Protests%20Supreme%20Co...",
+                "htmlFormattedUrl": "https://www.justice.gov/.../03.13.23.%20--%20Protests%20Supreme%20Co...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "moddate": "D:20230316173312-04'00'",
+                            "creationdate": "D:20230314175815-04'00'",
+                            "creator": "Adobe Acrobat Pro (32-bit) 22.3.20310",
+                            "author": "Office of Information Policy",
+                            "subject": "OIPs FOIA Library",
+                            "producer": "Adobe Acrobat Pro (32-bit) 22 Paper Capture Plug-in",
+                            "title": "Protests Supreme Court Residences"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "[Content truncated]... shooter mailed seven-volume diary to Chinese-language newspaper\u201d \nEND \nRENDON Media News Alert Notice: \nThis RENDON product is distributed as part of a deliverable for the DOJ News Clipping Service Solicitation 15JPSS18RQZM00005 for for \nDOJ.News.Clips@usdoj.gov. \nThe original recipient is currently subscribed to doj digests as: DOJ.News.Clips@usdoj.gov \nTo unsubscribe, please email DOJ.News.Clips.Shared.Mailbox@usdoj.gov with \"UNSUBSCRIBE ME\" in the subject line. Your request will \nbe processed within 7 business days.        \n> Document ID: 0.7.710.7118 20230126-0001655 From :Kapper, Matthew B. (OAG) Subject: Fv.d: Abbreviated Weekend C ips\nTo : i)! 'lq1f!l~1 _(0AG) .Sent: y , .44 PM (UTC -04.00 )\nSent from my iP hone Begin forwarded message: \nFrom: \"Coley, Anthony D. (PAO)\" <Anthony.D.Coley@usdoj .gov> \nDate: May 15 , 2022 at 3:23:21 PM E DT \nTo: \"Klapper, Matthew B. (OAG)\" \"Goodlander, Margaret V. \n(OAG)\" , \"Matthews-Johnson, Tamarra D. (OAG)\" , \"Vi ss er , Tim (OAG)\" (b )(6) , \"Reich, , \"Dickerson, Julie (OAG)\" , AG (S MO )\" <DAG.Schedule@usdoj.gov>, \"Carlin, John P. (ODAG)\" \nCc: \"Iverson, Dena (PAO)\" <Dena.LDeBonis@usdoj.gov> \nSubject: Abbreviated Weekend Clips \nAFTERNOON HEADLINES \n\u2022 \"Investigators Examine Suspect's Racist Motivation After Buffalo Massacre\"  \n\u2022 \"Swe den's ruling party greenlights joining NATO; bloc chief calls potential adds 'historic\"'  \nUS DEPARTMENT OF JUSTICE NEWS \nAP: US attorney says FBI is investigating Buffalo shooting as both a hate crime and racially motivated violent extremism, Unattributed, May 14 , 2022, 6:24 PM US attorney says FBI is investigating Buffalo shooting as both a hate crime and racially motivated violent extremism.  See also...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The U.S. Department of Justice (DOJ) is a federal executive department and produces information that is factual regarding legal matters, federal laws, and actions taken by the justice system. However, while it is reliable for matters concerning legal issues and government operations, it may not provide the depth of journalistic reporting necessary for claims about political events or visits. Still, as an official government source, it holds a high standard of accuracy regarding its statements."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-01-06"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "It lists various media sources but does not specifically address the Trump video or its misinformation, rendering it minimally relevant."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "POLITICO Playbook - POLITICO",
+                "htmlTitle": "POLITICO Playbook - POLITICO",
+                "link": "https://www.politico.com/playbook",
+                "displayLink": "www.politico.com",
+                "snippet": "Yes, she has managed to reset Democrats' chances against GOP nominee DONALD TRUMP. Yes, her campaign is now $200 million and 170,000 new volunteers richer. But\u00a0...",
+                "htmlSnippet": "Yes, she has managed to reset Democrats&#39; chances against GOP nominee DONALD <b>TRUMP</b>. Yes, her campaign is now $200 million and 170,000 new volunteers richer. But&nbsp;...",
+                "formattedUrl": "https://www.politico.com/playbook",
+                "htmlFormattedUrl": "https://www.politico.com/playbook",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKRGQTMbY6u1fKgDeR10v3LYE1MjIy7ZMucm_lracTsYGaex__TJKugXY-&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://static.politico.com/64/87/6f2f2f814019a86fbfa9e5b76e7e/politico-pb-cms-shared-graphic.png",
+                            "theme-color": "#D71920",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "og:fb_appid": "114037015331397",
+                            "og:site_name": "POLITICO",
+                            "og:title": "Playbook",
+                            "msapplication-tileimage": "/mstile-144x144.png",
+                            "title": "Playbook: After the sugar high",
+                            "og:description": "And Biden travels to the Lone Star State.",
+                            "fb:pages": "62317591679",
+                            "twitter:creator": "@politico",
+                            "twitter:image": "https://www.politico.com/dims4/default/404025a/2147483647/legacy_thumbnail/1200x628%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F76%2Fc3%2F1824995047689e5686b9b11a54c7%2Fpolitico-pb-cms-shared-graphic.png",
+                            "twitter:site": "@politico",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "build": "1.0.0-SNAPSHOT",
+                            "brightspot.contentid": "0000014f-1646-d88f-a1cf-5f46b7bd0000",
+                            "host": "www.politico.com",
+                            "og:url": "http://politi.co/2A2M52A"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.politico.com/64/87/6f2f2f814019a86fbfa9e5b76e7e/politico-pb-cms-shared-graphic.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Playbook: After the sugar high\n------------------------------\n_With help from Eli Okun, Garrett Ross and Bethany Irvine_\n**EYES ON CARACAS \u2014**  by Reuters\u2019 Vivian Sequera, Deisy Buitrago and Mayela Armas: \u201cThe country's electoral authority said just after midnight on Monday that \\ MADURO** had won a third term with 51% of the vote, despite multiple exit polls which pointed to an opposition win.\u201d\n**Secretary of State ANTONY BLINKEN,**  this morning: \u201cWe have serious concerns that the result announced does not reflect the will or the votes of the Venezuelan people. \u2026 The international community is watching this very closely and will respond accordingly.\u201d\n**A CRUCIAL THREE WEEKS \u2014** The \u201csugar high\u201d is about to wear off.\n**Yes, VP KAMALA HARRIS** has had a . Yes, she has managed to reset Democrats\u2019 chances against GOP nominee **DONALD TRUMP**. Yes, her campaign is now $200 million and 170,000 new volunteers richer.\n**But the campaign now shifts** into a new phase, and it\u2019s the next three weeks before the Democratic National Convention that will dictate whether Harris can harness the momentum, grow her appeal and potentially expand the electoral map in Democrats\u2019 favor.\n**None of those things are guaranteed,** as Harris herself is telling aides and allies, we\u2019re told: \u201cShe is not blinded by the sugar,\u201d said one insider who recently spoke with Harris. \u201cShe understands the gravity and excitement of the moment but also understands the work that needs to be done.\u201d\n**Foremost on her mind** is activating the new volunteers and getting them out knocking on doors. Harris and emerging campaign brain trust share the view that shifting the fundamentals of the race will be difficult with a calcified electorate and fragmented media environment.\n**But even some Republicans acknowledge** she has been handed a major opportunity to reset the race over the coming weeks.\n**\u201cThere is no question Kamala has the momentum** and she gets a summer lull period during the Olympics, a VPOTUS pick, then a convention before we are quickly at...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Politico specializes in political news and is generally seen as a credible source for political reporting and analysis. It provides regular fact-checking on political statements, is well-respected in the political journalism field, and often covers significant news related to elections and political figures. While credible, it sometimes has a partisan slant, which can influence the framing of issues."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "Although the source discusses political dynamics, it does not address the specific misinformation regarding Trump\u2019s visit to Maui, making it minimally relevant."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "The Associated Press (@AP) / X",
+                "htmlTitle": "The Associated Press (@AP) / X",
+                "link": "https://twitter.com/ap",
+                "displayLink": "twitter.com",
+                "snippet": "Russia is relying on unwitting Americans to spread election disinformation ... Russia is relying on unwitting Americans to spread election disinformation, US\u00a0...",
+                "htmlSnippet": "Russia is relying on unwitting Americans to <b>spread</b> election <b>disinformation</b> ... Russia is relying on unwitting Americans to <b>spread</b> election <b>disinformation</b>, US&nbsp;...",
+                "formattedUrl": "https://twitter.com/ap",
+                "htmlFormattedUrl": "https://twitter.com/ap",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyYa8DXMCi--vGBWRARi1rcXnOoH4Qu4XH0q8fWel5_6OwYf6hzlVWkqY&s",
+                            "width": "200",
+                            "height": "200"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "identifier": "51241574",
+                            "givenname": "The Associated Press",
+                            "additionalname": "AP"
+                        },
+                        {
+                            "identifier": "51241574",
+                            "givenname": "The Associated Press",
+                            "additionalname": "AP"
+                        },
+                        {
+                            "identifier": "51241574",
+                            "givenname": "The Associated Press",
+                            "additionalname": "AP"
+                        },
+                        {
+                            "identifier": "51241574",
+                            "givenname": "The Associated Press",
+                            "additionalname": "AP"
+                        },
+                        {
+                            "identifier": "51241574",
+                            "givenname": "The Associated Press",
+                            "additionalname": "AP"
+                        },
+                        {
+                            "identifier": "51241574",
+                            "givenname": "The Associated Press",
+                            "additionalname": "AP"
+                        },
+                        {
+                            "identifier": "51241574",
+                            "givenname": "The Associated Press",
+                            "additionalname": "AP"
+                        },
+                        {
+                            "identifier": "51241574",
+                            "givenname": "The Associated Press",
+                            "additionalname": "AP"
+                        },
+                        {
+                            "identifier": "51241574",
+                            "givenname": "The Associated Press",
+                            "additionalname": "AP"
+                        },
+                        {
+                            "identifier": "51241574",
+                            "givenname": "The Associated Press",
+                            "additionalname": "AP"
+                        },
+                        {
+                            "identifier": "51241574",
+                            "givenname": "The Associated Press",
+                            "additionalname": "AP"
+                        },
+                        {
+                            "identifier": "51241574",
+                            "givenname": "The Associated Press",
+                            "additionalname": "AP"
+                        },
+                        {
+                            "identifier": "51241574",
+                            "givenname": "The Associated Press",
+                            "additionalname": "AP"
+                        },
+                        {
+                            "identifier": "51241574",
+                            "givenname": "The Associated Press",
+                            "additionalname": "AP"
+                        },
+                        {
+                            "identifier": "51241574",
+                            "givenname": "The Associated Press",
+                            "additionalname": "AP"
+                        },
+                        {
+                            "identifier": "51241574",
+                            "givenname": "The Associated Press",
+                            "additionalname": "AP"
+                        },
+                        {
+                            "identifier": "51241574",
+                            "givenname": "The Associated Press",
+                            "additionalname": "AP"
+                        },
+                        {
+                            "identifier": "51241574",
+                            "givenname": "The Associated Press",
+                            "additionalname": "AP"
+                        },
+                        {
+                            "identifier": "51241574",
+                            "givenname": "The Associated Press",
+                            "additionalname": "AP"
+                        },
+                        {
+                            "identifier": "51241574",
+                            "givenname": "The Associated Press",
+                            "additionalname": "AP"
+                        }
+                    ],
+                    "interactioncounter": [
+                        {
+                            "userinteractioncount": "150",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/AP/status/1818048927213420920/likes"
+                        },
+                        {
+                            "userinteractioncount": "89",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/AP/status/1818048927213420920/retweets"
+                        },
+                        {
+                            "userinteractioncount": "22",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/AP/status/1818048927213420920/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "85",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/AP/status/1818048927213420920"
+                        },
+                        {
+                            "userinteractioncount": "37419",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "366",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/AP/status/1818044027373056377/likes"
+                        },
+                        {
+                            "userinteractioncount": "78",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/AP/status/1818044027373056377/retweets"
+                        },
+                        {
+                            "userinteractioncount": "16",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/AP/status/1818044027373056377/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "154",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/AP/status/1818044027373056377"
+                        },
+                        {
+                            "userinteractioncount": "64202",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "67",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/AP/status/1818038815207948541/likes"
+                        },
+                        {
+                            "userinteractioncount": "15",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/AP/status/1818038815207948541/retweets"
+                        },
+                        {
+                            "userinteractioncount": "3",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/AP/status/1818038815207948541/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "11",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/AP/status/1818038815207948541"
+                        },
+                        {
+                            "userinteractioncount": "63701",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "119",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/AP/status/1818038105896579241/likes"
+                        },
+                        {
+                            "userinteractioncount": "10",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/AP/status/1818038105896579241/retweets"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/AP/status/1818038105896579241/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "10",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/AP/status/1818038105896579241"
+                        },
+                        {
+                            "userinteractioncount": "67222",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "22",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/AP/status/1818033776057803255/likes"
+                        },
+                        {
+                            "userinteractioncount": "9",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/AP/status/1818033776057803255/retweets"
+                        },
+                        {
+                            "userinteractioncount": "6",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/AP/status/1818033776057803255/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "19",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/AP/status/1818033776057803255"
+                        },
+                        {
+                            "userinteractioncount": "70013",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "31",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/AP/status/1818029003749384512/likes"
+                        },
+                        {
+                            "userinteractioncount": "14",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/AP/status/1818029003749384512/retweets"
+                        },
+                        {
+                            "userinteractioncount": "3",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/AP/status/1818029003749384512/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "11",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/AP/status/1818029003749384512"
+                        },
+                        {
+                            "userinteractioncount": "69495",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "126",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/AP/status/1818028391985012818/likes"
+                        },
+                        {
+                            "userinteractioncount": "52",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/AP/status/1818028391985012818/retweets"
+                        },
+                        {
+                            "userinteractioncount": "9",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/AP/status/1818028391985012818/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "9",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/AP/status/1818028391985012818"
+                        },
+                        {
+                            "userinteractioncount": "67609",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "39",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/AP/status/1818023712509091841/likes"
+                        },
+                        {
+                            "userinteractioncount": "15",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/AP/status/1818023712509091841/retweets"
+                        },
+                        {
+                            "userinteractioncount": "2",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/AP/status/1818023712509091841/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "6",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/AP/status/1818023712509091841"
+                        },
+                        {
+                            "userinteractioncount": "76108",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "14",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/AP/status/1818018680061452771/likes"
+                        },
+                        {
+                            "userinteractioncount": "2",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/AP/status/1818018680061452771/retweets"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/AP/status/1818018680061452771/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "8",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/AP/status/1818018680061452771"
+                        },
+                        {
+                            "userinteractioncount": "75748",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "150",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/AP/status/1818013821262320041/likes"
+                        },
+                        {
+                            "userinteractioncount": "31",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/AP/status/1818013821262320041/retweets"
+                        },
+                        {
+                            "userinteractioncount": "4",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/AP/status/1818013821262320041/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "14",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/AP/status/1818013821262320041"
+                        },
+                        {
+                            "userinteractioncount": "81702",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "493",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/AP/status/1818008612322590766/likes"
+                        },
+                        {
+                            "userinteractioncount": "185",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/AP/status/1818008612322590766/retweets"
+                        },
+                        {
+                            "userinteractioncount": "10",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/AP/status/1818008612322590766/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "10",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/AP/status/1818008612322590766"
+                        },
+                        {
+                            "userinteractioncount": "94873",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "84",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/AP/status/1818003583532450108/likes"
+                        },
+                        {
+                            "userinteractioncount": "35",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/AP/status/1818003583532450108/retweets"
+                        },
+                        {
+                            "userinteractioncount": "15",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/AP/status/1818003583532450108/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "30",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/AP/status/1818003583532450108"
+                        },
+                        {
+                            "userinteractioncount": "87912",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "89",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/AP/status/1818002332161888575/likes"
+                        },
+                        {
+                            "userinteractioncount": "20",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/AP/status/1818002332161888575/retweets"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/AP/status/1818002332161888575/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "10",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/AP/status/1818002332161888575"
+                        },
+                        {
+                            "userinteractioncount": "86856",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "543",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/AP/status/1817998718026526799/likes"
+                        },
+                        {
+                            "userinteractioncount": "153",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/AP/status/1817998718026526799/retweets"
+                        },
+                        {
+                            "userinteractioncount": "21",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/AP/status/1817998718026526799/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "35",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/AP/status/1817998718026526799"
+                        },
+                        {
+                            "userinteractioncount": "95912",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "79",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/AP/status/1817993520994562428/likes"
+                        },
+                        {
+                            "userinteractioncount": "10",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/AP/status/1817993520994562428/retweets"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/AP/status/1817993520994562428/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "4",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/AP/status/1817993520994562428"
+                        },
+                        {
+                            "userinteractioncount": "84507",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "436",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/AP/status/1817989803977162989/likes"
+                        },
+                        {
+                            "userinteractioncount": "58",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/AP/status/1817989803977162989/retweets"
+                        },
+                        {
+                            "userinteractioncount": "5",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/AP/status/1817989803977162989/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "12",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/AP/status/1817989803977162989"
+                        },
+                        {
+                            "userinteractioncount": "91371",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "125",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/AP/status/1817988487297007846/likes"
+                        },
+                        {
+                            "userinteractioncount": "14",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/AP/status/1817988487297007846/retweets"
+                        },
+                        {
+                            "userinteractioncount": "8",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/AP/status/1817988487297007846/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "48",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/AP/status/1817988487297007846"
+                        },
+                        {
+                            "userinteractioncount": "90351",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "58",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/AP/status/1817984452582326423/likes"
+                        },
+                        {
+                            "userinteractioncount": "16",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/AP/status/1817984452582326423/retweets"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/AP/status/1817984452582326423/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "12",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/AP/status/1817984452582326423"
+                        },
+                        {
+                            "userinteractioncount": "83800",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "30",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/AP/status/1817983715064127969/likes"
+                        },
+                        {
+                            "userinteractioncount": "20",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/AP/status/1817983715064127969/retweets"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/AP/status/1817983715064127969/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "3",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/AP/status/1817983715064127969"
+                        },
+                        {
+                            "userinteractioncount": "74633",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "145",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/AP/status/1817979675064320253/likes"
+                        },
+                        {
+                            "userinteractioncount": "6",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/AP/status/1817979675064320253/retweets"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/AP/status/1817979675064320253/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "4",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/AP/status/1817979675064320253"
+                        },
+                        {
+                            "userinteractioncount": "81041",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://pbs.twimg.com/profile_images/1736863672029310976/gzIskvxa_200x200.jpg",
+                            "theme-color": "#FFFFFF",
+                            "og:type": "profile",
+                            "og:site_name": "X (formerly Twitter)",
+                            "al:ios:app_name": "X",
+                            "apple-mobile-web-app-title": "Twitter",
+                            "og:title": "The Associated Press (@AP) on X",
+                            "al:android:package": "com.twitter.android",
+                            "al:ios:url": "twitter://user?screen_name=AP",
+                            "title": "The Associated Press (@AP) on X",
+                            "og:description": "Advancing the power of facts, globally \ud83c\udf0e",
+                            "al:ios:app_store_id": "333903271",
+                            "facebook-domain-verification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+                            "al:android:url": "twitter://user?screen_name=AP",
+                            "fb:app_id": "2231777543",
+                            "apple-mobile-web-app-status-bar-style": "white",
+                            "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "https://twitter.com/AP",
+                            "al:android:app_name": "X"
+                        }
+                    ],
+                    "videoobject": [
+                        {
+                            "duration": "PT0H0M45S",
+                            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1817984452582326423",
+                            "contenturl": "https://video.twimg.com/amplify_video/1817982901562318848/vid/avc1/720x1280/V-tT-af5wSjv2kiX.mp4?tag=14",
+                            "uploaddate": "2024-07-29T18:04:04.000Z",
+                            "name": "Here is the most Instagrammable spot at the 2024 Paris Olympics",
+                            "description": "The Eiffel Tower Stadium, where beach volleyball is being played at the 2024 Paris Olympics, has been one of the most popular attractions of the Games as hundreds of people try to take the best photo.",
+                            "caption": "Embedded video",
+                            "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1817982901562318848/img/YgIZ9oCJC33JvZ8t.jpg"
+                        }
+                    ],
+                    "collection": [
+                        {
+                            "name": "Profile posts"
+                        }
+                    ],
+                    "creativework": [
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/FiJ78WV6fe"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/GhPKMAygT2"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/FWtPqun4ZO"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/pLrj7g378K"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/5RjuCGZL48"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/ap60vKzGBg"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/rJ1G0gT96V"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/goxp6gNpVU"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/M9pqwRDtX2"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/xDsh2SjR8m"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/dMFeB1VpEX"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/DmiG0zHdWt"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/bPmvASNxUU"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/87mv9lY0lU"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/glx9zx5k7E"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/r0NDnuuFSq"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/ySIV1aPZFZ"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/tbj4sIJ4zI"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/h9T7NTXQSJ"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/cEp1NFdS4C"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://pbs.twimg.com/profile_images/1736863672029310976/gzIskvxa_200x200.jpg"
+                        }
+                    ],
+                    "socialmediaposting": [
+                        {
+                            "identifier": "1818048927213420920",
+                            "commentcount": "85",
+                            "articlebody": "Russia is relying on unwitting Americans to spread election disinformation, US officials say",
+                            "position": "1",
+                            "datecreated": "2024-07-29T22:20:16.000Z",
+                            "datepublished": "2024-07-29T22:20:16.000Z",
+                            "url": "https://twitter.com/AP/status/1818048927213420920"
+                        },
+                        {
+                            "identifier": "1818044027373056377",
+                            "commentcount": "154",
+                            "articlebody": "'White Dudes for Harris' is the latest in a series of Zoom gatherings backing the vice president",
+                            "position": "2",
+                            "datecreated": "2024-07-29T22:00:48.000Z",
+                            "datepublished": "2024-07-29T22:00:48.000Z",
+                            "url": "https://twitter.com/AP/status/1818044027373056377"
+                        },
+                        {
+                            "identifier": "1818038815207948541",
+                            "commentcount": "11",
+                            "articlebody": "At these locations around the world, cats are the star",
+                            "position": "3",
+                            "datecreated": "2024-07-29T21:40:05.000Z",
+                            "datepublished": "2024-07-29T21:40:05.000Z",
+                            "url": "https://twitter.com/AP/status/1818038815207948541"
+                        },
+                        {
+                            "identifier": "1818038105896579241",
+                            "commentcount": "10",
+                            "articlebody": "It\u2019s a girl. That\u2019s the surprise message that American swimmer Ryan Murphy got from his wife Bridget Konttinen on Monday night on pool deck at the Paris Olympics.",
+                            "position": "4",
+                            "datecreated": "2024-07-29T21:37:16.000Z",
+                            "datepublished": "2024-07-29T21:37:16.000Z",
+                            "url": "https://twitter.com/AP/status/1818038105896579241"
+                        },
+                        {
+                            "identifier": "1818033776057803255",
+                            "commentcount": "19",
+                            "articlebody": "Liberty University, Jerry Falwell Jr. settle legal and personal disputes",
+                            "position": "5",
+                            "datecreated": "2024-07-29T21:20:04.000Z",
+                            "datepublished": "2024-07-29T21:20:04.000Z",
+                            "url": "https://twitter.com/AP/status/1818033776057803255"
+                        },
+                        {
+                            "identifier": "1818029003749384512",
+                            "commentcount": "11",
+                            "articlebody": "In New York, a ballot referendum meant to protect abortion may not use the word 'abortion'",
+                            "position": "6",
+                            "datecreated": "2024-07-29T21:01:06.000Z",
+                            "datepublished": "2024-07-29T21:01:06.000Z",
+                            "url": "https://twitter.com/AP/status/1818029003749384512"
+                        },
+                        {
+                            "identifier": "1818028391985012818",
+                            "commentcount": "9",
+                            "articlebody": "Judge declines to appoint monitor for NRA but hands former CEO Wayne LaPierre a 10-year ban",
+                            "position": "7",
+                            "datecreated": "2024-07-29T20:58:40.000Z",
+                            "datepublished": "2024-07-29T20:58:40.000Z",
+                            "url": "https://twitter.com/AP/status/1818028391985012818"
+                        },
+                        {
+                            "identifier": "1818023712509091841",
+                            "commentcount": "6",
+                            "articlebody": "Midwest sees surge in calls to poison control centers amid bumper crop of wild mushrooms",
+                            "position": "8",
+                            "datecreated": "2024-07-29T20:40:04.000Z",
+                            "datepublished": "2024-07-29T20:40:04.000Z",
+                            "url": "https://twitter.com/AP/status/1818023712509091841"
+                        },
+                        {
+                            "identifier": "1818018680061452771",
+                            "commentcount": "8",
+                            "articlebody": "Insider Q&A: LinkedIn is bullish on AI. Will that help job seekers?",
+                            "position": "9",
+                            "datecreated": "2024-07-29T20:20:05.000Z",
+                            "datepublished": "2024-07-29T20:20:05.000Z",
+                            "url": "https://twitter.com/AP/status/1818018680061452771"
+                        },
+                        {
+                            "identifier": "1818013821262320041",
+                            "commentcount": "14",
+                            "articlebody": "\u2018Deadpool & Wolverine\u2019 now has the 6th biggest opening weekend of all time",
+                            "position": "10",
+                            "datecreated": "2024-07-29T20:00:46.000Z",
+                            "datepublished": "2024-07-29T20:00:46.000Z",
+                            "url": "https://twitter.com/AP/status/1818013821262320041"
+                        },
+                        {
+                            "identifier": "1818008612322590766",
+                            "commentcount": "10",
+                            "articlebody": "Blood test for colon cancer screening is approved by US regulators",
+                            "position": "11",
+                            "datecreated": "2024-07-29T19:40:04.000Z",
+                            "datepublished": "2024-07-29T19:40:04.000Z",
+                            "url": "https://twitter.com/AP/status/1818008612322590766"
+                        },
+                        {
+                            "identifier": "1818003583532450108",
+                            "commentcount": "30",
+                            "articlebody": "Wildfire smoke may be worse for your brain than other air pollution, study says",
+                            "position": "12",
+                            "datecreated": "2024-07-29T19:20:05.000Z",
+                            "datepublished": "2024-07-29T19:20:05.000Z",
+                            "url": "https://twitter.com/AP/status/1818003583532450108"
+                        },
+                        {
+                            "identifier": "1818002332161888575",
+                            "commentcount": "10",
+                            "articlebody": "Haley Batten wins Olympic silver medal in best finish by American mountain biker \u2014 then gets fined",
+                            "position": "13",
+                            "datecreated": "2024-07-29T19:15:07.000Z",
+                            "datepublished": "2024-07-29T19:15:07.000Z",
+                            "url": "https://twitter.com/AP/status/1818002332161888575"
+                        },
+                        {
+                            "identifier": "1817998718026526799",
+                            "commentcount": "35",
+                            "articlebody": "With DUI-related ejection from Army, deputy who killed Massey should have raised flags, experts say",
+                            "position": "14",
+                            "datecreated": "2024-07-29T19:00:45.000Z",
+                            "datepublished": "2024-07-29T19:00:45.000Z",
+                            "url": "https://twitter.com/AP/status/1817998718026526799"
+                        },
+                        {
+                            "identifier": "1817993520994562428",
+                            "commentcount": "4",
+                            "articlebody": "Illness ended Jade Carey's hopes for another floor exercise medal. She could still win the team gold",
+                            "position": "15",
+                            "datecreated": "2024-07-29T18:40:06.000Z",
+                            "datepublished": "2024-07-29T18:40:06.000Z",
+                            "url": "https://twitter.com/AP/status/1817993520994562428"
+                        },
+                        {
+                            "identifier": "1817989803977162989",
+                            "commentcount": "12",
+                            "articlebody": "BREAKING: Japan surged past China for a gold medal in men's gymnastics while the U.S. earned a bronze \u2014 its first Olympic team medal since 2008.",
+                            "position": "16",
+                            "datecreated": "2024-07-29T18:25:20.000Z",
+                            "datepublished": "2024-07-29T18:25:20.000Z",
+                            "url": "https://twitter.com/AP/status/1817989803977162989"
+                        },
+                        {
+                            "identifier": "1817988487297007846",
+                            "commentcount": "48",
+                            "articlebody": "American flags should be born in the USA now, too, Congress says",
+                            "position": "17",
+                            "datecreated": "2024-07-29T18:20:06.000Z",
+                            "datepublished": "2024-07-29T18:20:06.000Z",
+                            "url": "https://twitter.com/AP/status/1817988487297007846"
+                        },
+                        {
+                            "identifier": "1817984452582326423",
+                            "commentcount": "12",
+                            "articlebody": "The Eiffel Tower Stadium, where beach volleyball is being played at the 2024 Paris Olympics, has been one of the most popular attractions of the Games as hundreds of people try to take the...",
+                            "position": "18",
+                            "datecreated": "2024-07-29T18:04:04.000Z",
+                            "datepublished": "2024-07-29T18:04:04.000Z",
+                            "url": "https://twitter.com/AP/status/1817984452582326423"
+                        },
+                        {
+                            "identifier": "1817983715064127969",
+                            "commentcount": "3",
+                            "articlebody": "Former Major League pitcher Reyes Moronta dies in a motorcycle crash in the Dominican Republic",
+                            "position": "19",
+                            "datecreated": "2024-07-29T18:01:08.000Z",
+                            "datepublished": "2024-07-29T18:01:08.000Z",
+                            "url": "https://twitter.com/AP/status/1817983715064127969"
+                        },
+                        {
+                            "identifier": "1817979675064320253",
+                            "commentcount": "4",
+                            "articlebody": "Jason Kelce recruited by rugby star Ilona Maher as the US Olympic women's team's super fan",
+                            "position": "20",
+                            "datecreated": "2024-07-29T17:45:05.000Z",
+                            "datepublished": "2024-07-29T17:45:05.000Z",
+                            "url": "https://twitter.com/AP/status/1817979675064320253"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Don\u2019t miss what\u2019s happening\nPeople on X are the first to know.",
+                    "content_tokens": 16
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "Twitter is a social media platform and not a news source itself, which limits its reliability. While it can be an avenue for breaking news and often hosts credible sources, it is also a platform for misinformation and unverified claims. Users can post any content, and the lack of editorial oversight means that content often lacks verifiable accuracy."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This evidence involves general misinformation but lacks specific relevance to the misrepresentation of the Trump video or how widely it has spread."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Axios - Breaking news, U.S. news and politics, and local news",
+                "htmlTitle": "Axios - Breaking news, U.S. news and politics, and local news",
+                "link": "https://www.axios.com/",
+                "displayLink": "www.axios.com",
+                "snippet": "Smart, efficient news worthy of your time, attention, and trust. Covering local news, politics, health, climate, tech, media, business, sports, world,\u00a0...",
+                "htmlSnippet": "Smart, efficient news worthy of your time, attention, and trust. Covering local news, politics, health, climate, tech, media, business, sports, world,&nbsp;...",
+                "formattedUrl": "https://www.axios.com/",
+                "htmlFormattedUrl": "https://www.axios.com/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3JaDunyHBmGX1ICLmb8V8uinOO4Ho0sRIgVcGvPdorPsdJeznppE1ZshB&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://assets.axios.com/203e9f932cc97836ac2ff4c6c982676c.png",
+                            "og:image:alt": "Axios Logo",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Axios - Breaking news, U.S. news and politics, and local news",
+                            "og:site_name": "Axios",
+                            "og:title": "Axios - Breaking news, U.S. news and politics, and local news",
+                            "og:description": "Smart, efficient news worthy of your time, attention, and trust. Covering local news, politics, health, climate, tech, media, business, sports, world, science and more.",
+                            "twitter:image": "https://assets.axios.com/203e9f932cc97836ac2ff4c6c982676c.png",
+                            "next-head-count": "27",
+                            "twitter:image:alt": "Axios Logo",
+                            "twitter:site": "@axios",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "axios:pagetitle": "Axios - Breaking news, U.S. news and politics, and local news",
+                            "twitter:description": "Smart, efficient news worthy of your time, attention, and trust. Covering local news, politics, health, climate, tech, media, business, sports, world, science and more.",
+                            "og:url": "https://www.axios.com"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://assets.axios.com/203e9f932cc97836ac2ff4c6c982676c.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "!\n*   \nUpdated 1 hour ago - \n-----------------------------------------------------------------------------------------------------------------------------------------------\n!\n!\n*   \n3 hours ago - \n----------------------------------------------------------------------------------------------------------------------------------------------------------\n!\n!\n*   \n3 hours ago - \n----------------------------------------------------------------------------------------------------------------------------------------\n!\n!\n*   \n5 hours ago - \n---------------------------------------------------------------------------------------------------------------------------------\n!\n*   \n7 hours ago - \n-----------------------------------------------------------------------------------------------------------------\n!\n!\n*   \n7 hours ago - \n--------------------------------------------------------------------------------------------------------------------------------------\n!\n!\n*   \n9 hours ago - \n-------------------------------------------------------------------------------------------------------------------------------\n!\n!\n*   \n9 hours ago - \n-------------------------------------------------------------------------------------------------------------------------------\n!\n!\n!\n*   \n*   \n10 hours ago - \n-----------------------------------------------------------------------------------------------------------------------------------------------\n!\n!\n*   \n10 hours ago - \n------------------------------------------------------------------------------------------------------------------------------------\n!\n!\n*   \n10 hours ago - \n------------------------------------------------------------------------------------------------------------------\n!\n!\n*   \n11 hours ago - \n---------------------------------------------------------------------------------------------------------------\n!\n!\n*   \n11 hours ago - \n---------------------------------------------------------------------------------------------------------------------------------------------------\n!\n!\n*   \nUpdated 15 hours ago - \n-------------------------------------------------------------------------------------------------------------------------------------------\n!\n*   \n16 hours ago - \n-------------------------------------------------------------------------------------------------------------------------------\n!\n!\n*   \n17 hours ago - \n--------------------------------------------------------------------------------------------------------------------------\n!\n*   \n18 hours ago - \n--------------------------------------------------------------------------------------------------------------------------\n!\n*   \n19 hours ago - \n--------------------------------------------------------------------------------------------------------------------------------------------------\n!\n!\n*   \n19 hours ago - \n----------------------------------------------------------------------------------------------------------------------------------------------\n!\n!\n*   \n19 hours ago - \n--------------------------------------------------------------------------------------------------------------------------------\n!\n!\n*   \n20 hours ago - \n-----------------------------------------------------------------------------------------------------------------------------------------------\n!\n!\n*   \nUpdated 22 hours ago - \n-------------------------------------------------------------------------------------------------------------------------------------------\n!\n!\n*   \nUpdated Jul 28, 2024 - \n----------------------------------------------------------------------------------------------------------------------------------------------------\n!",
+                    "content_tokens": 284
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Axios provides concise and factual news coverage and has built a reputation for accuracy in its reporting. It uses a clear format to present news and analysis, and while it may have some bias toward specific political leanings, it generally seeks to provide honest and factual reporting. They also engage in some levels of fact-checking, which enhances their credibility."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This is generic news coverage and does not address misinformation about Trump visiting Maui or the specifics of the video in question."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Portal:Current events - Wikipedia",
+                "htmlTitle": "Portal:Current events - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Portal:Current_events",
+                "displayLink": "en.wikipedia.org",
+                "snippet": "Topics in the news \u00b7 Landslides kill at least 257 people in Geze Gofa, Ethiopia. \u00b7 In cycling, Tadej Poga\u010dar (pictured) wins the Tour de France. \u00b7 Incumbent U.S.\u00a0...",
+                "htmlSnippet": "Topics in the news &middot; Landslides kill at least 257 people in Geze Gofa, Ethiopia. &middot; In cycling, Tadej Poga\u010dar (pictured) wins the <b>Tour</b> de France. &middot; Incumbent U.S.&nbsp;...",
+                "formattedUrl": "https://en.wikipedia.org/wiki/Portal:Current_events",
+                "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Portal:Current_events",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-URaaiFV6xdBtAitx_robM-85daX9OeDEeP4KGtt1VcCbPR0f2pLH&s=0",
+                            "width": "94",
+                            "height": "93"
+                        }
+                    ],
+                    "hcalendar": [
+                        {
+                            "summary": "July 29, 2024 (2024-07-29) (Monday)",
+                            "description": "Armed conflicts and attacks Mali War Battle of Tinzaouaten The Wagner Group states that it and the Malian military sustained losses in clashes with Tuareg rebels, near the Mali\u2013Algeria border....",
+                            "dtstart": "2024-07-29"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "referrer": "origin",
+                            "theme-color": "#eaecf0",
+                            "og:type": "website",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "og:title": "Portal:Current events - Wikipedia",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/2022_Tour_of_Slovenia_%28Stage_3%2C_Tadej_Poga%C4%8Dar_celebrating_victory_on_Celje_Castle_v2%29.jpg/141px-2022_Tour_of_Slovenia_%28Stage_3%2C_Tadej_Poga%C4%8Dar_celebrating_victory_on_Celje_Castle_v2%29.jpg"
+                        }
+                    ],
+                    "event": [
+                        {
+                            "summary": "July 29, 2024 (2024-07-29) (Monday)",
+                            "dtstart": "2024-07-29"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... At least twelve people are killed by extensive flooding throughout  in eastern  that submerged several  camps. \n**International relations**\n*   , \n    *     threatens to position  that could strike throughout  following the 's announcement of plans to set up long-range missiles in  beginning in 2026. \n**Politics and elections**\n*   \n    *    vote to elect their . Incumbent  is standing for reelection for a third consecutive term. \n    *   Incumbent   is declared the winner of the  2024 presidential election by the  \"National Electoral Council (Venezuela)\"). Opposition parties claim that there are  in the election results. \n    *   The  \"National Electoral Council (Venezuela)\") announces that, with 80% of the ballots counted, Maduro's 7-point lead is \"striking and irreversible\". \n**Sports**\n*   \n    *   \n        *    wins a  in , making it the first medal  has ever won in . \n    *   \n        *    wins  and broke the olympics record that was held by the American swimmer . \n    *   \n        *    wins the bronze medal in , making it the first medal  has ever won in . \n    *   \n        *   The   wins its    after beating the  team in a tiebreaker that required a  to determine the final score. \n*   \n    *   In , the  concludes with  defeating  in . \n**Armed conflicts and attacks**\n*    \"Israel\u2013Hezbollah conflict (2023\u2013present)\")\n    *   \n        *   Twelve people, all children, are killed in rocket strikes on the  village of  in the \\-occupied . Israel claims that  is responsible for the attack, but Hezbollah denies any involvement. \n        *     vows that Hezbollah will \"pay a heavy price\" which \"it has not paid so far\" in response to the attack. \n*   \n    *   \n        *    from the  \"Ministry of Defence (Ukraine)\") escalate \"massive\"  on 's largest banks, prohibiting any cash or credit transactions. Cyberattacks also target Russian ,  and , and . \n    *    forces capture the village of Lozovatske in . \n*   \n    *   \n        *   More than fifty people, including fifteen children, are killed in  attacks on a school used to shelter  in  in the . \n*   \n    *    \"Battle of Tinzaouaten...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Wikipedia can be a valuable starting point for research, as it gathers information from numerous sources. However, its open-editing nature can lead to inaccuracies and bias. While many articles include citations from credible sources, the reliability of content can fluctuate. Overall, it's useful for background information but should be cross-referenced with more authoritative sources for verification."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This is unrelated to the claim about the Trump video, offering no insights into the spread of misinformation regarding his alleged visit to Maui."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "DRUDGE REPORT 2024\u00ae",
+                "htmlTitle": "DRUDGE REPORT 2024\u00ae",
+                "link": "https://www.drudgereport.com/",
+                "displayLink": "www.drudgereport.com",
+                "snippet": "DON'S INSULTS FALLING FLAT? America's New Political War Pits Young Men Against Young Women... Trump squanders his own\u00a0...",
+                "htmlSnippet": "DON&#39;S INSULTS FALLING FLAT? America&#39;s New Political War Pits Young Men Against Young Women... <b>Trump</b> squanders his own&nbsp;...",
+                "formattedUrl": "https://www.drudgereport.com/",
+                "htmlFormattedUrl": "https://www.drudgereport.com/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "note_for_editor": "DR : Leave This Line : DESKTOP NITRO AD : TOP"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "**\n* * *\n__\n* * *\n* * *\n!\n__\n* * *\n* * *\n* * *\n* * *\n* * *\n* * *\n* * *\n DAILY MAIL]   \n DAILY MIRROR]  \n EXPRESS]  \n GUARDIAN]  \n INDEPENDENT]  \n METRO]  \n SUN]  \n** **\n* * *\n* * *\n* * *\n* * *\n* * *\n__\n* * *\n* * *\n* * *\n* * *\n* * *\n** **\n* * *\n* * *\n__\n* * *\n* * *\n!\n* * *\n* * *\n* * *\n* * *\n]  \n* * *\n* * *\n* * *\n* * *\n* * *\nVISITS TO DRUDGE 7/30/202421,013,922 PAST 24 HOURS  \n647,087,680 PAST 31 DAYS  \n7,165,812,633 PAST YEAR\n* * *\n* * *\n* * *\n**",
+                    "content_tokens": 198
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "The Drudge Report is a news aggregation website that often features sensational headlines and is known to link to numerous sources, both credible and less reliable. While it can serve as a prompt for news stories, the aggregation often includes sensationalist content, impacting its overall reliability in delivering truthful information. Many sources linked may not be of high credibility."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "The content is unrelated to the Trump video and does not provide any confirmation or context regarding misinformation about his visit to Maui."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Sinead O'Connor's Cause of Death Revealed One Year Later",
+                "htmlTitle": "Sinead O&#39;Connor&#39;s Cause of Death Revealed One Year Later",
+                "link": "https://www.thedailybeast.com/cheat-sheet/",
+                "displayLink": "www.thedailybeast.com",
+                "snippet": "Following their gold medal win, broadcaster Bob Ballard suggested the Australian female swimmers were \u201changing around, doing their makeup.\u201d",
+                "htmlSnippet": "Following their gold medal win, broadcaster Bob Ballard suggested the Australian female swimmers were \u201changing around, doing their makeup.\u201d",
+                "formattedUrl": "https://www.thedailybeast.com/cheat-sheet/",
+                "htmlFormattedUrl": "https://www.thedailybeast.com/cheat-sheet/",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "fn": "The Daily Beast"
+                        },
+                        {
+                            "fn": "John Mulholland"
+                        },
+                        {
+                            "fn": "Ben Sherwood"
+                        },
+                        {
+                            "fn": "Sophie Brookover"
+                        },
+                        {
+                            "fn": "Matt Young"
+                        },
+                        {
+                            "fn": "Hugh Dougherty"
+                        },
+                        {
+                            "fn": "Matt Young"
+                        },
+                        {
+                            "fn": "Lily Mae Lazarus"
+                        },
+                        {
+                            "fn": "Mary Ann Akers"
+                        },
+                        {
+                            "fn": "Emell Derra Adolphus"
+                        },
+                        {
+                            "fn": "Clay Walker"
+                        },
+                        {
+                            "fn": "Clay Walker"
+                        },
+                        {
+                            "fn": "Jenna Clark",
+                            "title": "Contributor"
+                        },
+                        {
+                            "fn": "Clay Walker"
+                        },
+                        {
+                            "fn": "Lily Mae Lazarus",
+                            "title": "Journalist"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL8kGX6sR4XWsxAU53UTOWCIpbhr5Qxp6O1c97AXo-qs1XcNNcIDq03aM&s=0",
+                            "width": "150",
+                            "height": "84"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "role": "Contributor"
+                        },
+                        {
+                            "name": "The Daily Beast"
+                        },
+                        {
+                            "name": "John Mulholland"
+                        },
+                        {
+                            "name": "Ben Sherwood"
+                        },
+                        {
+                            "name": "Sophie Brookover"
+                        },
+                        {
+                            "name": "Matt Young"
+                        },
+                        {
+                            "name": "Hugh Dougherty"
+                        },
+                        {
+                            "name": "Matt Young"
+                        },
+                        {
+                            "name": "Lily Mae Lazarus"
+                        },
+                        {
+                            "name": "Mary Ann Akers"
+                        },
+                        {
+                            "name": "Emell Derra Adolphus"
+                        },
+                        {
+                            "name": "Clay Walker"
+                        },
+                        {
+                            "name": "Clay Walker"
+                        },
+                        {
+                            "jobtitle": "Contributor",
+                            "name": "Jenna Clark"
+                        },
+                        {
+                            "name": "Clay Walker"
+                        },
+                        {
+                            "jobtitle": "Journalist",
+                            "name": "Lily Mae Lazarus"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "template": "cheat",
+                            "og:image": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2193,w_3900,x_491,y_116/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1722202611/GettyImages-2163989334_ifecko",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "The Daily Beast",
+                            "sailthru.expire_date": "2024-08-11T22:23:49.945Z",
+                            "og:description": "Following their gold medal win, broadcaster Bob Ballard suggested the Australian female swimmers were \u201changing around, doing their makeup.\u201d",
+                            "twitter:image": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2193,w_3900,x_491,y_116/dpr_2.0/c_limit,w_600/f_jpg/fl_lossy,q_auto/v1722202611/GettyImages-2163989334_ifecko",
+                            "parsely-page": "{\"author\":[\"Clay Walker\"],\"image_url\":\"https://img.thedailybeast.com/image/upload/v1722187617/GettyImages-1203517630_mzj9kt.jpg\",\"link\":\"https://www.thedailybeast.com/sinead-oconnors-cause-of-death-revealed-one-year-later\",\"post_id\":\"sinead-oconnors-cause-of-death-revealed-one-year-later\",\"pub_date\":\"2024-07-28T18:55:48+00:00\",\"section\":\"Entertainment\",\"tags\":[\"Music\",\"Sinead O\u2019Connor\",\"Entertainment\",\"Auto not brand safe\"],\"title\":\"Sinead O\u2019Connor\u2019s Cause of Death Revealed One Year Later\",\"type\":\"post\"}",
+                            "twitter:site": "@thedailybeast",
+                            "news_keywords": "Australia, Swimming, Paris Olympics",
+                            "fulltext": "Irish singer Sinead O\u2019Connor\u2019s cause of death has been revealed to the public just one year after her passing at 56. According to the New York Post, the Grammy winner died from both asthma and chronic obstructive pulmonary disease (COPD). Her husband, John Reynolds, registered her death as such in London this week. According to the outlet, a respiratory tract infection that O\u2019Connor had at the time of her death was also a contributing factor. Before the official report, the singer was reported to have died of natural causes after being found \u201cunresponsive\u201d in her London apartment. In January 2022, O\u2019Connor lost her second youngest son, Shane Lunny, after he died by suicide. According to People, O\u2019Connor took to Twitter, now X, to mourn his passing in a since-deleted message. \u201cMy beautiful son, Nevi'im Nesta Ali Shane O'Connor, the very light of my life, decided to end his earthly struggle today and is now with God,\" she wrote. O\u2019Connor is survived by three other children, Jake Reynolds, Rois",
+                            "fb:admins": "1703087,30000737,1117577220,1276800108,931159,514915512",
+                            "sailthru.date": "2024-07-28T22:23:49.945Z",
+                            "article:section": "world",
+                            "og:type": "article",
+                            "twitter:title": "Olympics Broadcaster Removed From Coverage After Sexist Comment",
+                            "og:title": "Olympics Broadcaster Removed From Coverage After Sexist Comment",
+                            "fb:app_id": "189930913679",
+                            "story:author": "https://www.thedailybeast.com/authors/clay-walker",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Following their gold medal win, broadcaster Bob Ballard suggested the Australian female swimmers were \u201changing around, doing their makeup.\u201d",
+                            "og:url": "https://www.thedailybeast.com/eurosport-olympics-broadcaster-bob-ballard-removed-from-coverage-after-sexist-comment",
+                            "wrap": "/content/dailybeast/world",
+                            "story:published_time": "2024-07-28T22:23:49.945Z",
+                            "authors": "Clay Walker"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2193,w_3900,x_491,y_116/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1722202611/GettyImages-2163989334_ifecko"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nProducts\nFOLLOW US\nCHEAT SHEET\nTOP 10 RIGHT NOW\n*   1\n*   2\n*   4\n*   5\n*   7\n*   8\n*   9\n*   10\nCHEAT SHEET\nTOP 10 RIGHT NOW\n1\nRepublican Mayor in Arizona Endorses Kamala Harris\n==================================================\n\u2018COUNTRY FIRST\u2019\nPublished\u00a0Jul. 29, 2024\u00a08:55PM EDT\u00a0\n!\n#### Tom Williams/CQ-Roll Call, Inc via Getty Images\nThe Republican mayor of the third-largest city in Arizona came out in support of Vice President Kamala Harris on Monday, calling in an op-ed in the _Arizona Republic_ for his fellow conservatives to join him in backing her for president. Mesa Mayor John Giles invoked the late Sen. John McCain and his motto of \u201cCountry First\u201d in making the case for Harris, saying that Republicans have \u201ca moral and ethical responsibility\u201d to choose country over party come November. Hailing Harris\u2019 candidacy as a return to political \u201cdecency,\u201d the mayor also praised her and President Joe Biden for their work investing in the battleground state\u2019s economy, saying the pair \u201care delivering thousands of new jobs to Arizonans and helping us grow critical industries.\u201d Giles, who has been mayor of Mesa since 2014, also took the opportunity to slam former President Donald Trump, saying he represents a \u201cthreat to democracy.\u201d Ticking off the points against Trump, including his attempts to overturn the results of the 2020 election, Giles noted that the former president has done little to support the Grand Canyon State, preferring to exploit its immigration and border crises for \u201cpersonal political gain.\u201d\n]\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n\u00a9 2024 The Daily Beast Company LLC",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "The Daily Beast is a news and opinion website that covers politics, pop culture, and more. While it provides substantial investigative journalism at times, it also has been known for its opinion pieces and sensational articles. While it contains factual reporting, the tendency toward sensationalism reduces its overall credibility."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence does not pertain to any claim about the Trump video and contains irrelevant commentary unrelated to the topic of misinformation spread."
+                }
+            }
+        }
+    ]
+}

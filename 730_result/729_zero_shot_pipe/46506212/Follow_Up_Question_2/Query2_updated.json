@@ -1,0 +1,719 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Kyiv beach party video fact-checking analysis (site:factcheck.org OR site:snopes.com OR site:newsweek.com)",
+                "totalResults": "20",
+                "searchTerms": "Kyiv beach party video fact-checking analysis (site:factcheck.org OR site:snopes.com OR site:newsweek.com)",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Kyiv beach party video fact-checking analysis (site:factcheck.org OR site:snopes.com OR site:newsweek.com)",
+                "totalResults": "20",
+                "searchTerms": "Kyiv beach party video fact-checking analysis (site:factcheck.org OR site:snopes.com OR site:newsweek.com)",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.243548,
+        "formattedSearchTime": "0.24",
+        "totalResults": "20",
+        "formattedTotalResults": "20"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Fact Check: Do Photos of Busy Ukraine Beaches Prove There's 'No ...",
+                "htmlTitle": "<b>Fact Check</b>: Do Photos of Busy <b>Ukraine Beaches</b> Prove There&#39;s &#39;No ...",
+                "link": "https://www.newsweek.com/fact-check-do-photos-busy-ukraine-beaches-prove-theres-no-warzone-1716164",
+                "displayLink": "www.newsweek.com",
+                "snippet": "Jun 16, 2022 ... Photos of Ukrainians using beaches in Kyiv and Mariupol have led to conspiratorial claims about the country's conflict with Russia.",
+                "htmlSnippet": "Jun 16, 2022 <b>...</b> Photos of Ukrainians using <b>beaches</b> in <b>Kyiv</b> and Mariupol have led to conspiratorial claims about the country&#39;s conflict with Russia.",
+                "formattedUrl": "https://www.newsweek.com/fact-check-do-photos-busy-ukraine-beaches-pr...",
+                "htmlFormattedUrl": "https://www.newsweek.com/fact-check-do-photos-busy-ukraine-<b>beach</b>es-pr...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZDy7sdvkcfHryKJWin4gr0axeF7vQIroW2KiXjL8hv1SIvyM8zA3HWvk&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://d.newsweek.com/en/full/2059475/ukraine-beach.jpg",
+                            "msapplication-config": "https://g.newsweek.com/themes/newsweek/favicons/browserconfig.xml",
+                            "og:image:width": "3500",
+                            "article:published_time": "2022-06-16T08:12:24-04:00",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ff0500",
+                            "og:site_name": "Newsweek",
+                            "twitter:url": "https://www.newsweek.com/fact-check-do-photos-busy-ukraine-beaches-prove-theres-no-warzone-1716164",
+                            "og:description": "Photos of Ukrainians using beaches in Kyiv and Mariupol have led to conspiratorial claims about the country's conflict with Russia.",
+                            "article:publisher": "https://www.facebook.com/Newsweek",
+                            "twitter:image": "https://d.newsweek.com/en/full/2059475/ukraine-beach.webp",
+                            "twitter:site": "@newsweek",
+                            "article:modified_time": "2022-06-16T08:12:24-04:00",
+                            "msapplication-tilecolor": "#ff0500",
+                            "og:type": "article",
+                            "og:image:alt": "Ukraine beach",
+                            "article:section": "Analysis",
+                            "twitter:title": "Fact Check: Do Photos of Busy Ukraine Beaches Prove There's 'No Warzone'?",
+                            "og:title": "Fact Check: Do Photos of Busy Ukraine Beaches Prove There's 'No Warzone'?",
+                            "og:image:height": "2336",
+                            "fb:pages": "18343191100",
+                            "article:tag": "Fact Check",
+                            "fb:app_id": "245537789135954",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Photos of Ukrainians using beaches in Kyiv and Mariupol have led to conspiratorial claims about the country's conflict with Russia.",
+                            "og:url": "https://www.newsweek.com/fact-check-do-photos-busy-ukraine-beaches-prove-theres-no-warzone-1716164"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d.newsweek.com/en/full/2059475/ukraine-beach.jpg?w=1200&f=8b86a97765095b0fd067470391c7da08"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2022-06-16T08:12:24-04:00",
+                            "claimReviewed": "Fact Check: Do Photos of Busy Ukraine Beaches",
+                            "url": "https://www.newsweek.com/fact-check-do-photos-busy-ukraine-beaches-prove-theres-no-warzone-1716164"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... direct military action than others.\nWhile the capital is not invulnerable and has also been shelled in past weeks, the current battlegrounds in the northeast and Donbas regions are a considerable distance from Kyiv.\nKharkiv, for example, which Russian forces have still not claimed, is around a six-hour drive away.\nDuring the first two months of the war, following Russian bombardment, Ukrainian forces were able to push the invading forces from the capital and adjacent territories, although concerns remain that President Vladimir Putin's army may attempt to take Kyiv in a second assault. \nBy some accounts, this pause has somewhat cooled the mood in Kyiv. Nonetheless, Ukrainian government officials have warned citizens not to visit beaches as authorities continue to survey the water nearby for explosive objects.\nA Washington Post article published June 12, 2022, reported how divers have been finding unexploded munitions in lakes throughout Kyiv's suburbs too.\nAs well as the threat of explosive devices, the divers told the Post their own fears that Russian spies and saboteurs may be watching their work, \"helping the Russians plan a new invasion in this part of the country,\" the report states, describing the absence of swimmers, motorboats and jet skis as \"surreal.\"\nMoreover, while the photos taken along the Dnieper river and elsewhere may look picturesque, Kyiv still endures occasional airstrikes as volunteers take to clearing some of the destruction caused earlier this year.\nAir raid warnings are issued across much of the country on an almost daily basis. But even in other parts of the country, where the threat of conflict is more palpable, residents have been pictured using beaches and public spaces too.\nIn unverified posts Newsweek found on social media app Telegram, video recordings appear to show Ukrainians in Odessa (far closer to the theatre of war than Kyiv) reading poetry in public as missile defense systems fire behind them, and sunbathing on the beach by barriers installed to prevent sea invasion.\nOther posts claim citizens have died from mines while using Odessa's coastline (the post can be found here [graphic content warning]).\nIt also goes without saying that photos depicting the actions of a select group of people may not necessarily reflect the actions and attitudes of others. In 2020, thousands of people visited public beaches and parks in the U.S. and Europe in spite of COVID-19 social distancing restrictions, no working vaccines, and large case numbers.\nFor many it becomes a show of defiance, as the liberties taken away during these types of crises become more important than the risks of exercising them (although with fighting in Ky...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Newsweek is a well-established publication with a history dating back to 1933. It covers a variety of topics with insightful analysis, employs professional journalists, and has fact-checking practices that contribute to its reliability. While it has faced criticism for sensationalism, it maintains a reputation for historical accuracy and has taken steps to address misinformation. These factors justify its score of 8 out of 10."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2022-06-16"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This evidence discusses the public's use of beaches in Ukraine amidst ongoing conflict and highlights the psychological resilience of Ukrainians. It suggests that while life continues normally in some areas, this should not be interpreted as evidence that the war is fabricated; instead, it indicates a defiance against the adversity they face. This evidence provides a nuanced understanding that some individuals may appear to engage in leisure activities like a beach party, but it does not confirm that these scenes are staged or represent the entirety of the situation."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Newsweek - News, Analysis, Politics, Business, Technology",
+                "htmlTitle": "Newsweek - News, <b>Analysis</b>, Politics, Business, Technology",
+                "link": "https://www.newsweek.com/",
+                "displayLink": "www.newsweek.com",
+                "snippet": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+                "htmlSnippet": "Newsweek provides in-depth <b>analysis</b>, news and opinion about international issues, technology, business, culture and politics.",
+                "formattedUrl": "https://www.newsweek.com/",
+                "htmlFormattedUrl": "https://www.newsweek.com/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK3lKJFZLBx-QB5QsJN8AqQpdWeTHM7sB0LBhrOIetAy3ICw20vsmkmzk&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#ff0500",
+                            "og:image": "https://d.newsweek.com/en/full/2436484/cryptocurrency-fueling-sales-human-organs.png",
+                            "msapplication-config": "https://g.newsweek.com/themes/newsweek/favicons/browserconfig.xml",
+                            "og:type": "website",
+                            "theme-color": "#ff0500",
+                            "og:site_name": "Newsweek",
+                            "google-adsense-account": "ca-pub-1268226542223154",
+                            "og:title": "Newsweek",
+                            "fb:pages": "18343191100",
+                            "og:description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+                            "article:publisher": "https://www.facebook.com/Newsweek",
+                            "fb:app_id": "245537789135954",
+                            "twitter:site": "@newsweek",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:url": "https://www.newsweek.com/",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d.newsweek.com/en/full/2437997/kamala-harris-massachusetts.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Newsweek - News, Analysis, Politics, Business, Technology\n===============\n\u00d7\n]\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   Login\n\u00d7\nLogin\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nShare\nCopy Link\n\u2713 Link copied to clipboard!\n ]\nTop Story\n-------------------------------------------------------------------------------------------------------------------------------------------\nMon, Jul 29, 2024\n2 MIN READ\n----------------------------------------------------------------------------------------------------------------------------------------------------------\n3 MIN READ\n----------------------------------------------------------------------------------------------------------------------------------------------------------------------\n2 MIN READ\n--------------------------------------------------------------------------------------------------------------------------------------------------------------\n2 MIN READ\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n2 MIN READ\nThe Daily Debate\nShould the Military Implement the Draft?\n----------------------------------------\n]\n### \n### \n]\nTop stories\n-------------\n-\nTrending\n----------\nOpinion\n---------\nTop Stories\n-----------\n ]\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------\nJohn Yoo, who clerked for Supreme Court Justice Clarence Thomas, flagged that implementing Biden's plan could take \"years.\"\n2 MIN READ\n ]\n--------------------------------------------------------------------------------------------------------------------------\n2 MIN READ\n ]\n-----------------------------------------------------------------------------------------------------------------------------------------------------------\n2 MIN READ\n ]\n------------------------------------------------------------------------------------------------------------------------------------\n2 MIN READ\n ]\n-------------------------------------------------------------------------------------------------------------------------\n5 MIN READ\nTRENDING\n*   \n*   \n*   \n*   \n!\nNewsletter\nWORLD IN BRIEF Venezuela Election Results Disputed...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Newsweek is a well-established publication with a history dating back to 1933. It covers a variety of topics with insightful analysis, employs professional journalists, and has fact-checking practices that contribute to its reliability. While it has faced criticism for sensationalism, it maintains a reputation for historical accuracy and has taken steps to address misinformation. These factors justify its score of 8 out of 10."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This evidence is a general source of news and analysis and does not specifically address whether the beach atmosphere in the video is genuine or staged. While it provides context to the ongoing conflict, it does not provide direct support related to the specifics of the beach party claim."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Result Page 9 for Ukraine Crisis news & latest pictures from ...",
+                "htmlTitle": "Result Page 9 for <b>Ukraine</b> Crisis news &amp; latest pictures from ...",
+                "link": "https://www.newsweek.com/topic/ukraine-crisis?page=9",
+                "displayLink": "www.newsweek.com",
+                "snippet": "241-270 (out of 583) All the latest breaking news on Ukraine Crisis. Browse Newsweek archives of photos, videos and articles on Ukraine Crisis.",
+                "htmlSnippet": "241-270 (out of 583) All the latest breaking news on <b>Ukraine</b> Crisis. Browse Newsweek archives of photos, <b>videos</b> and articles on <b>Ukraine</b> Crisis.",
+                "formattedUrl": "https://www.newsweek.com/topic/ukraine-crisis?page=9",
+                "htmlFormattedUrl": "https://www.newsweek.com/topic/ukraine-crisis?page=9",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#ff0500",
+                            "msapplication-config": "https://g.newsweek.com/themes/newsweek/favicons/browserconfig.xml",
+                            "og:type": "website",
+                            "theme-color": "#ff0500",
+                            "og:site_name": "Newsweek",
+                            "og:title": "Result Page 9 for Ukraine Crisis news & latest pictures from Newsweek.com",
+                            "fb:pages": "18343191100",
+                            "og:description": "241-270 (out of 583) All the latest breaking news on Ukraine Crisis. Browse Newsweek archives of photos, videos and articles on Ukraine Crisis.",
+                            "article:publisher": "https://www.facebook.com/Newsweek",
+                            "fb:app_id": "245537789135954",
+                            "twitter:site": "@newsweek",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:url": "https://www.newsweek.com/topic/ukraine-crisis"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "!\n-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nMultiple mysterious fires have been reported at government and military enlistment buildings across Russia since Vladimir Putin declared a full-scale invasion of Ukraine in February.\nBy **Isabel van Brugen** On 7/1/22 at 5:07 AM EDT\n!\n--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nA growing number of Russians are being punished in the wake of new stringent laws that effectively criminalize all criticism of Vladimir Putin's Ukraine war.\nBy **Isabel van Brugen** On 6/30/22 at 8:49 AM EDT\n!\n--------------------------------------------------------------------------------------------------------------------------------------------------\nBoris Johnson said that the Russian president's invasion of Ukraine is \"a perfect example of toxic masculinity.\"\nBy **Isabel van Brugen** On 6/29/22 at 9:13 AM EDT\n!\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nThe woman was in Colombia with other Russian athletes and ballet dancers, according to local media reports.\nBy **Isabel van Brugen** On 6/29/22 at 7:00 AM EDT\n!\n--------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nAccording to reports, Putin ordered 67-year-old General Pavel back to active service last month to lead Russian special forces operating in Ukraine.\nBy **Isabel van Brugen** On 6/27/22 at 11:11 AM EDT\n!\n--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nRussia has accused the West of trying to drive the country into an artificial default.\nBy **Isabel van Brugen** On 6/27/22 at 4:32 AM EDT\n!\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------\nRussia is now using retired personnel who are working as contractors for Wagner, a Russian private military company, to...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Newsweek is a well-established publication with a history dating back to 1933. It covers a variety of topics with insightful analysis, employs professional journalists, and has fact-checking practices that contribute to its reliability. While it has faced criticism for sensationalism, it maintains a reputation for historical accuracy and has taken steps to address misinformation. These factors justify its score of 8 out of 10."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This is a collection of news articles about the Ukraine crisis. While it shows the prevalence of reporting related to the conflict, it fails to directly discuss the beach party video or any specific evidence of whether it is staged or genuine."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Yevgeny Kuklychev",
+                "htmlTitle": "Yevgeny Kuklychev",
+                "link": "https://www.newsweek.com/authors/yevgeny-kuklychev",
+                "displayLink": "www.newsweek.com",
+                "snippet": "Yevgeny Kuklychev is Newsweek's London-based Senior Editor for Russia, Ukraine and Eastern Europe. He previously headed Newsweek's Misinformation Watch and\u00a0...",
+                "htmlSnippet": "Yevgeny Kuklychev is Newsweek&#39;s London-based Senior Editor for Russia, <b>Ukraine</b> and Eastern Europe. He previously headed Newsweek&#39;s Misinformation Watch and&nbsp;...",
+                "formattedUrl": "https://www.newsweek.com/authors/yevgeny-kuklychev",
+                "htmlFormattedUrl": "https://www.newsweek.com/authors/yevgeny-kuklychev",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFamfLFG6Z_6XMjlBeGpyg0VbDGHJOOHKLQTim6yrypeMAZaxDii-2egzw&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#ff0500",
+                            "og:image": "https://d.newsweek.com/en/full/2196698/yevgeny-kuklychev.png",
+                            "msapplication-config": "https://g.newsweek.com/themes/newsweek/favicons/browserconfig.xml",
+                            "og:type": "profile",
+                            "og:image:width": "1075",
+                            "theme-color": "#ff0500",
+                            "og:site_name": "Newsweek",
+                            "profile:username": "Yevgeny Kuklychev",
+                            "og:title": "Yevgeny Kuklychev",
+                            "og:image:height": "1075",
+                            "og:image:type": "image/png",
+                            "fb:pages": "18343191100",
+                            "og:description": "Yevgeny Kuklychev is Newsweek's London-based Senior Editor for Russia, Ukraine and Eastern Europe. He previously headed Newsweek's Misinformation Watch and Newsweek Fact Check. Yevgeny focuses on...",
+                            "profile:last_name": "Kuklychev",
+                            "fb:app_id": "245537789135954",
+                            "twitter:site": "@newsweek",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "profile:first_name": "Yevgeny",
+                            "og:url": "https://www.newsweek.com/authors/yevgeny-kuklychev"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d.newsweek.com/en/full/2196698/yevgeny-kuklychev.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... supplied by Britain can be used for strikes on Russian soil.\nOn 5/3/24 at 3:24 AM EDT\n!\n----------------------------------------------------------------------------------------------------------------------------------------------------\nNewsweek analysis of a major Moscow event this month hints at Beijing's growing footprint in Russia's military-industrial sector.\nOn 4/26/24 at 3:00 AM EDT\n!\n-------------------------------------------------------------------------------------------------------------------------------------------\nMoscow weighed in on the U.S. State Department chief's proposal to revive the START treaty on nuclear non-proliferation.\nOn 4/12/24 at 8:36 AM EDT\n!\n-----------------------------------------------------------------------------------------------------------------------------------------\nA political expert said there would be \"200-250 million dead and maimed Europeans,\" on Russian state TV, claiming one particular capital would be targeted.\nOn 4/11/24 at 8:03 AM EDT\n!\n--------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nThe Voronezh-45 military base, which holds some of Russia's nuclear arsenal, was a reported target of Prigozhin's troops in 2023.\nOn 4/10/24 at 7:50 AM EDT\n!\n-----------------------------------------------------------------------------------------------------------------------------------------------------------\nThe Borisoglebsk pilot training center in the Voronezh region helps to deliver new \"top guns\" to Vladimir Putin's air force.\nOn 4/9/24 at 5:56 AM EDT\n!\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nA wild police car chase led to the arrest of a Russian GRU officer posing as a chef in Florida, with debilitating repercussions for an FBI agent on the case.\nOn 4/2/24 at 9:09 AM EDT\n!\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nThe dam was hit as Russia launched what has been described by Ukraine's Energy Minister as one of the largest attacks on the Ukrainian energy sector in the war.\nOn 3/22/24 at 7:59 AM EDT\n!\n------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\"We are voting for an armed resistance to the Putin regime, for an uprising, a revolution,\" one fighter told Newsweek.\nOn 3/13/24 at 10:44 AM EDT\n!\n----------------------------------------------------------------------------------------------------------------------------------------------------------------\n\"We have more than enough people to achieve the highest military objectives,\" one volunteer told Newsweek from the front.\nOn 3/12/24 at 12:33 PM EDT\n!\n-----------------------------------------------------------------------------------------------------------------------------------------------------\nFootage circulating on Telegram appeared to show a military barracks in Kazan engulfed by fire.\nOn 3/7/24 at 6:55 AM EST\n!\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------\nA Ukraine Navy spokesman pointed to an \"interesting incident\" that recently occurred with a group of Russian vessels in the Bosporus Strait.\nOn 3/1/24 at 6:49...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Newsweek is a well-established publication with a history dating back to 1933. It covers a variety of topics with insightful analysis, employs professional journalists, and has fact-checking practices that contribute to its reliability. While it has faced criticism for sensationalism, it maintains a reputation for historical accuracy and has taken steps to address misinformation. These factors justify its score of 8 out of 10."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "This evidence provides information about Yevgeny Kuklychev, a journalist, but contains no content relevant to the claim. It does not touch upon the beach party or any factors that would support or challenge the video's authenticity."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Russian War Correspondent in Ukraine Wins 'Strength in Truth ...",
+                "htmlTitle": "Russian War Correspondent in <b>Ukraine</b> Wins &#39;Strength in <b>Truth</b> ...",
+                "link": "https://www.newsweek.com/how-russian-media-telling-ukraine-war-story-monday-april-18-1698774",
+                "displayLink": "www.newsweek.com",
+                "snippet": "Apr 18, 2022 ... A summary and translation of the top stories about the Russia-Ukraine war from a morning program on Russia's state TV Channel One,\u00a0...",
+                "htmlSnippet": "Apr 18, 2022 <b>...</b> A <b>summary</b> and translation of the top stories about the Russia-<b>Ukraine</b> war from a morning program on Russia&#39;s state TV Channel One,&nbsp;...",
+                "formattedUrl": "https://www.newsweek.com/how-russian-media-telling-ukraine-war-story-...",
+                "htmlFormattedUrl": "https://www.newsweek.com/how-russian-media-telling-ukraine-war-story-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkKQmeOAN4o1hIWVGWIY3bIz-d9gdXJ5lNeSwrunFPeuMpnJTUiQ2zpPY&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://d.newsweek.com/en/full/2043140/russian-soldier-mariupol-18-may-22.jpg",
+                            "msapplication-config": "https://g.newsweek.com/themes/newsweek/favicons/browserconfig.xml",
+                            "og:image:width": "3308",
+                            "article:published_time": "2022-04-18T20:42:00-04:00",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ff0500",
+                            "og:site_name": "Newsweek",
+                            "twitter:url": "https://www.newsweek.com/how-russian-media-telling-ukraine-war-story-monday-april-18-1698774",
+                            "og:description": "How Russian media is reporting the Ukraine war: Top stories from a morning program on Russia's Channel One, summarized and translated by NewsGuard.",
+                            "article:publisher": "https://www.facebook.com/Newsweek",
+                            "twitter:image": "https://d.newsweek.com/en/full/2043140/russian-soldier-mariupol-18-may-22.webp?w=1600&h=900&q=88&f=8f429c2afc99112bdfbcb4f512bf3e2d",
+                            "twitter:site": "@newsweek",
+                            "article:modified_time": "2022-06-03T17:00:22-04:00",
+                            "msapplication-tilecolor": "#ff0500",
+                            "og:type": "article",
+                            "og:image:alt": "Russian Soldier Mariupol 18-May-22",
+                            "article:section": "World",
+                            "twitter:title": "Russian War Correspondent in Ukraine Wins \"Strength in Truth\" Award",
+                            "og:title": "Russian War Correspondent in Ukraine Wins \"Strength in Truth\" Award",
+                            "og:image:height": "2202",
+                            "fb:pages": "18343191100",
+                            "article:tag": "Russia",
+                            "fb:app_id": "245537789135954",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "How Russian media is reporting the Ukraine war: Top stories from a morning program on Russia's Channel One, summarized and translated by NewsGuard.",
+                            "og:url": "https://www.newsweek.com/how-russian-media-telling-ukraine-war-story-monday-april-18-1698774"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d.newsweek.com/en/full/2043140/russian-soldier-mariupol-18-may-22.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "_A summary and translation of the top stories about the Russia-Ukraine war from a morning program on Russia's state TV Channel One, from NewsGuard._\n!\nA Russian serviceman patrols the destroyed part of the Ilyich Iron and Steel Works in Ukraine's port city of Mariupol on May 18, 2022, amid the ongoing Russian military action in Ukraine. Photo by OLGA MALTSEVA/AFP via Getty Images\n**FRIDAY, JUNE 3:**\n**Soldiers from the Lugansk People's Republic foil an operation by Ukrainian militants**\nFierce fighting has broken out in the town of Toshkovka, to the south of Lisichansk, where forces from the Lugansk People's Republic have foiled an operation by Ukrainian militants. Their task was to block communications between two large radical groups in Lisichansk and Gorsky. There were multiple explosions from shells. Our film crew is working at the epicenter of events, and saw how the fighting unfolded. Dmitry Kulko has exclusive footage in this report.\nOne of the soldiers interviewed said: \"I have a wife at home, and we have a new baby, born three months ago, just before I left for this military operation.\" A mechanic also interviewed said: \"It was a bit scary to leave my children, but as soon as I arrived here I realized it was worth it.\"\n**Ukrainian...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Newsweek is a well-established publication with a history dating back to 1933. It covers a variety of topics with insightful analysis, employs professional journalists, and has fact-checking practices that contribute to its reliability. While it has faced criticism for sensationalism, it maintains a reputation for historical accuracy and has taken steps to address misinformation. These factors justify its score of 8 out of 10."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2022-04-18"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This article summarises the narrative around the war from Russian media. While it indirectly relates to the broader media portrayal of conflict, it does not specifically address the beach party video or comment on the authenticity of such portrayals amid war."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Russia Forced to Change Ka-52 Helicopter Tactics After Slew of ...",
+                "htmlTitle": "Russia Forced to Change Ka-52 Helicopter Tactics After Slew of ...",
+                "link": "https://www.newsweek.com/russia-ka-52-helicopters-destroyed-ukraine-1836103",
+                "displayLink": "www.newsweek.com",
+                "snippet": "Oct 19, 2023 ... Russia is being forced to change how its Ka-52 helicopters are operating in the Ukraine war after suffering significant losses, a Ukrainian\u00a0...",
+                "htmlSnippet": "Oct 19, 2023 <b>...</b> Russia is being forced to change how its Ka-52 helicopters are operating in the <b>Ukraine</b> war after suffering significant losses, a <b>Ukrainian</b>&nbsp;...",
+                "formattedUrl": "https://www.newsweek.com/russia-ka-52-helicopters-destroyed-ukraine-18...",
+                "htmlFormattedUrl": "https://www.newsweek.com/russia-ka-52-helicopters-destroyed-ukraine-18...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYfNLoJSWujzS3CVd-UP6q5RXWelLoOSCVecSRgDjpVjV9UMOVZ-NWG-aJ&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://d.newsweek.com/en/full/2296775/russian-kamov-ka-52-alligator-attack-helicopters.jpg",
+                            "msapplication-config": "https://g.newsweek.com/themes/newsweek/favicons/browserconfig.xml",
+                            "og:image:width": "3004",
+                            "article:published_time": "2023-10-19T11:10:47-04:00",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ff0500",
+                            "og:site_name": "Newsweek",
+                            "twitter:url": "https://www.newsweek.com/russia-ka-52-helicopters-destroyed-ukraine-1836103",
+                            "og:description": "Russia has lost a significant number of its helicopters since President Vladimir Putin's full-scale invasion of Ukraine began in February 2022.",
+                            "article:publisher": "https://www.facebook.com/Newsweek",
+                            "twitter:image": "https://d.newsweek.com/en/full/2296775/russian-kamov-ka-52-alligator-attack-helicopters.webp?w=1600&h=900&q=88&f=c2e0d9dbd8fed3eaa65ef9fbf7e8d282",
+                            "twitter:site": "@newsweek",
+                            "article:modified_time": "2023-10-19T13:24:16-04:00",
+                            "msapplication-tilecolor": "#ff0500",
+                            "og:type": "article",
+                            "og:image:alt": "Russian Kamov Ka-52 Alligator attack helicopters",
+                            "article:section": "World",
+                            "twitter:title": "Russia forced to change Ka-52 helicopter tactics after slew of losses: Kyiv",
+                            "og:title": "Russia forced to change Ka-52 helicopter tactics after slew of losses: Kyiv",
+                            "og:image:height": "2003",
+                            "fb:pages": "18343191100",
+                            "article:tag": "Russia-Ukraine War",
+                            "fb:app_id": "245537789135954",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Russia has lost a significant number of its helicopters since President Vladimir Putin's full-scale invasion of Ukraine began in February 2022.",
+                            "og:url": "https://www.newsweek.com/russia-ka-52-helicopters-destroyed-ukraine-1836103"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d.newsweek.com/en/full/2296775/russian-kamov-ka-52-alligator-attack-helicopters.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Russia is being forced to change how its Ka-52 helicopters are operating in the Ukraine war after suffering significant losses, a Ukrainian official said on Thursday.\nColonel Oleksandr Shtupun, a spokesperson for Ukraine's Tavria group of forces covering the Donetsk town of Avdiivka, explained Moscow's change in tactics during an appearance on Svoboda.Ranok, a project from Radio Free Europe/ Radio Liberty.\nRussia has lost a significant number of its helicopters since President Vladimir Putin's full-scale invasion of Ukraine began in February 2022, publicly available data suggests. The Ka-52, known as the \"Alligator\" by Russia and \"Hokum-B\" by NATO, has been described by military experts as one of Russia's most capable attack helicopters.\n\"At this stage, we are destroying them with missile attacks,\" Shtupun said, adding that Moscow's forces have been forced to switch tactics and launch attacks with Ka-52 helicopters from far away.\n\"The Russians are not currently entering the effective range of our air defense,\" he said. \"Our soldiers have learned to shoot them down quite professionally. So the Russians are launching their attacks from afar.\n\"These helicopters are far less effective at a considerable distance than if they flew closer. The Russians are simply afraid now.\"\nAccording to the British Royal Air Force (RAF), Russia had 899 helicopters at...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Newsweek is a well-established publication with a history dating back to 1933. It covers a variety of topics with insightful analysis, employs professional journalists, and has fact-checking practices that contribute to its reliability. While it has faced criticism for sensationalism, it maintains a reputation for historical accuracy and has taken steps to address misinformation. These factors justify its score of 8 out of 10."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-10-19"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This piece discusses tactical changes in the Russian military in response to battlefield losses, which could provide context about ongoing military actions but does not engage with the beach party's authenticity or its portrayal in the video."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "The 2024 Events That Could Change the World - Newsweek",
+                "htmlTitle": "The 2024 Events That Could Change the World - Newsweek",
+                "link": "https://www.newsweek.com/2024-events-change-world-putin-trump-nuclear-war-1852557",
+                "displayLink": "www.newsweek.com",
+                "snippet": "Jan 1, 2024 ... With the war in Ukraine set to continue into its third year, the Israeli ground offensive in Gaza ongoing, and technological advances coming in\u00a0...",
+                "htmlSnippet": "Jan 1, 2024 <b>...</b> With the war in <b>Ukraine</b> set to continue into its third year, the Israeli ground offensive in Gaza ongoing, and technological advances coming in&nbsp;...",
+                "formattedUrl": "https://www.newsweek.com/2024-events-change-world-putin-trump-nuclea...",
+                "htmlFormattedUrl": "https://www.newsweek.com/2024-events-change-world-putin-trump-nuclea...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQHP49Tf-d5q7v8iUeo3HpE6wqt5GQhEpO5f9G9nnCAUX0tcwkatus7lQ&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://d.newsweek.com/en/full/2323582/world-2024-graphic.jpg",
+                            "msapplication-config": "https://g.newsweek.com/themes/newsweek/favicons/browserconfig.xml",
+                            "og:image:width": "2400",
+                            "article:published_time": "2024-01-01T03:00:01-05:00",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ff0500",
+                            "og:site_name": "Newsweek",
+                            "twitter:url": "https://www.newsweek.com/2024-events-change-world-putin-trump-nuclear-war-1852557",
+                            "og:description": "Nuclear war and climate chaos to presidential elections around the world\u2014Newsweek asks the experts what to expect in the next 12 months.",
+                            "article:publisher": "https://www.facebook.com/Newsweek",
+                            "twitter:image": "https://d.newsweek.com/en/full/2323582/world-2024-graphic.webp?w=1600&h=900&q=88&f=db5b92b8ab532943bb3aac0db6867663",
+                            "twitter:site": "@newsweek",
+                            "article:modified_time": "2024-01-01T05:34:30-05:00",
+                            "msapplication-tilecolor": "#ff0500",
+                            "og:type": "article",
+                            "og:image:alt": "World in 2024 graphic",
+                            "article:section": "News",
+                            "twitter:title": "The 2024 events that could change the world",
+                            "og:title": "The 2024 events that could change the world",
+                            "og:image:height": "1600",
+                            "fb:pages": "18343191100",
+                            "article:tag": "Vladimir Putin",
+                            "fb:app_id": "245537789135954",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Nuclear war and climate chaos to presidential elections around the world\u2014Newsweek asks the experts what to expect in the next 12 months.",
+                            "og:url": "https://www.newsweek.com/2024-events-change-world-putin-trump-nuclear-war-1852557"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d.newsweek.com/en/full/2323582/world-2024-graphic.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "2023 was a year of events that arguably mark significant changes in an ever-shifting world: another war in the Middle East, unprecedented extreme weather events, the first new NATO member to border Russia since 2004, a new British monarch for the first time in seven decades, and a banking crisis that led to the second-largest banking collapse in U.S. history.\nWith the war in Ukraine set to continue into its third year, the Israeli ground offensive in Gaza ongoing, and technological advances coming in leaps and bounds while the climate crisis worsens, it doesn't take a soothsayer to foresee some things that could irrevocably alter the world as we know it.\nAs 2024 begins, Newsweek asked experts about some of these possible world-changing events, and what effects they could have were they to happen in the next 12 months.\n\"Geopolitical uncertainty is going to remain elevated,\" Liz Ann Sonders, chief investment strategist at financial advisory firm Charles Schwab, told Newsweek in a press call on the economic outlook, \"and I think at least in the short term that can be a volatility driver and is in part one of the reasons why we think we're in a different secular environment than the Great Moderation,\" a reference to a period of low economic volatility from the mid-1980s to at least 2007.\nThe leading analyst added that \"a combination of supply and demand shocks\u2014and you add climate change into the mix\u2014[... is] supportive of that view that we're not going back to the Great Moderation.\"\nThe threat of nuclear weapons being used in the near future is an unlikely one, experts in international relations have said, but not implausible under certain circumstances.\nMark Galeotti, an academic and author on Russian security affairs, said he didn't see \"any likelihood of nuclear conflict\" in the coming year,...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Newsweek is a well-established publication with a history dating back to 1933. It covers a variety of topics with insightful analysis, employs professional journalists, and has fact-checking practices that contribute to its reliability. While it has faced criticism for sensationalism, it maintains a reputation for historical accuracy and has taken steps to address misinformation. These factors justify its score of 8 out of 10."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2024-01-01"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "This evidence highlights general events expected to impact world events in 2024 and makes no direct references to the claim or any specific beach activity that would address the question of the video's authenticity."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Result Page 137 for Russia-Ukraine War news & latest pictures from ...",
+                "htmlTitle": "Result Page 137 for Russia-<b>Ukraine</b> War news &amp; latest pictures from ...",
+                "link": "https://www.newsweek.com/topic/russia-ukraine-war?page=137",
+                "displayLink": "www.newsweek.com",
+                "snippet": "4081-4110 (out of 9904) All the latest breaking news on Russia-Ukraine War. Browse Newsweek archives of photos, videos and articles on Russia-Ukraine War.",
+                "htmlSnippet": "4081-4110 (out of 9904) All the latest breaking news on Russia-<b>Ukraine</b> War. Browse Newsweek archives of photos, <b>videos</b> and articles on Russia-<b>Ukraine</b> War.",
+                "formattedUrl": "https://www.newsweek.com/topic/russia-ukraine-war?page=137",
+                "htmlFormattedUrl": "https://www.newsweek.com/topic/russia-ukraine-war?page=137",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#ff0500",
+                            "msapplication-config": "https://g.newsweek.com/themes/newsweek/favicons/browserconfig.xml",
+                            "og:type": "website",
+                            "theme-color": "#ff0500",
+                            "og:site_name": "Newsweek",
+                            "og:title": "Result Page 137 for Russia-Ukraine War news & latest pictures from Newsweek.com",
+                            "fb:pages": "18343191100",
+                            "og:description": "4081-4110 (out of 9904) All the latest breaking news on Russia-Ukraine War. Browse Newsweek archives of photos, videos and articles on Russia-Ukraine War.",
+                            "article:publisher": "https://www.facebook.com/Newsweek",
+                            "fb:app_id": "245537789135954",
+                            "twitter:site": "@newsweek",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:url": "https://www.newsweek.com/topic/russia-ukraine-war"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Our evening digest recaps the day's most popular and important stories\n\nBy clicking on SIGN ME UP, you agree to Newsweek's,\nTerms of Use\n&\nPrivacy Policy.\nYou may unsubscribe at any time.\nNewsletters in your inbox See all\nCompany\nEditions:\nContact\nTerms of Use\n\u00a9 2024 NEWSWEEK DIGITAL LLC",
+                    "content_tokens": 72
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Newsweek is a well-established publication with a history dating back to 1933. It covers a variety of topics with insightful analysis, employs professional journalists, and has fact-checking practices that contribute to its reliability. While it has faced criticism for sensationalism, it maintains a reputation for historical accuracy and has taken steps to address misinformation. These factors justify its score of 8 out of 10."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "As a general page summarizing news articles about the Ukraine war, it lacks any specific connection or content that addresses the specific scenario of a beach party or the veracity of the claim."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "No More U.S. Flights Near Russia, Diplomat Demands After Drone ...",
+                "htmlTitle": "No More U.S. Flights Near Russia, Diplomat Demands After Drone ...",
+                "link": "https://www.newsweek.com/no-more-us-flights-near-russia-diplomat-demands-drone-strike-black-sea-1787872",
+                "displayLink": "www.newsweek.com",
+                "snippet": "Mar 15, 2023 ... \"We proceed from the fact that the United States will refrain from further speculations in the media landscape and stop making sorties near the\u00a0...",
+                "htmlSnippet": "Mar 15, 2023 <b>...</b> &quot;We proceed from the <b>fact</b> that the United States will refrain from further speculations in the media landscape and stop making sorties near the&nbsp;...",
+                "formattedUrl": "https://www.newsweek.com/no-more-us-flights-near-russia-diplomat-dema...",
+                "htmlFormattedUrl": "https://www.newsweek.com/no-more-us-flights-near-russia-diplomat-dema...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_VLB5G1V3ZIbfLjLceHdodfcqHxaUiHuQPZt-cswy7EKKIaFIp7IjQA8&s",
+                            "width": "278",
+                            "height": "182"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://d.newsweek.com/en/full/2209048/us-mq-9-reaper-nevada-flight.jpg",
+                            "msapplication-config": "https://g.newsweek.com/themes/newsweek/favicons/browserconfig.xml",
+                            "og:image:width": "3000",
+                            "article:published_time": "2023-03-15T07:30:27-04:00",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ff0500",
+                            "og:site_name": "Newsweek",
+                            "twitter:url": "https://www.newsweek.com/no-more-us-flights-near-russia-diplomat-demands-drone-strike-black-sea-1787872",
+                            "og:description": "Russia's envoy to the U.S. said the downed drone was collecting intelligence to help Ukrainian forces target Moscow's troops.",
+                            "article:publisher": "https://www.facebook.com/Newsweek",
+                            "twitter:image": "https://d.newsweek.com/en/full/2209048/us-mq-9-reaper-nevada-flight.webp?w=1600&h=900&q=88&f=425cb7022a8126e4604699f05ef1a053",
+                            "twitter:site": "@newsweek",
+                            "article:modified_time": "2023-03-15T07:30:27-04:00",
+                            "msapplication-tilecolor": "#ff0500",
+                            "og:type": "article",
+                            "og:image:alt": "US MQ-9 Reaper in Nevada flight",
+                            "article:section": "World",
+                            "twitter:title": "No more U.S. flights near Russia, diplomat demands after drone strike",
+                            "og:title": "No more U.S. flights near Russia, diplomat demands after drone strike",
+                            "og:image:height": "1964",
+                            "fb:pages": "18343191100",
+                            "article:author": "https://www.facebook.com/david.brennan.9231712/",
+                            "article:tag": "Russia",
+                            "fb:app_id": "245537789135954",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Russia's envoy to the U.S. said the downed drone was collecting intelligence to help Ukrainian forces target Moscow's troops.",
+                            "og:url": "https://www.newsweek.com/no-more-us-flights-near-russia-diplomat-demands-drone-strike-black-sea-1787872"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d.newsweek.com/en/full/2209048/us-mq-9-reaper-nevada-flight.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Air Forces Africa, said in a statement that the drone was flying over international waters and was lost after \"the Su-27s dumped fuel on, and flew in front of the MQ-9 in a reckless, environmentally unsound and unprofessional manner.\"\nOne of the Russian aircraft then struck the Reaper's propeller, forcing it down into the sea, he said. \"This incident demonstrates a lack of competence in addition to being unsafe and unprofessional,\" Hecker added.\nAntonov denied the U.S. report of the incident, instead claiming there was no physical contact or other undue harassment of the drone by Russian fighters. The drone, he told Newsweek, was collecting intelligence to help Ukrainian units target Russian forces.\n\"We are well aware of the missions such reconnaissance and strike drones are used for,\" the ambassador said in a communique quoted by TASS. \"What do they do thousands of miles away from the United States? The answer is obvious; they gather intelligence which is later used by the Kyiv regime to attack our armed forces and territory.\"\n\"Let us ask a rhetorical question: if, for example, a Russian strike drone appeared near New York or San Francisco, how would the U.S. Air Force and Navy react? I am quite confident that the U.S. military would act in an uncompromising way and would not allow its airspace or territorial waters to be breached,\" he added.\n\"We proceed from the fact that the United States will refrain from further speculations in the media landscape and stop making sorties near the Russian borders...We perceive any actions involving the use of American weapons and military equipment as openly hostile.\"\nLeonid Slutsky, the leader of the right-wing populist Liberal Democratic Party of Russia and the chairman of the State Duma's international affairs committee, told TASS the incident is \"proof that the United States is involved in the Ukrainian conflict.\"\n\"No doubt, this was a provocation that Russia cannot view otherwise than as an enemy action,\" the lawmaker said.\nThe U.S. routinely conducts reconnaissance flights over the Black Sea and around Russian borders, as does Moscow on the edges of NATO airspace.\nMark Voyger, a former special adviser for Russian and Eurasian affairs to then-commander of U.S. Army Europe General Ben Hodges, told Newsweek that Moscow is sending the message that \"the Black Sea is effectively, from the Russian point of view, almost an internal sea.\" Any non-Black Sea states, he said, are perceived as \"intruders\" by the Kremlin.\n\"What happens in the Black Sea doesn't stay in the Black Sea,\" Voyger added, framing the...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Newsweek is a well-established publication with a history dating back to 1933. It covers a variety of topics with insightful analysis, employs professional journalists, and has fact-checking practices that contribute to its reliability. While it has faced criticism for sensationalism, it maintains a reputation for historical accuracy and has taken steps to address misinformation. These factors justify its score of 8 out of 10."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-03-15"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This article addresses U.S. reconnaissance and its implications in the Ukraine conflict but does not provide any relevant information regarding beach activities or their authenticity amid the conflict."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Correction policies and requests - Newsweek - Newsweek",
+                "htmlTitle": "Correction policies and requests - Newsweek - Newsweek",
+                "link": "https://www.newsweek.com/corrections",
+                "displayLink": "www.newsweek.com",
+                "snippet": "Newsweek is committed to providing journalism that is responsible and accurate, and our policy is to make any needed corrections promptly and transparently.",
+                "htmlSnippet": "Newsweek is committed to providing journalism that is responsible and accurate, and our policy is to make any needed corrections promptly and transparently.",
+                "formattedUrl": "https://www.newsweek.com/corrections",
+                "htmlFormattedUrl": "https://www.newsweek.com/corrections",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXQT7t_-gxJgtQxZGBKKov-3eb14lNv4ijKiaHfpCftO8vsYvfLkWk&s=0",
+                            "width": "1",
+                            "height": "1"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#ff0500",
+                            "og:image": "https://d.newsweek.com/en/full/1517495/1x1-pixel.png",
+                            "msapplication-config": "https://g.newsweek.com/themes/newsweek/favicons/browserconfig.xml",
+                            "og:type": "article",
+                            "og:image:alt": "1x1 Pixel",
+                            "og:image:width": "1",
+                            "article:published_time": "2013-10-31T15:42:23-04:00",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Corrections",
+                            "theme-color": "#ff0500",
+                            "og:site_name": "Newsweek",
+                            "twitter:url": "https://www.newsweek.com/corrections",
+                            "og:title": "Corrections",
+                            "og:image:height": "1",
+                            "fb:pages": "18343191100",
+                            "og:description": "We are committed to providing journalism that is responsible and accurate, and our policy is to make any needed corrections promptly and transparently. We note corrections at the bottom of the story concerned.",
+                            "article:publisher": "https://www.facebook.com/Newsweek",
+                            "twitter:image": "https://d.newsweek.com/en/full/1517495/1x1-pixel.webp",
+                            "fb:app_id": "245537789135954",
+                            "twitter:site": "@newsweek",
+                            "article:modified_time": "2024-07-19T14:34:52-04:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "We are committed to providing journalism that is responsible and accurate, and our policy is to make any needed corrections promptly and transparently. We note corrections at the bottom of the story concerned.",
+                            "og:url": "https://www.newsweek.com/corrections"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d.newsweek.com/en/full/1517495/1x1-pixel.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Newsweek welcomes your feedback on any item that warrants correction. We are committed to providing journalism that is responsible and accurate, and our policy is to make any needed corrections promptly and transparently. We note corrections at the bottom of the story concerned. They are also listed below. All times are given in E.T.\nPlease send any comments to us at support@newsweek.com. You can find full details of Newsweek's policies and standards here.\n2024\nJULY\nJUNE\nMAY\nAPRIL\nMARCH\nFEBRUARY\nJANUARY\n2023\nDECEMBER\nNOVEMBER\nOCTOBER\nSEPTEMBER\nAUGUST\nJULY\nJUNE\nMAY\nAPRIL\nMARCH\nFEBRUARY\nJANUARY\n2022\nDECEMBER\nNOVEMBER\nOCTOBER\nSEPTEMBER\nAUGUST\nJULY\nJUNE\nMAY\nAPRIL\nMARCH\nFEBRUARY\nJANUARY\n2021\nDECEMBER\nNOVEMBER\nOCTOBER\nSEPTEMBER\nAUGUST\nJULY\nJUNE\nMAY\nAPRIL\nMARCH\nFEBRUARY\nJANUARY\n2020\nDECEMBER\nNOVEMBER\nOCT...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Newsweek is a well-established publication with a history dating back to 1933. It covers a variety of topics with insightful analysis, employs professional journalists, and has fact-checking practices that contribute to its reliability. While it has faced criticism for sensationalism, it maintains a reputation for historical accuracy and has taken steps to address misinformation. These factors justify its score of 8 out of 10."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2013-10-31"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This page discusses corrections and policy of Newsweek but does not deal with issues pertinent to the claim of the beach party's authenticity or any relevant aspect of the ongoing conflict."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "Question": "Does the video confirm it was filmed on Epstein's island with young girls?",
+    "Prediction": {
+        "need_online_search": "Yes",
+        "reasoning": "The question requires verification of the video's origin and context regarding its association with Epstein's island, which is not conclusively established by the provided information.",
+        "Queries": {
+            "Query1": {
+                "query": "Did Epstein have a house on his island? (site:cnn.com OR site:npr.org OR site:bbc.com)",
+                "key_terms": "Epstein"
+            },
+            "Query2": {
+                "query": "Video footage from Epstein's island January 2023 (site:theguardian.com OR site:vice.com OR site:forbes.com)",
+                "key_terms": "footage"
+            }
+        }
+    }
+}

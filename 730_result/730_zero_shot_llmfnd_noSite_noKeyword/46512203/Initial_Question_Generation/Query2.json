@@ -1,0 +1,626 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Maui wildfires August 2023 Trump visit news ABC, NBC, Fox",
+                "totalResults": "213000",
+                "searchTerms": "Maui wildfires August 2023 Trump visit news ABC, NBC, Fox",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Maui wildfires August 2023 Trump visit news ABC, NBC, Fox",
+                "totalResults": "213000",
+                "searchTerms": "Maui wildfires August 2023 Trump visit news ABC, NBC, Fox",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.447153,
+        "formattedSearchTime": "0.45",
+        "totalResults": "213000",
+        "formattedTotalResults": "213,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Watch World News Tonight with David Muir TV Show - ABC.com",
+                "htmlTitle": "Watch World <b>News</b> Tonight with David Muir TV Show - <b>ABC</b>.com",
+                "link": "https://abc.com/show/696ef72f-7489-4bee-8dbd-7d1a3076a875",
+                "displayLink": "abc.com",
+                "snippet": "Watch the official World News Tonight with David Muir online at ABC.com. Get exclusive videos, blogs, photos, cast bios, free episodes.",
+                "htmlSnippet": "Watch the official World <b>News</b> Tonight with David Muir online at <b>ABC</b>.com. Get exclusive videos, blogs, photos, cast bios, free episodes.",
+                "formattedUrl": "https://abc.com/show/696ef72f-7489-4bee-8dbd-7d1a3076a875",
+                "htmlFormattedUrl": "https://<b>abc</b>.com/show/696ef72f-7489-4bee-8dbd-7d1a3076a875",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZuBdyVJcHHmO8agAS9jiXL95KP65BF9RN7ZZnfcLVYDdMAq0zMOwWkbKc&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#2D2D2D",
+                            "og:image": "https://cdn1.edgedatg.com/aws/v2/abcnews/WorldNews/showimages/1b85ba57a3d559196ec6d48e192a13a6/1200x627-Q80_1b85ba57a3d559196ec6d48e192a13a6.jpg",
+                            "apple-itunes-app": "app-id=364191819, app-argument=https://abc.com/watch-live",
+                            "twitter:card": "summary_large_image",
+                            "og:type": "website",
+                            "og:site_name": "ABC",
+                            "msvalidate.01": "0EABD001D404EA9DDE2025E9E4F14CAF",
+                            "og:title": "Watch World News Tonight with David Muir TV Show - ABC.com",
+                            "og:app_id": "137585909851",
+                            "msapplication-tileimage": "//cdn1.edgedatg.com/tml/assets/content/abc/abc-icon-2021.png",
+                            "og:description": "Watch the official World News Tonight with David Muir online at ABC.com. Get exclusive videos, blogs, photos, cast bios, free episodes",
+                            "msapplication-id": "App",
+                            "twitter:image": "https://cdn1.edgedatg.com/aws/v2/abcnews/WorldNews/showimages/1b85ba57a3d559196ec6d48e192a13a6/1200x627-Q80_1b85ba57a3d559196ec6d48e192a13a6.jpg",
+                            "msapplication-packagefamilyname": "ABC.ABCPlayer",
+                            "fb:app_id": "137585909851",
+                            "twitter:site": "@{twitter.account}",
+                            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+                            "og:locale": "en_US",
+                            "og:url": "https://abc.com/show/696ef72f-7489-4bee-8dbd-7d1a3076a875",
+                            "google-play-app": "app-id=com.disney.datg.videoplatforms.android.abc",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn1.edgedatg.com/aws/v2/abcnews/WorldNews/showimages/1b85ba57a3d559196ec6d48e192a13a6/1200x627-Q80_1b85ba57a3d559196ec6d48e192a13a6.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "!\n!\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nWith unparalleled resources, \"World News Tonight with David Muir\" provides the latest information and analysis of major events from around the country and the world.\nWEEKNIGHTS 6:30/5:30c\nStreaming here & on Hulu\nseason 15\n---------\n### season 15\n*   (blob:https://abc.com/b9a31d3949b1882a09ed2f8508d538f3) 19:54]\n*   (blob:https://abc.com/b9a31d3949b1882a09ed2f8508d538f3) 19:49]\n*   (blob:https://abc.com/b9a31d3949b1882a09ed2f8508d538f3) 19:50]\n*   (blob:https://abc.com/b9a31d3949b1882a09ed2f8508d538f3) 19:46]\n*   (blob:https://abc.com/b9a31d3949b1882a09ed2f8508d538f3) 19:54]\n*   (blob:https://abc.com/b9a31d3949b1882a09ed2f8508d538f3) 19:53]\n*   (...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "U.S. News | Latest National News, Videos & Photos - ABC News ...",
+                "htmlTitle": "U.S. <b>News</b> | Latest National <b>News</b>, Videos &amp; Photos - <b>ABC News</b> ...",
+                "link": "https://abcnews.go.com/US",
+                "displayLink": "abcnews.go.com",
+                "snippet": "Firefighters work to contain a massive wildfire in California; Palestinian family faces unique struggle for urgent care amidst war; Paris faces a heat wave ...",
+                "htmlSnippet": "Firefighters work to contain a massive <b>wildfire</b> in California; Palestinian family faces unique struggle for urgent care amidst war; Paris faces a heat wave&nbsp;...",
+                "formattedUrl": "https://abcnews.go.com/US",
+                "htmlFormattedUrl": "https://<b>abcnews</b>.go.com/US",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5csR8_xmsRNoDC8jfS6vK0S6KNDnsH2iR69BakiTbcAEHqeGOmwlACqSt&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+                            "twitter:app:url:iphone": "abcnewsiphone://link/section,",
+                            "twitter:app:id:googleplay": "com.abc.abcnews",
+                            "copyright": "2024 ABC News",
+                            "og:type": "website",
+                            "og:site_name": "ABC News",
+                            "author": "ABC News",
+                            "og:title": "ABC News – Breaking News, Latest News and Videos",
+                            "twitter:app:url:ipad": "abcnewsipad://link/section,",
+                            "twitter:app:id:ipad": "306934135",
+                            "twitter:app:name:googleplay": "ABC News",
+                            "twitter:app:id:iphone": "300255638",
+                            "og:description": "Get the  latest breaking news across the U.S. on ABCNews.com",
+                            "fb:pages": "86680728811",
+                            "fb:app_id": "4942312939",
+                            "twitter:app:url:googleplay": "https://abcnews.go.com/",
+                            "twitter:app:name:ipad": "ABC News",
+                            "viewport": "initial-scale=1.0, user-scalable=yes",
+                            "og:locale": "en_US",
+                            "fb:admins": "704409894",
+                            "og:url": "https://abcnews.go.com/US",
+                            "fb_title": "ABC News – Breaking News, Latest News and Videos",
+                            "twitter:app:name:iphone": "ABC News"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "--------------------------------------------------------------------------------------------------------\nCatch up on the developing stories making headlines.\n29 minutes ago\n(blob:https://abcnews.go.com/b9a31d3949b1882a09ed2f8508d538f3)]\n(blob:https://abcnews.go.com/b9a31d3949b1882a09ed2f8508d538f3)]\n-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nA Trump campaign spokesperson called the claims \"completely fabricated.\"\n4 hours ago\n(blob:https://abcnews.go.com/b9a31d3949b1882a09ed2f8508d538f3)]\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nAshley Benefield says she shot her husband multiple times in self-defense.\n4 hours ago\n(blob:https://abcnews.go.com/b9a31d3949b1882a09ed2f8508d538f3)]\n---------------------------------------------------------------------------------------------------------------------------------------------\nPolice are investigating the 19-year-old's death as a homicide.\nJuly 30\n(blob:https://abcnews.go.com/b9a31d3949b1882a09ed2f8508d538f3)]\n(blob:https://abcnews.go.com/b9a31d3949b1882a09ed2f8508d538f3)]\n-------------------------------------------------------------------------------------------------------------------------------\nFirefighters work to contain a massive wildfire in California; Palestinian family faces unique struggle for urgent care amidst war; Paris faces a heat wave during the Summer Games.\nJuly 29\n(blob:https://abcnews.go.com/b9a31d3949b1882a09ed2f8508d538f3)]\n-----------------------------------------------------------------------------------------------------------------------------------\nStay up to date on the developing stories making headlines.\nJuly 29\n(blob:https://abcnews.go.com/b9a31d3949b1882a09ed2f8508d538f3)]\n------------------------------------------------------------------------------------------------------------------------------------------------------------------\nABC News' Aaron Katersky speaks exclusively with members of the Beaver County, Pennsylvania, SWAT team regarding who saw the shooter beforehand and possible reasons why the shooting was not prevented.\nJuly ...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Watch Good Morning America TV Show - ABC.com",
+                "htmlTitle": "Watch Good Morning America TV Show - <b>ABC</b>.com",
+                "link": "https://abc.com/show/f17f433e-bd1f-4686-9994-9d3aea9f8c2d",
+                "displayLink": "abc.com",
+                "snippet": "4 hours ago ... \"Good Morning America\" is the Emmy-winning morning news program featuring anchors Robin Roberts, George Stephanopoulos, Michael Strahan and ...",
+                "htmlSnippet": "4 hours ago <b>...</b> &quot;Good Morning America&quot; is the Emmy-winning morning <b>news</b> program featuring anchors Robin Roberts, George Stephanopoulos, Michael Strahan and&nbsp;...",
+                "formattedUrl": "https://abc.com/show/f17f433e-bd1f-4686-9994-9d3aea9f8c2d",
+                "htmlFormattedUrl": "https://<b>abc</b>.com/show/f17f433e-bd1f-4686-9994-9d3aea9f8c2d",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRam1EIbC9qdiqK929KbuHMPp7w4mWNRhszpurKet8DObo89mqHAw_oUbKI&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#2D2D2D",
+                            "og:image": "https://cdn1.edgedatg.com/aws/v2/abc/GoodMorningAmerica/showimages/f52944564897cf3c407aff916d603732/1200x627-Q80_f52944564897cf3c407aff916d603732.jpg",
+                            "apple-itunes-app": "app-id=364191819, app-argument=https://abc.com/watch-live",
+                            "twitter:card": "summary_large_image",
+                            "og:type": "website",
+                            "og:site_name": "ABC",
+                            "msvalidate.01": "0EABD001D404EA9DDE2025E9E4F14CAF",
+                            "og:title": "Watch Good Morning America TV Show - ABC.com",
+                            "og:app_id": "137585909851",
+                            "msapplication-tileimage": "//cdn1.edgedatg.com/tml/assets/content/abc/abc-icon-2021.png",
+                            "og:description": "Watch the official Good Morning America online at ABC.com. Get exclusive videos, blogs, photos, cast bios, free episodes",
+                            "msapplication-id": "App",
+                            "twitter:image": "https://cdn1.edgedatg.com/aws/v2/abc/GoodMorningAmerica/showimages/f52944564897cf3c407aff916d603732/1200x627-Q80_f52944564897cf3c407aff916d603732.jpg",
+                            "msapplication-packagefamilyname": "ABC.ABCPlayer",
+                            "fb:app_id": "137585909851",
+                            "twitter:site": "@{twitter.account}",
+                            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+                            "og:locale": "en_US",
+                            "og:url": "https://abc.com/show/f17f433e-bd1f-4686-9994-9d3aea9f8c2d",
+                            "google-play-app": "app-id=com.disney.datg.videoplatforms.android.abc",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn1.edgedatg.com/aws/v2/abc/GoodMorningAmerica/showimages/f52944564897cf3c407aff916d603732/1200x627-Q80_f52944564897cf3c407aff916d603732.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...a31d3949b1882a09ed2f8508d538f3) 01:05:38]\n*   (blob:https://abc.com/b9a31d3949b1882a09ed2f8508d538f3) 01:10:39]\n*   (blob:https://abc.com/b9a31d3949b1882a09ed2f8508d538f3) 35:02]\n*   (blob:https://abc.com/b9a31d3949b1882a09ed2f8508d538f3) 01:07:24]\n*   (blob:https://abc.com/b9a31d3949b1882a09ed2f8508d538f3) 01:09:35]\n*   (blob:https://abc.com/b9a31d3949b1882a09ed2f8508d538f3) 01:08:43]\n*   (blob:https://abc.com/b9a31d3949b1882a09ed2f8508d538f3) 01:10:19]\nOut of list\nJune 2024\n---------\n### June 2024\n*   (blob:https://abc.com/b9a31d3949b1882a09ed2f8508d538f3) 33:16]\n*   (blob:https://abc.com/b9a31d3949b1882a09ed2f8508d538f3) 01:08:19]\n*   (blob:https://abc.com/b9a31d3949b1882a09ed2f8508d538f3) 01:08:46]\n*   (blob:https://abc.com/b9a31d3949b1882a09ed2f8508d538f3) 01:09:50]\n*   (blob:https://abc.com/b9a31d3949b1882a09ed2f8508d538f3) 01:08:30]\n*   (blob:https://abc.com/b9a31d3949b1882a09ed2f8508d538f3) 01:09:12]\n*   (blob:https://abc.com/b9a31d394...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "World News Tonight With David Muir - ABC News",
+                "htmlTitle": "World <b>News</b> Tonight With David Muir - <b>ABC News</b>",
+                "link": "https://abcnews.go.com/WN",
+                "displayLink": "abcnews.go.com",
+                "snippet": "The Park Fire is the biggest wildfire in the nation right now. 7 minutes ago.",
+                "htmlSnippet": "The Park <b>Fire</b> is the biggest <b>wildfire</b> in the nation right now. 7 minutes ago.",
+                "formattedUrl": "https://abcnews.go.com/WN",
+                "htmlFormattedUrl": "https://<b>abcnews</b>.go.com/WN",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5csR8_xmsRNoDC8jfS6vK0S6KNDnsH2iR69BakiTbcAEHqeGOmwlACqSt&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+                            "twitter:app:url:iphone": "abcnewsiphone://link/section,",
+                            "twitter:app:id:googleplay": "com.abc.abcnews",
+                            "copyright": "2024 ABC News",
+                            "og:type": "website",
+                            "og:site_name": "ABC News",
+                            "author": "ABC News",
+                            "og:title": "ABC News – Breaking News, Latest News and Videos",
+                            "twitter:app:url:ipad": "abcnewsipad://link/section,",
+                            "twitter:app:id:ipad": "306934135",
+                            "twitter:app:name:googleplay": "ABC News",
+                            "twitter:app:id:iphone": "300255638",
+                            "og:description": "Get the latest news stories and headlines from around the world.  Find news videos and watch full episodes of World News Tonight With David Muir at ABCNews.com.",
+                            "fb:pages": "86680728811",
+                            "fb:app_id": "4942312939",
+                            "twitter:app:url:googleplay": "https://abcnews.go.com/",
+                            "twitter:app:name:ipad": "ABC News",
+                            "viewport": "initial-scale=1.0, user-scalable=yes",
+                            "og:locale": "en_US",
+                            "fb:admins": "704409894",
+                            "og:url": "https://abcnews.go.com/WN",
+                            "fb_title": "ABC News – Breaking News, Latest News and Videos",
+                            "twitter:app:name:iphone": "ABC News"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...https://abcnews.go.com/b9a31d3949b1882a09ed2f8508d538f3) 19:54 ### Thu, Jul 25, 2024 Jul 25, 2024]\n*   (blob:https://abcnews.go.com/b9a31d3949b1882a09ed2f8508d538f3) 19:53 ### Wed, Jul 24, 2024 Jul 24, 2024]\n*   (blob:https://abcnews.go.com/b9a31d3949b1882a09ed2f8508d538f3) 19:56 ### Tue, Jul 23, 2024 Jul 23, 2024]\n*   (blob:https://abcnews.go.com/b9a31d3949b1882a09ed2f8508d538f3) 20:01 ### Mon, Jul 22, 2024 Jul 22, 2024]\n*   (blob:https://abcnews.go.com/b9a31d3949b1882a09ed2f8508d538f3) 20:04 ### Sun, Jul 21, 2024 Jul 21, 2024]\n*   (blob:https://abcnews.go.com/b9a31d3949b1882a09ed2f8508d538f3) 19:45 ### Sat, Jul 20, 2024 Jul 20, 2024]\n*   (blob:https://abcnews.go.com/b9a31d3949b1882a09ed2f8508d538f3) 19:38 ### Fri, Jul 19, 2024 Jul 19, 2024]\n*   (blob:https://abcnews.go.com/b9a31d3949b1882a09ed2f8508d538f3) 19:54 ### Thu, Jul 18, 2024 Jul 18, 2024]\n*   (blob:https://abcnews.go.com/b9a31d3949b1882a09ed2f8508d538f3) 19:49 ### Wed, Jul 17, 2024 Jul 17, 2024]\nWorld News Tonight Reports\n--------------------------\n01\n(blob:https://abcnews.go.com/b9a31d3949b1882a09ed2f8508d538f3)]\n--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nVance made the comments in 2021, but...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "ABC 10News San Diego | 10News.com | San Diego, California ...",
+                "htmlTitle": "<b>ABC</b> 10News San Diego | 10News.com | San Diego, California ...",
+                "link": "https://www.10news.com/",
+                "displayLink": "www.10news.com",
+                "snippet": "ABC 10News San Diego. Get San Diego news headlines, weather, traffic, sports, and entertainment & lifestyle on KGTV-TV and 10News.com.",
+                "htmlSnippet": "<b>ABC</b> 10News San Diego. Get San Diego <b>news</b> headlines, weather, traffic, sports, and entertainment &amp; lifestyle on KGTV-TV and 10News.com.",
+                "formattedUrl": "https://www.10news.com/",
+                "htmlFormattedUrl": "https://www.10<b>news</b>.com/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1csWXmofvUMJOzAjRjuLWsytHElymcSfZzVhvLWIrD0yoBjOSAgpIiTY&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://ewscripps.brightspotcdn.com/dims4/default/ddd7337/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F66%2Ffa%2F8038734f4a2283507fdc8c9c2c63%2Fdefault.png",
+                            "apple-itunes-app": "app-id=530143054",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Homepage",
+                            "brightspot.cached": "true",
+                            "og:site_name": "ABC 10 News San Diego KGTV",
+                            "og:image:url": "https://ewscripps.brightspotcdn.com/dims4/default/ddd7337/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F66%2Ffa%2F8038734f4a2283507fdc8c9c2c63%2Fdefault.png",
+                            "og:title": "Homepage",
+                            "og:image:height": "630",
+                            "og:image:type": "image/png",
+                            "og:description": "Visit 10News.com for breaking San Diego news. Get local news, weather, traffic, sports, and entertainment & lifestyle from ABC 10 News. 10News - Stories that matter.",
+                            "fb:pages": "100450643330760",
+                            "og:image:secure_url": "https://ewscripps.brightspotcdn.com/dims4/default/ddd7337/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F66%2Ffa%2F8038734f4a2283507fdc8c9c2c63%2Fdefault.png",
+                            "parsely-network-canonical": "null",
+                            "fb:app_id": "412634405581169",
+                            "parsely-type": "section",
+                            "twitter:site": "@10news",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Visit 10News.com for breaking San Diego news. Get local news, weather, traffic, sports, and entertainment & lifestyle from ABC 10 News. 10News - Stories that matter.",
+                            "brightspot.contentid": "00000166-4022-de2e-a1fe-74ab43f50000",
+                            "parsely-section": "Homepage",
+                            "og:url": "https://www.10news.com/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ewscripps.brightspotcdn.com/dims4/default/ddd7337/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F66%2Ffa%2F8038734f4a2283507fdc8c9c2c63%2Fdefault.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...Scripps News\nIowa's 6-week abortion ban is now in effect\n\n\n      Elina Tarkazikis\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSports\nFormer MLB pitcher Reyes Moronta dies in motorcycle crash in Dominican Republic\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNational News\nCalifornia's largest wildfire of the year is 12% contained, officials say\n\n\n      Taylor O'Bier\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews\nEx-OC school administrator sentenced for embezzling over $16M from district\n\n\n      PAUL ANDERSON, City News Service\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorld News\nU.S. men's gymnastics team wins bronze at Paris Olympics\n\n\n      Scripps News Staff\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScripps News\nBlood test effectively detects Alzheimer's risk before symptoms present\n\n\n      Justin Boggs\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNational News\nWhen home prices make renting the smarter choice\n\n\n      Dan Grossman\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNational News\nDollywood helping guests whose cars were damaged in 'unprecedented' flooding\n\n\n      Taylor O'Bier\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLocal News\nEl Cajon Police Department reports rise in retail theft in city\n\n\n      City News Service\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScripps News\nFBI says Trump shooter made ‘significant efforts to conceal’ his planning \n\n\n      Lori Jane Gliha\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScripps News\nSecond man injured in Trump rally shooting released from hospital\n\n\n      Elina Tarkazikis\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNational News\nMeteor showers bring everything from faint streaks to vivid fireballs to the sky\n\n\n      Justin Boggs\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLocal News\nSan Diego Blood Bank's Comic-Con Blood Drive collects over 3,000 pints\n\n\n      City News Service\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews\nAmericans keep turning their backs on McDonald’s\n\n\n      David Goldman, CNN\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorld News\nDjokovic outlasts Nadal, overcoming major hurdle in quest for first Olympic gold\n\n\n      Justin Boggs\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorld News\n2 children killed, 11 people injured in stabbing at an England community center\n\n\n      AP via Scripps News \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLocal News\nCity of San Diego crews to begin paving Balboa Avenue in Kearny Mesa\n\n\n      City News Service\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNational News\n2 dead, 5 injured in mass shooting at crowded upstate New York park\n\n\n      Elina Tarkazikis\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPadres\nPadres' comeback falls short in 8-6 loss to Orioles\n\n\n      NOAH TRISTER, AP Baseball Writer\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScripps News\nFDA approves colon cancer blood test, but some will still need colonoscopies\n\n\n      Justin Boggs\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPadres\nPadres acquire reliever Jason Adam from Rays for 3 minor leaguers\n\n\n      Associated Press\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScripps News Life\nThese restaurants are offering deals for National Chicken Wing Day\n\n\n      Justin Boggs\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorld News\nMaduro declared winner in Venezuela's election as opposition claims it prevailed\n\n\n      AP via Scripps News \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScripps News\nBiden calls for Supreme Court overhaul, including term limits\n\n\n      Scripps News Staff\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDont Waste Your Money\nThese stores will price match if you find a better price elsewhere\n\n\n      John Matarese\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLocal News\nCity of San Diego considers crackdown on pedicabs after complaints\n\n\n      Perla Shaheen\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScripps News\nCrews battle wildfires across the US West and fight to hold containment lines\n\n\n      AP via Scripps News \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScripps News\nHarris raised $200M, signed up 170k volunteers in first week of campaign\n\n\n      AP via Scripps News \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComic Con\nSan Diego's Comic-Con concludes on Sunday\n\n\n      City News Service\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPolitics\nKamala Harris has America focused on multiracial identity\n\n\n      Associated Press\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScripps News\nActivists demand justice for Sonya Massey in nationwide day of mourning\n\n\n      Alexa Liacko\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLocal News\nBrush fire in rural San Diego County now 85% contained\n\n\n      City News Service\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLocal News\nSuspect arrested after wrong-way crash on SR-78 in San Marcos\n\n\n      City News Service\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLocal News\nBrush fire breaks out near Mexican border\n\n\n      City News Service\n    \n\n\n\n\n\n\n\n\n\n\n\n        Next Page\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorld News\nUS tennis sensation Coco Gauff upset at Olympics\n\n\n      Justin Boggs\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "News outlets went all in on Maui fire coverage. But did they miss a ...",
+                "htmlTitle": "<b>News</b> outlets went all in on <b>Maui fire</b> coverage. But did they miss a ...",
+                "link": "https://www.cnn.com/2023/08/15/media/maui-fire-coverage-climate-change-reliable-sources/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Aug 15, 2023 ... CNN mentioned climate change three times and MSNBC five times, according to Media Matters. ABC News, CBS News, and NBC News did not tie the ...",
+                "htmlSnippet": "Aug 15, 2023 <b>...</b> CNN mentioned climate change three times and MSNBC five times, according to Media Matters. <b>ABC News</b>, CBS <b>News</b>, and <b>NBC News</b> did not tie the&nbsp;...",
+                "formattedUrl": "https://www.cnn.com/2023/08/15/media/maui-fire...climate.../index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/<b>2023</b>/08/15/media/<b>maui</b>-fire...climate.../index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXKvh88tZAW_UVSSqR08GRNL8lZqnS0a4YyEyRL6OBcOxWZLs6vt-hg2Y8&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/230811084312-01-lahaina-homes-0810.jpg?c=16x9&q=w_800,c_fill",
+                            "twitter:title": "News outlets went all in on Maui fire coverage. But did they miss a key part of the story? | CNN Business",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-08-16T02:33:59Z",
+                            "og:site_name": "CNN",
+                            "author": "Oliver Darcy,Jon Passantino,Liam Reilly",
+                            "og:title": "News outlets went all in on Maui fire coverage. But did they miss a key part of the story? | CNN Business",
+                            "meta-section": "business",
+                            "type": "article",
+                            "og:description": "Thousands of heat records broken. Oceans at hot tub levels. Mass coral bleaching. Extraordinary wildfires. Earth’s hottest month on record.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/230811084312-01-lahaina-homes-0810.jpg?c=16x9&q=w_800,c_fill",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "article:tag": "accidents, disasters and safety, brand safety-nsf accidents and disasters, brand safety-nsf oil negative, brand safety-nsf sensitive, business and industry sectors, business, economy and trade, climate change, continents and regions, domestic alerts, domestic-climate crisis, domestic-health and science, domestic-us news, energy and environment, energy and utilities, environment and natural resources, fires, hawaii, iab-business and finance, iab-environment, iab-industries, iab-media industry, iab-power and energy industry, iab-science, iab-weather, international alerts, international-climate crisis, international-health and science, international-us news, journalism and news media, maui, media industry, north america, severe weather, the americas, united states, weather",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@CNNbusiness",
+                            "article:modified_time": "2023-08-16T02:33:59Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "Thousands of heat records broken. Oceans at hot tub levels. Mass coral bleaching. Extraordinary wildfires. Earth’s hottest month on record.",
+                            "template_type": "article_leaf",
+                            "theme": "business",
+                            "og:url": "https://www.cnn.com/2023/08/15/media/maui-fire-coverage-climate-change-reliable-sources/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/230811084312-01-lahaina-homes-0810.jpg?c=16x9&q=w_800,c_fill"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... and leveled criticism at how the crisis sweeping the planet is being covered by major media institutions.\nAd Feedback\n“The media’s climate reporting has improved recently, but most news organizations are still not giving the accelerating crisis anything like the amount and urgency of coverage the story deserves,” said Mark Hertsgaard, the executive director of the global journalist consortium Covering Climate Now.\nHertsgaard isn’t alone in the sentiment. Climate change coverage has progressed leaps and bounds in recent years. Newsrooms have become far more cognizant about tying extreme weather events, like flash flooding and heat waves, to the larger trend. But still, there is considerable room for improvement.\n An aerial image taken on August 10, 2023 shows a person walking down Front Street past destroyed buildings burned to the ground in Lahaina in the aftermath of wildfires in western Maui, Hawaii. Patrick T. Fallon/AFP/Getty Images How a devastating combination of conditions triggered America's deadliest wildfire in more than a century]\n“Especially in the United States, most TV news reports on the ferocious heat and other weather extremes afflicting millions of people this summer have not even mentioned the words ‘climate change,’” Hertsgaard said. “The science is unequivocal on that connection and leaving it out leaves audiences not just uninformed but misinformed.”\nThe unprecedented wind-whipped wildfire that devastated the island of Maui last week, killing more than 100 people, has received high volumes of attention from major media outlets, which have gone to remarkable lengths to gather reporting from the scene. But,  from the progressive watchdog Media Matters, only 4% of television news segments about the disaster, during a two-day period starting on August 9, tied the catastrophe to climate change.\nMore alarmingly, perhaps, of the only eight segments that mentioned climate change during this particular window on television, all of them came from CNN and MSNBC. CNN mentioned climate change three times and MSNBC five times, according to Media Matters. ABC News, CBS News, and NBC News did not tie the fires to climate change in any of the 35 segments that aired. (Of course, it’s worth noting that many of these outlets have been drawing this connection on their digital platforms.)\nMichael Mann, the presidential distinguished professor in the Department of Earth and Environmental Science at the University of Pennsylvania, told Reliable Sources that he fears news organizations do not cover the climate crisis enough, outside extreme weather events.\n“Many media outlets still treat climate as a niche issue, giving it very little coverage except when an unprecedented bout of...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "ABC News - YouTube",
+                "htmlTitle": "<b>ABC News</b> - YouTube",
+                "link": "https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q",
+                "displayLink": "www.youtube.com",
+                "snippet": "ABC News is your daily source for breaking national and world news, exclusive interviews and 24/7 live streaming coverage that will help you stay up to date ...",
+                "htmlSnippet": "<b>ABC News</b> is your daily source for breaking national and world <b>news</b>, exclusive interviews and 24/7 live streaming coverage that will help you stay up to date&nbsp;...",
+                "formattedUrl": "https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q",
+                "htmlFormattedUrl": "https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "fn": "ABC News",
+                            "url": "https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjDympxW7tGcv6MXK8pAvyeOoUF6JC_qatk_7TpUGCjr-TyEfkLHzD7zw&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "width": "900",
+                            "url": "https://yt3.googleusercontent.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ=s900-c-k-c0x00ffffff-no-rj",
+                            "height": "900"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "ABC News",
+                            "url": "https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=544007664, app-argument=https://m.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q?referring_app=com.apple.mobilesafari-smartbanner, affiliate-data=ct=smart_app_banner_polymer&pt=9008",
+                            "og:image": "https://yt3.googleusercontent.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ=s900-c-k-c0x00ffffff-no-rj",
+                            "theme-color": "rgb(255, 255, 255)",
+                            "og:image:width": "900",
+                            "og:type": "profile",
+                            "og:site_name": "YouTube",
+                            "al:ios:app_name": "YouTube",
+                            "twitter:url": "https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q",
+                            "og:title": "ABC News",
+                            "og:image:height": "900",
+                            "al:android:package": "com.google.android.youtube",
+                            "al:ios:url": "vnd.youtube://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q",
+                            "al:web:url": "https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q?feature=applinks",
+                            "og:video:tag": "ABC",
+                            "og:description": "ABC News is your daily source for breaking national and world news, exclusive interviews and 24/7 live streaming coverage that will help you stay up to date on the events shaping our world. https://abcnews.go.com",
+                            "al:ios:app_store_id": "544007664",
+                            "al:android:url": "https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q?feature=applinks",
+                            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no,",
+                            "og:url": "https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q",
+                            "al:android:app_name": "YouTube"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://yt3.googleusercontent.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ=s900-c-k-c0x00ffffff-no-rj"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Back  ]  \n ]",
+                    "content_tokens": 5
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "POLITICO Playbook - POLITICO",
+                "htmlTitle": "POLITICO Playbook - POLITICO",
+                "link": "https://www.politico.com/playbook",
+                "displayLink": "www.politico.com",
+                "snippet": "1 day ago ... Yes, she has managed to reset Democrats' chances against GOP nominee DONALD TRUMP. Yes, her campaign is now $200 million and 170,000 new ...",
+                "htmlSnippet": "1 day ago <b>...</b> Yes, she has managed to reset Democrats&#39; chances against GOP nominee DONALD <b>TRUMP</b>. Yes, her campaign is now $200 million and 170,000 new&nbsp;...",
+                "formattedUrl": "https://www.politico.com/playbook",
+                "htmlFormattedUrl": "https://www.politico.com/playbook",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKRGQTMbY6u1fKgDeR10v3LYE1MjIy7ZMucm_lracTsYGaex__TJKugXY-&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://static.politico.com/64/87/6f2f2f814019a86fbfa9e5b76e7e/politico-pb-cms-shared-graphic.png",
+                            "theme-color": "#D71920",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "og:fb_appid": "114037015331397",
+                            "og:site_name": "POLITICO",
+                            "og:title": "Playbook",
+                            "msapplication-tileimage": "/mstile-144x144.png",
+                            "title": "Playbook: After the sugar high",
+                            "og:description": "And Biden travels to the Lone Star State.",
+                            "fb:pages": "62317591679",
+                            "twitter:creator": "@politico",
+                            "twitter:image": "https://www.politico.com/dims4/default/404025a/2147483647/legacy_thumbnail/1200x628%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F76%2Fc3%2F1824995047689e5686b9b11a54c7%2Fpolitico-pb-cms-shared-graphic.png",
+                            "twitter:site": "@politico",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "build": "1.0.0-SNAPSHOT",
+                            "brightspot.contentid": "0000014f-1646-d88f-a1cf-5f46b7bd0000",
+                            "host": "www.politico.com",
+                            "og:url": "http://politi.co/2A2M52A"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.politico.com/64/87/6f2f2f814019a86fbfa9e5b76e7e/politico-pb-cms-shared-graphic.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "www.politico.com\n----------------\nVerifying you are human. This may take a few seconds.\n-----------------------------------------------------\nwww.politico.com needs to review the security of your connection before proceeding.",
+                    "content_tokens": 39
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "KHON2: Hawaii News, Weather, Sports, Breaking News & Live ...",
+                "htmlTitle": "KHON2: Hawaii <b>News</b>, Weather, Sports, Breaking <b>News</b> &amp; Live ...",
+                "link": "https://www.khon2.com/",
+                "displayLink": "www.khon2.com",
+                "snippet": "Hawaii news, weather and sports. Honolulu, Kona, Hilo, Kauai and Maui County's source for news, streaming video, weather, breaking news and sports.",
+                "htmlSnippet": "Hawaii <b>news</b>, weather and sports. Honolulu, Kona, Hilo, Kauai and <b>Maui</b> County&#39;s source for <b>news</b>, streaming video, weather, breaking <b>news</b> and sports.",
+                "formattedUrl": "https://www.khon2.com/",
+                "htmlFormattedUrl": "https://www.khon2.com/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvalMezwdFZKAXh7vappqhC7SthOujGZfznR85hEyWp_FbQeG6jko6xDY&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.khon2.com/wp-content/uploads/sites/8/2021/08/cropped-KHON-2-logo.png?strip=1&w=250",
+                            "og:type": "website",
+                            "twitter:title": "KHON2",
+                            "twitter:card": "summary",
+                            "og:site_name": "KHON2",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Hawaii News, Sports, Weather, Live Video: Working for Hawaii",
+                            "og:title": "KHON2",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.khon2.com/",
+                            "msapplication-tileimage": "https://www.khon2.com/wp-content/uploads/sites/8/2021/08/cropped-KHON-2-logo.png?w=270",
+                            "og:description": "Hawaii News, Sports, Weather, Live Video: Working for Hawaii"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.khon2.com/wp-content/uploads/sites/8/2021/08/cropped-KHON-2-logo.png?strip=1&w=250"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Hawaii News, Weather, Sports, Breaking News & Live Video | Honolulu, HI | KHON2\n===============                \n===============================\nSponsored By\nToggle Menu  \nSearch\nPlease enter a search term.\nPrimary Menu\n------------\n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    ### Top Stories\n    #### \n    3 hours ago\n    #### \n    5 hours ago\n    #### \n    6 hours ago\n    #### \n    6 hours ago\n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    ### Top Stories\n    #### \n     Video]\n    ### Top Stories\n    #### \n    9 hours ago\n    #### \n    10 hours ago\n    #### \n    13 hours ago\n    #### \n    15 hours ago\n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    ### Top Stories\n    #### \n     Video]\n    ### Top Stories\n    #### \n     Video]\n    ### Top Stories\n   ...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Playbook: DeSantis takes flak as Trump pivots to the general ...",
+                "htmlTitle": "Playbook: DeSantis takes flak as <b>Trump</b> pivots to the general ...",
+                "link": "https://www.politico.com/newsletters/playbook/2023/08/20/desantis-takes-flak-as-trump-pivots-to-the-general-00111988",
+                "displayLink": "www.politico.com",
+                "snippet": "Aug 20, 2023 ... By contrast, during a recent Fox News appearance, the Florida governor — whose schtick has long included slamming the influence of special ...",
+                "htmlSnippet": "Aug 20, 2023 <b>...</b> By contrast, during a recent <b>Fox News</b> appearance, the Florida governor — whose schtick has long included slamming the influence of special&nbsp;...",
+                "formattedUrl": "https://www.politico.com/newsletters/.../2023/.../desantis-takes-flak-as-trum...",
+                "htmlFormattedUrl": "https://www.politico.com/<b>news</b>letters/.../<b>2023</b>/.../desantis-takes-flak-as-<b>trum</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIcYNVBzZQY5R8v3h0OVDoKtshoYEkaY3jjR-8vcVeqELTjsBLzY4DI_k&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://static.politico.com/28/c4/d7826976457d85e8a8bca817a06f/election-2024-abortion-candidates-88473.jpg",
+                            "theme-color": "#D71920",
+                            "og:type": "website",
+                            "twitter:title": "Playbook: DeSantis takes flak as Trump pivots to the general",
+                            "twitter:card": "summary_large_image",
+                            "og:fb_appid": "114037015331397",
+                            "og:site_name": "POLITICO",
+                            "og:title": "Playbook: DeSantis takes flak as Trump pivots to the general",
+                            "msapplication-tileimage": "/mstile-144x144.png",
+                            "og:description": "And Asa Hutchinson says he's made the debate stage.",
+                            "fb:pages": "62317591679",
+                            "twitter:creator": "@politico",
+                            "article:author": "https://www.facebook.com/rachael.bade.9",
+                            "twitter:image": "https://www.politico.com/dims4/default/75d8460/2147483647/legacy_thumbnail/1200x800%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F28%2Fc4%2Fd7826976457d85e8a8bca817a06f%2Felection-2024-abortion-candidates-88473.jpg",
+                            "twitter:site": "@politico",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "build": "1.0.0-SNAPSHOT",
+                            "brightspot.contentid": "0000018a-1323-d7f7-a5ff-b7a7efe50000",
+                            "host": "www.politico.com",
+                            "og:url": "https://www.politico.com/newsletters/playbook/2023/08/20/desantis-takes-flak-as-trump-pivots-to-the-general-00111988"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.politico.com/28/c4/d7826976457d85e8a8bca817a06f/election-2024-abortion-candidates-88473.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...E BIDEN** on the economy — its second Trump/Biden contrast ad in two weeks. While the rest of the GOP field prepares for the first primary debate, the Trump team is already pivoting to a general election posture toward paid media, according to a person familiar with the super PAC’s strategy. MAGA Inc. is spending $1 million to air the new 30-second spot this week on Fox News, CNN and Newsmax, now up to a total of $3 million hitting the president since Aug. 7.\n**As for those anti-RON DeSANTIS ads that they ran for months?** The super PAC hasn’t aired one since June 22, while the Florida governor has continued to bleed support. Trump’s campaign team in recent days has also sought to frame the race as merely a Biden/Trump rematch, putting out a series of videos attacking Biden’s economic and foreign policy, while spending much of his recent interview with Larry Kudlow zeroed in on Biden. _(h/t Natalie Allison)_\n**TWO BIG DeSANTIS READS …**\n**1\\. DESANTIS FUNDRAISERS LITERALLY SELLING ACCESS.** On the campaign trail, DeSantis has been blasting Trump for vowing in 2016 to “drain the swamp” of influence-peddling in Washington but failing to follow through as president. By contrast, during a recent Fox News appearance, the Florida governor — whose schtick has long included slamming the influence of special interest money in politics — claimed to have done just that in Florida.\n**One problem:** His aides were **_literally_** selling access to DeSantis to wealthy donors and lobbyists with interests before the state.\n**That’s according to a new**  by Isaac Arnsdorf and Josh Dawsey, which rooster-ed this morning. And just in case Team DeSantis tries to deny it, there’s this little detail: **_They actually wrote the policy down_** — and WaPo comes with receipts.\n**Just look at this quote:** **_“I could sell golf for $50k this morning.”_** That’s **HEATHER BARKER**, a top DeSantis aide/fundraiser, boasting in a 2019 email to other DeSantis aides about a wealthy lobbyist willing to pay top dollar to play a round with the then-newly elected governor and his wife, **CASEY DeSANTIS**.\n**But there’s plenty more where that came from:** According to the story, “to help them haul in large sums of money, the document \\ suggested that lobbyists be allowed to...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

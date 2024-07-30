@@ -1,0 +1,22 @@
+{
+    "Claim": "A video shows North Korean leader Kim Jong Un and Russian President Vladimir Putin toasting each other then placing their drinks on the table without consuming them.",
+    "Video_information": {
+        "Video_description_from_descriptor": "The video opens with a man in a black suit standing at a podium, holding a glass of wine, and appearing to deliver a speech or presentation in a formal setting with blue curtains in the background. The focus then shifts to another man in a suit standing at a table, also holding a glass of wine and giving a speech at the same event. Throughout the video, the man in the black suit with the wine glass remains the central figure, although both men are speaking. The scenes depict interactions between the individuals, highlighting moments of toasting and gestures with the glasses of wine. The setting suggests a formal event or ceremony, with microphone setups on the tables indicating a structured gathering. The key frames capture various interactions between the two men, showcasing subtle moments of trust issues or skepticism humorously referenced in the captions. These moments include both men holding glasses of what is presumed to be champagne, engaging in dialogue or gestures, and maintaining a serious demeanor. The occurrences culminate with the man in the black suit finishing his speech, implying a conclusion to the event or presentation. Overall, the video portrays a sequence of formal interactions and speeches at an organized function, emphasizing the dynamic between the two suited men through moments of raising glasses and engaging in speech delivery."
+    },
+    "Initial_Question_Generation": {
+        "Question": "Did Kim Jong Un and Vladimir Putin consume their drinks during the toasting exchange in the video?",
+        "Answer": "Based on the information provided in the claim and the video description, Kim Jong Un and Vladimir Putin did not consume their drinks during the toasting exchange. The claim specifically states that the two leaders toasted each other and then placed their drinks on the table without consuming them. The video information further describes interactions between the two men, highlighting that they engaged in toasting and gestural communication, which contributed to the formal atmosphere of the event. However, it also mentions moments of placing their drinks on the table, implying that they did not drink from them. In summary, the evidence indicates that while there were moments of toasting and raising their glasses, the completion of the action involved them placing their drinks down without consuming them.",
+        "Confidence": "90%"
+    },
+    "CVResult": {
+        "Judgment": "Yes",
+        "Confidence": "90%",
+        "Reason": "The existing information is sufficient to determine the truthfulness of the claim that Kim Jong Un and Vladimir Putin did not consume their drinks during the toasting exchange. According to the claim, they toasted each other and then placed their drinks on the table without drinking from them. The video description corroborates this by detailing that both leaders engaged in toasting and gestural communication but ultimately placed their drinks down, which implies they did not consume them. The highlighted interactions in the video further support the claim, as they show moments of raising glasses without a follow-through of drinking. Therefore, the evidence is robust enough to affirm the claim, leading to a high confidence level of 90%."
+    },
+    "Final_Judgement": {
+        "Answer": "True",
+        "Reasons": "The video description states that Kim Jong Un and Vladimir Putin engaged in gestures, including toasting each other and placing their drinks on the table without consuming them. This is consistent with the claim, which specifically mentions that they toasted and then set their drinks down. The overall depiction of formal interactions does not contradict the claim of non-consumption of the drinks. Therefore, the evidence supports the claim that neither leader consumed their drink during the toasting exchange [Initial_Question_Generation_Query 1_evidence_1].",
+        "Therefore, the Claim authenticity is": "True",
+        "The information type is": "Real"
+    }
+}

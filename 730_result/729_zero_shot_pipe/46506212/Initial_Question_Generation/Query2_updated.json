@@ -1,0 +1,890 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Recent news on Ukraine conflict and Kyiv (site:theguardian.com OR site:nytimes.com OR site:aljazeera.com)",
+                "totalResults": "262000",
+                "searchTerms": "Recent news on Ukraine conflict and Kyiv (site:theguardian.com OR site:nytimes.com OR site:aljazeera.com)",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Recent news on Ukraine conflict and Kyiv (site:theguardian.com OR site:nytimes.com OR site:aljazeera.com)",
+                "totalResults": "262000",
+                "searchTerms": "Recent news on Ukraine conflict and Kyiv (site:theguardian.com OR site:nytimes.com OR site:aljazeera.com)",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.268869,
+        "formattedSearchTime": "0.27",
+        "totalResults": "262000",
+        "formattedTotalResults": "262,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Russia-Ukraine war updates: Missiles, drones, bombers target Kyiv ...",
+                "htmlTitle": "Russia-<b>Ukraine war</b> updates: Missiles, drones, bombers target <b>Kyiv</b> ...",
+                "link": "https://www.aljazeera.com/news/liveblog/2024/1/2/russia-ukraine-war-live-missiles-drones-bombers-target-kyiv",
+                "displayLink": "www.aljazeera.com",
+                "snippet": "Jan 2, 2024 ... Latvian President Edgars Rinkevics has called on the West to provide Ukraine with more help, calling Moscow's recent missile attacks \u201cthe\u00a0...",
+                "htmlSnippet": "Jan 2, 2024 <b>...</b> Latvian President Edgars Rinkevics has called on the West to provide <b>Ukraine</b> with more help, calling Moscow&#39;s <b>recent</b> missile attacks \u201cthe&nbsp;...",
+                "formattedUrl": "https://www.aljazeera.com/news/.../russia-ukraine-war-live-missiles-drones-...",
+                "htmlFormattedUrl": "https://www.aljazeera.com/<b>news</b>/.../russia-<b>ukraine</b>-war-live-missiles-drones-...",
+                "pagemap": {
+                    "LiveBlogPosting": [
+                        {}
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUvWLd_3VythRopci4k-oa8z6RH9sn9CdiYnTwfK8dZkz5unAQnToL82zo&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "Article Page",
+                            "og:image": "https://www.aljazeera.com/wp-content/uploads/2024/01/Kyiv2-1704190100.jpg?resize=1920%2C1440",
+                            "apple-itunes-app": "app-id=1534955972",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Al Jazeera",
+                            "twitter:url": "https://www.aljazeera.com/news/liveblog/2024/1/2/russia-ukraine-war-live-missiles-drones-bombers-target-kyiv",
+                            "pagesection": "liveblog,News,Russia-Ukraine war",
+                            "channel": "aje",
+                            "publisheddate": "2024-01-02T06:13:39",
+                            "postid": "2592469",
+                            "source": "Al Jazeera and news agencies",
+                            "video": "1",
+                            "displayauthors": "Tamila Varshalomidze, Nils Adler",
+                            "og:description": "These were the Russia-Ukraine war updates for Tuesday, January 2.",
+                            "taxonomyterms": "News, Russia-Ukraine war, Europe, Russia, Ukraine",
+                            "lastdate": "2024-01-02T17:25:22",
+                            "primarytopic": "News",
+                            "twitter:image:alt": "Russia-Ukraine war updates: Missiles, drones, bombers target Kyiv",
+                            "sourcetaxonomy": "Al Jazeera and news agencies",
+                            "internalreporting": "Update me now",
+                            "featuredmedia": "BC-6344154862112",
+                            "bcvideotitle": "At least one killed and dozens injured in wave of Russian missile strikes on Ukraine",
+                            "where": "Europe, Russia, Ukraine",
+                            "primarytag": "Russia-Ukraine war",
+                            "ga4": "G-XN9JB9Q0M1",
+                            "twitter:account_id": "5536782",
+                            "og:type": "article",
+                            "twitter:title": "Russia-Ukraine war updates: Missiles, drones, bombers target Kyiv",
+                            "topics": "News",
+                            "author": "Tamila Varshalomidze,Nils Adler",
+                            "og:title": "Russia-Ukraine war updates: Missiles, drones, bombers target Kyiv",
+                            "ia:markup_url": "https://www.aljazeera.com/ia_markup/news/liveblog/2024/1/2/russia-ukraine-war-live-missiles-drones-bombers-target-kyiv",
+                            "tags": "Russia-Ukraine war",
+                            "contenttype": "liveblog",
+                            "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2024/01/Kyiv2-1704190100.jpg?resize=1920%2C1440",
+                            "articleslug": "russia-ukraine-war-live-missiles-drones-bombers-target-kyiv",
+                            "postlink": "/news/liveblog/2024/1/2/russia-ukraine-war-live-missiles-drones-bombers-target-kyiv",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "These were the Russia-Ukraine war updates for Tuesday, January 2.",
+                            "pagetitle": "Russia-Ukraine war updates: Missiles, drones, bombers target Kyiv",
+                            "og:url": "https://www.aljazeera.com/news/liveblog/2024/1/2/russia-ukraine-war-live-missiles-drones-bombers-target-kyiv"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.aljazeera.com/wp-content/uploads/2024/01/Kyiv2-1704190100.jpg?resize=1920%2C1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "These were the Russia-Ukraine war updates for Tuesday, January 2.\nThis live page has now closed.\nFollow Al Jazeera English:",
+                    "content_tokens": 27
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Al Jazeera is a major international news organization known for providing comprehensive coverage of global events, including conflicts such as the war in Ukraine. It has a reputable editorial standard and has been recognized for its investigative journalism. However, it has faced criticism for perceived bias and sometimes controversial reporting, particularly in the context of Middle Eastern politics. Nonetheless, it remains a credible source with a consistent history of accurate reporting on significant global issues. It can effectively challenge misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2024-01-02"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "The snippet discusses ongoing missile attacks targeting Kyiv, demonstrating that the conflict is actively affecting the city. This contradicts the claim of a peaceful atmosphere despite the war, as it indicates significant military activity and an urgent situation."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Ukraine latest updates: Kyiv reports 'extremely fierce' battles | Russia ...",
+                "htmlTitle": "<b>Ukraine latest</b> updates: <b>Kyiv</b> reports &#39;extremely fierce&#39; battles | Russia ...",
+                "link": "https://www.aljazeera.com/news/liveblog/2023/6/14/russia-ukraine-live-three-killed-in-odesa-missile-strike",
+                "displayLink": "www.aljazeera.com",
+                "snippet": "Jun 14, 2023 ... Ukraine Russia war. Ukrainian service members check a destroyed Russian a BMP-2 infantry fighting vehicle near the front line in the\u00a0...",
+                "htmlSnippet": "Jun 14, 2023 <b>...</b> <b>Ukraine</b> Russia <b>war</b>. <b>Ukrainian</b> service members check a destroyed Russian a BMP-2 infantry fighting vehicle near the front line in the&nbsp;...",
+                "formattedUrl": "https://www.aljazeera.com/news/.../russia-ukraine-live-three-killed-in-odesa...",
+                "htmlFormattedUrl": "https://www.aljazeera.com/<b>news</b>/.../russia-<b>ukraine</b>-live-three-killed-in-odesa...",
+                "pagemap": {
+                    "LiveBlogPosting": [
+                        {}
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvn4qQtzpEwwrfYa39QBrGhKJIRx-79-MdPrKquahpIvsqEdwTLv1dAl3I&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "Article Page",
+                            "og:image": "https://www.aljazeera.com/wp-content/uploads/2023/06/2023-06-14T141145Z_1568464362_RC20J1AL50I3_RTRMADP_3_UKRAINE-CRISIS-OFFENSIVE-STOROZHEVE-1686762288.jpg?resize=1920%2C1440",
+                            "apple-itunes-app": "app-id=1534955972",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Al Jazeera",
+                            "twitter:url": "https://www.aljazeera.com/news/liveblog/2023/6/14/russia-ukraine-live-three-killed-in-odesa-missile-strike",
+                            "pagesection": "liveblog,News,Russia-Ukraine war",
+                            "channel": "aje",
+                            "publisheddate": "2023-06-14T06:33:14",
+                            "postid": "2240257",
+                            "source": "Al Jazeera and news agencies",
+                            "displayauthors": "Edna Mohamed, Virginia Pietromarchi, Hafsa Adil",
+                            "og:description": "\u2018Our troops are moving in the face of extremely fierce fighting,\u2019 Ukraine\u2019s Deputy Defence Minister Hanna Maliar says.",
+                            "taxonomyterms": "News, Russia-Ukraine war, Europe, Russia, Ukraine",
+                            "lastdate": "2023-06-14T20:43:48",
+                            "primarytopic": "News",
+                            "twitter:image:alt": "Ukraine reports incremental gains in \u2018extremely fierce\u2019 fighting",
+                            "sourcetaxonomy": "Al Jazeera and news agencies",
+                            "where": "Europe, Russia, Ukraine",
+                            "primarytag": "Russia-Ukraine war",
+                            "ga4": "G-XN9JB9Q0M1",
+                            "twitter:account_id": "5536782",
+                            "og:type": "article",
+                            "twitter:title": "Ukraine reports incremental gains in \u2018extremely fierce\u2019 fighting",
+                            "topics": "News",
+                            "author": "Edna Mohamed,Virginia Pietromarchi,Hafsa Adil",
+                            "og:title": "Ukraine reports incremental gains in \u2018extremely fierce\u2019 fighting",
+                            "tags": "Russia-Ukraine war",
+                            "contenttype": "liveblog",
+                            "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2023/06/2023-06-14T141145Z_1568464362_RC20J1AL50I3_RTRMADP_3_UKRAINE-CRISIS-OFFENSIVE-STOROZHEVE-1686762288.jpg?resize=1920%2C1440",
+                            "articleslug": "russia-ukraine-live-three-killed-in-odesa-missile-strike",
+                            "postlink": "/news/liveblog/2023/6/14/russia-ukraine-live-three-killed-in-odesa-missile-strike",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "\u2018Our troops are moving in the face of extremely fierce fighting,\u2019 Ukraine\u2019s Deputy Defence Minister Hanna Maliar says.",
+                            "pagetitle": "Ukraine latest updates: Kyiv reports \u2018extremely fierce\u2019 battles",
+                            "og:url": "https://www.aljazeera.com/news/liveblog/2023/6/14/russia-ukraine-live-three-killed-in-odesa-missile-strike"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.aljazeera.com/wp-content/uploads/2023/06/2023-06-14T141145Z_1568464362_RC20J1AL50I3_RTRMADP_3_UKRAINE-CRISIS-OFFENSIVE-STOROZHEVE-1686762288.jpg?resize=1920%2C1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Kyiv has recaptured some villages after launching its highly anticipated counter-offensive this earlier month.\nThis blog is now closed. Thank you for joining us. These were the updates on the Russia-Ukraine war on Wednesday, June 14.\nFollow Al Jazeera English:",
+                    "content_tokens": 53
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Al Jazeera is a major international news organization known for providing comprehensive coverage of global events, including conflicts such as the war in Ukraine. It has a reputable editorial standard and has been recognized for its investigative journalism. However, it has faced criticism for perceived bias and sometimes controversial reporting, particularly in the context of Middle Eastern politics. Nonetheless, it remains a credible source with a consistent history of accurate reporting on significant global issues. It can effectively challenge misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-06-14"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This evidence mentions 'extremely fierce' battles and the presence of destroyed vehicles, indicating ongoing conflict. It is relevant as it illustrates that Kyiv is involved in intense military engagements, which contradicts the peaceful portrayal of the beach party."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Russia-Ukraine war updates: Kyiv says 'difficult to hold ground ...",
+                "htmlTitle": "Russia-<b>Ukraine war</b> updates: <b>Kyiv</b> says &#39;difficult to hold ground ...",
+                "link": "https://www.aljazeera.com/news/liveblog/2024/5/14/russia-pushes-into-ukraines-kharkiv-as-putin-announces-china-trip",
+                "displayLink": "www.aljazeera.com",
+                "snippet": "May 14, 2024 ... Putin's nominee for defence minister, Andrei Belousov, has said there will be no new mobilisation of Russian troops, but that the enemy is\u00a0...",
+                "htmlSnippet": "May 14, 2024 <b>...</b> Putin&#39;s nominee for defence minister, Andrei Belousov, has said there will be no <b>new</b> mobilisation of Russian troops, but that the enemy is&nbsp;...",
+                "formattedUrl": "https://www.aljazeera.com/news/.../russia-pushes-into-ukraines-kharkiv-as-p...",
+                "htmlFormattedUrl": "https://www.aljazeera.com/<b>news</b>/.../russia-pushes-into-<b>ukraine</b>s-kharkiv-as-p...",
+                "pagemap": {
+                    "LiveBlogPosting": [
+                        {}
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrGwDxxwSBZddkr-p4EfcVNUV59kEdGqRNgFiQ-Lk0IY-Njm8DjQu20M&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "Article Page",
+                            "og:image": "https://www.aljazeera.com/wp-content/uploads/2024/05/2024-05-12T113641Z_71587103_RC2ZO7AO00VI_RTRMADP_3_UKRAINE-CRISIS-KHARKIV-ASSAULT-1715679943.jpg?resize=1920%2C1440",
+                            "apple-itunes-app": "app-id=1534955972",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Al Jazeera",
+                            "twitter:url": "https://www.aljazeera.com/news/liveblog/2024/5/14/russia-pushes-into-ukraines-kharkiv-as-putin-announces-china-trip",
+                            "pagesection": "liveblog,News,Russia-Ukraine war",
+                            "channel": "aje",
+                            "publisheddate": "2024-05-14T09:49:28",
+                            "postid": "2898910",
+                            "source": "Al Jazeera and news agencies",
+                            "displayauthors": "Mersiha Gadzo",
+                            "og:description": "These were the updates from the Russia-Ukraine war for Tuesday, May 14, 2024.",
+                            "taxonomyterms": "News, Russia-Ukraine war, Europe, Russia, Ukraine",
+                            "lastdate": "2024-05-14T17:05:02",
+                            "primarytopic": "News",
+                            "twitter:image:alt": "Russia-Ukraine war updates: Kyiv says \u2018difficult to hold ground\u2019",
+                            "sourcetaxonomy": "Al Jazeera and news agencies",
+                            "internalreporting": "Update me now",
+                            "where": "Europe, Russia, Ukraine",
+                            "primarytag": "Russia-Ukraine war",
+                            "ga4": "G-XN9JB9Q0M1",
+                            "twitter:account_id": "5536782",
+                            "og:type": "article",
+                            "twitter:title": "Russia-Ukraine war updates: Kyiv says \u2018difficult to hold ground\u2019",
+                            "topics": "News",
+                            "author": "Mersiha Gadzo",
+                            "og:title": "Russia-Ukraine war updates: Kyiv says \u2018difficult to hold ground\u2019",
+                            "ia:markup_url": "https://www.aljazeera.com/ia_markup/news/liveblog/2024/5/14/russia-pushes-into-ukraines-kharkiv-as-putin-announces-china-trip",
+                            "tags": "Russia-Ukraine war",
+                            "contenttype": "liveblog",
+                            "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2024/05/2024-05-12T113641Z_71587103_RC2ZO7AO00VI_RTRMADP_3_UKRAINE-CRISIS-KHARKIV-ASSAULT-1715679943.jpg?resize=1920%2C1440",
+                            "articleslug": "russia-pushes-into-ukraines-kharkiv-as-putin-announces-china-trip",
+                            "postlink": "/news/liveblog/2024/5/14/russia-pushes-into-ukraines-kharkiv-as-putin-announces-china-trip",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "These were the updates from the Russia-Ukraine war for Tuesday, May 14, 2024.",
+                            "pagetitle": "Russia-Ukraine war updates: Kyiv says \u2018difficult to hold ground\u2019",
+                            "og:url": "https://www.aljazeera.com/news/liveblog/2024/5/14/russia-pushes-into-ukraines-kharkiv-as-putin-announces-china-trip"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.aljazeera.com/wp-content/uploads/2024/05/2024-05-12T113641Z_71587103_RC2ZO7AO00VI_RTRMADP_3_UKRAINE-CRISIS-KHARKIV-ASSAULT-1715679943.jpg?resize=1920%2C1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "These were the updates from the Russia-Ukraine war for Tuesday, May 14, 2024.\nThis live page is now closed.\nFollow Al Jazeera English:",
+                    "content_tokens": 33
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Al Jazeera is a major international news organization known for providing comprehensive coverage of global events, including conflicts such as the war in Ukraine. It has a reputable editorial standard and has been recognized for its investigative journalism. However, it has faced criticism for perceived bias and sometimes controversial reporting, particularly in the context of Middle Eastern politics. Nonetheless, it remains a credible source with a consistent history of accurate reporting on significant global issues. It can effectively challenge misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 7,
+                    "Date": "2024-05-14"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This evidence discusses Ukraine's challenges in holding ground amidst conflict, which signifies ongoing military operations but is slightly less directly tied to the city of Kyiv itself at the moment. It still helps establish that there are serious conflicts occurring."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Russia-Ukraine war updates: Borrell in Kyiv as Russia attacks ...",
+                "htmlTitle": "Russia-<b>Ukraine war</b> updates: Borrell in <b>Kyiv</b> as Russia attacks ...",
+                "link": "https://www.aljazeera.com/news/liveblog/2024/2/7/russia-ukraine-war-live-news-at-least-3-dead-as-russia-attacks-ukraine",
+                "displayLink": "www.aljazeera.com",
+                "snippet": "Feb 7, 2024 ... This live page is now closed. You can find our daily updates about Russia's war on Ukraine here. Read more about Ukraine's new mobilisation law\u00a0...",
+                "htmlSnippet": "Feb 7, 2024 <b>...</b> This live page is now closed. You can find our daily updates about Russia&#39;s <b>war</b> on <b>Ukraine</b> here. Read more about <b>Ukraine&#39;s new</b> mobilisation law&nbsp;...",
+                "formattedUrl": "https://www.aljazeera.com/news/.../russia-ukraine-war-live-news-at-least-3-...",
+                "htmlFormattedUrl": "https://www.aljazeera.com/<b>news</b>/.../russia-<b>ukraine</b>-war-live-<b>news</b>-at-least-3-...",
+                "pagemap": {
+                    "LiveBlogPosting": [
+                        {}
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSmr2l2u_MaAIdQbsR_IguPXnC5WdDss-pZrU9Z4rD5EnJ-qH_RkLbDCcs&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "Article Page",
+                            "og:image": "https://www.aljazeera.com/wp-content/uploads/2024/02/AP24038311244994-1707303719.jpg?resize=1920%2C1440",
+                            "apple-itunes-app": "app-id=1534955972",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Al Jazeera",
+                            "twitter:url": "https://www.aljazeera.com/news/liveblog/2024/2/7/russia-ukraine-war-live-news-at-least-3-dead-as-russia-attacks-ukraine",
+                            "pagesection": "liveblog,News,Russia-Ukraine war",
+                            "channel": "aje",
+                            "publisheddate": "2024-02-07T09:29:58",
+                            "postid": "2685812",
+                            "source": "Al Jazeera and news agencies",
+                            "displayauthors": "Tamila Varshalomidze",
+                            "og:description": "These were the updates on the Russia-Ukraine war for Wednesday, February 7, 2024.",
+                            "taxonomyterms": "News, Russia-Ukraine war, Europe, Russia, Ukraine",
+                            "lastdate": "2024-02-07T17:08:44",
+                            "primarytopic": "News",
+                            "twitter:image:alt": "Death toll from Russian attacks rises as Borrell meets officials in Kyiv",
+                            "sourcetaxonomy": "Al Jazeera and news agencies",
+                            "internalreporting": "Update me now",
+                            "where": "Europe, Russia, Ukraine",
+                            "primarytag": "Russia-Ukraine war",
+                            "ga4": "G-XN9JB9Q0M1",
+                            "twitter:account_id": "5536782",
+                            "og:type": "article",
+                            "twitter:title": "Death toll from Russian attacks rises as Borrell meets officials in Kyiv",
+                            "topics": "News",
+                            "author": "Tamila Varshalomidze",
+                            "og:title": "Death toll from Russian attacks rises as Borrell meets officials in Kyiv",
+                            "ia:markup_url": "https://www.aljazeera.com/ia_markup/news/liveblog/2024/2/7/russia-ukraine-war-live-news-at-least-3-dead-as-russia-attacks-ukraine",
+                            "tags": "Russia-Ukraine war",
+                            "contenttype": "liveblog",
+                            "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2024/02/AP24038311244994-1707303719.jpg?resize=1920%2C1440",
+                            "articleslug": "russia-ukraine-war-live-news-at-least-3-dead-as-russia-attacks-ukraine",
+                            "postlink": "/news/liveblog/2024/2/7/russia-ukraine-war-live-news-at-least-3-dead-as-russia-attacks-ukraine",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "These were the updates on the Russia-Ukraine war for Wednesday, February 7, 2024.",
+                            "pagetitle": "Russia-Ukraine war updates: Borrell in Kyiv as Russia attacks",
+                            "og:url": "https://www.aljazeera.com/news/liveblog/2024/2/7/russia-ukraine-war-live-news-at-least-3-dead-as-russia-attacks-ukraine"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.aljazeera.com/wp-content/uploads/2024/02/AP24038311244994-1707303719.jpg?resize=1920%2C1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "These were the updates on the Russia-Ukraine war for Wednesday, February 7, 2024.\nThis live page has now been closed.\nFollow Al Jazeera English:",
+                    "content_tokens": 34
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Al Jazeera is a major international news organization known for providing comprehensive coverage of global events, including conflicts such as the war in Ukraine. It has a reputable editorial standard and has been recognized for its investigative journalism. However, it has faced criticism for perceived bias and sometimes controversial reporting, particularly in the context of Middle Eastern politics. Nonetheless, it remains a credible source with a consistent history of accurate reporting on significant global issues. It can effectively challenge misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 6,
+                    "Date": "2024-02-07"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "It mentions attacks occurring while key officials are present in Kyiv, suggesting an ongoing threat. While it indicates conflict exists, it is less illustrative of direct ongoing actions affecting the everyday life of citizens when compared to more specific instances."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Russia-Ukraine war news: Moscow says it 'warned' Kyiv about plane ...",
+                "htmlTitle": "Russia-<b>Ukraine war news</b>: Moscow says it &#39;warned&#39; <b>Kyiv</b> about plane ...",
+                "link": "https://www.aljazeera.com/news/liveblog/2024/1/25/russia-ukraine-war-live-news-kyiv-opens-probe-into-downed-plane",
+                "displayLink": "www.aljazeera.com",
+                "snippet": "Jan 25, 2024 ... We've just heard in the last few minutes from the human rights commissioner in Ukraine repeating that suspicion. 25 Jan 2024 - 15:40. (15:40\u00a0...",
+                "htmlSnippet": "Jan 25, 2024 <b>...</b> We&#39;ve just heard in the <b>last</b> few minutes from the human rights commissioner in <b>Ukraine</b> repeating that suspicion. 25 Jan 2024 - 15:40. (15:40&nbsp;...",
+                "formattedUrl": "https://www.aljazeera.com/news/.../russia-ukraine-war-live-news-kyiv-open...",
+                "htmlFormattedUrl": "https://www.aljazeera.com/<b>news</b>/.../russia-<b>ukraine</b>-war-live-<b>news</b>-<b>kyiv</b>-open...",
+                "pagemap": {
+                    "LiveBlogPosting": [
+                        {}
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlzgwWvf2_U5bjy9aBu-AbapL--7g7wlxSMxGZpxwnVA0VQ_hcUpELUTCA&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "Article Page",
+                            "og:image": "https://www.aljazeera.com/wp-content/uploads/2024/01/2024-01-25T130915Z_1470231438_RC2VO5A7YAJI_RTRMADP_3_UKRAINE-CRISIS-BELGOROD-AIRPLANE-1706190672.jpg?resize=1920%2C1440",
+                            "apple-itunes-app": "app-id=1534955972",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Al Jazeera",
+                            "twitter:url": "https://www.aljazeera.com/news/liveblog/2024/1/25/russia-ukraine-war-live-news-kyiv-opens-probe-into-downed-plane",
+                            "pagesection": "liveblog,News,Russia-Ukraine war",
+                            "channel": "aje",
+                            "publisheddate": "2024-01-25T09:46:12",
+                            "postid": "2647453",
+                            "source": "Al Jazeera and news agencies",
+                            "displayauthors": "Tamila Varshalomidze, Nils Adler",
+                            "og:description": "These were the news updates for the Russia-Ukraine war on Thursday, January 25, 2024.",
+                            "taxonomyterms": "News, Russia-Ukraine war, Europe, Russia, Ukraine",
+                            "lastdate": "2024-01-25T16:43:44",
+                            "primarytopic": "News",
+                            "twitter:image:alt": "Russia: Ukraine \u2018warned\u2019 about plane before it entered Belgorod, was downed",
+                            "sourcetaxonomy": "Al Jazeera and news agencies",
+                            "internalreporting": "Update me now",
+                            "where": "Europe, Russia, Ukraine",
+                            "primarytag": "Russia-Ukraine war",
+                            "ga4": "G-XN9JB9Q0M1",
+                            "twitter:account_id": "5536782",
+                            "og:type": "article",
+                            "twitter:title": "Russia: Ukraine \u2018warned\u2019 about plane before it entered Belgorod, was downed",
+                            "topics": "News",
+                            "author": "Tamila Varshalomidze,Nils Adler",
+                            "og:title": "Russia: Ukraine \u2018warned\u2019 about plane before it entered Belgorod, was downed",
+                            "ia:markup_url": "https://www.aljazeera.com/ia_markup/news/liveblog/2024/1/25/russia-ukraine-war-live-news-kyiv-opens-probe-into-downed-plane",
+                            "tags": "Russia-Ukraine war",
+                            "contenttype": "liveblog",
+                            "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2024/01/2024-01-25T130915Z_1470231438_RC2VO5A7YAJI_RTRMADP_3_UKRAINE-CRISIS-BELGOROD-AIRPLANE-1706190672.jpg?resize=1920%2C1440",
+                            "articleslug": "russia-ukraine-war-live-news-kyiv-opens-probe-into-downed-plane",
+                            "postlink": "/news/liveblog/2024/1/25/russia-ukraine-war-live-news-kyiv-opens-probe-into-downed-plane",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "These were the news updates for the Russia-Ukraine war on Thursday, January 25, 2024.",
+                            "pagetitle": "Russia-Ukraine war news: Moscow says it \u2018warned\u2019 Kyiv about plane",
+                            "og:url": "https://www.aljazeera.com/news/liveblog/2024/1/25/russia-ukraine-war-live-news-kyiv-opens-probe-into-downed-plane"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.aljazeera.com/wp-content/uploads/2024/01/2024-01-25T130915Z_1470231438_RC2VO5A7YAJI_RTRMADP_3_UKRAINE-CRISIS-BELGOROD-AIRPLANE-1706190672.jpg?resize=1920%2C1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The blog is now closed.\nFollow Al Jazeera English:",
+                    "content_tokens": 11
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Al Jazeera is a major international news organization known for providing comprehensive coverage of global events, including conflicts such as the war in Ukraine. It has a reputable editorial standard and has been recognized for its investigative journalism. However, it has faced criticism for perceived bias and sometimes controversial reporting, particularly in the context of Middle Eastern politics. Nonetheless, it remains a credible source with a consistent history of accurate reporting on significant global issues. It can effectively challenge misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2024-01-25"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This evidence shows that there are significant military investigations ongoing in Kyiv, alluding to the conflict. However, it does not directly present active fighting or specific incidents of violence."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Kyiv targets Russia's navy as Moscow's forces inch ahead in eastern ...",
+                "htmlTitle": "<b>Kyiv</b> targets Russia&#39;s navy as Moscow&#39;s forces inch ahead in eastern ...",
+                "link": "https://www.aljazeera.com/news/2024/3/28/kyiv-targets-russias-navy-as-moscows-forces-inch-ahead-in-eastern-ukraine",
+                "displayLink": "www.aljazeera.com",
+                "snippet": "Mar 28, 2024 ... Ukraine launched a devastating missile strike against Russian military targets in the Crimean port of Sevastopol late on Saturday,\u00a0...",
+                "htmlSnippet": "Mar 28, 2024 <b>...</b> <b>Ukraine</b> launched a devastating missile strike against Russian military targets in the Crimean port of Sevastopol late on Saturday,&nbsp;...",
+                "formattedUrl": "https://www.aljazeera.com/news/.../kyiv-targets-russias-navy-as-moscows-fo...",
+                "htmlFormattedUrl": "https://www.aljazeera.com/<b>news</b>/.../<b>kyiv</b>-targets-russias-navy-as-moscows-fo...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGt9Ry4AX1zwTmxKlbOGTj5FnnonkliIF0xRi03hqGt31ud5XP3fCeW3w&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "Article Page",
+                            "og:image": "https://www.aljazeera.com/wp-content/uploads/2024/03/2024-03-27T164803Z_1460312006_RC2EU6ATQOLU_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KHARKIV-1711620205.jpg?resize=1920%2C1440",
+                            "apple-itunes-app": "app-id=1534955972",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Al Jazeera",
+                            "twitter:url": "https://www.aljazeera.com/news/2024/3/28/kyiv-targets-russias-navy-as-moscows-forces-inch-ahead-in-eastern-ukraine",
+                            "pagesection": "News,Russia-Ukraine war",
+                            "channel": "aje",
+                            "publisheddate": "2024-03-28T10:53:13",
+                            "postid": "2803659",
+                            "source": "Al Jazeera",
+                            "displayauthors": "John T Psaropoulos",
+                            "og:description": "Ukraine mounted a sophisticated air-and-naval attack on Sevastopol in the past week, damaging ships and infrastructure.",
+                            "taxonomyterms": "News, Russia-Ukraine war, Europe, Russia, Ukraine",
+                            "lastdate": "2024-03-28T10:53:13",
+                            "primarytopic": "News",
+                            "twitter:image:alt": "Kyiv targets Russia\u2019s navy as Moscow\u2019s forces inch ahead in eastern Ukraine",
+                            "sourcetaxonomy": "Al Jazeera",
+                            "internalreporting": "Break it down for me",
+                            "where": "Europe, Russia, Ukraine",
+                            "primarytag": "Russia-Ukraine war",
+                            "ga4": "G-XN9JB9Q0M1",
+                            "twitter:account_id": "5536782",
+                            "pageauthors": "John T Psaropoulos",
+                            "og:type": "article",
+                            "twitter:title": "Kyiv targets Russia\u2019s navy as Moscow\u2019s forces inch ahead in eastern Ukraine",
+                            "taxonomy-tags": "News, Russia-Ukraine war",
+                            "topics": "News",
+                            "author": "John T Psaropoulos",
+                            "og:title": "Kyiv targets Russia\u2019s navy as Moscow\u2019s forces inch ahead in eastern Ukraine",
+                            "ia:markup_url": "https://www.aljazeera.com/ia_markup/news/2024/3/28/kyiv-targets-russias-navy-as-moscows-forces-inch-ahead-in-eastern-ukraine",
+                            "tags": "Russia-Ukraine war",
+                            "contenttype": "post",
+                            "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2024/03/2024-03-27T164803Z_1460312006_RC2EU6ATQOLU_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KHARKIV-1711620205.jpg?resize=1920%2C1440",
+                            "articleslug": "kyiv-targets-russias-navy-as-moscows-forces-inch-ahead-in-eastern-ukraine",
+                            "postlink": "/news/2024/3/28/kyiv-targets-russias-navy-as-moscows-forces-inch-ahead-in-eastern-ukraine",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "Ukraine mounted a sophisticated air-and-naval attack on Sevastopol in the past week, damaging ships and infrastructure.",
+                            "pagetitle": "Kyiv targets Russia\u2019s navy as Moscow\u2019s forces inch ahead in eastern Ukraine",
+                            "og:url": "https://www.aljazeera.com/news/2024/3/28/kyiv-targets-russias-navy-as-moscows-forces-inch-ahead-in-eastern-ukraine"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.aljazeera.com/wp-content/uploads/2024/03/2024-03-27T164803Z_1460312006_RC2EU6ATQOLU_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KHARKIV-1711620205.jpg?resize=1920%2C1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Ukraine mounted a sophisticated air-and-naval attack on Sevastopol in the past week, damaging ships and infrastructure.\nUkraine launched a devastating missile strike against Russian military targets in the Crimean port of Sevastopol late on Saturday, further debilitating Russia\u2019s Black Sea Fleet.\nThe combination of a reported 40 Storm Shadow missiles, decoy missiles and drones damaged a communications centre, the Yamal and the Azov, two Ropucha-class landing ships, and other infrastructure, possibly including an oil depot.\nThe Yamal was especially badly damaged. Ukrainian military intelligence said it was listing to starboard with a large hole in its top deck two days later, and Russian crews had to keep pumping its bilges to keep the ship afloat. The damage to the Yamal and the Azov reportedly left Russia with just three of its landing ships operational, from an original fleet of 13 at the start of the war.\nUkrainian military intelligence coordinated a seaborne attack using Ukrainian Magura V5 surface drones to coincide with the aerial attack. The surface drones also struck the repair yard where the Yamal was moored, said deputy military intelligence chief Vadym Skibitskyi, and additionally damaged the Ivan Khurs reconnaissance ship.\n\nApart from the moral satisfaction of putting the Yamal out of action \u2013 it had taken part in the capture of Crimea in 2014 \u2013 Ukraine had a practical benefit.\nSevastopol is reportedly the only Black Sea facility capable of loading...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Al Jazeera is a major international news organization known for providing comprehensive coverage of global events, including conflicts such as the war in Ukraine. It has a reputable editorial standard and has been recognized for its investigative journalism. However, it has faced criticism for perceived bias and sometimes controversial reporting, particularly in the context of Middle Eastern politics. Nonetheless, it remains a credible source with a consistent history of accurate reporting on significant global issues. It can effectively challenge misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 6,
+                    "Date": "2024-03-28"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This piece indicates military actions by Ukraine targeting Russian positions, showcasing an active conflict scenario. While it pertains to broader military actions, it contributes to understanding the war's continuity."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Russia escalates the war in Ukraine, aiming to complicate Kyiv's ...",
+                "htmlTitle": "Russia escalates the <b>war</b> in <b>Ukraine</b>, aiming to complicate <b>Kyiv&#39;s</b> ...",
+                "link": "https://www.aljazeera.com/news/2024/5/15/russia-escalates-the-war-in-ukraine-aiming-to-complicate-kyivs-defence",
+                "displayLink": "www.aljazeera.com",
+                "snippet": "May 15, 2024 ... Russia opens a new front in Ukraine's north, prompting Kyiv to respond with attacks on Russian energy infrastructure.",
+                "htmlSnippet": "May 15, 2024 <b>...</b> Russia opens a <b>new</b> front in <b>Ukraine&#39;s</b> north, prompting <b>Kyiv</b> to respond with attacks on Russian energy infrastructure.",
+                "formattedUrl": "https://www.aljazeera.com/news/.../russia-escalates-the-war-in-ukraine-aimi...",
+                "htmlFormattedUrl": "https://www.aljazeera.com/<b>news</b>/.../russia-escalates-the-war-in-<b>ukraine</b>-aimi...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjF2atTbLIfDwdklrgrh3B2OyuGY39JnO77N9CxXHpxcVVtgGkbizUapX4&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "Article Page",
+                            "og:image": "https://www.aljazeera.com/wp-content/uploads/2024/05/GettyImages-2152386972-1715784031.jpg?resize=1920%2C1440",
+                            "apple-itunes-app": "app-id=1534955972",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Al Jazeera",
+                            "twitter:url": "https://www.aljazeera.com/news/2024/5/15/russia-escalates-the-war-in-ukraine-aiming-to-complicate-kyivs-defence",
+                            "pagesection": "News,Russia-Ukraine war",
+                            "channel": "aje",
+                            "publisheddate": "2024-05-15T14:30:13",
+                            "postid": "2901992",
+                            "source": "Al Jazeera",
+                            "video": "1",
+                            "displayauthors": "John T Psaropoulos",
+                            "og:description": "Russia opens a new front in Ukraine\u2019s north, prompting Kyiv to respond with attacks on Russian energy infrastructure.",
+                            "taxonomyterms": "News, Russia-Ukraine war, Europe, Russia, Ukraine",
+                            "lastdate": "2024-05-15T15:30:50",
+                            "primarytopic": "News",
+                            "twitter:image:alt": "Russia escalates war in Ukraine, with an eye to complicate Kyiv\u2019s defence",
+                            "sourcetaxonomy": "Al Jazeera",
+                            "internalreporting": "Take me deeper",
+                            "featuredmedia": "BC-6352914609112",
+                            "bcvideotitle": "US promises Ukraine military aid to make \u2018real difference\u2019 on the way",
+                            "where": "Europe, Russia, Ukraine",
+                            "primarytag": "Russia-Ukraine war",
+                            "ga4": "G-XN9JB9Q0M1",
+                            "twitter:account_id": "5536782",
+                            "pageauthors": "John T Psaropoulos",
+                            "og:type": "article",
+                            "twitter:title": "Russia escalates war in Ukraine, with an eye to complicate Kyiv\u2019s defence",
+                            "taxonomy-tags": "News, Russia-Ukraine war",
+                            "topics": "News",
+                            "author": "John T Psaropoulos",
+                            "og:title": "Russia escalates war in Ukraine, with an eye to complicate Kyiv\u2019s defence",
+                            "ia:markup_url": "https://www.aljazeera.com/ia_markup/news/2024/5/15/russia-escalates-the-war-in-ukraine-aiming-to-complicate-kyivs-defence",
+                            "tags": "Russia-Ukraine war",
+                            "contenttype": "post",
+                            "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2024/05/GettyImages-2152386972-1715784031.jpg?resize=1920%2C1440",
+                            "articleslug": "russia-escalates-the-war-in-ukraine-aiming-to-complicate-kyivs-defence",
+                            "postlink": "/news/2024/5/15/russia-escalates-the-war-in-ukraine-aiming-to-complicate-kyivs-defence",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "Russia opens a new front in Ukraine\u2019s north, prompting Kyiv to respond with attacks on Russian energy infrastructure.",
+                            "pagetitle": "Russia escalates the war in Ukraine, aiming to complicate Kyiv\u2019s defence",
+                            "og:url": "https://www.aljazeera.com/news/2024/5/15/russia-escalates-the-war-in-ukraine-aiming-to-complicate-kyivs-defence"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.aljazeera.com/wp-content/uploads/2024/05/GettyImages-2152386972-1715784031.jpg?resize=1920%2C1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Russia opens a new front in Ukraine\u2019s north, prompting Kyiv to respond with attacks on Russian energy infrastructure.\nRussia escalated its aggressive war in Ukraine psychologically, tactically and economically in the past week, as US Secretary of State Antony Blinken admitted, \u201cit\u2019s a challenging moment\u201d.\nBelarusian President Alexander Lukashenko said Russian soldiers had begun to train with the Belarusian military in tactical nuclear weapons, which the Kremlin has hinted could be used on the battlefield in Ukraine.\n\u201cAn escalation is ongoing. What should we do in this situation? We need to keep powder dry, including these lethal weapons,\u201d Russian official news agency TASS quoted him as saying.\nRussian forces opened a new front in Ukraine\u2019s northern Kharkiv region, seizing villages near the border \u2013 an offensive Ukrainian officials had warned about days earlier.\nMeanwhile in Moscow, President Vladimir Putin named an economist to streamline his Ministry of Defence and nationalise Russian defence industries. Some observers believed that was an indication of Putin\u2019s long-term plans to prepare Russia to fight NATO.\n\nRussian forces opened a northern front on Friday, contesting territory they abandoned at the end of May 2022, after failing to capture Kyiv, Chernihiv, Sumy and Kharkiv, Ukraine\u2019s major northern cities.\nUkrainian and Western experts said it aimed to sow panic, divert scant resources...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Al Jazeera is a major international news organization known for providing comprehensive coverage of global events, including conflicts such as the war in Ukraine. It has a reputable editorial standard and has been recognized for its investigative journalism. However, it has faced criticism for perceived bias and sometimes controversial reporting, particularly in the context of Middle Eastern politics. Nonetheless, it remains a credible source with a consistent history of accurate reporting on significant global issues. It can effectively challenge misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 7,
+                    "Date": "2024-05-15"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This report discusses Russia opening a new front against Ukraine, which implies significant military dynamics that affect the security situation in Kyiv and the surrounding areas."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Russia launches dozens of drones into Ukraine in latest air raid: Kyiv",
+                "htmlTitle": "Russia launches dozens of drones into <b>Ukraine</b> in <b>latest</b> air raid: <b>Kyiv</b>",
+                "link": "https://www.aljazeera.com/news/2023/10/10/russia-launches-dozens-of-drones-into-ukraine-in-latest-air-raid-kyiv",
+                "displayLink": "www.aljazeera.com",
+                "snippet": "Oct 10, 2023 ... Russia-Ukraine war: List of key events, day 594 ... The attacks using Iran-made Shahed drones targeted the Odesa, Mykolaiv and Kherson regions of\u00a0...",
+                "htmlSnippet": "Oct 10, 2023 <b>...</b> Russia-<b>Ukraine war</b>: List of key events, day 594 ... The attacks using Iran-made Shahed drones targeted the Odesa, Mykolaiv and Kherson regions of&nbsp;...",
+                "formattedUrl": "https://www.aljazeera.com/news/.../russia-launches-dozens-of-drones-into-u...",
+                "htmlFormattedUrl": "https://www.aljazeera.com/<b>news</b>/.../russia-launches-dozens-of-drones-into-<b>u</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnhP1_NMz2J9eFSQtIXUOL4nhbb2z4M4SomdCWhg6I0luQJoLKxzJpdUU&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "Article Page",
+                            "og:image": "https://www.aljazeera.com/wp-content/uploads/2022/10/000_32LK62R.jpg?resize=1920%2C1440",
+                            "apple-itunes-app": "app-id=1534955972",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Al Jazeera",
+                            "twitter:url": "https://www.aljazeera.com/news/2023/10/10/russia-launches-dozens-of-drones-into-ukraine-in-latest-air-raid-kyiv",
+                            "pagesection": "News,Russia-Ukraine war",
+                            "channel": "aje",
+                            "publisheddate": "2023-10-10T07:51:19",
+                            "postid": "2396882",
+                            "source": "News Agencies",
+                            "og:description": "Ukraine says it downed 27 Russian drones out of 36 sent from the Crimean peninsula overnight.",
+                            "taxonomyterms": "News, Russia-Ukraine war, Europe, Ukraine",
+                            "lastdate": "2023-10-10T07:51:19",
+                            "primarytopic": "News",
+                            "twitter:image:alt": "Russia launches dozens of drones into Ukraine in latest air raid: Kyiv",
+                            "sourcetaxonomy": "News Agencies",
+                            "internalreporting": "Inform me",
+                            "where": "Europe, Ukraine",
+                            "primarytag": "Russia-Ukraine war",
+                            "ga4": "G-XN9JB9Q0M1",
+                            "twitter:account_id": "5536782",
+                            "og:type": "article",
+                            "twitter:title": "Russia launches dozens of drones into Ukraine in latest air raid: Kyiv",
+                            "taxonomy-tags": "News, Russia-Ukraine war",
+                            "topics": "News",
+                            "og:title": "Russia launches dozens of drones into Ukraine in latest air raid: Kyiv",
+                            "ia:markup_url": "https://www.aljazeera.com/ia_markup/news/2023/10/10/russia-launches-dozens-of-drones-into-ukraine-in-latest-air-raid-kyiv",
+                            "tags": "Russia-Ukraine war",
+                            "contenttype": "post",
+                            "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2022/10/000_32LK62R.jpg?resize=1920%2C1440",
+                            "articleslug": "russia-launches-dozens-of-drones-into-ukraine-in-latest-air-raid-kyiv",
+                            "postlink": "/news/2023/10/10/russia-launches-dozens-of-drones-into-ukraine-in-latest-air-raid-kyiv",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "Ukraine says it downed 27 Russian drones out of 36 sent from the Crimean peninsula overnight.",
+                            "pagetitle": "Russia launches dozens of drones into Ukraine in latest air raid: Kyiv",
+                            "og:url": "https://www.aljazeera.com/news/2023/10/10/russia-launches-dozens-of-drones-into-ukraine-in-latest-air-raid-kyiv"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.aljazeera.com/wp-content/uploads/2022/10/000_32LK62R.jpg?resize=1920%2C1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Ukraine says it downed 27 Russian drones out of 36 sent from the Crimean peninsula overnight.\nRussia launched 36 drone attacks overnight on Ukraine, according to Kyiv\u2019s air force, in Moscow\u2019s latest air raid targeting the country.\nUkraine\u2019s air force said in a statement on Tuesday that its defence systems had destroyed 27 of the drones.\nThe attacks using Iran-made Shahed drones targeted the Odesa, Mykolaiv and Kherson regions of Ukraine, the air force said on the Telegram messaging app.\nMoscow launched a total of 36 Iranian-made drones from the Russia-annexed Crimean peninsula, it added.\nThe air force did not say which targets, if any, the nine other drones may have hit.\nThe governor of Mykolaiv, Vitaliy Kim, said on Telegram that one of the drones had been destroyed over his region.\nThere was no immediate comment from Russia.\nSeparately, Kherson region\u2019s administration said on its Telegram channel that four people had been injured and several buildings damaged in 79 instances of shelling using mortars, artillery and drones.\nRussia has stepped up attacks on ports in southern Ukraine since exiting a deal that allowed safe passage for grain shipments through the Black Sea in July.\nKyiv has also warned that Moscow is restarting a campaign of aerial attacks on Ukrainian energy infrastructure, mirroring attacks that last year left millions without heating and water for long periods.\nIn September, Moscow launched more than 500 Shahed drones \u2013 a monthly record, according to Ukrainian consultancy group Defense Express.\nMoscow launched its full-scale invasion of Ukraine in February 2022, after annexing the Crimean peninsula from Ukraine in 2014.\n\n\n\n\n\n\n\n\n\nFollow Al Jazeera English:",
+                    "content_tokens": 348
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Al Jazeera is a major international news organization known for providing comprehensive coverage of global events, including conflicts such as the war in Ukraine. It has a reputable editorial standard and has been recognized for its investigative journalism. However, it has faced criticism for perceived bias and sometimes controversial reporting, particularly in the context of Middle Eastern politics. Nonetheless, it remains a credible source with a consistent history of accurate reporting on significant global issues. It can effectively challenge misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-10-10"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "The evidence outlines a drone attack on Ukraine, including reports of injuries and damages. This is relevant as it confirms that conflict is occurring, directly countering the peaceful portrayal of Kyiv in the beach video."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Ukraine war live | The Guardian",
+                "htmlTitle": "<b>Ukraine war</b> live | The Guardian",
+                "link": "https://www.theguardian.com/world/series/ukraine-live",
+                "displayLink": "www.theguardian.com",
+                "snippet": "Live coverage of all the latest developments following the 2022 Russian invasion of Ukraine.",
+                "htmlSnippet": "Live coverage of all the <b>latest</b> developments following the 2022 Russian invasion of <b>Ukraine</b>.",
+                "formattedUrl": "https://www.theguardian.com/world/series/ukraine-live",
+                "htmlFormattedUrl": "https://www.theguardian.com/world/series/<b>ukraine</b>-live",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS41pHFAXy8-OqRTQPz8KtgxY0XpqfQ6jf8QqiQDwbVk_DyDD_-Ms_LB8k&s",
+                            "width": "240",
+                            "height": "144"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "theme-color": "#052962",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                            "twitter:dnt": "on"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.guim.co.uk/img/media/6335f9ed687d2473d222c3003b47860098367249/0_21_3000_1801/master/3000.jpg?width=240&dpr=1&s=none"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Live coverage of all the latest developments following the 2022 Russian invasion of Ukraine\n*   !\n    ### Russia-Ukraine war: Russia says forces have seized control of village of Vovche in Donetsk region \u2013 as it happened\n    Russian defence ministry says troops continue to make gains in Donetsk province, as Ukrainian president visits frontline in Kharkiv\n*   !\n    ### Russia-Ukraine war live: EU says conflict an existential threat to the bloc\n    The EU\u2019s Josep Borrell made the remark in a meeting with Chinese foreign minister Wang Yi\n*   !\n    ### Russia-Ukraine war: allowing Kyiv to attack anywhere in Russia would be \u2018dangerous escalation,\u2019 says Kremlin \u2013 as it happened\n    Ukraine has been pushing its western allies to allow use of their weapons further into Russia\n*   !\n    ### Russia-Ukraine war: Kremlin hits out at UK\u2019s \u2018irresponsible\u2019 comments on Storm Shadow missiles \u2013 as it happened\n    Using UK weapon to strike within Russian territory then would be \u2018another irresponsible step\u2019, Moscow says\n*   !\n    ### Russia-Ukraine war: killers of children in hospital the \u2018dregs of humanity\u2019, says Czech minister, as Russian ambassador is summoned \u2013 as it happened\n    Czech foreign minister Jan Lipavsk\u00fd says the diplomat has been instructed to pass the message to Moscow\n*   !\n    ### Kyiv children\u2019s hospital evacuated after power and oxygen supplies lost in missile strike; Italy accuses Russia of war crime \u2013 as it happened\n    Ukraine\u2019s president vows to retaliate over strike that hit Ohmatdyt children\u2019s hospital as Italy says attack must be...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The Guardian is renowned for its rigorous journalism and has a solid reputation for fact-checking and accountability. It has won numerous awards for its investigative reports and has a transparent editorial process. While like any major media outlet, it may have biases, its commitment to quality journalism generally makes it a reliable resource for news and analysis. It regularly engages in fact-checking and is proactive in addressing misinformation, particularly in the context of high-stakes topics like wars and global crises."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "The evidence provides a general overview of ongoing developments but lacks specific incidents directly linked to Kyiv during the current period, making it less relevant for confirming ongoing conflict compared to others."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Russia-Ukraine war updates: Borrell on Kyiv trip stresses EU's support",
+                "htmlTitle": "Russia-<b>Ukraine war</b> updates: Borrell on <b>Kyiv</b> trip stresses EU&#39;s support",
+                "link": "https://www.aljazeera.com/news/liveblog/2024/2/6/russia-ukraine-war-live-news-baby-killed-in-russian-strike-on-northeast-uk",
+                "displayLink": "www.aljazeera.com",
+                "snippet": "Feb 6, 2024 ... ). Let us bring you up to speed with the latest news. Here's what has happened in the past few hours: The governor of Donetsk says the eastern\u00a0...",
+                "htmlSnippet": "Feb 6, 2024 <b>...</b> ). Let us bring you up to speed with the <b>latest news</b>. Here&#39;s what has happened in the past few hours: The governor of Donetsk says the eastern&nbsp;...",
+                "formattedUrl": "https://www.aljazeera.com/news/.../russia-ukraine-war-live-news-baby-kille...",
+                "htmlFormattedUrl": "https://www.aljazeera.com/<b>news</b>/.../russia-<b>ukraine</b>-war-live-<b>news</b>-baby-kille...",
+                "pagemap": {
+                    "LiveBlogPosting": [
+                        {}
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThkgIWMuyNhQ2yzBWYg05Jb0O5H_XUVCa_omSlnGBmRvznMPUQv9VGlDxc&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "Article Page",
+                            "og:image": "https://www.aljazeera.com/wp-content/uploads/2024/02/2024-02-06T125615Z_1858718634_RC2YW5A7J2U2_RTRMADP_3_UKRAINE-CRISIS-EU-BORRELL-1707227744_ba13c0-1707228067.jpg?resize=1200%2C630&quality=80",
+                            "apple-itunes-app": "app-id=1534955972",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Al Jazeera",
+                            "twitter:url": "https://www.aljazeera.com/news/liveblog/2024/2/6/russia-ukraine-war-live-news-baby-killed-in-russian-strike-on-northeast-uk",
+                            "pagesection": "liveblog,News,Russia-Ukraine war",
+                            "channel": "aje",
+                            "publisheddate": "2024-02-06T09:26:23",
+                            "postid": "2681986",
+                            "source": "Al Jazeera and news agencies",
+                            "displayauthors": "Federica Marsi",
+                            "og:description": "These were the updates on the Russia-Ukraine war for Tuesday, February 6, 2024.",
+                            "taxonomyterms": "News, Russia-Ukraine war, Europe, Russia, Ukraine",
+                            "lastdate": "2024-02-06T17:32:27",
+                            "primarytopic": "News",
+                            "twitter:image:alt": "Borrell on Kyiv trip stresses EU\u2019s \u2018unwavering\u2019 military, financial support",
+                            "sourcetaxonomy": "Al Jazeera and news agencies",
+                            "internalreporting": "Update me now",
+                            "where": "Europe, Russia, Ukraine",
+                            "primarytag": "Russia-Ukraine war",
+                            "ga4": "G-XN9JB9Q0M1",
+                            "twitter:account_id": "5536782",
+                            "og:type": "article",
+                            "twitter:title": "Borrell on Kyiv trip stresses EU\u2019s \u2018unwavering\u2019 military, financial support",
+                            "topics": "News",
+                            "author": "Federica Marsi",
+                            "og:title": "Borrell on Kyiv trip stresses EU\u2019s \u2018unwavering\u2019 military, financial support",
+                            "ia:markup_url": "https://www.aljazeera.com/ia_markup/news/liveblog/2024/2/6/russia-ukraine-war-live-news-baby-killed-in-russian-strike-on-northeast-uk",
+                            "tags": "Russia-Ukraine war",
+                            "contenttype": "liveblog",
+                            "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2024/02/2024-02-06T125615Z_1858718634_RC2YW5A7J2U2_RTRMADP_3_UKRAINE-CRISIS-EU-BORRELL-1707227744_ba13c0-1707228067.jpg?resize=1200%2C630&quality=80",
+                            "articleslug": "russia-ukraine-war-live-news-baby-killed-in-russian-strike-on-northeast-uk",
+                            "postlink": "/news/liveblog/2024/2/6/russia-ukraine-war-live-news-baby-killed-in-russian-strike-on-northeast-uk",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "These were the updates on the Russia-Ukraine war for Tuesday, February 6, 2024.",
+                            "pagetitle": "Russia-Ukraine war updates: Borrell on Kyiv trip stresses EU\u2019s support",
+                            "og:url": "https://www.aljazeera.com/news/liveblog/2024/2/6/russia-ukraine-war-live-news-baby-killed-in-russian-strike-on-northeast-uk"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.aljazeera.com/wp-content/uploads/2024/02/2024-02-06T125615Z_1858718634_RC2YW5A7J2U2_RTRMADP_3_UKRAINE-CRISIS-EU-BORRELL-1707227744_ba13c0-1707228067.jpg?resize=1200%2C630&quality=80"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "These were the updates on the Russia-Ukraine war for Tuesday, February 6, 2024.\nThis live page has now been closed.\nFollow Al Jazeera English:",
+                    "content_tokens": 34
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Al Jazeera is a major international news organization known for providing comprehensive coverage of global events, including conflicts such as the war in Ukraine. It has a reputable editorial standard and has been recognized for its investigative journalism. However, it has faced criticism for perceived bias and sometimes controversial reporting, particularly in the context of Middle Eastern politics. Nonetheless, it remains a credible source with a consistent history of accurate reporting on significant global issues. It can effectively challenge misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 6,
+                    "Date": "2024-02-06"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "Similar to evidence 8, this highlights updates on the war but doesn't focus on immediate conflicts or incidents within Kyiv itself, making it less effective in contesting the claim about the peaceful beach party."
+                }
+            }
+        }
+    ]
+}
