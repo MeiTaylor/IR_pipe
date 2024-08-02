@@ -1,0 +1,699 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Instances of climbing Cloud Gate before 2016",
+                "totalResults": "4130000",
+                "searchTerms": "Instances of climbing Cloud Gate before 2016",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Instances of climbing Cloud Gate before 2016",
+                "totalResults": "4130000",
+                "searchTerms": "Instances of climbing Cloud Gate before 2016",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.275641,
+        "formattedSearchTime": "0.28",
+        "totalResults": "4130000",
+        "formattedTotalResults": "4,130,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "June | 2016 | SoCal Stair Climbers",
+                "htmlTitle": "June | <b>2016</b> | SoCal Stair <b>Climbers</b>",
+                "link": "https://socalstairclimbers.com/2016/06/",
+                "displayLink": "socalstairclimbers.com",
+                "snippet": "Jun 13, 2016 ... The inscription on the large retaining wall reads: MORAGA ST, GOLDEN GATE HEIGHTS. From the top of the first two stairways in this set, we head\u00a0...",
+                "htmlSnippet": "Jun 13, 2016 <b>...</b> The inscription on the large retaining wall reads: MORAGA ST, GOLDEN <b>GATE</b> HEIGHTS. From the top of the first two stairways in this set, we head&nbsp;...",
+                "formattedUrl": "https://socalstairclimbers.com/2016/06/",
+                "htmlFormattedUrl": "https://socalstairclimbers.com/<b>2016</b>/06/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXipNJsA74pYTiFVy5N3Y3mIMGabjgENh2oFPNCwVwkJck8KP_MIe52Pw&s",
+                            "width": "346",
+                            "height": "145"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "image": "https://i0.wp.com/socalstairclimbers.com/wp-content/uploads/2015/11/13391661_10208540454820226_8219195324427234767_o.jpg?w=244&h=434&ssl=1",
+                            "width": "244",
+                            "url": "https://socalstairclimbers.com/home/13391661_10208540454820226_8219195324427234767_o/",
+                            "height": "434"
+                        },
+                        {
+                            "image": "https://i0.wp.com/socalstairclimbers.com/wp-content/uploads/2015/11/13392304_10208540455060232_6265350963200989175_o.jpg?w=772&h=434&ssl=1",
+                            "width": "772",
+                            "url": "https://socalstairclimbers.com/home/13392304_10208540455060232_6265350963200989175_o/",
+                            "height": "434"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i0.wp.com/socalstairclimbers.com/wp-content/uploads/2023/07/2023-SCSC-Website-Menu-Photo-Eagle-Rock-Rec-Ctr-Stairway-1840x790jpg.jpg?fit=1640%2C690&ssl=1",
+                            "og:type": "website",
+                            "og:image:width": "1640",
+                            "og:site_name": "SoCal Stair Climbers",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:title": "June 2016 \u2013 SoCal Stair Climbers",
+                            "og:image:height": "690",
+                            "og:locale": "en_US",
+                            "msapplication-tileimage": "https://i0.wp.com/socalstairclimbers.com/wp-content/uploads/2023/07/cropped-Valentine-Heart-N1.jpg?fit=270%2C270&ssl=1"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i0.wp.com/socalstairclimbers.com/wp-content/uploads/2023/07/2023-SCSC-Website-Menu-Photo-Eagle-Rock-Rec-Ctr-Stairway-1840x790jpg.jpg?fit=1640%2C690&ssl=1"
+                        }
+                    ],
+                    "hatomfeed": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... photo, looking leftward one of the parallel building ends, complete with circular towers:\n!\nFrom here that walk calms down and becomes a residential stroll through tract homes, traversing one walk-street between houses, and proceeds down Portola Street past a long row of multi-story houses, passing the 4 mile mark, before climbing a stairway leading up to the one pedestrian over-crossing of the route, seen here after crossing over to the north side of Portola, where the stairway is across, and to the right, partially obscured by a tree:\n!\nAfter descending a pedestrian ramp-street, and some more residential walking, we come to the picturesque bookend stairways on Pacheco Street. Here is a shot looking across to the longer northern Path St stairway from the southern stairs of Pacheco, the 5 mile mark is about half way between the two large planters in the scene ahead:  \n!  \nAfter climbing the Path St stairs, we venture back into hilly neighborhoods with a mixture of smaller and larger multi-set stairways, as the route winds back toward Grand View Park. Here are two of the large single set stairways on this traverse, Oriole and East Aerial:\n!\nNote the inlaid street and path name in the concrete on the left image above, and that the 6 mile mark of the route is at the top of the Oriole stairway.\nContinuing onward toward Grand View Park, the route descends two large stairways, before heading west toward the park on Moraga St, on the east side. The view from here is nice in that you can see the East Moraga stairway, and the continuation up into the park that was descended early in the walk:  \n!\nThe inscription on the large retaining wall reads: MORAGA ST, GOLDEN GATE HEIGHTS.  \nFrom the top of the first two stairways in this set, we head to the right northward, avoiding the upper stairway we descended earlier in the day, heading back toward the start, passing the 7 mile mark before the first (short, 20 down-steps) of the final two stairways. The final stairway is on 15th street, and has a whopping 193 steps, with fantastic views of the norther parts of central San Francisco, and here are a few photos of that descent:  \n!!\nThe lower composite photo is the view from about 100 steps down from the top of the 15th St stairway. That\u2019s St Annes Roman Catholic...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "This website focuses on stair climbing events and related activities. While it may provide reliable information regarding climbing and fitness in specific areas, it does not seem to have a dedicated focus on verifying historical claims or addressing fake news. Its reliability could be limited to the niche audience it serves, thereby affecting its overall credibility regarding broad claims such as those contained in the claim about climbing the Bean."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-06-13"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "The content of evidence0 discusses a stair climbing event in Southern California and has no relation to the Bean sculpture or any instances of climbing it. It does not provide any timelines or events relevant to the claim being analyzed."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Yanasacha | The Cloud Ocean",
+                "htmlTitle": "Yanasacha | The <b>Cloud</b> Ocean",
+                "link": "https://thecloudocean.com/tag/yanasacha/",
+                "displayLink": "thecloudocean.com",
+                "snippet": "Mar 12, 2014 ... Machachi is a popular area for climbers to base out of due to its proximity to both the Illiniza and Cotopaxi national parks, as well as\u00a0...",
+                "htmlSnippet": "Mar 12, 2014 <b>...</b> Machachi is a popular area for <b>climbers</b> to base out of due to its proximity to both the Illiniza and Cotopaxi national parks, as well as&nbsp;...",
+                "formattedUrl": "https://thecloudocean.com/tag/yanasacha/",
+                "htmlFormattedUrl": "https://the<b>cloud</b>ocean.com/tag/yanasacha/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcJDzyQ8cvXoHl3v3GkcPv3eeD_Ba_hvItxxO_K5Il7JSSt6y5iL4d_WU&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "application-name": "The Cloud Ocean",
+                            "og:image": "https://secure.gravatar.com/blavatar/b866fb7f6c88ec6c0d2782e503ac7cf8f342643a9cc430e70f86148af3085efa?s=200&ts=1722248114",
+                            "og:type": "website",
+                            "og:image:width": "200",
+                            "theme-color": "#0a0404",
+                            "og:site_name": "The Cloud Ocean",
+                            "msapplication-window": "width=device-width;height=device-height",
+                            "viewport": "width=device-width",
+                            "og:title": "Yanasacha \u2013 The Cloud Ocean",
+                            "og:image:height": "200",
+                            "og:locale": "en_US",
+                            "og:url": "https://thecloudocean.com/tag/yanasacha/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://thecloudocean.com/wp-content/uploads/2014/03/cotopaxi56.jpg?w=584&h=438"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "]\nCotopaxi.\n5897m Cotopaxi is an active stratovolcano and Ecuador\u2019s second highest mountain. \u00a0Well known for its perfectly conical shape, Cotopaxi\u2019s aesthetic appeal and ease of access contribute to making it Ecuador\u2019s most popular climb.\n]\nCotopaxi, seen from near Machachi.\nI climbed Cotopaxi on my tenth day in Ecuador, and having spent a good amount of time at altitude was thoroughly acclimatized before heading up the mountain. \u00a0Before Cotopaxi I hiked 4791m Corazon, climbed both of the 5000+m Illinizas, and climbed 5790m Cayambe. \u00a0My acclimatization and climbing itinerary can be seen\u00a0.\n]\nDriving towards Cotopaxi.\n**Day 1:**\u00a0In the early afternoon I met my climbing partner and mountain guide Pato at my hostel in the nearby city of Machachi. \u00a0Machachi is a popular area for climbers to base out of due to its proximity to both the Illiniza and Cotopaxi national parks, as well as numerous 4000+m hiking peaks. \u00a0From Machachi we drove to the Cotopaxi national park, where we followed a long dirt road to the parking area near the base of Cotopaxi at 4600m. \u00a0Cotopaxi is normally climbed from a mountain cabin ~200m higher, but during my visit the cabin was undergoing renovation and closed to visitors.\n]\nCamping at the base of Cotopaxi.\nArriving at the parking lot around 2:30, I set up a basic camp and got my gear organized for a midnight start up the mountain. \u00a0The weather was clear and cool, but windy.\n]\nThe parking area, which served as our campsite.\nWith Pato sleeping in his 4\u00d74 truck I had my tent to myself,\u00a0and prepared to turn in and get some sleep during the afternoon.\n**Day 2:**\u00a0Awake at 11:00, we started hiking up towards the glacier in darkness...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "It appears that this website might be focused on outdoor activities related to climbing or nature exploration. Without clear indications of journalistic practices or a history of addressing misinformation, its ability to provide reliable historical accuracy on the topic of 'the Bean' is questionable. It also lacks a strong focus on fact-checking or exposing fake news, which lowers its score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2014-03-12"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This evidence pertains to mountaineering experiences and does not mention Cloud Gate or any previous incidents of climbing the Bean sculpture in Chicago. It is entirely unrelated to the topic at hand."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "October | 2016 | SoCal Stair Climbers",
+                "htmlTitle": "October | <b>2016</b> | SoCal Stair <b>Climbers</b>",
+                "link": "https://socalstairclimbers.com/2016/10/",
+                "displayLink": "socalstairclimbers.com",
+                "snippet": "Oct 31, 2016 ... Seattle: Queen Anne Loop \u00b7 Genesis of the Route \u00b7 The Morning Stairways \u00b7 Before and After Lunch \u00b7 The Home Stretch.",
+                "htmlSnippet": "Oct 31, 2016 <b>...</b> Seattle: Queen Anne Loop &middot; Genesis of the Route &middot; The Morning Stairways &middot; <b>Before</b> and After Lunch &middot; The Home Stretch.",
+                "formattedUrl": "https://socalstairclimbers.com/2016/10/",
+                "htmlFormattedUrl": "https://socalstairclimbers.com/<b>2016</b>/10/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXipNJsA74pYTiFVy5N3Y3mIMGabjgENh2oFPNCwVwkJck8KP_MIe52Pw&s",
+                            "width": "346",
+                            "height": "145"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i0.wp.com/socalstairclimbers.com/wp-content/uploads/2023/07/2023-SCSC-Website-Menu-Photo-Eagle-Rock-Rec-Ctr-Stairway-1840x790jpg.jpg?fit=1640%2C690&ssl=1",
+                            "og:type": "website",
+                            "og:image:width": "1640",
+                            "og:site_name": "SoCal Stair Climbers",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:title": "October 2016 \u2013 SoCal Stair Climbers",
+                            "og:image:height": "690",
+                            "og:locale": "en_US",
+                            "msapplication-tileimage": "https://i0.wp.com/socalstairclimbers.com/wp-content/uploads/2023/07/cropped-Valentine-Heart-N1.jpg?fit=270%2C270&ssl=1"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i0.wp.com/socalstairclimbers.com/wp-content/uploads/2023/07/2023-SCSC-Website-Menu-Photo-Eagle-Rock-Rec-Ctr-Stairway-1840x790jpg.jpg?fit=1640%2C690&ssl=1"
+                        }
+                    ],
+                    "hatomfeed": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... 14 steps (note the diagonal entrance)\nAfter this fun exercise in finding new stairways, I walked further SE on Emerson until it ended into Bertona St, then I crossed over into the Seattle Pacific University campus, climbed a 114 step campus stairway, and took a relaxing/replenishing lunch break at the student commons cafeteria. Seattle Pacific University is at the northern end of the Queen Anne region, so at this point in the walk, I have gone more than half-way around the hill, traversed 74 of 108 total stairways, with 2,577 of 4,121 up-steps completed. After lunch on my way out of the campus, I climbed a rather interesting stairway configuration that climbs out of a multi-level parking lot on a hillside, that made for a good photo op, both from the bottom and the top as you can see in these two photos:\n!\nLooking up the Seattle Pacific University parking lot stairway\n!\nLooking down the parking lot stairway, and the view of the campus and surrounding hills\nUnfortunately for me, the next stairway was closed for upgrades, so I decided to add another stairway at Florentina and 1st, that was not on my planned route, and it turned out to be quite amusing, since the school served by the stairway has a playful mural of land and marine life on a pair of retaining walls as can be seen in this three photo composite:\n!\nThe mural at Florentina & 1st. The animal eyes look stoned! It must be all that legal weed!\nThe artwork above is by prolific Seattle muralist, Ryan \u201c\u201d Ward.\nContinuing eastward I climbed two more stairways, the second of which was a nice long shaded wooden stairway in Mayfair park, then a bit further northeast just past the 11 mile mark, I reach my first approach toward Lake Union (though I could not see the water), and a view of the truss/arch design Aurora Bridge that crosses over an inlet of the lake:\n!\nA panorama shot of the Truss/Arch Aurora Bridge that crosses over Lake Union\nThere was another stairway on Fulton, just to the right of the above panorama image, that makes the southward bend to follow the shore of Lake Union, in a SE direction. This means I am now heading toward the large stairways to come in the last part of the walk.\n### The Home Stretch\nThe last 5 miles of the walk builds up to a...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "This website focuses on stair climbing events and related activities. While it may provide reliable information regarding climbing and fitness in specific areas, it does not seem to have a dedicated focus on verifying historical claims or addressing fake news. Its reliability could be limited to the niche audience it serves, thereby affecting its overall credibility regarding broad claims such as those contained in the claim about climbing the Bean."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-10-31"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "Similar to evidence1, this piece is focused on a stair climbing event in Seattle and does not address the Cloud Gate or any climbing incidents related to it. No relevant information is present regarding the historical context of climbing the Bean."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "New Hance to South Kaibab via the Tonto - May 30, 2016 - Cactus ...",
+                "htmlTitle": "New Hance to South Kaibab via the Tonto - May 30, <b>2016</b> - Cactus ...",
+                "link": "https://cactustoclouds.com/2016/05/31/new-hance-to-south-kaibab-via-the-tonto/",
+                "displayLink": "cactustoclouds.com",
+                "snippet": "May 31, 2016 ... I can't say I felt great on the hike up the river on the Tonto Trail as we started the long, climbing contour toward the bottom of Horseshoe\u00a0...",
+                "htmlSnippet": "May 31, 2016 <b>...</b> I can&#39;t say I felt great on the hike up the river on the Tonto Trail as we started the long, <b>climbing</b> contour toward the bottom of Horseshoe&nbsp;...",
+                "formattedUrl": "https://cactustoclouds.com/2016/.../new-hance-to-south-kaibab-via-the-tont...",
+                "htmlFormattedUrl": "https://cactusto<b>cloud</b>s.com/<b>2016</b>/.../new-hance-to-south-kaibab-via-the-tont...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuzjrrIgNm2TFOyPRo6S9iUlb7ckeNIMJthRDAhN_qFU5TASp8QX5MPxc&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i0.wp.com/cactustoclouds.com/wp-content/uploads/2016/05/IMG_4059-scaled.jpg",
+                            "og:image:width": "616",
+                            "article:published_time": "2016-05-31T20:48:38-07:00",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Cactus to Clouds",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Time to read",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "I was not formally training for anything, but I had \"run\" the Leona Divide 50M\u00a0on April 15\u00a0and done the R2R2R\u00a0with\u00a0Kam and John on April 30. The R2R2R hike",
+                            "og:image:secure_url": "https://i0.wp.com/cactustoclouds.com/wp-content/uploads/2016/05/IMG_4059-scaled.jpg",
+                            "twitter:image": "https://i0.wp.com/cactustoclouds.com/wp-content/uploads/2016/05/IMG_4059-scaled.jpg",
+                            "twitter:data1": "CactusAdmin",
+                            "twitter:data2": "27 minutes",
+                            "article:modified_time": "2020-03-02T22:48:57-08:00",
+                            "og:type": "article",
+                            "article:section": "Hiking",
+                            "og:image:alt": "Climbing South Kaibab",
+                            "twitter:title": "New Hance to South Kaibab via the Tonto - May 30, 2016 - Cactus to Clouds",
+                            "og:title": "New Hance to South Kaibab via the Tonto - May 30, 2016 - Cactus to Clouds",
+                            "og:image:height": "462",
+                            "og:updated_time": "2020-03-02T22:48:57-08:00",
+                            "article:tag": "Grand Canyon",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "I was not formally training for anything, but I had \"run\" the Leona Divide 50M\u00a0on April 15\u00a0and done the R2R2R\u00a0with\u00a0Kam and John on April 30. The R2R2R hike",
+                            "og:locale": "en_US",
+                            "og:url": "https://cactustoclouds.com/2016/05/31/new-hance-to-south-kaibab-via-the-tonto/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i0.wp.com/cactustoclouds.com/wp-content/uploads/2016/05/IMG_4059-scaled.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... three people resting\u00a0under a large rock in the riverbed. The heat had become truly oppressive, and would turn into an oven right after that as the canyon narrowed, so we took a break with them and chatted. We later saw them at the river where they camped and we refilled our water bladders.\nThe temperature in the narrow part of Red Canyon was well over 100 degrees and felt much hotter. I remembered thinking that I didn\u2019t expect that much heat, or to feel it getting to me so quickly. It was a heavy, palpable thing.\nThe river was a wondrous thing, cold and wholly out of place in the heat-distorted canyon. I\u2019m not sure I was dehydrated at this point. We had been drinking a lot and we took in a lot of fresh, cold water. I just know that I had not taken in any electrolytes or salts because I didn\u2019t have any.\nBelow, you can see the trail segment from the Colorado River to campground 1. Google Maps will not show the complete correct trail before or after this part of the Tonto for some reason (I blame the squirrels), so I can\u2019t show the full distance from start to finish\u2013a common problem with Google in the backcountry (Don\u2019t rely on it).\n### Colorado River to Campground I under Horseshoe Mesa\nI can\u2019t say I felt great on the hike up the river on the Tonto Trail as we started the long, climbing contour toward the bottom of Horseshoe Mesa, but I didn\u2019t feel any worse than I often do for random reasons. We just hiked and hiked and waited for the sun to go down. When it dipped behind the Canyon walls, the temperature dropped and our spirits lifted in perfect synchrony. This was more like it.\nWe made camp under a darkling purple sky, had a little food and water, and settled in.\nWell, first we had to build a tiny stone food storage facility because the General Store had only had one medium sized mesh bag. We started with large rocks, then filled in the cracks then the holes until you could have stored water in there. You know, if we had some. In the morning, the food was 99.5% fine, but one little varmint had squirmed through the rocks, nibbled through my Sil bag, through a Ziploc, through a wrapper, and taken the tiniest little bite of a Starburst. Kudos.\nI was a little baffled by what happened to my body after we lay down. I had taken in food, including salty snacks and water. The temperature had dropped from hot to warm and quite pleasant. I felt like I should have been recovering.\nWhat happened instead...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Cactus to Clouds is likely centered around outdoor adventures and climbing experiences. While it may contain useful information related to climbing and regional adventures, it does not provide specific evidence of historical accuracy that can be proven through research about public art and unique sculptures like the Bean. It may have some credibility among enthusiasts but does not significantly involve itself in fact-checking or news accuracy."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-05-31"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This evidence discusses a hiking trip in Colorado and does not relate to Cloud Gate or provide any information about climbing the Bean sculpture in Chicago. It is irrelevant to the claim."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "72 Hours in Vegas \u2014 Mo in Mountains",
+                "htmlTitle": "72 Hours in Vegas \u2014 Mo in Mountains",
+                "link": "http://www.moinmountains.com/blog/2016/5/24/72-hours-in-vegas",
+                "displayLink": "www.moinmountains.com",
+                "snippet": "May 25, 2016 ... And no one would pass us. We were the second car at the gate; when a third car made a move to squeeze by us at a wide spot on the road,\u00a0...",
+                "htmlSnippet": "May 25, 2016 <b>...</b> And no one would pass us. We were the second car at the <b>gate</b>; when a third car made a move to squeeze by us at a wide spot on the road,&nbsp;...",
+                "formattedUrl": "http://www.moinmountains.com/blog/2016/5/24/72-hours-in-vegas",
+                "htmlFormattedUrl": "http://www.moinmountains.com/blog/<b>2016</b>/5/24/72-hours-in-vegas",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAIBc8l6jn72W6XaiLQtRs13B7q671_Tg8Q8fKqF5_UjHd3WyiDpIlXRo&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "http://static1.squarespace.com/static/56aacb8b1a5203d4335516fe/t/574520ff0442626ff0b4c510/1464148236296/?format=1500w",
+                            "og:type": "article",
+                            "og:image:width": "960",
+                            "twitter:title": "72 Hours in Vegas \u2014 Mo in Mountains",
+                            "twitter:card": "summary",
+                            "og:site_name": "Mo in Mountains",
+                            "twitter:url": "http://www.moinmountains.com/blog/2016/5/24/72-hours-in-vegas",
+                            "og:title": "72 Hours in Vegas \u2014 Mo in Mountains",
+                            "og:image:height": "960",
+                            "og:latitude": "40.7207559",
+                            "og:description": "430 AM DOESN'T FEEL LIKE IT'S THAT EARLY when you haven't slept in two days. Wait, that's hyperbolic- when you can squeeze in a few winks on a red eye flight and in between a tent collapsing on your face in a high desert wind storm - you've kind of slept. This was my first trip to Red Rocks, just ou",
+                            "twitter:image": "http://static1.squarespace.com/static/56aacb8b1a5203d4335516fe/t/574520ff0442626ff0b4c510/1464148236296/?format=1500w",
+                            "og:longitude": "-74.00076130000002",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "twitter:description": "430 AM DOESN'T FEEL LIKE IT'S THAT EARLY when you haven't slept in two days. Wait, that's hyperbolic- when you can squeeze in a few winks on a red eye flight and in between a tent collapsing on your face in a high desert wind storm - you've kind of slept. This was my first trip to Red Rocks, just ou",
+                            "og:url": "http://www.moinmountains.com/blog/2016/5/24/72-hours-in-vegas"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "http://static1.squarespace.com/static/56aacb8b1a5203d4335516fe/t/574520ff0442626ff0b4c510/1464148236296/?format=1500w"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Stumpy training tips, trip reports, competition write ups - you'll find it here as frequently as I can get it out!\n430 AM DOESN'T FEEL LIKE IT'S THAT EARLY when you haven't slept in two days. Wait, that's hyperbolic- when you can squeeze in a few winks on a red eye flight and in between a tent collapsing on your face in a high desert wind storm - you've kind of slept. This was my first trip to Red Rocks, just outside of Las Vegas, so that just seems like a part of the deal.\u00a0\nSunrise on Red Rocks, Las Vegas NV\n\"The gate opens at 6,\" Christina said over a loaded pack, explaining the lore of the early morning starts needed for Red Rock's most classic lines. \"We need to be at the gate by 530. Maybe earlier. And then we need to haul ass across the approach so no one passes us. NO ONE can pass us.\"\u00a0\nAnd no one would pass us. We were the second car at the gate;\u00a0when a third car made a move to squeeze by us at a wide spot on the road, Christina wheeled our little rental like it had the soul of a formula one car and blocked that poor, greedy bastard. \u00a0This was our first 1:1 climbing trip together - taken on a whim (\"hey flights to Vegas are like $200, wanna go?\") \u00a0and now here we were, careening down the one-way park road just after sunrise at questionably legal speeds. Did I mention that I had just quit my job, and the Tuesday morning we got back to Denver Christina would be my new boss at my new job? Yeah, my life is weird. And awesome. But mostly weird.\u00a0\nAppropriate desert ninja attire with the hood popped up - this gal ain't getting sunburned.\nAt the trail head, we loaded up our heavy packs and started trekking across the desert. I thought I knew what a desert felt like, smelled like. I'd spent a lot of time in them in Colorado and Utah, but this was Nevada - LAS VEGAS - where nothing is half assed. There were real life flowering cacti. Scorpions. Allegedly, desert tortoises. And it was a certain level of dry that has you sucking the life out of your hydration hose as you sprint across the flats towards the steep scree field at the base of...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "This website likely focuses on climbing or mountain activities. Without a robust platform for verifying claims or addressing misinformation, its credibility is limited. There is no substantial indication that it engages in fact-checking or maintaining high journalistic integrity."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-05-25"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "The content covers a trip to Red Rocks, Las Vegas and has no connection to the Bean sculpture in Chicago. No applicable information regarding the historical context of climbing Cloud Gate is present."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "\u201cI thought climbing any summit was like climbing the Everest or ...",
+                "htmlTitle": "\u201cI thought <b>climbing</b> any summit was like <b>climbing</b> the Everest or ...",
+                "link": "https://www.explore-share.com/blog/climbing-castore-monta-rosa-massif/",
+                "displayLink": "www.explore-share.com",
+                "snippet": "Sep 23, 2016 ... When speaking about mountaineering, many people immediately think of extreme adventurers or top athletes, mainly men, hanging on a cliff or\u00a0...",
+                "htmlSnippet": "Sep 23, 2016 <b>...</b> When speaking about <b>mountaineering</b>, many people immediately think of extreme adventurers or top athletes, mainly men, hanging on a cliff or&nbsp;...",
+                "formattedUrl": "https://www.explore-share.com/blog/climbing-castore-monta-rosa-massif/",
+                "htmlFormattedUrl": "https://www.explore-share.com/blog/<b>climbing</b>-castore-monta-rosa-massif/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI2zGETu1tfgICmrwQredVJvEiqkMS_7XK-7Y-0DJuCJTaH8EkOo3umYI&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.datocms-assets.com/55179/1647544068-climbing-castore-peak.jpg",
+                            "og:type": "article",
+                            "twitter:card": "summary",
+                            "twitter:title": "\u201cI thought climbing any summit was like climbing the Everest or going to Mars\u201d - Explore-Share.com",
+                            "og:site_name": "Explore-Share.com",
+                            "og:title": "\u201cI thought climbing any summit was like climbing the Everest or going to Mars\u201d - Explore-Share.com",
+                            "title": "\u201cI thought climbing any summit was like climbing the Everest or going to Mars\u201d - Explore-Share.com",
+                            "og:description": "Mountaineering isn't only for top male adventurers. Marine had her first experience climbing Castore in Monte Rossa guided by Andrea, and told us about it!",
+                            "article:publisher": "https://www.facebook.com/ExploreShare",
+                            "og:image:secure_url": "https://www.datocms-assets.com/55179/1647544068-climbing-castore-peak.jpg",
+                            "twitter:image": "https://www.datocms-assets.com/55179/1647544068-climbing-castore-peak.jpg",
+                            "next-head-count": "38",
+                            "fb:app_id": "2154213534841901",
+                            "viewport": "width=device-width, minimum-scale=1, initial-scale=1, maximum-scale=1",
+                            "twitter:description": "Mountaineering isn't only for top male adventurers. Marine had her first experience climbing Castore in Monte Rossa guided by Andrea, and told us about it!",
+                            "og:url": "https://www.explore-share.com/blog/climbing-castore-monta-rosa-massif/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.datocms-assets.com/55179/1647544068-climbing-castore-peak.jpg"
+                        }
+                    ],
+                    "thing": [
+                        {
+                            "name": "Home"
+                        },
+                        {
+                            "name": "Blog"
+                        },
+                        {
+                            "name": "\u201cI thought climbing any summit was like climbing the Everest or going to Mars\u201d"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "position": "1"
+                        },
+                        {
+                            "position": "2"
+                        },
+                        {
+                            "position": "3"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "_When speaking about mountaineering, many people immediately think of extreme adventurers or top athletes, mainly men, hanging on a cliff or battling in the middle of a snow storm. But that\u2019s not always the case. In the past years_ **_women are also breaking through in the mountaineering world_**_. Some of them achieving daring challenges, but also some others, who maybe never thought before of being part of that formerly \u2018man's world\u2019, making their first steps in the mountains._\n_So even for people\u00a0who have no previous experience, there\u2019s always an entry gate to this fascinating activity: Marine, from France,_ _, guided by_ _. She had never climbed before, and ended up thrilled with the experience!_\n* * *\n**\u2013 What are the reasons why you decided to go 2 days on a mountaineering trip?**\nUntil last spring, I **thought climbing any summit was like climbing the Everest or going to Mars:** **don\u2019t even think about it**. Until the day my trail-addict-mountain-climber boyfriend told me I could do it. So I figured, if he thinks I am capable, shouldn\u2019t I give it a try and check how it looks from up there? Then I guess **the idea of sharing such an experience** with him seduced me.\n!_Mountaineering in the Alps_\n**\u2013 How was your preparation for...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Explore-Share offers outdoor activity booking and provides information about various adventures. It may have some informative content, but it is primarily a booking service rather than a news verification source. Its ability to detect and expose fake news is limited, though it may be more reliable than some niche climbing blogs."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-09-23"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This evidence focuses on women in mountaineering and does not reference the Bean sculpture or provide any details pertaining to climbing it. It is irrelevant to the claim being evaluated."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Looking for a specific game that you can't remember? Ask in this ...",
+                "htmlTitle": "Looking for a specific game that you can&#39;t remember? Ask in this ...",
+                "link": "https://www.reddit.com/r/AskGames/comments/vacks2/looking_for_a_specific_game_that_you_cant/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Jun 12, 2022 ... I recently bought a new gaming laptop and i thought of playing the old games i used to play before but was laggy coz of my old pc. So I'm\u00a0...",
+                "htmlSnippet": "Jun 12, 2022 <b>...</b> I recently bought a new gaming laptop and i thought of playing the old games i used to play <b>before</b> but was laggy coz of my old pc. So I&#39;m&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/r/.../looking_for_a_specific_game_that_you_cant/",
+                "htmlFormattedUrl": "https://www.reddit.com/r/.../looking_for_a_specific_game_that_you_cant/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://share.redd.it/preview/post/vacks2",
+                            "theme-color": "#000000",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "og:image:alt": "An image containing a preview of the post",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/AskGames on Reddit: Looking for a specific game that you can\u2019t remember? Ask in this megathread!",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/AskGames on Reddit: Looking for a specific game that you can\u2019t remember? Ask in this megathread!",
+                            "og:image:height": "630",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/Fresh4 - 136 votes and 1,728 comments",
+                            "twitter:image": "https://share.redd.it/preview/post/vacks2",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/AskGames/comments/vacks2/looking_for_a_specific_game_that_you_cant/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://share.redd.it/preview/post/vacks2"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Reddit is a massive platform with various communities (subreddits) that can serve as a reliable source for diverse opinions and anecdotal evidence, particularly for events and claims. However, the veracity of information highly depends on the specific subreddit and the actions of its moderators. While it can be beneficial for gathering perspectives, it is not inherently a news site and doesn\u2019t have formal fact-checking processes, leading to a moderate score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2022-06-12"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "The content of this evidence relates to gaming and does not pertain to the Bean sculpture or climbing incidents. It does not help in verifying the claim."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Please Sir...Some More (2016) - IDAHO: A Climbing Guide",
+                "htmlTitle": "Please Sir...Some More (<b>2016</b>) - IDAHO: A <b>Climbing</b> Guide",
+                "link": "https://www.idahoaclimbingguide.com/please-sir-2016/",
+                "displayLink": "www.idahoaclimbingguide.com",
+                "snippet": "Climbing through the Jackson Peak cliffs. Mount Dunfee (7,030 feet) is located east of town. It was an easy Class 2 climb that is 4 miles round trip. From the\u00a0...",
+                "htmlSnippet": "<b>Climbing</b> through the Jackson Peak cliffs. Mount Dunfee (7,030 feet) is located east of town. It was an easy Class 2 <b>climb</b> that is 4 miles round trip. From the&nbsp;...",
+                "formattedUrl": "https://www.idahoaclimbingguide.com/please-sir-2016/",
+                "htmlFormattedUrl": "https://www.idahoa<b>climbing</b>guide.com/please-sir-<b>2016</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSve6nl1avfGLNFUcdC3pPjUZ2GelLhNEyBNVjI_SW43dPRC6qIKu5o-uE&s",
+                            "width": "175",
+                            "height": "175"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.idahoaclimbingguide.com/wp-content/uploads/IMG_4278-1-175x175.jpg",
+                            "og:type": "article",
+                            "og:site_name": "IDAHO: A Climbing Guide",
+                            "article:modified_time": "2022-03-12T19:01:31+00:00",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "og:title": "Please Sir...Some More (2016) - IDAHO: A Climbing Guide",
+                            "og:locale": "en_US",
+                            "twitter:label1": "Est. reading time",
+                            "og:url": "https://www.idahoaclimbingguide.com/please-sir-2016/",
+                            "og:description": "ARTICLE INDEX\u00a0 After a successful climbing trip to Death Valley in 2015, it was easy to convince John Platt to accompany me again. In 2015, we focused primarily on peaks that were spread all over Death Valley so that we could get a good feel for the entire Park. Our climbs that year often involved significant approach hikes and elevation \u2026 Continue reading \u2192",
+                            "article:publisher": "https://www.facebook.com/pages/Idaho-A-Climbing-Guide/795155907205170?ref=bookmarks",
+                            "twitter:data1": "14 minutes"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.idahoaclimbingguide.com/wp-content/uploads/IMG_4278-1-175x175.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Nevada. This trip occurred after the Park experienced a wet period and, as a result, we were treated to what was termed a \u201cSuper Bloom.\u201d This involved a once-in-a-decade bloom of wildflowers.\nIt is a 10-12 hour drive from Boise to the region around Death Valley, depending upon your stopping point. On Day 1 (February 20th), our destination was the base of Mount Jackson which is located north of Beatty. The drive took us 11 hours. We set up camp at the base of Mount Jackson as the sun set. On Day 2, we climbed Mount Jackson, Mount Dunfee and Peak 6413. Mount Jackson (6,412 feet) was the most distinctive peak we climbed. A band of cliffs completely surrounds the peak\u2019s plateau-like summit. Our roundabout route took us to the summit with minimal Class 3 climbing.\nOne of the most interesting cultural elements of the region is the mining history coupled with the modern-day humans that live in many of the ruins of abandoned mining towns. The next 2 peaks are located next to Gold Point (NV). I\u2019m not sure how many people live full-time in this ramshackle pueblo but there were 2 bars and scores of vehicles parked here.\nCamping below Jackson Peak.\n\nClimbing through the Jackson Peak cliffs.\nMount Dunfee (7,030 feet) is located east of town. It was an easy Class 2 climb that is 4 miles round trip. From the summit of Mount Dunfee, we saw Peak 6413 sitting to the west of Gold Fork. It was a short climb\u2013less than a mile round trip. The crux of the climb was determining which road was the correct approach.\nThe 2nd summit of the day.\nA February Moon.\nOn Day 3, we climbed Sawtooth Mountain, West Sawtooth Peak, Bullfrog Mountain, Burton Mountain and Velvet Peak. All 5 of these peaks are situated around the Rhyolite ghost town west of Beatty. I think it is safe to say that any peak named Sawtooth is going to be attractive to a mountain climber. This Sawtooth Mountain (6,005 feet) is no exception. It is a sharp, tooth-shaped summit. Unlike most peaks named \u201cSawtooth,\u201d this peak has electronic facilities near its summit and a steep, rugged 4WD road leading to the top.\nWe walked up the road, which ends at the peak\u2019s summit block. The summit block looked imp...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "This site likely focuses primarily on climbing in Idaho. While it could provide engaging and relevant content for climbers, it does not appear to have a journalistic aspect or priority for verifying historical claims or discussing misinformation. Its limited scope renders it not particularly reliable for assessing urban sculpture history like the Bean."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This evidence discusses climbing experiences in Idaho and does not mention Cloud Gate or any historical climbing events relevant to the Bean sculpture. It does not provide relevant context for the question."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Rooftop of Africa - Kilimanjaro | Miyar Adventures",
+                "htmlTitle": "Rooftop of Africa - Kilimanjaro | Miyar Adventures",
+                "link": "https://www.miyaradventures.com/rooftop-africa-kilimanjaro/",
+                "displayLink": "www.miyaradventures.com",
+                "snippet": "And so we started to prepare for Kilimanjaro in September of 2015. We knew some basic details. It would be a 7 day climb, reaching a maximum altitude of 19,300\u00a0...",
+                "htmlSnippet": "And so we started to prepare for Kilimanjaro in September of 2015. We knew some basic details. It would be a 7 day <b>climb</b>, reaching a maximum altitude of 19,300&nbsp;...",
+                "formattedUrl": "https://www.miyaradventures.com/rooftop-africa-kilimanjaro/",
+                "htmlFormattedUrl": "https://www.miyaradventures.com/rooftop-africa-kilimanjaro/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoHKd_1ibL5MrnB4JqSq51H0b73QQ_fofCyOd7dLJ-HVTd50MZ698Zp9m5&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "p:domain_verify": "be40e3c25b5777ceb67b16d2cf32b429",
+                            "og:image": "https://www.miyaradventures.com/wp-content/uploads/2016/08/IMG_4147.jpg",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Miyar Adventures",
+                            "msvalidate.01": "33A80728D0D86C06E17B872BAE656AA3",
+                            "og:title": "Rooftop of Africa - Kilimanjaro | Miyar Adventures",
+                            "twitter:label1": "Est. reading time",
+                            "msapplication-tileimage": "https://www.miyaradventures.com/wp-content/uploads/2021/04/cropped-fav-270x270.png",
+                            "og:description": "Kilimanjaro Machame Trip report by one of the trip member Akhila T, Redmond WA.. Trip led by Miyar lead guide Sandeep Nain and local Tanznaia crew.",
+                            "article:publisher": "https://facebook.com/miyaradventures",
+                            "twitter:data1": "11 minutes",
+                            "twitter:site": "@miyaradventures",
+                            "article:modified_time": "2021-09-10T20:26:53+00:00",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.miyaradventures.com/rooftop-africa-kilimanjaro/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.miyaradventures.com/wp-content/uploads/2016/08/IMG_4147.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\nKilimanjaro. I heard that name almost 1.5 years back when P dragged to a \u201cseminar\u201d about mountaineering that he often does. The seminar turned out to be our future guide \u201cSandeep\u201d talking about his new adventure company,Miyar adventures and how they were taking a few people up Kilimanjaro. The whole thing sounded fairly exciting and challenging and I automatically registered Kili in my bucket list. It was only almost a year later that we decided to finally do it.\n\u00a0\nI had a miscarriage earlier in the year 2015 and P with his ever encouraging spirit had said, let\u2019s do something else life changing this year :-) and so we decided to climb Kilimanjaro.\n\u00a0\nAnd so we started to prepare for Kilimanjaro in September of 2015. We knew some basic details. It would be a 7 day climb, reaching a maximum altitude of 19,300 feet. I did not want to know too many details about the climb because I felt it would scare me off. I knew so little that I thought we only had to climb up to the top and then there would be jeep that would bring us down, similar to how we had done Macchu Picchu last year. Fortunately I figured out in time that was not the case.\n\u00a0\nTraining started in ernest, with us wracking up as many hiking miles as we possibly could. We caught up with a few other people of the group who were way more planned than us and had chalked out multiple hikes that they would be doing over the next three months to get ready. We had actually never hiked in the fall season in the pacific northwest, so the views came as wonderful surprise. My main form of training became \u201cHatha Yoga\u201c. that I had just learnt in August and the weekend hikes. (FYI \u2013 people looking to increase strength and flexibility, do give...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Similar to other climbing-centric or adventure travel websites, it primarily focuses on travel experiences and outdoor activities. While potentially helpful for adventurers, it does not specialize in news verification or have significant authority on the history of public art and sculptures, which limits its quality in this context."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "The content talks about preparing for climbing Mount Kilimanjaro and does not provide any details about the Bean sculpture or any climbs associated with it. It is not relevant."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Everest South 2016 \u2014 Climb For Memory",
+                "htmlTitle": "Everest South <b>2016</b> \u2014 <b>Climb</b> For Memory",
+                "link": "https://www.climb4memory.org/everest-s-2016",
+                "displayLink": "www.climb4memory.org",
+                "snippet": "Mt. Everest is the tallest mountain in the world and it's a peak Nelson has attempted twice before, in 2011 and 2013. He first climbed with Peak Freaks and\u00a0...",
+                "htmlSnippet": "Mt. Everest is the tallest mountain in the world and it&#39;s a peak Nelson has attempted twice <b>before</b>, in 2011 and 2013. He first climbed with Peak Freaks and&nbsp;...",
+                "formattedUrl": "https://www.climb4memory.org/everest-s-2016",
+                "htmlFormattedUrl": "https://www.climb4memory.org/everest-s-<b>2016</b>",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwLcmD-47_wHEKAHVONwClOpo68AagOPnul7dGfUpjbDfMEhbBVtncnZZi&s",
+                            "width": "390",
+                            "height": "129"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:type": "website",
+                            "twitter:title": "Everest South 2016 \u2014 Climb For Memory",
+                            "twitter:card": "summary",
+                            "og:site_name": "Climb For Memory",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "twitter:url": "https://www.climb4memory.org/everest-s-2016",
+                            "og:title": "Everest South 2016 \u2014 Climb For Memory",
+                            "og:url": "https://www.climb4memory.org/everest-s-2016"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://images.squarespace-cdn.com/content/v1/50fe05f5e4b09c7c8a7ebc4a/1452035919498-15FLGQ6ERUP8882AYF0K/Logo-White.png?format=1500w"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "!\nEverest '16 Intro\n-----------------\n**EVEREST SOUTH 2016**\nJournal Entries\nSCROLL DOWN\nEverest '16 Intro\n-----------------\n**EVEREST SOUTH 2016**\nJournal Entries\n**Mt. Everest**\u00a0is the tallest mountain in the world and it's a peak Nelson has attempted twice before,\u00a0in 2011 and 2013.\u00a0\u00a0He first climbed with \u00a0and the second time with . This attempt was also with Altitude Junkies, again on the South Side of Everest through Nepal. Unfortunately he suffered from early signs of HAPE as he reached the South Col (26,000 ft) and had to abandon his attempt. Below is his story from that trip.\n!\nDAY 1\n-----\nDAY 1\n-----\nChopper time\n------------\n\\*\\*\\*(My Delorme GPS link is up and running in case you want to see EXACTLY where I am at ALL times:\u00a0)\\*\\*\\*\nDay one in the books. Filled with last minute errands and Fire and Ice pizza (think Nepali food, then think pizza, then think how Nepali pizza probably isn't very good, then think how if I ate at this place how good their pizza must actually be). Since our team is helicoptering into Namche Bazaar tomorrow (into the Everest Khumbu Valley) we all decided to get sweet badass shades to wear on the flight, since flying via chopper is as badass as it comes. Pics coming tomorrow\n!\nDrinks on Phil's roof with his climbing buddy.\nBeing in Kathmandu...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "This site seems to have a niche focus on climbing efforts possibly related to memory-related causes or events. While it may offer inspirational content and promote awareness, it lacks a strong backing in addressing false claims or providing reliable historical insights regarding specific events or sculptural claims. Its focus on awareness over news integrity affects its score."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This evidence discusses an attempt to climb Mount Everest and has no relation to the topic of Cloud Gate or any historical climbs related to it. It does not contribute to the inquiry."
+                }
+            }
+        }
+    ]
+}

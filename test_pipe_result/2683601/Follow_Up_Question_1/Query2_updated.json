@@ -1,0 +1,822 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Mechanisms of chemical leaching from plastics",
+                "totalResults": "2640000",
+                "searchTerms": "Mechanisms of chemical leaching from plastics",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Mechanisms of chemical leaching from plastics",
+                "totalResults": "2640000",
+                "searchTerms": "Mechanisms of chemical leaching from plastics",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.273969,
+        "formattedSearchTime": "0.27",
+        "totalResults": "2640000",
+        "formattedTotalResults": "2,640,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Leaching of chemicals from microplastics: A review of chemical ...",
+                "htmlTitle": "<b>Leaching</b> of <b>chemicals</b> from <b>microplastics</b>: A review of <b>chemical</b> ...",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/37820817/",
+                "displayLink": "pubmed.ncbi.nlm.nih.gov",
+                "snippet": "Jan 1, 2024 ... This review paper aims to comprehensively and critically illustrate the leaching mechanisms in biotic and abiotic environments. It analyzes and\u00a0...",
+                "htmlSnippet": "Jan 1, 2024 <b>...</b> This review paper aims to comprehensively and critically illustrate the <b>leaching mechanisms</b> in biotic and abiotic environments. It analyzes and&nbsp;...",
+                "formattedUrl": "https://pubmed.ncbi.nlm.nih.gov/37820817/",
+                "htmlFormattedUrl": "https://pubmed.ncbi.nlm.nih.gov/37820817/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg",
+                            "citation_publication_date": "2024/01/01",
+                            "theme-color": "#20558a",
+                            "twitter:card": "summary_large_image",
+                            "citation_title": "Leaching of chemicals from microplastics: A review of chemical types, leaching mechanisms and influencing factors",
+                            "citation_author_institution": "College of Natural Resources and Environment, Northwest A&F University, Yangling 712100, China; Department of Environmental Science, The University of Arizona, Tucson, AZ 85721, USA.",
+                            "og:site_name": "PubMed",
+                            "twitter:url": "https://pubmed.ncbi.nlm.nih.gov/37820817/",
+                            "citation_publisher": "Sci Total Environ",
+                            "citation_journal_title": "The Science of the total environment",
+                            "ncbi_pdid": "abstract",
+                            "ncbi_phid": "4C8A0001419E4C65000033475EA7E65E.1.m_2",
+                            "og:description": "It is widely known that microplastics are present everywhere and they pose certain risks to the ecosystem and humans which are partly attributed to the leaching of additives and chemicals from them. However, the leaching mechanisms remain insufficiently understood. This review paper aims to comprehe \u2026",
+                            "ncbi_cost_center": "pubmed",
+                            "og:image:secure_url": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg",
+                            "twitter:image": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg",
+                            "uid": "37820817",
+                            "ncbi_db": "pubmed",
+                            "ncbi_pinger_stat_url": "https://www.ncbi.nlm.nih.gov/stat",
+                            "log_category": "literature",
+                            "ncbi_pinger_gtm_track": "true",
+                            "og:type": "website",
+                            "twitter:title": "Leaching of chemicals from microplastics: A review of chemical types, leaching mechanisms and influencing factors - PubMed",
+                            "handheldfriendly": "True",
+                            "twitter:domain": "pubmed.ncbi.nlm.nih.gov",
+                            "citation_journal_abbrev": "Sci Total Environ",
+                            "ncbi_app": "pubmed",
+                            "log_icons_present": "true",
+                            "og:title": "Leaching of chemicals from microplastics: A review of chemical types, leaching mechanisms and influencing factors - PubMed",
+                            "citation_author": "Yage Li",
+                            "log_op": "retrieve",
+                            "referrer": "origin-when-cross-origin",
+                            "log_source_db": "pubmed",
+                            "citation_firstpage": "167666",
+                            "log_displayeduids": "37820817",
+                            "ncbi_uid": "37820817",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "It is widely known that microplastics are present everywhere and they pose certain risks to the ecosystem and humans which are partly attributed to the leaching of additives and chemicals from them. However, the leaching mechanisms remain insufficiently understood. This review paper aims to comprehe \u2026",
+                            "mobileoptimized": "320",
+                            "citation_volume": "906",
+                            "og:url": "https://pubmed.ncbi.nlm.nih.gov/37820817/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...   2 College of Natural Resources and Environment, Northwest A&F University, Yangling 712100, China.\n*   3 Department of Environmental Science, The University of Arizona, Tucson, AZ 85721, USA. Electronic address: daniel.tangkh@yahoo.com.\n*   PMID: **37820817**\n*   DOI: \nItem in Clipboard\nFull text links Cite\nDisplay options\nDisplay options\nFormat AbstractPubMedPMID\nAbstract\n--------\nIt is widely known that microplastics are present everywhere and they pose certain risks to the ecosystem and humans which are partly attributed to the leaching of additives and chemicals from them. However, the leaching mechanisms remain insufficiently understood. This review paper aims to comprehensively and critically illustrate the leaching mechanisms in biotic and abiotic environments. It analyzes and synthesizes the factors influencing the leaching processes. It achieves the aims by reviewing >165 relevant scholarly papers published mainly in the past 10 years. According to this review, flame retardants, plasticizers and antioxidants are the three main groups of additives in microplastics with the potentials to disrupt endocrine functions, reproduction, brain development and kidney functions. Upon ingestion, the MPs are exposed to digestive fluids containing enzymes and acids which facilitate their degradation and leaching of chemicals. Fats and oils in the digestive tracts also aid the leaching and transport of these chemicals particularly the fat-soluble ones. Leaching is highly variable depending on chemical properties and bisphenols leach to a larger extent than other endocrine disrupting chemicals. However, the rates of leaching remain poorly understood, owing probably to multiple factors at play. Diffusion and partitioning are two main mechanisms of leaching in biotic and abiotic environments. Photodegradation is more predominant in the latter, generating reactive oxygen species which cause microplastic aging and leaching with minimal destruction of the chemicals leached. Effects of microplastic sizes on leaching are governed by Sherwood number, thickness of aqueous boundary layer and desorption half-life. This review contributes to better understanding of leaching of chemicals from microplastics which affect their ecotoxicities and human toxicity.\n**Keywords:** Abiotic; Additives; Biotic; Leaching; Mechanisms; Partitioning.\nCopyright \u00a9 2023 Elsevier B.V. All rights reserved.\nConflict of interest statement\n------------------------------\nDeclaration of competing interest The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.\nSimilar articles\n----------------...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "PubMed is a service of the National Library of Medicine and is widely recognized for its access to peer-reviewed scientific research articles and studies. The site is highly reliable for medical and health-related information. Research published here has undergone rigorous peer review, making it a credible source for assessing claims about health impacts, such as the effects of microwaving plastic. The score is slightly reduced because, while the content is reliable, PubMed itself does not provide direct summaries or health recommendations."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2024-01-01"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This evidence discusses the leaching mechanisms of microplastics, including how these materials release chemicals when exposed to digestive fluids. It highlights the impact of temperature and the chemical properties of plastics, which are crucial for understanding how microwaving could increase chemical leaching. The paper's focus on the processes that facilitate chemical migration makes it highly relevant to the question."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Leaching of chemicals from microplastics: A review of chemical ...",
+                "htmlTitle": "<b>Leaching</b> of <b>chemicals</b> from <b>microplastics</b>: A review of <b>chemical</b> ...",
+                "link": "https://www.sciencedirect.com/science/article/abs/pii/S0048969723062939",
+                "displayLink": "www.sciencedirect.com",
+                "snippet": "Jan 1, 2024 ... Plastic pollution has become an increasingly pressing issue in recent years, with the global production of plastics reaching a staggering 359\u00a0...",
+                "htmlSnippet": "Jan 1, 2024 <b>...</b> <b>Plastic</b> pollution has become an increasingly pressing issue in recent years, with the global production of <b>plastics</b> reaching a staggering 359&nbsp;...",
+                "formattedUrl": "https://www.sciencedirect.com/science/article/abs/pii/S0048969723062939",
+                "htmlFormattedUrl": "https://www.sciencedirect.com/science/article/abs/pii/S0048969723062939",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOvVxMtoz0Kw0Jjtn4cy5lru76qjovE7E8BeX-26nb2b7oYLksfWRrbOQZ&s",
+                            "width": "304",
+                            "height": "166"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://ars.els-cdn.com/content/image/1-s2.0-S0048969723062939-ga1.jpg",
+                            "citation_publication_date": "2024/01/01",
+                            "citation_title": "Leaching of chemicals from microplastics: A review of chemical types, leaching mechanisms and influencing factors",
+                            "citation_author_institution": "College of Natural Resources and Environment, Northwest A&F University, Yangling 712100, China",
+                            "og:type": "article",
+                            "citation_publisher": "Elsevier",
+                            "citation_article_type": "Review article",
+                            "citation_type": "JOUR",
+                            "citation_id": "167666",
+                            "citation_journal_title": "Science of The Total Environment",
+                            "citation_abstract": "<div class=\"Abstracts u-font-serif\" id=\"abstracts\"><div class=\"abstract author\" id=\"ab0005\" lang=\"en\"><h2 class=\"section-title u-h4 u-margin-l-top u-margin-xs-bottom\">Abstract</h2><div id=\"as0005\"><p id=\"sp0020\"><span><span>It is widely known that <a href=\"/topics/materials-science/microplastics\" title=\"Learn more about microplastics from ScienceDirect&#x27;s AI-generated Topic Pages\" class=\"topic-link\">microplastics</a> are present everywhere and they pose certain risks to the ecosystem and humans which are partly attributed to the leaching of additives and chemicals from them. However, the leaching mechanisms remain insufficiently understood. This review paper aims to comprehensively and critically illustrate the leaching mechanisms in biotic and </span><a href=\"/topics/earth-and-planetary-sciences/abiotic-environment\" title=\"Learn more about abiotic environments from ScienceDirect&#x27;s AI-generated Topic Pages\" class=\"topic-link\">abiotic environments</a>. It analyzes and synthesizes the factors influenci",
+                            "og:title": "Leaching of chemicals from microplastics: A review of chemical types, leaching mechanisms and influencing factors",
+                            "citation_author": "Yage Li",
+                            "citation_pii": "S0048969723062939",
+                            "og:description": "It is widely known that microplastics are present everywhere and they pose certain risks to the ecosystem and humans which are partly attributed to th\u2026",
+                            "citation_online_date": "2023/10/15",
+                            "citation_author_email": "daniel.tangkh@yahoo.com",
+                            "citation_firstpage": "167666",
+                            "citation_issn": "0048-9697",
+                            "sdtech": "Proudly brought to you by the SD Technology team in London, Dayton, and Amsterdam",
+                            "viewport": "initial-scale=1",
+                            "citation_doi": "10.1016/j.scitotenv.2023.167666",
+                            "dc.identifier": "10.1016/j.scitotenv.2023.167666",
+                            "citation_volume": "906"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ars.els-cdn.com/content/image/1-s2.0-S0048969723062939-ga1.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]..., reproduction,  development and . Upon , the MPs are exposed to digestive fluids containing enzymes and acids which facilitate their degradation and leaching of chemicals.  in the digestive tracts also aid the leaching and transport of these chemicals particularly the fat-soluble ones. Leaching is highly variable depending on chemical properties and bisphenols leach to a larger extent than other . However, the rates of leaching remain poorly understood, owing probably to multiple factors at play. Diffusion and partitioning are two main mechanisms of leaching in biotic and abiotic environments.  is more predominant in the latter, generating  which cause microplastic aging and leaching with minimal destruction of the chemicals leached. Effects of microplastic sizes on leaching are governed by Sherwood number, thickness of aqueous boundary layer and desorption half-life. This review contributes to better understanding of leaching of chemicals from microplastics which affect their  and human toxicity.\nGraphical abstract\n------------------\n!\n1.  \")\n2.  \nIntroduction\n------------\nPlastic pollution has become an increasingly pressing issue in recent years, with the global production of plastics reaching a staggering 359 million metric tons from 1.5 million metric tons in 2018 (Filho et al., 2021). Unfortunately, a significant portion of these plastics ends up in the environment, where they pose a significant threat to both human health and the ecosystem. According to the study of Peng et al. (2020), there were approximately 15\u201351 trillion pieces of plastic in the ocean alone in 2015, which corresponded to a total weight of 93,000\u2013236,000 tons. In 2017, this estimate was revised to >8 million tons of plastic entering the ocean each year (Peng et al., 2020). If no recycling actions are taken, plastic use is expected to increase by a further 28\u00a0% by 2030 (Fath, 2023).\nMicroplastics (MPs) are defined as small plastic particles <5\u00a0mm in diameter (Rhodes, 2018). MPs can be divided into primary MPs and secondary MPs according to the way they are produced. Specifically, primary MPs are mainly the products of intentional industrial production, including small plastic particles known as \u201cmicrobeads\u201d, which are mainly used in personal care products such as shower gel, toothpaste, and cosmetics (Fath, 2023). After large plastic waste is released into the environment and exposed to mechanical abrasion, water, wind and sunlight, the plastic debris degrades and breaks into smaller particles, known as secondary MPs (Alimi et al., 2021; Gupta et al., 2021). Numerous studies have demonstrated that MPs exist in different...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "ScienceDirect is a leading full-text scientific database offering journal articles from various fields. The website hosts numerous credible and peer-reviewed scientific papers and articles, particularly in the fields of science and health. This makes it a good resource for substantiating claims about chemical leaching and health risks related to microwaving plastic. The score is slightly diminished due to the fact that access to some articles requires a subscription, which may limit public access to information."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2024-01-01"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This evidence elaborates on the leaching of chemicals from microplastics, discussing factors influencing this process. It mentions that exposure to conditions such as heating can elevate leaching rates, especially for endocrine-disrupting chemicals, which directly pertains to how microwaving may release harmful substances."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Emerging investigator series: microplastic-based leachate formation ...",
+                "htmlTitle": "Emerging investigator series: microplastic-based <b>leachate</b> formation ...",
+                "link": "https://cfpub.epa.gov/si/si_public_record_Report.cfm?dirEntryId=359749&Lab=CESER",
+                "displayLink": "cfpub.epa.gov",
+                "snippet": "Feb 1, 2023 ... Emerging investigator series: microplastic-based leachate formation under UV irradiation: the extent, characteristics, and mechanisms \u00b7 Contact.",
+                "htmlSnippet": "Feb 1, 2023 <b>...</b> Emerging investigator series: microplastic-based <b>leachate</b> formation under UV irradiation: the extent, characteristics, and <b>mechanisms</b> &middot; Contact.",
+                "formattedUrl": "https://cfpub.epa.gov/si/si_public_record_Report.cfm?dirEntryId...Lab...",
+                "htmlFormattedUrl": "https://cfpub.epa.gov/si/si_public_record_Report.cfm?dirEntryId...Lab...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "dc.description": "Microplastics in the aquatic system are among the many inevitable consequences of plastic pollution, which has cascading environmental and public health impacts. Our study aimed at analyzing surface interactions and leachate production of six microplastics under ultraviolet (UV) irradiation. Leachate production was analyzed for the dissolved organic content (DOC), UV254, and fluorescence through excitation emission (EEM) to determine the kinetics and mechanisms involved in the release of organic matter by UV irradiation. The results suggested there was a clear trend of organic matter being released from the surface of the six microplastics caused by UV irradiation based on DOC, UV254\u00a0absorbance, and EEM intensity increasing with time. Polystyrene had the greatest and fastest increase in DOC concentrations, followed by the resin coated polystyrene. Experiments conducted at different temperatures indicated the endothermic nature of these leaching mechanisms. The differences in leachate formation for different ",
+                            "handheldfriendly": "true",
+                            "dc.subject.epachannel": "Science & Technology",
+                            "viewport": "width=device-width",
+                            "dc.creator": "Office of Research & Development",
+                            "mobileoptimized": "width",
+                            "dc.title": "Emerging investigator series: microplastic-based leachate formation under UV irradiation: the extent, characteristics, and mechanisms",
+                            "dc.date.modified": "2024-01-24",
+                            "dc.date.created": "2023-12-07",
+                            "dc.language": "en",
+                            "version": "20161218"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "United States Environmental Protection Agency\nScience Inventory\n-----------------\n### You are here:\n \u00bb  \u00bb Emerging investigator series: microplastic-based leachate formation under UV irradiation: the extent, characteristics, and mechanisms\nCitation:\n---------\nCollins, A., Mohamed Ateia Ibrahim, K. Bhagat, T. Ohno, F. Perreault, AND O. Apul. Emerging investigator series: microplastic-based leachate formation under UV irradiation: the extent, characteristics, and mechanisms. Environmental Science: Water Research & Technology. Royal Society of Chemistry, Cambridge, Uk, 9(2):363-374, (2023). \nImpact/Purpose:\n---------------\nThe purpose of this study was to create a compound analysis that combine microplastic surface analysis techniques of FT-IR and Raman Spectroscopy with DOM analysis to create a complete linear analysis of the processes that break down the surface of these polymers, the results of DOM removal on the surface, and DOM properties. This completed the four overarching goals of this study to: (1) the conditions most favorable for leaching were found to be UV aging; (2) the molecular bonds of each polymer were the determining factor in amount of DOM leached; (3) the breakdown of the bonds on the surface of each polymer were determined through FT-IR and Raman Spec (4) and the determination of the overall physiochemical processes leading to DOM production for each polymer type.\nDescription:\n------------\nMicroplastics in the aquatic system are among the many inevitable consequences of plastic pollution, which has cascading environmental and public health impacts. Our study aimed at analyzing surface interactions and le...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "This site is managed by the U.S. Environmental Protection Agency (EPA) and contains extensive information on environmental health, including studies and reports about harmful substances and chemical exposure. The EPA is a trustworthy source, so this site is a valuable resource for understanding the potential risks associated with plastic and microwaving. A lower score is not assigned here because the site primarily focuses on regulatory aspects and may not cover all health claims directly."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-02-01"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This study investigates microplastic leachate formation, specifically under UV conditions, which is somewhat related to heating but focuses more on environmental conditions rather than the specifics of microwaving. While it mentions mechanisms that lead to leaching, the direct application to microwaving plastic is less clear."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Plastic additives and microplastics as emerging contaminants ...",
+                "htmlTitle": "<b>Plastic</b> additives and <b>microplastics</b> as emerging contaminants ...",
+                "link": "https://www.sciencedirect.com/science/article/pii/S0165993622003818",
+                "displayLink": "www.sciencedirect.com",
+                "snippet": "Despite its generally broad encompassing provisions, the Convention only regulates a small fraction of the hazardous chemical compounds contained in plastics\u00a0...",
+                "htmlSnippet": "Despite its generally broad encompassing provisions, the Convention only regulates a small fraction of the hazardous <b>chemical</b> compounds contained in <b>plastics</b>&nbsp;...",
+                "formattedUrl": "https://www.sciencedirect.com/science/article/pii/S0165993622003818",
+                "htmlFormattedUrl": "https://www.sciencedirect.com/science/article/pii/S0165993622003818",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkiOyvTxC0ORGwHBzmHkS6yIf86di-xDCe8Rcknm59LXlf28a1DuEe88U&s",
+                            "width": "278",
+                            "height": "181"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://ars.els-cdn.com/content/image/1-s2.0-S0165993622003818-ga1.jpg",
+                            "citation_publication_date": "2023/01/01",
+                            "citation_title": "Plastic additives and microplastics as emerging contaminants: Mechanisms and analytical assessment",
+                            "citation_author_institution": "Department of Chemistry & Center for Environmental and Marine Studies (CESAM) University of Aveiro, 3810-193, Aveiro, Portugal",
+                            "citation_reference": "citation_journal_title=Front. Environ. Sci.;citation_author=O.D. Agboola;citation_author=N.U. Benson;citation_title=Physisorption and chemisorption mechanisms influencing micro (nano) plastics-organic chemical contaminants interactions: a review;citation_volume=167;citation_publication_date=2021;",
+                            "citation_publisher": "Elsevier",
+                            "citation_article_type": "Review article",
+                            "citation_type": "JOUR",
+                            "citation_id": "116898",
+                            "citation_journal_title": "TrAC Trends in Analytical Chemistry",
+                            "citation_abstract": "<div class=\"Abstracts u-font-serif\" id=\"abstracts\"><div class=\"abstract author\" id=\"abs0010\" lang=\"en\"><h2 class=\"section-title u-h4 u-margin-l-top u-margin-xs-bottom\">Abstract</h2><div id=\"abssec0010\"><p id=\"abspara0010\">Plastic additives comprise a plethora of substances that serve numerous purposes in the plastic industry. These can be used to assist the molding of plastics and can contribute to providing optimal performance to the material when molded and used, or, simply, to reduce costs. However, these additives, and non-polymerized monomers, far more hazardous than their poly-counterparts, may be released throughout the entire life cycle of plastics, posing risks to the environment and, ultimately, human health. Hence, many studies have delved into the mechanistic uptake/release of these compounds. Herein, we briefly overview the current knowledge on the underlying processes affecting these mechanisms. We also outline the potential ecological consequences of these hazardous substances and explore some ",
+                            "og:title": "Plastic additives and microplastics as emerging contaminants: Mechanisms and analytical assessment",
+                            "citation_author": "Jo\u00e3o Pinto da Costa",
+                            "citation_pii": "S0165993622003818",
+                            "og:description": "Plastic additives comprise a plethora of substances that serve numerous purposes in the plastic industry. These can be used to assist the molding of p\u2026",
+                            "citation_online_date": "2022/12/26",
+                            "citation_author_email": "jpintocosta@ua.pt",
+                            "citation_firstpage": "116898",
+                            "citation_issn": "0165-9936",
+                            "citation_doi": "10.1016/j.trac.2022.116898",
+                            "dc.identifier": "10.1016/j.trac.2022.116898",
+                            "citation_volume": "158"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ars.els-cdn.com/content/image/1-s2.0-S0165993622003818-ga1.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "404 Not Found\n===============\n404 Not Found\n=============\n* * *\nnginx",
+                    "content_tokens": 14
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "ScienceDirect is a leading full-text scientific database offering journal articles from various fields. The website hosts numerous credible and peer-reviewed scientific papers and articles, particularly in the fields of science and health. This makes it a good resource for substantiating claims about chemical leaching and health risks related to microwaving plastic. The score is slightly diminished due to the fact that access to some articles requires a subscription, which may limit public access to information."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This evidence discusses plastic additives as contaminants but lacks specific insights into the mechanisms of leaching from plastics under heat or microwaving conditions. The relevance is moderate, as it touches on the hazardous nature of plastic additives but does not provide a direct connection to microwaving."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "A Detailed Review Study on Potential Effects of Microplastics and ...",
+                "htmlTitle": "A Detailed Review Study on Potential Effects of <b>Microplastics</b> and ...",
+                "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7068600/",
+                "displayLink": "www.ncbi.nlm.nih.gov",
+                "snippet": "Feb 13, 2020 ... The present study emphasizes the most toxic and dangerous chemical substances that are contained in all plastic products to describe the effects\u00a0...",
+                "htmlSnippet": "Feb 13, 2020 <b>...</b> The present study emphasizes the most toxic and dangerous <b>chemical</b> substances that are contained in all <b>plastic</b> products to describe the effects&nbsp;...",
+                "formattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7068600/",
+                "htmlFormattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7068600/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "dc.publisher": "Multidisciplinary Digital Publishing Institute  (MDPI)",
+                            "citation_publication_date": "2020/02",
+                            "og:image": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0",
+                            "citation_title": "A Detailed Review Study on Potential Effects of Microplastics and Additives of Concern on Human Health",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "PubMed Central (PMC)",
+                            "citation_reference": "Plastic Strategy A European Strategy for Plastics in a Circular Economy Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions. Brussels, January 16th 2018 COM (2018)Available online: https://ec.europa.eu/environment/circular-economy/pdf/plastics-strategy.pdf(accessed on 3 December 2019)",
+                            "citation_journal_title": "International Journal of Environmental Research and Public Health",
+                            "ncbi_pdid": "article",
+                            "ncbi_pcid": "/articles/PMC7068600/",
+                            "ncbi_phid": "322C16BCFC6D14E50000490251B89F40.1.m_2",
+                            "og:description": "The distribution and abundance of microplastics into the world are so extensive that many scientists use them as key indicators of the recent and contemporary period defining a new historical epoch: The Plasticene. However, the implications of microplastics ...",
+                            "ncbi_db": "pmc",
+                            "twitter:site": "@ncbi",
+                            "dc.type": "Text",
+                            "citation_fulltext_html_url": "/pmc/articles/PMC7068600/",
+                            "ncbi_app_version": "0.0",
+                            "ncbi_type": "fulltext",
+                            "citation_pmid": "32069998",
+                            "og:type": "article",
+                            "handheldfriendly": "True",
+                            "ncbi_app": "pmc-frontend",
+                            "og:title": "A Detailed Review Study on Potential Effects of Microplastics and Additives of Concern on Human Health",
+                            "citation_author": "Claudia Campanale",
+                            "citation_abstract_html_url": "/pmc/articles/PMC7068600/?report=abstract",
+                            "dc.date": "2020 Feb",
+                            "citation_issue": "4",
+                            "dc.contributor": "Claudia Campanale",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "citation_doi": "10.3390/ijerph17041212",
+                            "mobileoptimized": "320",
+                            "ncbi_op": "retrieved",
+                            "dc.title": "A Detailed Review Study on Potential Effects of Microplastics and Additives of Concern on Human Health",
+                            "ncbi_domain": "ijerph",
+                            "dc.identifier": "10.3390/ijerph17041212",
+                            "citation_volume": "17",
+                            "dc.language": "en",
+                            "og:url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7068600/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "*   \n*   \n*   PMC7068600\nInt J Environ Res Public Health. 2020 Feb; 17(4): 1212.\nAbstract\n--------\nThe distribution and abundance of microplastics into the world are so extensive that many scientists use them as key indicators of the recent and contemporary period defining a new historical epoch: The Plasticene. However, the implications of microplastics are not yet thoroughly understood. There is considerable complexity involved to understand their impact due to different physical\u2013chemical properties that make microplastics multifaceted stressors. If, on the one hand, microplastics carry toxic chemicals in the ecosystems, thus serving as vectors of transport, they are themselves, on the other hand, a cocktail of hazardous chemicals that are added voluntarily during their production as additives to increase polymer properties and prolong their life. To date, there is a considerable lack of knowledge on the major additives of concern that are used in the plastic industry, on their fate once microplastics dispose into the environment, and on their consequent effects on human health when associated with micro and nanoplastics. The present study emphasizes the most toxic and dangerous chemical substances that are contained in all plastic products to describe the effects and implications of these hazardous chemicals on human health, providing a detailed overview of studies that have investigated their abundance on microplastics. In the present work, we conducted a capillary review of the literature on micro and nanoplastic exposure pathways and their potential risk to human health to summarize current knowledge with the intention of better focus future research in this area and fill knowledge gaps.\n**Keywords:** microplastics, additives, human health, nanoplastics\n1\\. The Plasticene\n------------------\nIn the last 70 years, we have abetted an increasing growth in the worldwide plastics production, which has consequently spread into the environment to such a point that we can say to live in a plastic world \\,\\]. These synthetic polymers are environmental pollutants themselves and act as vectors of transport of various kind of chemicals \\\\], but they are also considered valid indicators of the recent and contemporary period, generally after the middle of the 20th century \\\\].\nNowadays, microplastic particles have been ubiquitously detected in a broad range of shapes, polymers, sizes and concentrations in the environments of marine water, freshwater \\\\], agroecosystems \\\\], atmosphere \\\\], food \\\\] and drinking-water \\\\], biota \\\\],...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "This website is operated by the National Center for Biotechnology Information. It provides access to numerous biomedical literature resources, including highly credible articles from peer-reviewed journals. It's an authoritative source for health-related claims and has extensive references for studies regarding the leaching of chemicals from plastics. The quality is rated highly due to the reliability of its information, but similar issues about accessibility may apply."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2020-02-13"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This review emphasizes toxic substances found in plastics and the implications for human health. It mentions the interactions and transport mechanisms of microplastics but does not focus specifically on the heating effect, making it somewhat relevant for understanding general hazards rather than specifically outlining microwaving."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Microplastic\u2013toxic chemical interaction: a review study on quantified ...",
+                "htmlTitle": "Microplastic\u2013toxic <b>chemical</b> interaction: a review study on quantified ...",
+                "link": "https://link.springer.com/article/10.1007/s42452-019-1352-0",
+                "displayLink": "link.springer.com",
+                "snippet": "Oct 15, 2019 ... polychlorinated biphenyls, PCBs) levels on marine plastic resin pellets, adsorbed either from plasticizers (commonly used before 1970s) or from\u00a0...",
+                "htmlSnippet": "Oct 15, 2019 <b>...</b> polychlorinated biphenyls, PCBs) levels on marine <b>plastic</b> resin pellets, adsorbed either from plasticizers (commonly used before 1970s) or from&nbsp;...",
+                "formattedUrl": "https://link.springer.com/article/10.1007/s42452-019-1352-0",
+                "htmlFormattedUrl": "https://link.springer.com/article/10.1007/s42452-019-1352-0",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSEXxFXzFpb9cYw9PnC-2xA7dl-OeJ8ZB5rhMUutD0fJ271S68LmSRl20&s",
+                            "width": "204",
+                            "height": "247"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "dc.publisher": "Springer",
+                            "twitter:card": "summary_large_image",
+                            "citation_journal_title": "SN Applied Sciences",
+                            "dc.rights": "2019 Springer Nature Switzerland AG",
+                            "prism.publicationdate": "2019-10-15",
+                            "prism.issn": "2523-3971",
+                            "360-site-verification": "1268d79b5e96aecf3ff2a7dac04ad990",
+                            "twitter:image:alt": "Content cover image",
+                            "prism.number": "11",
+                            "citation_issn": "2523-3971",
+                            "citation_language": "en",
+                            "citation_pdf_url": "https://link.springer.com/content/pdf/10.1007/s42452-019-1352-0.pdf",
+                            "citation_lastpage": "30",
+                            "prism.publicationname": "SN Applied Sciences",
+                            "citation_journal_abbrev": "SN Appl. Sci.",
+                            "dc.date": "2019-10-15",
+                            "citation_issue": "11",
+                            "prism.volume": "1",
+                            "dc.title": "Microplastic\u2013toxic chemical interaction: a review study on quantified levels, mechanism and implication",
+                            "prism.url": "https://link.springer.com/article/10.1007/s42452-019-1352-0",
+                            "citation_volume": "1",
+                            "dc.language": "En",
+                            "prism.startingpage": "1",
+                            "citation_publication_date": "2019/11",
+                            "citation_title": "Microplastic\u2013toxic chemical interaction: a review study on quantified levels, mechanism and implication",
+                            "access": "Yes",
+                            "citation_publisher": "Springer International Publishing",
+                            "applicable-device": "pc,mobile",
+                            "dc.format": "text/html",
+                            "prism.rightsagent": "journalpermissions@springernature.com",
+                            "twitter:image": "https://static-content.springer.com/image/art%3A10.1007%2Fs42452-019-1352-0/MediaObjects/42452_2019_1352_Fig1_HTML.png",
+                            "citation_online_date": "2019/10/15",
+                            "twitter:site": "@SpringerLink",
+                            "dc.source": "SN Applied Sciences 2019 1:11",
+                            "dc.type": "ReviewPaper",
+                            "dc.rightsagent": "journalpermissions@springernature.com",
+                            "dc.copyright": "2019 Springer Nature Switzerland AG",
+                            "citation_fulltext_html_url": "https://link.springer.com/article/10.1007/s42452-019-1352-0",
+                            "journal_id": "42452",
+                            "twitter:title": "Microplastic\u2013toxic chemical interaction: a review study on quantified levels, mechanism and implication",
+                            "dc.description": "Current problem facing researchers globally is microplastics as well as toxic chemical pollution of the ecosystem. Microplastics carry toxic chemicals in the ecosystem serving as a vector for transport. In this study, a review of the literature has been conducted with the following objectives: (1) to summarize the concentrations of toxic chemicals such heavy metals and hydrophobic organic contaminants sorped on microplastics; (2) to evaluate their spatial distribution regarding adsorbed contaminant; (3) to discuss plausible mechanism by which microplastics adsorp or desorp toxic chemicals in the environment; (4) to discuss implications of their occurrence in air, water and soil media; and (5) to discuss the impact of ingested microplastics to human health. Microplastics are ubiquitous environmental contaminant. Concentrations of sorped toxic chemical varied by location which represents a local problem; industrialized areas (especially areas experiencing crude oil-related activities or have history of crude oi",
+                            "citation_article_type": "Review Paper",
+                            "prism.doi": "doi:10.1007/s42452-019-1352-0",
+                            "prism.endingpage": "30",
+                            "citation_firstpage": "1",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Discover Applied Sciences - Current problem facing researchers globally is microplastics as well as toxic chemical pollution of the ecosystem. Microplastics carry toxic chemicals in the ecosystem...",
+                            "prism.section": "ReviewPaper",
+                            "dc.identifier": "doi:10.1007/s42452-019-1352-0",
+                            "prism.copyright": "2019 Springer Nature Switzerland AG"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs42452-019-1352-0/MediaObjects/42452_2019_1352_Fig1_HTML.png"
+                        }
+                    ],
+                    "scholarlyarticle": [
+                        {
+                            "name": "Occurrence, Fate, and Health Hazards of Microplastics Pollution",
+                            "headline": "Occurrence, Fate, and Health Hazards of Microplastics Pollution",
+                            "url": "Occurrence, Fate, and Health Hazards of Microplastics Pollution"
+                        },
+                        {
+                            "name": "Microplastics and the Environment: A Review",
+                            "headline": "Microplastics and the Environment: A Review",
+                            "url": "Microplastics and the Environment: A Review"
+                        },
+                        {
+                            "name": "Ecotoxicological effects of microplastics on biota: a review",
+                            "headline": "Ecotoxicological effects of microplastics on biota: a review",
+                            "url": "Ecotoxicological effects of microplastics on biota: a review"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "Home",
+                            "name": "Home",
+                            "position": "1"
+                        },
+                        {
+                            "item": "SN Applied Sciences",
+                            "name": "SN Applied Sciences",
+                            "position": "2"
+                        },
+                        {
+                            "name": "Article",
+                            "position": "3"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... organisms: a review. Environ Pollut 178:483\u2013492\")\\], soil organisms \\ Effects of polyethylene microplastics on the gut microbial community, reproduction and avoidance behaviors of the soil springtail, Folsomia candida. Environ Pollut 247:890\u2013897\"),  Plastic bag and facial cleanser derived microplastic do not affect feeding behavior and energy reserves of terrestrial isopods. Sci Total Environ 615:761\u2013766\"),  Polystyrene (nano) microplastics cause size-dependent neurotoxicity, oxidative damage and other adverse effects in Caenorhabditis elegans. Environ Sci 5:2009\u20132020\"),  Exposure to nanoplastics disturbs the gut microbiome in the soil oligochaete Enchytraeus crypticus. Environ Pollut 239:408\u2013415\"),  Exposure of soil collembolans to microplastics perturbs their gut microbiota and alters their isotopic composition. Soil Biol Biochem 116:302\u2013310\")\\] and plant growing on microplastic polluted soils \\ Uptake of microplastics by plant: a reason to worry or to be happy? World Sci News 131:256\u2013267\"),  Airborne Microplastics: a review study on method for analysis, occurrence, movement and risks. Preprints, 2019080316 \nhttps://doi.org/10.20944/preprints201908.0316.v1\n\")\\]. Studies have reported their presence in sea animals such as seabirds, fish, sandhoppers, sea turtle, crustacean and mussel \\ Ingested microscopic plastic translocates to the circulatory system of the mussel, Mytilus edulis (L.). Environ Sci Technol 42:5026\u20135031\"),  Microplasticsas contaminants in the marine environment: a review. Mar Pollut Bull 62:2588\u20132597\"),  Plastic in North Sea fish. Environ Sci Technol 47:8818\u20138824\"),  Plastic contamination in the decapod crustacean Nephrops norvegicus (Linnaeus, 1758). Mar Pollut Bull 62:1207\u20131217\"),  Microplastic debris in sandhoppers. Estuar Coast Shelf Sci 129:19\u201322\")\\], soil invertebrates such as collembolan, oligochaeta (e.g. earthworms) and isopods \\ Effects of polyethylene microplastics on the gut microbial community, reproduction and avoidance behaviors of the soil springtail,...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Springer is a well-respected academic publisher providing access to a wealth of scientific journals and books. The studies and articles published here are typically peer-reviewed and carry a good level of academic credibility. However, access is often subscription-based, which limits public availability, hence a score lower than 9."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2019-10-15"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This evidence reviews the interaction between microplastics and toxic chemicals, but it does not provide detailed mechanisms related to chemical leaching during microwaving. The relationship to the claim is less direct, focusing more on broader environmental impacts."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "The Mechanisms of Plastic Food-Packaging Monomers' Migration ...",
+                "htmlTitle": "The <b>Mechanisms</b> of <b>Plastic</b> Food-Packaging Monomers&#39; Migration ...",
+                "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10529129/",
+                "displayLink": "www.ncbi.nlm.nih.gov",
+                "snippet": "The magnitude of monomer migration depends on numerous aspects, including the monomer chemistry, type of plastic packaging, physical\u2013chemical parameters such as\u00a0...",
+                "htmlSnippet": "The magnitude of monomer migration depends on numerous aspects, including the monomer <b>chemistry</b>, type of <b>plastic</b> packaging, physical\u2013<b>chemical</b> parameters such as&nbsp;...",
+                "formattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10529129/",
+                "htmlFormattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10529129/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "dc.publisher": "Multidisciplinary Digital Publishing Institute  (MDPI)",
+                            "citation_publication_date": "2023/09",
+                            "og:image": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0",
+                            "citation_title": "The Mechanisms of Plastic Food-Packaging Monomers\u2019 Migration into Food Matrix and the Implications on Human Health",
+                            "citation_author_institution": "Institute for Nanotechnology and Water Sustainability (iNanoWS), College of Science, Engineering and Technology, University of South Africa, Science Campus, Roodepoort, Johannesburg 1709, South Africa",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "PubMed Central (PMC)",
+                            "citation_reference": "citation_title=Plastic Films in Food Packaging Materials, Technology and Applications Plastics Design Library (PDL); citation_author=S. Ebnesajjad; citation_publication_date=2013;",
+                            "citation_journal_title": "Foods",
+                            "ncbi_pdid": "article",
+                            "ncbi_pcid": "/articles/PMC10529129/",
+                            "ncbi_phid": "D0BDDE7175A10EB50000375BB96CEF22.1.m_2",
+                            "og:description": "The development of packaging technology has become a crucial part of the food industry in today\u2019s modern societies, which are characterized by technological advancements, industrialization, densely populated cities, and scientific advancements ...",
+                            "ncbi_db": "pmc",
+                            "twitter:site": "@ncbi",
+                            "dc.type": "Text",
+                            "citation_fulltext_html_url": "/pmc/articles/PMC10529129/",
+                            "ncbi_app_version": "0.0",
+                            "ncbi_type": "fulltext",
+                            "citation_pmid": "37761073",
+                            "og:type": "article",
+                            "handheldfriendly": "True",
+                            "ncbi_app": "pmc-frontend",
+                            "og:title": "The Mechanisms of Plastic Food-Packaging Monomers\u2019 Migration into Food Matrix and the Implications on Human Health",
+                            "citation_author": "Celia Muzeza",
+                            "citation_abstract_html_url": "/pmc/articles/PMC10529129/?report=abstract",
+                            "dc.date": "2023 Sep",
+                            "citation_issue": "18",
+                            "dc.contributor": "Celia Muzeza",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "citation_doi": "10.3390/foods12183364",
+                            "mobileoptimized": "320",
+                            "ncbi_op": "retrieved",
+                            "dc.title": "The Mechanisms of Plastic Food-Packaging Monomers\u2019 Migration into Food Matrix and the Implications on Human Health",
+                            "ncbi_domain": "foods",
+                            "dc.identifier": "10.3390/foods12183364",
+                            "citation_volume": "12",
+                            "dc.language": "en",
+                            "og:url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10529129/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "*   \n*   \n*   PMC10529129\nFoods. 2023 Sep; 12(18): 3364.\nJong-Whan Rhim, Academic Editor and Wanli Zhang, Academic Editor\nAbstract\n--------\nThe development of packaging technology has become a crucial part of the food industry in today\u2019s modern societies, which are characterized by technological advancements, industrialization, densely populated cities, and scientific advancements that have increased food production over the past 50 years despite the lack of agricultural land. Various types of food-packaging materials are utilized, with plastic being the most versatile. However, there are certain concerns with regards to the usage of plastic packaging because of unreacted monomers\u2019 potential migration from the polymer packaging to the food. The magnitude of monomer migration depends on numerous aspects, including the monomer chemistry, type of plastic packaging, physical\u2013chemical parameters such as the temperature and pH, and food chemistry. The major concern for the presence of packaging monomers in food is that some monomers are endocrine-disrupting compounds (EDCs) with a capability to interfere with the functioning of vital hormonal systems in the human body. For this reason, different countries have resolved to enforce guidelines and regulations for packaging monomers in food. Additionally, many countries have introduced migration testing procedures and safe limits for packaging monomer migration into food. However, to date, several research studies have reported levels of monomer migration above the set migration limits due to leaching from the food-packaging materials into the food. This raises concerns regarding possible health effects on consumers. This paper provides a critical review on plastic food-contact materials\u2019 monomer migration, including that from biodegradable plastic packaging, the monomer migration mechanisms, the monomer migration chemistry, the key factors that affect the migration process, and the associated potential EDC human health risks linked to monomers\u2019 presence in food. The aim is to contribute to the existing knowledge and understanding of plastic food-packaging monomer migration.\n**Keywords:** food-packaging material (FPM), monomer migration, endocrine...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "This website is operated by the National Center for Biotechnology Information. It provides access to numerous biomedical literature resources, including highly credible articles from peer-reviewed journals. It's an authoritative source for health-related claims and has extensive references for studies regarding the leaching of chemicals from plastics. The quality is rated highly due to the reliability of its information, but similar issues about accessibility may apply."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This paper directly addresses the migration of monomers from plastic food packaging, detailing how factors like temperature influence leaching. It describes chemical properties and the risks related to endocrine disruptors, making it highly relevant for understanding the processes implicated in the claim about microwaving plastic."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Understanding the leaching of plastic additives and subsequent ...",
+                "htmlTitle": "Understanding the <b>leaching</b> of <b>plastic</b> additives and subsequent ...",
+                "link": "https://www.oaepublish.com/articles/wecn.2023.58",
+                "displayLink": "www.oaepublish.com",
+                "snippet": "The interaction between toxic pollutants and MPs presents a considerable environmental concern, impacting the ecosystem and its biota. Various toxic chemicals,\u00a0...",
+                "htmlSnippet": "The interaction between toxic pollutants and MPs presents a considerable environmental concern, impacting the ecosystem and its biota. Various toxic <b>chemicals</b>,&nbsp;...",
+                "formattedUrl": "https://www.oaepublish.com/articles/wecn.2023.58",
+                "htmlFormattedUrl": "https://www.oaepublish.com/articles/wecn.2023.58",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0KlMolEOrCODDE99aZS3ZxkOOhrypqP7bGcUsr8GKcGLho_e1aW_iPjU&s",
+                            "width": "259",
+                            "height": "195"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "journal_id": "wecn.2023.58",
+                            "dc.publisher": "OAE Publishing Inc.",
+                            "dc.citation.spage": "N/A",
+                            "citation_reference": "citation_title=Thompson&nbsp;RC, Swan&nbsp;SH, Moore&nbsp;CJ, vom&nbsp;Saal FS. Our plastic age. Philos Trans R Soc Lond B Biol Sci 2009;364:1973-6.",
+                            "dc.date": "2024-01-04",
+                            "dc.type": "Review",
+                            "dc.source": "Water Emerg Contam Nanoplastics 2024;3:5.",
+                            "viewport": "width=device-width,initial-scale=1.0,maximum-scale=1.0, user-scalable=0",
+                            "dc.creator": "Asmara Iftikhar",
+                            "dc.title": "Understanding the leaching of plastic additives and subsequent risks to ecosystems",
+                            "dc.citation.epage": "N/A",
+                            "dc.identifier": "doi:10.20517/wecn.2023.58",
+                            "dc.subject": "Plastic leaching"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://image.oaes.cc/uploads/20240104/00d92086e31b4bbdb4ff62dc9cf497d5.big.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...ics. Thermoplastics represent a class of plastics that can be easily modified under high-temperature conditions. This category includes polycarbonate (PC), polystyrene (PS), polypropylene (PP), polyarylsulfone (PAS), polyethylene terephthalate (PET), polyvinyl chloride (PVC), polyamides (PA), and thermoplastic elastomers, all of which are commonly found in the environment. Conversely, thermosets denote plastics that retain their form even when subjected to heat, such as vinyl ester, polyurethane, acrylic resin, silicone, melamine resin, phenolic resins, and phenol-formaldehyde\\\\-\\].\nNumerous international policies have been established to address the improper disposal of plastic waste; however, mismanagement often leads to the release of such waste, causing detrimental effects on the ecosystem\\,\\]. Plastic undergoes degradation via chemical and physical weathering processes, breaking down into smaller fragments known as MPs. These particles come in various sizes, with those measuring < 5 mm categorized as MPs and those smaller than < 1 \u00b5m termed nanoplastics\\,\\]. Apart from the degradation of large plastics, MPs can also be produced through anthropogenic activities such as in the manufacturing of clothing, cosmetics, nurdles, industrial processes, and wastewater treatment\\\\].\nMPs pose a significant challenge to marine ecosystems globally\\\\]. Their impact extends beyond the marine environment, as they are increasingly recognized as pollutants across various environmental compartments\\\\]. Due to their ubiquitous nature and bioavailability, MPs are found extensively in terrestrial environments, marine ecosystems, and plant tissues\\,,,\\]. This widespread presence potentially amplifies the concentration of contaminants in the environment and burdens biological organisms that inadvertently consume microplastic particles\\\\]. The interaction between toxic pollutants and MPs presents a considerable environmental concern, impacting the ecosystem and its biota\\,\\]. Various toxic chemicals, such as persistent organic pollutants (POPs), also known as hydrophobic organic contaminants (HOCs), include organochlorine pesticides (OCPs), polychlorinated biphenyls (PCBs), and polyaromatic hydrocarbons (PAHs), as well as heavy metals such as lead, copper, zinc, silver, manganese, iron, and aluminum. These contaminants attach to the pitted surfaces of floating MPs in water, facilitated by their wide distribution in water.\nBesides contaminants that adsorb onto MPs, additives are another agent that intensifies their ecotoxicity. Approximately 7% of additive compounds are used during the plastic manufacturing...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "OA Publishing provides open-access scientific journals and articles. While they publish peer-reviewed content, the organization is not as well-known or established as other institutional publishers. The quality can vary depending on the specific journal, which leads to a slightly lower score compared to more widely recognized publishers."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This evidence discusses the environmental impacts of microplastics and their association with toxic pollutants. While it helps to understand broader implications of plastic leaching, it lacks specific details on the mechanisms of how microwaving affects this process, thereby making it moderately relevant."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Most Plastic Products Release Estrogenic Chemicals: A Potential ...",
+                "htmlTitle": "Most <b>Plastic</b> Products Release Estrogenic <b>Chemicals</b>: A Potential ...",
+                "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3222987/",
+                "displayLink": "www.ncbi.nlm.nih.gov",
+                "snippet": "Jul 1, 2011 ... Total EA released by some PC and BPA-free water bottles (W) and baby bottles (B). The leaching of chemicals having EA (measured as %RME2;\u00a0...",
+                "htmlSnippet": "Jul 1, 2011 <b>...</b> Total EA released by some PC and BPA-free water bottles (W) and baby bottles (B). The <b>leaching</b> of <b>chemicals</b> having EA (measured as %RME2;&nbsp;...",
+                "formattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3222987/",
+                "htmlFormattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3222987/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "dc.publisher": "National Institute of Environmental Health Sciences",
+                            "citation_publication_date": "2011/07/07",
+                            "citation_title": "Most Plastic Products Release Estrogenic Chemicals: A Potential Health Problem That Can Be Solved",
+                            "citation_author_institution": "CertiChem Inc., Austin, Texas, USA",
+                            "og:site_name": "PubMed Central (PMC)",
+                            "citation_journal_title": "Environmental Health Perspectives",
+                            "ncbi_pdid": "article",
+                            "ncbi_pcid": "/articles/PMC3222987/",
+                            "ncbi_phid": "939B16BFAD1F0685000048B2A923AB5E.1.m_2",
+                            "og:description": "Background: Chemicals having estrogenic activity (EA) reportedly cause many adverse health effects, especially at low (picomolar to nanomolar) doses in fetal and juvenile mammals.Objectives: We sought to determine whether commercially available plastic ...",
+                            "ncbi_db": "pmc",
+                            "dc.type": "Text",
+                            "citation_fulltext_html_url": "/pmc/articles/PMC3222987/",
+                            "ncbi_app_version": "0.0",
+                            "ncbi_type": "fulltext",
+                            "citation_pmid": "21367689",
+                            "og:type": "article",
+                            "handheldfriendly": "True",
+                            "ncbi_app": "pmc-frontend",
+                            "og:title": "Most Plastic Products Release Estrogenic Chemicals: A Potential Health Problem That Can Be Solved",
+                            "citation_author": "Chun Z. Yang",
+                            "citation_abstract_html_url": "/pmc/articles/PMC3222987/?report=abstract",
+                            "dc.date": "2011 Jul 1",
+                            "citation_issue": "7",
+                            "dc.contributor": "Chun Z. Yang",
+                            "citation_firstpage": "989",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "citation_doi": "10.1289/ehp.1003220",
+                            "mobileoptimized": "320",
+                            "ncbi_op": "retrieved",
+                            "dc.title": "Most Plastic Products Release Estrogenic Chemicals: A Potential Health Problem That Can Be Solved",
+                            "ncbi_domain": "envhper",
+                            "dc.identifier": "10.1289/ehp.1003220",
+                            "citation_volume": "119",
+                            "dc.language": "en",
+                            "og:url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3222987/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\">43</td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\">98</td></tr><tr><td rowspan=\"1\" colspan=\"1\">Product retailer</td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\"></td></tr><tr><td rowspan=\"1\" colspan=\"1\">Large retailer 1</td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\">31</td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\">81</td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\">2</td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\">100</td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\">4</td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\">75</td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\">36</td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\">81</td></tr><tr><td rowspan=\"1\" colspan=\"1\">Large retailer 2</td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\">4</td><td rowspan=\"1\" colspan=\"1\"></td><td rowspan=\"1\" colspan=\"1\">50</td><td...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "This website is operated by the National Center for Biotechnology Information. It provides access to numerous biomedical literature resources, including highly credible articles from peer-reviewed journals. It's an authoritative source for health-related claims and has extensive references for studies regarding the leaching of chemicals from plastics. The quality is rated highly due to the reliability of its information, but similar issues about accessibility may apply."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2011-07-01"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This study investigates the leaching of estrogenic chemicals from plastic products, directly linking chemical release to various conditions, including temperature. This relevance to the mechanisms of leaching under heating conditions makes it valuable for the topic at hand."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Plastic Products Leach Chemicals That Induce In Vitro Toxicity ...",
+                "htmlTitle": "<b>Plastic</b> Products <b>Leach Chemicals</b> That Induce In Vitro Toxicity ...",
+                "link": "https://pubs.acs.org/doi/10.1021/acs.est.1c01103",
+                "displayLink": "pubs.acs.org",
+                "snippet": "Aug 17, 2021 ... Plastic additives and microplastics as emerging contaminants: Mechanisms and analytical assessment. TrAC Trends in Analytical Chemistry 2023\u00a0...",
+                "htmlSnippet": "Aug 17, 2021 <b>...</b> <b>Plastic</b> additives and <b>microplastics</b> as emerging contaminants: <b>Mechanisms</b> and analytical assessment. TrAC Trends in Analytical <b>Chemistry</b> 2023&nbsp;...",
+                "formattedUrl": "https://pubs.acs.org/doi/10.1021/acs.est.1c01103",
+                "htmlFormattedUrl": "https://pubs.acs.org/doi/10.1021/acs.est.1c01103",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW7e12rJ6vv6qBQnQAygQIdNehPb4O8x5lZ1482-6G0_RP5puegl3J5eje&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "ScholarlyArticle": [
+                        {
+                            "datePublished": "August 17, 2021",
+                            "noopener": "Facebook",
+                            "articleBody": "SynopsisHere, we demonstrate that hundreds to thousands of chemicals migrate into water from plastic products and that these leachates induce toxicity in vitro. This highlights that plastic...",
+                            "author": "Lisa Zimmermann",
+                            "description": "High Resolution ImageDownload MS PowerPoint SlidePlastic products contain complex mixtures of extractable chemicals that can be toxic. However, humans and wildlife will only be exposed to plastic...",
+                            "publisher": "ACS Publications",
+                            "noreferrer": ".style0 {fill: #566471;} .style1 {fill: #A2CD3C;} .style2 {fill: #C54C59;} .style3 {fill: #5BC4BD;} figshare",
+                            "mainEntityOfPage": "https://pubs.acs.org/doi/10.1021/acs.est.1c01103",
+                            "headline": "Plastic Products Leach Chemicals That Induce In Vitro Toxicity under Realistic Use Conditions",
+                            "articleSection": "research-article"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "dc.publisher": "American Chemical Society",
+                            "og:image": "https://pubs.acs.org/cms/10.1021/acs.est.1c01103/asset/images/acs.est.1c01103.social.jpeg_v03",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "ACS Publications",
+                            "citation_journal_title": "Environmental Science & Technology",
+                            "dc.format": "text/HTML",
+                            "dc.rights": "\u00a9 2021 The Authors. Published by American Chemical Society",
+                            "og:description": "Plastic products contain complex mixtures of extractable chemicals that can be toxic. However, humans and wildlife will only be exposed to plastic chemicals that are released under realistic conditions. Thus, we investigated the toxicological and chemical profiles leaching into water from 24 everyday plastic products covering eight polymer types. We performed migration experiments over 10 days at 40 \u00b0C and analyzed the migrates using four in vitro bioassays and nontarget high-resolution mass spectrometry (UPLC-QTOF-MSE). All migrates induced baseline toxicity, 22 an oxidative stress response, 13 antiandrogenicity, and one estrogenicity. Overall, between 17 and 8681 relevant chemical features were present in the migrates. In other words, between 1 and 88% of the plastic chemicals associated with one product were migrating. Further, we tentatively identified \u223c8% of all detected features implying that most plastic chemicals remain unknown. While low-density polyethylene, polyvinyl chloride, and polyurethane i",
+                            "twitter:image": "https://pubs.acs.org/cms/10.1021/acs.est.1c01103/asset/images/acs.est.1c01103.social.jpeg_v03",
+                            "twitter:site": "@ACSPublications",
+                            "dc.type": "research-article",
+                            "dc.creator": "Lisa  Zimmermann",
+                            "publication_doi": "10.1021/acs.est.1c01103",
+                            "dc.description": "Plastic products contain complex mixtures of extractable chemicals that can be toxic. However, humans and wildlife will only be exposed to plastic chemicals that are released under realistic condit...",
+                            "og:type": "Article",
+                            "dc.coverage": "world",
+                            "og:title": "Plastic Products Leach Chemicals That Induce In Vitro Toxicity under Realistic Use Conditions",
+                            "pbcontext": ";page:string:Article/Chapter View;ctype:string:Journal Content;journal:journal:esthag;requestedJournal:journal:esthag;wgroup:string:ACHS website Group;website:website:acspubs;pageGroup:string:Publication Pages;article:article:10.1021/acs.est.1c01103;subPage:string:Full Text;issue:issue:10.1021/esthag.2021.55.issue-17",
+                            "dc.date": "August 17, 2021",
+                            "viewport": "width=device-width,initial-scale=1,maximum-scale=10, user-scalable=0",
+                            "dc.title": "Plastic Products Leach Chemicals That Induce In Vitro Toxicity under Realistic Use Conditions",
+                            "dc.subject": "food contact materials; polymers; additives; exposure; exposome; migration; bioassays; nontarget",
+                            "dc.identifier": "10.1021/acs.est.1c01103",
+                            "dc.language": "en",
+                            "og:url": "https://pubs.acs.org/doi/full/10.1021/acs.est.1c01103",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://pubs.acs.org/cms/10.1021/acs.est.1c01103/asset/images/acs.est.1c01103.social.jpeg_v03"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... your Mendeley account.\nLogin with ACS ID \nMENDELEY PAIRING EXPIREDReconnect\nYour Mendeley pairing has expired. Please reconnect\n*   \n*   \n*   \n*   \n]\n]\nPlastic Products Leach Chemicals That Induce _In Vitro_ Toxicity under Realistic Use Conditions\n*   Cite\n    *   \n    *   \n    *   \n    *   \n*   Share\n    Share on\n    *   Facebook\n    *   X (Twitter)\n    *   Wechat\n    *   LinkedIn\n    *   Reddit\n    *   Email\n*   Jump to\n*   ExpandCollapse\nBack to top\nEnviron. Sci. Technol.All Publications/Website\nOR SEARCH CITATIONS\nEnvironmental Science & TechnologyAccounts of Chemical ResearchAccounts of Materials ResearchACS Agricultural Science & TechnologyACS Applied Bio MaterialsACS Applied Electronic MaterialsACS Applied Energy MaterialsACS Applied Engineering MaterialsACS Applied Materials & InterfacesACS Applied Nano MaterialsACS Applied Optical MaterialsACS Applied Polymer MaterialsACS Bio & Med Chem AuACS Biomaterials Science & EngineeringACS CatalysisACS Central ScienceACS Chemical BiologyACS Chemical Health & SafetyACS Chemical NeuroscienceACS Combinatorial ScienceACS Earth and Space ChemistryACS ElectrochemistryACS Energy LettersACS Engineering AuACS Environmental AuACS ES&T AirACS ES&T EngineeringACS ES&T WaterACS Food Science & TechnologyACS Infectious DiseasesACS Macro LettersACS Materials AuACS Materials LettersACS Measurement Science AuACS Medicinal Chemistry LettersACS NanoACS Nanoscience AuACS OmegaACS Organic & Inorganic AuACS Pharmacology & Translational ScienceACS PhotonicsACS Physical Chemistry AuACS Polymers AuACS SensorsACS Sustainable Chemistry & EngineeringACS Sustainable Resource ManagementACS Synthetic BiologyAnalytical ChemistryArtificial PhotosynthesisBiochemistryBioconjugate ChemistryBiomacromoleculesBiotechnology ProgressC&EN Global EnterpriseChem & Bio EngineeringChemical & Biomedical ImagingChemical & Engineering News ArchiveChemical Health & SafetyChemical Health & SafetyChemical Research in ToxicologyChemical ReviewsChemistry of MaterialsCrystal Growth & DesignEnergy & FuelsEnvironment & HealthEnvironmental Science & Technology LettersI&EC Product Research and DevelopmentIndustrial & Engineering ChemistryIndustrial & Engineering Chemistry Analytical EditionIndustrial & Engineering Chemistry Chemical & Engineering Data SeriesIndustrial & Engineering Chemistry FundamentalsIndustrial & Engineering Chemistry Process Design and DevelopmentIndustrial & Engineering Chemistry Product Research and DevelopmentIndustrial & Engineering Chemistry ResearchIndustrial and Engineering Chemistry, News EditionInorganic ChemistryJACS AuJournal of the American Chemical SocietyJournal of Agricultural and Food ChemistryJournal of Chemical & Engineering DataJournal of Chemical DocumentationJournal of Chemical EducationJournal of Chemical Health & SafetyJournal of Chemical Information and Computer SciencesJournal of Chemical Information and ModelingJournal of Chemical Theory and ComputationJournal of Combinatorial ChemistryJournal of Industrial & Engineering ChemistryJournal of Medicinal and Pharmaceutical ChemistryJournal of Medicinal ChemistryJournal of Natural ProductsThe Journal of Organic ChemistryThe Journal of Physical ChemistryThe Journal of Physical ChemistryThe Journal of Physical Chemistry AThe Journal of Physical Chemistry BThe Journal of Physical Chemistry CThe Journal of Physical Chemistry LettersJournal of Proteome ResearchJournal of the American Society for Mass SpectrometryJournal of the American Society for Mass SpectrometryJournal of the American Society for Mass SpectrometryLangmuirMacromoleculesMolecular PharmaceuticsNano LettersNews Edition, American Chemical SocietyOrganic LettersOrganic Process Research...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "This site is operated by the American Chemical Society and provides quality peer-reviewed research in chemistry and adjacent fields. The articles are credible and can provide valuable insights regarding chemical safety and health risks. The score reflects its strong reputation, though access to some documents may also require a subscription."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2021-08-17"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This evidence discusses the toxic effects of chemicals released from plastic products under realistic use conditions. It provides a broader context regarding toxicity that can help evaluate the scientific validity of the claims about health risks but does not specifically focus on microwaving."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,700 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Analysis of rally attendance for Bernie Sanders",
+                "totalResults": "464000",
+                "searchTerms": "Analysis of rally attendance for Bernie Sanders",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Analysis of rally attendance for Bernie Sanders",
+                "totalResults": "464000",
+                "searchTerms": "Analysis of rally attendance for Bernie Sanders",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.33088,
+        "formattedSearchTime": "0.33",
+        "totalResults": "464000",
+        "formattedTotalResults": "464,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Campaign Mystery: Why Don't Bernie Sanders' Big Rallies Lead To ...",
+                "htmlTitle": "Campaign Mystery: Why Don&#39;t <b>Bernie Sanders</b>&#39; Big <b>Rallies</b> Lead To ...",
+                "link": "https://www.npr.org/2016/04/26/475681237/campaign-mystery-why-dont-bernie-sanders-big-rallies-lead-to-big-wins",
+                "displayLink": "www.npr.org",
+                "snippet": "Apr 26, 2016 ... If you only considered crowd size at rallies for Bernie Sanders and Hillary Clinton, you might wonder how Clinton has won so many big states.",
+                "htmlSnippet": "Apr 26, 2016 <b>...</b> If you only considered <b>crowd</b> size at <b>rallies</b> for <b>Bernie Sanders</b> and Hillary Clinton, you might wonder how Clinton has won so many big states.",
+                "formattedUrl": "https://www.npr.org/.../campaign-mystery-why-dont-bernie-sanders-big-ral...",
+                "htmlFormattedUrl": "https://www.npr.org/.../campaign-mystery-why-dont-<b>bernie</b>-<b>sanders</b>-big-ral...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0pqDA1pN-pbQXz3hMJZO-mldBRNriABOWvNUVfMNRJZbElhcv_QaUUY8C&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "speakablespecification": [
+                        {
+                            "cssselector": "[data-is-speakable]"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "date": "2016-04-26",
+                            "apple-itunes-app": "app-id=324906251, app-argument=https://www.npr.org/2016/04/26/475681237/campaign-mystery-why-dont-bernie-sanders-big-rallies-lead-to-big-wins",
+                            "og:image": "https://media.npr.org/assets/img/2016/04/26/gettyimages-520809910_wide-272dc35afb8860894c5fae6bc787d0f29201859e.jpg?s=1400&c=100&f=jpeg",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Campaign Mystery: Why Don't Bernie Sanders' Big Rallies Lead To Big Wins?",
+                            "og:site_name": "NPR",
+                            "cxenseparse:pageclass": "article",
+                            "twitter:domain": "npr.org",
+                            "cxenseparse:publishtime": "2016-04-26T05:01:00-04:00",
+                            "og:title": "Campaign Mystery: Why Don't Bernie Sanders' Big Rallies Lead To Big Wins?",
+                            "rating": "General",
+                            "og:description": "Bernie Sanders is drawing large, energetic crowds, but that hasn't translated into wins in large states. It turns out there is often a disconnect between big rallies and winning elections.",
+                            "fb:pages": "10643211755",
+                            "twitter:image:src": "https://media.npr.org/assets/img/2016/04/26/gettyimages-520809910_wide-272dc35afb8860894c5fae6bc787d0f29201859e.jpg?s=1400&c=100&f=jpeg",
+                            "fb:app_id": "138837436154588",
+                            "cxenseparse:author": "Tamara Keith",
+                            "twitter:site": "@NPR",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "article:content_tier": "free",
+                            "og:url": "https://www.npr.org/2016/04/26/475681237/campaign-mystery-why-dont-bernie-sanders-big-rallies-lead-to-big-wins",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.npr.org/assets/img/2016/04/26/gettyimages-520809910_wide-272dc35afb8860894c5fae6bc787d0f29201859e.jpg?s=1400&c=100&f=jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\n\n      Tamara Keith\n    \n\n\n                Vermont Sen. Bernie Sanders speaks at a campaign rally in Poughkeepsie, N.Y.\n                \n                    \n                    Kenneth Gabrielsen/Getty Images\n                    \n                \nhide caption\n\nVermont Sen. Bernie Sanders speaks at a campaign rally in Poughkeepsie, N.Y.\nIf you only considered crowd size at rallies for Bernie Sanders and Hillary Clinton, you might wonder how Clinton has won so many big states. Sanders draws massive, enthusiastic crowds, while Clinton's rallies often seem tiny and subdued by comparison.\nMonday night, the eve of five East Coast primaries taking place today, Sanders spoke to an overflow crowd — 3,200 people in total — at Drexel University in Philadelphia. His audience was more than double the crowd that showed up to hear Hillary Clinton speak at Philadelphia's city hall.\nOn Sunday, 14,000 were there for Sanders in New Haven, Conn.\n6,600 in Baltimore, Md., on Saturday.\nAnd 27,000 people came to hear Sanders in Manhattan's Washington Square Park a week before New York's crucial primary.\nBut Sanders went on to lose that state by 16 points. His big crowds haven't translated into the kind of wins needed to lock down the nomination. Why?\nThe Enthusiasm Gap May Be An Optical Illusion\nSince last summer, when Sanders' huge rallies got him noticed by the national media, there's been a lot of discussion of an \"enthusiasm gap\" between Sanders and Clinton.\nBut in a recent Gallup poll, it was Clinton, not Sanders, who...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "People flock to rallies for Donald Trump and Bernie Sanders. Does it ...",
+                "htmlTitle": "People flock to <b>rallies</b> for Donald Trump and <b>Bernie Sanders</b>. Does it ...",
+                "link": "https://www.washingtonpost.com/news/monkey-cage/wp/2016/01/13/people-flock-to-rallies-for-donald-trump-and-bernie-sanders-does-it-mean-anything/",
+                "displayLink": "www.washingtonpost.com",
+                "snippet": "Jan 13, 2016 ... Several months ago, the New York Times' David Leonhardt suggested that the geeks had beaten the pundits when it comes to campaign analysis, ...",
+                "htmlSnippet": "Jan 13, 2016 <b>...</b> Several months ago, the New York Times&#39; David Leonhardt suggested that the geeks had beaten the pundits when it comes to campaign <b>analysis</b>,&nbsp;...",
+                "formattedUrl": "https://www.washingtonpost.com/.../people-flock-to-rallies-for-donald-trum...",
+                "htmlFormattedUrl": "https://www.washingtonpost.com/.../people-flock-to-rallies-for-donald-trum...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQms2obLv7gjcZAw39nG6q7l7ZNsxtxBNvu-0jQwumdViZ5vSuVsz6TqmU&s",
+                            "width": "247",
+                            "height": "204"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter_description": "There's a key difference between attending a rally and voting.",
+                            "article_modified_time": "2021-12-07T21:14:02.770Z",
+                            "og:image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/blogs/monkey-cage/files/2016/01/trumprally.jpg&w=1440",
+                            "apple-itunes-app": "app-id=352509417, app-argument=https://www.washingtonpost.com/news/monkey-cage/wp/2016/01/13/people-flock-to-rallies-for-donald-trump-and-bernie-sanders-does-it-mean-anything/?sourceApp=apple-banner",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2016-01-13T17:00:46.000Z",
+                            "og:site_name": "Washington Post",
+                            "og_title": "People flock to rallies for Donald Trump and Bernie Sanders. Does it mean anything?",
+                            "og_type": "article",
+                            "og_url": "https://www.washingtonpost.com/news/monkey-cage/wp/2016/01/13/people-flock-to-rallies-for-donald-trump-and-bernie-sanders-does-it-mean-anything/",
+                            "og:description": "There's a key difference between attending a rally and voting.",
+                            "article_published_time": "2016-01-13T17:00:46.000Z",
+                            "next-head-count": "84",
+                            "article_section": "Monkey Cage",
+                            "twitter:site": "@WashingtonPost",
+                            "article:modified_time": "2021-12-07T21:14:02.770Z",
+                            "twitter_site": "@WashingtonPost",
+                            "og_description": "There's a key difference between attending a rally and voting.",
+                            "article:content_tier": "metered",
+                            "twitter_title": "People flock to rallies for Donald Trump and Bernie Sanders. Does it mean anything?",
+                            "last_updated_date": "2021-12-07T21:14:02.770Z",
+                            "og:type": "article",
+                            "twitter:title": "People flock to rallies for Donald Trump and Bernie Sanders. Does it mean anything?",
+                            "article:section": "Monkey Cage",
+                            "og_site_name": "Washington Post",
+                            "twitter_card": "summary_large_image",
+                            "og:title": "People flock to rallies for Donald Trump and Bernie Sanders. Does it mean anything?",
+                            "og_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/blogs/monkey-cage/files/2016/01/trumprally.jpg&w=1440",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "There's a key difference between attending a rally and voting.",
+                            "article_content_tier": "metered",
+                            "og:url": "https://www.washingtonpost.com/news/monkey-cage/wp/2016/01/13/people-flock-to-rallies-for-donald-trump-and-bernie-sanders-does-it-mean-anything/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/blogs/monkey-cage/files/2016/01/trumprally.jpg&w=1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "clockThis article was published more than 8 years ago\nSeveral months ago, the New York Times’ David Leonhardt suggested that the geeks had beaten the pundits when it comes to campaign analysis, saying that “data-wielding political analysts have trounced the pundits who judge campaign based on crowd size and vague notions of momentum.”\nI was skeptical, and the subsequent months have born out the skepticism in one sense: Commentators are still judging campaigns based on the size of the crowds — and especially the crowds who want to see Donald Trump and Bernie Sanders. I think that’s not really a controversial claim, but here are some links if you need them.\nThe big question, obviously, is whether success at attracting big crowds actually predicts success in primaries and caucuses. One argument goes something like: “Wow, if people are willing to stand in line out in the cold for hours to see the candidate speak, then surely they are willing to spend the time and effort to show up and vote.”\nThat may seem plausible on its face, but I’m going to inject a note of caution. It goes like this: If you want to see Trump or Sanders speak, you have to go to the rally. But if you want to see Trump or Sanders win, you do not have to vote.\nHere’s what I mean. The benefits you might get from a rally — a chance to express your passion for a candidate, be inspired or entertained by their speech, enjoy the company of other supporters — depend on going to the rally. If you don’t go, at...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Bernie Sanders rallies Reading, Pa. crowd against GOP tax bill ...",
+                "htmlTitle": "<b>Bernie Sanders rallies</b> Reading, Pa. <b>crowd</b> against GOP tax bill ...",
+                "link": "https://whyy.org/articles/bernie-sanders-rallies-reading-pa-crowd-gop-tax-bill/",
+                "displayLink": "whyy.org",
+                "snippet": "Dec 4, 2017 ... In a scene straight out of 2016, former presidential candidate Bernie Sanders addressed more than 1,000 people at a rally in Reading, Pa.",
+                "htmlSnippet": "Dec 4, 2017 <b>...</b> In a scene straight out of 2016, former presidential candidate <b>Bernie Sanders</b> addressed more than 1,000 people at a <b>rally</b> in Reading, Pa.",
+                "formattedUrl": "https://whyy.org/.../bernie-sanders-rallies-reading-pa-crowd-gop-tax-bill/",
+                "htmlFormattedUrl": "https://whyy.org/.../<b>bernie</b>-<b>sanders</b>-rallies-reading-pa-crowd-gop-tax-bill/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_WEA_lwxOi5HEWPUTKrIzcc-g5YugqMIgNK9UpMCXw-oY0RSCiStHqi8&s",
+                            "width": "301",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://whyy.org/wp-content/uploads/2017/12/Eastwood20171203Bernie00016.jpg",
+                            "og:type": "article",
+                            "og:image:width": "3000",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Bernie Sanders rallies Reading, Pa. crowd against GOP tax bill",
+                            "og:site_name": "WHYY",
+                            "wp-parsely_version": "1.13.0",
+                            "og:title": "Bernie Sanders rallies Reading, Pa. crowd against GOP tax bill",
+                            "og:image:height": "2002",
+                            "og:description": "The U.S. Senator from Vermont and former presidential candidate said the bill, which passed the Senate over the weekend, was a blow to lower- and middle-class families.",
+                            "og:image:secure_url": "https://whyy.org/wp-content/uploads/2017/12/Eastwood20171203Bernie00016.jpg",
+                            "twitter:image": "https://whyy.org/wp-content/uploads/2017/12/Eastwood20171203Bernie00016.jpg",
+                            "article:tag": "Bernie Sanders",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The U.S. Senator from Vermont and former presidential candidate said the bill, which passed the Senate over the weekend, was a blow to lower- and middle-class families.",
+                            "og:locale": "en_US",
+                            "og:url": "https://whyy.org/articles/bernie-sanders-rallies-reading-pa-crowd-gop-tax-bill/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://whyy.org/wp-content/uploads/2017/12/Eastwood20171203Bernie00009-807x450.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Go behind the headlines: From the economy and healthcare to politics and the environment - and so much more - On Point talks with newsmakers and real people about the issues that matter most. On Point is produced by WBUR for NPR.\nThe U.S. Senator from Vermont and former presidential candidate said the bill, which passed the Senate over the weekend, was a blow to lower- and middle-class families.\nSupporters wait for Vermont Senator Bernie Sanders to take the stage at the Protecting Working Families Rally on December 3 in Reading, Pa. (Branden Eastwood for WHYY)\nChris Percy of MoveOn.org greets Our Revolution president and Bernie Sanders’ surrogate Nina Turner at the Protecting Working Families Rally on December 3 in Reading, Pa. (Branden Eastwood for WHYY)\nNina Turner and Bernie Sanders embrace at the Protecting Working Families Rally on December 3 in Reading, Pa. (Branden Eastwood for WHYY)\nBernie Sanders speaks at the Protecting Working Families Rally on December 3 in Reading, Pa. (Branden Eastwood for WHYY)\nBernie Sanders speaks at the Protecting Working Families Rally on December 3 in Reading, Pa. (Branden Eastwood for WHYY)\nIn a scene straight out of 2016, former presidential candidate Bernie Sanders addressed more than 1,000 people at a rally in Reading, Pa. Sunday afternoon.\nBut the issues were all current as the U.S. Senator from Vermont decried the GOP’s tax overhaul plan, which narrowly passed the Senate early Saturday morning.\n“Why in God’s name would anybody support legislation that provides 62 percent of the benefits to the top one percent? That is a question you might want to ask Senator Toomey, one of the leading advocates,” he said to jeers from the crowd.\nSanders described an alliance with Pennsylvania’s Democratic U.S. Sen. Bob Casey in rejecting the bill, which was supported by the state’s Republican U.S. Sen. Pat Toomey who called it a win for American families and businesses.\n  \n\n\n\n\n\n\n\n\n\n\nWHYY thanks our sponsors — become a WHYY sponsor\n\n\n\nThe bill permanently cuts the corporate tax rate from 35 percent to 20 percent, and lowers the tax rates for people of various incomes until 2025.  It also doubles the standard deduction for taxpayers who don’t itemize.\nSanders chose to hold the event in Berks County...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "100,000 people have come to recent Bernie Sanders rallies. How ...",
+                "htmlTitle": "100,000 people have come to recent <b>Bernie Sanders rallies</b>. How ...",
+                "link": "https://www.washingtonpost.com/politics/how-does-bernie-sanders-draw-huge-crowds-to-see-him/2015/08/11/4ae018f8-3fde-11e5-8d45-d815146f81fa_story.html",
+                "displayLink": "www.washingtonpost.com",
+                "snippet": "Aug 11, 2015 ... That event drew an estimated 27,500 people — about five times as large as any crowd that has turned out for Democratic front-runner Hillary ...",
+                "htmlSnippet": "Aug 11, 2015 <b>...</b> That event drew an estimated 27,500 people — about five times as large as any <b>crowd</b> that has turned out for Democratic front-runner Hillary&nbsp;...",
+                "formattedUrl": "https://www.washingtonpost.com/...bernie-sanders.../4ae018f8-3fde-11e5-8...",
+                "htmlFormattedUrl": "https://www.washingtonpost.com/...<b>bernie</b>-<b>sanders</b>.../4ae018f8-3fde-11e5-8...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg3bau7BKqlYna3tlfe76RL-xY2pYoyQyP7QvpLimvSxuaWrKZf299KC32&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter_description": "The senator from Vermont has become the biggest draw of the 2016 presidential campaign.",
+                            "article_modified_time": "2023-04-10T08:39:04.756Z",
+                            "og:image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BBAEO6R73YI6LMWEV5GGDA5YWQ&w=1440",
+                            "apple-itunes-app": "app-id=352509417, app-argument=https://www.washingtonpost.com/politics/how-does-bernie-sanders-draw-huge-crowds-to-see-him/2015/08/11/4ae018f8-3fde-11e5-8d45-d815146f81fa_story.html?sourceApp=apple-banner",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2015-08-11T05:27:00.000Z",
+                            "og:site_name": "Washington Post",
+                            "og_title": "100,000 people have come to recent Bernie Sanders rallies. How does he do it?",
+                            "og_type": "article",
+                            "og_url": "https://www.washingtonpost.com/politics/how-does-bernie-sanders-draw-huge-crowds-to-see-him/2015/08/11/4ae018f8-3fde-11e5-8d45-d815146f81fa_story.html",
+                            "og:description": "The senator from Vermont has become the biggest draw of the 2016 presidential campaign.",
+                            "article_published_time": "2015-08-11T05:27:00.000Z",
+                            "next-head-count": "83",
+                            "article_section": "Politics",
+                            "twitter:site": "@WashingtonPost",
+                            "article:modified_time": "2023-04-10T08:39:04.756Z",
+                            "twitter_site": "@WashingtonPost",
+                            "og_description": "The senator from Vermont has become the biggest draw of the 2016 presidential campaign.",
+                            "article:content_tier": "metered",
+                            "twitter_title": "100,000 people have come to recent Bernie Sanders rallies. How does he do it?",
+                            "last_updated_date": "2023-04-10T08:39:04.756Z",
+                            "og:type": "article",
+                            "twitter:title": "100,000 people have come to recent Bernie Sanders rallies. How does he do it?",
+                            "article:section": "Politics",
+                            "og_site_name": "Washington Post",
+                            "twitter_card": "summary_large_image",
+                            "og:title": "100,000 people have come to recent Bernie Sanders rallies. How does he do it?",
+                            "og_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BBAEO6R73YI6LMWEV5GGDA5YWQ&w=1440",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The senator from Vermont has become the biggest draw of the 2016 presidential campaign.",
+                            "article_content_tier": "metered",
+                            "og:url": "https://www.washingtonpost.com/politics/how-does-bernie-sanders-draw-huge-crowds-to-see-him/2015/08/11/4ae018f8-3fde-11e5-8d45-d815146f81fa_story.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BBAEO6R73YI6LMWEV5GGDA5YWQ&w=1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "clockThis article was published more than 8 years ago\nLOS ANGELES — The overflow crowds showing up to hear Bernie Sanders these days are a testament not only to his current popularity and the campaign's social-media savvy but also to the promotional abilities of an alchemy of like-minded interests: progressive activists, labor unions and even Sarah Silverman.\nThe comedian took to Twitter to let her nearly 6.7 million followers know she would be at a rally for the Democratic presidential hopeful here Monday. That event drew an estimated 27,500 people — about five times as large as any crowd that has turned out for Democratic front-runner Hillary Rodham Clinton.\n“Bernie always seems to be on the right side of history,” Silverman told the boisterous audience at the Los Angeles Memorial Sports Arena, noting that the 73-year-old was a civil rights activist in the 1960s, supported gay rights in the 1980s and strongly opposed the Iraq war before most other Americans.\nTo his old socialist allies, Sanders has sold out\nAll told, Sanders has attracted more than 100,000 people to his rallies in recent weeks, riding a wave of Facebook shares, retweets and old-fashioned word-of-mouth to become by far the biggest draw on the campaign trail.\nSuch turnout is no guarantee that Sanders will perform well in the crucial early-nominating states — fellow Vermonter Howard Dean preached to similarly large and frenzied audiences in mostly liberal enclaves in 2003, only to collapse as the Iowa caucuses approached.\nBut it is drawing energy and attention away from Clinton — whose aides peg her largest crowd to date at 5,500 — and exposing a lack of enthusiasm for her candidacy among some facets of the Democratic Party. And it is creating a network of small-scale donors and volunteers that could provide Sanders with the...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "We fact checked an entire Bernie Sanders speech. Here's what we ...",
+                "htmlTitle": "We fact checked an entire <b>Bernie Sanders</b> speech. Here&#39;s what we ...",
+                "link": "https://www.cnn.com/2020/02/28/politics/fact-check-bernie-sanders-houston-rally/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Feb 28, 2020 ... We regularly fact check President Donald Trump's rally speeches from start to finish. When Democratic presidential candidate Bernie Sanders ...",
+                "htmlSnippet": "Feb 28, 2020 <b>...</b> We regularly fact check President Donald Trump&#39;s <b>rally</b> speeches from start to finish. When Democratic presidential candidate <b>Bernie Sanders</b>&nbsp;...",
+                "formattedUrl": "https://www.cnn.com/2020/02/28/.../fact...bernie-sanders...rally/index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/2020/02/28/.../fact...<b>bernie</b>-<b>sanders</b>...<b>rally</b>/index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjvu1a_H5k7WCxl78jzinLMeK2xSQAOyxXPcqv5MYd7tlZ4oUPnbHEGgc&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/200224003459-bernie-sanders-houston-texas-0223.jpg?q=x_48,y_3,h_1622,w_2882,c_crop/w_800",
+                            "twitter:title": "We fact checked an entire Bernie Sanders speech. Here’s what we found | CNN Politics",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2020-02-28T18:40:18Z",
+                            "og:site_name": "CNN",
+                            "author": "Daniel Dale,Holmes Lybrand",
+                            "og:title": "We fact checked an entire Bernie Sanders speech. Here’s what we found | CNN Politics",
+                            "meta-section": "politics",
+                            "type": "article",
+                            "og:description": "We regularly fact check President Donald Trump’s rally speeches from start to finish. When Democratic presidential candidate Bernie Sanders cemented himself as the front-runner for the party nomination with his victory in Saturday’s Nevada caucuses, we decided to give one of his rally speeches the same treatment.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/200224003459-bernie-sanders-houston-texas-0223.jpg?q=x_48,y_3,h_1622,w_2882,c_crop/w_800",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "article:tag": "american health care act, asia, bankruptcy, bernie sanders, business and industry sectors, business financial trouble, business, economy and trade, china, climate change, company activities and management, compensation and benefits, continents and regions, corrections system, crime, law enforcement and corrections, demographic groups, donald trump, drug prices, east asia, energy and environment, energy and utilities, environment and natural resources, environmental regulation and policy, financial performance and reports, government and public administration, government organizations - intl, health and medical, health care, health care costs, health care policy and law, health care reform, health insurance, immigration, immigration, citizenship and displacement, insurance, international relations and national security, labor and employment, law and legal system, north america, pharmaceutical industry, pharmaceuticals, political figures - us, political platforms and issues, politics, population and demographic",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@cnnpolitics",
+                            "article:modified_time": "2020-02-29T03:25:47Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "We regularly fact check President Donald Trump’s rally speeches from start to finish. When Democratic presidential candidate Bernie Sanders cemented himself as the front-runner for the party nomination with his victory in Saturday’s Nevada caucuses, we decided to give one of his rally speeches the same treatment.",
+                            "template_type": "article_leaf",
+                            "meta-branding": "facts-first",
+                            "theme": "politics",
+                            "og:url": "https://www.cnn.com/2020/02/28/politics/fact-check-bernie-sanders-houston-rally/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/200224003459-bernie-sanders-houston-texas-0223.jpg?q=x_48,y_3,h_1622,w_2882,c_crop/w_800"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\n            We regularly fact check President Donald Trump’s rally speeches from start to finish. When Democratic presidential candidate Bernie Sanders cemented himself as the front-runner for the party nomination with his victory in Saturday’s Nevada caucuses, we decided to give one of his rally speeches the same treatment.\n    \n\n            We chose a 47-minute speech the Vermont senator made at the University of Houston the day after the caucuses. We looked into 27 checkable assertions of fact. \n    \n\n            The result: three claims were false, six claims we couldn’t render a verdict on because an exact figure is not publicly known and 18 claims were true or mostly true. \n    \n\nAt CNN, we start with the facts. Visit CNN’s home for Facts First.\n\n\n            Of the three false claims, one was a data error made by a think tank and not disclosed to the Sanders campaign until after he gave this speech. Another was an exaggeration about health care Sanders has repeated for more than a decade even as fact checkers have repeatedly debunked it. The third, about Trump’s 2017 tax law, was an inaccurate description of a legitimate figure in a study. \n    \n\n            Sanders made far fewer false claims than Trump tends to make at rallies. The President has averaged 20.6 false claims per rally over the ...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Bernie Sanders Says He'll Attract a Wave of New Voters. It Hasn't ...",
+                "htmlTitle": "<b>Bernie Sanders</b> Says He&#39;ll Attract a Wave of New Voters. It Hasn&#39;t ...",
+                "link": "https://www.nytimes.com/2020/02/24/us/politics/bernie-sanders-democratic-voters.html",
+                "displayLink": "www.nytimes.com",
+                "snippet": "Feb 24, 2020 ... Bernie Sanders has so far prevailed by expanding his appeal among traditional Democratic voters, not by driving record turnout.",
+                "htmlSnippet": "Feb 24, 2020 <b>...</b> <b>Bernie Sanders</b> has so far prevailed by expanding his appeal among traditional Democratic voters, not by driving record <b>turnout</b>.",
+                "formattedUrl": "https://www.nytimes.com/2020/02/.../bernie-sanders-democratic-voters.htm...",
+                "htmlFormattedUrl": "https://www.nytimes.com/2020/02/.../<b>bernie</b>-<b>sanders</b>-democratic-voters.htm...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3CxJWPuBXmtUDa2KM-ROZjgO8BpuZ0ih1aTdQ3Uz_2ae5XwcwsEk7dTo&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static01.nyt.com/images/2020/02/24/us/politics/24sanders-base-top/24sanders-base-top-facebookJumbo.jpg?year=2020&h=550&w=1050&s=4799a09393aeec0f839f88e1ca3f5a6aaff2a0e8707e34b34aceb529bad2cf77&k=ZQJBKqZ0VN",
+                            "nyt_uri": "nyt://article/d96e1fc3-7d95-5a2a-814a-f4ef00aab866",
+                            "twitter:app:id:googleplay": "com.nytimes.android",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2020-02-24T23:47:48.000Z",
+                            "pt": "article",
+                            "twitter:url": "https://www.nytimes.com/2020/02/24/us/politics/bernie-sanders-democratic-voters.html",
+                            "pdate": "20200224",
+                            "articleid": "100000006991696",
+                            "al:android:package": "com.nytimes.android",
+                            "al:ipad:app_store_id": "357066198",
+                            "twitter:app:name:googleplay": "NYTimes",
+                            "og:description": "Bernie Sanders has so far prevailed by expanding his appeal among traditional Democratic voters, not by driving record turnout.",
+                            "twitter:image": "https://static01.nyt.com/images/2020/02/24/us/politics/24sanders-base-top/24sanders-base-top-videoSixteenByNine3000.jpg?year=2020&h=1688&w=3000&s=6608edfc98e87a0e477269c1cd5ba8f00dfce649b623a0e625c6202212c94e18&k=ZQJBKqZ0VN&tw=1",
+                            "pst": "News",
+                            "twitter:image:alt": "Senator Bernie Sanders at a “Get Out the Early Vote” rally at the University of Nevada in Las Vegas this month.",
+                            "al:iphone:app_name": "NYTimes",
+                            "article:modified_time": "2020-02-24T23:52:07.000Z",
+                            "news_keywords": "2020 Election,2016 Presidential Election,Primaries,Midterm Elections 2018,Bernard Sanders;Bernie Sanders,Nevada,Iowa,New Hampshire",
+                            "scg": "politics",
+                            "article:content_tier": "metered",
+                            "msapplication-starturl": "https://www.nytimes.com",
+                            "image": "https://static01.nyt.com/images/2020/02/24/us/politics/24sanders-base-top/24sanders-base-top-facebookJumbo.jpg?year=2020&h=550&w=1050&s=4799a09393aeec0f839f88e1ca3f5a6aaff2a0e8707e34b34aceb529bad2cf77&k=ZQJBKqZ0VN",
+                            "og:type": "article",
+                            "og:image:alt": "Senator Bernie Sanders at a “Get Out the Early Vote” rally at the University of Nevada in Las Vegas this month.",
+                            "twitter:title": "Sanders Says He’ll Attract a Wave of New Voters. It Hasn’t Happened. (Published 2020)",
+                            "article:section": "U.S.",
+                            "cg": "us",
+                            "pubp_event_id": "pubp://event/c78609345bb24919a1ab2cea3bda2696",
+                            "og:title": "Sanders Says He’ll Attract a Wave of New Voters. It Hasn’t Happened. (Published 2020)",
+                            "url": "https://www.nytimes.com/2020/02/24/us/politics/bernie-sanders-democratic-voters.html",
+                            "article:tag": "Presidential Election of 2020",
+                            "al:iphone:url": "nytimes://www.nytimes.com/2020/02/24/us/politics/bernie-sanders-democratic-voters.html",
+                            "al:android:url": "nyt://article/d96e1fc3-7d95-5a2a-814a-f4ef00aab866",
+                            "twitter:app:url:googleplay": "nyt://article/d96e1fc3-7d95-5a2a-814a-f4ef00aab866",
+                            "al:ipad:url": "nytimes://www.nytimes.com/2020/02/24/us/politics/bernie-sanders-democratic-voters.html",
+                            "byl": "By Sydney Ember and Nate Cohn",
+                            "twitter:description": "Bernie Sanders has so far prevailed by expanding his appeal among traditional Democratic voters, not by driving record turnout.",
+                            "al:iphone:app_store_id": "284862083",
+                            "al:ipad:app_name": "NYTimes",
+                            "og:url": "https://www.nytimes.com/2020/02/24/us/politics/bernie-sanders-democratic-voters.html",
+                            "al:android:app_name": "NYTimes",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static01.nyt.com/images/2020/02/24/us/politics/24sanders-base-top/24sanders-base-top-facebookJumbo.jpg?year=2020&h=550&w=1050&s=4799a09393aeec0f839f88e1ca3f5a6aaff2a0e8707e34b34aceb529bad2cf77&k=ZQJBKqZ0VN"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Advertisement\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\nBernie Sanders has so far prevailed by expanding his appeal among traditional Democratic voters, not by driving record turnout.\n!\nSenator Bernie Sanders at a “Get Out the Early Vote” rally at the University of Nevada in Las Vegas this month.Credit...Bridget Bennett for The New York Times\nCHARLESTON, S.C. — It is the most politically provocative part of Senator Bernie Sanders’s campaign pitch: that his progressive movement will bring millions of nonvoters into the November election, driving record turnout especially among disaffected working-class Americans and young people.\nAnd yet despite a virtual tie in Iowa, a narrow victory in New Hampshire and a big triumph in Nevada, the first three nominating contests reveal a fundamental challenge for Mr. Sanders’s political revolution: He may be winning, but not because of his longstanding pledge to expand the Democratic base.\nThe results so far show that Mr. Sanders has prevailed by broadening his appeal among traditional Democratic voters, not by fundamentally transforming the electorate.\nIn Iowa, for instance, turnout for the caucuses was lower than expected, up 3 percent compared with 2016, and the increase was concentrated in more well-educated areas where Mr. Sanders struggled, according to a New York Times analysis; in the Iowa precincts where Mr. Sanders won, turnout increased by only 1 percentage point.\nThere was no sign of...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Bernie Sanders 2016: How his campaign has turned grassroots ...",
+                "htmlTitle": "<b>Bernie Sanders</b> 2016: How his campaign has turned grassroots ...",
+                "link": "https://www.politico.com/story/2015/08/bernie-sanders-rallies-2016-grassroots-support-121512",
+                "displayLink": "www.politico.com",
+                "snippet": "Aug 19, 2015 ... Bernie's campaign has been channeling grassroots enthusiasm into massive rallies. Now, it's working to whip all those supporters into a ...",
+                "htmlSnippet": "Aug 19, 2015 <b>...</b> <b>Bernie&#39;s</b> campaign has been channeling grassroots enthusiasm into massive <b>rallies</b>. Now, it&#39;s working to whip all those supporters into a&nbsp;...",
+                "formattedUrl": "https://www.politico.com/.../bernie-sanders-rallies-2016-grassroots-support-...",
+                "htmlFormattedUrl": "https://www.politico.com/.../<b>bernie</b>-<b>sanders</b>-rallies-2016-grassroots-support-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWbA31IN1p2EtDCXS3SvttIG8prTMjopiaYXpIrnUmqCwe8vzZYr_58oeY&s",
+                            "width": "305",
+                            "height": "165"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "http://s3-origin-images.politico.com/2015/08/19/150818_bernie_sanders_rally_ap_11601.jpg",
+                            "brightspot.cached": "false",
+                            "theme-color": "#D71920",
+                            "og:type": "article",
+                            "twitter:title": "How Bernie Sanders makes his mega-rallies",
+                            "twitter:card": "summary_large_image",
+                            "og:fb_appid": "114037015331397",
+                            "og:site_name": "POLITICO",
+                            "og:title": "How Bernie Sanders makes his mega-rallies",
+                            "msapplication-tileimage": "/mstile-144x144.png",
+                            "og:description": "Bernie’s campaign has been channeling grassroots enthusiasm into massive rallies. Now, it’s working to whip all those supporters into a sophisticated political machine.",
+                            "fb:pages": "62317591679",
+                            "twitter:creator": "@politico",
+                            "twitter:image": "https://www.politico.com/dims4/default/0994366/2147483647/legacy_thumbnail/1200x800%3E/quality/90/?url=http%3A%2F%2Fs3-origin-images.politico.com%2F2015%2F08%2F19%2F150818_bernie_sanders_rally_ap_11601.jpg",
+                            "twitter:site": "@politico",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "build": "1.0.0-SNAPSHOT",
+                            "twitter:description": "Bernie’s campaign has been channeling grassroots enthusiasm into massive rallies. Now, it’s working to whip all those supporters into a sophisticated political machine.",
+                            "brightspot.contentid": "0000014f-7073-d5d4-abcf-f3fbf90b0000",
+                            "host": "www.politico.com",
+                            "og:url": "https://www.politico.com/story/2015/08/bernie-sanders-rallies-2016-grassroots-support-121512"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "http://s3-origin-images.politico.com/2015/08/19/150818_bernie_sanders_rally_ap_11601.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.politico.com/story/2015/08/bernie-sanders-rallies-2016-grassroots-support-121512: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.politico.com/story/2015/08/bernie-sanders-rallies-2016-grassroots-support-121512",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Bernie Sanders Condemns Corporate Greed at U.A.W. Detroit Rally ...",
+                "htmlTitle": "<b>Bernie Sanders</b> Condemns Corporate Greed at U.A.W. Detroit <b>Rally</b> ...",
+                "link": "https://www.nytimes.com/2023/09/15/business/economy/bernie-sanders-uaw-detroit-rally.html",
+                "displayLink": "www.nytimes.com",
+                "snippet": "Sep 15, 2023 ... A dozen television cameras were jammed together on another small, raised platform to record the event. As the crowd awaited the first speakers, ...",
+                "htmlSnippet": "Sep 15, 2023 <b>...</b> A dozen television cameras were jammed together on another small, raised platform to record the event. As the <b>crowd</b> awaited the first speakers,&nbsp;...",
+                "formattedUrl": "https://www.nytimes.com/2023/09/.../bernie-sanders-uaw-detroit-rally.html",
+                "htmlFormattedUrl": "https://www.nytimes.com/2023/09/.../<b>bernie</b>-<b>sanders</b>-uaw-detroit-<b>rally</b>.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeloqGpnphd0bALWrl9hhK6mb5Y74nMd8jsSWFDrYspabO93u6x_8Zs0E&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static01.nyt.com/images/2023/09/16/multimedia/16uaw-bernie-bzgq/16uaw-bernie-bzgq-facebookJumbo.jpg",
+                            "nyt_uri": "nyt://article/91ac7a7f-35b0-5bd5-afc6-6d6f2c93b1dd",
+                            "twitter:app:id:googleplay": "com.nytimes.android",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-09-15T22:26:41.000Z",
+                            "pt": "article",
+                            "twitter:url": "https://www.nytimes.com/2023/09/15/business/economy/bernie-sanders-uaw-detroit-rally.html",
+                            "pdate": "20230915",
+                            "articleid": "100000009089725",
+                            "al:android:package": "com.nytimes.android",
+                            "twitter:app:name:googleplay": "NYTimes",
+                            "og:description": "The senator from Vermont spoke of the growing gap between C.E.O. and worker pay, urging the leaders of the Big Three automakers to understand “the sacrifices your workers have made over the years.”",
+                            "twitter:image": "https://static01.nyt.com/images/2023/09/16/multimedia/16uaw-bernie-bzgq/16uaw-bernie-bzgq-videoSixteenByNine3000.jpg",
+                            "pst": "News",
+                            "twitter:image:alt": "Senator Bernie Sanders of Vermont speaking to United Auto Workers members at a rally along the Detroit riverfront, near General Motors headquarters, on Friday.",
+                            "al:iphone:app_name": "NYTimes",
+                            "article:modified_time": "2023-09-15T23:57:24.882Z",
+                            "news_keywords": "Bernard Sanders;Bernie Sanders,UAW,Ford Motor,GM,Stellantis,Strikes Labor,Detroit",
+                            "scg": "economy",
+                            "article:content_tier": "metered",
+                            "msapplication-starturl": "https://www.nytimes.com",
+                            "image": "https://static01.nyt.com/images/2023/09/16/multimedia/16uaw-bernie-bzgq/16uaw-bernie-bzgq-facebookJumbo.jpg",
+                            "og:type": "article",
+                            "og:image:alt": "Senator Bernie Sanders of Vermont speaking to United Auto Workers members at a rally along the Detroit riverfront, near General Motors headquarters, on Friday.",
+                            "twitter:title": "At a Detroit rally, Bernie Sanders cheers on striking workers and condemns ‘corporate greed.’",
+                            "article:section": "Business",
+                            "cg": "business",
+                            "pubp_event_id": "pubp://event/67837ab0442c47738602798f8c476301",
+                            "og:title": "At a Detroit rally, Bernie Sanders cheers on striking workers and condemns ‘corporate greed.’",
+                            "cn": "live-blog-20230915-united-auto-workers-strike",
+                            "article:author": "https://www.nytimes.com/by/santul-nerkar",
+                            "url": "https://www.nytimes.com/2023/09/15/business/economy/bernie-sanders-uaw-detroit-rally.html",
+                            "article:tag": "Sanders, Bernard",
+                            "al:iphone:url": "nytimes://www.nytimes.com/2023/09/15/business/economy/bernie-sanders-uaw-detroit-rally.html",
+                            "al:android:url": "nyt://article/91ac7a7f-35b0-5bd5-afc6-6d6f2c93b1dd",
+                            "ct": "spotlight",
+                            "twitter:app:url:googleplay": "nyt://article/91ac7a7f-35b0-5bd5-afc6-6d6f2c93b1dd",
+                            "byl": "By Santul Nerkar and Neal E. Boudette",
+                            "twitter:description": "The senator from Vermont spoke of the growing gap between C.E.O. and worker pay, urging the leaders of the Big Three automakers to understand “the sacrifices your workers have made over the years.”",
+                            "al:iphone:app_store_id": "284862083",
+                            "og:url": "https://www.nytimes.com/2023/09/15/business/economy/bernie-sanders-uaw-detroit-rally.html",
+                            "al:android:app_name": "NYTimes",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static01.nyt.com/images/2023/09/16/multimedia/16uaw-bernie-bzgq/16uaw-bernie-bzgq-facebookJumbo.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... York Times\n*   Sept. 15, 2023\nAt a rally in downtown Detroit on Friday, just a couple of hundred yards from the headquarters of General Motors, Senator Bernie Sanders of Vermont addressed a cheering crowd of United Auto Workers members, capping a day of walkouts by the union with an effort to rally support for the strike.\nMr. Sanders echoed the populist talking points of his campaigns for president in 2016 and 2020, speaking about income inequality in the United States, and he criticized the chief executives of the Big Three automakers — G.M., Stellantis and Ford Motor — for their compensation.\n“The fight you are waging here is not just about decent wages and working conditions and pensions in the auto industry,” Mr. Sanders said. “It’s a fight to take on corporate greed and tell the people on top the country belongs to all of us, not just the few.”\nThe rally took place along Detroit’s riverfront, near the city’s iconic Renaissance Center towers, home to G.M. headquarters. Also nearby is the Huntington Place convention center, where auto executives were gathering for a black-tie charity ball to kick off the 2023 Detroit auto show.\nSeveral hundred U.A.W. members, most of them clad in labor’s red shirts and waving picket signs, crowded in front of the rally’s small stage. A dozen television cameras were jammed together on another small, raised platform to record the event. As the crowd awaited the first speakers, a sound system blared upbeat anthems like Sister Sledge’s “We Are Family“ and “We’re Not Going to Take It” by Twisted Sister.\nThroughout Mr. Sanders’s speech, they erupted into chants of “Bernie, Bernie!”\nMr. Sanders spoke about the growing gap between C.E.O. and worker pay. The U.A.W. has said that one of the driving forces behind its demands for higher pay is the growth in compensation for the top leaders at the Big Three automakers.\nAddressing the Big Three leaders, Mr. Sanders said, “Understand, C.E.O.s, the sacrifices your workers have made over the years.”\nIn a comment directed at Mary T. Barra, G.M.’s chief executive, Mr. Sanders said, “Do you understand what it’s like to live on $17 an hour?” Mr. Sanders went on to make pointed remarks about the growth in compensation for Ms. Barra, as well as Carlos Tavares and Jim Farley, her counterparts at Stellantis and Ford...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "2020: Bernie Sanders's real base is diverse — and very young - Vox",
+                "htmlTitle": "2020: <b>Bernie Sanders&#39;s</b> real base is diverse — and very young - Vox",
+                "link": "https://www.vox.com/2019/3/7/18216899/bernie-sanders-bro-base-polling-2020-president",
+                "displayLink": "www.vox.com",
+                "snippet": "Mar 7, 2019 ... As Sanders begins to crisscross the country for his 2020 presidential bid, proving he can consolidate the Democratic base will be his biggest ...",
+                "htmlSnippet": "Mar 7, 2019 <b>...</b> As <b>Sanders</b> begins to crisscross the country for his 2020 presidential bid, proving he can consolidate the Democratic base will be his biggest&nbsp;...",
+                "formattedUrl": "https://www.vox.com/.../3/.../bernie-sanders-bro-base-polling-2020-preside...",
+                "htmlFormattedUrl": "https://www.vox.com/.../3/.../<b>bernie</b>-<b>sanders</b>-bro-base-polling-2020-preside...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdDfH_t5Mkccxo-8fJ9IqB2NtX50Gd8lJJiz4jreLaWeTYxWMVS9yvSS6K&s",
+                            "width": "312",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15890511/1133221897.jpg.jpg?quality=90&strip=all&crop=0%2C11.540968586387%2C100%2C78.534031413613&w=1200",
+                            "twitter:card": "summary",
+                            "article:published_time": "2019-03-07T12:00:00+00:00",
+                            "og:image:width": "1200",
+                            "og:site_name": "Vox",
+                            "apple-mobile-web-app-title": "Vox",
+                            "parsely-author": "Tara Golshan",
+                            "bingbot": "nocache",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "Sanders’s base going into the 2020 election, explained.",
+                            "next-head-count": "34",
+                            "parsely-type": "post",
+                            "twitter:site": "voxdotcom",
+                            "article:modified_time": "2019-03-07T12:00:00+00:00",
+                            "parsely-link": "https://www.vox.com/2019/3/7/18216899/bernie-sanders-bro-base-polling-2020-president",
+                            "parsely-image-url": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15890511/1133221897.jpg.jpg?quality=90&strip=all&crop=0,11.540968586387,100,78.534031413613",
+                            "parsely-section": "explainers",
+                            "og:type": "article",
+                            "og:image:alt": "Sen. Bernie Sanders Holds Campaign Rally At Brooklyn College",
+                            "author": "Tara Golshan",
+                            "og:title": "Bernie Sanders’s real base is diverse — and very young",
+                            "og:image:height": "628",
+                            "parsely-title": "Bernie Sanders’s real base is diverse — and very young",
+                            "parsely-pub-date": "2019-03-07T12:00:00+00:00",
+                            "fb:app_id": "549923288395304",
+                            "parsely-tags": "vox,pagetype:story,category-explainers,old-politics,latest-news,2020-presidential-election,explainers,politics,stream-17994006",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "og:url": "https://www.vox.com/2019/3/7/18216899/bernie-sanders-bro-base-polling-2020-president"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15890511/1133221897.jpg.jpg?quality=90&strip=all&crop=0%2C11.540968586387%2C100%2C78.534031413613&w=1200"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The “Bernie Bro” — the young, loud, angry white man that came to  of support in 2016 — is looking a lot more diverse these days.\nAs Sanders begins to crisscross the country for his 2020 presidential bid, proving he can consolidate the Democratic base will be his biggest test.\n“We were criticized for being too white; that was a correct criticism,”  on the _Breakfast Club_ radio show in March. “We were criticized for being too male; that was a correct criticism. That’s going to change.”\nIt’s starting to. An analysis of recent polls from November of 2018 to March 2019 shows Sanders is more , and , if not more. He leads every other possible 2020 contender with Latino voters and lags behind only Joe Biden — who hasn’t announced a bid yet — with African-American voters. Sanders’ polling numbers with black voters are double that of Sen. Kamala Harris (D-CA), according to a \nThe Sanders campaign has announced two women of color, Ohio state Sen. Nina Turner and San Juan, Puerto Rico, Mayor Carmen Yulín Cruz, to be co-chairs of his campaign, along with Indian-American Rep. Ro Khanna (D-CA) and Ben & Jerry’s co-founder Ben Cohen. His campaign manager is , a longtime progressive activist.\nThree years ago, Sanders lost the Democratic nomination to Hillary Clinton in part because he couldn’t win over black voters. Exit polls after every 2016 primary showed the same...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Bernie Sanders draws crowd of 10,000 at Wisconsin rally | Bernie ...",
+                "htmlTitle": "<b>Bernie Sanders</b> draws <b>crowd</b> of 10,000 at Wisconsin <b>rally</b> | Bernie ...",
+                "link": "https://www.theguardian.com/us-news/2015/jul/02/bernie-sanders-draws-crowd-of-10000-at-wisconsin-rally",
+                "displayLink": "www.theguardian.com",
+                "snippet": "Jul 2, 2015 ... Democratic presidential hopeful hails 'little bit of history' with strong turnout on the turf of Scott Walker, who is seeking Republican ...",
+                "htmlSnippet": "Jul 2, 2015 <b>...</b> Democratic presidential hopeful hails &#39;little bit of history&#39; with strong <b>turnout</b> on the turf of Scott Walker, who is seeking Republican&nbsp;...",
+                "formattedUrl": "https://www.theguardian.com/.../bernie-sanders-draws-crowd-of-10000-at-...",
+                "htmlFormattedUrl": "https://www.theguardian.com/.../<b>bernie</b>-<b>sanders</b>-draws-crowd-of-10000-at-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjCrftKe-Jcqjsz78qwL7_uVJGiFqmyT159ygfnIRrncdhwpuEEiqnXdXB&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.guim.co.uk/img/media/27b6fa737e0f90e4659c5b8a5daf3d3ae16fd4d1/0_302_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTUucG5n&enable=upscale&s=2141ee7357e4cae58a1b3bdfe028599f",
+                            "twitter:app:id:googleplay": "com.guardian",
+                            "twitter:app:url:iphone": "gnmguardian://us-news/2015/jul/02/bernie-sanders-draws-crowd-of-10000-at-wisconsin-rally?contenttype=Article&source=twitter",
+                            "theme-color": "#052962",
+                            "og:image:width": "1200",
+                            "article:published_time": "2015-07-02T05:20:44.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "the Guardian",
+                            "twitter:app:url:ipad": "gnmguardian://us-news/2015/jul/02/bernie-sanders-draws-crowd-of-10000-at-wisconsin-rally?contenttype=Article&source=twitter",
+                            "twitter:app:name:googleplay": "The Guardian",
+                            "al:ios:url": "gnmguardian://us-news/2015/jul/02/bernie-sanders-draws-crowd-of-10000-at-wisconsin-rally?contenttype=Article&source=applinks",
+                            "twitter:app:id:iphone": "409128287",
+                            "og:description": "Democratic presidential hopeful hails ‘little bit of history’ with strong turnout on the turf of Scott Walker, who is seeking Republican nomination",
+                            "article:publisher": "https://www.facebook.com/theguardian",
+                            "al:ios:app_store_id": "409128287",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://i.guim.co.uk/img/media/27b6fa737e0f90e4659c5b8a5daf3d3ae16fd4d1/0_302_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTUucG5n&s=5e46a6a00cb2812e0351f72c1d336119",
+                            "twitter:site": "@guardian",
+                            "article:modified_time": "2020-02-26T18:03:38.000Z",
+                            "og:type": "article",
+                            "article:section": "US news",
+                            "al:ios:app_name": "The Guardian",
+                            "og:title": "Bernie Sanders draws crowd of 10,000 at Wisconsin rally",
+                            "og:image:height": "720",
+                            "twitter:app:id:ipad": "409128287",
+                            "article:author": "Associated Press in Madison",
+                            "article:tag": "Bernie Sanders,US elections 2016,Democrats,US politics,US news,Wisconsin",
+                            "fb:app_id": "180444840287",
+                            "twitter:app:url:googleplay": "guardian://www.theguardian.com/us-news/2015/jul/02/bernie-sanders-draws-crowd-of-10000-at-wisconsin-rally",
+                            "twitter:app:name:ipad": "The Guardian",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                            "og:url": "http://www.theguardian.com/us-news/2015/jul/02/bernie-sanders-draws-crowd-of-10000-at-wisconsin-rally",
+                            "twitter:app:name:iphone": "The Guardian"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.guim.co.uk/img/media/27b6fa737e0f90e4659c5b8a5daf3d3ae16fd4d1/0_302_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTUucG5n&enable=upscale&s=2141ee7357e4cae58a1b3bdfe028599f"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...*   \n*   \n*   \n*   \n*   \n*   \n*   \nShowMoreShow More\n*   News\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Opinion\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Sport\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Culture\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Lifestyle\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Search input\n    google-search\n    Search\n*   \n*   \n*   US edition\n    *   \n    *   \n    *   \n    *   \n*   *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   *   \n    *   \n    *   \n    *   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nDemocratic presidential hopeful Bernie Sanders addresses a 10,000-strong crowd of supporters in Wisconsin. Guardian\nThis article is more than **9 years old**\nBernie Sanders draws crowd of 10,000 at Wisconsin rally\n=======================================================\nThis article is more than 9 years old\nDemocratic presidential hopeful hails ‘little bit of history’ with strong turnout on the turf of Scott Walker, who is seeking Republican nomination\nAssociated Press in Madison\nThu 2 Jul 2015 01.20 EDT\nThe Democratic presidential candidate  touted his progressive credentials before his largest crowd to date on Wednesday night as he pushed his campaign into Wisconsin Republican governor Scott Walker’s backyard.\nSanders packed the Veterans Memorial Coliseum in Madison, filling its 10,000 seats to show his bid to snatch the Democratic nomination from frontrunner Hillary Clinton isn’t a longshot.\n“Tonight we have made a little bit of history,” the white-haired Sanders said at a podium positioned between  and United States flags at the outset of his hourlong speech before a boisterous crowd. “Tonight we have more people at any meeting for a candidate of president of the United States than any other candidate.”\n!\nPeople cheer as Bernie Sanders speaks in the Veterans Memorial Coliseum. Photograph: Michael P King/AP\nSanders, a 73-year-old self-described democratic socialist, is trying to appeal to the most liberal  with his message of raising the minimum wage to $15 an hour, bridging the gap between rich and poor, criminal justice reform and raising taxes on the wealthy and Wall Street.\nThe message resonated in Madison, the state’s reliably liberal capital and...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

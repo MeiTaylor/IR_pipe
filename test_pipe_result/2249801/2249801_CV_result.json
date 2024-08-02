@@ -1,0 +1,41 @@
+{
+    "Claim": "A video shows a 10-year-old Amy Winehouse singing \"What a Difference a Day Makes.\"",
+    "Video_information": {
+        "video_date": 20140703.0,
+        "platform": "youtube",
+        "video_headline": "Wow! Angelina Jordan (8): \"What a Difference a Day Make\"",
+        "video_transcript": "What a difference a day made. 24 little hours, brought the sun and the flowers, where they There's a rainbow before me. On your menu. What a difference, gay made, and the difference is you.",
+        "Video_descriptor": "The video opens with a young girl standing on a stage, dressed in a white dress and a flower crown, holding a black microphone and singing to an audience. The audience, including a woman in a white shirt and sunglasses, watches her performance and applauds at the end. The key frames further illustrate the outdoor setting with greenery, showcasing the girl with a floral headpiece singing emotionally into the microphone with text overlays hinting at themes of love and connection. The stage is surrounded by floral elements, while the audience, sitting on chairs and grass, displays engagement with the performers. A woman in a floral dress interacts with the diverse audience, some clapping and others observing. The outdoor event continues with tiered seating arrangements, clear skies, and an audience captivated by the unfolding performance, suggesting a moment of bliss and excitement. The scene transitions to musicians performing on stage amidst a decorative arch, with sunlight illuminating the setting. The audience at the event seems festive and engaged, with individuals wearing flower-adorned hats, while a central woman with long hair captures their attention, marking a thrilling and romantic atmosphere at the gathering. The video encapsulates a joyous outdoor event filled with music, performances, and audience interaction, portraying moments of connection, celebration, and emotional resonance."
+    },
+    "Initial_Question_Generation": {
+        "Question": "Does the video feature Amy Winehouse as a child or Angelina Jordan at age eight?",
+        "Answer": "The video clearly features Angelina Jordan at age eight, not Amy Winehouse as a child. The title of the video is \"Wow! Angelina Jordan (8): 'What a Difference a Day Make,'\" which directly indicates that Angelina Jordan is the subject of the performance at the age of eight. Additionally, Angelina Jordan is a Norwegian singer who gained fame after her audition for \"Norway's Got Talent\" in 2014, making her notable at that young age. Furthermore, there is no evidence suggesting that Amy Winehouse, a well-known British singer who passed away in 2011, sang in the video mentioned. The claim about Amy Winehouse seems to be misleading or incorrect given that the evidence points clearly to Angelina Jordan.",
+        "Confidence": "95%"
+    },
+    "Follow_Up_Question_1": {
+        "Question": "What specific evidence confirms the age and identity of the singer in the video apart from the title?",
+        "Answer": "The claim states that the video shows a \"10-year-old Amy Winehouse\" singing \"What a Difference a Day Makes.\" However, the video information provided does not support this claim. Instead, it describes a performance by a young girl identified as Angelina Jordan, who is said to be 8 years old (as per the video headline). Specific evidence that confirms the age and identity of the singer in the video includes: 1. **Video Headline**: The headline explicitly states that Angelina Jordan, who was 8 years old at the time of the video posting, performed the song \"What a Difference a Day Makes.\" 2. **Video Transcript**: The transcript of the performance does not mention Amy Winehouse but aligns with the performance given by the young singer, further supporting that the artist is indeed Angelina Jordan. 3. **Description**: The video descriptor narrates the scene in detail, focusing on the young girl with a flower crown singing on stage. There is no indication or reference to Amy Winehouse in this description, which centers on the performance of the girl identified as Angelina. Based on this evidence, it is clear that the singer in the video is Angelina Jordan, not Amy Winehouse, and she is 8 years old during the recording of the performance.",
+        "Confidence": "95%"
+    },
+    "Follow_Up_Question_2": {
+        "Question": "What additional context about Angelina Jordan's early career could clarify the video's authenticity?",
+        "Answer": "To clarify the authenticity of the video featuring Angelina Jordan, several aspects of her early career are noteworthy: 1. **Recognition from Norway's Got Talent**: Angelina Jordan gained significant fame at a young age by auditioning for Norway's Got Talent at just seven years old. This performance included her singing \"Gloomy Sunday\" in the style of Billie Holiday, which went viral and brought her considerable media attention. She ultimately won the competition at the age of eight, performing George Gershwin's \"Summertime\" [Query 1_evidence1]. 2. **Consistent Performance Style and Engagement**: The video transcript and description of the performance, which examine Jordan's emotional delivery of \"What a Difference a Day Makes,\" reflect her distinctive style developed from her early performances. This suggests that the authenticity of the video aligns with the characteristics of her performances during her rise to fame [Video_descriptor]. 3. **Age Verification**: It is clearly stated that Angelina Jordan was eight years old at the time the video was posted, coinciding with the timeline of her early public performances. This matches with the claim that the young girl in the video is indeed Angelina, further authenticating the video's content [Query 2_evidence1]. 4. **Cultural Background and Influences**: Angelina's diverse cultural heritage and early musical influences, including iconic artists like Whitney Houston, Billie Holiday, and Dinah Washington, contributed to her unique artistry, which is often reflected in her performances. Understanding her background adds depth to her artistic expression shown in the video [Query 2_evidence1]. Overall, these elements from Angelina Jordan’s early career not only establish her identity but also substantiate the authenticity of the video depicting her performance as a young artist.",
+        "Confidence": "95%"
+    },
+    "CVResult": {
+        "Judgment": "No",
+        "Confidence": "95%",
+        "Reason": "The existing information is indeed sufficient to determine the truthfulness of the claim that the video shows a 10-year-old Amy Winehouse singing 'What a Difference a Day Makes.' The provided details explicitly confirm that the video features Angelina Jordan at age eight, not Amy Winehouse. The title of the video, 'Wow! Angelina Jordan (8): 'What a Difference a Day Make,' directly indicates the identity and age of the performer. Furthermore, the video description supports this by detailing a young girl with a flower crown singing on stage, without any reference to Amy Winehouse. Therefore, the information points clearly toward the claim being false, given that the subject of the video is confirmed to be Angelina Jordan and not Amy Winehouse."
+    },
+    "Final_Judgement": {
+        "Answer": "False",
+        "Reasons": "The claim that the video shows a 10-year-old Amy Winehouse singing 'What a Difference a Day Makes' is false because the video actually features Angelina Jordan performing at age 8. Evidence supporting this includes the video headline stating 'Wow! Angelina Jordan (8): 'What a Difference a Day Make'', and descriptions that clearly identify the young girl in the video as Angelina Jordan, with no mention of Amy Winehouse ([Initial_Question_Generation_Query 1_evidence 1], [Follow_Up_Question_1_Query 1_evidence 1]).",
+        "Therefore, the Claim authenticity is": "False",
+        "The information type is": "False",
+        "The specific type of False Information is": "False video description"
+    },
+    "article": {
+        "article_url": "https://www.snopes.com/fact-check/amy-winehouse-angelina-jordan/",
+        "article_rating": "False"
+    }
+}

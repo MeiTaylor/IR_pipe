@@ -1,0 +1,719 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Is McDonald's food indestructible?",
+                "totalResults": "1970000",
+                "searchTerms": "Is McDonald's food indestructible?",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Is McDonald's food indestructible?",
+                "totalResults": "1970000",
+                "searchTerms": "Is McDonald's food indestructible?",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.483355,
+        "formattedSearchTime": "0.48",
+        "totalResults": "1970000",
+        "formattedTotalResults": "1,970,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "WATCH: A McDonald's Big Mac Is \"Indestructible\" When Covered in ...",
+                "htmlTitle": "WATCH: A <b>McDonald&#39;s</b> Big Mac Is &quot;<b>Indestructible</b>&quot; When Covered in ...",
+                "link": "https://www.sciencealert.com/watch-a-mcdonald-s-big-mac-is-indestructible-when-covered-in-molten-copper",
+                "displayLink": "www.sciencealert.com",
+                "snippet": "Mar 16, 2016 ... The phenomenon that's being demonstrated here isn't terrible food, it's the Leidenfrost effect, which we last saw in this awesome video of\u00a0...",
+                "htmlSnippet": "Mar 16, 2016 <b>...</b> The phenomenon that&#39;s being demonstrated here isn&#39;t terrible <b>food</b>, it&#39;s the Leidenfrost effect, which we last saw in this awesome video of&nbsp;...",
+                "formattedUrl": "https://www.sciencealert.com/watch-a-mcdonald-s-big-mac-is-indestructible...",
+                "htmlFormattedUrl": "https://www.sciencealert.com/watch-a-mcdonald-s-big-mac-is-<b>indestructible</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhX8Lo-WEr0dh7rtOJ16GmNYO6k0u6VQXzRI47BtjizPoXmy7DBvMXPIg&s",
+                            "width": "353",
+                            "height": "143"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.sciencealert.com/images/articles/processed/big-macss_1024.jpg",
+                            "og:type": "article",
+                            "article:published_time": "2016-03-16T04:48:31+00:00",
+                            "og:image:width": "600",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "WATCH: A McDonald's Big Mac Is \"Indestructible\" When Covered in Molten Copper",
+                            "article:section": "physics",
+                            "og:site_name": "ScienceAlert",
+                            "author": "Bec Crew",
+                            "og:title": "WATCH: A McDonald's Big Mac Is \"Indestructible\" When Covered in Molten Copper",
+                            "og:image:height": "243",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://www.sciencealert.com/images/2022/08/cropped-sa-rounded-favicon-270x270.png",
+                            "og:description": "In footage that looks like the culinary version of Viserys' famously gruesome death scene in Game of Thrones, YouTuber Tito4re is seen pouring molten copper over a McDonald's Big Mac.",
+                            "twitter:creator": "@ScienceAlert",
+                            "article:publisher": "https://www.facebook.com/ScienceAlert",
+                            "twitter:site": "@ScienceAlert",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=12.0, minimum-scale=.25, user-scalable=yes",
+                            "twitter:description": "But science says that\u2019s what *every* burger bun should do.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.sciencealert.com/watch-a-mcdonald-s-big-mac-is-indestructible-when-covered-in-molten-copper"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.sciencealert.com/images/articles/processed/big-macss_1024.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "width=\"700\u2033 height=\"414\u2033 allowfullscreen=\"allowfullscreen\" seamless=\"seamless\">\nIn footage that looks like the culinary version of Viserys'  in _Game of Thrones_,  is seen pouring molten copper over a McDonald's Big Mac. Experimenting on McDonald's products to show how indestructible and indigestible they are , but in this case, you can blame science, not the burger, for these puzzling results.\n shows that as soon as the molten copper makes contact with the burger bun, it starts to ball up and roll off the surface.\nAnd while the top of the bun is well and truly burnt by the end of it, we're shown that the rest of the burger underneath is completely fine - the molten copper didn't get even close to melting through the surface of the bread. Buns of steel!\nWe also see a similar effect on the burger patty when it's directly exposed to the molten copper, and just so you know, that copper is heated to around 1,093 degrees Celsius (2,000 degrees Fahrenheit).\nPretty nuts, right? Well no, not at all, if you know your basic physics.\n, the video footage is real, but the implications that Big Macs are bad specifically because they don't melt from molten copper exposure are false. \"In fact, the results showcased in this video (just like experiments with seemingly non-rotting hamburgers) could likely be replicated with any burger (or similar food item), regardless of brand,\" \nThe phenomenon that's being demonstrated here isn't terrible food, it's the , which we last saw in  of molten salt being added to water.\nYou can also see the Leidenfrost effect in action , where molten copper is poured into water, , where it forces water into an amazing star shape on a hot surface.\nThe Leidenfrost effect is defined in physics as when a liquid comes in contact with a mass that's significantly hotter than its boiling point, and produces an insulating vapour layer that protects the liquid from boiling and evaporating away immediately.\nYou've probably seen it in cooking when you get drops of water on a really hot pan - the water balls up and skids across the surface, protected by a layer of water vapour.\nSo in the case of the Big Mac, some of the moisture in the burger bun boils when it comes into contact with the molten copper, and this produces a strong, insulating layer that initially protects it.\n, the guys from Mythbusters demonstrated this effect in 2009 by showing that you could dip your hand into molten lead without getting burned:\nwidth=\"700\u2033 height=\"414\u2033 allowfullscreen=\"allowfullscreen\" seamless=\"seamless\">\nStill though, do _not_...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "ScienceAlert is recognized for its publishing of scientific news and studies. The information is typically fact-checked and backed by scientific literature. The site has a reputation for accuracy, although it may sometimes prioritize sensational headlines to attract readership. Overall, its strong grounding in scientific credibility lends it a high-quality score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-03-16"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This evidence comes from a credible science-focused website and discusses the experiment shown in the viral video. It explains the Leidenfrost effect observed when molten copper is poured over the Big Mac, clarifying that the 'indestructibility' of the burger is a result of physical principles rather than properties of the food itself. This directly addresses the claim's assumption of indestructibility and provides scientific reasoning that counteracts it."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Six-Month-Old McDonald's Happy Meal Is Indestructible - Eater",
+                "htmlTitle": "Six-Month-Old <b>McDonald&#39;s</b> Happy <b>Meal</b> Is <b>Indestructible</b> - Eater",
+                "link": "https://www.eater.com/2010/10/13/6714783/six-month-old-mcdonalds-happy-meal-is-indestructible",
+                "displayLink": "www.eater.com",
+                "snippet": "Oct 13, 2010 ... New York artist Sally Davies bought a Happy Meal from McDonald's in April and took photographs of it periodically over the past six months\u00a0...",
+                "htmlSnippet": "Oct 13, 2010 <b>...</b> New York artist Sally Davies bought a Happy <b>Meal</b> from <b>McDonald&#39;s</b> in April and took photographs of it periodically over the past six months&nbsp;...",
+                "formattedUrl": "https://www.eater.com/.../six-month-old-mcdonalds-happy-meal-is-indestru...",
+                "htmlFormattedUrl": "https://www.eater.com/.../six-month-old-<b>mcdonalds</b>-happy-meal-is-<b>indestru</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs8kFfvbjjllKhihoButkjixOp028je06sqroXFoXQjpTwAvPY4r3pCdyR&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cdn.vox-cdn.com/thumbor/kBq6OVbrrHZbaGARMnYDiyj4c2s=/0x32:528x329/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/39229432/sally-davies-happy-meal.0.jpg",
+                            "article:published_time": "2010-10-13T10:30:12-04:00",
+                            "og:image:width": "1600",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Eater",
+                            "sailthru.tags": "general,eater,front-page,video-interlude",
+                            "twitter:url": "https://www.eater.com/2010/10/13/6714783/six-month-old-mcdonalds-happy-meal-is-indestructible",
+                            "apple-mobile-web-app-title": "Eater",
+                            "parsely-author": "Paula Forbes",
+                            "msapplication-tileimage": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/6253179/apple-touch-icon-144x144.0.png",
+                            "og:description": "New York artist Sally Davies bought a Happy Meal from McDonald's in April and took photographs of it periodically over the past six months \u2014 just to see how much it changed over time. Problem is,...",
+                            "article:publisher": "https://www.facebook.com/eater",
+                            "twitter:image": "https://cdn.vox-cdn.com/thumbor/kBq6OVbrrHZbaGARMnYDiyj4c2s=/0x32:528x329/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/39229432/sally-davies-happy-meal.0.jpg",
+                            "ahrefs-site-verification": "1e57a609922037a3fbdc1c22efd7334113f174f15608f37e1b8538a7b4ce64c3",
+                            "twitter:image:alt": "A six-month-old Happy Meal.",
+                            "parsely-type": "post",
+                            "twitter:site": "Eater",
+                            "article:modified_time": "2010-10-13T10:30:12-04:00",
+                            "parsely-link": "https://www.eater.com/2010/10/13/6714783/six-month-old-mcdonalds-happy-meal-is-indestructible",
+                            "sailthru.title": "Six-Month-Old McDonald's Happy Meal Is Indestructible",
+                            "parsely-image-url": "https://cdn.vox-cdn.com/thumbor/kBq6OVbrrHZbaGARMnYDiyj4c2s=/0x32:528x329/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/39229432/sally-davies-happy-meal.0.jpg",
+                            "parsely-section": "front-page",
+                            "msapplication-tilecolor": "#e60000",
+                            "sailthru.date": "2010-10-13T10:30:12-04:00",
+                            "og:image:alt": "A six-month-old Happy Meal.",
+                            "og:type": "article",
+                            "twitter:title": "Six-Month-Old McDonald's Happy Meal Is Indestructible",
+                            "msvalidate.01": "D385D0326A3AE144205C298DB34B4E94",
+                            "author": "Paula Forbes",
+                            "og:title": "Six-Month-Old McDonald's Happy Meal Is Indestructible",
+                            "og:image:height": "900",
+                            "fb:pages": "6029273333,242726355745404,115169205199800,139755792796580,131547960225574,213601342019363,301223156562915,309491225851948,243335249017579,348494641841991,109814609047278,442143005803582,110073695686645,385346484849141,451388614896528,240433149442075,670887879603309,150611155024023,176453365796072,110358775652218,465169560201718,105842919452319,213198508690703,192135047484517,243781239374345,111376838888644",
+                            "sailthru.image.thumb": "https://cdn.vox-cdn.com/thumbor/5rqKTC3XtacMo6oR1Fa8rHnmLc4=/83x0:445x362/200x200/cdn.vox-cdn.com/uploads/chorus_image/image/39229432/sally-davies-happy-meal.0.jpg",
+                            "parsely-title": "Six-Month-Old McDonald's Happy Meal Is\u00a0Indestructible",
+                            "style-tools": "https://www.eater.com/style/community/450/4e250329f5a12b62bd613056746d7783/tools.css",
+                            "parsely-pub-date": "2010-10-13T10:30:12-04:00",
+                            "fb:app_id": "549923288395304",
+                            "sailthru.description": "New York artist Sally Davies bought a Happy Meal from McDonald's in April and took photographs of it periodically over the past six months \u2014 just to see how much it changed over time. Problem is,...",
+                            "parsely-tags": "eater,front-page,video-interlude",
+                            "outbrainsection": "video-interlude",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "twitter:description": "New York artist Sally Davies bought a Happy Meal from McDonald's in April and took photographs of it periodically over the past six months \u2014 just to see how much it changed over time. Problem is,...",
+                            "og:url": "https://www.eater.com/2010/10/13/6714783/six-month-old-mcdonalds-happy-meal-is-indestructible",
+                            "sailthru.image.full": "https://cdn.vox-cdn.com/thumbor/kBq6OVbrrHZbaGARMnYDiyj4c2s=/0x32:528x329/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/39229432/sally-davies-happy-meal.0.jpg"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.vox-cdn.com/thumbor/kBq6OVbrrHZbaGARMnYDiyj4c2s=/0x32:528x329/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/39229432/sally-davies-happy-meal.0.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...*   \n*   \n*   \n*   \n*   More\n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n\u2715\nFiled under:\n*   \nSix-Month-Old McDonald's Happy Meal Is Indestructible\n=====================================================\nby  Oct 13, 2010, 10:30am EDT\nShare this story\n----------------\n*   \n*   \n*   \n### **Share** All sharing options for: Six-Month-Old McDonald's Happy Meal Is\u00a0Indestructible\n*   \n*   \n*   \n !/cdn.vox-cdn.com/uploads/chorus_image/image/39229432/sally-davies-happy-meal.0.jpg)\nA six-month-old Happy Meal.\nPhoto: \nNew York artist **Sally Davies** bought a Happy Meal from **McDonald's** in April and  of it periodically over the past six months \u2014 just to see how much it changed over time. Problem is, it didn't change much. Sure, the burger shrank some, and the fries look a little shriveled, but **no mold, no sign of decay**. McDonald's  saying they couldn't respond to the project because they were unsure what condition the burger and fries were kept in; we suppose they're alluding to the possibility that they were frozen? Or stored in the vacuum that is outer space? Watch the video below and decide for yourself.\n**Video: Happy Meal Mold-Free After Six Months**\n\u00b7  \\  \n\u00b7  \\  \n\u00b7  \\\nMore From Eater\n---------------\nSign up for the Sign up for Eater's newsletter\n----------------------------------------------\nThe freshest news from the food world every day\n#### Thanks for signing up!\nCheck your inbox for a welcome email.\nEmail **(required)**\nOops. Something went wrong. Please enter a valid email and try again.\nBy submitting your email, you agree to our  and . You can opt out at any time. This site is protected by reCAPTCHA and the Google  and  apply.\n  Subscribe\n### Most Read\n1.  \n2.  \nThe Latest\n----------\n(blob:https://www.eater.com/c2c57999418ebc49f4ecabfe5ec5d69d)]\n--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nBy \n(blob:...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Eater is a reputable website focused on food news and culture. It presents articles that often rely on industry sources and expert opinions. While it provides valuable information about restaurants and culinary trends, it may not always focus on scientific accuracy and is more entertainment-oriented. Thus, it garners a good score but with caution regarding its reliability for scientific claims."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2010-10-13"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This evidence discusses a different experiment involving a McDonald's Happy Meal that appeared to not decompose over six months. While it supports the notion of McDonald's food being resistant to decay, it does not address the specific claim of the food being indigestible and does not directly evaluate the video evidence. The findings may contribute to the discussion but are less directly relevant than evidence0."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Icelandic man keeps McDonald's burger and fries in glass case for ...",
+                "htmlTitle": "Icelandic man keeps <b>McDonald&#39;s burger</b> and fries in glass case for ...",
+                "link": "https://www.kidsnews.com.au/health/mcdonalds-burger-and-fries-still-fresh-after-10-years/news-story/879758af14c9ae701004184e82c9c1d3",
+                "displayLink": "www.kidsnews.com.au",
+                "snippet": "Nov 4, 2019 ... The so-called \u201cindestructible*\u201d McDonald's meal has no sign of mould or decay. Back in 2009, McDonald's closed down all three of its restaurants\u00a0...",
+                "htmlSnippet": "Nov 4, 2019 <b>...</b> The so-called \u201c<b>indestructible</b>*\u201d <b>McDonald&#39;s meal</b> has no sign of mould or decay. Back in 2009, <b>McDonald&#39;s</b> closed down all three of its <b>restaurants</b>&nbsp;...",
+                "formattedUrl": "https://www.kidsnews.com.au/.../mcdonalds.../879758af14c9ae701004184e...",
+                "htmlFormattedUrl": "https://www.kidsnews.com.au/.../<b>mcdonalds</b>.../879758af14c9ae701004184e...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuUwaJwOhN4hS7z_59qYi7voP8Qbl_dXdApgzAkP59HV5r9jMwNRR0EDU&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://content.api.news/v3/images/bin/cc83e00b0dea4ac3dcee4397f9aa9693",
+                            "theme-color": "#ffffff",
+                            "article:published_time": "2019-11-04T07:45:00.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:image:width": "1280",
+                            "og:site_name": "kidsnews",
+                            "articleid": "879758af14c9ae701004184e82c9c1d3",
+                            "vr:canonical": "https://www.kidsnews.com.au/health/mcdonalds-burger-and-fries-still-fresh-after-10-years/news-story/879758af14c9ae701004184e82c9c1d3",
+                            "title": "Macca\u2019s burger still \u2018fresh\u2019 after 10 years",
+                            "og:description": "READING LEVEL: GREEN",
+                            "article:publisher": "KidsNews",
+                            "twitter:image": "https://content.api.news/v3/images/bin/cc83e00b0dea4ac3dcee4397f9aa9693",
+                            "ob:article_type": "NON_PREMIUM",
+                            "twitter:site": "@",
+                            "article:modified_time": "2019-11-04T05:41:19.000Z",
+                            "og:category": "News",
+                            "application-name": "kidsnews",
+                            "article:section": "News",
+                            "twitter:title": "Macca\u2019s burger still \u2018fresh\u2019 after 10 years",
+                            "og:type": "article",
+                            "handheldfriendly": "True",
+                            "og:title": "Macca\u2019s burger still \u2018fresh\u2019 after 10 years",
+                            "article:publicationdate": "2019-11-04T07:45:00.000Z",
+                            "og:image:height": "720",
+                            "article:author": "Sean Keach",
+                            "referrer": "origin-when-cross-origin",
+                            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0",
+                            "twitter:description": "READING LEVEL: GREEN",
+                            "mobileoptimized": "320",
+                            "og:locale": "en_GB",
+                            "og:url": "https://www.kidsnews.com.au/health/mcdonalds-burger-and-fries-still-fresh-after-10-years/news-story/879758af14c9ae701004184e82c9c1d3"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://content.api.news/v3/images/bin/cc83e00b0dea4ac3dcee4397f9aa9693"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "READING LEVEL: GREEN\nA McDonald\u2019s fan has kept a burger and fries in a glass cabinet for 10 years \u2013 and it still looks fine to eat.\nThe so-called \u201cindestructible\\*\u201d McDonald\u2019s meal has no sign of mould or decay.\nBack in 2009, McDonald\u2019s closed down all three of its restaurants in Iceland.\nOne man decided to buy the country\u2019s final hamburger and fries \u2013 so the meal could live on after the chain\u2019s closure.\n\u201cI had heard that McDonald\u2019s never decompose\\* so I just wanted to see if it was true or not,\u201d Hjortur Smarason said.\nIt\u2019s now been exactly 10 years since Smarason made his purchase, and the meal barely looks older.\nThe not-so-happy meal is housed in a glass cabinet in Snotra House, a hostel\\* in southern Iceland.\n\u201cThe old guy is still there, feeling quite well,\u201d said hostel owner Siggi Sigurdur, speaking to BBC News.\n\u201cIt\u2019s a fun thing, of course, but it makes you think about what you are eating.\n\u201cThere is no mould, it\u2019s only the paper wrapping that looks old.\u201d\nThe hostel says that people visit from around the world to see the burger.\nAnd a livestream of the meal receives up to 400,000 hits every single day.\nThe meal hasn\u2019t always been kept in a glass cabinet, however.\nAt first, Smarason stored the burger and fries in a plastic bag in...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "This website targets a younger audience, delivering news and educational content suitable for children. While it fosters learning, the content may simplify complex issues, potentially compromising rigorous fact-checking. It holds a decent credibility score, primarily catering to educational purposes rather than deep investigative journalism."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2019-11-04"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "Similar to evidence1, this evidence reports on a McDonald's burger and fries kept for ten years with no sign of decay. Although it illustrates the potential long-term stability of McDonald's food, it does not delve into digestion or relate closely to the video's claims about 'indestructibility' in the context of food science, making it moderately relevant."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "This 'indestructible' McDonald's burger hasn't decayed after 10 years",
+                "htmlTitle": "This &#39;<b>indestructible</b>&#39; <b>McDonald&#39;s burger</b> hasn&#39;t decayed after 10 years",
+                "link": "https://uk.news.yahoo.com/mcdonalds-iceland-burger-10-years-old-152043671.html",
+                "displayLink": "uk.news.yahoo.com",
+                "snippet": "Nov 1, 2019 ... Hjortur Smarason bought the burger as the last McDonald's in Iceland closed its doors back in 2009.",
+                "htmlSnippet": "Nov 1, 2019 <b>...</b> Hjortur Smarason bought the <b>burger</b> as the last <b>McDonald&#39;s</b> in Iceland closed its doors back in 2009.",
+                "formattedUrl": "https://uk.news.yahoo.com/mcdonalds-iceland-burger-10-years-old-15204...",
+                "htmlFormattedUrl": "https://uk.news.yahoo.com/<b>mcdonalds</b>-iceland-burger-10-years-old-15204...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsTV4zWtzkg-CB9OyWHiMJYnRABkZlJpjdgGlGCHWm1EuiFx1ppAHd-NI&s",
+                            "width": "301",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=304158842,app-argument=yahoo://article/view?uuid=71dc7fb4-73b8-36c4-811e-283c44cc0134&src=web",
+                            "og:image": "https://s.yimg.com/ny/api/res/1.2/tqjqIvUS6WccrPfAaj31Rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzA-/https://s.yimg.com/os/creatr-uploaded-images/2019-11/a90dc7c0-fcba-11e9-bf0f-d64ee09b25ac",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Yahoo News",
+                            "al:android:package": "com.yahoo.mobile.client.android.yahoo",
+                            "al:ios:url": "yahoo://article/view?uuid=71dc7fb4-73b8-36c4-811e-283c44cc0134&src=web",
+                            "og:description": "Hjortur Smarason bought the burger as the last McDonald's in Iceland closed its doors back in 2009.",
+                            "al:ios:app_store_id": "304158842",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://s.yimg.com/ny/api/res/1.2/tqjqIvUS6WccrPfAaj31Rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzA-/https://s.yimg.com/os/creatr-uploaded-images/2019-11/a90dc7c0-fcba-11e9-bf0f-d64ee09b25ac",
+                            "oath:guce:consent-host": "guce.yahoo.com",
+                            "twitter:site": "@yahooNewsUK",
+                            "news_keywords": "McDonald\u2019s, Snotra House, National Museum of Iceland, Hjortur Smarason, Iceland, The burger",
+                            "twitter:title": "This 'indestructible' McDonald's burger hasn't decayed after 10 years",
+                            "og:type": "article",
+                            "al:ios:app_name": "Yahoo",
+                            "og:title": "This 'indestructible' McDonald's burger hasn't decayed after 10 years",
+                            "og:image:height": "670",
+                            "twitter:image:src": "https://s.yimg.com/ny/api/res/1.2/tqjqIvUS6WccrPfAaj31Rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzA-/https://s.yimg.com/os/creatr-uploaded-images/2019-11/a90dc7c0-fcba-11e9-bf0f-d64ee09b25ac",
+                            "al:android:url": "yahoo://article/view?uuid=71dc7fb4-73b8-36c4-811e-283c44cc0134&src=web",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Hjortur Smarason bought the burger as the last McDonald's in Iceland closed its doors back in 2009.",
+                            "og:url": "https://uk.news.yahoo.com/mcdonalds-iceland-burger-10-years-old-152043671.html",
+                            "al:android:app_name": "Yahoo"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://s.yimg.com/ny/api/res/1.2/tqjqIvUS6WccrPfAaj31Rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzA-/https://s.yimg.com/os/creatr-uploaded-images/2019-11/a90dc7c0-fcba-11e9-bf0f-d64ee09b25ac"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "We, Yahoo, are part of the Yahoo family of brands.\nWhen you use our sites and apps, we use cookies to:\n*   provide our sites and apps to you\n*   authenticate users, apply security measures, and prevent spam and abuse, and\n*   measure your use of our sites and apps\nIf you click '**Accept all**', we and , including 237 who are part of the IAB Transparency & Consent Framework, will also store and/or access information on a device (in other words, use cookies) and use precise geolocation data and other personal data such as IP address and browsing and search data, for personalised advertising and content, advertising and content measurement, and audience research and services development.\nIf you do not want us and our partners to use cookies and personal data for these additional purposes, click '**Reject all**'.\nIf you would like to customise your choices, click '**Manage privacy settings**'.\nYou can change your choices at any time by clicking on the 'Privacy & cookie settings' or 'Privacy dashboard' links on our sites and apps. Find out more about how we use your personal data in our  and .",
+                    "content_tokens": 234
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Yahoo News aggregates news from various sources, meaning the quality can vary depending on the original content providers. It can provide timely news updates, but the lack of consistent editorial oversight leads to mixed trust levels. Readers should verify claims against more authoritative sources when using Yahoo News."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2019-11-01"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This evidence also focuses on the long-term preservation of a McDonald's burger and gives examples of enduring quality. While it aligns with the notion of indestructibility, it lacks direct engagement with how the food reacts to extreme conditions like those in the video, leading to a moderate relevance score."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Indestructible Big Mac survives Molten Copper poured on it. : r ...",
+                "htmlTitle": "<b>Indestructible</b> Big Mac survives Molten Copper poured on it. : r ...",
+                "link": "https://www.reddit.com/r/McDonalds/comments/4akj4r/indestructible_big_mac_survives_molten_copper/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Mar 15, 2016 ... 64K subscribers in the McDonalds community. For everything [McDonald's](http://www.mcdonalds.com/)!",
+                "htmlSnippet": "Mar 15, 2016 <b>...</b> 64K subscribers in the <b>McDonalds</b> community. For everything [<b>McDonald&#39;s</b>](http://www.<b>mcdonalds</b>.com/)!",
+                "formattedUrl": "https://www.reddit.com/.../McDonalds/.../indestructible_big_mac_survives_...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../<b>McDonalds</b>/.../<b>indestructible</b>_big_mac_survives_...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScdpwab1-4jncc4qq9Zg3bI6UboJaG4-gDW8erdqqLcemVVD_sATncKHnK&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://external-preview.redd.it/vMm_5PwVPm6yrEtKzRfT9ckYpN75XqGTpdd7VPpMbn8.jpg?format=pjpg&auto=webp&s=b80539f06c3ded57ccd820a07f85a5393326f459",
+                            "theme-color": "#000000",
+                            "og:image:width": "480",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/McDonalds on Reddit: Indestructible Big Mac survives Molten Copper poured on it.",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/McDonalds on Reddit: Indestructible Big Mac survives Molten Copper poured on it.",
+                            "og:image:height": "360",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/calcprof77 - 6 votes and 4 comments",
+                            "twitter:image": "https://external-preview.redd.it/vMm_5PwVPm6yrEtKzRfT9ckYpN75XqGTpdd7VPpMbn8.jpg?format=pjpg&auto=webp&s=b80539f06c3ded57ccd820a07f85a5393326f459",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/McDonalds/comments/4akj4r/indestructible_big_mac_survives_molten_copper/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://external-preview.redd.it/vMm_5PwVPm6yrEtKzRfT9ckYpN75XqGTpdd7VPpMbn8.jpg?format=pjpg&auto=webp&s=b80539f06c3ded57ccd820a07f85a5393326f459"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Open navigation Go to Reddit Home\nGet the Reddit app  Log in to Reddit\nOpen settings menu\n*   *   *   \n### Get the Reddit app\nScan this QR code to download the app now\nOr check it out in the app stores\nFor everything \\!\n* * *\nMembers Online\n\u2022\nADMIN MOD\nIndestructible Big Mac survives Molten Copper poured on it.\n-----------------------------------------------------------\nArchived post. New comments cannot be posted and votes cannot be cast.\nTop Posts\n---------\n* * *\n*   \n    * * *\n*   \n    * * *\n*   \n    * * *\n*   &nbsp;\n*   &nbsp;\n* * *\n*   TOPICS\n*   Internet Culture (Viral)\n*   *   *   *   *   *   *   *   *   \n*   Games\n*   *   *   *   *   *   *   *   *   *   *   *   \n*   Q&As\n*   *   \n*   Technology\n*   *   *   *   *   *   *   *   *   *   \n*   Pop Culture\n*   *   *   *   *   *   \n*   Movies & TV\n*   *   *   *   *   *   *   *   *   *   *   *   *   *   \n* * *\n*   RESOURCES\n*   \n*   *   *   *   *   \n* * *\n*   *   *   \n* * *\n*   *   *   ",
+                    "content_tokens": 317
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Reddit is a large online forum with user-generated content, meaning it contains a vast range of information, including opinions, anecdotes, and news articles. The reliability of information can be highly variable, as it depends significantly on the individual posts and threads. While it can highlight popular discussions, it is not inherently trustworthy for factual accuracy."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-03-15"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This is a Reddit post mentioning the Big Mac experiment. While it shows popular interest and awareness of the video, it does not provide scientific analysis or a deeper understanding of the implications of the experiment, making it less informative and thus lower in relevance."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "The indestructible burger. - kmkat and her kneedles",
+                "htmlTitle": "The <b>indestructible burger</b>. - kmkat and her kneedles",
+                "link": "https://kmkat.typepad.com/kmkat_and_her_kneedles/2010/11/the-indestructible-burger.html",
+                "displayLink": "kmkat.typepad.com",
+                "snippet": "We have all read or heard about the McDonald's hamburger that would neither mold nor rot nor decompose in any significant way, supposedly showing how little\u00a0...",
+                "htmlSnippet": "We have all read or heard about the <b>McDonald&#39;s</b> hamburger that would neither mold nor rot nor decompose in any significant way, supposedly showing how little&nbsp;...",
+                "formattedUrl": "https://kmkat.typepad.com/kmkat_and.../the-indestructible-burger.html",
+                "htmlFormattedUrl": "https://kmkat.typepad.com/kmkat_and.../the-<b>indestructible</b>-burger.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBL1-wP_RIuNUdDeWoSXX9kKAm8m6SKfunD62KEwdWmHnFXShhSidGKFs&s",
+                            "width": "384",
+                            "height": "131"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://kmkat.typepad.com/.a/6a00d8341bfaea53ef0133f51aa62b970b-600wi",
+                            "og:type": "blog",
+                            "fb:app_id": "55753818692",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "The indestructible burger.",
+                            "og:site_name": "kmkat and her kneedles",
+                            "twitter:description": "We have all read or heard about the McDonald's hamburger that would neither mold nor rot nor decompose in any significant way, supposedly showing how little food value actually exists in one. Real food wouldn't act like that, right? Here,...",
+                            "og:title": "The indestructible burger.",
+                            "og:url": "https://kmkat.typepad.com/kmkat_and_her_kneedles/2010/11/the-indestructible-burger.html",
+                            "og:description": "We have all read or heard about the McDonald's hamburger that would neither mold nor rot nor decompose in any significant way, supposedly showing how little food value actually exists in one. Real food wouldn't act like that, right? Here,...",
+                            "twitter:image": "https://kmkat.typepad.com/.a/6a00d8341bfaea53ef0133f51aa62b970b-600wi"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://kmkat.typepad.com/.a/6a00d8341bfaea53ef0133f51aa62b970b-600wi"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The indestructible burger. - kmkat and her kneedles\n===============          \n===========================================================================\nKnitting, stuff, other stuff, and some more knitting\n----------------------------------------------------\n |  | \n07 November 2010\n----------------\n### The indestructible burger.\n]\nWe have all read or heard about the McDonald's hamburger that would neither mold nor rot nor decompose in any significant way, supposedly showing how little food value actually exists in one. _Real food wouldn't act like that, right?_\n, a food writer discourses on the subject.\n_\"The problem with all of these tests is that there is but a single data point, and a single data point is about as useless as a one armed man in a clapping contest. Who knows why those burgers didn't decompose?...__Without experimentation, there is no science. Without science, there is no proof. Without proof, there is no truth, and without truth, well where would we be?...It seems to me that the only thing that can last longer than a McDonald's hamburger is an internet meme about them. My project for the next few weeks: design and carry out the first well-documented, scientific experiment to shed some light on whether or not there is something truly evil lurking between the buns._\"\nIn order to reach the truth he designs his own controlled experiment, comparing:\n1.  A plain McDonald's hamburger, stored on a plate at room temperature.\n2.  A homemade burger of the same weight and dimensions as a McDonald's burger. (using a store-bought bun because who bakes their own buns?)\n3.  A McDonald's hamburger patty on a store-bought bun.\n4.  A homemade patty on a McDonald's bun.\n5.  A McDonald's hamburger stored in its original packaging.\n6.  A McDonald's hamburger stored in a zipper-lock bag.\n7.  A plain Quarter Pounder.\n8.  A homemade quarter pounder.\nThe  are.. _surprising_. And, to those of us who rather like sensational results and...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "Kmkat appears to be a personal blog, which typically prioritizes individual expression over rigorous reporting. While it may offer interesting perspectives, it cannot be regarded as a reliable source for verifying facts or claims, leading to a lower trust score."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This evidence discusses the perception of McDonald's burgers as indestructible but emphasizes the need for a scientific approach to investigate such claims. It indicates skepticism about the food's actual qualities, aligning with the assessment of the claims made in the video but lacks specific detail related to digestion and the video itself."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "PFAS: The 'Forever Chemicals' You Couldn't Escape if You Tried ...",
+                "htmlTitle": "PFAS: The &#39;Forever Chemicals&#39; You Couldn&#39;t Escape if You Tried ...",
+                "link": "https://www.nytimes.com/2022/04/12/us/pfas-chemicals-fast-food.html",
+                "displayLink": "www.nytimes.com",
+                "snippet": "Jun 3, 2023 ... Virtually indestructible, these artificial compounds are used in fast-food packaging and countless household items, but they have been found\u00a0...",
+                "htmlSnippet": "Jun 3, 2023 <b>...</b> Virtually <b>indestructible</b>, these artificial compounds are used in <b>fast</b>-<b>food</b> packaging and countless household items, but they have been found&nbsp;...",
+                "formattedUrl": "https://www.nytimes.com/2022/04/12/us/pfas-chemicals-fast-food.html",
+                "htmlFormattedUrl": "https://www.nytimes.com/2022/04/12/us/pfas-chemicals-fast-<b>food</b>.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOMB1PUQ8XriW3AQNE0UfoPGXQZJc8Gk5zh5zMdDu-WJ1FwfUATfbzLFd0&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static01.nyt.com/images/2022/04/18/science/00xp-packaging-print/00xp-packaging2-facebookJumbo.jpg?year=2022&h=549&w=1050&s=7f8e0d85b714add5abac7c1c3741512593417f99cb2563d50dee8acdfcd288fc&k=ZQJBKqZ0VN",
+                            "nyt_uri": "nyt://article/37db69e4-5c37-5c1e-8921-60f8d0eee4e4",
+                            "twitter:app:id:googleplay": "com.nytimes.android",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2022-04-12T16:03:19.000Z",
+                            "pt": "article",
+                            "twitter:url": "https://www.nytimes.com/2022/04/12/us/pfas-chemicals-fast-food.html",
+                            "pdate": "20220412",
+                            "articleid": "100000008273525",
+                            "al:android:package": "com.nytimes.android",
+                            "al:ipad:app_store_id": "357066198",
+                            "twitter:app:name:googleplay": "NYTimes",
+                            "og:description": "Virtually indestructible, these artificial compounds are used in fast-food packaging and countless household items, but they have been found as far away as virgin forests.",
+                            "twitter:image": "https://static01.nyt.com/images/2022/04/18/science/00xp-packaging-print/00xp-packaging2-videoSixteenByNineJumbo1600.jpg?year=2022&h=899&w=1600&s=fadea2fcf01412f5bcc51e7a3ba097e9203f6f46eb7d0192145653b36f4b5915&k=ZQJBKqZ0VN&tw=1",
+                            "pst": "News",
+                            "twitter:image:alt": "The substances are found in packaging used not only at fast-food restaurants like McDonald\u2019s and Burger King, but also at more health-oriented spots like Cava and Sweetgreen.",
+                            "al:iphone:app_name": "NYTimes",
+                            "article:modified_time": "2023-06-03T18:21:27.055Z",
+                            "news_keywords": "HazMat,PFAS,Chemicals,Roy Plunkett,DuPont,Food,Containers and Packaging,Fast food,McDonald&#8217;s Corp;McDonald&#8217;s Corp.;McDonald's;McDonald's Corp.;McDonald's Corporation (MCD);McDonald&#8217;s;McDonald&#8217;s Corporation;McDonald's Corp;McDonald's Corporation",
+                            "article:content_tier": "metered",
+                            "msapplication-starturl": "https://www.nytimes.com",
+                            "image": "https://static01.nyt.com/images/2022/04/18/science/00xp-packaging-print/00xp-packaging2-facebookJumbo.jpg?year=2022&h=549&w=1050&s=7f8e0d85b714add5abac7c1c3741512593417f99cb2563d50dee8acdfcd288fc&k=ZQJBKqZ0VN",
+                            "og:type": "article",
+                            "og:image:alt": "The substances are found in packaging used not only at fast-food restaurants like McDonald\u2019s and Burger King, but also at more health-oriented spots like Cava and Sweetgreen.",
+                            "twitter:title": "PFAS: The \u2018Forever Chemicals\u2019 You Couldn\u2019t Escape if You Tried (Published 2022)",
+                            "article:section": "U.S.",
+                            "cg": "us",
+                            "pubp_event_id": "pubp://event/19d233c8d9694c429e8b2b4b4aa60930",
+                            "og:title": "PFAS: The \u2018Forever Chemicals\u2019 You Couldn\u2019t Escape if You Tried (Published 2022)",
+                            "url": "https://www.nytimes.com/2022/04/12/us/pfas-chemicals-fast-food.html",
+                            "article:tag": "Hazardous and Toxic Substances",
+                            "al:iphone:url": "nytimes://www.nytimes.com/2022/04/12/us/pfas-chemicals-fast-food.html",
+                            "al:android:url": "nyt://article/37db69e4-5c37-5c1e-8921-60f8d0eee4e4",
+                            "twitter:app:url:googleplay": "nyt://article/37db69e4-5c37-5c1e-8921-60f8d0eee4e4",
+                            "al:ipad:url": "nytimes://www.nytimes.com/2022/04/12/us/pfas-chemicals-fast-food.html",
+                            "byl": "By Isabella Grull\u00f3n Paz",
+                            "twitter:description": "Virtually indestructible, these artificial compounds are used in fast-food packaging and countless household items, but they have been found as far away as virgin forests.",
+                            "al:iphone:app_store_id": "284862083",
+                            "al:ipad:app_name": "NYTimes",
+                            "og:url": "https://www.nytimes.com/2022/04/12/us/pfas-chemicals-fast-food.html",
+                            "al:android:app_name": "NYTimes",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static01.nyt.com/images/2022/04/18/science/00xp-packaging-print/00xp-packaging2-facebookJumbo.jpg?year=2022&h=549&w=1050&s=7f8e0d85b714add5abac7c1c3741512593417f99cb2563d50dee8acdfcd288fc&k=ZQJBKqZ0VN"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Advertisement\nSupported by\nVirtually indestructible, these artificial compounds are used in fast-food packaging and countless household items, but they have been found as far away as virgin forests.\nBy Isabella Grull\u00f3n Paz\nBased on nothing more than their name, per- and polyfluoroalkyl substances certainly don\u2019t sound like something you\u2019d want to find in your burger wrapper. But according to a recent investigation by Consumer Reports, they\u2019re very much there \u2014 as well as in your salad bowl, fry bag and sandwich wrap.\nSo what are these virtually indestructible compounds, created in a lab in 1938 by a 27-year-old chemist? And how worried do you need to be about them?\nThis is what you should know about PFAS.\nAs one researcher put it: \u201ceverywhere.\u201d\nPFAS are in your shampoo bottle, your stain-resistant couch, your dental floss, your bicycle lubricant. And when these multipurpose compounds are used in food packaging, they have a way of transferring to the food itself. To say that PFAS are difficult to avoid is an understatement.\nAlthough these substances have been in use for eight decades, regulators have only recently acquired the scientific understanding and technical capacity needed to test for them at the very low concentrations \u2014 measured in parts per trillion \u2014 at which they\u2019re present in food, according to the Food and Drug Administration.\nIn light of those advances, the F.D.A. recommends not reading too much into the fact that a given product might have \u201cdetectable\u201d levels of the chemicals. \u201cEven when there have been detectable levels of PFAS,\u201d the agency said, \u201cour safety assessments have shown no cause for avoiding these foods.\u201d\nWe are having trouble retrieving the article content.\nPlease enable JavaScript in your browser settings.\nThank you for your patience while we verify access. If you are in Reader mode please exit and\u00a0log into\u00a0your Times account, or\u00a0subscribe\u00a0for all of The Times.\nThank you for your patience while we verify access.\nAlready a subscriber?\u00a0Log in.\nWant all of The Times?\u00a0Subscribe.\nAdvertisement",
+                    "content_tokens": 428
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The New York Times is a well-established newspaper known for its thorough investigative journalism, fact-checking, and editorial standards. It generally presents credible information and is a trusted source for news, making it an excellent resource for evaluating the accuracy of claims."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-06-03"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "The focus on indestructible chemicals used in food packaging is tangential to the discussion about the food itself. It does not directly connect to the claims about the digestibility or the observations in the viral video, resulting in a lower relevance score."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "How long does a McDonald's hamburger last unrefrigerated? - Quora",
+                "htmlTitle": "How long does a <b>McDonald&#39;s</b> hamburger last unrefrigerated? - Quora",
+                "link": "https://www.quora.com/How-long-does-a-McDonalds-hamburger-last-unrefrigerated",
+                "displayLink": "www.quora.com",
+                "snippet": "Nov 5, 2019 ... The general rule of thumb is that any cooked food should be consumed or refrigerated within two hours. After that, bacteria begin to grow,\u00a0...",
+                "htmlSnippet": "Nov 5, 2019 <b>...</b> The general rule of thumb is that any cooked <b>food</b> should be consumed or refrigerated within two hours. After that, bacteria begin to grow,&nbsp;...",
+                "formattedUrl": "https://www.quora.com/How-long-does-a-McDonalds-hamburger-last-unre...",
+                "htmlFormattedUrl": "https://www.quora.com/How-long-does-a-<b>McDonalds</b>-hamburger-last-unre...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "al:android:url": "intent://www.quora.com/How-long-does-a-McDonalds-hamburger-last-unrefrigerated#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FHow-long-does-a-McDonalds-hamburger-last-unrefrigerated&logging_data=uid%3DNone;end",
+                            "theme-color": "#b92b27",
+                            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+                            "al:android:package": "com.quora.android",
+                            "fb:pages": "255232486973",
+                            "twitter:widgets:theme": "light"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...s burgers are prepared in a way that \u201cremoves excess moisture\u201d \u2026 which I interpret as meaning \u201cthey\u2019re dryer than the Sahara\u201d and McMummyBurgers are only REALLY tasty when they\u2019re within the golden hour of their entombment in the Plastic Mummy Case.\nMcDonalds meat patties (at least in America) begin with force-fattened young cattle which are kept in rather stressful conditions and fed food that causes their guts to be damaged. They deal with this by giving them corrective doses of antibiotics and certain steroids that keep them gaining rather than losing muscle. Then they\u2019re quick-slaughtered, parted out in as sanitary a set of conditions as they can achieve for the price (because rotting meat cannot be sold) and then super-fast frozen. They\u2019re thawed just enough to complete the removal of meat from bones, and turned into various forms of ground beef, still at very low temperature. Then, the burgers themselves are formed and frozen. The temperatures at which they\u2019re frozen and packed and kept will stun or kill most decay bacteria.\nThen, they\u2019re transported in refrigerated trucks to the individual franchised stores. There, they defrost them enough to be cooked, and when they do cook them, it\u2019s quick but complete. There is no such thing as a rare McBurger. Any excess water that hasn\u2019t been freeze-dried off the outside, is sweated out during the process of cooking the meat to well-done.\nNote that the cooks all have to meet sanitary requirements, so as not to contaminate the burgers.  \nThey then put them on their various vessels of bread with oily sauces, vegetables, and oh yes the tomatoes are kept from touching the meat. They\u2019re placed in their final resting boxes and kept under heat lamps.\nThey\u2019re kept at the legally mandated holding temperature, and if they aren\u2019t sold within an hour or two they are thrown away. Discarded. This is because (1) they taste unhappy and we can\u2019t have that in any happy meal, and (2) they might grow bacteria.\nOnce delivered into the hands of their customers, it\u2019s expected that they will be eaten within a few minutes. An hour at most. So they\u2019ll still be edible and taste exactly like a McBurger.\nBack in college, my then-future wife made a movie for a class she needed \u2026 and it involved googly eyes attached to fast food and was shot with an 8mm camera.\nThe story of an ordinary McDonalds burger which became aware of its existence, and became Cosmically McWare (1). It knew its purpose, to be eaten...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Quora is a question-and-answer platform where users share knowledge. The content can be insightful but varies widely in accuracy, as it is user-generated. Many answers are based on personal experiences or opinions rather than verified facts, leading to a moderate trust level."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2019-11-05"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "This evidence discusses the conditions under which McDonald's hamburgers might last or be safe to eat. While informative, it does not address the qualities of the food in the context of the video or the claim of indestructibility, resulting in a lower relevance score."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Response to myth that McDonald's burgers do not decompose",
+                "htmlTitle": "Response to myth that <b>McDonald&#39;s</b> burgers do not decompose",
+                "link": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/burger-myths-busted.html",
+                "displayLink": "corporate.mcdonalds.com",
+                "snippet": "Without sufficient moisture \u2013 either in the food itself or the environment \u2013 bacteria and mold may not grow and therefore, decomposition is unlikely. So if food\u00a0...",
+                "htmlSnippet": "Without sufficient moisture \u2013 either in the <b>food</b> itself or the environment \u2013 bacteria and mold may not grow and therefore, decomposition is unlikely. So if <b>food</b>&nbsp;...",
+                "formattedUrl": "https://corporate.mcdonalds.com/corpmcd/our.../burger-myths-busted.html",
+                "htmlFormattedUrl": "https://corporate.<b>mcdonalds</b>.com/corpmcd/our.../burger-myths-busted.html",
+                "pagemap": {
+                    "imageobject": [
+                        {
+                            "contenturl": "https://corporate.mcdonalds.com/content/dam/sites/corp/nfl/categories/m-logo_108x108.jpg"
+                        },
+                        {
+                            "contenturl": "https://corporate.mcdonalds.com/content/dam/sites/corp/nfl/categories/m-logo_108x108.jpg"
+                        },
+                        {
+                            "contenturl": "https://corporate.mcdonalds.com/content/dam/sites/corp/nfl/icons/instagram.png"
+                        },
+                        {
+                            "contenturl": "https://corporate.mcdonalds.com/content/dam/sites/corp/nfl/icons/linkedin-logo2.png"
+                        },
+                        {
+                            "contenturl": "https://corporate.mcdonalds.com/content/dam/sites/corp/nfl/icons/tiktok-icon.png"
+                        },
+                        {
+                            "contenturl": "https://corporate.mcdonalds.com/content/dam/sites/corp/nfl/logo/m-logo_108x108.jpg"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "template": "article-details-full-width",
+                            "pagetype": "newsroom",
+                            "og:type": "website",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:title": "Response to myth that McDonald\u2019s burgers do not decompose",
+                            "title": "Response to myth that McDonald\u2019s burgers do not decompose",
+                            "og:url": "https://www.mcdonalds.com/corpmcd/our-stories/article/burger-myths-busted.html",
+                            "og:description": "The reality is that our burgers are made only with 100% USDA inspected beef. There are no preservatives or fillers in our patties and the only thing ever added is a touch of salt and pepper on the grill."
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Approach & Progress\n    *   Food Quality & Sourcing\n    *   Our Planet\n    *   Community Connection\n    *   Jobs, Inclusion & Empowerment\n    *   Performance & Reporting\n*   Our Stories\n    *        Our Stories]\n    *        Press Releases]\n    *        Media Assets Library]\n    *   Our Stories\n    *   Press Releases\n    *   Media Assets Library\n        *        Menu Items]\n        *        Logos]\n        *        Restaurants]\n        *   Menu Items\n        *   Logos\n        *   Restaurants\n*   Investors\n    *        Financial Information]\n    *        Events & Presentations]\n    *        Stock Information]\n    *        Shareholder Resources]\n    *        Corporate Governance]\n    *   Financial Information\n    *   Events & Presentations\n    *   Stock Information\n    *   Shareholder Resources\n    *   Corporate Governance\nResponse to myth that McDonald\u2019s burgers do not decompose\n=========================================================\nAugust 31, 2020\nIn the right environment, our burgers, like most other foods, could decompose.\nBut, in order to decompose, you need certain conditions \u2013 specifically moisture. Without sufficient moisture \u2013 either in the food itself or the environment \u2013 bacteria and mold may not grow and therefore, decomposition is unlikely. So if food is or becomes dry enough, it is unlikely to grow mold or bacteria or decompose.\u00a0 Food prepared at home that is left to dehydrate could see similar results. Look closely, the burgers you are seeing are likely dried out and dehydrated, and by no means \u201cthe same as the day they were purchased.\u201d\nThe reality is that our burgers are made only with 100% USDA inspected beef. There are  and the only thing ever added is a touch of salt and pepper on the grill.\nLatest Stories\n--------------\n* * *\n*   Our Company\n    -----------\n    *   \n    *   \n    *   \n*   Our Purpose & Impact\n    --------------------\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Investors\n    ---------\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   All Stories\n    -----------\n    *   \n    *   \n    *   \n*   Franchising Overview\n    --------------------\n    *   \n    *   \n*   Contact\n    -------\n    *   \n    *   \nOur Company\n-----------\n*   \n*   \n*   \nOur Purpose & Impact\n--------------------\n*   \n*   \n*   \n*...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "This is the official corporate website for McDonald's, providing information about their policies, products, and values. While it is a credible source for facts about the company, it may present information in a way that favors its public image. Thus, it can still serve as a reliable source for corporate-related inquiries."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This evidence provides a direct response from McDonald's to myths about their burgers not decomposing. It presents a straightforward explanation about the conditions necessary for food decomposition, helping to debunk the claim of indestructibility while emphasizing that food can decompose under the right conditions. Its relevance lies in addressing misconceptions directly related to the claim."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Is it safe to eat really old McDonalds fries if they show no signs of ...",
+                "htmlTitle": "Is it safe to eat really old <b>McDonalds</b> fries if they show no signs of ...",
+                "link": "https://www.quora.com/Is-it-safe-to-eat-really-old-McDonalds-fries-if-they-show-no-signs-of-decomposition",
+                "displayLink": "www.quora.com",
+                "snippet": "Aug 22, 2017 ... ... McDonald's burgers and fries sit there and still be edible? As long as any other food. McDonalds food being indestructible and won't rot is\u00a0...",
+                "htmlSnippet": "Aug 22, 2017 <b>...</b> ... <b>McDonald&#39;s</b> burgers and fries sit there and still be edible? As long as any other <b>food</b>. <b>McDonalds food</b> being <b>indestructible</b> and won&#39;t rot is&nbsp;...",
+                "formattedUrl": "https://www.quora.com/Is-it-safe-to-eat-really-old-McDonalds-fries-if-they-...",
+                "htmlFormattedUrl": "https://www.quora.com/Is-it-safe-to-eat-really-old-<b>McDonalds</b>-fries-if-they-...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "al:android:url": "intent://www.quora.com/Is-it-safe-to-eat-really-old-McDonalds-fries-if-they-show-no-signs-of-decomposition#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FIs-it-safe-to-eat-really-old-McDonalds-fries-if-they-show-no-signs-of-decomposition&logging_data=uid%3DNone;end",
+                            "theme-color": "#b92b27",
+                            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+                            "al:android:package": "com.quora.android",
+                            "fb:pages": "255232486973",
+                            "twitter:widgets:theme": "light"
+                        }
+                    ],
+                    "QAPage": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "Is it safe to eat really old McDonalds fries if they show no signs of decomposition? - Quora\n===============\nSomething went wrong. Wait a moment and try again.\nTry again\nSkip to content\nSkip to search\nSign In\nIs it safe to eat really old McDonalds fries if they show no signs of decomposition?\nAll related (33)\nSort\nRecommended\n]\nSecretary/Librarian/Resource Clerk (1999\u2013present) \u00b7 Author has 4.5K answers and 3.7M answer views\n\u00a0\u00b7\u00a0\nI would not take a chance on them if I didn\u2019t know how old they were.\nI depends on how long they have been sitting around and where they were stored. It might not hurt you, but they probably wouldn\u2019t taste very good.\nUpvote \u00b7\n]\nDirector (2005\u2013present) \u00b7 Author has 4.5K answers and 2.8M answer views\n\u00a0\u00b7\u00a0\nRelated\nLet's say there's a zombie apocalypse, how long can the old McDonald's burgers and fries sit there and still be edible?\nAs long as any other food. McDonalds food being indestructible and won\u2019t rot is a myth and depends a lot on the conditions. McDonalds meat will be inedible if it\u2019s left out for more than a few hours, the same way any meat will spoil.\nSome of this may depend on where you are. McDonalds often sources it\u2019s food locally, here in Ireland they use Irish beef and Irish potatoes because we can produce those two things pretty cheaply and Irish consumers won\u2019t eat anything but Irish meat and potatoes. Our meat is of a universally high standard, we can\u2019t make bad meat products, we have very high food stan\nContinue Reading\nAs long as any other food. McDonalds food being indestructible and won\u2019t rot is a myth and depends a lot on the conditions. McDonalds meat will be inedible if it\u2019s left out for more than a few hours, the same way any meat will spoil.\nSome of this may depend on where you are. McDonalds often sources it\u2019s food locally, here in Ireland they use Irish beef and Irish potatoes because we can produce those two things pretty cheaply and Irish consumers won\u2019t eat anything but Irish meat and potatoes. Our meat is of a universally high standard, we can\u2019t make bad...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Quora is a question-and-answer platform where users share knowledge. The content can be insightful but varies widely in accuracy, as it is user-generated. Many answers are based on personal experiences or opinions rather than verified facts, leading to a moderate trust level."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2017-08-22"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This evidence mentions the perception of McDonald's food being indestructible but discusses specific conditions affecting the food's edibility more generally. It does not respond to the video evidence or detail issues of digestibility, leading to a score that reflects some relevance but less utility in evaluating the specific claims made."
+                }
+            }
+        }
+    ]
+}

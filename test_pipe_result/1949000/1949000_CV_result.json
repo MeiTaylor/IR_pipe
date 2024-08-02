@@ -1,0 +1,31 @@
+{
+    "Claim": "Internet celebrity \"Damn Daniel\" was mugged and robbed of his shoes.",
+    "Video_information": {
+        "video_date": 20160216.0,
+        "platform": "twitter",
+        "video_headline": "Damn Daniel",
+        "video_transcript": "Damn, Daniel. Damn, Daniel. Damn, Daniel. Damn, Daniel. Back at it again with the white van. Damn, Daniel. Damn, Daniel. Tommy's sword. Damn, Daniel. Damn. Daniel. Damn. Daniel, back at it again with the white vans. Stussy man. Damn. Daniel.",
+        "Video_descriptor": "The video opens with a scene of a man wearing a backpack walking down a sidewalk in an urban setting, surrounded by various signs and advertisements. He appears to be in motion, potentially walking or jogging, as he makes his way towards a building. The man is dressed casually in a denim jacket and black pants, embodying a carefree attitude. As he enters the building, indications of a swimming pool become evident, with signage reading 'WATER POOL' and 'The Water Polo Club' in the vicinity. The man is then observed sitting on a bench next to the pool, where he proceeds to take off his shoes and socks. Following this, he switches into a different pair of shoes, suggesting a change in activity or mindset. The man is captured walking away from the pool, indicating a shift in his journey or purpose. The video culminates with the man continuing his walk down the sidewalk, echoing the initial scene and circular narrative structure. Throughout the video, snapshots depict various moments of the man's outdoor presence, showcasing interactions with objects and individuals in a seemingly mundane yet purposeful sequence of events. These key frames capture his attire, demeanor, and surroundings, creating a visual narrative that unfolds within a familiar urban landscape, hinting at elements of connection, movement, and personal exploration. Each frame offers glimpses into the man's interactions and surroundings, painting a picture of a day-in-the-life narrative that remains open to individual interpretation and reflection."
+    },
+    "Initial_Question_Generation": {
+        "Question": "Does the video evidence support or contradict the claim that 'Damn Daniel' was mugged and robbed of his shoes?",
+        "Answer": "The video evidence does not support the claim that 'Damn Daniel' was mugged and robbed of his shoes. Instead, the available evidence indicates that such reports are likely hoaxes and viral misinformation. According to a report from Business Insider, the claim that Daniel Lara was robbed for his sneakers was not true. It specifically mentions that the reports of him being hospitalized after being beaten and robbed were propagated by a satire website and were not factual. Additionally, the Washington Post highlights that there were claims circulating on social media about the 'Damn Daniel' meme, suggesting that he had been mugged. However, these claims appear to be part of a larger discussion around misinformation and have not been substantiated by credible sources. ABC7 provides context about the type of prank known as \"swatting,\" which the creator of 'Damn Daniel' became a victim of—but does not mention any incident involving mugging or robbery of shoes. This supports the idea that misinformation was spreading rather than actual events occurring regarding theft. In summary, the evidence clearly indicates that the claim of Daniel being mugged and robbed of his shoes is unfounded and likely a product of misinformation.",
+        "Confidence": "95%"
+    },
+    "CVResult": {
+        "Judgment": "Yes",
+        "Confidence": "95%",
+        "Reason": "The existing information is sufficient to determine the truthfulness of the claim that 'Damn Daniel' was mugged and robbed of his shoes. The QA_CONTEXTS provide a clear answer that the claim is unfounded and likely a product of viral misinformation. Specifically, the response notes that reports of Daniel Lara being robbed were propagated by a satire website and were not factual. It references sources like Business Insider and the Washington Post, which confirm that the claims about mugging and robbery lacked credible substantiation. Given that credible sources refute the claim and identify it as misinformation, the reliability of this determination is high."
+    },
+    "Final_Judgement": {
+        "Answer": "False",
+        "Reasons": "The claim that 'Damn Daniel' was mugged and robbed of his shoes is contradicted by the evidence provided in the video and additional sources. The video does not show any such incident occurring; rather, it presents a mundane narrative of a man changing shoes, which does not imply theft or robbery. Furthermore, credible reports suggest that the claims of Daniel being robbed were false and propagated by satire and misinformation sources, as indicated by Business Insider and the Washington Post, which clarify that no substantiated evidence supports the robbery claim. ABC7 also discusses 'swatting,' a different type of incident involving the creator but does not link to any mugging or robbery incidents. This points to the claim being a product of misinformation rather than a factual event. Therefore, the video evidence does not substantiate the claim of a mugging or robbery [Initial_Question_Generation_Query 1_evidence 1].",
+        "Therefore, the Claim authenticity is": "False",
+        "The information type is": "False",
+        "The specific type of False Information is": "Text unsupported by the video"
+    },
+    "article": {
+        "article_url": "https://www.snopes.com/fact-check/daniel-lara-mugged-vans/",
+        "article_rating": "False"
+    }
+}

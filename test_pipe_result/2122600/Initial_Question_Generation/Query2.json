@@ -1,0 +1,753 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Can kiwi and banana be hybrid fruits?",
+                "totalResults": "2080000",
+                "searchTerms": "Can kiwi and banana be hybrid fruits?",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Can kiwi and banana be hybrid fruits?",
+                "totalResults": "2080000",
+                "searchTerms": "Can kiwi and banana be hybrid fruits?",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.428798,
+        "formattedSearchTime": "0.43",
+        "totalResults": "2080000",
+        "formattedTotalResults": "2,080,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Is the Banana Kiwi for Real?",
+                "htmlTitle": "Is the <b>Banana Kiwi</b> for Real?",
+                "link": "https://www.treehugger.com/banana-kiwi-real-4868724",
+                "displayLink": "www.treehugger.com",
+                "snippet": "So the concept of using part of a fruit or vegetable to grow a new edible fruit or vegetable isn't crazy. But Can There Be a Banana-Kiwi Hybrid? Can you really ...",
+                "htmlSnippet": "So the concept of using part of a <b>fruit</b> or vegetable to grow a new edible <b>fruit</b> or vegetable isn&#39;t crazy. But <b>Can</b> There Be a <b>Banana</b>-<b>Kiwi Hybrid</b>? <b>Can</b> you really&nbsp;...",
+                "formattedUrl": "https://www.treehugger.com/banana-kiwi-real-4868724",
+                "htmlFormattedUrl": "https://www.treehugger.com/<b>banana</b>-<b>kiwi</b>-real-4868724",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ0onam8YqvAq5-aXVbgV30B77AXSVw39LtNsEKxagLv3EKlgnahgMUuU&s",
+                            "width": "299",
+                            "height": "169"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.treehugger.com/thmb/EiZQkk0r60VArTqCOUrHXRQ56Yg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2014__06__hybridbananalarge-46a8a04a63744c47aeeda882aa8e4b68.jpg",
+                            "twitter:card": "summary_large_image",
+                            "msapplication-square70x70logo": "/static/3.212.0/icons/favicons/mstile-70x70.png",
+                            "sailthru.tags": "home-and-garden,home",
+                            "og:site_name": "Treehugger",
+                            "msapplication-wide310x150logo": "/static/3.212.0/icons/favicons/mstile-310x150.png",
+                            "msapplication-tileimage": "/static/3.212.0/icons/favicons/mstile-144x144.png",
+                            "og:description": "There are many foods you can grow from leftover scraps. Is a banana kiwi one of them?",
+                            "twitter:image": "https://www.treehugger.com/thmb/EiZQkk0r60VArTqCOUrHXRQ56Yg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2014__06__hybridbananalarge-46a8a04a63744c47aeeda882aa8e4b68.jpg",
+                            "twitter:site": "@treehuggercom",
+                            "msapplication-square310x310logo": "/static/3.212.0/icons/favicons/mstile-310x310.png",
+                            "emailcontenttype": "STRUCTUREDCONTENT",
+                            "parsely-section": "Home & Garden",
+                            "msapplication-tilecolor": "#F4F4F4",
+                            "article:section": "Treehugger",
+                            "og:type": "article",
+                            "twitter:title": "Is the Banana Kiwi for Real?",
+                            "emailvertical": "TREEHUGGER",
+                            "og:title": "Is the Banana Kiwi for Real?",
+                            "msapplication-square150x150logo": "/static/3.212.0/icons/favicons/mstile-150x150.png",
+                            "article:author": "https://www.facebook.com/Treehugger",
+                            "parsely-tags": "Treehugger,Home & Garden,Home",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "There are many foods you can grow from leftover scraps. Is a banana kiwi one of them?",
+                            "og:url": "https://www.treehugger.com/banana-kiwi-real-4868724",
+                            "sailthru.author": "Robin Shreeves"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.treehugger.com/thmb/EiZQkk0r60VArTqCOUrHXRQ56Yg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2014__06__hybridbananalarge-46a8a04a63744c47aeeda882aa8e4b68.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Business & Policy\n    *   \n    *   \n    *   \n    *   \n*   Home & Garden\n    *   \n    *   \n*   Science\n    *   \n    *   \n    *   \n    *   \n    *   \n*   Animals\n    *   \n    *   \n    *   \n    *   \n*   Culture\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Eco-Design\n    *   \n    *   \n    *   \n    *   \n    *   \n*   Clean Beauty\n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n*   *   \n    *   \n    *   \n    *   \nIs the Banana Kiwi for Real?\n============================\nBy\nWriter\n*   Cairn University\n*   Rowan University\n*   Wine School of Philadelphia\nRobin Shreeves is a freelance writer who focuses on sustainability, wine, travel, food, parenting, and spirituality.\nLearn about our \nUpdated May 8, 2020\n!:max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2014__06__hybridbananalarge-46a8a04a63744c47aeeda882aa8e4b68.jpg)\nWhen two different varieties of fruit are crossed, a hybrid is born. (Photo: David Koloechter/Shutterstock)\n*   \n*   \n*   \n*   \n*   \n*   \n*   \nA video has shown up in my Facebook timeline several times over the past couple of days. It looks real, and there are many  like celery or green onions. So the concept of using part of a fruit or vegetable to grow a new edible fruit or vegetable isn't crazy.\nBut Can There Be a Banana-Kiwi Hybrid?\n--------------------------------------\nCan you really take part of a banana and the end of a kiwi, put their flesh together, bury them in a pot, and grow a baniwi, as some people are calling it?\nSorry, but you can't. If you take a close look at the end product, it's clearly not real. It even has a stem to connect it to other bananas — just like bananas that grow on the tree. It's simply illogical, but people are sharing this video with comments like \"gotta try this.\"\nIf you watched to the end of the video, you'll...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Fake News: How to Create a Hybrid Kiwi-Banana Fruit | by Isis ...",
+                "htmlTitle": "Fake News: How to Create a <b>Hybrid Kiwi</b>-<b>Banana Fruit</b> | by Isis ...",
+                "link": "https://medium.com/@isisroque21/fake-news-how-to-create-a-hybrid-kiwi-banana-fruit-323a7313b591",
+                "displayLink": "medium.com",
+                "snippet": "Oct 20, 2019 ... If you compare the views from the original video to the one posted on Facebook, you can see the effects of social media sharing. Facebook is ...",
+                "htmlSnippet": "Oct 20, 2019 <b>...</b> If you compare the views from the original video to the one posted on Facebook, you <b>can</b> see the effects of social media sharing. Facebook is&nbsp;...",
+                "formattedUrl": "https://medium.com/.../fake-news-how-to-create-a-hybrid-kiwi-banana-fruit...",
+                "htmlFormattedUrl": "https://medium.com/.../fake-news-how-to-create-a-<b>hybrid</b>-<b>kiwi</b>-<b>banana</b>-fruit...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8reoO6VFSH1yDjkMYZluece4wJVspeYHkImb7RRUDfQQbYZMOy6KvP4&s",
+                            "width": "299",
+                            "height": "169"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://miro.medium.com/v2/resize:fit:653/1*hiLRGsYobkUMSTAokGlGcw.jpeg",
+                            "twitter:app:url:iphone": "medium://p/323a7313b591",
+                            "theme-color": "#000000",
+                            "article:published_time": "2019-10-21T01:17:55.192Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Medium",
+                            "al:android:package": "com.medium.reader",
+                            "twitter:label1": "Reading time",
+                            "twitter:app:id:iphone": "828256236",
+                            "title": "Fake News: How to Create a Hybrid Kiwi-Banana Fruit | by Isis Roque | Medium",
+                            "al:ios:url": "medium://p/323a7313b591",
+                            "og:description": "On March 13, 2016, a Facebook page called “Foods Around” posted a video with no caption of a man creating a supposed hybrid of a kiwi and…",
+                            "al:ios:app_store_id": "828256236",
+                            "twitter:data1": "3 min read",
+                            "twitter:site": "@Medium",
+                            "og:type": "article",
+                            "twitter:title": "Fake News: How to Create a Hybrid Kiwi-Banana Fruit",
+                            "al:ios:app_name": "Medium",
+                            "author": "Isis Roque",
+                            "og:title": "Fake News: How to Create a Hybrid Kiwi-Banana Fruit",
+                            "al:web:url": "https://medium.com/@isisroque21/fake-news-how-to-create-a-hybrid-kiwi-banana-fruit-323a7313b591",
+                            "article:author": "https://medium.com/@isisroque21",
+                            "twitter:image:src": "https://miro.medium.com/v2/resize:fit:653/1*hiLRGsYobkUMSTAokGlGcw.jpeg",
+                            "al:android:url": "medium://p/323a7313b591",
+                            "referrer": "unsafe-url",
+                            "fb:app_id": "542599432471018",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1,maximum-scale=1",
+                            "twitter:description": "On March 13, 2016, a Facebook page called “Foods Around” posted a video with no caption of a man creating a supposed hybrid of a kiwi and…",
+                            "og:url": "https://medium.com/@isisroque21/fake-news-how-to-create-a-hybrid-kiwi-banana-fruit-323a7313b591",
+                            "twitter:app:name:iphone": "Medium",
+                            "al:android:app_name": "Medium"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://miro.medium.com/v2/resize:fit:653/1*hiLRGsYobkUMSTAokGlGcw.jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... touching, and plant them in a pot. He then shows the supposed process of this fruit’s growth. The video is of some stems growing out of the pot he planted the hybrid on. It then transforms into what looks like a banana with some stems growing in the top of it. He then proceeds to take out the hybrid from the pot and cuts a slice, revealing the final product.\nThe clip cuts abruptly at the end, and it’s because it’s not the full video. It is cut up and edited in a way that makes it seem real. The original video was posted on the YouTube channel “Kin community” on April 1st, 2014. The first clue pointing to this video not authentic is the date it was published (April Fools). If you watch the full video, you can see at the end the creator wishing everyone a happy April Fool’s Day. Then if you proceed to read the description of the video, everything is explained. Quoting the creator, “if you are able to successfully grow the beautiful banana and kiwi combination demonstrated in this video, we recommend you proceed directly to your corner market and purchase a lottery ticket.” This means that if you do get these results, then you better try your luck next with the lottery!\nThe original video has one million views. If you compare the views from the original video to the one posted on Facebook, you can see the effects of social media sharing. Facebook is available everywhere, and anyone can access it and post anything they want. This site is often used as a credible source on arguments and the spreading of news. The thing is, everyone is so ready to share everything that they don’t stop to check if they’re real. While hybrid fruits are possible, a baniwi certainly isn’t one.\nWorks Cited\n“Banana Kiwi Fruit.” Facebook Watch, 13 Mar. 2016, https://www.facebook.com/FoodsAround/videos/866522853458163/.\n“Banana Kiwi Fruit | Kin Community.” YouTube, 1 Apr. 2014, https://www.youtube.com/watch?v=8rn08tINChA&feature=youtu.be.\nEvon, Dan. “FACT CHECK: How to Create a Hybrid Kiwi-Banana Fruit.” Snopes.com, 17 Mar. 2016, https://www.snopes.com/fact-check/banana-kiwi-hoax-video/.\n--\n--\nHelp\nStatus\nAbout\nCareers\nPress\nBlog\nPrivacy\nTerms\nText to speech\nTeams",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Is Kiwi a hybrid fruit? - Quora",
+                "htmlTitle": "Is <b>Kiwi</b> a <b>hybrid fruit</b>? - Quora",
+                "link": "https://www.quora.com/Is-Kiwi-a-hybrid-fruit",
+                "displayLink": "www.quora.com",
+                "snippet": "Jun 19, 2019 ... what we call a keen eye for detail. Now this out of the way i will go to stage 2. When we were picking fruit be it KIWI FRUIT, or apples, or ...",
+                "htmlSnippet": "Jun 19, 2019 <b>...</b> what we call a keen eye for detail. Now this out of the way i <b>will</b> go to stage 2. When we were picking <b>fruit</b> be it <b>KIWI FRUIT</b>, or <b>apples</b>, or&nbsp;...",
+                "formattedUrl": "https://www.quora.com/Is-Kiwi-a-hybrid-fruit",
+                "htmlFormattedUrl": "https://www.quora.com/Is-<b>Kiwi</b>-a-<b>hybrid</b>-fruit",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "al:android:url": "intent://www.quora.com/Is-Kiwi-a-hybrid-fruit#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FIs-Kiwi-a-hybrid-fruit&logging_data=uid%3DNone;end",
+                            "theme-color": "#b92b27",
+                            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+                            "al:android:package": "com.quora.android",
+                            "fb:pages": "255232486973",
+                            "twitter:widgets:theme": "light"
+                        }
+                    ],
+                    "QAPage": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...Skip to search\nSign In\nIs Kiwi a hybrid fruit?\n!\nAssistant\nBot\n · \nJul 14\nYes, the kiwifruit, also known simply as kiwi, is not a hybrid fruit. It is actually the edible berry of several species of woody vines in the genus Actinidia. The most common commercialized variety is the fuzzy kiwifruit, Actinidia deliciosa. Kiwifruit is native to China but is also grown in various other countries, such as New Zealand, Italy, and Chile. It is a popular fruit known for its bright green flesh and sweet-tart flavor, as well as being a good source of vitamin C, vitamin K, and dietary fiber.\nUpvote ·\n]\nFormer Truck Driver Storeman at Economech Services (1990–2020) · Author has 487 answers and 129.6K answer views\n · \nNo and certainly genetically modified, if you used a little logic you would understand that N.Z. needs the image of PURE and Quality to ALL of their products. When quality is of paramount importance then speed has to be substituted with care which in turn needs a good quick eye. what we call a keen eye for detail. Now this out of the way i will go to stage 2.\nWhen we were picking fruit be it KIWI FRUIT, or apples, or any fruit really we always looked for one of mother Natures little quirks that there was some changes to the fruit usually occurring by cross pollination, whether it was color, unu\nContinue Reading\nNo and certainly genetically modified, if you used a little logic you would understand that N.Z. needs the image of PURE and Quality to ALL of their products. When quality is of paramount importance then speed has to be substituted with care which in turn needs a good quick eye. what we call a keen eye for detail. Now this out of the way i will go to stage 2.\nWhen we were picking fruit be it KIWI FRUIT, or apples, or any fruit really we always looked for one of mother Natures little quirks that there was some changes to the fruit usually occurring by cross pollination, whether it was color, unusual shape, size, and we would tie a little ribbon to that branch for further exploration by the manager of the orchard. The rest is a secret for you to find out for your self but i will say that it is really self explanatory. Cheers Bill\nUpvote ·\n92\n91...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Which of these hybrid fruits do you want to taste most? : r/ChatGPT",
+                "htmlTitle": "Which of these <b>hybrid fruits</b> do you want to taste most? : r/ChatGPT",
+                "link": "https://www.reddit.com/r/ChatGPT/comments/1b92nms/which_of_these_hybrid_fruits_do_you_want_to_taste/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Mar 7, 2024 ... For real, the only reason I don't eat that much kiwi is how annoying the skin is to deal with.",
+                "htmlSnippet": "Mar 7, 2024 <b>...</b> For real, the only reason I don&#39;t eat that much <b>kiwi</b> is how annoying the skin is to deal with.",
+                "formattedUrl": "https://www.reddit.com/.../which_of_these_hybrid_fruits_do_you_want_to...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../which_of_these_<b>hybrid</b>_<b>fruits</b>_do_you_want_to...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM5rfKnCL4O15_UZ0mqwGLuN4yAUUruGXiLoIkWOl1RwdeYNzTDeljiPg&s",
+                            "width": "225",
+                            "height": "224"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://preview.redd.it/which-of-these-hybrid-fruits-do-you-want-to-taste-most-v0-ap3obn1umymc1.png?auto=webp&s=069a61627c9b6aabd855be9084818de6350934dc",
+                            "theme-color": "#000000",
+                            "og:image:width": "678",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/ChatGPT on Reddit: Which of these hybrid fruits do you want to taste most?",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/ChatGPT on Reddit: Which of these hybrid fruits do you want to taste most?",
+                            "og:image:height": "675",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/emptyplate - 376 votes and 213 comments",
+                            "twitter:image": "https://preview.redd.it/which-of-these-hybrid-fruits-do-you-want-to-taste-most-v0-ap3obn1umymc1.png?auto=webp&s=069a61627c9b6aabd855be9084818de6350934dc",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/ChatGPT/comments/1b92nms/which_of_these_hybrid_fruits_do_you_want_to_taste/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://preview.redd.it/which-of-these-hybrid-fruits-do-you-want-to-taste-most-v0-ap3obn1umymc1.png?auto=webp&s=069a61627c9b6aabd855be9084818de6350934dc"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Open navigation Go to Reddit Home\nGet the Reddit app  Log in to Reddit\nOpen settings menu\n*   *   *   \n### Get the Reddit app\nScan this QR code to download the app now\nOr check it out in the app stores\n  !!\nSubreddit to discuss about ChatGPT and AI. Not affiliated with OpenAI. Thanks Nat!\n* * *\nMembers Online\n•\nADMIN MOD\nWhich of these hybrid fruits do you want to taste most?\n-------------------------------------------------------\n ! !\n! \n*   &nbsp;\n*   &nbsp;\n* * *\n*   TOPICS\n*   Internet Culture (Viral)\n*   *   *   *   *   *   *   *   *   \n*   Games\n*   *   *   *   *   *   *   *   *   *   *   *   \n*   Q&As\n*   *   \n*   Technology\n*   *   *   *   *   *   *   *   *   *   \n*   Pop Culture\n*   *   *   *   *   *   \n*   Movies & TV\n*   *   *   *   *   *   *   *   *   *   *   *   *   *   \n* * *\n*   RESOURCES\n*   \n*   *   *   *   *   \n* * *\n*   *   *   \n* * *\n*   *   *   ",
+                    "content_tokens": 299
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Are These Fruit Hybrids Real or Fake? | MyRecipes",
+                "htmlTitle": "Are These <b>Fruit Hybrids</b> Real or Fake? | MyRecipes",
+                "link": "https://www.myrecipes.com/extracrispy/are-these-fruit-hybrids-real-or-fake",
+                "displayLink": "www.myrecipes.com",
+                "snippet": "Feb 13, 2018 ... See a Minneola or Honeybell on the shelves? You've got him to thank. Bakiwi. Bananas and kiwis are an irrefutably excellent flavor combo, ...",
+                "htmlSnippet": "Feb 13, 2018 <b>...</b> See a Minneola or Honeybell on the shelves? You&#39;ve got him to thank. Bakiwi. <b>Bananas</b> and <b>kiwis</b> are an irrefutably excellent flavor combo,&nbsp;...",
+                "formattedUrl": "https://www.myrecipes.com/extracrispy/are-these-fruit-hybrids-real-or-fake",
+                "htmlFormattedUrl": "https://www.myrecipes.com/extracrispy/are-these-fruit-<b>hybrid</b>s-real-or-fake",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6s21hrU90iCaupylD0DcSE71IeZb_B0FGEqSH0jKwg7XkzR6-3Hcflzo&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=face&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F19%2F2018%2F02%2F13%2Fhybrid-fruit-hero-2000.jpg",
+                            "theme-color": "#006165",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Are These Fruit Hybrids Real or Fake?",
+                            "og:image:width": "2000",
+                            "og:site_name": "MyRecipes",
+                            "twitter:url": "https://www.myrecipes.com/extracrispy/are-these-fruit-hybrids-real-or-fake",
+                            "og:title": "Are These Fruit Hybrids Real or Fake?",
+                            "og:image:height": "1000",
+                            "og:description": "Last weekend, I bit into my first pluot. I'm not usually a fan of plums on their own-they feel weirdly creepy on my teeth-but I love th...",
+                            "fb:pages": "74052302134",
+                            "twitter:image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=face&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F19%2F2018%2F02%2F13%2Fhybrid-fruit-hero-2000.jpg",
+                            "url": "https://www.myrecipes.com/extracrispy/are-these-fruit-hybrids-real-or-fake",
+                            "fb:app_id": "182096525173207",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "twitter:description": "Last weekend, I bit into my first pluot. I'm not usually a fan of plums on their own-they feel weirdly creepy on my teeth-but I love th...",
+                            "pinterest:media": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F19%2F2018%2F02%2F13%2Fhybrid-fruit-hero-2000.jpg",
+                            "og:url": "https://www.myrecipes.com/extracrispy/are-these-fruit-hybrids-real-or-fake",
+                            "pinterest:url": "https://www.myrecipes.com/extracrispy/are-these-fruit-hybrids-real-or-fake"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=face&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F19%2F2018%2F02%2F13%2Fhybrid-fruit-hero-2000.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... weirdly creepy on my teeth—but I love the flavor of . I live for  season, but the skin unnerves me sometimes. Perhaps I am a sensitive flower, but it would seem that a  would be a sensory hell custom made for me. Wrong! The  was delightful in both texture and flavor and I was cranky with myself for having only bought one.  aren't the only  on the market. Enterprising growers breed mash-ups—both deliberately and accidentally—to create new, and often entertainingly named  that highlight the best parts of each, while making a splash of their own.\nMost of these  are real, but one is a fake. Try to spot it.\nPeacherine\n----------\nThis peach-nectarine hybrid minimizes the outer fuzz of the former while maintaining its incomparable sweet, bursting flavor. Century-plus old volumes of the American Pomological Society records credit J. W. Philippi for at least one new kind of grape, and a 1908 letter to the editor from him in the _Pacific Rural Press_ expresses strong views on his potato hybridizing practices, but the peacherine may be Philippi's most delicious legacy.\nPlumcot\n-------\nBefore there were pluots—which are primarily plum—there were plumcots. In the late 19th century, a plant breeder named Luther Burbank developed this apricot-plum hybrid that's an equal, even mix of the two. They aren't especially easy to grow, and don't take well to harvesting and shipping, so a few enterprising breeders began crossing plumcots with plums to devise a more desirable mix for market. The flip side—with more apricot and a fuzzier skin—is called an aprium.\nTangelo\n-------\nCross a tangerine with a pomelo or a grapefruit, and boop—you've got a tangelo. This distinctive-looking fruit has a rather pronounced nipple at one end, is extremely juicy with a sweet start and a tart finish, and is bred to be easy to peel. Walter Tennyson Swingle is credited with introducing the earliest tangelo hybrid in 1897 and went on to perfect them throughout his career. See a Minneola or Honeybell on the shelves? You've got him to thank.\nBakiwi\n------\nBananas and kiwis are an irrefutably excellent flavor combo, so it was just a matter of time before someone thought to mash them up. New Zealand Botanist Graham Taylor loved the...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "10 Must-Know Hybrid Fruits",
+                "htmlTitle": "10 Must-Know <b>Hybrid Fruits</b>",
+                "link": "https://www.eatright.org/food/food-groups/fruits/10-must-know-hybrid-fruits",
+                "displayLink": "www.eatright.org",
+                "snippet": "Apr 23, 2019 ... Hybrids don't use genetically modified organism technology. Hybrids use traditional pollination that can ordinarily occur in nature. With ...",
+                "htmlSnippet": "Apr 23, 2019 <b>...</b> <b>Hybrids</b> don&#39;t use genetically modified organism technology. <b>Hybrids</b> use traditional pollination that <b>can</b> ordinarily occur in nature. With&nbsp;...",
+                "formattedUrl": "https://www.eatright.org/food/food.../fruits/10-must-know-hybrid-fruits",
+                "htmlFormattedUrl": "https://www.eatright.org/food/food.../<b>fruits</b>/10-must-know-<b>hybrid</b>-<b>fruits</b>",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8D1sowF3FCMQGJPKZ4loUpisCrq1ayHik7Wxwr5vzNKbKQgkse6nDNtEd&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "msapplication-config": "/Areas/Shared/favicons/browserconfig.xml",
+                            "og:image": "https://www.eatright.org/-/media/images/eatright-articles/eatright-article-thumbnails/10mustknowhybridfruits_600x450.jpg?h=450&w=600&rev=3ba8570a08794ab9ae119aa357e0d894&hash=F9C75FD53FA6A26609251A66E8202D36",
+                            "theme-color": "#ffffff",
+                            "twitter:card": "summary_large_image",
+                            "twitter:site": "@eatright",
+                            "viewport": "initial-scale=1.0, maximum-scale=2, width=device-width, user-scalable=yes, viewport-fit=cover",
+                            "og:title": "10 Must-Know Hybrid Fruits",
+                            "og:url": "https://www.eatright.org/food/food-groups/fruits/10-must-know-hybrid-fruits",
+                            "og:description": "With bizarre names, hybrids might sound like weird science, but these fruits and their many cousins are more natural and familiar than you might think.",
+                            "twitter:image": "https://www.eatright.org/-/media/images/eatright-articles/eatright-article-thumbnails/10mustknowhybridfruits_600x450.jpg?h=450&w=600&rev=3ba8570a08794ab9ae119aa357e0d894&hash=F9C75FD53FA6A26609251A66E8202D36"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.eatright.org/-/media/images/eatright-articles/eatright-article-thumbnails/10mustknowhybridfruits_600x450.jpg?h=450&w=600&rev=3ba8570a08794ab9ae119aa357e0d894&hash=F9C75FD53FA6A26609251A66E8202D36"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "10 Must-Know Hybrid Fruits\n===============\nBrowse Academy Websites\n*   ! \n*   ! \n*   ! \n*   ! \n]\n*   \n*   \n*   \n*   \nSearch by keyword \n*   Food\n    Food\n    ----\n    Food is essential for everyone. It plays a role in our culture, heritage and everyday lives, from ordinary days to special occasions and holidays. Learn about the importance of each food group and how to properly plan and prepare nutritious meals and snacks in a safe way.\n    ### \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    ### Food Groups\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    ### \n    *   \n    *   \n    *   \n    *   \n    ### Home Food Safety\n    *   \n    *   \n    *   \n    *   \n    *   \n    ### \n    *   \n    *   \n    *   \n    *   \n    ### Planning\n    *   \n    *   \n    *   \n    *   \n    *   \n    ### \n    *   \n    *   \n    *   \n    *   \n    ### Food Preparation\n    *   \n    *   \n    *   \n    *   \n    *   \n    ### \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    ### Cultural Cuisines and Traditions\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Health\n    Health\n    ------\n    Dietary needs change during each...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Why This April Fools' Kiwi Hybrid Is Bananas",
+                "htmlTitle": "Why This April Fools&#39; <b>Kiwi Hybrid</b> Is <b>Bananas</b>",
+                "link": "https://www.nationalgeographic.com/culture/article/april-fools-kiwi-banana-hybrid-video",
+                "displayLink": "www.nationalgeographic.com",
+                "snippet": "Apr 1, 2016 ... kiwana?) by squishing together chunks of the two fruits, burying them in soil, watering them, and waiting. When this hybrid matures, he says in ...",
+                "htmlSnippet": "Apr 1, 2016 <b>...</b> kiwana?) by squishing together chunks of the two <b>fruits</b>, burying them in soil, watering them, and waiting. When this <b>hybrid</b> matures, he says in&nbsp;...",
+                "formattedUrl": "https://www.nationalgeographic.com/.../april-fools-kiwi-banana-hybrid-vid...",
+                "htmlFormattedUrl": "https://www.nationalgeographic.com/.../april-fools-<b>kiwi</b>-<b>banana</b>-<b>hybrid</b>-vid...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoy6rbDHACAaezXx7QSDF3bkXC95Y-dNB6L8Zb24r4HsugaKxmIh6Zwrzp&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.natgeofe.com/n/fa578844-4147-4d3c-afdf-2b473be63a20/3_banana-kiwi-hybrid-fruit_16x9.jpg?w=1200",
+                            "twitter:app:id:googleplay": "com.natgeomobile.ngmagazine",
+                            "og:image:width": "1200",
+                            "theme-color": "#ffffff",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "04-01-2016",
+                            "og:site_name": "Culture",
+                            "twitter:url": "https://www.nationalgeographic.com/culture/article/april-fools-kiwi-banana-hybrid-video",
+                            "twitter:app:name:googleplay": "National Geographic",
+                            "medium": "website",
+                            "tax:series": "The Plate",
+                            "title": "Why This April Fools’ Kiwi Hybrid Is Bananas",
+                            "twitter:app:id:iphone": "418671597",
+                            "og:description": "A viral video explaining how to grow a banana-kiwi fooled many ahead of April 1. So how do hybrids really work? …",
+                            "twitter:creator": "@NatGeo",
+                            "tax:genres": "Blog",
+                            "article:publisher": "https://www.facebook.com/natgeo",
+                            "twitter:image:alt": "Why This April Fools’ Kiwi Hybrid Is Bananas",
+                            "twitter:site": "@NatGeo",
+                            "article:modified_time": "05-03-2021",
+                            "tax:audiences": "General",
+                            "og:type": "article",
+                            "twitter:title": "Why This April Fools’ Kiwi Hybrid Is Bananas",
+                            "article:section": "Culture",
+                            "og:title": "Why This April Fools’ Kiwi Hybrid Is Bananas",
+                            "og:image:height": "675",
+                            "tax:othersubjects": "People and Culture, Food, Television and Video, Work, Plants",
+                            "twitter:image:src": "https://i.natgeofe.com/n/fa578844-4147-4d3c-afdf-2b473be63a20/3_banana-kiwi-hybrid-fruit_16x9.jpg?w=1200",
+                            "tax:firstsubject": "Fruit",
+                            "referrer": "origin",
+                            "viewport": "initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                            "twitter:description": "A viral video explaining how to grow a banana-kiwi fooled many ahead of April 1. So how do hybrids really work? …",
+                            "og:locale": "en_US",
+                            "guid": "drn:src:natgeo:unison::prod:d8f1c157-2e16-47c0-be74-6440ef850cc8",
+                            "tax:events": "April Fool's Day",
+                            "og:url": "https://www.nationalgeographic.com/culture/article/april-fools-kiwi-banana-hybrid-video",
+                            "twitter:app:name:iphone": "National Geographic"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.natgeofe.com/n/fa578844-4147-4d3c-afdf-2b473be63a20/3_banana-kiwi-hybrid-fruit_16x9.jpg?w=1200"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Why This April Fools’ Kiwi Hybrid Is Bananas\n=============== \n]\nSkip to content\n*   \n*   \n*   \n*   Menu\n!\nPhotograph by Becky Harlan\n*   \nWhy This April Fools’ Kiwi Hybrid Is Bananas\n============================================\nByRachel A. Becker\nApril 1, 2016\n•4 min read\nIn a video that went viral last week, a bearded, plaid-wearing man named  earnestly describes how to make a banana-kiwi hybrid (baniwi? kiwana?) by squishing together chunks of the two fruits, burying them in soil, watering them, and waiting. When this hybrid matures, he says in a voiceover, it grows into a fruit with the shape and skin of a banana and the bright-green flesh of a kiwi.\nSo is this subterranean, fruity embrace really how hybrids like pluots or tangelos are actually made?\nNo. It’s really, really not.\nMahar—who makes video tutorials for do-it-yourself crafts—originally posted his faux banana-kiwi hybridization lesson as part of a  on April 1, 2014. If the date he published the video on YouTube wasn’t enough of a clue, he wished viewers a happy April Fools’ Day at the end and suggested in its description that whoever managed to get this technique to work should go buy a lottery ticket.\nBut then earlier this month, a truncated banana-kiwi clip  by the Facebook group  (which Mahar says he has no affiliation with) and has since been viewed more than 69 million times. The truncated tutorial was convincing enough that , which Mahar says he was tickled to see.\n“To have them take the time to write an article about something so, in my mind, clearly ridiculous, is incredibly amusing,” he says. He describes fighting hard to maintain his deadpan as the camera crew cracked up during filming.\nBut while it’s impossible to smush together two fruits to grow a hybrid, there is a seed of truth...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Can You Really Grow A Banana Kiwi Hybrid? | TPGS",
+                "htmlTitle": "<b>Can</b> You Really Grow A <b>Banana Kiwi Hybrid</b>? | TPGS",
+                "link": "https://thatsprettygoodscience.com/2016/03/18/can-you-really-grow-a-banana-kiwi-hybrid/",
+                "displayLink": "thatsprettygoodscience.com",
+                "snippet": "Mar 18, 2016 ... You've basically created a chimera.” In the video, the man then puts the two pieces of fruit flesh together, seeds touching. That way, the seeds ...",
+                "htmlSnippet": "Mar 18, 2016 <b>...</b> You&#39;ve basically created a chimera.” In the video, the man then puts the two pieces of <b>fruit</b> flesh together, seeds touching. That way, the seeds&nbsp;...",
+                "formattedUrl": "https://thatsprettygoodscience.com/.../can-you-really-grow-a-banana-kiwi-h...",
+                "htmlFormattedUrl": "https://thatsprettygoodscience.com/.../<b>can</b>-you-really-grow-a-<b>banana</b>-<b>kiwi</b>-<b>h</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS31CumIbYY7Act3tt-qnIn_rnk47GjkRru8Z0xF4GOZPDhGDwiJwR-lJbS&s",
+                            "width": "307",
+                            "height": "164"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "application-name": "TPGS",
+                            "og:image": "https://thatsprettygoodscience.com/wp-content/uploads/2016/03/kiwi-banana-fruit-copy.jpg",
+                            "og:type": "article",
+                            "article:published_time": "2016-03-18T16:26:47+00:00",
+                            "og:image:width": "584",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "TPGS",
+                            "msapplication-window": "width=device-width;height=device-height",
+                            "og:title": "Can You Really Grow A Banana Kiwi Hybrid?",
+                            "og:image:height": "312",
+                            "msapplication-tileimage": "https://thatsprettygoodscience.com/wp-content/uploads/2017/03/cropped-tpgs-icon-1.jpg?w=270",
+                            "og:description": "We put this video to the test to determine once and for all: can you really grow a kiwi inside of a banana?",
+                            "twitter:creator": "@tpgscience",
+                            "article:publisher": "https://www.facebook.com/WordPresscom",
+                            "twitter:image": "https://thatsprettygoodscience.com/wp-content/uploads/2016/03/kiwi-banana-fruit-copy.jpg?w=640",
+                            "twitter:text:title": "Can You Really Grow A Banana Kiwi Hybrid?",
+                            "twitter:site": "@tpgscience",
+                            "article:modified_time": "2017-01-04T15:07:12+00:00",
+                            "viewport": "width=device-width",
+                            "og:locale": "en_US",
+                            "og:url": "https://thatsprettygoodscience.com/2016/03/18/can-you-really-grow-a-banana-kiwi-hybrid/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://thatsprettygoodscience.com/wp-content/uploads/2016/03/kiwi-banana-fruit-copy.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...--\nYou may have seen a video floating around  with instructions on how to grow a banana kiwi fruit. The video gives step-by-step instructions on how to grow your own kiwi inside of a . Awesome, right? But is it true?\nWe consulted with a horticulturist to find out how this works, and why no one had thought of it before. Bernie Hughson, horticulturist with the Arkansas Horticulture Institute, was amazed when he first viewed the video. “I couldn’t believe my eyes, really.” He said he’s never seen anything like it.\n!\n_The courtship._\nThe video shows a man slicing a banana, and then slicing a kiwi. He purposefully slices the end of the fruit off, instead of slicing them in the middle.\n“That’s how grafting works,” Hughson explained. “You take one piece of a plant and you insert one into the other or kind of push them together, and then a process starts that results in a change in the genetic makeup of the plant. You’ve basically created a chimera.”\nIn the video, the man then puts the two pieces of fruit flesh together, seeds touching. That way, the seeds can gently rub one another and stimulate the reproductive process. “That’s pretty important,” Hughson explains. “They have to be touching or else it won’t work. Chimeras aren’t created via some kind of airborne reproduction process.”\nOnce the two pieces of fruit are touching one another, they have to be placed in soil. They should be covered so the reproductive process can continue undisturbed. “I think one inch of soil is fine,” Hughson said in agreement with the video.\n!\n_This image shows the fruits mixing under the soil. The yellow color is banana, and the green is kiwi._\nUnder cover, on a soft bed of fluffy soil, the magic begins to happen. The banana and the kiwi are touching each other, and slowly begin to enter one another. The banana usually hardens up a bit, and the kiwi releases juices that surround the banana. Soon, a softening process begins. The process is quite beautiful to watch, according to Hughson. “It’s a magical thing.”\nAfter a few weeks, according to the video, your fruit will be ready to harvest. “This is true,” Hughson confirmed. “The process takes just a few weeks, and before you know it, you have a hybrid!”\n!\n_A banana kiwi hybrid fruit. It...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Banana Kiwi fruit Hybrid | Chevy Tri Five Forum",
+                "htmlTitle": "<b>Banana Kiwi fruit Hybrid</b> | Chevy Tri Five Forum",
+                "link": "https://www.trifive.com/threads/banana-kiwi-fruit-hybrid.157421/",
+                "displayLink": "www.trifive.com",
+                "snippet": "Mar 24, 2016 ... That's pretty amazing! I'll have to try that my own self! Thanks Mike! Tom If you can read this in English...",
+                "htmlSnippet": "Mar 24, 2016 <b>...</b> That&#39;s pretty amazing! I&#39;ll have to try that my own self! Thanks Mike! Tom If you <b>can</b> read this in English...",
+                "formattedUrl": "https://www.trifive.com/threads/banana-kiwi-fruit-hybrid.157421/",
+                "htmlFormattedUrl": "https://www.trifive.com/threads/<b>banana</b>-<b>kiwi</b>-fruit-<b>hybrid</b>.157421/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8EZWj6Rygb9ccbT-D5I4uP21493dJgUXSqBQET8KCuDD1x7xBknkcZlU&s",
+                            "width": "372",
+                            "height": "90"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "Chevyragtop57",
+                            "url": "Chevyragtop57"
+                        },
+                        {
+                            "name": "fifties-forever",
+                            "url": "fifties-forever"
+                        },
+                        {
+                            "name": "astroracer",
+                            "url": "astroracer"
+                        },
+                        {
+                            "name": "Pops @ Tri-5.com",
+                            "url": "Pops @ Tri-5.com"
+                        },
+                        {
+                            "name": "carls 56",
+                            "url": "carls 56"
+                        },
+                        {
+                            "name": "angs1957",
+                            "url": "angs1957"
+                        },
+                        {
+                            "name": "abdiver7777",
+                            "url": "abdiver7777"
+                        }
+                    ],
+                    "interactioncounter": [
+                        {
+                            "userinteractioncount": "6",
+                            "interactiontype": "https://schema.org/ReplyAction"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=1608044805, app-argument=https://www.trifive.com/threads/banana-kiwi-fruit-hybrid.157421/, affiliate-data=ct=smart_banner&pt=460367",
+                            "og:image": "https://images.platforum.cloud/logos/trifive_com.png?2",
+                            "og:type": "website",
+                            "twitter:title": "Banana  Kiwi fruit Hybrid",
+                            "twitter:card": "summary",
+                            "theme-color": "#185886",
+                            "og:site_name": "Chevy Tri Five Forum",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "og:title": "Banana  Kiwi fruit Hybrid",
+                            "og:url": "https://www.trifive.com/threads/banana-kiwi-fruit-hybrid.157421/",
+                            "twitter:image": "https://images.platforum.cloud/logos/trifive_com.png?2"
+                        }
+                    ],
+                    "discussionforumposting": [
+                        {
+                            "image": "https://www.trifive.com/d1/avatars/s/28/28890.jpg?1593693484",
+                            "datemodified": "2016-03-24EDT09:03:10",
+                            "articlesection": "Videos from You Tube, Bing, etc.",
+                            "position": "1",
+                            "text": "https://www.facebook.com/FoodsAround/videos/866522853458163/?pnref=story Enjoy tell us your results. Mike",
+                            "headline": "Banana Kiwi fruit Hybrid",
+                            "url": "https://www.trifive.com/threads/banana-kiwi-fruit-hybrid.157421/",
+                            "datepublished": "2016-03-24EDT12:03:08"
+                        }
+                    ],
+                    "comment": [
+                        {
+                            "image": "https://www.trifive.com/d1/avatars/s/26/26998.jpg?1593693483",
+                            "parentitem": "https://www.trifive.com/threads/banana-kiwi-fruit-hybrid.157421/",
+                            "position": "2",
+                            "text": "That's pretty amazing! I'll have to try that my own self! Thanks Mike!",
+                            "url": "https://www.trifive.com/threads/banana-kiwi-fruit-hybrid.157421/post-1720398",
+                            "datepublished": "2016-03-24EDT12:03:22"
+                        },
+                        {
+                            "image": "https://www.trifive.com/d1/avatars/s/32/32299.jpg?1593693484",
+                            "parentitem": "https://www.trifive.com/threads/banana-kiwi-fruit-hybrid.157421/",
+                            "position": "4",
+                            "text": "LOL... You do that and post up the pics please. Mark",
+                            "url": "https://www.trifive.com/threads/banana-kiwi-fruit-hybrid.157421/post-1720431",
+                            "datepublished": "2016-03-24EDT01:03:59"
+                        },
+                        {
+                            "image": "https://www.trifive.com/d1/avatars/s/5/5571.jpg?1699154252",
+                            "parentitem": "https://www.trifive.com/threads/banana-kiwi-fruit-hybrid.157421/",
+                            "position": "3",
+                            "text": "I did this with an apple and a piece of wire and got the iPhone 8+",
+                            "url": "https://www.trifive.com/threads/banana-kiwi-fruit-hybrid.157421/post-1720402",
+                            "datepublished": "2016-03-24EDT01:03:50"
+                        },
+                        {
+                            "image": "https://www.trifive.com/d1/avatars/s/4/4923.jpg?1593693480",
+                            "parentitem": "https://www.trifive.com/threads/banana-kiwi-fruit-hybrid.157421/",
+                            "position": "5",
+                            "text": "I got a bridge to sell you guys.",
+                            "url": "https://www.trifive.com/threads/banana-kiwi-fruit-hybrid.157421/post-1720493",
+                            "datepublished": "2016-03-24EDT05:03:19"
+                        },
+                        {
+                            "image": "https://www.trifive.com/d1/avatars/s/2/2237.jpg?1593693479",
+                            "parentitem": "https://www.trifive.com/threads/banana-kiwi-fruit-hybrid.157421/",
+                            "position": "6",
+                            "text": "I`m surprised he didn't ask for donations to go into full production",
+                            "url": "https://www.trifive.com/threads/banana-kiwi-fruit-hybrid.157421/post-1720530",
+                            "datepublished": "2016-03-24EDT06:03:34"
+                        },
+                        {
+                            "image": "https://www.trifive.com/d1/avatars/s/35/35808.jpg?1593693485",
+                            "parentitem": "https://www.trifive.com/threads/banana-kiwi-fruit-hybrid.157421/",
+                            "position": "7",
+                            "text": "I'm sure there's huge Gov't grant money just waiting for someone to apply for to experiment with this....",
+                            "url": "https://www.trifive.com/threads/banana-kiwi-fruit-hybrid.157421/post-1720618",
+                            "datepublished": "2016-03-24EDT09:03:10"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://images.platforum.cloud/logos/trifive_com.png?2"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "Home",
+                            "name": "Home",
+                            "position": "1"
+                        },
+                        {
+                            "item": "Forums",
+                            "name": "Forums",
+                            "position": "2"
+                        },
+                        {
+                            "item": "Chevy TriFive Forums",
+                            "name": "Chevy TriFive Forums",
+                            "position": "3"
+                        },
+                        {
+                            "item": "Chit Chat Area, Anything on your mind goes here.",
+                            "name": "Chit Chat Area, Anything on your mind goes here.",
+                            "position": "4"
+                        },
+                        {
+                            "item": "Videos from You Tube, Bing, etc.",
+                            "name": "Videos from You Tube, Bing, etc.",
+                            "position": "5"
+                        },
+                        {
+                            "item": "Home",
+                            "name": "Home",
+                            "position": "1"
+                        },
+                        {
+                            "item": "Forums",
+                            "name": "Forums",
+                            "position": "2"
+                        },
+                        {
+                            "item": "Chevy TriFive Forums",
+                            "name": "Chevy TriFive Forums",
+                            "position": "3"
+                        },
+                        {
+                            "item": "Chit Chat Area, Anything on your mind goes here.",
+                            "name": "Chit Chat Area, Anything on your mind goes here.",
+                            "position": "4"
+                        },
+                        {
+                            "item": "Videos from You Tube, Bing, etc.",
+                            "name": "Videos from You Tube, Bing, etc.",
+                            "position": "5"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Banana Kiwi fruit Hybrid | Chevy Tri Five Forum\n===============\n]\n]\n(javascript:void\\(0\\))in this thread in this sub-forum in the entire site\nCancel\n   More \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n* * *\n*   \n*   \nMenu\n* * *\n* * *\n*    \n*    \n*    \n*    \n*    \nBanana Kiwi fruit Hybrid\n========================\n818 views 6 replies 7 participants last post by    Mar 25, 2016\n]\n  Discussion starter\n27632 posts · Joined 2013\n*   \n · \n Enjoy tell us your results. Mike\nCollecting cars 50 years.:tu:tee:  \nI still have my very first car a (57 Chevy Bel Air 2 door sedan) and several 5 6 and 7's now.  \nRetired law enforcement officer with over 40 years on the same department ..:gba:\n Share\n (blob:https://www.trifive.com/b9a31d3949b1882a09ed2f8508d538f3) Like]\nSort by Oldest first\n]\n10077 posts · Joined 2013\n*   \n · \nThat's pretty amazing! I'll have to try that my own self! Thanks Mike!\nTom  \nIf you can read this in English...Thank a Veteran...  \nLand of The Free BECAUSE of The Brave.  \nRIP Dad, Eddie E. Tenhaeff, POW, WWII, Sgt. US Army Infantry, German Concentration Camp Survivor.  \nU.S. Army, 11th Armored Cavalry Regiment, 4th Infantry Div. Viet Nam Service, Armored Reconnaissance Specialist.\n Share\n (blob:https://www.trifive.com/b9a31d3949b1882a09ed2f8508d538f3) Like]\n]\n1869 posts · Joined 2014\n*   \n · \nLOL... You do that and post up the pics please.  \nMark\n Share\n (blob:https://www.trifive.com/b9a31d3949b1882a09ed2f8508d538f3) Like]\n0   Reply\n]\n60093 posts · Joined 2008\n*   \n · \nI did this with an apple and a piece of wire and got the iPhone 8+ !(blob:https://www.trifive.com/b9a...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Fake News: How to Create a Hybrid Kiwi-Banana Fruit | by Bianca ...",
+                "htmlTitle": "Fake News: How to Create a <b>Hybrid Kiwi</b>-<b>Banana Fruit</b> | by Bianca ...",
+                "link": "https://biancacrawford800.medium.com/fake-news-how-to-create-a-hybrid-kiwi-banana-fruit-b22471b0da79",
+                "displayLink": "biancacrawford800.medium.com",
+                "snippet": "Mar 4, 2021 ... It does not take much to fact check the articles that are widely shared around social media; but the reality of it is, most share an article ...",
+                "htmlSnippet": "Mar 4, 2021 <b>...</b> It <b>does</b> not take much to fact check the articles that are widely shared around social media; but the reality of it is, most share an article&nbsp;...",
+                "formattedUrl": "https://biancacrawford800.medium.com/fake-news-how-to-create-a-hybrid-...",
+                "htmlFormattedUrl": "https://biancacrawford800.medium.com/fake-news-how-to-create-a-<b>hybrid</b>-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZX07999JN2w_2_0lAbKGV0eyGWuse8U0QSCXOdnp10ORv85FmY2UnZlA&s",
+                            "width": "307",
+                            "height": "164"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://miro.medium.com/v2/resize:fit:784/0*qi6RzJNrNlreCl9z.png",
+                            "twitter:app:url:iphone": "medium://p/b22471b0da79",
+                            "theme-color": "#000000",
+                            "article:published_time": "2021-03-05T01:27:16.367Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Medium",
+                            "al:android:package": "com.medium.reader",
+                            "twitter:label1": "Reading time",
+                            "twitter:app:id:iphone": "828256236",
+                            "title": "Fake News: How to Create a Hybrid Kiwi-Banana Fruit | by Bianca Crawford | Medium",
+                            "al:ios:url": "medium://p/b22471b0da79",
+                            "og:description": "Introduction",
+                            "al:ios:app_store_id": "828256236",
+                            "twitter:data1": "2 min read",
+                            "twitter:site": "@Medium",
+                            "og:type": "article",
+                            "twitter:title": "Fake News: How to Create a Hybrid Kiwi-Banana Fruit",
+                            "al:ios:app_name": "Medium",
+                            "author": "Bianca Crawford",
+                            "og:title": "Fake News: How to Create a Hybrid Kiwi-Banana Fruit",
+                            "al:web:url": "https://biancacrawford800.medium.com/fake-news-how-to-create-a-hybrid-kiwi-banana-fruit-b22471b0da79",
+                            "article:author": "https://biancacrawford800.medium.com",
+                            "twitter:image:src": "https://miro.medium.com/v2/resize:fit:784/0*qi6RzJNrNlreCl9z.png",
+                            "al:android:url": "medium://p/b22471b0da79",
+                            "referrer": "unsafe-url",
+                            "fb:app_id": "542599432471018",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1,maximum-scale=1",
+                            "twitter:description": "Introduction",
+                            "og:url": "https://biancacrawford800.medium.com/fake-news-how-to-create-a-hybrid-kiwi-banana-fruit-b22471b0da79",
+                            "twitter:app:name:iphone": "Medium",
+                            "al:android:app_name": "Medium"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://miro.medium.com/v2/resize:fit:784/0*qi6RzJNrNlreCl9z.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...Research Results\nA simple Google search brings up multiple articles from various websites — to even include Snopes. All the articles agree that the kiwi-banana is indeed a false claim. Snopes even points out that this particular Facebook video is a small snippet taken from a longer video that was shared to Facebook on April 1st, 2014. The original video posted in 2014 was posted as an April Fool’s joke; the individual that posted it even pointed out that the kiwi-banana was indeed a joke.\nThere is a article on National Geographic’s website that goes over how it is impossible to be able to squish two fruit to grow a hybrid. National Geographic points out that both bananas and kiwis are already hybrid fruit themselves. They became hybrids because in nature the pollen from one fruit would land onto another resulting in a interspecies hybrid. Hybrid fruits are possible as results of cross pollination, not by squishing two different fruits together and putting them in potting soil.\nConclusion\nWhile social media is without doubt a valuable tool to many people’s lives. Social media platforms have helped friends and family stay connected and has allowed for individuals to be able to share their thoughts and ideas. However, it has become a widely used source for fake news and rumors. Individuals using social media rarely question the validity of articles that show up on their news feeds. It does not take much to fact check the articles that are widely shared around social media; but the reality of it is, most share an article just by the headline without even clicking onto the full article.\nWorks Cited\nBecker, Rachel A. “Why This April Fools’ Kiwi Hybrid Is Bananas.” Culture, National Geographic, 10 Feb. 2021, www.nationalgeographic.com/culture/article/april-fools-kiwi-banana-hybrid-video.\nEvon, Dan. “FACT CHECK: How to Create a Hybrid Kiwi-Banana Fruit.” Snopes.com, 14 Aug. 2018, www.snopes.com/fact-check/banana-kiwi-hoax-video/.\n--\n--\nHelp\nStatus\nAbout\nCareers\nPress\nBlog\nPrivacy\nTerms\nText to speech\nTeams",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

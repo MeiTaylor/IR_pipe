@@ -1,0 +1,596 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Conditions needed for water supercooling experiments",
+                "totalResults": "352000",
+                "searchTerms": "Conditions needed for water supercooling experiments",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Conditions needed for water supercooling experiments",
+                "totalResults": "352000",
+                "searchTerms": "Conditions needed for water supercooling experiments",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.241418,
+        "formattedSearchTime": "0.24",
+        "totalResults": "352000",
+        "formattedTotalResults": "352,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Supercooled Water in the Freezer | Physics Van | Illinois",
+                "htmlTitle": "<b>Supercooled Water</b> in the Freezer | Physics Van | Illinois",
+                "link": "https://van.physics.illinois.edu/ask/listing/19505",
+                "displayLink": "van.physics.illinois.edu",
+                "snippet": "You've actually done the experiment to show that oxygen is not the key. Shaking or dropping the bottle doesn't add oxygen to it, but does trigger the slush ...",
+                "htmlSnippet": "You&#39;ve actually done the <b>experiment</b> to show that oxygen is not the key. Shaking or dropping the bottle doesn&#39;t add oxygen to it, but does trigger the slush&nbsp;...",
+                "formattedUrl": "https://van.physics.illinois.edu/ask/listing/19505",
+                "htmlFormattedUrl": "https://van.physics.illinois.edu/ask/listing/19505",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSov2Qo5tE8yRDm2nf8af7SwHN1SOJlOL6vntLqWdmV4UsVpQ-WksGk9yQ&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://ws.engr.illinois.edu/images/grainger-default-thumb.jpg",
+                            "og:type": "article",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "author": "Grainger Engineering Office of Marketing and Communications",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:title": "Supercooled Water in the Freezer",
+                            "og:url": "https://van.physics.illinois.edu/ask/listing/19505",
+                            "og:description": "Supercooled Water in the Freezer"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ws.engr.illinois.edu/images/grainger-default-thumb.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... very quickly and heat flows slowly.\nWe suspect you have slush in your bottle rather than hard ice when this is done. You can compare with another bottle which froze hard in your freezer overnight how hard it is to squeeze the bottle and how long it takes to melt. The ice will also take up more room than the water it used to be, and some water may spill out the top.\nThere can also be some small effects of pressure and of dissolved gases on the freezing temperature. Is your water under pressure?\nTom and Mike\n_(published on 10/22/2007)_\nFollow-Up #1: Supercooled water in the freezer\n----------------------------------------------\nQ:\nWater in my mom’s freezer or fridge,doesn’t matter which one, can be in there for days and it won’t freeze solid. In fact it looks perfectly clear until you do one of 3 things. You shake it, you drop it or you open it. It then turns to slush. I want to do a science fair project on this because it’s amazing to me, but I’m not sure what my hypothesize would be. I was thinking that maybe oxygen had to be present to freeze, but you are saying that it all begins just with the change that causes the cystals to grow?  \n\\- Jordan Canevari 11  \nOkeechobee,Florida, usa\nA:\nRight. You’ve actually done the experiment to show that oxygen is not the key. Shaking or dropping the bottle doesn’t add oxygen to it, but does trigger the slush formation.\nMike W.\n_(published on 10/22/2007)_\nFollow-Up #2: supercooled water\n-------------------------------\nQ:\nHow super cooled can water get without freezing? also i would just like to comment that i was searching for this answer because the same thing was happening to me here in iraq.  \n\\- Greg (age 24)  \nNavy, Iraq\nA:\nAccording to Wikipedia water can be supercooled to a little below -40°C, at least briefly. I suspect that in practice it will be hard to go below about -20°C, just because ordinary bottles, bubbles, dust, etc. can nucleate freezing. The number of people who have written about observing this is now pretty large, so it seems easier to get large supercooling than I'd guessed.\nMike W.\n_(published on 07/02/2008)_\nFollow-Up #3: supercooling observed\n-----------------------------------\nQ:\nThanks for...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Evidence of two distinct local structures of water from ambient to ...",
+                "htmlTitle": "Evidence of two distinct local structures of <b>water</b> from ambient to ...",
+                "link": "https://www.nature.com/articles/ncomms3401",
+                "displayLink": "www.nature.com",
+                "snippet": "Sep 13, 2013 ... Here we report a time-resolved optical Kerr effect investigation of the vibrational dynamics and relaxation processes in supercooled bulk water.",
+                "htmlSnippet": "Sep 13, 2013 <b>...</b> Here we report a time-resolved optical Kerr effect investigation of the vibrational dynamics and relaxation processes in <b>supercooled</b> bulk <b>water</b>.",
+                "formattedUrl": "https://www.nature.com/articles/ncomms3401",
+                "htmlFormattedUrl": "https://www.nature.com/articles/ncomms3401",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVUhXY4jgOA36C9ySPdri9Qqx1PbbpJHpW2CmVDkk6ZVdeTlLFcHWwsE&s",
+                            "width": "257",
+                            "height": "196"
+                        }
+                    ],
+                    "periodical": [
+                        {
+                            "publisher": "Springer Nature",
+                            "onlineissn": "2041-1723"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "dc.publisher": "Nature Publishing Group",
+                            "citation_journal_title": "Nature Communications",
+                            "dc.rights": "2013 Springer Nature Limited",
+                            "prism.publicationdate": "2013-09-13",
+                            "prism.issn": "2041-1723",
+                            "360-site-verification": "5a2dc4ab3fcb9b0393241ffbbb490480",
+                            "prism.number": "1",
+                            "citation_issn": "2041-1723",
+                            "citation_language": "en",
+                            "citation_pdf_url": "https://www.nature.com/articles/ncomms3401.pdf",
+                            "citation_lastpage": "8",
+                            "application-name": "Nature",
+                            "prism.publicationname": "Nature Communications",
+                            "citation_journal_abbrev": "Nat Commun",
+                            "dc.date": "2013-09-13",
+                            "citation_issue": "1",
+                            "prism.volume": "4",
+                            "size": "178225",
+                            "citation_doi": "10.1038/ncomms3401",
+                            "dc.title": "Evidence of two distinct local structures of water from ambient to supercooled conditions",
+                            "prism.url": "https://www.nature.com/articles/ncomms3401",
+                            "citation_volume": "4",
+                            "dc.language": "En",
+                            "doi": "10.1038/ncomms3401",
+                            "msapplication-config": "/static/browserconfig.xml",
+                            "prism.startingpage": "1",
+                            "theme-color": "#000000",
+                            "citation_title": "Evidence of two distinct local structures of water from ambient to supercooled conditions",
+                            "access": "Yes",
+                            "citation_publisher": "Nature Publishing Group",
+                            "applicable-device": "pc,mobile",
+                            "dc.format": "text/html",
+                            "prism.rightsagent": "journalpermissions@springernature.com",
+                            "citation_online_date": "2013/09/13",
+                            "dc.source": "Nature Communications 2013 4:1",
+                            "dc.type": "OriginalPaper",
+                            "dc.rightsagent": "journalpermissions@springernature.com",
+                            "dc.copyright": "2013 Springer Nature Limited",
+                            "citation_fulltext_html_url": "https://www.nature.com/articles/ncomms3401",
+                            "msapplication-tilecolor": "#000000",
+                            "journal_id": "41467",
+                            "dc.description": "The liquid and supercooled states of water show a series of anomalies whose nature is debated. A key role is attributed to the formation of structural aggregates induced by critical phenomena occurring deep in the supercooled region; the nature of the water anomalies and of the hidden critical processes remains elusive. Here we report a time-resolved optical Kerr effect investigation of the vibrational dynamics and relaxation processes in supercooled bulk water. The experiment measures the water intermolecular vibrations and the structural relaxation process in an extended temperature range, and with unprecedented data quality. A mode-coupling analysis of the experimental data enables to characterize the intermolecular vibrational modes and their interplay with the structural relaxation process. The results bring evidence of the coexistence of two local configurations, which are interpreted as high-density and low-density water forms, with an increasing weight of the latter at low temperatures. Liquid water s",
+                            "citation_article_type": "Article",
+                            "prism.doi": "doi:10.1038/ncomms3401",
+                            "prism.endingpage": "8",
+                            "citation_firstpage": "1",
+                            "viewport": "width=device-width,initial-scale=1.0,maximum-scale=5,user-scalable=yes",
+                            "prism.section": "OriginalPaper",
+                            "dc.identifier": "doi:10.1038/ncomms3401",
+                            "prism.copyright": "2013 Springer Nature Limited"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fncomms3401/MediaObjects/41467_2013_Article_BFncomms3401_Fig1_HTML.jpg"
+                        }
+                    ],
+                    "scholarlyarticle": [
+                        {
+                            "name": "Thermodynamic mechanism of the density and compressibility anomalies of water in the range − 30 < T (°C) < 100",
+                            "headline": "Thermodynamic mechanism of the density and compressibility anomalies of water in the range − 30 < T (°C) < 100",
+                            "url": "Thermodynamic mechanism of the density and compressibility anomalies of water in the range − 30 < T (°C) < 100"
+                        },
+                        {
+                            "name": "Direct observation of ultrafast hydrogen bond strengthening in liquid water",
+                            "headline": "Direct observation of ultrafast hydrogen bond strengthening in liquid water",
+                            "url": "Direct observation of ultrafast hydrogen bond strengthening in liquid water"
+                        },
+                        {
+                            "name": "Two-dimensional infrared-Raman spectroscopy as a probe of water’s tetrahedrality",
+                            "headline": "Two-dimensional infrared-Raman spectroscopy as a probe of water’s tetrahedrality",
+                            "url": "Two-dimensional infrared-Raman spectroscopy as a probe of water’s tetrahedrality"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "nature",
+                            "name": "nature",
+                            "position": "1"
+                        },
+                        {
+                            "item": "nature communications",
+                            "name": "nature communications",
+                            "position": "2"
+                        },
+                        {
+                            "item": "articles",
+                            "name": "articles",
+                            "position": "3"
+                        },
+                        {
+                            "name": "article",
+                            "position": "4"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain\n            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in\n            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles\n            and JavaScript.\nAdvertisement\n\nNature Communications\nvolume 4, Article number: 2401 (2013)\n            Cite this article\n\n3841 Accesses\n150 Citations\n11 Altmetric\nMetrics details\nThe liquid and supercooled states of water show a series of anomalies whose nature is debated. A key role is attributed to the formation of structural aggregates induced by critical phenomena occurring deep in the supercooled region; the nature of the water anomalies and of the hidden critical processes remains elusive. Here we report a time-resolved optical Kerr effect investigation of the vibrational dynamics and relaxation processes in supercooled bulk water. The experiment measures the water intermolecular vibrations and the structural relaxation process in an extended temperature range, and with unprecedented data quality. A mode-coupling analysis of the experimental data enables to characterize the intermolecular vibrational modes and their interplay with the structural relaxation process. The results bring evidence of the coexistence of two local configurations, which are interpreted as high-density and low-density water forms, with an increasing weight of the latter at low temperatures.\nYou have full access to this article via your institution.\n\nWater can remain liquid below its melting point and stays in its metastable phase known as supercooled water1,2. Several thermodynamic (for example, isothermal compressibility, isobaric heat capacity and thermal expansion coefficient) and dynamic (for example, viscosity, diffusivity, structural relaxation) observables of liquid water show an anomalous behaviour3. In the supercooled state, the values of these physical observables clearly diverge, with a singularity temperature Ts estimated at ≃228 K. Despite the wide interest and the numerous research efforts on this subject, the origin of these critical phenomena remained unclear4,5...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Can hot water freeze faster than cold water?",
+                "htmlTitle": "Can hot <b>water</b> freeze faster than cold <b>water</b>?",
+                "link": "https://math.ucr.edu/home/baez/physics/General/hot_water.html",
+                "displayLink": "math.ucr.edu",
+                "snippet": "Now we cool both containers, using the exact same cooling process for each container. Under some conditions the initially warmer water will freeze first. If ...",
+                "htmlSnippet": "Now we cool both containers, using the exact same cooling process for each container. Under some <b>conditions</b> the initially warmer <b>water</b> will freeze first. If&nbsp;...",
+                "formattedUrl": "https://math.ucr.edu/home/baez/physics/General/hot_water.html",
+                "htmlFormattedUrl": "https://math.ucr.edu/home/baez/physics/General/hot_<b>water</b>.html",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "copyright": "this document is copyright\nas described in the copyright notice"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... than cold water for a wide range of experimental\nconditions.  This phenomenon is extremely counterintuitive, and surprising even to\nmost scientists, but it is in fact real.  It has been seen and studied in numerous experiments.  Although this phenomenon has been known\nfor centuries, and was described by Aristotle, Bacon, and Descartes [1–3], it was not introduced to the modern scientific\ncommunity until 1969, by a Tanzanian high school pupil named Mpemba.  Both the early\nscientific history of this effect, and the story of Mpemba's rediscovery of it, are\ninteresting in their own right — Mpemba's story in particular providing a dramatic\nparable against making snap judgements about what is impossible.  This is described separately below.\nThe phenomenon that hot water may freeze faster than cold is often called the Mpemba\neffect.  Because, no doubt, most readers are extremely skeptical at this point, we\nshould begin by stating precisely what we mean by the Mpemba effect.  We start with\ntwo containers of water, which are identical in shape, and which hold identical amounts of\nwater.  The only difference between the two is that the water in one is at a higher\n(uniform) temperature than the water in the other.  Now we cool both containers,\nusing the exact same cooling process for each container.  Under some conditions the\ninitially warmer water will freeze first.  If this occurs, we have seen the Mpemba\neffect.  Of course, the initially warmer water will not freeze before the initially\ncooler water for all initial conditions.  If the hot water starts at 99.9°C, and\nthe cold water at 0.01°C, then clearly under those circumstances, the initially cooler\nwater will freeze first.  But under some conditions the initially warmer water\nwill freeze first: if that happens, you have seen the Mpemba effect.  But you will\nnot see the Mpemba effect for just any initial temperatures, container shapes, or cooling\nconditions.\nThis seems impossible, right?  Many sharp readers may have already come up with a\ncommon proof that the Mpemba effect is impossible.  The proof usually goes something\nlike this.  Say that the initially cooler water starts at 30°C and takes 10\nminutes to freeze, while the initially warmer water starts out at 70°C.  Now the\ninitially warmer water has to spend some time cooling to...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Origin of the anomalous properties in supercooled water based on ...",
+                "htmlTitle": "Origin of the anomalous properties in <b>supercooled water</b> based on ...",
+                "link": "https://www.sciencedirect.com/science/article/pii/S2590159122000152",
+                "displayLink": "www.sciencedirect.com",
+                "snippet": "... experimental studies of bulk supercooled water at conditions where ice crystallization becomes extremely rapid. Through the usage of x-ray lasers, ultrafast ...",
+                "htmlSnippet": "... <b>experimental</b> studies of bulk <b>supercooled water</b> at <b>conditions</b> where ice crystallization becomes extremely rapid. Through the usage of x-ray lasers, ultrafast&nbsp;...",
+                "formattedUrl": "https://www.sciencedirect.com/science/article/pii/S2590159122000152",
+                "htmlFormattedUrl": "https://www.sciencedirect.com/science/article/pii/S2590159122000152",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpjjFE7VkYJsaMVX_sDl0uVeA9Upe_XsINf5GO38sfFSK_yVf5PUBxZoo&s",
+                            "width": "113",
+                            "height": "150"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://ars.els-cdn.com/content/image/1-s2.0-S2590159122X00022-cov150h.gif",
+                            "citation_publication_date": "2022/06/01",
+                            "citation_title": "Origin of the anomalous properties in supercooled water based on experimental probing inside “no-man's land”",
+                            "citation_author_institution": "Department of Physics, AlbaNova University Center, Stockholm University, SE-10691 Stockholm, Sweden",
+                            "citation_reference": "citation_journal_title=J. Chem. Phys.;citation_author=R.J. Speedy;citation_author=C.A. Angell;citation_title=Isothermal compressibility of supercooled water and evidence for a thermodynamic singularity at −45°C;citation_firstpage=851;citation_lastpage=858;citation_volume=65;citation_publication_date=1976;",
+                            "citation_publisher": "Elsevier",
+                            "citation_article_type": "Full-length article",
+                            "citation_type": "JOUR",
+                            "citation_id": "100095",
+                            "citation_journal_title": "Journal of Non-Crystalline Solids: X",
+                            "citation_abstract": "<div class=\"Abstracts u-font-serif text-s\" id=\"abstracts\"><div class=\"abstract author\" id=\"ab0005\" lang=\"en\"><h2 class=\"section-title u-h4 u-margin-l-top u-margin-xs-bottom\">Abstract</h2><div id=\"as0005\"><p id=\"sp0095\">Austen Angell conducted pioneering work that opened up the field of supercooled water by observing the temperature dependent divergence of the thermodynamic response functions. Many different scenarios have been proposed as the origin of the anomalous properties and now it has become possible to test the various hypotheses in experimental studies of bulk supercooled water at conditions where ice crystallization becomes extremely rapid. Through the usage of x-ray lasers, ultrafast measurements could be conducted, as the sample is rapidly brought to the extreme conditions on time scales preceding ice formation. In particular the experimental observation of the existence of a liquid-liquid transition at positive pressure, one phase behavior at atmospheric conditions at temperatures down to 228 K,",
+                            "og:title": "Origin of the anomalous properties in supercooled water based on experimental probing inside “no-man's land”",
+                            "citation_author": "Anders Nilsson",
+                            "citation_pii": "S2590159122000152",
+                            "og:description": "Austen Angell conducted pioneering work that opened up the field of supercooled water by observing the temperature dependent divergence of the thermod…",
+                            "citation_online_date": "2022/04/18",
+                            "citation_author_email": "andersn@fysik.su.se",
+                            "citation_firstpage": "100095",
+                            "citation_issn": "2590-1591",
+                            "citation_doi": "10.1016/j.nocx.2022.100095",
+                            "dc.identifier": "10.1016/j.nocx.2022.100095",
+                            "citation_volume": "14"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ars.els-cdn.com/content/image/1-s2.0-S2590159122X00022-cov150h.gif"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "404 Not Found\n===============\n404 Not Found\n=============\n* * *\nnginx",
+                    "content_tokens": 14
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Isochoric conditions enhance stability of metastable supercooled water",
+                "htmlTitle": "Isochoric <b>conditions</b> enhance stability of metastable <b>supercooled water</b>",
+                "link": "https://pubs.aip.org/aip/apl/article/116/12/123702/570950/Isochoric-conditions-enhance-stability-of",
+                "displayLink": "pubs.aip.org",
+                "snippet": "Mar 23, 2020 ... In this experimental study, we report a simple thermodynamic alteration to standard supercooling protocols, the use of constant-volume ( ...",
+                "htmlSnippet": "Mar 23, 2020 <b>...</b> In this <b>experimental</b> study, we report a simple thermodynamic alteration to standard <b>supercooling</b> protocols, the use of constant-volume (&nbsp;...",
+                "formattedUrl": "https://pubs.aip.org/aip/apl/.../Isochoric-conditions-enhance-stability-of",
+                "htmlFormattedUrl": "https://pubs.aip.org/aip/apl/.../Isochoric-<b>conditions</b>-enhance-stability-of",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "msapplication-config": "//aipp.silverchair-cdn.com/Themes/Client/app/img/favicons/v-638533762453308347/browserconfig.xml",
+                            "citation_publication_date": "2020/03/23",
+                            "theme-color": "#002f65",
+                            "citation_author_institution": "Department of Mechanical Engineering, University of California at Berkeley, Berkeley, California 94709, USA",
+                            "citation_title": "Isochoric conditions enhance stability of metastable supercooled water",
+                            "og:type": "article",
+                            "citation_journal_abbrev": "Appl. Phys. Lett.",
+                            "citation_reference": "citation_author=Giwa  S.; citation_author=Lewis  J. K.; citation_author=Alvarez  L.; citation_author=Langer  R.; citation_author=Roth  A. E.; citation_author=Church  G. M.; citation_author=Markmann  J. F.; citation_author=Sachs  D. H.; citation_author=Chandraker  A.; citation_author=Wertheim  J. A.; citation_author=Rothblatt  M.; citation_author=Boyden  E. S.; citation_author=Eidbo  E.; citation_author=Lee  W. P. A.; citation_author=Pomahac  B.; citation_author=Brandacher  G.; citation_author=Weinstock  D. M.; citation_author=Elliott  G.; citation_author=Nelson  D.; citation_author=Acker  J. P.; citation_author=Uygun  K.; citation_author=Schmalz  B.; citation_author=Weegman  B. P.; citation_author=Tocchio  A.; citation_author=Fahy  G. M.; citation_author=Storey  K. B.; citation_author=Rubinsky  B.; citation_author=Bischof  J.; citation_author=Elliott  J. A. W.; citation_author=Woodruff  T. K.; citation_author=Morris  G. J.; citation_author=Demirci  U.; citation_author=Brockbank  K. G. M.; citation_author=Wood",
+                            "citation_publisher": "AIP Publishing",
+                            "citation_journal_title": "Applied Physics Letters",
+                            "og:title": "Isochoric conditions enhance stability of metastable supercooled water",
+                            "citation_author": "Powell-Palm, Matthew J.",
+                            "og:updated_time": "3/23/2020",
+                            "citation_issue": "12",
+                            "og:description": "Supercooling has recently emerged as a highly promising, multi-scale technique for low-temperature preservation of organs and tissues, preventing damaging ice f",
+                            "citation_issn": "0003-6951",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=10",
+                            "citation_doi": "10.1063/1.5145334",
+                            "citation_pdf_url": "https://pubs.aip.org/aip/apl/article-pdf/doi/10.1063/1.5145334/14532117/123702_1_online.pdf",
+                            "dc.identifier": "10.1063/1.5145334",
+                            "citation_volume": "116",
+                            "format-detection": "telephone=no"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...-Palm a)\nDepartment of Mechanical Engineering, University of California at Berkeley\n, Berkeley, California 94709,\nUSA\nSearch for other works by this author on:\nAlexander Koh-Bell;\nDepartment of Mechanical Engineering, University of California at Berkeley\n, Berkeley, California 94709,\nUSA\nSearch for other works by this author on:\nBoris Rubinsky\nDepartment of Mechanical Engineering, University of California at Berkeley\n, Berkeley, California 94709,\nUSA\nSearch for other works by this author on:\n!\n_Appl. Phys. Lett._ 116, 123702 (2020)\n*   ]\n     ]\n*   \n*   _Views Icon_ Views\n    *   Article contents\n    *   Figures & tables\n    *   Video\n    *   Audio\n    *   Supplementary Data\n    *   Peer Review\n*   \n*   _Tools Icon_ Tools\n*   Search Site\nSupercooling has recently emerged as a highly promising, multi-scale technique for low-temperature preservation of organs and tissues, preventing damaging ice formation while requiring relatively low doses of added cryoprotectants. However, current supercooling techniques are not thermodynamically stable; mild agitations can cause rapid and destructive ice formation throughout the system, rendering them unsuitable for transportation and sharply limiting applicability outside the controlled laboratory environment. In this experimental study, we report a simple thermodynamic alteration to standard supercooling protocols, the use of constant-volume (isochoric) conditions, which substantially increases the stability of the system in the face of various macroscopic perturbations, including drop-impact, vibration, ultrasonication, and thermal fluctuation. We identify this effect as driven by a possible combination of thermodynamic and kinetic factors, including reduction of microscopic density fluctuations, elimination of the air–water interface, and significant resistance to cavitation.\nEffective preservation of complex organ and tissue systems is essential to a wide range of medical and research efforts of the 21st century,1 including expanding access to lifesaving organ transplantations, enabling the storage and transportation of engineered tissues for drug-testing, etc. While classical approaches to preservation have often included high doses of cryoprotectant chemicals and ultralow cryogenic temperatures, a new generation of protocols is leveraging thermodynamic supercooling to dramatically enhance the duration and quality of biopreservation while operating in the high-subzero centigrade regime (between −20 °C and −3 °C) and minimizing cryoprotectant concentrations.2–5\nAlthough this approach has produced strong early biological results in the laboratory, the reduction of these protocols to practice in a clinical or industry setting faces a fundamental limitation: thermodynamic stability.6 Supercooling...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "A Study of Water Supercooling",
+                "htmlTitle": "A Study of <b>Water Supercooling</b>",
+                "link": "https://www.scirp.org/html/1-1520027_29383.htm",
+                "displayLink": "www.scirp.org",
+                "snippet": "Supercooling occurs when a liquid does not freeze although its temperature is below its freezing point. In general, supercooling is an unstable condition and ...",
+                "htmlSnippet": "<b>Supercooling</b> occurs when a <b>liquid</b> does not freeze although its <b>temperature</b> is below its freezing point. In general, <b>supercooling</b> is an unstable <b>condition</b> and&nbsp;...",
+                "formattedUrl": "https://www.scirp.org/html/1-1520027_29383.htm",
+                "htmlFormattedUrl": "https://www.scirp.org/html/1-1520027_29383.htm",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "citation_title": "A Study of Water Supercooling",
+                            "dc.description": "The objective of this paper is to investigate water supercooling. Supercooling occurs when a liquid does not freeze although its temperature is below its freezing point. In general, supercooling is an unstable condition and occurs under special conditions. The parameters that influence supercooling stability and probability of occurrence include freezer temperature and water’s initial temperature. In this paper, it is shown that with a freezer temperature range of -3℃ to -8℃, supercooling is most likely to happen and is independent of the water’s initial temperature. Furthermore, as the freezer temperature decreases, the probability of nucleation increases, causing instant freezing. Finally, it is concluded that the Mpemba effect, in which initially hot water freezes faster than initially cold water, is due to the supercooling instability in initially hot water in which nucleation agents are more active.",
+                            "citation_year": "2013",
+                            "citation_publisher": "Scientific Research Publishing",
+                            "citation_abstract": "The objective of this paper is to investigate water supercooling. Supercooling occurs when a liquid does not freeze although its temperature is below its freezing point. In general, supercooling is an unstable condition and occurs under special conditions. The parameters that influence supercooling stability and probability of occurrence include freezer temperature and water’s initial temperature. In this paper, it is shown that with a freezer temperature range of -3℃ to -8℃, supercooling is most likely to happen and is independent of the water’s initial temperature. Furthermore, as the freezer temperature decreases, the probability of nucleation increases, causing instant freezing. Finally, it is concluded that the Mpemba effect, in which initially hot water freezes faster than initially cold water, is due to the supercooling instability in initially hot water in which nucleation agents are more active.",
+                            "dc.format": "text/html",
+                            "citation_date": "2013-03-29",
+                            "citation_abstract_html_url": "http://www.scirp.org/journal/PaperInformation.aspx?PaperID=29383",
+                            "dc.date": "2013-03-29",
+                            "prism.publicationdate": "2013-03-29",
+                            "dcterms.issued": "2013-03-29",
+                            "citation_authors": "Amir Gholaminejad;Reza Hosseini",
+                            "prism.volume": "2013",
+                            "citation_doi": "10.4236/jectc.2013.31001",
+                            "dc.creator": "Amir Gholaminejad",
+                            "dc.title": "A Study of Water Supercooling",
+                            "citation_pdf_url": "http://www.scirp.org/journal/PaperDownload.aspx?paperID=29383",
+                            "dc.identifier": "10.4236/jectc.2013.31001",
+                            "citation_volume": "2013",
+                            "dc.language": "en"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "                     Journal of Electronics Cooling and Thermal Control  Vol.                    3                     No.                    1                    (2013)                    , Article                    ID:                    29383                    ,                    6                    pages                     DOI:10.4236/jectc.2013.31001                     \n A Study of Water Supercooling\n Amir Gholaminejad1, Reza Hosseini2\n 1Institute for Computational Engineering and Science, University of Texas                at Austin, Austin, USA\n 2Department of Mechanical Engineering, Amirkabir University of Technology,                Tehran, Iran\n Email: gholaminejad@utexas.edu, hoseinir@aut.ac.ir\n Received January 16, 2013; revised February 18, 2013; accepted February 27, 2013\n Keywords: Supercooling; Freezing; Nucleation; Phase Change; Mpemba                Effect\n ABSTRACT\n The objective of this paper is to investigate water supercooling. Supercooling occurs              when a liquid does not freeze although its temperature is below its freezing point.              In general, supercooling is an unstable condition and occurs under special conditions.              The parameters that influence supercooling stability and probability of occurrence              include freezer temperature and water’s initial temperature. In this paper, it is              shown that with a freezer temperature range of −3˚C to −8˚C,              supercooling is most likely to happen and is independent of the water’s initial              temperature. Furthermore, as the freezer temperature decreases, the probability              of nucleation increases, causing instant freezing. Finally, it is concluded that              the Mpemba effect, in which initially hot water freezes faster than initially cold              water, is due to the supercooling instability in initially hot water in which nucleation              agents are more active.\n 1. Introduction\n By observing the water’s phase diagram, it seems impossible to have liquid water              several degrees below its...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Supercooling Water and Snap Freezing | Science Project",
+                "htmlTitle": "<b>Supercooling Water</b> and Snap Freezing | Science Project",
+                "link": "https://www.sciencebuddies.org/science-fair-projects/project-ideas/Phys_p033/physics/supercooling-water-and-snap-freezing",
+                "displayLink": "www.sciencebuddies.org",
+                "snippet": "It's fun to see water suddenly freeze solid. Can you figure out conditions for reliably producing supercooled water? Terms and Concepts. To do this project ...",
+                "htmlSnippet": "It&#39;s fun to see <b>water</b> suddenly freeze solid. Can you figure out <b>conditions</b> for reliably producing <b>supercooled water</b>? Terms and Concepts. To do this project&nbsp;...",
+                "formattedUrl": "https://www.sciencebuddies.org/.../supercooling-water-and-snap-freezing",
+                "htmlFormattedUrl": "https://www.sciencebuddies.org/.../<b>supercooling</b>-<b>water</b>-and-snap-freezing",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS39WX7FTJTFfWNu22Y5N0MYxOVCKSbY23q3q7yLcozkTAMUoOX0bGNi90&s",
+                            "width": "288",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:type": "article",
+                            "twitter:card": "summary",
+                            "twitter:title": "Supercooling Water and Snap Freezing | Science Project",
+                            "og:site_name": "Science Buddies",
+                            "twitter:site": "@ScienceBuddies",
+                            "viewport": "width=device-width,initial-scale=1.0",
+                            "og:title": "Supercooling Water and Snap Freezing | Science Project",
+                            "og:url": "https://www.sciencebuddies.org/science-fair-projects/project-ideas/Phys_p033/physics/supercooling-water-and-snap-freezing"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.sciencebuddies.org/AD2yt_2bKHsm3x1eT-BYkpmKFKw=/288x162/-/https/img.youtube.com/vi/AGZxMfAWGiE/0.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... to change from one phase to another, energy which is used to alter the chemical bonds between the molecules.\nWhen water freezes, the molecules of liquid become locked in a crystalline array. The molecules in the crystal have less energy than molecules in liquid water. They move less. So in order to go from liquid water to solid ice, water must lose energy.\nWhen water is cooled to its freezing point, ice crystals begin to form and grow in the water. It is thought that these initial crystals often form around impurities in the water. If you start with a sample of pure water, and cool it slowly, you can produce supercooled liquid water. When ice is added to supercooled water, it acts to catalyze the crystallization of the liquid. The water instantly freezes solid. This is sometimes called \"snap freezing.\"\nIn this project you will use salt and ice to make a \"bath\" that is below the normal freezing point of water. The dissolved salt causes the bath to have a temperature below the normal freezing point of water. This phenomenon is called _freezing point depression_. You can use your salt/ice bath to cool various water samples to investigate which samples can be supercooled, and which samples freeze at the normal freezing point. It's fun to see water suddenly freeze solid. Can you figure out conditions for reliably producing supercooled water?\n### Terms and Concepts\nTo do this project, you should do research that enables you to understand the following terms and concepts:\n*   Change of phase\n*   Freezing\n*   Heat of fusion\n*   Heat of vaporization\n*   Supercooling\n*   Freezing point depression\n### Questions\n*   How does adding salt to ice make it colder?\n### Bibliography\nThis project is based on:\n*   Gregorius, R., Hoff, and V. Calder. (2004).  Ask A Scientist, General Science Archive, Argonne National Laboratory, U.S. Department of Energy. Retrieved March 20, 2007.\n*   Gourmetsleuth. (2006). . Retrieved March 20, 2007.\nThis animation illustrates the phases of water, from solid to liquid to vapor, as heat is added. Notice when the thermometer rises, and when it stays still:\n*   Birmingham Grid for Learning. (n.d.).  Birmingham City Council. Retrieved March 28, 2014.\nMaterials and Equipment\n-----------------------\nTo do this experiment you will need the following materials and equipment:\n*   Large bowl\n*   Ice\n*   Salt\n*   Distilled water\n*   Thermometer. A good range would be -20°C to ...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Experimental explanation of supercooling : why water does not ...",
+                "htmlTitle": "<b>Experimental</b> explanation of <b>supercooling</b> : why <b>water</b> does not ...",
+                "link": "https://www.esrf.fr/news/general-old/general-2010/supercooling",
+                "displayLink": "www.esrf.fr",
+                "snippet": "Apr 21, 2010 ... Supercooling, a state where liquids do not solidify even below their normal freezing point, still puzzles scientists today.",
+                "htmlSnippet": "Apr 21, 2010 <b>...</b> <b>Supercooling</b>, a state where liquids do not solidify even below their normal freezing point, still puzzles scientists today.",
+                "formattedUrl": "https://www.esrf.fr/news/general-old/general-2010/supercooling",
+                "htmlFormattedUrl": "https://www.esrf.fr/news/general-old/general-2010/<b>supercooling</b>",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnGb3I8FS3-R4voCzDwWvDMkdv-LwClphqF2_ZdOhZkABZKOqSwioShSM&s",
+                            "width": "189",
+                            "height": "266"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "/modules/ESRF-templates-internet/css/images/og_logo.jpg",
+                            "copyright": "Copyright ESRF",
+                            "og:type": "website",
+                            "apple-mobile-web-app-status-bar-style": "default",
+                            "handheldfriendly": "True",
+                            "dcterms.modified": "Wed, 06 Dec 2023 15:31:12 GMT",
+                            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no",
+                            "apple-mobile-web-app-capable": "yes",
+                            "apple-mobile-web-app-title": "Experimental explanation of supercooling : why water does not freeze in the clouds",
+                            "og:title": "Experimental explanation of supercooling : why water does not freeze in the clouds",
+                            "cleartype": "on",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.esrf.fr/files/live/sites/www/files/news/general-old/general-2010/coversuggschulli-resize400x561.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Supercooling, a state where liquids do not solidify even below their normal freezing point, still puzzles scientists today. A good example of this phenomenon is found everyday in meteorology: clouds in high altitude are an accumulation of supercooled droplets of water below their freezing point. Scientists from the Commissariat à l’Energie Atomique et aux Energies Alternatives (CEA), the Centre National de Recherche Scientifique (CNRS) and the ESRF have found an experimental explanation of the phenomenon of supercooling. Their research is published this week in Nature.\nSupercooled liquids are trapped in a metastable state even well below their freezing point, which can only be achieved in liquids that do not contain seeds that may trigger crystallization. Clouds at high altitude are a good example for this: they contain tiny droplets of water that, in the absence of seed crystals do not form ice despite the low temperatures. In everyday life, though, there is usually some crystalline impurity in contact with the liquid that will trigger the crystallization process, and therefore the freezing. Controlling solidification behaviour is important for applications ranging from hail prevention up to technological processes such as welding and casting or even the growth of semiconductor nanostructures.\n\nSupercooling was discovered already in 1724 by Fahrenheit, but even today the...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Make Supercool Fruit Pops",
+                "htmlTitle": "Make <b>Supercool</b> Fruit Pops",
+                "link": "https://www.sciencefriday.com/educational-resources/make-supercool-fruit-pops/",
+                "displayLink": "www.sciencefriday.com",
+                "snippet": "Jul 11, 2017 ... Learn how to make liquid water that's ice cold. (And some tasty frozen fruit pops!)",
+                "htmlSnippet": "Jul 11, 2017 <b>...</b> Learn how to make <b>liquid water</b> that&#39;s ice cold. (And some tasty frozen fruit pops!)",
+                "formattedUrl": "https://www.sciencefriday.com/educational.../make-supercool-fruit-pops/",
+                "htmlFormattedUrl": "https://www.sciencefriday.com/educational.../make-supercool-fruit-pops/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9_3o33j8EotL-lHGouh02CS3l_quOpoiJhOo7GZfaJq2wVnYVmcewhw&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://www.sciencefriday.com/wp-content/uploads/2017/07/giphy-39.gif?w=480",
+                            "theme-color": "#ffffff",
+                            "og:type": "article",
+                            "og:image:width": "480",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Science Friday",
+                            "og:title": "Make Supercool Fruit Pops",
+                            "og:image:height": "270",
+                            "og:image:type": "image/gif",
+                            "msapplication-tileimage": "https://www.sciencefriday.com/wp-content/themes/sciencefriday/images/icons/touch-icons/mstile-144x144.png",
+                            "og:description": "Learn how to make liquid water that's ice cold. (And some tasty frozen fruit pops!)",
+                            "article:publisher": "https://www.facebook.com/scifri",
+                            "facebook-domain-verification": "5iznbqpuetsdttvleflp2ictpont6w",
+                            "twitter:site": "@scifri",
+                            "article:modified_time": "2018-07-18T21:14:32+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.sciencefriday.com/educational-resources/make-supercool-fruit-pops/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.sciencefriday.com/wp-content/uploads/2017/07/giphy-39.gif?w=480"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Make Supercool Fruit Pops\n===============\n!       \nplay\nMain Menu\n*   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \nUtility Menu\n*   \n*   \n*   \nSearch for: \nThis educational resource is part of the **Cool As Ice** spotlight\n*   \n*   \n*   \n*   \n*   \n!\nMake Supercool Fruit Pops\n=========================\nby , on July 11, 2017\n### Grade Level\nAll\n---\n### minutes\n15 min - 1 hr\n-------------\n### subject\nChemistry\n---------\n### Activity Type:\n, , , , \n------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n_These Aha! resources are also available !_\n* * *\nWhen you cool water down below zero degrees Celsius (32 degrees Fahrenheit), it _should_ freeze, right?\nWell, that’s not always what happens.\nMost of the time, when water dips below its freezing point, it transitions from a liquid state to a solid state, which you know as ice. However, under the right conditions, pure water can remain a liquid even when cooled to well below its freezing point. When water remains a liquid below its freezing point, it is called **supercooled water**.\nHow do you supercool water, and what causes it to finally freeze solid? To find out, let’s make supercool fruit pops. Here’s how:\nMaterials\n---------\nWooden skewers or toothpicks\nChunks of fruit, like bananas, strawberries, peaches, or pineapple\nIce and access to a freezer\nDistilled water\nLarge glass or metal bowl\nSmall glass bowl or jar\nSalt\nMake supercooled water\n----------------------\n*   Freeze fruit on a skewer in the freezer for at least two hours.\n*...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Making it Snow: A Brief History and Review of the Science Behind ...",
+                "htmlTitle": "Making it Snow: A Brief History and Review of the Science Behind ...",
+                "link": "https://www.dri.edu/making-it-snow/",
+                "displayLink": "www.dri.edu",
+                "snippet": "Mar 15, 2023 ... Clouds – those enigmatic formations of condensed water vapor which drift above our heads, forming rivers in the sky – can take many forms.",
+                "htmlSnippet": "Mar 15, 2023 <b>...</b> Clouds – those enigmatic formations of condensed <b>water</b> vapor which drift above our heads, forming rivers in the sky – can take many forms.",
+                "formattedUrl": "https://www.dri.edu/making-it-snow/",
+                "htmlFormattedUrl": "https://www.dri.edu/making-it-snow/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaE0ltu0AlHbTi2j1_mznHcqlLpngpXNYHaxXuNBYGvjWGwdUunWTXrNlA&s",
+                            "width": "278",
+                            "height": "182"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.dri.edu/wp-content/uploads/Story-of-Water-Part-2-Science-Distilled.jpg",
+                            "article:published_time": "2023-03-15T19:44:34+00:00",
+                            "og:image:width": "800",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "DRI",
+                            "tec-api-origin": "https://www.dri.edu",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://www.dri.edu/wp-content/uploads/cropped-icon_favicon-1-270x270.png",
+                            "og:description": "The snow-inducing technique called cloud-seeding has been around for more than 60 years. Although not a panacea for drought-stricken regions, cloud-seeding can increase seasonal precipitation by about 10%. In the Reno area alone, winter cloud-seeding efforts are estimated to add enough water to supply about 40,000 households for a year.",
+                            "twitter:creator": "@DRIScience",
+                            "article:publisher": "https://www.facebook.com/driscience",
+                            "twitter:data1": "Elyse DeFranco",
+                            "twitter:data2": "1 minute",
+                            "twitter:site": "@DRIScience",
+                            "article:modified_time": "2024-04-18T22:38:58+00:00",
+                            "tec-api-version": "v1",
+                            "og:type": "article",
+                            "author": "Elyse DeFranco",
+                            "og:title": "Making it Snow: A Brief History and Review of the Science Behind Cloud-Seeding",
+                            "og:image:height": "524",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.dri.edu/making-it-snow/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.dri.edu/wp-content/uploads/Story-of-Water-Part-2-Science-Distilled.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Making it Snow: A Brief History and Review of the Science Behind Cloud-Seeding - DRI\n===============\n*   \n*   \n*   \n*   \n*   \n*   \n]\n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \nSelect Page\nMaking it Snow: A Brief History and Review of the Science Behind Cloud-Seeding\n==============================================================================\nClouds – those enigmatic formations of condensed water vapor which drift above our heads, forming rivers in the sky – can take many forms. They can be wispy and non-threatening, dark and menacing, towering or diaphanous. We tend to think of them as beyond human reach, as harbingers of forces outside of our control, but as scientists learn more about them, it’s increasingly clear that humanity isn’t merely subjected to whatever weather a cloud portends – we also create and influence it through our everyday actions. And scientists now regularly harness their moisture and pull it to Earth, bringing water to parched communities and landscapes around the world.\nThis rain-inducing technique, called cloud-seeding, has been around for more than 60 years. The process involves “seeding” existing clouds with a harmless substance called silver-iodide to give water droplets a particle to converge around, allowing them to form an ice crystal. Every snowflake you’ve ever seen has initially formed this way – a small speck of dust or pollen floating around the atmosphere collects freezing drops of water, forming the intricate designs that we’re familiar with. The only difference between cloud-seeding and natural precipitation is that instead of dust or pollen, the nucleus of the ice crystal is a tiny particle of silver iodide that scientists released into the cloud. Although not a panacea for drought-stricken regions, cloud-seeding can increase seasonal precipitation by about 10%. In the Reno area alone, winter cloud-seeding efforts are estimated to add enough water to supply about 40,000 households for a year.\n!\n_Microscopic view of snowflakes by Wilson Bentley. From the Annual Summary of the Monthly Weather Review for ...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

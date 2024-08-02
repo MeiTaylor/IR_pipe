@@ -1,0 +1,676 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Connection between The Beatles Because and Beethoven Moonlight Sonata",
+                "totalResults": "427000",
+                "searchTerms": "Connection between The Beatles Because and Beethoven Moonlight Sonata",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Connection between The Beatles Because and Beethoven Moonlight Sonata",
+                "totalResults": "427000",
+                "searchTerms": "Connection between The Beatles Because and Beethoven Moonlight Sonata",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.275125,
+        "formattedSearchTime": "0.28",
+        "totalResults": "427000",
+        "formattedTotalResults": "427,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "This John Lennon song is based on Beethoven's Moonlight Sonata ...",
+                "htmlTitle": "This John Lennon song is based on <b>Beethoven&#39;s Moonlight Sonata</b> ...",
+                "link": "https://www.classicfm.com/composers/beethoven/guides/beatles-because-beethoven-moonlight-sonata/",
+                "displayLink": "www.classicfm.com",
+                "snippet": "Dec 6, 2019 ... Here's how Beethoven inspired the Beatles' 'Because'... When Yoko Ono was mucking about with Beethoven's Moonlight Sonata, John Lennon asked ...",
+                "htmlSnippet": "Dec 6, 2019 <b>...</b> Here&#39;s how <b>Beethoven</b> inspired the <b>Beatles</b>&#39; &#39;<b>Because</b>&#39;... When Yoko Ono was mucking about <b>with Beethoven</b>&#39;s <b>Moonlight Sonata</b>, John Lennon asked&nbsp;...",
+                "formattedUrl": "https://www.classicfm.com/.../beethoven/.../beatles-because-beethoven-moo...",
+                "htmlFormattedUrl": "https://www.classicfm.com/.../<b>beethoven</b>/.../<b>beatles</b>-<b>because</b>-<b>beethoven</b>-<b>moo</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkP7q4nLWNUrWaFgAjZTWg5749E2dXCi74xN8sem5K6b46ih7YYdgEZdc&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "musicrecording": [
+                        {
+                            "image": "https://images.musicrad.io/resizer/?image=aHR0cHM6Ly9pczQtc3NsLm16c3RhdGljLmNvbS9pbWFnZS90aHVtYi9NdXNpYy92NC85MC9iYS81Yi85MGJhNWJjYS0wYThkLWI1YzgtMzU4Zi1hYzY2YTMzM2YyNWEvc291cmNlLzYwMHg2MDBiYi5qcGc%3D&width=225&signature=-D0Pkb-BV_1p1cgoy9nET-lZRqk=",
+                            "byartist": "Vittorio Monti",
+                            "name": "Czardas"
+                        }
+                    ],
+                    "organization": [
+                        {
+                            "address": "30 Leicester Square, London, WC2H 7LA",
+                            "legalname": "Global"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://assets.classicfm.com/2019/48/john-lennon-inspired-by-beethoven-1575646313-list-handheld-0.jpg",
+                            "apple-itunes-app": "app-id=1142951331",
+                            "og:image:width": "640",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Classic FM",
+                            "og:domain": "www.classicfm.com",
+                            "twitter:url": "https://www.classicfm.com/composers/beethoven/guides/beatles-because-beethoven-moonlight-sonata/",
+                            "parsely-author": "Daniel Ross",
+                            "og:description": "Here’s how Beethoven inspired the Beatles’ ‘Because’...",
+                            "twitter:image": "https://assets.classicfm.com/2019/48/john-lennon-inspired-by-beethoven-1575646313-list-handheld-0.jpg",
+                            "parsely-type": "post",
+                            "twitter:site": "@classicfm",
+                            "parsely-link": "https://www.classicfm.com/composers/beethoven/guides/beatles-because-beethoven-moonlight-sonata/",
+                            "parsely-image-url": "https://assets.classicfm.com/2019/48/john-lennon-inspired-by-beethoven-1575646313-list-handheld-0.jpg",
+                            "fb:admins": "551351399,682460280",
+                            "fb:page_id": "6569469259",
+                            "modified": "2019-12-06T15:32:52",
+                            "parsely-section": "/composers/beethoven/guides/",
+                            "pubdate": "2019-12-06T15:32:36",
+                            "og:type": "article",
+                            "twitter:title": "This John Lennon song is based on Beethoven’s Moonlight Sonata",
+                            "parsely-post-id": "57624",
+                            "og:title": "This John Lennon song is based on Beethoven’s Moonlight Sonata",
+                            "og:image:height": "360",
+                            "fb:pages": "6569469259",
+                            "parsely-title": "This John Lennon song is based on Beethoven’s Moonlight Sonata",
+                            "parsely-pub-date": "2019-12-06T15:32:36",
+                            "fb:app_id": "357357177653391",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Here’s how Beethoven inspired the Beatles’ ‘Because’...",
+                            "og:url": "https://www.classicfm.com/composers/beethoven/guides/beatles-because-beethoven-moonlight-sonata/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://assets.classicfm.com/2019/48/john-lennon-inspired-by-beethoven-1575646313-list-handheld-0.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "This John Lennon song is based on Beethoven’s Moonlight Sonata - Classic FM\n=============== \n*   \n|*   \nOn Air Now\n----------\n 10pm - 1am\n]\nNow Playing\n-----------\nSymphony in Eb major Opus 6 No.2 (2) Adalbert Gyrowetz\n!\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   _Follow us on:_\nBeethoven\n*   \n*   \n*   \n*   \n*   \n*   \n*   \nThis John Lennon song is based on Beethoven’s Moonlight Sonata\n==============================================================\n6 December 2019, 15:32\n!\n ]]\nHere’s how Beethoven inspired the Beatles’ ‘Because’...\nWhen Yoko Ono was mucking about with ’s Moonlight Sonata, John Lennon asked her to play him the chords again, but backwards.\nAnd when she did, it formed the basis of one of The Beatles’ key late-period tracks, ‘Because’.\nAnd now have a listen to it:\nIt’s clear in the opening arpeggiated riff where Lennon’s Beethoven inspiration comes from. While it’s a bit of a stretch to say that the chord progression is reversed and repeated, there’s a definite musical link between the two.\nPaul McCartney is often cited as ‘the classical one’ in The Beatles, but ‘Because’ shows that he wasn’t the only one to take inspiration from classical music.\n ]]\n------------------------------------------------------------------\n ### We ranked Beethoven’s nine symphonies from worst to greatest]\n ### Armed forces and children sing Beethoven’s ‘Ode to Joy’ in stirring D-Day commemoration]\n ### The 25 best pianists of all time]\n ### Curious cat wanders on stage during Beethoven’s ‘Pastoral’ Symphony in Istanbul]\n ### What classical music does Francesca play on piano in Bridgerton?]\n ### Why did Beethoven go deaf? New hair analysis could solve mystery, say scientists]\n ### A CD can hold exactly 74 minutes of music, thanks to Beethoven]\n ### The remarkable story of Beethoven’s ‘Choral’ Symphony No. 9 and the ‘Ode to Joy’]\n ### Ultra-realistic image of Beethoven created by visual artist using composer’s own life mask]\n...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "How Beethoven influenced the song Because by The Beatles ...",
+                "htmlTitle": "How <b>Beethoven</b> influenced the song <b>Because</b> by The <b>Beatles</b> ...",
+                "link": "https://www.popularbeethoven.com/how-beethoven-influenced-the-song-because-by-the-beatles/",
+                "displayLink": "www.popularbeethoven.com",
+                "snippet": "Because was different, it came from an inspiring moment and completely from Yoko Ono and Lennon. Yoko Ono was trained in classical music and piano play. One day ...",
+                "htmlSnippet": "<b>Because</b> was different, it came from an inspiring moment and completely from Yoko Ono and Lennon. Yoko Ono was trained in classical music and <b>piano</b> play. One day&nbsp;...",
+                "formattedUrl": "https://www.popularbeethoven.com/how-beethoven-influenced-the-song-b...",
+                "htmlFormattedUrl": "https://www.popular<b>beethoven</b>.com/how-<b>beethoven</b>-influenced-the-song-<b>b</b>...",
+                "pagemap": {
+                    "wpfooter": [
+                        {
+                            "url": "GeneratePress"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7qgN77br3CZwh4yd7oZXPaKUlF18y0uOSOrrxO0ve5pMirSYHjJT9H8M&s",
+                            "width": "278",
+                            "height": "181"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1",
+                            "msapplication-tileimage": "https://www.popularbeethoven.com/wp-content/uploads/2022/10/favicon-96x96-1.png"
+                        }
+                    ],
+                    "creativework": [
+                        {
+                            "image": "https://www.popularbeethoven.com/wp-content/uploads/2019/11/beatles-e1574261937734.jpg",
+                            "text": "Because is a song written by John Lennon that was recorded for the famous Abbey Road album in 1969. According to Lennon he was inspired by Beethoven’s Moonlight Sonata. Read on to find out...",
+                            "headline": "How Beethoven influenced the song Because by The Beatles"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.popularbeethoven.com/wp-content/uploads/2019/11/beatles-e1574261937734.jpg"
+                        }
+                    ],
+                    "sitenavigationelement": [
+                        {
+                            "headline": "Popular Beethoven"
+                        },
+                        {
+                            "headline": "Popular Beethoven"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... ever**, so did – in a way – **Beatles open a door to a new era** in songwriting and music. Beethoven was born in the _classical music era_, where music was **balanced, clean and elegant**. He transformed it into the _romantic era_, where music is full of **energy and passion**. Beetles, similarly took the simple and bare rock-n-roll music of the ‘50s and transformed it into the so-called _popular music_. They **influenced the songwriters** to be more creative, more sophisticated and have more freedom.\n|Related: \nIt was Beatles producer  who time-to-time **influenced their music with some classical touch**. He was the man behind _Yesterday_’s string quartets arrangement or the heavy presence of brass, strings and woodwinds in _Abbey Road_.  **_Because_ was different**, it came from an inspiring moment and **completely from Yoko Ono and Lennon**.\nYoko Ono was trained in classical music and piano play. **One day she played on her piano Beethoven’s ** with John Lennon listening in the background. At the end of the play Lennon asked **if she could play it backwards**. Not meaning each note – of course! Rather talking about the arpeggios instead of going up, go down or the other way around. Inserted some base notes and played along. He also **follows the key and key changes** Beethoven did in the Moonlight.\nNow, all he needed is some lyrics. Most probably he was **inspired by the roundness of the music**, how it goes and turns **in circles**. From this, probably he remembered the Earth and how it turns and it lead to _Because the world is round, it turns me on…_\n* * *\n### Related articles\n1.  ]\n2.  ]\n3.  ]\n4.  ]\nTags , \nEditor's pick\n-------------\n]\n]\nNewsletter\n----------\n]\nSubscribe to our newsletter\nSubscribe!\nExplore\n-------\n*   ]\n    ### \n*   ]\n    ### \n*   ]\n    ### \n*   ]\n    ### \n*   ]\n    ### \n*   ]\n    ### \n*   ]\n    ### \n*   ]\n    ### \n*   ]\n    ### \n*   ]\n    ### \n*   ]\n    ### \n*   ]\n    ### \n!\nSubscribe to our newsletter\nSubscribe!\n© 2024 Popular Beethoven • Built with ",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Is 'Because' by The Beatles on Abbey Road really 'Moonlight Sonata ...",
+                "htmlTitle": "Is &#39;<b>Because</b>&#39; by The <b>Beatles</b> on <b>Abbey Road</b> really &#39;<b>Moonlight Sonata</b> ...",
+                "link": "https://www.quora.com/Is-Because-by-The-Beatles-on-Abbey-Road-really-Moonlight-Sonata-played-backwards-I-have-tried-and-while-I-hear-an-influence-Beethoven-wouldnt-win-a-lawsuit-even-if-he-were-alive",
+                "displayLink": "www.quora.com",
+                "snippet": "Nov 14, 2023 ... The most likely source of the chords of “Because” are the last movement of the “Moonlight” Sonata, even though the general affect of the ...",
+                "htmlSnippet": "Nov 14, 2023 <b>...</b> The most likely source <b>of</b> the chords <b>of</b> “<b>Because</b>” are the last movement <b>of</b> the “<b>Moonlight</b>” <b>Sonata</b>, even though the general affect <b>of</b> the&nbsp;...",
+                "formattedUrl": "https://www.quora.com/Is-Because-by-The-Beatles-on-Abbey-Road-really-...",
+                "htmlFormattedUrl": "https://www.quora.com/Is-<b>Because</b>-by-The-<b>Beatles</b>-on-Abbey-Road-really-...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "al:android:url": "intent://www.quora.com/Is-Because-by-The-Beatles-on-Abbey-Road-really-Moonlight-Sonata-played-backwards-I-have-tried-and-while-I-hear-an-influence-Beethoven-wouldnt-win-a-lawsuit-even-if-he-were-alive#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FIs-Because-by-The-Beatles-on-Abbey-Road-really-Moonlight-Sonata-played-backwards-I-have-tried-and-while-I-hear-an-influence-Beethoven-wouldnt-win-a-lawsuit-even-if-he-were-alive&logging_data=uid%3DNone;end",
+                            "theme-color": "#b92b27",
+                            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+                            "al:android:package": "com.quora.android",
+                            "fb:pages": "255232486973",
+                            "twitter:widgets:theme": "light"
+                        }
+                    ],
+                    "QAPage": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "Is 'Because' by The Beatles on Abbey Road really 'Moonlight Sonata 'played backwards? I have tried and while I hear an influence, Beethoven wouldn't win a lawsuit even if he were alive. - Quora\n===============\nSomething went wrong. Wait a moment and try again.\nTry again\nSkip to content\nSkip to search\nSign In\nIs \"Because\" by The Beatles on Abbey Road really \"Moonlight Sonata \"played backwards? I have tried and while I hear an influence, Beethoven wouldn't win a lawsuit even if he were alive.\nAll related (42)\nSort\nRecommended\n]\nFormer book pub, retired; composer, analyst, still at it · Author has 1.1K answers and 169.3K answer views\n · \nThe most likely source of the chords of “Because” are the last movement of the “Moonlight” Sonata, even though the general affect of the song is more like the well-known first movement. Both movements are, like the song, in C♯ minor and use Neapolitan (♮II, D major) chords, but there is no A7 (VI♮7) at all in the first movement.\nThe chord progression of the song is not exactly backwards of anything in the sonata—for one thing, it’s unlikely Beethoven would have moved from a G♯7 (V7) to a D♯m7♭5 (II7), which he would have had to have done to give Lennon the second and third chords of his progres\nContinue Reading\nThe most likely source of the chords of “Because” are the last movement of the “Moonlight” Sonata, even though the general affect of the song is more like the well-known first movement. Both movements are, like the song, in C♯ minor and use Neapolitan (♮II, D major) chords, but there is no A7 (VI♮7) at all in the first movement.\nThe chord progression of the song is not exactly backwards of anything in the sonata—for one thing, it’s unlikely Beethoven would have moved from a G♯7 (V7) to a D♯m7♭...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "harmony - Beatles - Because: Chord progression - Music: Practice ...",
+                "htmlTitle": "harmony - <b>Beatles</b> - <b>Because</b>: Chord progression - Music: Practice ...",
+                "link": "https://music.stackexchange.com/questions/7672/beatles-because-chord-progression",
+                "displayLink": "music.stackexchange.com",
+                "snippet": "Oct 31, 2012 ... I am currently looking at this tune but I'm a bit confused by a part of the progression. It seems to be using chords built mostly from the C# ...",
+                "htmlSnippet": "Oct 31, 2012 <b>...</b> I am currently looking at this tune but I&#39;m a bit confused by a part <b>of</b> the progression. It seems to be using chords built mostly from the C#&nbsp;...",
+                "formattedUrl": "https://music.stackexchange.com/.../7672/beatles-because-chord-progressio...",
+                "htmlFormattedUrl": "https://music.stackexchange.com/.../7672/<b>beatles</b>-<b>because</b>-chord-progressio...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb2NjTa32HudJSL5SOxlV9RkeeDNjDhR7o1nPvubTs1NSwvpHSUfq2Cto&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "qapage": [
+                        {
+                            "image": "https://cdn.sstatic.net/Sites/music/Img/apple-touch-icon@2.png?v=90f6a3af0c4e",
+                            "primaryimageofpage": "https://cdn.sstatic.net/Sites/music/Img/apple-touch-icon@2.png?v=90f6a3af0c4e",
+                            "name": "Beatles - Because: Chord progression",
+                            "description": "I am currently looking at this tune but I'm a bit confused by a part of the progression. It seems to be using chords built mostly from the C# harmonic minor scale. So, my current understanding ..."
+                        }
+                    ],
+                    "question": [
+                        {
+                            "image": "https://cdn.sstatic.net/Sites/music/Img/apple-touch-icon.png?v=e7188b28c464",
+                            "upvotecount": "21",
+                            "commentcount": "2",
+                            "answercount": "5",
+                            "name": "Beatles - Because: Chord progression",
+                            "datecreated": "2012-10-31T22:14:23",
+                            "text": "I am currently looking at this tune but I'm a bit confused by a part of the progression. It seems to be using chords built mostly from the C# harmonic minor scale. So, my current understanding...",
+                            "url": "Share"
+                        }
+                    ],
+                    "answer": [
+                        {
+                            "upvotecount": "20",
+                            "commentcount": "4",
+                            "text": "You found the one unexpected chord. See here: http://bostonglobe.com/ideas/2012/07/07/when-computers-listen-music-what-they-hear/hzdqdfgsIgEPiWPRe66U8J/story.html Using Music21, which was designed...",
+                            "datecreated": "2012-11-01T02:23:08",
+                            "url": "Share"
+                        },
+                        {
+                            "upvotecount": "6",
+                            "text": "However, at one point, it goes: C#m, A7, A13, D/F#, Ddim. Can anyone help me understand what is going on here? The A7 seems to be functioning as a tritone substitute for D#7 which would pull...",
+                            "datecreated": "2013-06-14T08:08:47",
+                            "url": "Share"
+                        },
+                        {
+                            "upvotecount": "5",
+                            "text": "This is one of my favorite Beatles pieces. I think it has the best harmony in a POP song, along with God Only Knows by Beach Boys, and Julia in the White Album. I'll give it a try with simplified...",
+                            "datecreated": "2013-06-14T00:09:33",
+                            "url": "Share"
+                        },
+                        {
+                            "upvotecount": "0",
+                            "text": "The explanation of the A chord being a tritone sub on the way to a G# Dominant, but instead going elsewhere, does not speak to me. Just for one thing a tritone sub would seem to me to be always...",
+                            "datecreated": "2021-04-22T22:23:35",
+                            "url": "Share"
+                        },
+                        {
+                            "upvotecount": "0",
+                            "text": "In functional harmony terms, the Ddim chord is a common-tone diminished chord1 expanding the Dmaj harmony. Ordinarily, this would progress back to Dmaj. But now consider the Dmaj chord as the...",
+                            "datecreated": "2021-04-22T23:13:55",
+                            "url": "Share"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "Dan"
+                        },
+                        {
+                            "name": "Mark Lutton"
+                        },
+                        {
+                            "name": "Kaz"
+                        },
+                        {
+                            "name": "Whimusical"
+                        },
+                        {
+                            "name": "AdHoc"
+                        },
+                        {
+                            "name": "Aaron"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cdn.sstatic.net/Sites/music/Img/apple-touch-icon@2.png?v=90f6a3af0c4e",
+                            "og:type": "website",
+                            "twitter:card": "summary",
+                            "twitter:title": "Beatles - Because: Chord progression",
+                            "og:site_name": "Music: Practice & Theory Stack Exchange",
+                            "twitter:domain": "music.stackexchange.com",
+                            "viewport": "width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0",
+                            "twitter:description": "I am currently looking at this tune but I'm a bit confused by a part of the progression.\n\nIt seems to be using chords built mostly from the C# harmonic minor scale.  \n\nSo, my current understanding ...",
+                            "og:url": "https://music.stackexchange.com/questions/7672/beatles-because-chord-progression"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.sstatic.net/Sites/music/Img/apple-touch-icon@2.png?v=90f6a3af0c4e"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...3.  \n    5.  \n    6.  \n2.  Teams\n    Now available on Stack Overflow for Teams! AI features where you work: search, IDE, and chat.\n3.  (javascript:void\\(0\\))\n4.  Ask questions, find answers and collaborate at work with Stack Overflow for Teams. \n**Teams**\nQ&A for work\nConnect and share knowledge within a single location that is structured and easy to search.\n========================================================================================================================\nAsked 11 years, 9 months ago\nModified \nViewed 4k times\n21\nI am currently looking at this tune but I'm a bit confused by a part of the progression.\nIt seems to be using chords built mostly from the C# harmonic minor scale.\nSo, my current understanding tells me we could use:\n*   C#min\n*   D#min\n*   EMaj\n*   F#min\n*   G#Maj\n*   AMaj\n*   CMin\nOr extending versions of these (eg G#7)\nHowever, at one point, it goes:\nC#m, A7, A13, D/F#, Ddim.\nCan anyone help me understand what is going on here?\nI thought perhaps the A7 or A13 would be followed by a Dmin (secondary dominant) but is doesn't seem to be the case.\nWhy do the D/F# and Ddim work?\nAny advice appreciated.\nThanks.\n*   \n*   \n*   \nFollow \n]\n♦\n47.8k2424 gold badges156156 silver badges287287 bronze badges\nasked Oct 31, 2012 at 22:14\n]\nDan\n31122 silver badges55 bronze badges\n2\n*   4\n    Your chord list for Harmonic minor diatonic chords is Wrong. Three of the chords contain non diatonic notes\n    – \n    Commented Feb 20, 2014 at 20:54\n*   I think this song is Beethoven’s moonlight Sonata played backwards. Yoko was playing it on piano or something and John had the idea to reverse it and incorporate it into a song.\n    – \n    Commented Feb 3, 2021 at 3:02\n  | \n5 Answers 5\n-----------\nSorted by: \nHighest score (default) Date modified (newest first) Date created (oldest first)\n20\nYou found the one unexpected chord.\nSee here: \n> Using Music21...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Because (Beatles song) - Wikipedia",
+                "htmlTitle": "<b>Because</b> (<b>Beatles</b> song) - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Because_(Beatles_song)",
+                "displayLink": "en.wikipedia.org",
+                "snippet": "It was released on their 1969 album Abbey Road, immediately preceding the extended medley on side two of the record. It features a prominent three-part vocal ...",
+                "htmlSnippet": "It was released on their 1969 album <b>Abbey Road</b>, immediately preceding the extended medley on side two <b>of</b> the record. It features a prominent three-part vocal&nbsp;...",
+                "formattedUrl": "https://en.wikipedia.org/wiki/Because_(Beatles_song)",
+                "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Because</b>_(<b>Beatles</b>_song)",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "referrer": "origin",
+                            "og:image": "https://upload.wikimedia.org/wikipedia/en/9/95/Because_sheet_music.PNG",
+                            "theme-color": "#eaecf0",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "og:title": "Because (Beatles song) - Wikipedia",
+                            "og:image:height": "1584",
+                            "format-detection": "telephone=no"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "From Wikipedia, the free encyclopedia\n| \"Because\" |\n| --- |\n| ]Sheet music cover\n |\n|  by  |\n| from the album __ |\n| Released | 26 September 1969 |\n| Recorded | 1–5 August 1969 |\n|  | , London |\n|  | ]#cite_note-1) |\n| Length | 2:45 |\n|  |  |\n|  |  |\n|  |  |\n|  |\n| Audio sample |\n| \n*   \n*   \n |\n\"**Because**\" is a song written by ]#cite_note-FOOTNOTESheff2000191-2) (credited to ) and recorded by the English rock band . It was released on their 1969 album __, immediately preceding the extended  \"Medley (music)\") on side two of the record. It features a prominent three-part vocal harmony by Lennon,  and , recorded three times to make nine voices in all.\n]\nAn  similar to the one used for \"Because\"\nThe song begins with a distinctive  intro played by producer . The harpsichord is joined by Lennon's guitar (mimicking the harpsichord line) played through a . Then vocals and bass guitar enter.\n\"Because\" was one of few Beatles recordings to feature a , played by George Harrison. It appears in what  refers to as the \"mini-bridge\",]#cite_note-FOOTNOTEPollack-3) and then again at the end of the song.\nLennon said the song was inspired by 's _ \"Piano Sonata No. 14 (Beethoven)\")_.\n\"I was lying on the sofa in our house, listening to  play Beethoven's 'Moonlight Sonata' on the piano. Suddenly, I said, 'Can you play those chords backward?' She did, and I wrote 'Because' around them. The song sounds like 'Moonlight Sonata,' too. The lyrics are clear, no bullshit, no imagery, no obscure references.\"]#cite_note-FOOTNOTES...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Today's Song: \"Because\"",
+                "htmlTitle": "Today&#39;s Song: &quot;<b>Because</b>&quot;",
+                "link": "https://thesongbook.org/about/news-media/the-songbook-blog-items/todays-song-because/",
+                "displayLink": "thesongbook.org",
+                "snippet": "Sep 27, 2019 ... What is YOUR favorite Beatles song? This week's addition to “My All-time Greatest Songs” is \"Because\" by the Beatles!",
+                "htmlSnippet": "Sep 27, 2019 <b>...</b> What is YOUR favorite <b>Beatles</b> song? This week&#39;s addition to “My All-time Greatest Songs” is &quot;<b>Because</b>&quot; by the <b>Beatles</b>!",
+                "formattedUrl": "https://thesongbook.org/about/news-media/the.../todays-song-because/",
+                "htmlFormattedUrl": "https://thesongbook.org/about/news-media/the.../todays-song-<b>because</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSE-ujMYV9ey0JkeXieybgfFupae0WKLUZFNIiMaUNHIcJjMJLMPsdrHM&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#00aba9",
+                            "og:image": "https://thesongbook.org/media/4166/abbey-road.jpg?1238863277",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "A Great American Songbook Foundation",
+                            "og:type": "website",
+                            "theme-color": "#ffffff",
+                            "og:site_name": "The Center For The Performing Arts",
+                            "og:title": "Today's Song: \"Because\"",
+                            "language": "en",
+                            "twitter:creator": "@HypeTekie",
+                            "og:description": "What is YOUR favorite Beatles song? This week’s addition to “My All-time Greatest Songs” is \"Because\" by the Beatles!",
+                            "twitter:site": "@SongbookFdn",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:url": "https://thesongbook.org/about/news-media/the-songbook-blog-items/todays-song-because/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://thesongbook.org/media/3595/dick-schwartz.jpg?width=286&height=286&mode=max"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... the best ways to reach our staff. \n---------------------------------------\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nToday's Song: \"Because\"\n=======================\nSeptember 27, 2019\n!\nMy All-Time Greatest Songs\n==========================\nBy Songbook Volunteer: Dick Schwartz\n====================================\n**Author's Note:** This blog has its origin in my interest – _maybe, obsession_ – with songs. It seems there is usually some song in my head at nearly any time.  When I hear certain songs, I’ll sometimes think or say **“Ooh! That’s one of my all-time favorites!”** The range of my favorites is broad and diverse. These songs might be popular or obscure, from Broadway or the back roads, simple or complex, ballads or rockers.\nI hope that you will enjoy my blogging exploration of contenders for my all-time-favorite songs and that **you’ll** be moved to consider and share your own favorites that have held a timeless presence in the soundtrack of your life, or rather, your own personal **_Songbook_**.\n\\--- _**Enjoy!**_ ---\nThe choice for the next entry in “My All-time Greatest Songs” is the _**Beatles’**_ **“Because.”** So much has been researched, written, and said about the Beatles’ music that their creative output can seem like a blur. Still, **“Because”** stands out to me.\nThe Beatles’ first recording as their established four-member group was in August, 1962. Their last recording was in August, 1969. So, all the Beatles’ incredible body of work as a group took place in only seven years. In that brief time they became the best-selling band in history, with estimated worldwide sales of over 800 million albums. So much musical genius so fast! Of course, the individual Beatles (John Lennon, Paul McCartney, George Harrison, and Ringo Starr) went on to produce a tremendous amount of amazing music, but their collective impact is unmatched.\n“Because” is a beautiful composition, but It’s the arrangement, harmonies, and recording techniques that make it a masterpiece. John Lennon wrote the music and lyrics for “Because” in July, 1969, while enjoying some time alone with Yoko Ono. As the story goes, Yoko, an accomplished pianist, was playing Beethoven’s 1803 “Moonlight Sonata No. 14” piece, known variously as Piano Sonata in C-sharp minor (Opus 27,...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "TIL John Lennon wrote \"Because\" from hearing the chords of ...",
+                "htmlTitle": "TIL John Lennon wrote &quot;<b>Because</b>&quot; from hearing the chords <b>of</b> ...",
+                "link": "https://www.reddit.com/r/todayilearned/comments/kxqpt/til_john_lennon_wrote_because_from_hearing_the/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Oct 2, 2011 ... I once noticed that Moonlight Sonata sounded very similar to Radiohead's Exit Music. Then I realized both were about heartbreak. Exit Music is ...",
+                "htmlSnippet": "Oct 2, 2011 <b>...</b> I once noticed that <b>Moonlight Sonata</b> sounded very similar to Radiohead&#39;s Exit Music. Then I realized both were about heartbreak. Exit Music is&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/.../til_john_lennon_wrote_because_from_hearing_t...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../til_john_lennon_wrote_<b>because</b>_from_hearing_t...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWaWARaUalxMkeCXnvIde7wmzUIGz4tfwVGR9UYxmXqiogdyoZSeCmhls&s",
+                            "width": "290",
+                            "height": "174"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://external-preview.redd.it/7FG3d0GbwscvCQ-iiGgEacpVMeSQ__s-M1RhcoFmnU8.jpg?width=1080&crop=smart&auto=webp&s=c90af1bc6e02cbbeb5ab6a5ee0a6ecfb74b8c9f1",
+                            "theme-color": "#000000",
+                            "og:image:width": "1080",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/todayilearned on Reddit: TIL John Lennon wrote \"Because\" from hearing the chords of Beethoven's \"Moonlight Sonata\" played backwards.",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/todayilearned on Reddit: TIL John Lennon wrote \"Because\" from hearing the chords of Beethoven's \"Moonlight Sonata\" played backwards.",
+                            "og:image:height": "648",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/amadeus12 - 108 votes and 19 comments",
+                            "twitter:image": "https://external-preview.redd.it/7FG3d0GbwscvCQ-iiGgEacpVMeSQ__s-M1RhcoFmnU8.jpg?width=1080&crop=smart&auto=webp&s=c90af1bc6e02cbbeb5ab6a5ee0a6ecfb74b8c9f1",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/todayilearned/comments/kxqpt/til_john_lennon_wrote_because_from_hearing_the/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://external-preview.redd.it/7FG3d0GbwscvCQ-iiGgEacpVMeSQ__s-M1RhcoFmnU8.jpg?width=1080&crop=smart&auto=webp&s=c90af1bc6e02cbbeb5ab6a5ee0a6ecfb74b8c9f1"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Open navigation Go to Reddit Home\nGet the Reddit app  Log in to Reddit\nOpen settings menu\n*   *   *   \n### Get the Reddit app\nScan this QR code to download the app now\nOr check it out in the app stores\nYou learn something new every day; what did you learn today? Submit interesting and specific facts about something that you just found out here.\n* * *\nMembers Online\n•\nADMIN MOD\nTIL John Lennon wrote \"Because\" from hearing the chords of Beethoven's \"Moonlight Sonata\" played backwards.\n-----------------------------------------------------------------------------------------------------------\n ]]\nTop Posts\n---------\n* * *\n*   \n    * * *\n*   \n    * * *\n*   \n    * * *\n*   &nbsp;\n*   &nbsp;\n* * *\n*   TOPICS\n*   Internet Culture (Viral)\n*   *   *   *   *   *   *   *   *   \n*   Games\n*   *   *   *   *   *   *   *   *   *   *   *   \n*   Q&As\n*   *   \n*   Technology\n*   *   *   *   *   *   *   *   *   *   \n*   Pop Culture\n*   *   *   *   *   *   \n*   Movies & TV\n*   *   *   *   *   *   *   *   *   *   *   *   *   *   \n* * *\n*   RESOURCES\n*   \n*   *   *   *   *   \n* * *\n*   *   *   \n* * *\n*   *   *   ",
+                    "content_tokens": 337
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "The Beatles's 'Because' sample of Ludwig Van Beethoven's ...",
+                "htmlTitle": "The <b>Beatles&#39;s</b> &#39;<b>Because</b>&#39; sample <b>of</b> Ludwig Van <b>Beethoven&#39;s</b> ...",
+                "link": "https://www.whosampled.com/sample/169993/The-Beatles-Because-Ludwig-Van-Beethoven-Moonlight-Sonata/",
+                "displayLink": "www.whosampled.com",
+                "snippet": "\"Because\" by The Beatles sampled Ludwig Van Beethoven's \"Moonlight Sonata\". Listen to both songs on WhoSampled.",
+                "htmlSnippet": "&quot;<b>Because</b>&quot; by The <b>Beatles</b> sampled Ludwig Van <b>Beethoven&#39;s</b> &quot;<b>Moonlight Sonata</b>&quot;. Listen to both songs on WhoSampled.",
+                "formattedUrl": "https://www.whosampled.com/.../The-Beatles-Because-Ludwig-Van-Beetho...",
+                "htmlFormattedUrl": "https://www.whosampled.com/.../The-<b>Beatles</b>-<b>Because</b>-Ludwig-Van-<b>Beetho</b>...",
+                "pagemap": {
+                    "musicalbum": [
+                        {
+                            "name": "Abbey Road"
+                        },
+                        {
+                            "name": "Sonata No. 14, Sonata No. 8, Sonata No. 23"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jeKwM1B045PPUqrd_Ncgf17_Io-jTng1wQZapPv84nobVVoMNbFPPsbT&s",
+                            "width": "200",
+                            "height": "200"
+                        }
+                    ],
+                    "musicrecording": [
+                        {
+                            "duration": "PT0H2M45S",
+                            "image": "/static/images/media/track_images_200/lr2825_2009920_20359460955.jpg",
+                            "name": "Because",
+                            "url": "Because",
+                            "thumbnailurl": "https://www.whosampled.com/static/images/media/track_images_100/mr2825_2009920_20359460955.jpg"
+                        },
+                        {
+                            "duration": "PT0H6M22S",
+                            "image": "/static/images/media/track_images_200/lr2_2009107_911593042.jpg",
+                            "name": "Moonlight Sonata",
+                            "url": "Moonlight Sonata",
+                            "thumbnailurl": "https://www.whosampled.com/static/images/media/track_images_100/mr2_2009107_911593042.jpg"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "George Martin",
+                            "url": "George Martin"
+                        }
+                    ],
+                    "musicgroup": [
+                        {
+                            "name": "The Beatles",
+                            "url": "/The-Beatles/"
+                        },
+                        {
+                            "name": "Ludwig Van Beethoven",
+                            "url": "/Ludwig-Van-Beethoven/"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.whosampled.com/static/images/media/track_images_200/lr2825_2009920_20359460955.jpg",
+                            "fb:app_id": "136259916449994",
+                            "og:type": "whosampled:sample",
+                            "twitter:card": "summary",
+                            "og:site_name": "WhoSampled",
+                            "twitter:site": "@whosampled",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:title": "The Beatles's 'Because' - Discover the Sample Source",
+                            "og:url": "https://www.whosampled.com/sample/169993/The-Beatles-Because-Ludwig-Van-Beethoven-Moonlight-Sonata/",
+                            "og:description": "\"Because\" by The Beatles contains a sample of another song. Listen to both songs on WhoSampled."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.whosampled.com/static/images/media/track_images_200/lr2825_2009920_20359460955.jpg"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "The Beatles",
+                            "name": "The Beatles",
+                            "position": "1"
+                        },
+                        {
+                            "item": "Because",
+                            "name": "Because",
+                            "position": "2"
+                        },
+                        {
+                            "name": "The Beatles's 'Because' sample of Ludwig Van Beethoven's 'Moonlight Sonata'",
+                            "position": "3"
+                        }
+                    ],
+                    "musicrelease": [
+                        {
+                            "recordlabel": "Apple",
+                            "datepublished": "1969"
+                        },
+                        {
+                            "recordlabel": "-",
+                            "datepublished": "1801"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...-Lookin-Chain-The-Alchemist-The-Beatles-Because/\"><img loading=\"lazy\" src=\"https://www.whosampled.com/static/images/media/track_images_100/mr2403_2011112_225949519280.jpg\" srcset=\"https://www.whosampled.com/static/images/media/track_images_100/mr2403_2011112_225949519280.jpg 1x, https://www.whosampled.com/static/images/media/track_images_200/lr2403_2011112_225949519280.jpg 2x\" width=\"80\" height=\"80\" alt=\"Goldie Lookin Chain's The Alchemist\"></a></td><td><a href=\"https://www.whosampled.com/sample/79295/Goldie-Lookin-Chain-The-Alchemist-The-Beatles-Because/\">The Alchemist</a></td><td><a href=\"https://www.whosampled.com/Goldie-Lookin-Chain/\">Goldie Lookin Chain</a></td><td>2003</td><td><span>Hook / Riff</span></td></tr><tr><td><a href=\"https://www.whosampled.com/sample/1108704/The-Beatles-Now-and-Then-The-Beatles-Because/\"><img loading=\"lazy\" src=\"https://www.whosampled.com/static/images/media/track_images_100/mr153967_2023112_18283621734.jpg\" srcset=\"https://www.whosampled.com/static/images/media/track_images_100/mr153967_2023112_18283621734.jpg 1x, https://www.whosampled.com/static/images/media/track_images_200/lr153967_2023112_18283621734.jpg 2x\" width=\"80\" height=\"80\" alt=\"The Beatles's Now and Then\"></a></td><td><a href=\"https://www.whosampled.com/sample/1108704/The-Beatles-Now-and-Then-The-Beatles-Because/\">Now and Then</a></td><td><a href=\"https://www.whosampled.com/The-Beatles/\">The Beatles</a></td><td>2023</td><td><span>Vocals / Lyrics</span></td></tr></tbody></table>\n### Covers of 's \n<table><tbody><tr><td><a href=\"https://www.whos...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "fate of the stars beatles inspiration? : r/tallyhall",
+                "htmlTitle": "fate <b>of</b> the stars <b>beatles</b> inspiration? : r/tallyhall",
+                "link": "https://www.reddit.com/r/tallyhall/comments/q8gfta/fate_of_the_stars_beatles_inspiration/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Oct 15, 2021 ... It doesn't 'use' Moonlight Sonata. It's a completely separate piece, with too many differences to be considered the same.",
+                "htmlSnippet": "Oct 15, 2021 <b>...</b> It doesn&#39;t &#39;use&#39; <b>Moonlight Sonata</b>. It&#39;s a completely separate piece, <b>with</b> too many differences to be considered the same.",
+                "formattedUrl": "https://www.reddit.com/r/tallyhall/.../fate_of_the_stars_beatles_inspiration/",
+                "htmlFormattedUrl": "https://www.reddit.com/r/tallyhall/.../fate_of_the_stars_<b>beatles</b>_inspiration/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://share.redd.it/preview/post/q8gfta",
+                            "theme-color": "#000000",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "og:image:alt": "An image containing a preview of the post",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/tallyhall on Reddit: fate of the stars beatles inspiration?",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/tallyhall on Reddit: fate of the stars beatles inspiration?",
+                            "og:image:height": "630",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/EasyNightsDay - 14 votes and 6 comments",
+                            "twitter:image": "https://share.redd.it/preview/post/q8gfta",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/tallyhall/comments/q8gfta/fate_of_the_stars_beatles_inspiration/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://share.redd.it/preview/post/q8gfta"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Reddit - Dive into anything\n===============            \nOpen menu Open navigation  Go to Reddit Home\nr/tallyhall A chip A close button\nGet app Get the Reddit app  Log in to Reddit\nExpand user menu Open settings menu\n*   *   *   \n### Get the Reddit app\nScan this QR code to download the app now\nOr check it out in the app stores\nA subreddit for the stupendously amazing band Tally Hall.\n* * *\nMembers Online\n•\nADMIN MOD\nfate of the stars beatles inspiration?\n======================================\nI was listening to fate of the stars the other day and noticed that at 1:18 the guitar arpeggio sounds quite similar to the main riff of I want you (she's so heavy) by the beatles. does anyone know if this was inspiration or coincidence?\nRead more\n**Top 3%** \nTop Posts\n---------\n* * *\n*   \n*   \n*   \n*   &nbsp;\n*   &nbsp;\n* * *\n*   TOPICS\n*   Internet Culture (Viral)\n*   *   *   *   *   *   *   *   *   \n*   Games\n*   *   *   *   *   *   *   *   *   *   *   *   \n*   Q&As\n*   *   \n*   Technology\n*   *   *   *   *   *   *   *   *   *   \n*   Pop Culture\n*   *   *   *   *   *   \n*   Movies & TV\n*   *   *   *   *   *   *   *   *   *   *   *   *   *   \n* * *\n*   RESOURCES\n*   *   *   *   *   *   \n* * *\n*   *   *   \n* * *\n*   *   *   ",
+                    "content_tokens": 387
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Growing up with music: How Beethoven and the Beatles shaped my ...",
+                "htmlTitle": "Growing up <b>with</b> music: How <b>Beethoven</b> and the <b>Beatles</b> shaped my ...",
+                "link": "https://www.yourclassical.org/story/2015/05/07/childhood-classical-music",
+                "displayLink": "www.yourclassical.org",
+                "snippet": "May 7, 2015 ... Whenever my mother had an opportunity to sit down at a piano, she played the opening lines of Beethoven's Moonlight Sonata in the most beautiful ...",
+                "htmlSnippet": "May 7, 2015 <b>...</b> Whenever my mother had an opportunity to sit down at a piano, she played the opening lines <b>of Beethoven&#39;s Moonlight Sonata</b> in the most beautiful&nbsp;...",
+                "formattedUrl": "https://www.yourclassical.org/story/2015/05/07/childhood-classical-music",
+                "htmlFormattedUrl": "https://www.yourclassical.org/story/2015/05/07/childhood-classical-music",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6YaTFqZB-ePfvAFQ9W0VvfptX30eCk3qPHrtEL1dfcepLqC-5gtoAibQ&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#003444",
+                            "og:image": "https://img.apmcdn.org/d5de5c79cccd6ba176a68d26266cb23437b64446/widescreen/6f6f39-20150508-corina-bernstein.jpg",
+                            "twitter:title": "Growing up with music: Beethoven and the Beatles",
+                            "twitter:card": "summary_large_image",
+                            "og:image:alt": "Corina Bernstein as a child",
+                            "theme-color": "#f5f4f3",
+                            "og:title": "Growing up with music: Beethoven and the Beatles",
+                            "og:description": "Corina Bernstein grew up with music of all kinds, and she developed a lifelong passion for a wide array of sounds.",
+                            "twitter:image": "https://img.apmcdn.org/d5de5c79cccd6ba176a68d26266cb23437b64446/widescreen/6f6f39-20150508-corina-bernstein.jpg",
+                            "next-head-count": "27",
+                            "twitter:image:alt": "Corina Bernstein as a child",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Corina Bernstein grew up with music of all kinds, and she developed a lifelong passion for a wide array of sounds.",
+                            "og:url": "https://www.yourclassical.org/story/2015/05/07/childhood-classical-music"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://img.apmcdn.org/d5de5c79cccd6ba176a68d26266cb23437b64446/widescreen/6f6f39-20150508-corina-bernstein.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... it to a personal playlist for you.\nShow me!\nSave\nMy mother told us that in the beginning she sang to us all the time because it was one of the only reliable ways she could keep us happy and entertained when we were babies. To this day, she tells me, she hasn't met a baby who isn't captivated by music.\nI am the oldest of five, and music is in my family's bones. Classical music was as woven through the fabric of my childhood as rock, folk, blues, and many other genres. There were different kinds of music in our house for different kinds of moods. My mother played classical radio when she wanted a moment of calm or when we dressed up and had tea parties; the Beatles and the Beach Boys crooned when she was feeling playful, and she tended to turn to Frank Sinatra and traditional Celtic tunes when she felt nostalgic.\nWhenever my mother had an opportunity to sit down at a piano, she played the opening lines of Beethoven's Moonlight Sonata in the most beautiful, melancholy way. It made me feel in awe of her, that she could play something so beautifully and entirely captivating. I yearned with my whole body and imagination to be able to create something like that.\nThe first song I learned to sing was \"Baa Baa Black Sheep\" — the old French melody \"Ah! Vous Dirai-Je, Maman,\" on which many composers have written variations (perhaps most famously, Mozart). I was about 2 years old when I first sang it in its entirety, and if my mother's story is to be trusted, my rendition went something like this:\n\"Baa baa deet, habool, yetoo, yetoo, reek, rack, roll!\"\nAs I grew up, I had the fascinating experience of watching my little siblings develop and grow into their own musical identities over the years. The first time I saw my little sister sing her first song all the way through, I understood the magic of that moment. I understood why my mother had told me that story of \"Baa Baa Deet\" so many times over the years.\nI practiced classical music pieces for the litany of music lessons I took over my growing up years. I learned Gershwin, Vivaldi, Handel, and so many other composers as I sang and practiced their lines over and over through years of choir and band rehearsals, violin, guitar, oboe, and voice lessons. By the time I was in early high school I had taught myself a few songs on the piano — including Beethoven's \"Fur Elise...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

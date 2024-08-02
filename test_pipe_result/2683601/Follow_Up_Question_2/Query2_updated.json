@@ -1,0 +1,786 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Risks of microwaving food in plastic containers",
+                "totalResults": "66200000",
+                "searchTerms": "Risks of microwaving food in plastic containers",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Risks of microwaving food in plastic containers",
+                "totalResults": "66200000",
+                "searchTerms": "Risks of microwaving food in plastic containers",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.249433,
+        "formattedSearchTime": "0.25",
+        "totalResults": "66200000",
+        "formattedTotalResults": "66,200,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Microwaving Food in Plastic Containers - The American Journal of ...",
+                "htmlTitle": "<b>Microwaving Food</b> in <b>Plastic Containers</b> - The American Journal of ...",
+                "link": "https://www.amjmed.com/article/S0002-9343(22)00523-X/fulltext",
+                "displayLink": "www.amjmed.com",
+                "snippet": "Jul 15, 2022 ... Two additives in various plastics, however, have concerned toxicologists for many years as potential human health hazards: bisphenol A (BPA) and\u00a0...",
+                "htmlSnippet": "Jul 15, 2022 <b>...</b> Two additives in various <b>plastics</b>, however, have concerned toxicologists for many years as potential human health <b>hazards</b>: bisphenol A (BPA) and&nbsp;...",
+                "formattedUrl": "https://www.amjmed.com/article/S0002-9343(22)00523-X/fulltext",
+                "htmlFormattedUrl": "https://www.amjmed.com/article/S0002-9343(22)00523-X/fulltext",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "466756140",
+                            "twitter:card": "summary_large_image",
+                            "citation_title": "Microwaving Food in Plastic Containers",
+                            "citation_author_institution": "Professor of Medicine, College of Medicine, University of Arizona, Tucson",
+                            "og:site_name": "The American Journal of Medicine",
+                            "citation_reference": "Centers for Disease Control and Prevention. Bisphenol A (BPA) factsheet. Available at: https://www.cdc.gov/biomonitoring/BisphenolA_FactSheet.html. Accessed July 6, 2022.",
+                            "citation_publisher": "Elsevier",
+                            "citation_journal_title": "The American Journal of Medicine",
+                            "citation_date": "2023/02/01",
+                            "og:description": "Over many years, we have been warned not to heat food in plastic containers in the\nmicrowave oven because this can result in migration of harmful plastic components\ninto the food. Despite such warnings, many foods in our supermarkets are packaged\nin a variety of plastic containers often labeled as microwave safe. We wondered whether\nthis practice was truly warranted, and if, indeed, there was scientific evidence that\npotentially harmful substances were transferred from plastic containers into food\nduring heating in the microwave oven.",
+                            "citation_online_date": "2022/07/15",
+                            "citation_author_email": "jalpert@shc.arizona.edu",
+                            "citation_issn": "0002-9343",
+                            "citation_language": "English",
+                            "citation_fulltext_html_url": "http://www.amjmed.com/article/S000293432200523X/fulltext",
+                            "citation_pdf_url": "http://www.amjmed.com/article/S000293432200523X/pdf",
+                            "citation_lastpage": "124",
+                            "og:type": "Article",
+                            "twitter:title": "Microwaving Food in Plastic Containers",
+                            "citation_pmid": "35853480",
+                            "citation_journal_abbrev": "The American Journal of Medicine",
+                            "pbcontext": ";ctype:string:Journal Content;article:article:pii\\:S000293432200523X;requestedJournal:journal:ajm;pageGroup:string:Article View;journal:journal:ajm;wgroup:string:Migrated Websites;page:string:Show Full Text;website:website:ajm-site;issue:issue:pii\\:S0002934322X00144;subPage:string:Full Text;product:product:elsevier\\:product\\:ha",
+                            "og:title": "Microwaving Food in Plastic Containers",
+                            "citation_author": "Joseph S. Alpert",
+                            "citation_abstract_html_url": "http://www.amjmed.com/article/S000293432200523X/abstract",
+                            "citation_issue": "2",
+                            "citation_firstpage": "123",
+                            "viewport": "width=device-width,initial-scale=1,maximum-scale=1, user-scalable=1",
+                            "twitter:description": "Over many years, we have been warned not to heat food in plastic containers in the\nmicrowave oven because this can result in migration of harmful plastic components\ninto the food. Despite such warnings, many foods in our supermarkets are packaged\nin a variety of plastic containers often labeled as microwave safe. We wondered whether\nthis practice was truly warranted, and if, indeed, there was scientific evidence that\npotentially harmful substances were transferred from plastic containers into food\nduring heating in the microwave oven.",
+                            "citation_doi": "10.1016/j.amjmed.2022.07.003",
+                            "dc.identifier": "doi:10.1016/j.amjmed.2022.07.003",
+                            "citation_volume": "136",
+                            "og:url": "https://www.amjmed.com/article/S0002-9343(22)00523-X/abstract",
+                            "google-play-app": "com.elsevier.gmr.ajom"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Comments: 3\n00725-2/fulltext \"Next Article\")\n*   00523-X/fulltext#seccesectitle0002)\n*   00523-X/fulltext#articleInformation)\n*   00523-X/fulltext#relatedArticles)\n!\nOver many years, we have been warned not to heat food in plastic containers in the microwave oven because this can result in migration of harmful plastic components into the food. Despite such warnings, many foods in our supermarkets are packaged in a variety of plastic containers often labeled as microwave safe. We wondered whether this practice was truly warranted, and if, indeed, there was scientific evidence that potentially harmful substances were transferred from plastic containers into food during heating in the microwave oven.\nBefore reviewing the literature and the internet posts concerning migration of plastic components into food, we needed to understand basic information about the plastics themselves as well as what components might be transferred into food. Plastic is a generic term; there is no single component of plastic in terms of chemical composition. The term describes a family of polymer substances ranging from polyvinyl chloride (the compound in white PVC plumbing pipes) to one of the original synthetic plastic compounds, Bakelite, once used to make tableware. Plastics can be composed of organic polymers and organic or inorganic additives compounded in a variety of forms. Most plastics are made from petrochemicals. The toxicity of the various plastic compounds depends on what is in the specific plastic and how stable it is under a variety of conditions, for example, heating in a microwave oven. Because most plastics are insoluble in water, they are almost always quite stable and chemically inert.\nTwo additives in various plastics, however, have concerned toxicologists for many years as potential human health hazards: bisphenol A (BPA) and phthalates.\n00523-X/fulltext#)\nCenters for Disease Control and Prevention. Bisphenol A (BPA) factsheet. Available at: . Accessed July 6, 2022.\n*   \n00523-X/fulltext# \"Close info\")\n,\u00a0\n00523-X/fulltext#)\nCenters for Disease Control and Prevention. Phthalates factsheet. Available at: . Accessed July 6, 2022.\n*   \n00523-X/fulltext# \"Close info\")\n,\u00a0\n00523-X/fulltext#)\n*   Rochester JR.\nBisphenol A and human health: a review of the literature.\n_Reprod Toxicol._ 2013; 42: 132-155\n*   \n*   \n*   \n*   \n00523-X/fulltext# \"Close...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The American Journal of Medicine is a peer-reviewed medical journal that publishes research findings and reviews on a range of medical topics. As it adheres to stringent peer-review standards, the information is generally reliable and scientifically backed. The risk of misinformation is low, but there may be occasional biases depending on the studies published. Overall, it\u2019s a reputable source for health-related claims."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2022-07-15"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This evidence discusses the potential hazards of BPA and phthalates in plastics, which are relevant to the claim about microwaving plastics. While it establishes some basis for health risks associated with heating plastic, it does not specifically address long-term exposure effects."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Can You Microwave Food in Plastic Containers? | Sharp HealthCare",
+                "htmlTitle": "Can You <b>Microwave Food</b> in <b>Plastic Containers</b>? | Sharp HealthCare",
+                "link": "https://www.sharp.com/health-news/can-you-microwave-food-in-plastic-containers",
+                "displayLink": "www.sharp.com",
+                "snippet": "Jun 19, 2019 ... People with the highest levels of phthalates had a greater risk of death from any cause, especially cardiovascular mortality. So is it time to\u00a0...",
+                "htmlSnippet": "Jun 19, 2019 <b>...</b> People with the highest levels of phthalates had a greater <b>risk</b> of death from any <b>cause</b>, especially cardiovascular mortality. So is it time to&nbsp;...",
+                "formattedUrl": "https://www.sharp.com/health.../can-you-microwave-food-in-plastic-contai...",
+                "htmlFormattedUrl": "https://www.sharp.com/health.../can-you-microwave-<b>food-in-plastic</b>-<b>contai</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_OICP-9_SHjfsZ25sdyqTXqE6_PoHNg2s-oyYsZZcGhOhZDlfhdZB7U&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://images.ctfassets.net/pxcfulgsd9e2/articleImage128441/01a40092c2d176fd41007a6a8e3249d9/Can-you-microwave-food-in-plastic-containers-HN1765-iStock928088938-Sized.jpg",
+                            "og:type": "article",
+                            "article:published_time": "2019-06-19",
+                            "article:section": "Sharp Health News",
+                            "twitter:card": "summary",
+                            "twitter:title": "Can You Microwave Food in Plastic Containers? | Sharp HealthCare",
+                            "og:title": "Can You Microwave Food in Plastic Containers? | Sharp HealthCare",
+                            "og:description": "Microwaving food is generally safe but microwaving in plastic containers is associated with increased leaching-the transfer or leaking of chemicals into food.",
+                            "article:author": "The Health News Team",
+                            "twitter:image": "https://images.ctfassets.net/pxcfulgsd9e2/articleImage128441/01a40092c2d176fd41007a6a8e3249d9/Can-you-microwave-food-in-plastic-containers-HN1765-iStock928088938-Sized.jpg",
+                            "article:tag": "Family medicine",
+                            "twitter:site": "@sharphealthcare",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Microwaving food is generally safe but microwaving in plastic containers is associated with increased leaching-the transfer or leaking of chemicals into food.",
+                            "content-type": "newsArticle",
+                            "og:url": "https://www.sharp.com/health-news/can-you-microwave-food-in-plastic-containers"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://images.ctfassets.net/pxcfulgsd9e2/articleImage128441/01a40092c2d176fd41007a6a8e3249d9/Can-you-microwave-food-in-plastic-containers-HN1765-iStock928088938-Sized.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... that food is doing to your body.  \nThe problem with plastic is that it\u2019s not all the same. The term plastic refers to a range of materials, with substances added to shape or stabilize it. The two most common stabilizers are:\n*   **Bisphenol A (BPA):** Used to make plastic harder\n*   **Phthalates:** Used to make plastic stronger and more flexible\nThese substances matter because BPA, and some phthalates, are considered endocrine disruptors, which mimic or block natural hormones in the body.  \n\u201cIt\u2019s important to avoid substances that interfere with hormones,\u201d says , a board-certified  and  doctor with . \u201cThese substances can lead to infertility; thyroid disease; early puberty; leukemia; breast, uterine and prostate cancers; neurobehavioral issues; obesity; and metabolic dysfunction.\u201d\nThe study found that phthalates may contribute to over 100,000 premature deaths a year.\u00a0People with the highest levels of phthalates had a greater risk of death from any cause, especially cardiovascular mortality.  \nSo is it time to toss your plastic storage collection? Not necessarily. While all the above sounds a bit scary, consider the following:\n1.  **The FDA regulates plastic.** The FDA makes certain determinations when it comes to plastic, such as how much of a chemical you can consume during your lifetime with little to no risk. While this doesn\u2019t necessarily prevent some substances from being included in plastic, it ensures the amounts are within an estimated safe range.\n2.  **There are good plastics and bad plastics.** Some plastic materials are safer than others. You\u2019ll want to avoid BPA entirely, and check the recycling symbol marked on the bottom. In general, avoid plastics with the numbers 1, 3, 6 or 7 on them. Safer options will be labeled 2, 4 and 5.\n3.  **It\u2019s a bad idea to heat food in plastic.** According to the World Health Organization (WHO), microwaving food is generally safe. However, microwaving in plastic containers is associated with increased leaching \u2014 the transfer or leaking of chemicals into food. Note that even if a plastic container is labeled \u201cmicrowave safe,\u201d that simply means it won\u2019t melt.\n**Store safe, heat safe, eat safe**  \nTo keep your food safe, whether you\u2019re heating it or not, consider these general rules:\n1.  Choose phthalate-free and BPA-free products.\n2.  In the microwave, heat food in...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Sharp HealthCare is a well-respected healthcare provider based in San Diego, California. They provide information that is generally reliable, particularly in terms of health advice and studies. They are likely to reference credible sources, but there may be variability in the depth of research presented, leading to a slightly lower score than major academic journals."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2019-06-19"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This evidence outlines the risks associated with phthalates, including their link to serious health issues, and connects these risks to the practice of microwaving food in plastic. However, it does not provide direct evidence regarding long-term effects of consistent exposure."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "I've been microwaving plastic in the microwave for my entire life very ...",
+                "htmlTitle": "I&#39;ve been <b>microwaving plastic</b> in the <b>microwave</b> for my entire life very ...",
+                "link": "https://www.quora.com/I-ve-been-microwaving-plastic-in-the-microwave-for-my-entire-life-very-often-plates-and-utensils-and-then-eating-off-them-I-just-learned-that-it-can-cause-cancer-Now-I-am-extremely-worried-that-I-will-get-cancer",
+                "displayLink": "www.quora.com",
+                "snippet": "Feb 9, 2021 ... All plastic containers for frozen food intended to be microwaved are safe. Some plastics have phthalates or BPA which might leach into your food\u00a0...",
+                "htmlSnippet": "Feb 9, 2021 <b>...</b> All <b>plastic containers</b> for frozen <b>food</b> intended to be <b>microwaved</b> are <b>safe</b>. Some <b>plastics</b> have phthalates or BPA which might leach into your <b>food</b>&nbsp;...",
+                "formattedUrl": "https://www.quora.com/I-ve-been-microwaving-plastic-in-the-microwave-f...",
+                "htmlFormattedUrl": "https://www.quora.com/I-ve-been-<b>microwaving</b>-<b>plastic</b>-in-the-microwave-f...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "al:android:url": "intent://www.quora.com/I-ve-been-microwaving-plastic-in-the-microwave-for-my-entire-life-very-often-plates-and-utensils-and-then-eating-off-them-I-just-learned-that-it-can-cause-cancer-Now-I-am-extremely-worried-that-I-will-get-cancer#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FI-ve-been-microwaving-plastic-in-the-microwave-for-my-entire-life-very-often-plates-and-utensils-and-then-eating-off-them-I-just-learned-that-it-can-cause-cancer-Now-I-am-extremely-worried-that-I-will-get-cancer&logging_data=uid%3DNone;end",
+                            "theme-color": "#b92b27",
+                            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+                            "al:android:package": "com.quora.android",
+                            "fb:pages": "255232486973",
+                            "twitter:widgets:theme": "light"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...aving plastic in the microwave for my entire life very often. (plates and utensils) and then eating off them. I just learned that it can cause cancer. Now I am extremely worried that I will get cancer from this? I am 19 years old. - Quora\n===============\nSomething went wrong. Wait a moment and try again.\nTry again\nSkip to content\nSkip to search\nSign In\nI\u2019ve been microwaving plastic in the microwave for my entire life very often. (plates and utensils) and then eating off them. I just learned that it can cause cancer. Now I am extremely worried that I will get cancer from this? I am 19 years old.\nAll related (48)\nSort\nRecommended\n]\nSelf-educated lifelong hypochondriac/breast cancer survivor \u00b7 Author has 2.5K answers and 6.5M answer views\n\u00a0\u00b7\u00a0\nLook at the bottom of the plate or container: if it says \u201cmicrowave-safe\u201d you can eat off it. It will not leach endocrine-disrupting chemicals into the food cooked therein. The microwaves themselves are utterly harmless (unless you have a pacemaker, but you\u2019re only 19 so I doubt that would be the case). All plastic containers for frozen food intended to be microwaved are safe.\nSome plastics have phthalates or BPA which might leach into your food\u2014if nuked at high temperatures for longer than it takes to thaw or reheat. So if you\u2019re worried, dump the food onto a paper plate before nuking it. Thos\nContinue Reading\nLook at the bottom of the plate or container: if it says \u201cmicrowave-safe\u201d you can eat off it. It will not leach endocrine-disrupting chemicals into the food cooked therein. The microwaves themselves are utterly harmless (unless you have a pacemaker, but you\u2019re only 19 so I doubt that would be the case). All plastic containers for frozen food intended to be microwaved are safe.\nSome plastics have phthalates or BPA which might leach into your food\u2014if nuked at high temperatures for longer than it takes to thaw or reheat. So if you\u2019re worried, dump the food onto a paper plate before nuking it. Those chemicals are thought to be \u201cendocrine disruptors,\u201d which might cause your glands to make excess sex hormones (testosterone for men, estrogen for women), accelerate puberty; and (decades down the line way past...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "Quora is a user-generated Q&A platform where information can be shared freely. Because the platform allows anyone to contribute information, quality and accuracy can vary significantly. There is a risk of misinformation, and while some responses may be based on fact, others may not be reliable. It lacks stringent editorial oversight, which diminishes its credibility regarding health-related claims."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2021-02-09"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "While it mentions concerns about specific plastics in the context of microwaving, it lacks detailed information on the long-term health effects of exposure to heated plastic chemicals, making it less relevant."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Can You Put Plastic in the Microwave? | Bon App\u00e9tit",
+                "htmlTitle": "Can You Put <b>Plastic</b> in the <b>Microwave</b>? | Bon App\u00e9tit",
+                "link": "https://www.bonappetit.com/story/can-you-put-plastic-in-the-microwave",
+                "displayLink": "www.bonappetit.com",
+                "snippet": "Sep 16, 2023 ... According to experts, storing food in plastic containers is bad and microwaving food in plastic containers is even worse. Here's why.",
+                "htmlSnippet": "Sep 16, 2023 <b>...</b> According to experts, storing <b>food</b> in <b>plastic containers</b> is bad and <b>microwaving food</b> in <b>plastic containers</b> is even worse. Here&#39;s why.",
+                "formattedUrl": "https://www.bonappetit.com/story/can-you-put-plastic-in-the-microwave",
+                "htmlFormattedUrl": "https://www.bonappetit.com/story/can-you-put-<b>plastic</b>-in-the-microwave",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRchJr7pTCoeXuA02Wsgo38GkBRIH1oZmj_nNqBe0ZbZEXmtiwgnu6PJDG9&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://assets.bonappetit.com/photos/65034d56a5684f47715780de/16:9/w_1280,c_limit/GettyImages-1356737418.jpeg",
+                            "copyright": "Copyright (c) Cond\u00e9 Nast 2024",
+                            "article:published_time": "2023-09-15T18:00:00.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Bon App\u00e9tit",
+                            "parsely-metadata": "{\"description\":\"According to experts, storing food in plastic containers is bad and microwaving food in plastic containers is even worse. Here\u2019s why.\",\"image-16-9\":\"https://assets.bonappetit.com/photos/65034d56a5684f47715780de/16:9/w_1000,c_limit/GettyImages-1356737418.jpeg\",\"image-1-1\":\"https://assets.bonappetit.com/photos/65034d56a5684f47715780de/1:1/w_1000,c_limit/GettyImages-1356737418.jpeg\"}",
+                            "og:description": "Experts say, even if it claims to be \u201cmicrowave-safe.\u201d",
+                            "twitter:creator": "@bonappetit",
+                            "twitter:image": "https://assets.bonappetit.com/photos/65034d56a5684f47715780de/16:9/w_1280,c_limit/GettyImages-1356737418.jpeg?mbid=social_retweet",
+                            "msapplication-tap-highlight": "no",
+                            "twitter:site": "@bonappetit",
+                            "article:modified_time": "2023-09-16T12:00:00.000Z",
+                            "news_keywords": "cooking,too afraid to ask",
+                            "content-type": "article",
+                            "article:content_tier": "free",
+                            "id": "65034858a2276a80797e0a4a",
+                            "og:type": "article",
+                            "article:section": "ingredient",
+                            "twitter:title": "Definitely Do Not Put Plastic in the Microwave",
+                            "parsely-post-id": "65034858a2276a80797e0a4a",
+                            "twitter:domain": "https://www.bonappetit.com",
+                            "pinterest:image": "https://assets.bonappetit.com/photos/65034d56a5684f47715780de/2:3/w_1000,h_1500,c_limit/GettyImages-1356737418.jpeg",
+                            "author": "Cond\u00e9 Nast",
+                            "og:title": "Definitely Do Not Put Plastic in the Microwave",
+                            "fb:pages": "37940325366",
+                            "article:author": "Ali Francis",
+                            "fb:app_id": "2309869772",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Experts say, even if it claims to be \u201cmicrowave-safe.\u201d",
+                            "og:url": "https://www.bonappetit.com/story/can-you-put-plastic-in-the-microwave",
+                            "google-signin-client_id": "487753253869-45a2hlctt5rjl4i54eqdpih0s1353u4s.apps.googleusercontent.com",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://assets.bonappetit.com/photos/65034d56a5684f47715780de/16:9/w_1280,c_limit/GettyImages-1356737418.jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...\n!\nGetty/Gustavo Mu\u00f1oz Soriano\nAll products are independently selected by our editors. If you buy something, we may earn an affiliate commission.\n_In_ _, we\u2019re answering food-related questions that may or may not give you goosebumps. Today: Can you put plastic in the microwave?_\nIt all started by accident. Kazi Albab Hussain, a PhD student at the University of Nebraska\u2013Lincoln, was studying  released by certain types of plastic food packaging when he noticed another confetti-like substance under the microscope: tiny plastic bits.\nAs a new father he became preoccupied by the discovery. \u201cI\u2019d been exposed to a whole new world, and I was worried to see that a lot of baby foods were stored in plastic,\u201d he says. So Hussain shifted gears in his research. He wanted to know: Just how many of these particles was his child eating?\nWatch\nQuite possibly billions, according to his . To test materials widely used in baby food packaging, Hussain brought a couple of store-bought polypropylene-based reusable plastic containers and a polyethylene-based reusable plastic food pouch back to his lab. Along with his team, he filled the storage vessels with water and 3% acetic acid to mimic the aqueous and acidic foods they might reasonably contain in real life. After storing the filled containers in the fridge or at room temperature for 10 days, the team found millions to billions of microplastics and nanoplastics in the liquids.\n the containers accelerated the process by an alarming magnitude: Within three minutes, some containers released as many as 4.22 million  (particles smaller than 5 millimeters) and 2.11 billion nanoplastics (particles about 70 times smaller than the width of a human hair) per square centimeter of surface area. Hussain\u2019s research indicates we\u2019re eating a lot more plastic than previously believed. In 2019  calculated we might be ingesting about 50,000 microplastic particles per year.\nThe health impacts of eating plastic is still unclear, but researchers have long suspected they\u2019re not great. And  suggests high exposure to microplastics (and the lengthy list of chemicals they\u2019re made from) could provoke immune and stress responses, along with various reproductive, metabolic, and behavioral issues.\nGiven the mounting concern around one of , Hussain\u2019s findings beg a timely question: Can you put plastic in the microwave?\nWhat does microwaving do to plastic?\n------------------------------------\nPlastics are spaghetti-like chains of carbon molecules, called polymers, which are usually derived from crude oil. To make plastics that are clear, cloudy, rigid,...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Bon App\u00e9tit is primarily a food and cooking magazine, offering recipes and culinary advice. While it may occasionally address food safety concerns, their primary focus is not on health research. The content can be enjoyable and insightful about food culture, but it does not have the same level of scientific rigor as academic or health-focused websites."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-09-16"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This evidence provides a comprehensive discussion about the dangers of microwaving plastic, including a study showing the release of microplastics. It directly ties the health implications of plastic exposure to microwaving, aligning closely with the question regarding long-term health effects."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "For the Love of God, Stop Microwaving Plastic | WIRED",
+                "htmlTitle": "For the Love of God, Stop <b>Microwaving Plastic</b> | WIRED",
+                "link": "https://www.wired.com/story/for-the-love-of-god-stop-microwaving-plastic/",
+                "displayLink": "www.wired.com",
+                "snippet": "Jul 31, 2023 ... A study of baby-food containers shows that microwaving plastic releases millions upon millions of polymer bits.",
+                "htmlSnippet": "Jul 31, 2023 <b>...</b> A study of baby-<b>food containers</b> shows that <b>microwaving plastic</b> releases millions upon millions of polymer bits.",
+                "formattedUrl": "https://www.wired.com/story/for-the-love-of-god-stop-microwaving-plastic/",
+                "htmlFormattedUrl": "https://www.wired.com/story/for-the-love-of-god-stop-<b>microwaving</b>-<b>plastic</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAodmb-ULfBCNig1ScDDMWPDMbeeVXXaWwWO7xanlwA5PuC9T4Pz51ek4a&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.wired.com/photos/64c417ea211451f12eaefdcd/191:100/w_1280,c_limit/babyfood_science_GettyImages-1272577298.jpg",
+                            "copyright": "Copyright (c) Cond\u00e9 Nast 2024",
+                            "article:published_time": "2023-07-31T12:00:00.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "WIRED",
+                            "parsely-metadata": "{\"description\":\"A study of baby-food containers shows that microwaving plastic releases millions upon millions of polymer bits.\",\"image-16-9\":\"https://media.wired.com/photos/64c417ea211451f12eaefdcd/16:9/w_1000,c_limit/babyfood_science_GettyImages-1272577298.jpg\",\"image-1-1\":\"https://media.wired.com/photos/64c417ea211451f12eaefdcd/1:1/w_1000,c_limit/babyfood_science_GettyImages-1272577298.jpg\"}",
+                            "og:description": "A study of baby-food containers shows that microwaving plastic releases millions upon millions of polymer bits.",
+                            "twitter:creator": "@wired",
+                            "twitter:image": "https://media.wired.com/photos/64c417ea211451f12eaefdcd/191:100/w_1280,c_limit/babyfood_science_GettyImages-1272577298.jpg?mbid=social_retweet",
+                            "msapplication-tap-highlight": "no",
+                            "twitter:site": "@wired",
+                            "article:modified_time": "2023-07-31T12:00:00.000Z",
+                            "news_keywords": "plastic,pollution,chemistry,biology,health,public health,food science,babies",
+                            "content-type": "article",
+                            "article:content_tier": "free",
+                            "id": "64bf016c6279e36472844728",
+                            "og:type": "article",
+                            "article:section": "tags",
+                            "twitter:title": "For the Love of God, Stop Microwaving Plastic",
+                            "parsely-post-id": "64bf016c6279e36472844728",
+                            "twitter:domain": "https://www.wired.com",
+                            "pinterest:image": "https://media.wired.com/photos/64c417ea211451f12eaefdcd/2:3/w_1000,h_1500,c_limit/babyfood_science_GettyImages-1272577298.jpg",
+                            "author": "Cond\u00e9 Nast",
+                            "og:title": "For the Love of God, Stop Microwaving Plastic",
+                            "fb:pages": "19440638720",
+                            "article:author": "Celia Ford",
+                            "fb:app_id": "719405864858490",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "A study of baby-food containers shows that microwaving plastic releases millions upon millions of polymer bits.",
+                            "og:url": "https://www.wired.com/story/for-the-love-of-god-stop-microwaving-plastic/",
+                            "google-signin-client_id": "904266558061-dqllerrg1949kl0dfu2k64nhvhtqoee0.apps.googleusercontent.com",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.wired.com/photos/64c417ea211451f12eaefdcd/191:100/w_1280,c_limit/babyfood_science_GettyImages-1272577298.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "For the Love of God, Stop Microwaving Plastic | WIRED\n===============\nOpen Navigation Menu\nTo revisit this article, visit My Profile, then .\nClose Alert\n]\nFor the Love of God, Stop Microwaving Plastic\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nTo revisit this article, visit My Profile, then .\nClose Alert\n.png?format=original)]\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nON SALEStay fully charged for just **$30 $5.**This is your last free article. **Unlock one year for just $30 $5.** BONUS: Free Stickers.\nAlready a member?\u00a0\n!\nGet WIRED - only $30 **$5 for one year.**\nIf you buy something using links in our stories, we may earn a commission. \nJul 31, 2023 8:00 AM\nFor the Love of God, Stop Microwaving Plastic\n=============================================\nA study of baby-food containers shows that microwaving plastic releases millions upon millions of polymer bits.\n*   \n*   \n*   \n*   \nTo revisit this article, visit My Profile, then .\n!\nPhotograph: Getty Images\nSave\nSave\nAt the start of his third year of graduate school, Kazi Albab Hussain became a father. As a new dad and a PhD student studying environmental nanotechnology, plastic was on his mind. The year before, scientists had  that plastic baby bottles shed millions of particles into formula, which infants end up swallowing (while also sucking on plastic bottle nipples). \u201cAt that time,\u201d Hussain says, \u201cI was purchasing many baby foods, and I was seeing that, even in baby foods, there are a lot of plastics.\u201d\nHussain wanted to know how much was being released from the kinds of containers he\u2019d been buying. So he went to the grocery store, picked up some baby food, and brought the empty containers back to his lab at the University of Nebraska\u2014Lincoln. In a study published in June in , Hussain and his colleagues reported that, when microwaved, these containers released millions of bits of plastic, called microplastics, and even tinier nanoplastics.\nPlastics are complex cocktails of long chains of carbon, called polymers, mixed in with chemical additives, small molecules that help mold the polymers into their final shape and imbue them with resistance to oxidation, UV exposure, and other wear and tear. Microwaving delivers a double whammy: heat and hydrolysis,...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Wired is a popular science and technology magazine that often discusses health-related topics, including issues around food and technology. They typically provide well-researched articles and references, but the nature of the publication may lead to occasional sensationalism. Thus, while many articles are informative, it's advisable to verify claims with primary sources."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-07-31"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "Similar to evidence 3, this evidence discusses findings related to baby food containers and the release of microplastics during microwaving. Its focus on the implications of such findings on health greatly supports the understanding of potential long-term effects."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Is it safe to microwave plastic containers? - Scienceline",
+                "htmlTitle": "Is it <b>safe</b> to <b>microwave plastic containers</b>? - Scienceline",
+                "link": "https://scienceline.org/2022/09/is-it-safe-to-microwave-plastic-containers/",
+                "displayLink": "scienceline.org",
+                "snippet": "Sep 8, 2022 ... You'll probably save your leftovers for later. But microwaving food in plastic containers might increase the likelihood that harmful chemicals\u00a0...",
+                "htmlSnippet": "Sep 8, 2022 <b>...</b> You&#39;ll probably save your leftovers for later. But <b>microwaving food</b> in <b>plastic containers</b> might increase the likelihood that <b>harmful</b> chemicals&nbsp;...",
+                "formattedUrl": "https://scienceline.org/2022/09/is-it-safe-to-microwave-plastic-containers/",
+                "htmlFormattedUrl": "https://scienceline.org/2022/09/is-it-safe-to-microwave-<b>plastic</b>-<b>containers</b>/",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "fn": "Chris",
+                            "nickname": "Chris",
+                            "photo": "https://secure.gravatar.com/avatar/f06c174a3852fd53d6954f84b784c864?s=32&d=mm&r=g"
+                        },
+                        {
+                            "url_text": "Annie Wilson Rodgers",
+                            "fn": "Annie Wilson Rodgers",
+                            "photo": "https://secure.gravatar.com/avatar/288137d7feb7932f20a7e2f6ab0ba375?s=32&d=mm&r=g",
+                            "url": "http://google/"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfPh0jgJrBAi2163FEHGlcSpiIH80s5es9o6RHQLPd_h1j671l2hh8hcI&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://scienceline.org/wp-content/uploads/2022/08/takeout-container-scaled.jpg",
+                            "theme-color": "#000000",
+                            "article:published_time": "2022-09-08T12:00:54+00:00",
+                            "og:image:width": "2560",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Scienceline",
+                            "apple-mobile-web-app-title": "Scienceline",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "Many plastics contain harmful chemicals, and a zap in the microwave can increase your exposure. The FDA says this exposure isn\u2019t a concern, but some experts recommend caution.",
+                            "twitter:creator": "@scienceline",
+                            "article:publisher": "https://www.facebook.com/pages/Scienceline/226085732577",
+                            "twitter:data1": "Deborah Balthazar, Daniel Leonard, Tatum McConnell",
+                            "twitter:data2": "4 minutes",
+                            "twitter:site": "@scienceline",
+                            "article:modified_time": "2022-09-08T14:09:10+00:00",
+                            "msapplication-tilecolor": "#000000",
+                            "og:type": "article",
+                            "author": "Deborah Balthazar, Daniel Leonard, Tatum McConnell",
+                            "og:title": "Is it safe to microwave plastic containers? - Scienceline",
+                            "og:image:height": "1920",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://scienceline.org/2022/09/is-it-safe-to-microwave-plastic-containers/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://scienceline.org/wp-content/uploads/2022/08/takeout-container-scaled.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... most Americans encounter isn\u2019t cause for concern. Children and infants are at a greater risk to develop harmful health effects, though, and the FDA banned the use of BPA in baby bottles in 2012 and baby formula packaging in 2013.\nIt\u2019s unclear what level of exposure to plastics\u2019 endocrine-disrupting chemicals can lead to negative health outcomes. Most studies investigating plastic chemical exposure have looked at the effects on fetuses and animals, says Dr. Kelly Johnson-Arbor, a toxicologist and medical director at the National Capital Poison Center. The effects of plastic chemical exposure on human adults are still not well-understood.\nThis is because it\u2019s difficult to study how exposure to microplastics and plastic chemical leaching affects adult human health. The best studies would require a control group that hasn\u2019t been exposed, Dr. Johnson-Arbor explains.\n\u201cIn the U.S., we are all exposed to plastics,\u201d she says, \u201cYou\u2019d have to use a control group from \u2026 somewhere they don\u2019t have any plastic. And that\u2019s going to be hard.\u201d Likewise, since plastics are a fairly recent phenomenon, having been popularized in the mid-20th century, it has proven difficult to study their long-term health effects.\nAs scientists work to understand how plastic exposure impacts health, Dr. Sheela Sathyanarayana, a professor of pediatrics at the University of Washington who studies exposure to endocrine-disrupting chemicals, recommends taking reasonable precautions to limit unnecessary exposure.\u00a0\nHeat is a key factor that increases the risk of exposure to harmful chemicals in plastic, she explains. \u201cThere have been several experiments that heating liquids or foods in plastics that contain these chemicals will certainly increase your exposure to them. And so that\u2019s why we don\u2019t recommend putting plastics in the microwave,\u201d says Sathyanarayana.\nAnd microwaves aren\u2019t the only kitchen appliance to keep your plastic containers away from. \u201cWe don\u2019t recommend putting them in the dishwasher because it makes them degrade,\u201d she says.\n\u201cEven if a plastic container is labeled microwave safe, it simply means that it won\u2019t melt,\u201d explains Johnson-Arbor. It can still contain chemicals like BPA, phthalates or other potentially harmful materials unless it specifically says those aren\u2019t included.\nTaking a look at the recycling number on your plastic can give a helpful hint (but not necessarily a definitive one). Plastic No. 3 likely contains DEHP, a phthalate, while plastic No. 7 may contain BPA. No. 6 contains styrene, a possible carcin...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Scienceline is a science communication platform produced by graduate students at New York University. It focuses on demystifying scientific studies for the general audience and does so with a scientific approach. They generally provide credible information, but the site may vary in depth depending on the topics covered."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2022-09-08"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This evidence touches on the risks of harmful chemicals leaching out of plastics, relevant to the claim. However, it mainly focuses on general exposure rather than specific long-term effects related to microwaving."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "How Safe Is It To Microwave Plastic Containers? | Food Network ...",
+                "htmlTitle": "How <b>Safe</b> Is It To <b>Microwave Plastic Containers</b>? | <b>Food</b> Network ...",
+                "link": "https://www.foodnetwork.com/healthyeats/healthy-tips/2019/02/what-to-know-about-using-plastic-in-the-microwave",
+                "displayLink": "www.foodnetwork.com",
+                "snippet": "Apr 10, 2023 ... Microwaving provides enough heat to degrade or even melt certain types of plastic. For these reasons, follow USDA guidelines and only use\u00a0...",
+                "htmlSnippet": "Apr 10, 2023 <b>...</b> <b>Microwaving</b> provides enough heat to degrade or even melt certain types of <b>plastic</b>. For these reasons, follow USDA guidelines and only use&nbsp;...",
+                "formattedUrl": "https://www.foodnetwork.com/.../what-to-know-about-using-plastic-in-the-...",
+                "htmlFormattedUrl": "https://www.<b>food</b>network.com/.../what-to-know-about-using-<b>plastic</b>-in-the-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZi9rnNtWcQOGoRaYqBP-NV4Eo5Qgh7ARjHkr-1Ds52aNM1_AnMHU94AU&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#0fadc4",
+                            "og:image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/2/14/0/RX_GettyImages_Microwave-Plastic_s4x3.jpg.rend.hgtvcom.616.462.suffix/1550163266307.jpeg",
+                            "twitter:card": "summary",
+                            "og:type": "article",
+                            "og:site_name": "Food Network",
+                            "be:sdk": "java_sdk_1.5.3",
+                            "og:title": "Is It Really That Bad to Use Plastic in the Microwave?",
+                            "msapplication-tileimage": "/etc/clientlibs/assets/images/food/mstile-144x144.png",
+                            "og:description": "Sometimes you just have to. Here\u2019s what to keep in mind.",
+                            "fb:app_id": "582148248497951",
+                            "be:norm_url": "https://www.foodnetwork.com/healthyeats/healthy-tips/2019/02/what-to-know-about-using-plastic-in-the-microwave",
+                            "be:capsule_url": "https://ixfd-api.bc0a.com/api/ixf/1.0.0/get_capsule/f00000000001425/01333247738",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "be:api_dt": "pny_2024; pnm_07; pnd_27; pnh_05; pnmh_38; pn_epoch:1722083900714",
+                            "be:mod_dt": "pny_1969; pnm_12; pnd_31; pnh_16; pnmh_00; pn_epoch:0",
+                            "tp:preferredruntimes": "Flash,HTML5",
+                            "be:timer": "13ms",
+                            "og:url": "https://www.foodnetwork.com/healthyeats/healthy-tips/2019/02/what-to-know-about-using-plastic-in-the-microwave",
+                            "tp:initialize": "false",
+                            "be:orig_url": "https://www.foodnetwork.com//healthyeats/healthy-tips/2019/02/what-to-know-about-using-plastic-in-the-microwave",
+                            "be:messages": "126093"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/2/14/0/RX_GettyImages_Microwave-Plastic_s4x3.jpg.rend.hgtvcom.616.462.suffix/1550163266307.jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...2023\n!\nBy:  and \nRelated To:\n-----------\n![Image 64: WhiteBoxStudio\nUnit 19\n6-8 Herbert Street\nSt Leonards NSW Australia 2069]\nWhiteBoxStudio Unit 19 6-8 Herbert Street St Leonards NSW Australia 2069\nPhoto by: Brett Stevens/Getty Images\nBrett Stevens/Getty Images\nMost of us have heard that plastic and microwaves are a bad match. But despite that knowledge, we sometimes fall into the trap of heating up our lunch packed Tupperware containers for the sake of time and convenience.\nIf you do a deep dive into the dangers of plastics in the kitchen, you would probably quit this bad habit cold turkey, but the truth is we\u2019re all strapped for time and are just looking for a safe way to heat our leftovers in the microwave in less than two minutes.\nThat\u2019s why we rounded up some quick guidance on how to microwave safely in a plastic world.\nWhat\u2019s the Problem with Plastic, Anyway?\n----------------------------------------\nThe two key culprits to dangerous plastics are the man-made chemicals Phthalates and Bisphenol A (BPA), which are often added to plastic to help it keep its shape and pliability. In high volume, these substances have been linked to several negative health outcomes including ,  and . Pregnant people and children may be at greater risk of harmful effects. While these studies are not directly related to microwaving plastics, Phthalates and  are found in various types of food packaging, beauty products and other environmental exposure. In general, you may be able to reduce your exposure by steering clear of plastic with recycling codes 3 (phthalates) and 7 (bisphenols).\nExposing plastics to heat (like microwaving) can increase the risk of transferring these substances to your foods. Washing plastic containers in the heat of the dishwasher can also prompt them to leach chemicals and should also be avoided. If you must wash plastics marked \u201cdishwasher safe,\u201d place them in the top rack, far from the heating element, .\nSo, What Does That Mean for Microwaving?\n----------------------------------------\nMicrowaving provides enough heat to degrade or even melt certain types of plastic. For these reasons, follow  and only use clearly indicated \u201cmicrowave safe\u201d plastic containers that have been labeled accordingly. Cold storage containers like cottage cheese and yogurt cartons are not approved for use in the microwave.\nWant to avoid plastic all together? Transfer food and beverages into microwave-safe glass or ceramic containers. Many come with easily removeable lids so you can take them along to...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "The Food Network focuses on cooking and culinary entertainment. While it offers useful tips and recipes, it lacks the authoritative voice that comes from scientific research or health advice. The site may contain articles on health topics, but it\u2019s not primarily focused on scientific accuracy regarding food safety."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-04-10"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "While it notes that microwaving can degrade plastics and references health issues connected to BPA and phthalates, it lacks specific details about long-term health impacts, making it somewhat relevant but not robustly so."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Should I put plastic containers in the microwave? | Canadian Cancer ...",
+                "htmlTitle": "Should I put <b>plastic containers</b> in the <b>microwave</b>? | Canadian Cancer ...",
+                "link": "https://cancer.ca/en/cancer-information/reduce-your-risk/myths-and-controversies/should-i-put-plastic-containers-in-the-microwave",
+                "displayLink": "cancer.ca",
+                "snippet": "The claim. When you heat food in the microwave using plastic containers or wrap, chemicals may leach out of the container and into the food, increasing your\u00a0...",
+                "htmlSnippet": "The claim. When you heat <b>food</b> in the <b>microwave</b> using <b>plastic containers</b> or wrap, chemicals may leach out of the <b>container</b> and into the <b>food</b>, increasing your&nbsp;...",
+                "formattedUrl": "https://cancer.ca/en/.../should-i-put-plastic-containers-in-the-microwave",
+                "htmlFormattedUrl": "https://cancer.ca/en/.../should-i-put-<b>plastic</b>-<b>containers</b>-in-the-microwave",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0KTV3ot19zQ08BqVmoQoqp4VgM0QxEKy6bmynPI01ndfXbFrLGA87WcHs&s",
+                            "width": "253",
+                            "height": "199"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#000000",
+                            "vicurrentdatetime": "638579717629346099",
+                            "msapplication-config": "https://cdn.cancer.ca/assets/img/favicon/browserconfig.xml?v=638549611800000000",
+                            "theme-color": "#ffffff",
+                            "og:type": "website",
+                            "twitter:card": "summary",
+                            "twitter:title": "Should I put plastic containers in the microwave?",
+                            "og:site_name": "Canadian Cancer Society",
+                            "twitter:url": "https://cancer.ca/en/cancer-information/reduce-your-risk/myths-and-controversies/should-i-put-plastic-containers-in-the-microwave",
+                            "author": "Canadian Cancer Society / Soci\u00e9t\u00e9 canadienne du cancer",
+                            "og:title": "Should I put plastic containers in the microwave?",
+                            "og:description": "Use containers that are labelled as microwave safe. Always follow the instructions on the label when you use them.",
+                            "virtualfolder": "/",
+                            "facebook-domain-verification": "1j41tgvvxfakx00heo8k1nnvj8sig1",
+                            "fb:app_id": "188243403135",
+                            "twitter:site": "@cancersociety",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "twitter:description": "Use containers that are labelled as microwave safe. Always follow the instructions on the label when you use them.",
+                            "og:locale": "en",
+                            "og:url": "https://cancer.ca/en/cancer-information/reduce-your-risk/myths-and-controversies/should-i-put-plastic-containers-in-the-microwave"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.cancer.ca/-/media/images/cancer-information/reduce-your-risk/myths-and-controversies/myths_gettyimages-928088912_microwave.jpg?rev=a3e41479d727452ca958dc32669d23c7&cx=0.5&cy=0.5&cw=575&ch=452&hash=281BC9E8CB51DBB524AAC680CFD8570A"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "Home",
+                            "name": "Home",
+                            "position": "0"
+                        },
+                        {
+                            "item": "Cancer information",
+                            "name": "Cancer information",
+                            "position": "1"
+                        },
+                        {
+                            "item": "Reduce your risk",
+                            "name": "Reduce your risk",
+                            "position": "2"
+                        },
+                        {
+                            "item": "Myths and controversies",
+                            "name": "Myths and controversies",
+                            "position": "3"
+                        },
+                        {
+                            "item": "Should I put plastic containers in the microwave",
+                            "name": "Should I put plastic containers in the microwave",
+                            "position": "4"
+                        },
+                        {
+                            "item": "Home",
+                            "name": "Home",
+                            "position": "0"
+                        },
+                        {
+                            "item": "Cancer information",
+                            "name": "Cancer information",
+                            "position": "1"
+                        },
+                        {
+                            "item": "Reduce your risk",
+                            "name": "Reduce your risk",
+                            "position": "2"
+                        },
+                        {
+                            "item": "Myths and controversies",
+                            "name": "Myths and controversies",
+                            "position": "3"
+                        },
+                        {
+                            "item": "Should I put plastic containers in the microwave",
+                            "name": "Should I put plastic containers in the microwave",
+                            "position": "4"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... information\n    Back _Cancer information_\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Treatments\n    Back _Treatments_\n    *   \n    *   \n    *   \n    *   \n    *   \n*   Living with cancer\n    Back _Living with cancer_\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Research\n    Back _Research_\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Get involved\n    Back _Get involved_\n    *   \n    *   \n    *   \n    *   \n    *   \n*   Ways to give\n    Back _Ways to give_\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n Search  Menu\nClose the search\n1.   \n2.   \n3.   \n4.   \n5.   \nShould I put plastic containers in the microwave?\n=================================================\n1.   \n2.   \n3.   \n4.   \n5.   \n  !\nThe claim\n---------\nWhen you heat food in the microwave using plastic containers or wrap, chemicals may leach out of the container and into the food, increasing your risk of cancer.\n  !\nThe truth\n---------\nThere has been some concern that food may absorb plasticizers, the substances used in plastic containers and wraps to make them more flexible. Many people are especially concerned about microwaving at high temperatures or heating fatty or oily foods like cheese and meat. But plastic containers that release anything more than a very small amount of plasticizers are not approved for use in Canada.\nHow to safely store and reheat food\n-----------------------------------\n*   Use glass, ceramic and plastic containers and plastic wrap that are labelled as microwave safe. Always follow the instructions on the label when you use microwave-safe containers to heat food.\n*   Never heat or store food in plastic containers that were not intended for food. Single-use containers, like margarine tubs, tend to warp or melt in the microwave. This may allow more of the substances in the plastic to leach into the food.\n*   Let food cool before adding it to a plastic container, then put it in the fridge immediately. Avoid plastics that are visibly damaged or stained or have a bad smell.\nThe Canadian Cancer Society is committed to sharing important information about cancer risk to Canadians and will continue to monitor research in this area.\nOur enewsletter\nEnter your email to receive occasional news and important updates!\nYour email address \nSubscribe\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The Canadian Cancer Society is a highly credible organization dedicated to cancer research and awareness. Their information is backed by research and expertise, making it a reliable source for understanding cancer-related topics. They have a strong focus on public health and prevention."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This evidence makes a clear claim about the leaching of chemicals from plastic into food when microwaved and identifies specific concerns about plasticizers, which directly relates to the query regarding long-term health effects."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Can You Microwave Plastic?",
+                "htmlTitle": "Can You <b>Microwave Plastic</b>?",
+                "link": "https://www.healthline.com/nutrition/can-you-microwave-plastic",
+                "displayLink": "www.healthline.com",
+                "snippet": "Other ways to reduce your exposure to BPA and phthalates \u00b7 placing foods in plastic containers that are still hot \u00b7 scrubbing containers using abrasive materials,\u00a0...",
+                "htmlSnippet": "Other ways to reduce your exposure to BPA and phthalates &middot; placing <b>foods</b> in <b>plastic containers</b> that are still hot &middot; scrubbing <b>containers</b> using abrasive materials,&nbsp;...",
+                "formattedUrl": "https://www.healthline.com/nutrition/can-you-microwave-plastic",
+                "htmlFormattedUrl": "https://www.healthline.com/nutrition/can-you-microwave-<b>plastic</b>",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdIQFZ0_3oNYoslLodlT8maPyBtfxkLKEVZITgDqmWCQm223eFxpnQcpX&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.post.rvohealth.io/wp-content/uploads/2020/06/microwave-1200x628-facebook-1200x628.jpg",
+                            "article:published_time": "2020-06-04T05:00:00.000Z",
+                            "og:type": "article",
+                            "twitter:title": "Can You Microwave Plastic?",
+                            "twitter:card": "summary_large_image",
+                            "og:image:width": "1200",
+                            "sailthru.tags": "othernutrition,nutrition",
+                            "og:site_name": "Healthline",
+                            "k1": "othernutrition",
+                            "kmeta": "autism,foodandfoodbenefits,obesity-aq-tier1,depression-predictive-aq-1",
+                            "k2": "nutrition",
+                            "og:title": "Can You Microwave Plastic?",
+                            "og:image:height": "628",
+                            "sailthru.image.thumb": "https://media.post.rvohealth.io/wp-content/uploads/2020/06/microwave-732x549-thumbnail-732x549.jpg",
+                            "og:description": "Plastic is a synthetic or semi-synthetic material that's durable, lightweight, and flexible. This article explains whether you can safely microwave plastic.",
+                            "twitter:creator": "@healthline",
+                            "article:author": "Gavin Van De Walle, MS, RD",
+                            "twitter:image": "https://media.post.rvohealth.io/wp-content/uploads/2020/06/microwave-732x549-thumbnail-732x549.jpg",
+                            "fb:app_id": "1529595680591919",
+                            "twitter:site": "@healthline",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Plastic is a synthetic or semi-synthetic material that's durable, lightweight, and flexible. This article explains whether you can safely microwave plastic.",
+                            "og:url": "https://www.healthline.com/nutrition/can-you-microwave-plastic"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.post.rvohealth.io/wp-content/uploads/2020/06/microwave-1200x628-facebook-1200x628.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... , ).\nBPA is found mostly in polycarbonate (PC) plastics (number 7), which have been widely used since the 1960s to make food storage containers, drinking glasses, and baby bottles ().\nThe BPA from these plastics can leach into foods and beverages over time, as well as when the plastic is exposed to heat, such as when it\u2019s microwaved (, , ).\nHowever, today, some manufacturers of food preparation, storage, and serving products have swapped PC plastic for BPA-free plastic like PP.\nThe Food and Drug Administration (FDA) also prohibits the use of BPA-based materials in infant formula packaging, sippy cups, and baby bottles ().\nStill, studies have shown that even  can release other hormone-disrupting chemicals like phthalates, or BPA alternatives like bisphenol S and F (BPS and BPF), into foods when microwaved (, , , ).\nTherefore, it\u2019s generally a good idea to avoid microwaving plastic, unless \u2014 according to the FDA \u2014 the container is specifically labeled safe for microwave use ().\n> **summary**Microwaving plastic can release harmful chemicals like BPA and phthalates into your foods and drinks. Therefore, you should avoid microwaving plastic, unless it\u2019s labeled for this specific use.\nWhile  plastic accelerates the release of BPA and phthalates, it\u2019s not the only way these chemicals can end up in your food or drinks.\nOther factors that can increase chemical leaching include (, ):\n*   placing foods in plastic containers that are still hot\n*   scrubbing containers using abrasive materials, such as steel wool, that can cause scratching\n*   using containers for an extended period of time\n*   exposing containers to the dishwasher repeatedly over time\nAs a general rule, plastic containers that are cracked, pitting, or show signs of wear, should be replaced with new BPA-free plastic containers or containers made from glass.\nToday, many  are made from BPA-free PP.\nYou can identify containers made from PP by looking on the bottom for the PP stamp or a recycling sign with the number 5 in the middle.\nPlastic food packaging like clingy plastic wrap can also contain BPA and phthalates ().\nAs such, if you need to cover your food in the microwave, use wax paper, parchment paper, or a paper towel.\n> **summary**Plastic containers that are scratched, damaged, or excessively worn, pose a higher risk of chemical leaching.\nHEALTHLINE NEWSLETTER\nFeel full without a diet change\nLooking to manage your health without drastically changing your eating habits? Bring awareness to the food you eat with Healthline\u2019s Mindful Eating challenge.\n are materials made primarily from oil or petroleum, and they have a variety of applications.\nWhile many food storage, preparation, and serving products are made from plastic, microwaving them can accelerate the release of harmful chemicals...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Healthline provides a wealth of health-related information and is generally well-regarded for comprehensive and balanced coverage of health topics. They often cite reputable sources and have medical professionals review their content, though it is always wise to corroborate with primary sources in medical inquiries."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2020-06-04"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "The evidence explains how heating plastics can increase the release of harmful chemicals but is more general rather than focusing on the specific health implications of such exposure over the long term."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Why You Should Never Microwave Food In Plastic \u2014 Beyond ...",
+                "htmlTitle": "Why You Should Never <b>Microwave Food</b> In <b>Plastic</b> \u2014 Beyond ...",
+                "link": "https://www.beyondplastics.org/fact-sheets/stop-microwaving-plastic",
+                "displayLink": "www.beyondplastics.org",
+                "snippet": "Sep 6, 2023 ... When food or beverages are microwaved in plastic containers, chemical additives from inside the plastic migrate into the food and tiny\u00a0...",
+                "htmlSnippet": "Sep 6, 2023 <b>...</b> When <b>food</b> or beverages are <b>microwaved</b> in <b>plastic containers</b>, chemical additives from inside the <b>plastic</b> migrate into the <b>food</b> and tiny&nbsp;...",
+                "formattedUrl": "https://www.beyondplastics.org/fact-sheets/stop-microwaving-plastic",
+                "htmlFormattedUrl": "https://www.beyond<b>plastic</b>s.org/fact-sheets/stop-<b>microwaving</b>-<b>plastic</b>",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcj_-ZaeNGOHazBlOa3GAaOQVg6c6nmDJ2dchbDJN-u9vO7Iq_xNlNAls&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "http://static1.squarespace.com/static/5eda91260bbb7e7a4bf528d8/t/64f8b061d6cb361b6dd17eeb/1694019686188/stop+microwaving+plastic+FB+share+image+1200+x+628.png?format=1500w",
+                            "og:type": "article",
+                            "og:image:width": "1200",
+                            "twitter:title": "Why You Should Never Microwave Food In Plastic \u2014 Beyond Plastics - Working To End Single-Use Plastic Pollution",
+                            "twitter:card": "summary",
+                            "og:site_name": "Beyond Plastics - Working To End Single-Use Plastic Pollution",
+                            "twitter:url": "https://www.beyondplastics.org/fact-sheets/stop-microwaving-plastic",
+                            "og:title": "Why You Should Never Microwave Food In Plastic \u2014 Beyond Plastics - Working To End Single-Use Plastic Pollution",
+                            "og:image:height": "628",
+                            "og:latitude": "40.7207559",
+                            "og:description": "When food or beverages are microwaved in plastic containers, chemical additives from inside the plastic migrate into the food and tiny flecks of plastic known as micro- and nanoplastics are also shed into the food. Both of these can present health risks.",
+                            "twitter:image": "http://static1.squarespace.com/static/5eda91260bbb7e7a4bf528d8/t/64f8b061d6cb361b6dd17eeb/1694019686188/stop+microwaving+plastic+FB+share+image+1200+x+628.png?format=1500w",
+                            "og:longitude": "-74.0007613",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "When food or beverages are microwaved in plastic containers, chemical additives from inside the plastic migrate into the food and tiny flecks of plastic known as micro- and nanoplastics are also shed into the food. Both of these can present health risks.",
+                            "og:url": "https://www.beyondplastics.org/fact-sheets/stop-microwaving-plastic"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "http://static1.squarespace.com/static/5eda91260bbb7e7a4bf528d8/t/64f8b061d6cb361b6dd17eeb/1694019686188/stop+microwaving+plastic+FB+share+image+1200+x+628.png?format=1500w"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "When food or beverages are microwaved in plastic containers, chemical additives from inside the plastic migrate into the food and tiny flecks of plastic known as micro- and nanoplastics are also shed into the food. Both of these can present health risks.\nThousands of chemicals are added to plastics to give them color, texture, softness, or rigidity. Of the 16,000 chemicals known to researchers, 3,200 are considered \u201csubstances of concern\u201d because they are known to cause cancer, disrupt neural development, and hijack hormonal signals throughout the human body.\nEven at room temperature, many of the chemicals in plastics migrate into food. Micro- and nanoplastics also shed from plastic packaging into food at room temperature but the process of chemical migration and the shedding of microplastics both speed up when plastic is heated.\nHow does it affect our bodies?\nAs early as 2003, investigators published an article demonstrating that the \u201cuse of commercial plastic packages for repeated microwaving is associated with the risk of increased migration of volatile substances into food.\u201d More recently, researchers testing baby food containers from two mainstream U.S. brands found that polypropylene (#5) labeled as \"microwave safe\" released 4.2 million and 1.2 billion particles per square centimeter of plastic each, after being heated in a microwave.\nEndocrine DisruptionMany of the chemicals that leach out of plastics into food or are consumed as microplastics are endocrine disruptors (EDCs) meaning that they \u201cdisrupt\u201d the hormonal signals that regulate vital body processes. EDCs can disrupt appetite and metabolism (leading to obesity, diabetes, heart disease), cell growth regulation (cancers), and neurodevelopment (cognitive, learning and behavior disorders such as autism and ADHD). They can also impact the reproductive system (early puberty, infertility, and male birth defects).\u00a0\u00a0\nCommon endocrine disrupting chemicals found in food packaging include ortho-phthalates, PFAS and perchlorate.\nMost At Risk As with other environmental toxicants, endocrine disruptors pose greater health risks for children than adults. They are particularly dangerous for newborns, toddlers, pregnant people, and the developing fetus.\nABOUT\u00a0 \u00a0CONTACT DONATE SEARCH PRIVACY POLICY\nCopyright \u00a9 2019-2024 Beyond Plastics. All rights reserved.\nContact us: email beyondplastics@bennington.edu.",
+                    "content_tokens": 489
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Beyond Plastics is an organization focused on addressing plastic pollution and its impacts on health and the environment. Their resources are well-researched and are supported by the latest studies on plastic and its risks. This focus gives them credible authority on the topic of plastics in food, although they may have an agenda of promoting plastic alternatives."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-09-06"
+                },
+                "Relevance": {
+                    "RelevanceScore": 10,
+                    "Relevance Justification": "This evidence provides detailed information on how microwaving plastic can lead to the migration of harmful chemicals and microplastics into food, along with specific health risks. It effectively addresses long-term health issues and supports the claim regarding risks, making it highly relevant to the question at hand."
+                }
+            }
+        }
+    ]
+}

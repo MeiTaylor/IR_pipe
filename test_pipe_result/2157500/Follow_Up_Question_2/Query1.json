@@ -1,0 +1,645 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Brussels airport attack timeline and video evidence",
+                "totalResults": "1130000",
+                "searchTerms": "Brussels airport attack timeline and video evidence",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Brussels airport attack timeline and video evidence",
+                "totalResults": "1130000",
+                "searchTerms": "Brussels airport attack timeline and video evidence",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.330668,
+        "formattedSearchTime": "0.33",
+        "totalResults": "1130000",
+        "formattedTotalResults": "1,130,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Footage shows suspects in Brussels attack | CNN",
+                "htmlTitle": "<b>Footage</b> shows suspects in <b>Brussels attack</b> | CNN",
+                "link": "https://www.cnn.com/2016/03/22/europe/brussels-explosions/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Mar 23, 2016 ... Brussels blasts 6 0322 · An unidentified traveler runs through the smoke filled terminal at Brussels Airport after explosion rocked the.",
+                "htmlSnippet": "Mar 23, 2016 <b>...</b> Brussels blasts 6 0322 &middot; An unidentified traveler runs through the smoke filled terminal at <b>Brussels Airport</b> after <b>explosion</b> rocked the.",
+                "formattedUrl": "https://www.cnn.com/2016/03/22/europe/brussels-explosions/index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/2016/03/22/europe/<b>brussels</b>-explosions/index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRygjx3qFpQABPsvB-_1Vnq6YaxCgryEC-TZ5cx_P1-IcNl-K4qznPUdSI&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/160322035201-brussels-explosions-airport.jpg?q=x_2,y_0,h_1078,w_1915,c_crop/w_800",
+                            "twitter:title": "Footage shows suspects in Brussels attack | CNN",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2016-03-22T07:25:28Z",
+                            "og:site_name": "CNN",
+                            "author": "Catherine E. Shoichet,Frederik Pleitgen,Greg Botelho",
+                            "og:title": "Footage shows suspects in Brussels attack | CNN",
+                            "meta-section": "world",
+                            "type": "article",
+                            "og:description": "ISIS claimed credit for explosions in Brussels, Belgium, that killed at least 30 people and wounded about 230 others. Authorities are searching for a suspect.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/160322035201-brussels-explosions-airport.jpg?q=x_2,y_0,h_1078,w_1915,c_crop/w_800",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "article:tag": "accidents, disasters and safety, air transportation, airports, belgium, brussels, business and industry sectors, europe, explosions, transportation and warehousing, western europe, public transportation, subway and commuter rail, air transportation safety, aviation security, international relations and national security, national security, passenger trains, rail transportation, safety issues and practices, terrorism, terrorism and counter-terrorism, terrorist attacks, travel and tourism, travel safety and security, unrest, conflicts and war, france, 2016 brussels terror attacks, paris, energy and utilities, islamic state in iraq and syria, nuclear energy, bombings, 2015 paris terror attacks, isis airstrikes, trains, suicide bombings, investigations, crime, law enforcement and corrections, crimes against persons, criminal law, criminal offenses, homicide, law and legal system, salah abdeslam, ground transportation, taxis, bombs and explosive devices, weapons and arms",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@CNN",
+                            "article:modified_time": "2016-03-23T12:49:53Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "ISIS claimed credit for explosions in Brussels, Belgium, that killed at least 30 people and wounded about 230 others. Authorities are searching for a suspect.",
+                            "template_type": "article_leaf",
+                            "theme": "world",
+                            "og:url": "https://www.cnn.com/2016/03/22/europe/brussels-explosions/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/160322035201-brussels-explosions-airport.jpg?q=x_2,y_0,h_1078,w_1915,c_crop/w_800"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... move the officials said appeared to be planned.\nTaxi driver tip sparks raid\n---------------------------\nA break in the investigation may have come from a taxi driver who took the suspects to the airport.\nThe driver contacted authorities after seeing surveillance footage and gave them the address where he picked the men up, according to two U.S. officials briefed on the investigation.\nThat information prompted authorities to raid a residence after the attacks, the officials said.\nInvestigators found a nail bomb, chemical products and an ISIS flag during a house search in the northeast Brussels neighborhood of Schaerbeek, Belgium’s federal prosecutor said in a statement.\nHours later, they were still combing through the building for evidence.\nSecurity was high. At one point, a helicopter hovered overhead, carrying a sniper with a weapon trained on the building.\nAs masked, armed officers stood guard outside the building, the burst of camera flashes inside could be seen from the street below. Officers left the building carrying bags of evidence they loaded onto vehicles.\nTies to Paris attacks?\n----------------------\nA Belgian government representative told CNN that 10 people were killed and 100 wounded at Brussels’ international airport. At least 20 people died and 130 were wounded at the Maelbeek metro station, officials said.\nThe blasts sent wounded people fleeing into the streets, spurred evacuations of nuclear plants and transit hubs and led to raids in some areas as authorities searched for suspects and evidence.\n!\nA victim receives first aid near the Maelbeek metro station.\nEMMANUEL DUNAND/AFP/Getty Images\n!\nAmbulances arrive at the airport.\nGeert Vanden Wijngaert/ap\n!\nAn injured woman leaves the airport in Brussels, Belgium, after two explosions rocked the facility on Tuesday, March 22. There was also an explosion at a subway station in the city.\nDavid Crunelle via AP\n!\nWindows are blown out after the deadly attack at the airport.\nPeter Dejong/AP\n!\nA police officer directs passengers in a smoke-filled airport terminal.\nRalph Usbeck/AP\n!\nTwo wounded women are seen in the airport.\nKetevan Kardava/Georgian Public Broadcaster via AP\n!\nThis photo from inside the airport was shared by Jef Versele on Facebook.\nJef Versele/Facebook\n!\nSubway passengers walk along the tracks following a blast at the Maelbeek metro station.\nEvan Lamos/EurActiv/AP\n!\nA private security guard helps a wounded woman outside the Maelbeek metro station.\nMICHAEL VILLA/AFP/Getty Images\n!\nWounded people are...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Brussels explosions: What we know about airport and metro attacks ...",
+                "htmlTitle": "<b>Brussels</b> explosions: What we know about <b>airport</b> and metro <b>attacks</b> ...",
+                "link": "https://www.bbc.com/news/world-europe-35869985",
+                "displayLink": "www.bbc.com",
+                "snippet": "Apr 9, 2016 ... Brussels explosions: Timeline of events. Who carried out the attacks ...",
+                "htmlSnippet": "Apr 9, 2016 <b>...</b> <b>Brussels</b> explosions: <b>Timeline</b> of events. Who carried out the <b>attacks</b>&nbsp;...",
+                "formattedUrl": "https://www.bbc.com/news/world-europe-35869985",
+                "htmlFormattedUrl": "https://www.bbc.com/news/world-europe-35869985",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_hB_VetOe1mE_dn3U_gSUZdb7QarztT9NZ0wdPbabWIViPnLTK5uCewiq&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/12822/production/_88901857_88889080.jpg",
+                            "theme-color": "#FFFFFF",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "BBC News",
+                            "msapplication-tileimage": "https://static.files.bbci.co.uk/core/website/assets/static/icons/windows-phone/news/windows-phone-icon-270x270.23502b4459eb7a6ab2ab.png",
+                            "og:description": "Thirty-two people were killed and many more seriously injured in twin explosions at Brussels international airport and another on the metro system.",
+                            "twitter:creator": "@BBCWorld",
+                            "twitter:image:alt": "Picture taken with permission from the Facebook site of Jef Versele showing the aftermath of this morning's explosions at Brussels airport, 22 March",
+                            "twitter:site": "@BBCWorld",
+                            "fb:admins": "100004154058350",
+                            "msapplication-tilecolor": "#bb1919",
+                            "og:image:alt": "Picture taken with permission from the Facebook site of Jef Versele showing the aftermath of this morning's explosions at Brussels airport, 22 March",
+                            "og:type": "article",
+                            "article:section": "Europe",
+                            "twitter:title": "Brussels explosions: What we know about airport and metro attacks",
+                            "og:title": "Brussels explosions: What we know about airport and metro attacks",
+                            "article:author": "https://www.facebook.com/bbcnews",
+                            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/12822/production/_88901857_88889080.jpg",
+                            "fb:app_id": "1609039196070050",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Thirty-two people were killed and many more seriously injured in twin explosions at Brussels international airport and another on the metro system.",
+                            "og:locale": "en_GB",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "https://www.bbc.com/news/world-europe-35869985",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/12822/production/_88901857_88889080.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The aftermath in the departures hall at Brussels Zaventem airport following the explosions\nBombings at Brussels airport and a metro station in the city on Tuesday 22 March killed 32 people from around the world. \nMany more were injured in the attacks. The toll does not include three bombers who died. \nTwin blasts struck the main terminal of Zaventem international airport, in the north-east of the city. \nAnother explosion hit the Maelbeek metro station in the city centre, close to several European Union institutions.\nThis video can not be played\nBrussels explosions: Timeline of events\nThe so-called Islamic State group said it was behind the attacks.\nCCTV footage captured the three attackers shortly before two of them detonated explosives\nThe bombers have been named as follows:\nKhalid el-Bakraoui (deceased) - identified by the Belgian federal prosecutor as the suicide bomber in the metro attack. Khalid, 27, had used a false name to rent the flat in the Forest area of the Belgian capital where police killed a gunman in a shootout on 15 March.\nOsama K- Prosecutors say this man, arrested on 8 April, has been identified as the man seen with Bakraoui at the Malbeek metro station, and that he bought bags used by the attackers at Zaventem airport. He has been identified in media reports as Swedish national Osama Krayem.\nIbrahim el-Bakraoui(deceased) - one of the airport suicide bombers. Ibrahim, Khalid's brother, was identified as the central figure in the image of three suspects caught on CCTV at Zaventem airport shortly before the explosions.\nNajim Laachraoui (deceased) - The Belgian prosecutor has confirmed he was the second suicide bomber at Brussels airport. Laachraoui, pictured on the...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Significant Terrorist Incidents 1961-2003: A Brief Chronology",
+                "htmlTitle": "Significant <b>Terrorist</b> Incidents 1961-2003: A Brief <b>Chronology</b>",
+                "link": "https://2001-2009.state.gov/r/pa/ho/pubs/fs/5902.htm",
+                "displayLink": "2001-2009.state.gov",
+                "snippet": "Ten days later, three IRA car bomb attacks in the village of Claudy left six dead. Munich Olympic Massacre, September 5, 1972: Eight Palestinian \"Black ...",
+                "htmlSnippet": "Ten days later, three IRA car <b>bomb attacks</b> in the village of Claudy left six dead. Munich Olympic Massacre, September 5, 1972: Eight Palestinian &quot;Black&nbsp;...",
+                "formattedUrl": "https://2001-2009.state.gov/r/pa/ho/pubs/fs/5902.htm",
+                "htmlFormattedUrl": "https://2001-2009.state.gov/r/pa/ho/pubs/fs/5902.htm",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQef_PzbAVi0apYOOXzqHHeDhX4brGNWH6G_yZaTew065KsLeGnNVELRciI&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "dc_publisher": "Department Of State. The Office of Electronic Information, Bureau of Public Affairs.",
+                            "path": "organization/6007.htm",
+                            "archive-date": "01/17/2009 22:21:08",
+                            "dc_title": "Significant Terrorist Incidents 1961-2003: A Brief Chronology",
+                            "domain": "www2.state.gov",
+                            "dc_rights": "http://www.state.gov/r/pa/ei/rls/dos/3797.htm",
+                            "dc_format": "text/html",
+                            "dc_creator": "Department Of State. The Office of Electronic Information, Bureau of Public Affairs.",
+                            "dc_language": "en",
+                            "article_date": "01/01/2004"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://2001-2009.state.gov/images/seal250.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://2001-2009.state.gov/r/pa/ho/pubs/fs/5902.htm: 429 Client Error: Too Many Requests for url: https://r.jina.ai/https://2001-2009.state.gov/r/pa/ho/pubs/fs/5902.htm",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Brussels Attacks: Timeline of the Events in the Belgian Capital",
+                "htmlTitle": "<b>Brussels Attacks</b>: <b>Timeline</b> of the Events in the Belgian Capital",
+                "link": "https://www.nbcnews.com/storyline/brussels-attacks/brussels-attacks-timeline-events-belgian-capital-n544221",
+                "displayLink": "www.nbcnews.com",
+                "snippet": "Mar 23, 2016 ... 7:55 a.m. (2:55 a.m. ET): Surveillance footage shows three suspected attackers exiting a taxi and pushing luggage trolleys through Brussels ...",
+                "htmlSnippet": "Mar 23, 2016 <b>...</b> 7:55 a.m. (2:55 a.m. ET): Surveillance <b>footage</b> shows three suspected attackers exiting a taxi and pushing luggage trolleys through <b>Brussels</b>&nbsp;...",
+                "formattedUrl": "https://www.nbcnews.com/.../brussels-attacks/brussels-attacks-timeline-event...",
+                "htmlFormattedUrl": "https://www.nbcnews.com/.../<b>brussels</b>-<b>attack</b>s/<b>brussels</b>-<b>attack</b>s-<b>timeline</b>-event...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZQoxM0c78kP4KuVSbLF_Yni3qancYbongd_i8_4QACaIJRmlx_lerWpPh&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-config": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/browserconfig.xml",
+                            "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2016_12/1469931/160323-brussels-attack-mourner-936a.jpg",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "NBC News",
+                            "branch:deeplink:title": "Timeline: How the Brussels Attacks Unfolded",
+                            "og:image:type": "image/jpeg",
+                            "twitter:creator": "NBCNews",
+                            "og:description": "A timeline of the way events unfolded during and after the attacks on the Belgian capital.",
+                            "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2016_12/1469931/160323-brussels-attack-mourner-936a.jpg",
+                            "branch:deeplink:description": "A timeline of the way events unfolded during and after the attacks on the Belgian capital.",
+                            "twitter:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/newscms/2016_12/1469931/160323-brussels-attack-mourner-936a.jpg",
+                            "twitter:site": "@NBCNews",
+                            "article:content_tier": "free",
+                            "branch:deeplink:type": "article",
+                            "og:type": "article",
+                            "twitter:title": "Timeline: How the Brussels Attacks Unfolded",
+                            "branch:deeplink:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2016_12/1469931/160323-brussels-attack-mourner-936a.jpg",
+                            "og:title": "Timeline: How the Brussels Attacks Unfolded",
+                            "og:image:height": "630",
+                            "fb:pages": "155869377766434",
+                            "twitter:image:src": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/newscms/2016_12/1469931/160323-brussels-attack-mourner-936a.jpg",
+                            "fb:app_id": "10150138890205613",
+                            "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                            "twitter:description": "A timeline of the way events unfolded during and after the attacks on the Belgian capital.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.nbcnews.com/storyline/brussels-attacks/brussels-attacks-timeline-events-belgian-capital-n544221",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2016_12/1469931/160323-brussels-attack-mourner-936a.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.nbcnews.com/storyline/brussels-attacks/brussels-attacks-timeline-events-belgian-capital-n544221: 429 Client Error: Too Many Requests for url: https://r.jina.ai/https://www.nbcnews.com/storyline/brussels-attacks/brussels-attacks-timeline-events-belgian-capital-n544221",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Brussels attacks: New video of airport bombing suspect - BBC News",
+                "htmlTitle": "<b>Brussels attacks</b>: New <b>video</b> of <b>airport bombing</b> suspect - BBC News",
+                "link": "https://www.bbc.com/news/world-europe-35989759",
+                "displayLink": "www.bbc.com",
+                "snippet": "Apr 7, 2016 ... Belgian prosecutors release new footage of the key surviving Brussels airport attack suspect, showing the route he took after leaving the ...",
+                "htmlSnippet": "Apr 7, 2016 <b>...</b> Belgian prosecutors release new <b>footage</b> of the key surviving <b>Brussels airport attack</b> suspect, showing the route he took after leaving the&nbsp;...",
+                "formattedUrl": "https://www.bbc.com/news/world-europe-35989759",
+                "htmlFormattedUrl": "https://www.bbc.com/news/world-europe-35989759",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_6epp10N-DkdcHrBvuLexiYejFVHndr1YE7hEOx_KbRWo6pxYhCT4EGgh&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/0A66/production/_89126620_belgium_0758.jpg",
+                            "theme-color": "#FFFFFF",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "BBC News",
+                            "msapplication-tileimage": "https://static.files.bbci.co.uk/core/website/assets/static/icons/windows-phone/news/windows-phone-icon-270x270.23502b4459eb7a6ab2ab.png",
+                            "og:description": "Belgian prosecutors release new footage of the key surviving Brussels airport attack suspect, showing the route he took after leaving the area.",
+                            "twitter:creator": "@BBCWorld",
+                            "twitter:image:alt": "Brussels airport bombing suspect",
+                            "twitter:site": "@BBCWorld",
+                            "fb:admins": "100004154058350",
+                            "msapplication-tilecolor": "#bb1919",
+                            "og:image:alt": "Brussels airport bombing suspect",
+                            "og:type": "article",
+                            "article:section": "Europe",
+                            "twitter:title": "Brussels attacks: New video of airport bombing suspect",
+                            "og:title": "Brussels attacks: New video of airport bombing suspect",
+                            "article:author": "https://www.facebook.com/bbcnews",
+                            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/0A66/production/_89126620_belgium_0758.jpg",
+                            "fb:app_id": "1609039196070050",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Belgian prosecutors release new footage of the key surviving Brussels airport attack suspect, showing the route he took after leaving the area.",
+                            "og:locale": "en_GB",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "https://www.bbc.com/news/world-europe-35989759",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/0A66/production/_89126620_belgium_0758.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "This video can not be played\nNew CCTV footage shows the third suspect wanted in connection with the bomb attacks on Brussels airport last month\nBelgian prosecutors have released new footage of the key surviving Brussels airport attacks suspect, showing the route he took after leaving the area.\nThey have asked members of the public who saw the man to come forward.\nThe man was tracked on CCTV footage until 09:50 local time and was wearing a hat and a light-coloured jacket, officials said.\nHis trail was lost close to the EU institutions in Brussels' city centre, not far from Maelbeek metro station.\nProsecutors said he had discarded the jacket, and have asked the public to report if it has been found.\nThe 22 March attacks by so-called Islamic State (IS) on Brussels airport and the Maelbeek metro station killed 32 people.\nThree attackers are believed to have targeted the airport, with two dying in the bomb blasts. Another died in the metro attack.\nThe \"man with the hat\", as prosecutors called him, was captured pushing a trolley at Brussels airport next to the two suicide bombers in previously released CCTV footage.\nThe new footage, external shows the suspect briefly running amongst passengers as they try to escape the scene at the airport, before walking some 10km over a two-hour period.  \nHe was last seen about 40 minutes after the Maelbeek metro bombing.\nThe suspect is seen leaving the airport after the explosions. He is wearing a light-coloured...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Belgium Fears Nuclear Plants Are Vulnerable - The New York Times",
+                "htmlTitle": "Belgium Fears Nuclear Plants Are Vulnerable - The New York Times",
+                "link": "https://www.nytimes.com/2016/03/26/world/europe/belgium-fears-nuclear-plants-are-vulnerable.html",
+                "displayLink": "www.nytimes.com",
+                "snippet": "Mar 25, 2016 ... Belgian authorities fear that Islamic State militants may try to attack, infiltrate or sabotage nuclear plants or obtain nuclear or ...",
+                "htmlSnippet": "Mar 25, 2016 <b>...</b> Belgian authorities fear that Islamic State militants may try to <b>attack</b>, infiltrate or sabotage nuclear plants or obtain nuclear or&nbsp;...",
+                "formattedUrl": "https://www.nytimes.com/.../belgium-fears-nuclear-plants-are-vulnerable.ht...",
+                "htmlFormattedUrl": "https://www.nytimes.com/.../belgium-fears-nuclear-plants-are-vulnerable.ht...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP191NQApHb3e5jKJFKHeBjUe8zEi5y1Lvc8Mi0tVTcaocewA_dsBc2eu5&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static01.nyt.com/images/2016/03/26/world/JP-NUKES/JP-NUKES-facebookJumbo.jpg?year=2016&h=549&w=1050&s=93a3328fd7167fc23845cf3092af965026b76bc5931d702a016a5163c270b821&k=ZQJBKqZ0VN",
+                            "nyt_uri": "nyt://article/3a8c823f-643f-5e4c-a496-53032f647eb5",
+                            "twitter:app:id:googleplay": "com.nytimes.android",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2016-03-26T01:21:25.000Z",
+                            "pt": "article",
+                            "twitter:url": "https://www.nytimes.com/2016/03/26/world/europe/belgium-fears-nuclear-plants-are-vulnerable.html",
+                            "pdate": "20160325",
+                            "articleid": "100000004292527",
+                            "al:android:package": "com.nytimes.android",
+                            "twitter:app:name:googleplay": "NYTimes",
+                            "og:description": "Belgian authorities fear that Islamic State militants may try to attack, infiltrate or sabotage nuclear plants or obtain nuclear or radioactive material.",
+                            "twitter:image": "https://static01.nyt.com/images/2016/03/26/world/JP-NUKES/JP-NUKES-articleLarge.jpg?year=2016&h=414&w=600&s=707243d79bbf875c4de12e206ffc623d2f2cc1337c7549775d131d7b5838f3c2&k=ZQJBKqZ0VN&tw=1",
+                            "pst": "News",
+                            "twitter:image:alt": "The nuclear power plant in Doel, Belgium. The country has a troubled history of security lapses at its nuclear power facilities.",
+                            "al:iphone:app_name": "NYTimes",
+                            "article:modified_time": "2016-03-26T01:21:22.000Z",
+                            "news_keywords": "Brussels Attacks,,Nuclear weapon,,ISIS;ISIL;Islamic State,Belgium,Terrorism,Nuclear energy",
+                            "scg": "europe",
+                            "article:content_tier": "metered",
+                            "msapplication-starturl": "https://www.nytimes.com",
+                            "image": "https://static01.nyt.com/images/2016/03/26/world/JP-NUKES/JP-NUKES-facebookJumbo.jpg?year=2016&h=549&w=1050&s=93a3328fd7167fc23845cf3092af965026b76bc5931d702a016a5163c270b821&k=ZQJBKqZ0VN",
+                            "og:type": "article",
+                            "og:image:alt": "The nuclear power plant in Doel, Belgium. The country has a troubled history of security lapses at its nuclear power facilities.",
+                            "twitter:title": "Belgium Fears Nuclear Plants Are Vulnerable (Published 2016)",
+                            "article:section": "World",
+                            "cg": "world",
+                            "pubp_event_id": "pubp://event/b8503672cc7e4870936f96f26e629053",
+                            "og:title": "Belgium Fears Nuclear Plants Are Vulnerable (Published 2016)",
+                            "cn": "brussels-attacks",
+                            "article:author": "https://www.nytimes.com/by/alissa-j-rubin",
+                            "url": "https://www.nytimes.com/2016/03/26/world/europe/belgium-fears-nuclear-plants-are-vulnerable.html",
+                            "article:tag": "Brussels Attacks (March 2016)",
+                            "al:iphone:url": "nytimes://www.nytimes.com/2016/03/26/world/europe/belgium-fears-nuclear-plants-are-vulnerable.html",
+                            "al:android:url": "nyt://article/3a8c823f-643f-5e4c-a496-53032f647eb5",
+                            "ct": "news-event",
+                            "twitter:app:url:googleplay": "nyt://article/3a8c823f-643f-5e4c-a496-53032f647eb5",
+                            "byl": "By Alissa J. Rubin and Milan Schreuer",
+                            "twitter:description": "Belgian authorities fear that Islamic State militants may try to attack, infiltrate or sabotage nuclear plants or obtain nuclear or radioactive material.",
+                            "al:iphone:app_store_id": "284862083",
+                            "og:url": "https://www.nytimes.com/2016/03/26/world/europe/belgium-fears-nuclear-plants-are-vulnerable.html",
+                            "al:android:app_name": "NYTimes",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static01.nyt.com/images/2016/03/26/world/JP-NUKES/JP-NUKES-facebookJumbo.jpg?year=2016&h=549&w=1050&s=93a3328fd7167fc23845cf3092af965026b76bc5931d702a016a5163c270b821&k=ZQJBKqZ0VN"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Advertisement\nSupported by\nSecurity Risk\nBy Alissa J. Rubin and Milan Schreuer\nBRUSSELS — As a dragnet aimed at Islamic State operatives spiraled across Brussels and into at least five European countries on Friday, the authorities were also focusing on a narrower but increasingly alarming threat: the vulnerability of Belgium’s nuclear installations.\nThe investigation into this week’s deadly attacks in Brussels has prompted worries that the Islamic State is seeking to attack, infiltrate or sabotage nuclear installations or obtain nuclear or radioactive material. This is especially worrying in a country with a history of security lapses at its nuclear facilities, a weak intelligence apparatus and a deeply rooted terrorist network.\nOn Friday, the authorities stripped security badges from several workers at one of two plants where all nonessential employees had been sent home hours after the attacks at the Brussels airport and one of the city’s busiest subway stations three days earlier. Video footage of a top official at another Belgian nuclear facility was discovered last year in the apartment of a suspected militant linked to the extremists who unleashed the horror in Paris in November.\nAsked on Thursday at a London think tank whether there was a danger of the Islamic State’s obtaining a nuclear weapon, the British defense secretary, Michael Fallon, said that “was a new and emerging threat.”\nWhile the prospect that terrorists can obtain enough highly enriched uranium and then turn it into a nuclear fission bomb seems far-fetched to many experts, they say the fabrication of some kind of dirty bomb from radioactive waste or byproducts is more conceivable. There are a variety of other risks involving Belgium’s facilities, including that terrorists somehow shut down the privately operated plants, which provide nearly half of Belgium’s power.\nThe fears at the nuclear power plants are...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Pentagon 9/11 Historical Office",
+                "htmlTitle": "Pentagon 9/11 Historical Office",
+                "link": "https://history.defense.gov/Portals/70/Documents/pentagon/Pentagon9-11.pdf",
+                "displayLink": "history.defense.gov",
+                "snippet": "The Department of Defense undertook preparation ofa history ofthe 11. September 2001 attack on the Pentagon at the suggestion of Brig. Gen. John S. Brown, ...",
+                "htmlSnippet": "The Department of Defense undertook preparation ofa <b>history</b> ofthe 11. September 2001 <b>attack</b> on the Pentagon at the suggestion of Brig. Gen. John S. Brown,&nbsp;...",
+                "formattedUrl": "https://history.defense.gov/Portals/70/Documents/.../Pentagon9-11.pdf",
+                "htmlFormattedUrl": "https://history.defense.gov/Portals/70/Documents/.../Pentagon9-11.pdf",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyayGktmkKq9Y1-QEjO8XVMmEa8dDxFqItDDykJJ7sCzizAh-EMEesTbk&s",
+                            "width": "269",
+                            "height": "187"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "moddate": "D:20090922112744-04'00'",
+                            "creationdate": "D:20090824132051-04'00'",
+                            "creator": "Adobe Acrobat 6.0",
+                            "producer": "Adobe Acrobat 8.16 Paper Capture Plug-in"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "x-raw-image:///cccb5f57522527ca137ca938bc2ff815f40197d93b14271ec7c51a299aad7148"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "Error fetching https://history.defense.gov/Portals/70/Documents/pentagon/Pentagon9-11.pdf: 429 Client Error: Too Many Requests for url: https://r.jina.ai/https://history.defense.gov/Portals/70/Documents/pentagon/Pentagon9-11.pdf",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Strikes Claimed by ISIS Shut Brussels and Shake European Security ...",
+                "htmlTitle": "Strikes Claimed by ISIS Shut <b>Brussels</b> and Shake European Security ...",
+                "link": "https://www.nytimes.com/2016/03/23/world/europe/brussels-airport-explosions.html",
+                "displayLink": "www.nytimes.com",
+                "snippet": "Mar 22, 2016 ... Belgian Bomb Called a Suicide Attack. The Belgian prosecutor Frédéric Van Leeuw said the explosion at the Brussels airport on Tuesday morning ...",
+                "htmlSnippet": "Mar 22, 2016 <b>...</b> Belgian <b>Bomb</b> Called a Suicide <b>Attack</b>. The Belgian prosecutor Frédéric Van Leeuw said the <b>explosion</b> at the <b>Brussels airport</b> on Tuesday morning&nbsp;...",
+                "formattedUrl": "https://www.nytimes.com/2016/03/23/.../brussels-airport-explosions.html",
+                "htmlFormattedUrl": "https://www.nytimes.com/2016/03/23/.../<b>brussels</b>-<b>airport</b>-explosions.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcMNzGOIcJX9CFDyh-87AZymvxE046NtjETMobfbSlGzwukYRDW4U-3co&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static01.nyt.com/images/2016/03/22/world/23BRUSSELS-suspects/23BRUSSELS-suspects-facebookJumbo.jpg?year=2016&h=314&w=599&s=7cb8e62c246e99f9ade53b130bdbc1f58916304c54fa0478cbfa601239816b16&k=ZQJBKqZ0VN",
+                            "nyt_uri": "nyt://article/4dcc6269-56c5-54f8-bc80-23de29977f04",
+                            "twitter:app:id:googleplay": "com.nytimes.android",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2016-03-22T07:38:22.000Z",
+                            "pt": "article",
+                            "twitter:url": "https://www.nytimes.com/2016/03/23/world/europe/brussels-airport-explosions.html",
+                            "pdate": "20160322",
+                            "articleid": "100000004285016",
+                            "al:android:package": "com.nytimes.android",
+                            "twitter:app:name:googleplay": "NYTimes",
+                            "og:description": "The Islamic State militant group claimed responsibility for the blasts, which occurred four days after the capture of a suspect in the Paris attacks.",
+                            "twitter:image": "https://static01.nyt.com/newsgraphics/images/icons/defaultCrop.png?year=2016",
+                            "pst": "News",
+                            "twitter:image:alt": "The Belgian federal prosecutor’s office confirmed the three men in a picture published in the Belgian news media are suspects in the airport bombings.",
+                            "article:modified_time": "2016-03-23T00:49:43.000Z",
+                            "news_keywords": "Brussels Attacks,,ISIS;ISIL;Islamic State,,,Terrorism,Subway,Airport,Security,Brussels,Paris Attacks",
+                            "scg": "europe",
+                            "article:content_tier": "metered",
+                            "msapplication-starturl": "https://www.nytimes.com",
+                            "image": "https://static01.nyt.com/images/2016/03/22/world/23BRUSSELS-suspects/23BRUSSELS-suspects-facebookJumbo.jpg?year=2016&h=314&w=599&s=7cb8e62c246e99f9ade53b130bdbc1f58916304c54fa0478cbfa601239816b16&k=ZQJBKqZ0VN",
+                            "og:type": "article",
+                            "og:image:alt": "The Belgian federal prosecutor’s office confirmed the three men in a picture published in the Belgian news media are suspects in the airport bombings.",
+                            "twitter:title": "Strikes Claimed by ISIS Shut Brussels and Shake European Security (Published 2016)",
+                            "article:section": "World",
+                            "cg": "world",
+                            "pubp_event_id": "pubp://event/9538e50283f04505a7268f73f85667ec",
+                            "og:title": "Strikes Claimed by ISIS Shut Brussels and Shake European Security (Published 2016)",
+                            "cn": "brussels-attacks",
+                            "article:author": "https://www.nytimes.com/by/alissa-j-rubin",
+                            "url": "https://www.nytimes.com/2016/03/23/world/europe/brussels-airport-explosions.html",
+                            "article:tag": "Brussels Attacks (March 2016)",
+                            "al:android:url": "nyt://article/4dcc6269-56c5-54f8-bc80-23de29977f04",
+                            "ct": "news-event",
+                            "byl": "By Alissa J. Rubin, Aurelien Breeden and Anita Raghavan",
+                            "twitter:description": "The Islamic State militant group claimed responsibility for the blasts, which occurred four days after the capture of a suspect in the Paris attacks.",
+                            "og:url": "https://www.nytimes.com/2016/03/23/world/europe/brussels-airport-explosions.html",
+                            "al:android:app_name": "NYTimes",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static01.nyt.com/images/2016/03/22/world/23BRUSSELS-suspects/23BRUSSELS-suspects-facebookJumbo.jpg?year=2016&h=314&w=599&s=7cb8e62c246e99f9ade53b130bdbc1f58916304c54fa0478cbfa601239816b16&k=ZQJBKqZ0VN"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Advertisement\nSupported by\ntranscript\nna\nBy Alissa J. RubinAurelien Breeden and Anita Raghavan\nBRUSSELS — Bombs packed with nails terrorized Brussels on Tuesday in the deadliest assault on the European heartland since the Islamic State’s attacks on Paris four months ago, hitting the airport and subway system in coordinated strikes that were also claimed by the militant extremist group.\nThe bombings paralyzed Brussels, the headquarters of the European Union and NATO, prompted international travel warnings to avoid Belgium and reverberated across the Atlantic to the United States, where New York and other major cities raised terrorism threat levels. Anxieties intensified about the inability to prevent mass killings at relatively unprotected places.\nAt least 30 people were killed by two blasts at the Brussels airport departure area around 8 a.m. and one in a subway station shortly after 9. The police found at least one other unexploded bomb in a search of a Brussels house hours later.\nAnd Europe’s most wanted person suddenly became an unidentified man in a white coat and dark hat seen pushing a luggage cart in an airport surveillance photo taken just before the bombings. Two other men in the photo, each wearing a black glove on his left hand, were identified by Belgian prosecutors as suspected suicide bombers who appeared to have died in the explosions.\n“To those who have chosen to be the barbaric enemies of liberty, of democracy, of fundamental values, I want to say with the greatest strength that we will remain assembled and united,” the Belgium prime minister, Charles Michel, said at a news conference Tuesday evening, declaring a three-day mourning period.\nMaps and diagrams show the extent of the damage at the airport and subway station.\nWe are having trouble retrieving the article content.\nPlease enable JavaScript in your browser settings.\nThank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times.\nThank you for your patience while we verify access.\nAlready a subscriber? Log in.\nWant all of The Times? Subscribe.\nAdvertisement",
+                    "content_tokens": 424
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Country Reports on Terrorism 2019 - United States Department of ...",
+                "htmlTitle": "Country Reports on Terrorism 2019 - United States Department of ...",
+                "link": "https://www.state.gov/reports/country-reports-on-terrorism-2019/",
+                "displayLink": "www.state.gov",
+                "snippet": "The Iranian regime and its proxies continued to plot and commit terrorist attacks on a global scale. In the past, Tehran has spent as much as $700 million per ...",
+                "htmlSnippet": "The Iranian regime and its proxies continued to plot and commit <b>terrorist attacks</b> on a global scale. In the past, Tehran has spent as much as $700 million per&nbsp;...",
+                "formattedUrl": "https://www.state.gov/reports/country-reports-on-terrorism-2019/",
+                "htmlFormattedUrl": "https://www.state.gov/reports/country-reports-on-terrorism-2019/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHNzuH3ZAsP1WKfz0EdF9X4WOrLn9gk5pJI31au79uQBnP7e5nOE1ujzrc&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.state.gov/wp-content/uploads/2020/06/6_22_Country_Reports_On_Terrorism_2019_TW_1.jpg",
+                            "og:type": "article",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "United States Department of State",
+                            "og:title": "Country Reports on Terrorism 2019 - United States Department of State",
+                            "og:image:height": "675",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://www.state.gov/wp-content/uploads/2022/04/cropped-dos_seal-270x270.png",
+                            "msapplication-tap-highlight": "no",
+                            "article:modified_time": "2021-05-10T21:30:37+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.state.gov/reports/country-reports-on-terrorism-2019/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.state.gov/wp-content/uploads/2020/06/6_22_Country_Reports_On_Terrorism_2019_TW_1.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.state.gov/reports/country-reports-on-terrorism-2019/: 429 Client Error: Too Many Requests for url: https://r.jina.ai/https://www.state.gov/reports/country-reports-on-terrorism-2019/",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Belgium experience in disaster victim identification applied in ...",
+                "htmlTitle": "Belgium experience in disaster victim identification applied in ...",
+                "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7646600/",
+                "displayLink": "www.ncbi.nlm.nih.gov",
+                "snippet": "Nov 2, 2020 ... At 8:16 am, the prosecutor responsible for the Brussels Airport instructed our forensic pathologist on duty to rejoin the DVI and the scientific ...",
+                "htmlSnippet": "Nov 2, 2020 <b>...</b> At 8:16 am, the prosecutor responsible for the <b>Brussels Airport</b> instructed our forensic pathologist on duty to rejoin the DVI and the scientific&nbsp;...",
+                "formattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7646600/",
+                "htmlFormattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7646600/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "dc.publisher": "Oxford University Press",
+                            "citation_publication_date": "2020",
+                            "og:image": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0",
+                            "citation_title": "Belgium experience in disaster victim identification applied in handling terrorist attack at Brussels Airport 2016",
+                            "citation_author_institution": "Medicolegal and Forensic Anthropology Unit, Laboratory of Anatomy, Biomechanics and Organogenesis, Faculty of Medicine, Université libre de Bruxelles, Bruxelles, Belgium",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "PubMed Central (PMC)",
+                            "citation_reference": "citation_title=Manuel pratique d'anthropologie médico-légale; citation_author=JP Beauthier; citation_author=F Beauthier; citation_author=P. Lefèvre; citation_publication_date=2014;",
+                            "citation_journal_title": "Forensic Sciences Research",
+                            "ncbi_pdid": "article",
+                            "ncbi_pcid": "/articles/PMC7646600/",
+                            "ncbi_phid": "939B08BFFBC5F695000026D457D2BFD9.1.m_2",
+                            "og:description": "The Belgian disaster victim identification (DVI) team is involved in many investigations in our country. Indeed, this specialized team of the federal police oversees searching for and investigating criminally buried dead bodies, identification of unknown ...",
+                            "ncbi_db": "pmc",
+                            "twitter:site": "@ncbi",
+                            "dc.type": "Text",
+                            "citation_fulltext_html_url": "/pmc/articles/PMC7646600/",
+                            "ncbi_app_version": "1.7.0.post5+fa37e81",
+                            "ncbi_type": "fulltext",
+                            "citation_pmid": "33209506",
+                            "og:type": "article",
+                            "handheldfriendly": "True",
+                            "ncbi_app": "pmc-frontend",
+                            "og:title": "Belgium experience in disaster victim identification applied in handling terrorist attack at Brussels Airport 2016",
+                            "citation_author": "François Beauthier",
+                            "citation_abstract_html_url": "/pmc/articles/PMC7646600/?report=abstract",
+                            "dc.date": "2020",
+                            "citation_issue": "3",
+                            "dc.contributor": "François Beauthier",
+                            "citation_firstpage": "223",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "citation_doi": "10.1080/20961790.2020.1775932",
+                            "mobileoptimized": "320",
+                            "ncbi_op": "retrieved",
+                            "dc.title": "Belgium experience in disaster victim identification applied in handling terrorist attack at Brussels Airport 2016",
+                            "ncbi_domain": "forscir",
+                            "dc.identifier": "10.1080/20961790.2020.1775932",
+                            "citation_volume": "5",
+                            "dc.language": "en",
+                            "og:url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7646600/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... victims involved in cases of terrorist attacks (e.g. the MH17 crash after missile hit in Ukraine, and bombing attacks in Brussels and Zaventem in Belgium).\nThe attacks in Brussels on 22 March 2016 took place 7 days after Forest's police operations on 15 March 2016, which led to the arrest of Salah Abdeslam 3 days later in Molenbeek (one of the 19 towns of Brussels). This arrest followed the investigative procedure of the attacks that occurred on 13 November 2015 in France.\nOn 22 March 2016 at 7:58 am, two explosions occurred in the departures hall of Brussels International Airport in Zaventem, Flemish Brabant: one near Brussels Airlines reception and the other near the desk of American Airlines, where many passengers had checked their luggage for a flight to New York. The disaster plan was initiated as a result of this double explosion. The coordinating committee for threat analysis then decided to suspend all air traffic at the airport and raise the alert level to level 4 (highest level) for the entire country. Another explosion occurred at 9:11 am in the Brussels metro on a train leaving the Maelbeek station (in the European district) towards the City Centre. Following this disaster, 32 people were dead (not including the three suicide bombers) and more than 340 were wounded. Some of these wounded individuals are still undergoing heavy physical rehabilitation treatments in Belgium and neighbouring countries. In this article, we will discuss the management of bodies of people who were killed in the Zaventem Airport bombing.\nThe head of the department, on his way to a homicide investigation, was alarmed by the first announcement of the explosions at the airport on the radio at 8:15 am on Tuesday, 22 March 2016 (Day 0). At 8:16 am, the prosecutor responsible for the Brussels Airport instructed our forensic pathologist on duty to rejoin the DVI and the scientific police at the airport for crime scene investigation. At 8:20 am, we informed the coordinator of our University Hospital about the situation and activated the disaster plan designed for a catastrophe involving dozens of dead victims. The Coordinator of Forensic Medicine (the head of the department) appointed a “Recovery of Corpses” Coordinator to engage in crime scene investigation, as well as a “Forensic Identification and Mortuary” Coordinator to manage the identification process in the morgue in cooperation with the DVI postmortem (PM) Coordinator. Their duties were described in corresponding action charts according to standard the International Criminal Police Organization (...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

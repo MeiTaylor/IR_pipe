@@ -1,0 +1,725 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Rubio statements on abortion and Zika virus",
+                "totalResults": "13400",
+                "searchTerms": "Rubio statements on abortion and Zika virus",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Rubio statements on abortion and Zika virus",
+                "totalResults": "13400",
+                "searchTerms": "Rubio statements on abortion and Zika virus",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.298532,
+        "formattedSearchTime": "0.30",
+        "totalResults": "13400",
+        "formattedTotalResults": "13,400"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Before Zika, the rubella virus helped legalize abortion in the US | CNN",
+                "htmlTitle": "Before <b>Zika</b>, the rubella <b>virus</b> helped legalize <b>abortion in the</b> US | CNN",
+                "link": "https://www.cnn.com/2016/08/09/health/rubella-abortion-zika/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Aug 9, 2016 ... Marco Rubio, who made waves recently when he said pregnant women infected with the Zika virus should not have the right to an abortion, even if\u00a0...",
+                "htmlSnippet": "Aug 9, 2016 <b>...</b> Marco <b>Rubio</b>, who made waves recently when he said pregnant women infected with the <b>Zika virus</b> should not have the right to an <b>abortion</b>, even if&nbsp;...",
+                "formattedUrl": "https://www.cnn.com/2016/08/09/health/rubella-abortion-zika/index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/2016/08/09/health/rubella-<b>abortion</b>-<b>zika</b>/index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFU-weYIYUJyWMZ4SucdtIz0d-HkOwKkJWPEoo4bXPw0JGLFvPjmpoBSo&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/160809155753-03-rubella-pregnancy-abortion-restricted.jpg?q=x_340,y_168,h_1295,w_2302,c_crop/w_800",
+                            "twitter:title": "The virus that helped legalize abortion in the US | CNN",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2016-08-09T16:55:48Z",
+                            "og:site_name": "CNN",
+                            "author": "Jessica Ravitz",
+                            "og:title": "The virus that helped legalize abortion in the US | CNN",
+                            "meta-section": "health",
+                            "type": "article",
+                            "og:description": "More than 50 years before the Zika virus grabbed headlines and stoked fears among pregnant women, the rubella virus helped legalize abortion in the United States.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/160809155753-03-rubella-pregnancy-abortion-restricted.jpg?q=x_340,y_168,h_1295,w_2302,c_crop/w_800",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "article:tag": "abortion, abortion rights, congenital diseases, crime, law enforcement and corrections, criminal law, decriminalization, diseases and disorders, epidemics and outbreaks, females (demographic group), government and public administration, health and medical, infectious diseases, law and legal system, life forms, marco rubio, maternal and child health, medical fields and specialties, medical treatments and procedures, microcephaly, microscopic life, mosquito-borne diseases, north america, obstetrics and gynecology, planned parenthood, political figures - us, politics, population and demographics, pregnancy and childbirth, public health, rubella, sexual and reproductive health, societal issues, society, united states, viruses, zika virus, measles",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@CNN",
+                            "article:modified_time": "2016-08-11T20:26:44Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "More than 50 years before the Zika virus grabbed headlines and stoked fears among pregnant women, the rubella virus helped legalize abortion in the United States.",
+                            "template_type": "article_leaf",
+                            "theme": "health",
+                            "og:url": "https://www.cnn.com/2016/08/09/health/rubella-abortion-zika/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/160809155753-03-rubella-pregnancy-abortion-restricted.jpg?q=x_340,y_168,h_1295,w_2302,c_crop/w_800"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...02:12\nNow playing\n\\- Source: \n!\nVideo Ad Feedback\nZika spraying kills millions of honeybees\n01:37\nNow playing\n\\- Source: \n!\nVideo Ad Feedback\nHope for abandoned baby\n01:07\nNow playing\n\\- Source: \n!\nVideo Ad Feedback\nInside ground zero for Zika in the U.S.\n00:52\nNow playing\n\\- Source: \n!\nVideo Ad Feedback\nWhat is the Zika virus?\n01:32\nNow playing\n\\- Source: \n!\nVideo Ad Feedback\nMosquito samples test positive for Zika in Miami Beach\n01:01\nNow playing\n\\- Source: \n!\nVideo Ad Feedback\nFDA: Screen all blood donations for Zika\n01:38\nNow playing\n\\- Source: \n!\nVideo Ad Feedback\nZika's blood-sucking predator\n01:49\nNow playing\n\\- Source: \n!\nVideo Ad Feedback\n'We grossly underestimated' Zika, expert says\n01:10\nNow playing\n\\- Source: \n!\nVideo Ad Feedback\nMeet one of the first Zika vaccine volunteers\n01:19\nNow playing\n\\- Source: \nSee More Videos\n### Story highlights\nMore than 50 years before Zika hit the US, the rubella virus affected pregnancies\nThe rubella, or German measles, epidemic helped legalize abortion in the US\nCNN \u00a0\u2014\u00a0\nMore than half a century before the Zika virus grabbed international headlines and photos of newborns with abnormally small heads were splashed across our screens, a different outbreak that affected pregnancies fueled change in the United States.\nIt was an epidemic that predated the birth of Florida Sen. Marco Rubio, who  when he said pregnant women infected with the Zika virus should not have the right to an abortion, even if there\u2019s a significant chance their babies will be born with microcephaly.\nIt was an epidemic that helped legalize abortion, the very right Rubio fights against.\nAd Feedback\n Related article Facing Zika fears: Raising kids with microcephaly]\nRubella, or German measles, hit American soil with a vengeance between 1963 and 1965. An estimated 12.5 million people were infected, . Though symptoms were generally minor \u2013 a fever and rash \u2013 pregnant women who contracted the virus faced a harsh reality. If their babies survived, there was a chance they would be born with profound birth defects, including blindness, deafness, heart abnormalities and serious intellectual disabilities.\nPrevious scares from infectious diseases in the United States had been largely relegated to the poor and those living in tenements, historian Leslie J. Reagan wrote in her 2010 book, \u201cDangerous Pregnancies.\u201d But this epidemic respected no boundaries and threw white middle-class married mothers...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "CNN is one of the leading news organizations in the United States, known for its extensive coverage of national and international events. It employs a significant editorial process to fact-check its news articles. While it has faced criticism over perceived biases, it generally maintains a high standard of professionalism. CNN has an established fact-checking team and often provides detailed analysis and context to the stories it covers, making it a relatively credible source for obtaining accurate information."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-08-09"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This article discusses Rubio's stance on abortion in the context of women infected with the Zika virus, emphasizing that he believes they should not have the right to an abortion despite the potential for severe birth defects. However, it does not explicitly mention religious language or tie his views directly to religious beliefs, which is central to the current question."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "2016 presidential candidates on the Zika virus - Ballotpedia",
+                "htmlTitle": "2016 presidential candidates on the <b>Zika virus</b> - Ballotpedia",
+                "link": "https://ballotpedia.org/2016_presidential_candidates_on_the_Zika_virus",
+                "displayLink": "ballotpedia.org",
+                "snippet": "Jill Stein supported using non-toxic means to combat the Zika virus. Ballotpedia was in 2016 unaware of any public statements on the Zika virus made by Gary\u00a0...",
+                "htmlSnippet": "Jill Stein supported using non-toxic means to combat the <b>Zika virus</b>. Ballotpedia was in 2016 unaware of any public <b>statements</b> on the <b>Zika virus</b> made by Gary&nbsp;...",
+                "formattedUrl": "https://ballotpedia.org/2016_presidential_candidates_on_the_Zika_virus",
+                "htmlFormattedUrl": "https://ballotpedia.org/2016_presidential_candidates_on_the_<b>Zika</b>_<b>virus</b>",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrCjsPTH6cC8dZPs4ZOuRYzxGRB3mRGRgguGuHyrGcqpgDxdpKTCT7QuqX&s",
+                            "width": "200",
+                            "height": "200"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter:card": "summary",
+                            "twitter:title": "2016 presidential candidates on the Zika virus - Ballotpedia",
+                            "og:type": "article",
+                            "twitter:site": "@ballotpedia",
+                            "og:site_name": "Ballotpedia",
+                            "viewport": "width=1000",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:title": "2016 presidential candidates on the Zika virus",
+                            "og:locale": "en_US",
+                            "content-type": "text/html; charset=UTF-8",
+                            "og:url": "https://ballotpedia.org/2016_presidential_candidates_on_the_Zika_virus",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ballotpedia.s3.amazonaws.com/images/thumb/6/65/Presidential_Elections-2016-badge.png/200px-Presidential_Elections-2016-badge.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... today\u2019s medicine look primitive. Modern miracles involving genetics, the immune system, cures for deadly diseases, and more are in the research pipeline. This is the consequence of marrying significant investment, both public and private, with the world\u2019s best talent, a formula that has for a century given the American people the world\u2019s best healthcare. We are determined that it should continue to do so, especially as we confront new dangers like Ebola, Zika, Chikungunya, and antibiotic resistant pathogens.\n\nTo continue our headway against breast and prostate cancer, diabetes, and other killers, research must consider the needs of formerly neglected demographic groups. We call for expanded support for the stem cell research that now offers the greatest hope for many afflictions \u2014 through adult stem cells, umbilical cord blood, and cells reprogrammed into pluripotent stem cells \u2014 without the destruction of embryonic human life. We urge a ban on human cloning for research or reproduction, and a ban on the creation of, or experimentation on, human embryos for research. We applaud Congress\u2019 ban on the FDA approval of research involving three-parent embryos. We believe the FDA\u2019s approval of Mifeprex, a dangerous abortifacient formerly known as RU-486, threatens women\u2019s health, as does the agency\u2019s endorsement of over-the-counter sales of powerful contraceptives without a physician\u2019s recommendation. We support cutting federal and state funding for entities that endanger women\u2019s health by performing abortions in a manner inconsistent with federal or state law.\"[9]\n\nThe 2016 Green Party Platform does not mention the Zika virus.[14]\n\nThe 2016 Libertarian Party Platform does not mention the Zika virus.[15]\n\nThe link below is to the most recent stories in a Google news search for the terms 2016\u00a0presidential\u00a0candidates\u00a0on\u00a0the\u00a0Zika\u00a0virus. These results are automatically generated from Google. Ballotpedia does not curate or endorse these articles.\n\n2016 presidential candidates on the Zika virus - Google News\n\n\n\n\nPost-debate analysis overview\nDemocratic: April 14, 2016 (CNN) \u2022 March 9, 2016 (Univision) \u2022 March 6, 2016 (CNN) \u2022 February 11, 2016 (PBS) \u2022 February 4, 2016 (MSNBC) \u2022 January 17, 2016 (NBC) \u2022 December 19, 2015 (ABC) \u2022 November 14, 2015 (CBS) \u2022 October 13, 2015 (CNN)\nRepublican: March 10, 2016 (CNN) \u2022 March 3, 2016 (FNC) \u2022 February 25, 2016 (CNN) \u2022 February 13, 2016 (CBS...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Ballotpedia is a comprehensive resource for information about elections, candidates, and political issues in the United States. It is known for its thorough research and neutral presentation of information. The site aims to provide nonpartisan facts and data about the electoral process, making it an invaluable resource for understanding political contexts. Its emphasis on factual reporting and transparency elevates its reliability, earning it a high score."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This source provides information on various candidates' positions on the Zika virus, but does not specifically address Marco Rubio's language or religious framing in his abortion stance regarding Zika-related birth defects. It does not contribute significantly to understanding whether Rubio used religious language."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Marco Rubio - Wikipedia",
+                "htmlTitle": "Marco <b>Rubio</b> - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Marco_Rubio",
+                "displayLink": "en.wikipedia.org",
+                "snippet": "He suspended his campaign for the presidency on March 15, 2016, after losing to Donald Trump in the Florida Republican primary. He then ran for reelection to\u00a0...",
+                "htmlSnippet": "He suspended his campaign for the presidency on March 15, 2016, after losing to Donald Trump <b>in the</b> Florida Republican primary. He then ran for reelection to&nbsp;...",
+                "formattedUrl": "https://en.wikipedia.org/wiki/Marco_Rubio",
+                "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Marco_<b>Rubio</b>",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "url_text": "Senate website",
+                            "bday": "1971-05-28",
+                            "fn": "Marco Rubio",
+                            "nickname": "Marco Antonio Rubio",
+                            "url": "Senate website"
+                        },
+                        {
+                            "fn": "Marco Rubio"
+                        },
+                        {
+                            "fn": "William Kogut"
+                        },
+                        {
+                            "fn": "William Escoffery"
+                        },
+                        {
+                            "fn": "Marco Rubio"
+                        },
+                        {
+                            "fn": "Charlie Crist"
+                        },
+                        {
+                            "fn": "Kendrick Meek"
+                        },
+                        {
+                            "fn": "Alexander Snitker"
+                        },
+                        {
+                            "fn": "Sue Askeland"
+                        },
+                        {
+                            "fn": "Rick Tyler"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "org": "Republican"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "referrer": "origin",
+                            "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Senator_Rubio_official_portrait.jpg/1200px-Senator_Rubio_official_portrait.jpg",
+                            "theme-color": "#eaecf0",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "og:title": "Marco Rubio - Wikipedia",
+                            "og:image:height": "1500",
+                            "format-detection": "telephone=no"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\n\nMarco Antonio Rubio (/\u02c8ru\u02d0bio\u028a/; born May 28, 1971) is an American politician and lawyer serving as the senior United States senator from Florida, a seat he has held since 2011. A member of the Republican Party, he served as Speaker of the Florida House of Representatives from 2006 to 2008. Rubio unsuccessfully sought the Republican nomination for President of the United States in 2016, but won presidential primaries in Minnesota, the District of Columbia, and Puerto Rico.\n\nRubio is a Cuban American from Miami, Florida. After serving as a city commissioner for West Miami in the 1990s, he was elected to represent the 111th district in the Florida House of Representatives in 2000. Subsequently, he was elected speaker of the Florida House; he served for two years beginning in November 2006. Upon leaving the Florida legislature in 2008 due to term limits, Rubio taught at Florida International University.\n\nIn a three-way race, Rubio was elected to the U.S. Senate in 2010. In April 2015, he launched a presidential bid instead of seeking reelection. He suspended his campaign for the presidency on March 15, 2016, after losing to Donald Trump in the Florida Republican primary. He then ran for reelection to the Senate and won a second term. Despite his criticism of Trump during the 2016 Republican presidential primaries, Rubio endorsed him before the 2016 general election and was largely supportive of his presidency. Due to his influence on U.S. policy on Latin America during the Trump administration, he was described as a \"virtual secretary of state for Latin America\".[1] Rubio became Florida's senior senator in January 2019, following the defeat of former Senator Bill Nelson, and was reelected to a third term in 2022, defeating Democratic nominee Val Demings. Rubio endorsed Trump for president in 2024 days before the Iowa caucuses.\n\nMarco Antonio Rubio was born in Miami, Florida,[2] the second son and third child of Mario Rubio Reina[3] and Oriales (n\u00e9e Garcia) Rubio. His parents were Cubans who immigrated to the United States in 1956 during the regime of Fulgencio Batista, two and a half years before Fidel Castro asc...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Wikipedia is a widely used reference resource that is collaboratively edited by volunteers. While it is often viewed as a starting point for research, the quality of its articles can vary significantly depending on the topic and the expertise of the contributors. However, Wikipedia typically includes citations to authoritative sources and emphasizes verifiability in its content guidelines. Despite its potential to be edited by anyone, its system of checks and balances helps maintain a reasonable level of accuracy."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-03-15"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "The Wikipedia page on Marco Rubio provides a general overview of his political background and positions. While it includes information about his pro-life stance, it does not delve into specific statements or the use of religious language in relation to Zika-linked issues, making it somewhat irrelevant to the question."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "News - CGE",
+                "htmlTitle": "News - CGE",
+                "link": "https://www.nyc.gov/site/genderequity/news/news.page",
+                "displayLink": "www.nyc.gov",
+                "snippet": "Statement from Deputy Mayor Palacio on Senator Rubio's Zika Comments August 8, 2016. Read the Press Release. Mayor de Blasio Signs Legislation Increasing\u00a0...",
+                "htmlSnippet": "<b>Statement</b> from Deputy Mayor Palacio on Senator <b>Rubio&#39;s Zika</b> Comments August 8, 2016. Read the Press Release. Mayor de Blasio Signs Legislation Increasing&nbsp;...",
+                "formattedUrl": "https://www.nyc.gov/site/genderequity/news/news.page",
+                "htmlFormattedUrl": "https://www.nyc.gov/site/genderequity/news/news.page",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTICBISMSoiBKnvmB1RBnpQxvWufIPJnIe03Hk2aOWytrFnT0i2icMsZsyc&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0",
+                            "google-translate-customization": "4707bd7f535893a0-45bca7b6a97e5a2d-g609df9381571b349-c"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.nyc.gov/assets/genderequity/images/content/gender_equity_signing.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\nNew York City and San Francisco File Amicus Brief with Supreme Court Supporting Education Equality For Transgender Students March 2, 2017Read the press release\nMayor de Blasio Announces New Partnership to Boost Contracting Opportunities for Minority and Women-Owned Business Enterprise Firms February 7, 2017Read the press release\nFirst Lady Chirlane McCray and Police Commissioner James P. O'Neill Announce Expanded Resources to Combat Sex Trafficking February 1, 2017Read the press release\nCity Reminds Eligible New Yorkers of Free Tax Prep Locations and To Claim EITC January 30, 2017Read the press release\nMinority and Women-Owned Business Enterprise Firms Win Bids to Build Hundreds of Affordable Homes at Six City-Owned Sites January 13, 2017Read the press release\nNYC Women's Entrepreneurship Program Reaches Nearly 1,500 Women with Mentoring, Training and Other Resources Over First Year December 14, 2016Read the press release\nMayor de Blasio Appoints New Commissioners to Commission on Gender Equity December 2, 2016Read the press release\nMayor de Blasio Launches Domestic Violence Task Force To Hold Abusers Accountable And Provide Pathways To Safety For Survivors: November 18, 2016 Read the press release\nMayor de Blasio Signs Executive Order Banning City Agencies from Inquiring About Salary History of Job Applicants: November 4, 2016 Read the press release\nCity Hall, NYPD Annouce Slate of Policies to Reduce Barriers to Safety Faced by Victims of Domestic Violence October  26, 2016  Read the press release\nNew York City Receives True Perfect Score for LGBT Inclusivity by Human Rights Campaign 5th Year in a Row October  17, 2016 Read the press release\nMayor de Blasio Announces Bold New Vision for the City's M/WBE Program September  28, 2016  Read the press release\nNew York City Launches Groundbreaking Series of Initiatives Targeting Underrepresentation of Women in the FIlm and Television Industry October  3, 2016 Learn more\nMayor de Blasio Signs Legislation Expanding Administration's Labor Policy Efforts to Continue Supporting Caregivers August 31, 2016 Read the Press Release\nMayor de Blasio Signs Legislation Requiring City Agencies to Make a Lactation Room Available to Members of the Public August 11, 2016  Read the Press Release\nDelivering For Public Housing: Mayor de Blasio Announces Completion of 358 New Safety Lights and Expanded Programs to Reduce Crime at Staten Island's Stapleton Houses August 4, 2016  Read the Press Release\nStatement from Deputy Mayor Palacio on Senator Rubio's Zika Comments August 8, 2016  Read the Press Release\nMayor de Blasio Signs Legislation Increasing Access to Feminine Hygiene Products for Students, Shelter Residents and Inmates July 13, 2016 Read the Press Release\nMayor de Blasio Launches Digital Business Resource Portal for Women Entrepreneurs July 5, 2016 Read the Press Release\nMayor de Blasio Successfully Pushes U.S. Conference of Mayors to Adopt Resolution to Support U.S. Senator Gillibrand's Family Act June 30, 2016 Read the Press Release\nThis Is Officially The Best City in the World For Women Entrepreneurs June 22, 2016 Read the article\nDelivering for Public Housing: Mayor de Blasio Announces Completion of 305 New Safety Lights and Expanded Programs to Reduce Crime at Brooklyn's Bushwick Houses June 15, 2016 Read the Press Release\nAzadeh Khalili, Executive Director of the Commission on Gender Equity,  testified before the City Council  in support of a number of bills to make feminine hygiene products available and free in New York City schools...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The official website of New York City provides reliable information about city services, agencies, and initiatives. Being a government entity, it typically maintains rigorous standards for accuracy and transparency. Information presented on this website is usually verified and reflects official policy, making it a highly credible source for residents and policy researchers alike."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-08-08"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This statement discusses the political context around Zika but does not address Rubio's language or justification for his anti-abortion stance, particularly in a religious context. Thus, it is not particularly relevant to the question at hand."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "The CBS News Republican debate transcript, annotated - The ...",
+                "htmlTitle": "The CBS News Republican debate transcript, annotated - The ...",
+                "link": "https://www.washingtonpost.com/news/the-fix/wp/2016/02/13/the-cbs-republican-debate-transcript-annotated/",
+                "displayLink": "www.washingtonpost.com",
+                "snippet": "Feb 13, 2016 ... Trump, I want to start with you. You've said that the President shouldn't nominate anyone in the rest of his term to replace Justice Scalia. If\u00a0...",
+                "htmlSnippet": "Feb 13, 2016 <b>...</b> Trump, I want to start with you. You&#39;ve said that the President shouldn&#39;t nominate anyone <b>in the</b> rest of his term to replace Justice Scalia. If&nbsp;...",
+                "formattedUrl": "https://www.washingtonpost.com/.../the-cbs-republican-debate-transcript-an...",
+                "htmlFormattedUrl": "https://www.washingtonpost.com/.../the-cbs-republican-debate-transcript-an...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA5a3hkj2-aKoWRoICg6tjb-7wyTTAYpWJuUNRpZfcjQzwvEVsKHSVvKg5&s",
+                            "width": "277",
+                            "height": "182"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter_description": "Washington Post reporters offer insight and analysis on what the candidates said at the CBS News Republican debate in South Carolina.",
+                            "article_modified_time": "2021-11-25T19:44:31.201Z",
+                            "og:image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/blogs/the-fix/files/2016/02/AFP_7X2QW.jpg&w=1440",
+                            "apple-itunes-app": "app-id=352509417, app-argument=https://www.washingtonpost.com/news/the-fix/wp/2016/02/13/the-cbs-republican-debate-transcript-annotated/?sourceApp=apple-banner",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2016-02-14T04:27:37.000Z",
+                            "og:site_name": "Washington Post",
+                            "og_title": "The CBS News Republican debate transcript, annotated",
+                            "og_type": "article",
+                            "og_url": "https://www.washingtonpost.com/news/the-fix/wp/2016/02/13/the-cbs-republican-debate-transcript-annotated/",
+                            "og:description": "Washington Post reporters offer insight and analysis on what the candidates said at the CBS News Republican debate in South Carolina.",
+                            "article_published_time": "2016-02-14T04:27:37.000Z",
+                            "next-head-count": "85",
+                            "article_section": "The Fix",
+                            "twitter:site": "@WashingtonPost",
+                            "article:modified_time": "2021-11-25T19:44:31.201Z",
+                            "twitter_site": "@WashingtonPost",
+                            "og_description": "Washington Post reporters offer insight and analysis on what the candidates said at the CBS News Republican debate in South Carolina.",
+                            "article:content_tier": "metered",
+                            "twitter_title": "The CBS News Republican debate transcript, annotated",
+                            "last_updated_date": "2021-11-25T19:44:31.201Z",
+                            "og:type": "article",
+                            "twitter:title": "The CBS News Republican debate transcript, annotated",
+                            "article:section": "The Fix",
+                            "og_site_name": "Washington Post",
+                            "twitter_card": "summary_large_image",
+                            "og:title": "The CBS News Republican debate transcript, annotated",
+                            "og_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/blogs/the-fix/files/2016/02/AFP_7X2QW.jpg&w=1440",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Washington Post reporters offer insight and analysis on what the candidates said at the CBS News Republican debate in South Carolina.",
+                            "article_content_tier": "metered",
+                            "og:url": "https://www.washingtonpost.com/news/the-fix/wp/2016/02/13/the-cbs-republican-debate-transcript-annotated/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/blogs/the-fix/files/2016/02/AFP_7X2QW.jpg&w=1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... talk to the candidates about Justice Scalia and the road ahead when the debate begins in a moment.\n(COMMERCIAL BREAK)\nDICKERSON: Before we get started, candidates, here are the rules. When we ask you a question you will have on minute to answer, and 30 seconds more if we ask a follow-up. If you're attacked by another candidate you get 30 seconds to respond.\nAnd, here's how we keep time. After we ask a question, you'll get a green light. The yellow light means you have 30 seconds left to finish you answer, and when time is up, the light turns red. That means please stop talking. If you keep talking you'll hear this.\n(BELL RINGING)\nYou don't want to hear that. Joining me in the questioning tonight, my CBS News colleague, Chief White House correspondent, Major Garrett, and Kimberly Strassel who is on the editorial board of the Wall Street Journal.\nAnd, you can participate in the debate to through our partnership with Twitter. Tweet us your questions and comments using the hashtag, \"#GOPDebate\".\nSo, let's begin.\nFirst, the death of Justice Scalia, and the vacancy that leaves on the Supreme Court. Mr. Trump, I want to start with you. You've said that the President shouldn't nominate anyone in the rest of his term to replace Justice Scalia. If you were President, and had a chance with 11 months left to go in your term, wouldn't it be an abdication to conservatives in particular, not to name a conservative justice with the rest of your term?\nTRUMP: Well, I can say this. If the President, and if I were President now I would certainly want to try and nominate a justice. I'm sure that, frankly, I'm absolutely sure that President Obama will try and do it. I hope that our Senate is going to be able -- Mitch, and the entire group, is going to be able to do something about it.\nIn times of delay, we could have a Diane Sykes, or you could have a Bill Pryor, we have some fantastic people. But this is a tremendous blow to conservatism. It's a tremendous blow, frankly to our country.\nDICKERSON: So, just to be clear on this Mr. Trump, you're OK with the President nominating somebody... TRUMP: ... I think he's going to do it whether or I'm OK with it or not. I think it's up to Mitch McConnell, and everybody else to stop it...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Washington Post is one of the leading newspapers in the United States, known for its investigative journalism and comprehensive coverage of political issues. It has a strong editorial team and employs fact-checkers to uphold journalistic standards. While it, like many news organizations, may be perceived as having a particular editorial bias, it generally reports on important issues with a focus on accuracy and thoroughness."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-02-13"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "While this source is an annotated transcript of a Republican debate that may mention abortion, it does not provide specifics about Rubio's use of religious language or his justification regarding Zika-related birth defects specifically. It is valuable for context but not directly relevant to the question."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Texas Weekly | Texas Weekly Vol: 33 Issue: 6 | The Texas Tribune",
+                "htmlTitle": "Texas Weekly | Texas Weekly Vol: 33 Issue: 6 | The Texas Tribune",
+                "link": "https://www.texastribune.org/texas-weekly/vol-33/no-6/",
+                "displayLink": "www.texastribune.org",
+                "snippet": "Feb 11, 2016 ... Also, Rubio plans a fundraiser in Houston and Hillary Clinton draws a nod from the largest Latino political group in Texas. Full Story \u00b7 State\u00a0...",
+                "htmlSnippet": "Feb 11, 2016 <b>...</b> Also, <b>Rubio</b> plans a fundraiser in Houston and Hillary Clinton draws a nod from the largest Latino political group in Texas. Full Story &middot; State&nbsp;...",
+                "formattedUrl": "https://www.texastribune.org/texas-weekly/vol-33/no-6/",
+                "htmlFormattedUrl": "https://www.texastribune.org/texas-weekly/vol-33/no-6/",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "fn": "Texas Weekly"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTlItiU_URFjZ4hONQXp3Yj_dcg7oVXijO1UJRP2NeRcr36Lp9DxHUupg&s",
+                            "width": "260",
+                            "height": "173"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "p:domain_verify": "1a464e3e99298d39e0cdaaeeb2c10dfd",
+                            "copyright": "\u00a9 The Texas Tribune",
+                            "audience": "All",
+                            "og:site_name": "The Texas Tribune",
+                            "msvalidate.01": "DB22C31255557D1E219990CA92192CBB",
+                            "author": "The Texas Tribune",
+                            "language": "EN",
+                            "medium": "news",
+                            "distribution": "global",
+                            "y_key": "36169ff9ee60f3ab",
+                            "fb:pages": "124434790836",
+                            "fb:app_id": "154122474650943",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "apple-mobile-web-app-capable": "yes",
+                            "publisher": "The Texas Tribune",
+                            "og:url": "https://www.texastribune.org/texas-weekly/vol-33/no-6/",
+                            "siteinfo": "http://www.texastribune.org/robots.txt",
+                            "apple-touch-fullscreen": "yes"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.texastribune.org/media/images/2016/01/07/Untitled-1_jpg_260x1000_q100.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...on Martinez** and **Lance Christian** say they would support a proposal barring commissioners from accepting political donations from parties doing business before the commission.\nA federal judge has once again denied Texas Attorney General Ken Paxton's efforts to keep the federal government from resettling Syrian refugees in the state.\nThe Texas Board of Disciplinary Appeals Monday upheld the disbarment of former Burleson County District Attorney **Charles Sebesta Jr.** for professional misconduct in the capital murder case of **Anthony Graves**.\nUnprompted and in the final days of his New Hampshire primary campaign, U.S. Sen. Ted Cruz said it was \u201cnuts\u201d to draft women into military combat.\n**Sandra Bland's** mother, **Geneva Reed-Veal**, has added 10 Waller County officials in a federal lawsuit over her daughter's 2015 death in the Waller County Jail. Reed-Veal originally sued the Texas Department of Public Safety trooper who arrested Bland, his agency, Waller County and two of its jailers. A preliminary hearing in the case is set for Feb. 18 in a Houston federal court.\nU.S. Sen. Ted Cruz apologized to Republican rival\u00a0**Ben Carson**\u00a0for a second time at Saturday night's GOP debate for what Carson has described as \"dirty tricks\" during last week's Iowa caucuses. Carson dismissed Cruz's explanation as \"Washington ethics.\"\nBoth Cruz and Rubio have appearances planned in the Houston area for the day before the Feb. 25 presidential debate. Rubio has a fundraiser scheduled while Cruz will address the Harris County GOP Lincoln-Reagan dinner.\n_Disclosure: _Texas A&M University, t__he University of Texas at Austin__\u00a0are corporate sponsors of The Texas Tribune.\u00a0_T_he University of Houston was a corporate sponsor of the Tribune in 2013.___\u00a0Oncor was a corporate sponsor in 2012.\u00a0_A complete list of Tribune donors and sponsors can be viewed\u00a0.__\n---------------------------------------------------------------------------------------------------------\nTexans for Fiscal Responsibility announced on Monday its endorsement of\u00a0**Ted Cruz**\u00a0for president.\nOne of the Republican challengers to House Rules Chairman\u00a0**Pete Sessions**, R-Dallas, in the CD-32 primary election is touting a big get from grassroots conservative group Citizens United. The group\u2019s affiliated PAC announced its endorsement of\u00a0**Russ Ramsland**\u00a0and gave $2,500 to the challenger\u2019s campaign.\nGOP Railroad Commission candidate **John Greytok**\u00a0announced late last week that he has the backing of **Rhonda Lacy**, a conservative activist...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Texas Tribune is a nonprofit news organization that focuses on Texas politics, public policy, and state issues. It is known for its commitment to nonprofit journalism and provides in-depth investigation and analysis of local affairs. The organization has established itself as a trustworthy source for information relevant to Texas residents, and its reporting is generally well-researched and fact-checked."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-02-11"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "This evidence gives general information about political events but does not focus on Rubio's abortion views or his language related to Zika. As such, it offers minimal assistance in answering the current question."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "The latest: Candidates spar during GOP debate in New Hampshire ...",
+                "htmlTitle": "The latest: Candidates spar during GOP debate in New Hampshire ...",
+                "link": "https://www.pbs.org/newshour/politics/candidates-take-stage-for-gop-debate-in-new-hampshire",
+                "displayLink": "www.pbs.org",
+                "snippet": "Feb 6, 2016 ... Jeb Bush wants Republican presidential primary voters to think of him as \u201cthe most pro-life person\u201d on the GOP debate stage. Marco Rubio and\u00a0...",
+                "htmlSnippet": "Feb 6, 2016 <b>...</b> Jeb Bush wants Republican presidential primary voters to think of him as \u201cthe most pro-life person\u201d on the GOP debate stage. Marco <b>Rubio</b> and&nbsp;...",
+                "formattedUrl": "https://www.pbs.org/.../candidates-take-stage-for-gop-debate-in-new-hamps...",
+                "htmlFormattedUrl": "https://www.pbs.org/.../candidates-take-stage-for-gop-debate-in-new-hamps...",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "fn": "Associated Press"
+                        },
+                        {
+                            "fn": "Michael D. Regan"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq4mlJWfvllJihILFNCOyrbJHuSNKhOVuynS-wDuye_cvMpw7zK8y8IxE8&s",
+                            "width": "284",
+                            "height": "178"
+                        }
+                    ],
+                    "newsmediaorganization": [
+                        {
+                            "name": "PBS News"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "width": "600",
+                            "url": "https://d3i6fh83elv35t.cloudfront.net/static/assets/images/pbsnews-logo-600w.png",
+                            "height": "130"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "Associated Press"
+                        },
+                        {
+                            "name": "Michael D. Regan"
+                        },
+                        {
+                            "name": "Associated Press"
+                        },
+                        {
+                            "name": "Michael D. Regan"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2016/02/GettyImages-508799108-1-1024x641.jpg",
+                            "msapplication-config": "https://d3i6fh83elv35t.cloudfront.net/static/assets/images/favicon/2024/browserconfig.xml",
+                            "og:type": "article",
+                            "og:image:width": "1024",
+                            "article:published_time": "2016-02-06T20:47:34-04:00",
+                            "article:section": "Politics",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "The latest: Candidates spar during GOP debate in New Hampshire",
+                            "theme-color": "#ffffff",
+                            "og:site_name": "PBS News",
+                            "og:title": "The latest: Candidates spar during GOP debate in New Hampshire",
+                            "og:image:height": "641",
+                            "og:description": "The candidates come out swinging as the eighth Republican debate kicks off in New Hampshire.",
+                            "fb:pages": "6491828674",
+                            "article:publisher": "https://www.facebook.com/newshour/",
+                            "twitter:image": "https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2016/02/GettyImages-508799108-1-1024x641.jpg",
+                            "article:tag": "donald trump news, marco rubio, republican debate, ted cruz, vote 2016",
+                            "fb:app_id": "114150878604116",
+                            "twitter:site": "@newshour",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "news_keywords": "donald trump news, marco rubio, republican debate, ted cruz, vote 2016, politics",
+                            "twitter:description": "The candidates come out swinging as the eighth Republican debate kicks off in New Hampshire.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.pbs.org/newshour/politics/candidates-take-stage-for-gop-debate-in-new-hampshire"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2016/02/GettyImages-508799108-1-1024x641.jpg"
+                        }
+                    ],
+                    "newsarticle": [
+                        {
+                            "image": "https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2016/02/GettyImages-508799108-1-1024x641.jpg",
+                            "articlebody": "MANCHESTER, N.H. \u2014 The Latest on the race for president, with candidates focusing on New Hampshire, which holds the first primary in the 2016 race on Tuesday (all times local): 10:40 p.m....",
+                            "datemodified": "2016-02-06T20:47:34-04:00",
+                            "articlesection": "Politics",
+                            "headline": "The latest: Candidates spar during GOP debate in New Hampshire",
+                            "datepublished": "2016-02-06T20:47:34-04:00",
+                            "thumbnailurl": "https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2016/02/GettyImages-508799108-1-1024x641.jpg",
+                            "mainentityofpage": "true"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... has campaigned in the state for combined 70 days.\nTed Cruz is trumpeting his Iowa caucus victory in his closing statement in the New Hampshire presidential debate.\nCandidates gave their closing arguments at the eighth Republican debate to New Hampshire voters ahead of the state\u2019s Feb. 9 primary.\nMarco Rubio says he can unite the Republican Party, \u201cgrow the conservative movement\u201d and defeat Democrat Hillary Clinton.\nDonald Trump\u2019s closing pitch to New Hampshire voters is familiar: Elect me, and we\u2019ll win.\nJeb Bush conjured the Republican Party\u2019s heralded late President Ronald Reagan, identifying with the \u201cGipper\u201d in his closing statement of the debate.\n10:38 p.m.\nThe picks are in: most Republicans running for president think the Carolina Panthers are going to win the Super Bowl.\nFour of the seven candidates in Saturday\u2019s debate predicted a Carolina victory over the Denver Broncos on Sunday. Ben Carson didn\u2019t make a prediction, instead joking that \u201cit will be either Denver or Carolina.\u201d\nTexas Sen. Ted Cruz was the most honest in his pandering, saying \u201cWith an eye to Feb. 20, Carolina.\u201d That is the day of the South Carolina primary.\nNew Jersey Gov. Chris Christie and former Florida Gov. Jeb Bush are picking Denver. Bush says he is taking Denver because the team\u2019s quarterback, Peyton Manning, is supporting his candidacy.\n10:35 p.m.\nJeb Bush wants Republican presidential primary voters to think of him as \u201cthe most pro-life person\u201d on the GOP debate stage.\nMarco Rubio and Chris Christie want to turn the issue against the Democratic Party during the Republican presidential primary debate in New Hampshire.\nRubio and Christie both say Democrats are \u201cextremists\u201d on the issue, not Republicans.\nThere are some slight distinctions among Republicans on what exceptions candidates would prefer in any abortion ban.\nAll three candidates who spoke on the matter said they would allow an abortion needed to save the life of a pregnant woman. Bush and Christie said they\u2019d both allow women to terminate pregnancies that result from rape or incest.\n10:20 p.m.\nJeb Bush, John Kasich and Marco Rubio rally around veterans, agreeing that returning soldiers should be able to go to any hospital or doctor to get medical treatment.\nThe three candidates believe that vets should have a range of healthcare choices.\nKasich says he would work with the Pentagon to get veterans jobs upon leaving the military.\nHe says \u201cthere should be no unemployment among veterans.\u201d\n\u00a0\n10:15 p.m.\nChris Christie says he\u2019d quarantine Americans returning from Brazil after the summer Olympics and otherwise to keep the country safe from the spread of the Zika virus.\n...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "PBS is a public broadcasting service that produces educational and informational content. PBS is renowned for its commitment to factual reporting and educational programming. The organization is known for its rigorous standards in journalism, as well as its dedication to presenting balanced viewpoints, which contributes positively to its reliability and overall credibility."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-02-06"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This source provides context about the debate and mentions various candidates' positions on pro-life issues but does not specifically highlight any religious language used by Rubio concerning abortion and Zika. Therefore, its relevance is limited."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "MSNBC Site Map Articles 2016 February",
+                "htmlTitle": "MSNBC Site Map Articles 2016 February",
+                "link": "https://www.msnbc.com/archive/articles/2016/february",
+                "displayLink": "www.msnbc.com",
+                "snippet": "SITE MAParticles2016february. MSNBC articles 2016 february. articles. No, Marco Rubio is not advertising on TinderMonday's Mini-Report, 2.29.16Number of\u00a0...",
+                "htmlSnippet": "SITE MAParticles2016february. MSNBC articles 2016 february. articles. No, Marco <b>Rubio</b> is not advertising on TinderMonday&#39;s Mini-Report, 2.29.16Number of&nbsp;...",
+                "formattedUrl": "https://www.msnbc.com/archive/articles/2016/february",
+                "htmlFormattedUrl": "https://www.msnbc.com/archive/articles/2016/february",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "MSNBC Site Map Articles 2016 February\n===============\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nFeatured Shows\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nFollow msnbc\n*   \n*   \n*   \n*   \nMore\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nWeekday Shows\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nWeekend Shows\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n\u00a9 2024 NBCNEWS.COM\nMSNBC articles 2016 february\n============================\narticles\n--------\n* * *\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n\u00a9\u00a02024 NBC UNIVERSAL",
+                    "content_tokens": 217
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "MSNBC is a news outlet that has a notable reputation for its progressive viewpoints. While it provides comprehensive news coverage, it can sometimes exhibit bias towards a particular political ideology. It does employ fact-checkers and usually bases reporting on solid sources, but due to perceptions of partiality, it receives a slightly lower score relative to some of the other outlets."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This is a general site map for articles in February 2016 and does not provide specific information pertinent to Rubio's statements on abortion or any religious justifications. Hence, it is not relevant to the current inquiry."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "House Committee Reports | Congress.gov | Library of Congress",
+                "htmlTitle": "House Committee Reports | Congress.gov | Library of Congress",
+                "link": "https://www.congress.gov/house-reports/114th-congress",
+                "displayLink": "www.congress.gov",
+                "snippet": "... ZIKA VIRUS, AND FOR OTHER PURPOSES; AND FOR OTHER PURPOSES, H.Res. 736 \u00b7 H. Rept. 114-571, PROVIDING FOR FURTHER CONSIDERATION OF THE BILL (H.R. 4909) TO\u00a0...",
+                "htmlSnippet": "... <b>ZIKA VIRUS</b>, AND FOR OTHER PURPOSES; AND FOR OTHER PURPOSES, H.Res. 736 &middot; H. Rept. 114-571, PROVIDING FOR FURTHER CONSIDERATION OF THE BILL (H.R. 4909) TO&nbsp;...",
+                "formattedUrl": "https://www.congress.gov/house-reports/114th-congress",
+                "htmlFormattedUrl": "https://www.congress.gov/house-reports/114th-congress",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvf77cCsGgrae9jy5WU0Gxo7NtvKOaxuMhg2aY1P8jQTmTDhDtRt1tong&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.congress.gov/img/opengraph1200by630.jpg",
+                            "og:type": "website",
+                            "dc.type": "legislation",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "og:title": "House Committee Reports",
+                            "dc.rights": "Text is government work",
+                            "dc.title": "House Committee Reports",
+                            "dc.identifier": "https://www.congress.gov/house-reports/114th-congress",
+                            "dc.subject": "Legislative Data",
+                            "dc.language": "eng",
+                            "og:url": "https://www.congress.gov/house-reports/114th-congress",
+                            "og:description": "Browse House Committee Reports by number on Congress.gov."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.congress.gov/img/opengraph1200by630.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...COMMENDING THAT THE HOUSE OF REPRESENTATIVES FIND BRYAN PAGLIANO IN CONTEMPT OF CONGRESS FOR REFUSAL TO COMPLY WITH A SUBPOENA DULY ISSUED BY THE COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM \u00a0  PROVIDING FOR CONSIDERATION OF THE BILL (H.R. 954) TO AMEND THE INTERNAL REVENUE CODE OF 1986 TO EXEMPT FROM THE INDIVIDUAL MANDATE CERTAIN INDIVIDUALS WHO HAD COVERAGE UNDER A TERMINATED QUALIFIED HEALTH PLAN FUNDED THROUGH THE CONSUMER OPERATED AND ORIENTED PLAN (CO- OP) PROGRAM   PROVIDING FOR CONSIDERATION OF THE BILL (H.R. 5303) TO PROVIDE FOR IMPROVEMENTS TO THE RIVERS AND HARBORS OF THE UNITED STATES, TO PROVIDE FOR THE CONSERVATION AND DEVELOPMENT OF WATER AND RELATED RESOURCES, AND FOR OTHER PURPOSES; PROVIDING FOR CONSIDERATION OF MOTIONS TO SUSPEND THE RULES; AND WAIVING A REQUIREMENT OF CLAUSE 6(A) OF RULE XIII WITH RESPECT TO CONSIDERATION OF CERTAIN RESOLUTIONS REPORTED FROM THE COMMITTEE ON RULES   TO RESTRICT THE INCLUSION OF SOCIAL SECURITY ACCOUNT NUMBERS ON DOCUMENTS SENT BY MAIL BY THE FEDERAL GOVERNMENT, AND FOR OTHER PURPOSES   FIRST RESPONDER ACCESS TO INNOVATIVE TECHNOLOGIES ACT   DANGEROUS SYNTHETIC DRUG CONTROL ACT OF 2016   MENTAL HEALTH FIRST AID ACT OF 2016   WATER RESOURCES DEVELOPMENT ACT OF 2016   CO-OP CONSUMER PROTECTION ACT OF 2016   MODERNIZING GOVERNMENT TECHNOLOGY ACT OF 2016   MIDNIGHT RULES RELIEF ACT OF 2016   PROVIDING FOR CONSIDERATION OF THE BILL (H.R. 5931) TO PROVIDE FOR THE PROHIBITION ON CASH PAYMENTS TO THE GOVERNMENT OF IRAN, AND FOR OTHER PURPOSES, AND WAIVING A REQUIREMENT OF CLAUSE 6(a) OF RULE XIII WITH RESPECT TO CONSIDERATION OF CERTAIN RESOLUTIONS REPORTED FROM THE COMMITTEE ON RULES   MOBILE WORKFORCE STATE INCOME TAX SIMPLIFICATION ACT OF 2015   GAO CIVILIAN TASK AND DELIVERY ORDER PROTEST AUTHORITY ACT OF 2016   PROVIDING FOR CONSIDERATION OF THE BILL (H.R. 5461) TO REQUIRE THE SECRETARY OF THE TREASURY TO SUBMIT A REPORT TO THE APPROPRIATE CONGRESSIONAL COMMITTEES ON THE ESTIMATED TOTAL ASSETS UNDER DIRECT OR INDIRECT CONTROL BY CERTAIN SENIOR IRANIAN LEADERS...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Congress.gov is the official website for U.S. federal legislative information. Being a government website, it presents raw, factual data on legislative activities and documents associated with Congress. Its unbiased, official content makes it a highly credible source for legislative information, thus earning it a top-quality rating."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "The content is related to congressional reports and does not relate to Rubio's statements or the use of religious language in the context of Zika and abortion, making it irrelevant."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "2. Classification and Diagnosis of Diabetes: Standards of Medical ...",
+                "htmlTitle": "2. Classification and Diagnosis of Diabetes: Standards of Medical ...",
+                "link": "https://diabetesjournals.org/care/article/44/Supplement_1/S15/30859/2-Classification-and-Diagnosis-of-Diabetes",
+                "displayLink": "diabetesjournals.org",
+                "snippet": "Dec 4, 2020 ... For additional information, see the American Diabetes Association (ADA) position statement \u201cDiagnosis and Classification of Diabetes Mellitus\u201d (\u00a0...",
+                "htmlSnippet": "Dec 4, 2020 <b>...</b> For additional information, see the American Diabetes Association (ADA) position <b>statement</b> \u201cDiagnosis and Classification of Diabetes Mellitus\u201d (&nbsp;...",
+                "formattedUrl": "https://diabetesjournals.org/.../2-Classification-and-Diagnosis-of-Diabetes",
+                "htmlFormattedUrl": "https://diabetesjournals.org/.../2-Classification-and-Diagnosis-of-Diabetes",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "citation_publication_date": "2021/01/01",
+                            "theme-color": "#002f65",
+                            "citation_title": "2. Classification and Diagnosis of Diabetes: Standards of Medical Care in Diabetes\u20142021",
+                            "citation_journal_abbrev": "Diabetes Care",
+                            "citation_reference": "citation_title=Diagnosis and classification of diabetes mellitus; citation_author=American Diabetes Association;  citation_journal_title=Diabetes Care;  citation_year=2014;  citation_volume=37;  citation_pages=S81-S90;",
+                            "citation_publisher": "American Diabetes Association",
+                            "citation_journal_title": "Diabetes Care",
+                            "citation_author": "American Diabetes Association",
+                            "citation_keyword": "diabetes mellitus, type 1",
+                            "citation_issue": "Supplement_1",
+                            "citation_firstpage": "S15",
+                            "citation_issn": "0149-5992",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=10",
+                            "citation_doi": "10.2337/dc21-S002",
+                            "citation_volume": "44",
+                            "citation_lastpage": "S33",
+                            "format-detection": "telephone=no"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... the ADA Professional Practice Committee, a multidisciplinary expert committee (), are responsible for updating the Standards of Care annually, or more frequently as warranted. For a detailed description of ADA standards, statements, and reports, as well as the evidence-grading system for ADA's clinical practice recommendations, please refer to the Standards of Care Introduction (). Readers who wish to comment on the Standards of Care are invited to do so at .\nClassification\n--------------\nDiabetes can be classified into the following general categories:\n1.  Type 1 diabetes (due to autoimmune \u03b2-cell destruction, usually leading to absolute insulin deficiency, including latent autoimmune diabetes of adulthood)\n2.  Type 2 diabetes (due to a progressive loss of adequate \u03b2-cell insulin secretion frequently on the background of insulin resistance)\n3.  Specific types of diabetes due to other causes, e.g., monogenic diabetes syndromes (such as neonatal diabetes and maturity-onset diabetes of the young), diseases of the exocrine pancreas (such as cystic fibrosis and pancreatitis), and drug- or chemical-induced diabetes (such as with glucocorticoid use, in the treatment of HIV/AIDS, or after organ transplantation)\n4.  Gestational diabetes mellitus (diabetes diagnosed in the second or third trimester of pregnancy that was not clearly overt diabetes prior to gestation)\n_This section reviews most common forms of diabetes but is not comprehensive. For additional information, see the American Diabetes Association (ADA) position statement \u201cDiagnosis and Classification of Diabetes Mellitus\u201d_ (1).\nType 1 diabetes and type 2 diabetes are heterogeneous diseases in which clinical presentation and disease progression may vary considerably. Classification is important for determining therapy, but some individuals cannot be clearly classified as having type 1 or type 2 diabetes at the time of diagnosis. The traditional paradigms of type 2 diabetes occurring only in adults and type 1 diabetes only in children are no longer accurate, as both diseases occur in both age-groups. Children with type 1 diabetes typically present with the hallmark symptoms of polyuria/polydipsia, and approximately one-third present with diabetic ketoacidosis (DKA) (2). The onset of type 1 diabetes may be more variable in adults; they may not present with the classic symptoms seen in children and may experience temporary remission from the need for insulin (3\u20135). Occasionally, patients with type 2 diabetes may present with DKA (6), particularly ethnic and racial minorities (7). It is important for the provider to realize that classification of diabetes type is not always straightforward at presentation and that misdiagnosis is common...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "This site is a reputable journal that focuses on diabetes research and education. While its focus is more specialized than the general news outlets, it is peer-reviewed and offers a wealth of scientific information. The journal's editorial process ensures a high level of accuracy and reliability in the content it produces, making it credible for health-related inquiries."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2020-12-04"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This source is focused on diabetes and has no relevance to Marco Rubio's stance on abortion or any religious implications of his statements regarding Zika-related birth defects. It does not aid in answering the current question at all."
+                }
+            }
+        }
+    ]
+}

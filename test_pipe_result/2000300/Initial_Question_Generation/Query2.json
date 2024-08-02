@@ -1,0 +1,561 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - first person to climb the Bean Chicago",
+                "totalResults": "692000",
+                "searchTerms": "first person to climb the Bean Chicago",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - first person to climb the Bean Chicago",
+                "totalResults": "692000",
+                "searchTerms": "first person to climb the Bean Chicago",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.498912,
+        "formattedSearchTime": "0.50",
+        "totalResults": "692000",
+        "formattedTotalResults": "692,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "First person to climb the bean : r/chicago",
+                "htmlTitle": "<b>First person</b> to <b>climb</b> the <b>bean</b> : r/<b>chicago</b>",
+                "link": "https://www.reddit.com/r/chicago/comments/483uoc/first_person_to_climb_the_bean/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Feb 28, 2016 ... First person to climb the bean. Play. Archived post. New comments cannot be posted and votes cannot be cast. ... since literally no one else ...",
+                "htmlSnippet": "Feb 28, 2016 <b>...</b> <b>First person</b> to <b>climb</b> the <b>bean</b>. Play. Archived post. New comments cannot be posted and votes cannot be cast. ... since literally no one else&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/r/chicago/.../first_person_to_climb_the_bean/",
+                "htmlFormattedUrl": "https://www.reddit.com/r/<b>chicago</b>/.../<b>first</b>_<b>person_to_climb_the_bean</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU_QMaCd0IyehK51b03xMRbzMrQ5LSFGV2eVQ-LtM05T36f9ehB27prbg&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://external-preview.redd.it/dbnj94pqVMAc8no7GI2i99fqtge3mMNfwlgtIlTQ0ww.jpg?format=pjpg&auto=webp&s=2e900fdcb52537dc2c3d17b2086945751a3b8502",
+                            "theme-color": "#000000",
+                            "og:image:width": "480",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/chicago on Reddit: First person to climb the bean",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/chicago on Reddit: First person to climb the bean",
+                            "og:image:height": "360",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/alxjsn - No votes and 9 comments",
+                            "twitter:image": "https://external-preview.redd.it/dbnj94pqVMAc8no7GI2i99fqtge3mMNfwlgtIlTQ0ww.jpg?format=pjpg&auto=webp&s=2e900fdcb52537dc2c3d17b2086945751a3b8502",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/chicago/comments/483uoc/first_person_to_climb_the_bean/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://external-preview.redd.it/dbnj94pqVMAc8no7GI2i99fqtge3mMNfwlgtIlTQ0ww.jpg?format=pjpg&auto=webp&s=2e900fdcb52537dc2c3d17b2086945751a3b8502"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "First person to climb the bean : r/chicago\n===============\n First person to climb the bean : r/chicago\nOpen menu Open navigation  Go to Reddit Home\nr/chicago A chip A close button\nGet app Get the Reddit app  Log in to Reddit\nExpand user menu Open settings menu\n*   *   *   \n### Get the Reddit app\nScan this QR code to download the app now\nOr check it out in the app stores\nChicago, Illinois\n* * *\n563K Members 197 Online\n• 9 yr. ago\nADMIN MOD\nFirst person to climb the bean\n==============================\nArchived post. New comments cannot be posted and votes cannot be cast.\n • Promoted\nYou turned your side gig into your main hustle. Now, we’re here to help you ship with confidence—because we're all in for small business. Open a FedEx® business account today and save up to 40% on select shipping and surcharges.\nSign Up\nfedex.com\n!\nSort by:\nBest\nOpen comment sort options\n*   Best\n    *   Top\n    *   New\n    *   Controversial\n    *   Old\n    *   Q&A\n• \nLooks fake\nReply reply\n6 more replies\n6 more replies\n• \nThe interesting thing about this is- the reflection of the guy would not be visible to us from our vantage point.\nThe buildings behind him are evidence of that.\nReply reply\n• \nWhy would someone fake a video of themselves being a dumbass? Dumbass.\nReply reply\n**Top 1%** \nMore posts you may like\n-----------------------\nRelated       forward back\n*   \n    Chicago, Illinois\n    * * *\n    563K Members 197 Online\n    399 upvotes · 79 comments\n    * * *\n*   \n    Chicago, Illinois\n    * * *\n    563K Members 197 Online\n    728 upvotes · 169 comments\n    * * *\n*   \n    Chicago, Illinois\n    * * *\n    563K Members 197 Online\n    203 upvotes · ...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Climbing Wall",
+                "htmlTitle": "<b>Climbing</b> Wall",
+                "link": "https://maggiedaleypark.com/things-to-do-see/climbing-wall/",
+                "displayLink": "maggiedaleypark.com",
+                "snippet": "At the center of the Skating Ribbon sits two stunning rock-climbing structures that form Chicago's first and only Climbing Park. These custom-designed ...",
+                "htmlSnippet": "At the center of the Skating Ribbon sits two stunning rock-<b>climbing</b> structures that form <b>Chicago&#39;s first</b> and only <b>Climbing</b> Park. These custom-designed&nbsp;...",
+                "formattedUrl": "https://maggiedaleypark.com/things-to-do-see/climbing-wall/",
+                "htmlFormattedUrl": "https://maggiedaleypark.com/things-to-do-see/<b>climb</b>ing-wall/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC2uzGnDyNnbBSO0t41UqbRxXwl5EYe7XHMWH7p_aUo6U-ftWVZQVKx30&s",
+                            "width": "415",
+                            "height": "121"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:title": "Climbing Wall",
+                            "msapplication-tileimage": "https://maggiedaleypark.com/wp-content/uploads/2020/10/cropped-favicon-270x270.png"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://maggiedaleypark.com/wp-content/uploads/2020/10/ClimbingWall2-1600x470.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... after 6 p.m. on all Thursdays, Fridays, Saturdays, and Sundays. Maggie Daley Park visitors under the age of 18 must be accompanied by an adult who is at least 21 years of age during these hours. An adult who is at least 21 years of age may escort up to four minor guests. Guests may be asked to present a valid photo identification card, such as a driver’s license, state ID, student ID, or military ID, upon entering Maggie Daley Park. Maggie Daley Park reserves the right to implement the youth escort policy on other days and at other times, on an as-needed basis, when justified by objective circumstances demonstrating a substantial likelihood of large gatherings of unsupervised youths. Youths under the age of 18 may enter the Park unaccompanied while the youth escort policy is in effect if they (1) are engaged in employment at Maggie Daley Park; or (2) are attending an official school, religious, or other recreational activity supervised by adults and sponsored by the Chicago Park District, the City of Chicago, a civic organization, or another similar entity that takes responsibility for the minor._\nClimbing Wall\n-------------\nAbout\n-----\n**Climbing Returns May 24, 2024!**\n### Climbing Wall 2024 Hours\n### Sunday – Thursday – 11:00am – 5:00pm\n### Friday & Saturday – 11:00am – 6:00pm\nAt the center of the Skating Ribbon sits two stunning rock-climbing structures that form Chicago’s first and only Climbing Park. These custom-designed sculptural rocks and boulders provide a unique outdoor recreational experience for beginners and experts alike, supported with instruction and supervision by park staff. The combination of the Skating Ribbon and Climbing Park achieves the project aspiration of a park for all seasons, inviting and engaging to all Chicagoans and visitors alike.\nThe rock climbing walls’ maximum height is 40 feet over a total surface area of 19,000 square feet. The wall is divided into a beginner and advanced wall with three different types of climbing: bouldering, lead-harnessed, and top rope. The climbing wall capacity is between 25 to 100 climbers at a given time.\nThe Climbing Wall is managed by \n*   Phone: 312.552.3000\n### \nAll hours are weather permitting, for the latest information please follow us on Twitter.\n*   Auto Belay 30 minutes – $20+tax\n*   Top Rope Orientation – $29+tax (daily fee included)\n*   Boulder/Belay Check – $15+tax\n*   Private Belayer –...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Has anybody managed to climb the bean? : r/chicago",
+                "htmlTitle": "Has anybody managed to <b>climb</b> the <b>bean</b>? : r/<b>chicago</b>",
+                "link": "https://www.reddit.com/r/chicago/comments/2wkpku/has_anybody_managed_to_climb_the_bean/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Feb 21, 2015 ... ... anyone would be able to get ladders, or whatever, into the park and against the Bean without being seen first. Upvote 1. Downvote Award Share.",
+                "htmlSnippet": "Feb 21, 2015 <b>...</b> ... anyone would be able to get ladders, or whatever, into the park and against the <b>Bean</b> without being seen <b>first</b>. Upvote 1. Downvote Award Share.",
+                "formattedUrl": "https://www.reddit.com/.../chicago/.../has_anybody_managed_to_climb_the...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../<b>chicago</b>/.../has_anybody_managed_to_<b>climb_the</b>...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://share.redd.it/preview/post/2wkpku",
+                            "theme-color": "#000000",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "og:image:alt": "An image containing a preview of the post",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/chicago on Reddit: Has anybody managed to climb the bean?",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/chicago on Reddit: Has anybody managed to climb the bean?",
+                            "og:image:height": "630",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/[Deleted Account] - No votes and 12 comments",
+                            "twitter:image": "https://share.redd.it/preview/post/2wkpku",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/chicago/comments/2wkpku/has_anybody_managed_to_climb_the_bean/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://share.redd.it/preview/post/2wkpku"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Promoted\nICYMI: Gillette antiperspirant is the #1 Antiperspirant Brand in Consumer Loyalty. Shop Now for sweat protection you can trust.\nShop Now\nclick2cart.com\n!\nSort by:\nBest\nOpen comment sort options\n*   Best\n    *   Top\n    *   New\n    *   Controversial\n    *   Old\n    *   Q&A\n• \nPretty unlikely. That thing was polished down to a mirror like surface after it was installed, and is frequently cleaned / polished.\nIf you go and see it when its snowing, it can barley even stick to it. I doubt anyone could ever climb onto it, a ladder or cherrypicker would be needed to get on top.\nReply reply\n• \nWhy are you asking? What are you planning?\nCan I suggest another location if you're planning to do that? How about Trump tower? The Donald would love the free publicity.\nReply reply\n3 more replies\n3 more replies\n• \nThere are security guards around all the time, I doubt anyone would be able to get ladders, or whatever, into the park and against the Bean without being seen first.\nReply reply\n•  • Edited 10y ago\nOne time myself and the rest of the Delts from EIU went down to the Chi with a mission to get fucked up in Wrigleyville and then climb the bean. IIRC Gonez and Nudey were able to get to the top, don't remember too much from that night though lol.\nEdit: ITT a bunch of geeds\nReply reply\n• \nYou guys sound like a bunch of \nReply reply \n3 more replies\n3 more replies\n• \nThis is why  exists.\nReply reply\n**Top 1%** \nMore posts you may like\n-----------------------\nRelated       forward back\n*   \n    Chicago, Illinois\n    * * *\n    563K Members 160 Online\n    399 upvotes · 79 comments\n    * * *\n*   \n    Chicago, Illinois\n    * * *\n    563K Members 160 Online\n    203 upvotes · 54 comments\n    * * *\n*   \n    Chicago, Illinois\n    * * *\n    563K Members 160 Online\n    728 upvotes · 169 comments\n    * * *\n*   Promoted\n    !\n    Chicago, Illinois\n    * * *\n    563K Members 160 Online\n    220 upvotes · 231 comments\n    * * *\n*   \n    Chicago, Illinois\n    * *...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "KubeCon North America 2023 Retrospective: What A Difference A ...",
+                "htmlTitle": "KubeCon North America 2023 Retrospective: What A Difference A ...",
+                "link": "https://adri-v.medium.com/kubecon-north-america-2023-retrospective-what-a-difference-a-year-makes-4ed93b477078",
+                "displayLink": "adri-v.medium.com",
+                "snippet": "Nov 17, 2023 ... The following is a recap of my personal experience at KubeCon Chicago. Bouldering Gym Visit. I am an avid boulderer. If you're not familiar with ...",
+                "htmlSnippet": "Nov 17, 2023 <b>...</b> The following is a recap of my personal experience at KubeCon <b>Chicago</b>. Bouldering Gym Visit. I am an avid boulderer. If you&#39;re not familiar with&nbsp;...",
+                "formattedUrl": "https://adri-v.medium.com/kubecon-north-america-2023-retrospective-wha...",
+                "htmlFormattedUrl": "https://adri-v.medium.com/kubecon-north-america-2023-retrospective-wha...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjOqWIU8dpfoJkCIqK-GAJpuHYeApkKnh-Z5m7NobkAZ_hmCpf3n3XV-I&s",
+                            "width": "332",
+                            "height": "152"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*Yf12onfvkKB8ckDiJ7Zicg.png",
+                            "twitter:app:url:iphone": "medium://p/4ed93b477078",
+                            "theme-color": "#000000",
+                            "article:published_time": "2023-12-21T20:15:45.382Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Medium",
+                            "al:android:package": "com.medium.reader",
+                            "twitter:label1": "Reading time",
+                            "twitter:app:id:iphone": "828256236",
+                            "title": "KubeCon North America 2023 Retrospective: What A Difference A Year Makes! | by Adriana Villela | Medium",
+                            "al:ios:url": "medium://p/4ed93b477078",
+                            "og:description": "A personal journey from KubeCon newbie to KubeCon veteran.",
+                            "twitter:creator": "@adrianamvillela",
+                            "al:ios:app_store_id": "828256236",
+                            "twitter:data1": "7 min read",
+                            "twitter:site": "@Medium",
+                            "og:type": "article",
+                            "twitter:title": "KubeCon North America 2023 Retrospective: What A Difference A Year Makes!",
+                            "al:ios:app_name": "Medium",
+                            "author": "Adriana Villela",
+                            "og:title": "KubeCon North America 2023 Retrospective: What A Difference A Year Makes!",
+                            "al:web:url": "https://adri-v.medium.com/kubecon-north-america-2023-retrospective-what-a-difference-a-year-makes-4ed93b477078",
+                            "article:author": "https://adri-v.medium.com",
+                            "twitter:image:src": "https://miro.medium.com/v2/resize:fit:1200/1*Yf12onfvkKB8ckDiJ7Zicg.png",
+                            "al:android:url": "medium://p/4ed93b477078",
+                            "referrer": "unsafe-url",
+                            "fb:app_id": "542599432471018",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1,maximum-scale=1",
+                            "twitter:description": "A personal journey from KubeCon newbie to KubeCon veteran.",
+                            "og:url": "https://adri-v.medium.com/kubecon-north-america-2023-retrospective-what-a-difference-a-year-makes-4ed93b477078",
+                            "twitter:app:name:iphone": "Medium",
+                            "al:android:app_name": "Medium"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://miro.medium.com/v2/resize:fit:1200/1*Yf12onfvkKB8ckDiJ7Zicg.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Medium\n===============\nSign up\nSign up\n!\nKubeCon North America 2023 Retrospective: What A Difference A Year Makes!\n=========================================================================\n]\n·\n7 min read\n·\nNov 17, 2023\n8\n1\nShare\n!\n“” in Chicago. Photo by .\nIn late October 2022, I found myself in Detroit, traveling by plane for the first time since the pandemic had started, as a newly-minted Developer Advocate, new  (OTel) contributor, attending .\nFast-forward to early November of 2023: KubeCon Chicago. What a difference a year makes:\n*   I now have three KubeCons under my belt — Detroit (2022), Amsterdam (2023), and Chicago (2023)\n*   I’ve attended the last two KubeCons as a \n*   I was a speaker at KubeCon Chicago!\nThe following is a recap of my personal experience at KubeCon Chicago.\nBouldering Gym Visit\n====================\nI am an avid boulderer. If you’re not familiar with , it’s a type of rock climbing whereby you climb without a rope. The walls aren’t super high (“only” about 4.5m tall), and the floors are lined with big fluffy mats for when you fall . And believe me…you WILL fall. Whenever I travel, I make it a point to visit the local bouldering gym, and this trip was no different. I managed to sneak in 3 _veeeery_ early-morning bouldering sessions at .\n!\nFirst Ascent Block 37 bouldering gym in Chicago. Photo by .\nCo-Located Events\n=================\nAlthough KubeCon itself didn’t start until Tuesday, Monday was host to a number of co-located events. These mini-conferences take place the day before KubeCon starts, in the same venue as KubeCon, usually confined to a smaller area of the conference center. You need an all-access pass to attend the co-located events, giving you the ability to float between these mini-conferences. It also gets you a ticket to the main event — KubeCon.\nThe number of co-located events was quite substantial, catering to just about every area of cloud native. Just to give you an idea, there’s , , , and , just to name a few. I spent most of my time at . Both because , but also because I was a speaker at Observability Day!\nI gave a talk with...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Winter Colorado 14ers | Fastest Known Time",
+                "htmlTitle": "Winter Colorado 14ers | Fastest Known Time",
+                "link": "https://fastestknowntime.com/article/winter-colorado-14ers",
+                "displayLink": "fastestknowntime.com",
+                "snippet": "Mar 20, 2018 ... With that extremely low-key announcement on the 14ers.com forum, Andrew Hamilton set off to climb all 58 of Colorado's summits over 14,000' ...",
+                "htmlSnippet": "Mar 20, 2018 <b>...</b> With that extremely low-key announcement on the 14ers.com forum, Andrew Hamilton set off to <b>climb</b> all 58 of Colorado&#39;s summits over 14,000&#39;&nbsp;...",
+                "formattedUrl": "https://fastestknowntime.com/article/winter-colorado-14ers",
+                "htmlFormattedUrl": "https://fastestknowntime.com/article/winter-colorado-14ers",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgOjKOYR_Ljxe4_-2ctScc6Pb0G1_dQsM_EJ7FG5CAw-h6D4xFi5Ad4ght&s",
+                            "width": "379",
+                            "height": "133"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#00aba9",
+                            "og:image": "https://fastestknowntime.com/sites/default/files/styles/cover_image/public/2018-03/Winter%2014ers.png?itok=wV_U_nqT",
+                            "theme-color": "#ffffff",
+                            "og:site_name": "Fastest Known Time",
+                            "handheldfriendly": "true",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:title": "Winter Colorado 14ers",
+                            "mobileoptimized": "width",
+                            "og:url": "https://fastestknowntime.com/article/winter-colorado-14ers"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://fastestknowntime.com/sites/default/files/styles/cover_image/public/2018-03/Winter%2014ers.png?itok=wV_U_nqT"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "by andrewhamilton » Mon Jan 15, 2018 9:46 pm \n\"Hey Everyone! So I wanted to officially let you all know my plan for this winter, which is to join those who have tried before and attempt to climb all the 14ers in one calendar winter. I've gotten off to a slow start.\"\n\"Before this year I hadn't actually climbed any peaks in winter…\"\nWith that extremely low-key announcement on the 14ers.com forum, Andrew Hamilton set off to climb all 58 of Colorado’s summits over 14,000’ between the start and end of winter on Dec 21 and March 20.  Normally, if a person had never done any in winter they would be subject to ridicule and scorn, but this is the King of the 14ers we're talking about …\n\"I started with Chicago basin, hiking all the way in from purgatory in one 36 hour push. Half way through I injured a foot tendon and for nearly 20 miles and through a wickedly cold night I hobbled back out.\"\n\"So I've kind of squandered a ridiculously dry start to the winter season. I have about half of the remaining winter to work with because of my schedule with my kids...I'm not sure if I'll be able to pull this off …\"\nWell, he did pull it off … in his typical style: not particularly fast, but with an insane capacity for sleep deprivation, toughness, and determination.\n\n \n\"My mantra for this and all my adventures seems to be \"Be not afraid of moving slowly, be only afraid of standing still\". That can also apply to life I think.\"\nFor the Sawatch summits, instead of going up and then back down to the trailheads and...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "10 things you shouldn't miss at Chicago's Millennium Park Campus ...",
+                "htmlTitle": "10 things you shouldn&#39;t miss at <b>Chicago&#39;s Millennium</b> Park Campus ...",
+                "link": "https://www.choosechicago.com/blog/arts-culture-entertainment/10-things-you-shouldnt-miss-at-chicagos-millennium-park-campus/",
+                "displayLink": "www.choosechicago.com",
+                "snippet": "Jul 26, 2019 ... 1. Splash around in Crown Fountain · 2. Take a selfie with The Bean · 3. Find a moment of zen at Lurie Garden · 4. Rock climb at Maggie Daley Park.",
+                "htmlSnippet": "Jul 26, 2019 <b>...</b> 1. Splash around in Crown Fountain &middot; 2. Take a selfie with The <b>Bean</b> &middot; 3. Find a moment of zen at Lurie Garden &middot; 4. Rock <b>climb</b> at Maggie Daley Park.",
+                "formattedUrl": "https://www.choosechicago.com/.../10-things-you-shouldnt-miss-at-chicago...",
+                "htmlFormattedUrl": "https://www.choose<b>chicago</b>.com/.../10-things-you-shouldnt-miss-at-<b>chicago</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53IcXDVB7M3b1iXlvOOsLYC_94UVZxu3nEDhJ_8vQGzQ3Uz4s8Z4Y-aoJ&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cdn.choosechicago.com/uploads/2019/05/ChooseChicago_2014_08_16_1328_a18ae955-e642-4c3a-99ba-c3dd6e7b9676.jpg",
+                            "article:published_time": "2019-07-26T18:00:00+00:00",
+                            "og:image:width": "5760",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Choose Chicago",
+                            "apple-mobile-web-app-title": "Choose Chicago",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "The Millennium Park Campus is the heart of Chicago. Locals and visitors alike gather here to picnic in the grass, cool off in the fountain,…",
+                            "twitter:creator": "@ChooseChicago",
+                            "article:publisher": "https://www.facebook.com/ChooseChicago",
+                            "twitter:data1": "Choose Chicago",
+                            "twitter:data2": "11 minutes",
+                            "twitter:site": "@ChooseChicago",
+                            "article:modified_time": "2023-02-14T19:34:16+00:00",
+                            "og:type": "article",
+                            "author": "Choose Chicago",
+                            "og:title": "10 things you shouldn't miss at Chicago's Millennium Park Campus | Choose Chicago",
+                            "og:image:height": "3840",
+                            "apple-mobile-web-app-status-bar-style": "white",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,user-scalable=no",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.choosechicago.com/blog/arts-culture-entertainment/10-things-you-shouldnt-miss-at-chicagos-millennium-park-campus/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.choosechicago.com/uploads/2019/05/ChooseChicago_2014_08_16_1328_a18ae955-e642-4c3a-99ba-c3dd6e7b9676.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "reCAPTCHA\n===============",
+                    "content_tokens": 5
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "blog — keeks",
+                "htmlTitle": "blog — keeks",
+                "link": "http://www.itskeeks.com/blog",
+                "displayLink": "www.itskeeks.com",
+                "snippet": "Nov 14, 2017 ... We start the approach and to Looking Glass Rock, where we start our first climb of the trip: Peregrine: 5.9, 450ft: 4 pitches. Pitch 1: Keekee ...",
+                "htmlSnippet": "Nov 14, 2017 <b>...</b> We start the approach and to Looking Glass Rock, where we start our <b>first climb</b> of the trip: Peregrine: 5.9, 450ft: 4 pitches. Pitch 1: Keekee&nbsp;...",
+                "formattedUrl": "http://www.itskeeks.com/blog",
+                "htmlFormattedUrl": "http://www.itskeeks.com/blog",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoSLlHjgjufXaA5n5L0FxD5YGwvTdGKEhPtkjZoE2t-m_oOI2kRih_bVU&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:type": "website",
+                            "twitter:title": "blog — keeks",
+                            "twitter:card": "summary",
+                            "og:site_name": "keeks",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:url": "http://www.itskeeks.com/blog",
+                            "og:title": "blog — keeks",
+                            "og:url": "http://www.itskeeks.com/blog"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://images.squarespace-cdn.com/content/v1/5680738ba128e603baa42c82/1470533354671-KZJS6G1YCSHO88L4S9DC/KW-2016-DC-191.JPG"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...izzle of bacon and the smell of coffee, yummmm. Mema has a whole breakfast laid out for us.  There are eggs, sausage, biscuits, gravy, and many southern delights that involve creative uses for apples, all ready for us when we get downstairs!!\nvia GIPHY\nvia GIPHY\nOver breakfast Mema tells us about her inspiring life and how she refused to be housewife and mom when she was younger, by getting a job in a hospital as a file clerk, managing patient's medical records. WOOHOO, feminism (aka she is a certified b@da$$). In addition, she also was the first person to use a computer at the hospital she worked at. It was the first time a person’s medical files were on a computer and you could bring up and send their medical history in seconds. Hearing this is pretty cool considering most people in our generation can't remember a world without computers.\nAfter breaky and thanking Mema for her amazing hospitality, we head out to Looking Glass Rock,NC.\n12:00\nWe finally make it to the national forest where Looking Glass Rock is!\n(note: The \"Road fork\" to get to the Nose Area area is the first dirt road on your right side after you pass the ranger station on your left side)\n13:00\nWe start the approach and to Looking Glass Rock, where we start our first climb of the trip: Peregrine: 5.9, 450ft: 4 pitches.\nPitch 1: Keekee Lead (aka myself): 5.7 80ft- Slabby, micro to mid-sized cams were great, and a c3 3 to build a low anchor (no bolted anchor on this pitch, but there is a nice sized ledge and low crack that you can make a really nice anchor with)\nPitch 2: Will Lead: 5.9 120ft- Slabby, used micro to mid-sized cams. Will’s Beta: “Don’t run out the last 20ft before the anchor because getting up the last couple feet to the ledge isn’t as easy as it looks. I went for it at first after running out and got a little unnerved” (no bolted anchors, but there is a sloped ledge that you can build a nice anchor on in a deep horizontal crack)\nFor  the sake of time and the freezing temperatures on the wall, Pierce started to lead the next pitch while I jumarred up a fixed line.\nPitch 3: Pierce Lead: 5.7 120ft- Slabby (so I can...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "The Bean is back! Your guide to The Bean's reopening | Choose ...",
+                "htmlTitle": "The <b>Bean</b> is back! Your guide to The <b>Bean&#39;s</b> reopening | Choose ...",
+                "link": "https://www.choosechicago.com/blog/special-events/the-bean-closed/",
+                "displayLink": "www.choosechicago.com",
+                "snippet": "Jun 23, 2024 ... The Bean construction FAQs. Tourists visiting the Bean (Cloudgate) in Chicago. What is the construction around The Bean? The construction was ...",
+                "htmlSnippet": "Jun 23, 2024 <b>...</b> The <b>Bean</b> construction FAQs. Tourists visiting the <b>Bean</b> (Cloudgate) in <b>Chicago</b>. What is the construction around The <b>Bean</b>? The construction was&nbsp;...",
+                "formattedUrl": "https://www.choosechicago.com/blog/special-events/the-bean-closed/",
+                "htmlFormattedUrl": "https://www.choose<b>chicago</b>.com/blog/special-events/the-<b>bean</b>-closed/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiUXh0x-tEF4U45fIPY0WtV9KiWN11Sfu1IvVk3dGt1fRmmvEPQUQHNaa0&s",
+                            "width": "356",
+                            "height": "142"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cdn.choosechicago.com/uploads/2019/05/bean-header-768x306.png",
+                            "article:published_time": "2024-06-23T12:19:34+00:00",
+                            "og:image:width": "768",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Choose Chicago",
+                            "apple-mobile-web-app-title": "Choose Chicago",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/png",
+                            "og:description": "“The Bean” is back! The construction to the area surrounding the iconic sculpture is now complete, just in time for Millennium Park’s 20th anniversary season.…",
+                            "twitter:creator": "@ChooseChicago",
+                            "article:publisher": "https://www.facebook.com/ChooseChicago",
+                            "twitter:data1": "Choose Chicago",
+                            "twitter:data2": "5 minutes",
+                            "twitter:site": "@ChooseChicago",
+                            "article:modified_time": "2024-06-23T18:37:59+00:00",
+                            "og:type": "article",
+                            "author": "Choose Chicago",
+                            "og:title": "The Bean is back! Your guide to The Bean’s reopening | Choose Chicago",
+                            "og:image:height": "306",
+                            "apple-mobile-web-app-status-bar-style": "white",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,user-scalable=no",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.choosechicago.com/blog/special-events/the-bean-closed/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.choosechicago.com/uploads/2019/05/bean-header-768x306.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...!\n!\nWork by John Boesche, image courtesy Art on theMART\nLocated just across the street from Millennium Park, the **** is home to various free public exhibits and events (like the ****), plus stunning architectural details like the world’s largest Tiffany glass dome.\nThe **** in the nearby South Loop is a living urban canvas, home to dozens of large-scale murals that transform the area’s streets and alleys into a colorful outdoor museum.\nLocated on the Chicago River, **** is the world’s largest digital art platform. The mesmerizing display lights up the riverfront facade of theMART every evening throughout the season.\nCheck out our full **** for more. Or if you want to explore outside the Loop, you can use this ****.\nIf you’re looking for even more art, the **** is located on the Millennium Park campus and is one of the oldest and largest art museums in the country.\nThe Bean construction FAQs\n--------------------------\n!\n**What is the construction around The Bean?  \n**The construction was part of necessary maintenance by the city of Chicago to enhance the visitor experience and increase accessibility to the area around The Bean. This included replacing pavers and making other repairs and upgrades to the plaza area.\n**When will the construction around The Bean be completed?  \n**Construction to the area around The Bean is now complete.",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Climbing Comes To The Loop - First Ascent Climbing and Fitness",
+                "htmlTitle": "<b>Climbing</b> Comes To The Loop - <b>First Ascent Climbing</b> and Fitness",
+                "link": "https://faclimbing.com/climbing-chicago-loop/",
+                "displayLink": "faclimbing.com",
+                "snippet": "Feb 22, 2018 ... Back in 2015, we opened First Ascent Avondale with a lot of hard work, some good fortune, and the collective energy of Chicago climbers.",
+                "htmlSnippet": "Feb 22, 2018 <b>...</b> Back in 2015, we opened <b>First Ascent</b> Avondale with a lot of hard work, some good fortune, and the collective energy of <b>Chicago</b> climbers.",
+                "formattedUrl": "https://faclimbing.com/climbing-chicago-loop/",
+                "htmlFormattedUrl": "https://fa<b>climb</b>ing.com/<b>climb</b>ing-<b>chicago</b>-loop/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiDMQRiDIHigyCRvDH_byh1J_hCg3l_hzvS1IwTnpH502k69MsKfEpiKo&s",
+                            "width": "260",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://faclimbing.com/wp-content/uploads/2018/02/DSC_0046-3.jpg",
+                            "og:type": "article",
+                            "article:published_time": "2018-02-22T23:19:50+00:00",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "First Ascent Climbing and Fitness",
+                            "tec-api-origin": "https://faclimbing.com",
+                            "og:title": "Climbing Comes To The Loop - First Ascent Climbing and Fitness",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:description": "Back in 2015, we opened First Ascent Avondale with a lot of hard work, some good fortune, and the collective energy of Chicago climbers. The video below tells the story well: […]",
+                            "twitter:data1": "Dan Bartz",
+                            "facebook-domain-verification": "ec7ua7yuogjtx940x6wbv3lvr5wy1n",
+                            "twitter:data2": "4 minutes",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "og:locale": "en_US",
+                            "og:url": "https://faclimbing.com/climbing-chicago-loop/",
+                            "tec-api-version": "v1"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://faclimbing.com/wp-content/uploads/2018/02/DSC_0046-3.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Back in 2015, we opened  with a lot of hard work, some good fortune, and the collective energy of Chicago climbers. The video below tells the story well:\nNow, less than 3 years later, we are thrilled to open our fourth location right in the iconic center of Chicago: . We love all the neighborhoods that are home to First Ascent locations, but this location feels particularly special to us. The FA Founders (Jon, Joe, Dave, and I) all call Chicago our home. It’s a milestone for us to open a climbing gym in the heart of Chicago, surrounded by skyscrapers, bustling crowds, theaters, company headquarters, city offices, and the architecture that makes Chicago so unique.  \nBuilding in the Loop is not only special for us Chicagoans, it’s also a leap forward in our mission to serve and grow Chicago’s vibrant climbing community.  will serve climbers that work or live in the city’s center, and with access to the Red and Blue Line trains in the building, the location couldn’t be better for our downtown commuting members. We also hope FA Block 37 introduces more of Chicago to the sport we love. The Loop is filled with people who spend their days strapped to their desk. First Ascent will give them access to fun, convenient exercise and a great way to meet new people and connect...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "How to Grow Bush Beans in an Organic Kitchen Garden • Gardenary",
+                "htmlTitle": "How to Grow Bush Beans in an Organic Kitchen Garden • Gardenary",
+                "link": "https://www.gardenary.com/blog/how-to-grow-bush-beans-in-an-organic-kitchen-garden",
+                "displayLink": "www.gardenary.com",
+                "snippet": "Oct 29, 2022 ... Check out these tips to grow organic bush beans in a kitchen garden and harvest lots of yummy bean pods!",
+                "htmlSnippet": "Oct 29, 2022 <b>...</b> Check out these tips to grow organic bush beans in a kitchen garden and harvest lots of yummy <b>bean</b> pods!",
+                "formattedUrl": "https://www.gardenary.com/.../how-to-grow-bush-beans-in-an-organic-kitc...",
+                "htmlFormattedUrl": "https://www.gardenary.com/.../how-to-grow-bush-<b>bean</b>s-in-an-organic-kitc...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7-nodQn_LriJwZrdaHOn7iLGZpPL_tastL_xX8tDUR6J2EBRT02IxsY4&s",
+                            "width": "182",
+                            "height": "276"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter_card`": "summary_large_image",
+                            "og:image": "https://gardenary-data.s3.amazonaws.com/og/BB1dGyqPuJTJueedpADT3UfZZbyrxGoXBxdqeB4w.jpeg",
+                            "twitter_creator`": "@gardenaryco",
+                            "og:image:width": "1200",
+                            "og:type": "article",
+                            "og:site_name": "Gardenary",
+                            "twitter_site`": "@gardenaryco",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:title": "How to Grow Bush Beans in an Organic Kitchen Garden • Gardenary",
+                            "og:image:height": "630",
+                            "og:url": "https://www.gardenary.com/blog/how-to-grow-bush-beans-in-an-organic-kitchen-garden",
+                            "og:description": "Check out these tips to grow organic bush beans in a kitchen garden and harvest lots of yummy bean pods!"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://gardenary-data.s3.amazonaws.com/og/BB1dGyqPuJTJueedpADT3UfZZbyrxGoXBxdqeB4w.jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "How to Grow Bush Beans in an Organic Kitchen Garden • Gardenary\n===============\n*   \n*   \n*   \n*   \n*   \n !\n###  to save your seat for the Start Your Fall Garden Workshop!\nkitchen garden\nPublished October 29, 2022 by Nicole Burke\nHow to Grow Bush Beans in an Organic Kitchen Garden\n===================================================\nFiled Under:\nbeans\nbush beans\norganic garden\nkitchen garden\nhow to grow\nShare This Post\n]\n!\nWhat Are Bush Beans?\n--------------------\nBush beans are one of the most practical things to grow in a vegetable garden. They grow very quickly, fill in empty spaces in your raised beds, require little tending, thrive in most climates, and produce large quantities for harvest. Just a couple months from seeding, you'll be able to start harvesting delicious fresh beans.\nBush beans, as their name suggests, grow in a compact, bush-like manner and do not get very tall. You can choose between snap beans (which are eaten pod and all, like string beans or green beans) and shell beans (which are eaten once the seeds have been removed from the pod).\n]\n!\nBush Beans vs Pole Beans\n------------------------\nBeans varieties grow in two different ways: bush and pole.\n have a more upright growth habit than bush beans (they can grow upwards of 6 feet tall), meaning they need some type of vertical support to help them grow. Pole beans take a...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

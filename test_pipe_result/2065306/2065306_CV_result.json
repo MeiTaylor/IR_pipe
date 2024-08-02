@@ -1,0 +1,36 @@
+{
+    "Claim": "A video shows a surfer being towed by a great white shark.",
+    "Video_information": {
+        "video_date": 20080519.0,
+        "platform": "youtube",
+        "video_headline": "Skateboard sky loop landed",
+        "video_transcript": "Yeah.",
+        "Video_descriptor": "The video depicts a series of scenes at a skate park where multiple skateboarders showcase their skills and perform various tricks. The initial frames show a man skateboarding in the park, followed by others also engaging in skateboarding activities. Throughout the video, skateboarders can be seen executing tricks like jumping over ramps and flipping their boards at different locations within the park and on the street. The key frames highlight the dynamic movements of the skateboarders, capturing them mid-air while performing tricks off large ramps and half-pipes. The skateboarders wear distinctive yellow shirts and dark pants, emphasizing their individual styles and actions. The outdoor setting of the skate park is characterized by clear skies with occasional clouds, surrounded by tall trees that enhance the backdrop of the skateboarding stunts. The images focus on the solitary skateboarders in action, emphasizing their agility and control over the boards. The well-maintained skate park provides a visually appealing and challenging environment for the skateboarders to showcase their talent. Overall, the video encapsulates the vibrant and skillful world of skateboarding, portraying the energy and excitement of the sport through the impressive maneuvers and daring tricks performed by the skilled individuals in various settings within the skate park."
+    },
+    "Initial_Question_Generation": {
+        "Question": "Does the video depict a surfer towed by a shark or is it misclassified skateboard content?",
+        "Answer": "The video in question does not depict a surfer being towed by a shark; rather, it is misclassified skateboard content. The claim states that the video shows a surfer being towed by a great white shark. However, upon examining the video information provided, it is clear that the video showcases skateboarders performing tricks in a skate park, rather than any scenes involving surfing or sharks. The video descriptor indicates that the content is focused on various skateboarders executing tricks, such as jumping over ramps and flipping their boards, all of which take place in a skate park environment surrounded by trees and under a clear sky. This completely contrasts with the scenario described in the claim. Given this analysis, it is logical to conclude that the original claim about the video is incorrect, and it has been misclassified. The evidence from the video information strongly supports this conclusion.",
+        "Confidence": "95%"
+    },
+    "Follow_Up_Question_1": {
+        "Question": "What evidence does the video content provide to refute the claim about a shark towing a surfer?",
+        "Answer": "The claim that \"A video shows a surfer being towed by a great white shark\" is not supported by the content of the video referenced in the video information. The video, dated May 19, 2008, and titled \"Skateboard sky loop landed,\" focuses entirely on skateboarders performing tricks in a skate park. The evidence to refute the claim is as follows: 1. **Content Focus**: The video transcript and description indicate that the video is centered around skateboarding activities, featuring multiple skateboarders showcasing their skills at a skate park. There is no mention of a surfer or a shark, which means the subject matter is entirely unrelated to the claim. 2. **Visual Elements**: The description details various tricks performed by skateboarders, including jumping over ramps and flipping boards, with an outdoor setting characterized by clear skies and trees. The environments described do not indicate any ocean or surfing context where a great white shark could be present. 3. **Lack of Relevant Imagery**: The claim suggests a dramatic scenario involving sea life, but the focus on conditional elements like skateboarding tricks and park dynamics confirms that the video simply does not depict any marine animals, let alone a shark towing a surfer. Considering these points, the evidence overwhelmingly contradicts the claim about a shark towing a surfer.",
+        "Confidence": "95%"
+    },
+    "CVResult": {
+        "Judgment": "Yes",
+        "Confidence": "95%",
+        "Reason": "The existing information is sufficient to determine the truthfulness of the claim. The claim states that the video shows a surfer being towed by a great white shark. However, the video information clearly indicates that it focuses on skateboarders performing tricks in a skate park. Specific evidence supporting this conclusion includes: 1. The video descriptor highlights scenes of skateboarders engaging in various activities, with no reference to surfing or sharks. 2. The detailed description of the content emphasizes tricks and maneuvers performed in a skate park setting, which contradicts the premise of a marine environment where a shark would be present. 3. The answers provided in the QA_CONTEXTS confirm that the video is misclassified and does not depict the event described in the claim. Given the clarity of the video content and its focus on skateboarding, the reliability of this assessment is high."
+    },
+    "Final_Judgement": {
+        "Answer": "False",
+        "Reasons": "The claim that a video shows a surfer being towed by a great white shark is contradicted by the video content, which instead showcases skateboarders performing tricks in a skate park. The video description mentions activities such as jumping over ramps and flipping boards, with a focus on skateboarding and no elements related to surfing or sharks [Initial_Question_Generation_Query 1_evidence1]. Additionally, the visual elements described do not align with any scenario involving a shark, as they depict an outdoor skate park setting with skateboarders under clear skies and surrounded by trees [Follow_Up_Question_1_Query 1_evidence2]. Overall, the video content is unrelated to the claim of a shark or surfer.",
+        "Therefore, the Claim authenticity is": "False",
+        "The information type is": "False",
+        "The specific type of False Information is": "Text-Video Contradictory"
+    },
+    "article": {
+        "article_url": "https://www.snopes.com/fact-check/surfer-towed-by-shark/",
+        "article_rating": "False"
+    }
+}

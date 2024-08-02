@@ -1,0 +1,702 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Lab analysis of Lipton lemon green tea",
+                "totalResults": "285000",
+                "searchTerms": "Lab analysis of Lipton lemon green tea",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Lab analysis of Lipton lemon green tea",
+                "totalResults": "285000",
+                "searchTerms": "Lab analysis of Lipton lemon green tea",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.502224,
+        "formattedSearchTime": "0.50",
+        "totalResults": "285000",
+        "formattedTotalResults": "285,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Expert Answers on Using Lipton Diet Green Tea for Urine Tests ...",
+                "htmlTitle": "Expert Answers on Using <b>Lipton</b> Diet <b>Green Tea</b> for Urine <b>Tests</b> ...",
+                "link": "https://www.justanswer.com/medical/aeaod-use-lipton-diet-tea-instead-urine-will-work.html",
+                "displayLink": "www.justanswer.com",
+                "snippet": "May 3, 2017 ... If I use lipton diet tea instead of my urine will that work if it is sent to a lab and they test for a adultrrant or ph.",
+                "htmlSnippet": "May 3, 2017 <b>...</b> If I use <b>lipton</b> diet <b>tea</b> instead of my urine will that work if it is sent to a <b>lab</b> and they <b>test</b> for a adultrrant or ph.",
+                "formattedUrl": "https://www.justanswer.com/.../aeaod-use-lipton-diet-tea-instead-urine-will-...",
+                "htmlFormattedUrl": "https://www.justanswer.com/.../aeaod-use-<b>lipton</b>-diet-<b>tea</b>-ins<b>tea</b>d-urine-will-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTUfoyue9aXtugn6Iw-9aUtWrQ2gNvu_9lD5CgbLa0hgRiDxNSHQ3MfkvE&s",
+                            "width": "200",
+                            "height": "200"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.justanswer.com/img/box_logo.jpg",
+                            "copyright": "&copy;2018-2024 justanswer.com",
+                            "twitter:card": "summary_large_image",
+                            "og:type": "article",
+                            "og:image:width": "200",
+                            "twitter:title": "Expert Answers on Using Lipton Diet Green Tea for Urine Tests | JustAnswer",
+                            "article:published_time": "5/3/2017",
+                            "og:site_name": "JustAnswer",
+                            "twitter:url": "https://www.justanswer.com/medical/aeaod-use-lipton-diet-tea-instead-urine-will-work.html",
+                            "og:title": "Expert Answers on Using Lipton Diet Green Tea for Urine Tests | JustAnswer",
+                            "og:image:height": "200",
+                            "og:article:publisher": "https://www.facebook.com/justanswer",
+                            "title": "Expert Answers on Using Lipton Diet Green Tea for Urine Tests | JustAnswer",
+                            "og:description": "Expert Answers on Using Lipton Diet Green Tea for Urine Tests | JustAnswer",
+                            "twitter:image": "https://www.justanswer.com/img/box_logo.jpg",
+                            "fb:app_id": "1439148066368316",
+                            "twitter:site": "@justanswer",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                            "apple-mobile-web-app-capable": "yes",
+                            "twitter:description": "Expert Answers on Using Lipton Diet Green Tea for Urine Tests | JustAnswer",
+                            "og:article:section": "Medical",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.justanswer.com/medical/aeaod-use-lipton-diet-tea-instead-urine-will-work.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.justanswer.com/img/box_logo.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... understand and agree to our  and .\nWe use cookies to give you the best possible experience on our website. By continuing to use this site you consent to the use of cookies on your device as described in our  unless you have disabled them.\n]\nMedical\nHow it Works\nHow it Works\n!\n1.  \n3.  \nFound 1 result(s) for your search\nIf I use lipton diet tea instead of my urine will that work if it is sent to a lab and they test for a adultrrant or ph\n=======================================================================================================================\nDoctor's Assistant chat!\n**Customer:** If I use lipton diet green tea instead of my urine will that work if it is sent to a lab and they test for a adultrrant or ph and ox. I know it works on the test that show results immediatly.I am taking a 10 panel disa test with ph and ox adulterant test. The tea looks just like urine so color is good.\nAnswered by Dr. Captain in 4 mins 7 years ago\n!]\nI have specialized in common problems for men, women, children, and the elderly.\n!\n**1,634** satisfied customers\nSpecialities include: Autism, Cardiology, Dermatology, Drug Testing, Medical, Mental Health, Neurology, OB GYN, Oncology, Pediatrics, Pharmacy\n]\nHello, welcome to the JustAnswer.com question/answer interface.Your Doctor: I am a Family Medicine physician, trained and board-certified in the US with active licenses and certification, and 10 years of experience in Family Medicine, Internal Medicine, Pediatrics, and Obstetrics and Gynecology. I have advanced training in Integrative Medicine & Functional Medicine, Neurology, Cardiovascular Medicine, Gastroenterology, Endocrinology, and Psychiatry. I am also well-versed in Alternative Medicine. So far, 99.5% of the Justanswer community of customers has found my answers helpful, and I currently have the honor of being the highest rated clinician on the site! I will do my best to win over your approval as well!Excellent Reviews: For your review, here is a direct link with my current ratings: http://www.justanswer.com/medical/expert-familydoctor/To You: I have read your post and your query. To answer your direct question, if you use Lipton diet green tea instead of urine, the test will come back as tampered. We do background standardization of urine test samples that pick up these types of events, and that would be an automatic failure for you.\n!\nDiscover more answers\n]\nA...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "JustAnswer is a platform that connects users with experts across various fields for questions and answers. While it can provide useful information from qualified individuals, the level of quality and accuracy may vary significantly depending on the expert. There\u2019s no rigorous editorial oversight like in traditional publications, which can affect reliability."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2017-05-03"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This evidence is unrelated to the testing of Lipton lemon green tea. It discusses using Lipton tea for urine tests, but does not provide any scientific testing or analysis of the contents of the tea bags."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Beneficial effects of green tea: A literature review - PMC",
+                "htmlTitle": "Beneficial effects of <b>green tea</b>: A literature review - PMC",
+                "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2855614/",
+                "displayLink": "www.ncbi.nlm.nih.gov",
+                "snippet": "The Mediterranean Islands (MEDIS) epidemiological study is a cross-sectional health and nutrition survey that aims to evaluate the association between various\u00a0...",
+                "htmlSnippet": "The Mediterranean Islands (MEDIS) epidemiological <b>study</b> is a cross-sectional health and nutrition survey that aims to evaluate the association between various&nbsp;...",
+                "formattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2855614/",
+                "htmlFormattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2855614/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "dc.publisher": "BMC",
+                            "citation_publication_date": "2010",
+                            "og:image": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0",
+                            "citation_title": "Beneficial effects of green tea: A literature review",
+                            "citation_author_institution": "NPO International Laboratory of Biochemistry, 1-166 Uchide, Nakagawa-ku, Nagoya, 454-0926, Japan",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "PubMed Central (PMC)",
+                            "citation_reference": "citation_journal_title=J Am Coll Nutr; citation_title=The role of tea in human health: An update; citation_author=DL McKay; citation_author=JB Blumberg; citation_volume=21; citation_publication_date=2002; citation_firstpage=1; citation_lastpage=13;",
+                            "citation_journal_title": "Chinese Medicine",
+                            "ncbi_pdid": "article",
+                            "ncbi_pcid": "/articles/PMC2855614/",
+                            "ncbi_phid": "939BA27A7AFB0D55000036B0D5947697.1.m_2",
+                            "og:description": "The health benefits of green tea for a wide variety of ailments, including different types of cancer, heart disease, and liver disease, were reported. Many of these beneficial effects of green tea are related to its catechin, particularly (-)-epigallocatechin-3-gallate, ...",
+                            "ncbi_db": "pmc",
+                            "twitter:site": "@ncbi",
+                            "dc.type": "Text",
+                            "citation_fulltext_html_url": "/pmc/articles/PMC2855614/",
+                            "ncbi_app_version": "0.0",
+                            "ncbi_type": "fulltext",
+                            "citation_pmid": "20370896",
+                            "og:type": "article",
+                            "handheldfriendly": "True",
+                            "ncbi_app": "pmc-frontend",
+                            "og:title": "Beneficial effects of green tea: A literature review",
+                            "citation_author": "Sabu M Chacko",
+                            "citation_abstract_html_url": "/pmc/articles/PMC2855614/?report=abstract",
+                            "dc.date": "2010",
+                            "dc.contributor": "Sabu M Chacko",
+                            "citation_firstpage": "13",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "citation_doi": "10.1186/1749-8546-5-13",
+                            "mobileoptimized": "320",
+                            "ncbi_op": "retrieved",
+                            "dc.title": "Beneficial effects of green tea: A literature review",
+                            "ncbi_domain": "chimed",
+                            "dc.identifier": "10.1186/1749-8546-5-13",
+                            "citation_volume": "5",
+                            "dc.language": "en",
+                            "og:url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2855614/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...chins increase vitamin E concentration in low-density lipoprotein \\\\] and in this way could protect low-density lipoprotein against peroxidation \\\\].\nPilipenko _et al_. \\\\] assessed the tolerance of tableted green tea and its effect on the antioxidant status indices. Twenty-five patients with different gastrointestinal pathologies were included in the study and divided into treatment and control groups. The tolerance of tableted green tea was good in the treatment group, who showed better dynamics of quality-of-life indices, especially in scales of body pain and social functioning. There were no significant differences in biochemical analysis between the groups, which may indicate the safety of this product. Analysis revealed that the treatment group showed a decreased level of all antioxidant status indices, as reflected in a significant decreasing of the lipid peroxidation index from 4.63 to 4.14.\n### Effects on carbohydrate metabolism\nType II diabetes is a heterogeneous disorder that involves resistance of glucose and lipid metabolism in peripheral tissues to the biological activity of insulin and inadequate insulin secretion by pancreatic \u03b2 cells \\\\]. Animal models of diabetes are available: Zucker rats, which are genetically obese; injection of streptozotocin or alloxan, which destroys pancreatic \u03b2 cells; and treatment with sucrose-rich diets, which induces obesity and insulin resistance.\nIn a study by Sabu _et al_. \\\\], administration of GTPs (500 mg/kg) to normal rats increased glucose tolerance significantly at 60 minutes. GTPs were also found to reduce significantly serum glucose levels in alloxan diabetic rats at a dose of 100 mg/kg. Continued daily administration (15 days) of the extract at 50 or 100 mg/kg produced 29% and 44% reduction, respectively, in the elevated serum glucose level produced by alloxan administration. Elevated hepatic and renal enzymes produced by alloxan were found to be reduced significantly by GTPs. The serum lipid peroxidation level was increased by alloxan and reduced significantly by the administration of 100 mg/kg of GTPs. Decreased liver glycogen resulting from alloxan administration showed a significant increase after GTP treatment. The GTP-treated group showed increased antioxidant potential, as seen from improvements in superoxide dismutase and glutathione levels. However, catalase, lipid peroxidation, and glutathione peroxidase levels were unchanged. These results indicate that alterations in the glucose utilizing system and oxidation status in rats that were increased by alloxan were partially reversed by the administration of GTPs \\\\].\nCatechins also reduced plasma triglyceride levels in an oral glucose-tolerance test in normal rats \\\\]. Green tea extract intake reduced these values in both Zucker rats and rats fed a sucrose-rich diet \\,\\]. Several human- and animal-based studies suggested that green...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "NCBI (National Center for Biotechnology Information) is a reputable government-operated site that provides access to biomedical literature and databases. Its content is peer-reviewed and scientifically validated, making it very reliable for health-related claims. It would provide accurate insights or studies related to food safety, including any biological contaminants."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "Although this literature review discusses green tea and its health benefits, it does not specifically address scientific testing of Lipton lemon flavor green tea bags. It lacks direct relevance to the contents of the specific products in question."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Does drinking green tea help you pass a urine drug screening test ...",
+                "htmlTitle": "Does drinking <b>green tea</b> help you pass a urine drug screening <b>test</b> ...",
+                "link": "https://www.quora.com/Does-drinking-green-tea-help-you-pass-a-urine-drug-screening-test",
+                "displayLink": "www.quora.com",
+                "snippet": "Apr 2, 2018 ... Haven't smoked marijuana for 31 days now. I've exercised, drank Yogi DeTox tea, green tea with lemon, and V8 greens and veggie drinks along with\u00a0...",
+                "htmlSnippet": "Apr 2, 2018 <b>...</b> Haven&#39;t smoked marijuana for 31 days now. I&#39;ve exercised, drank Yogi DeTox tea, <b>green tea</b> with <b>lemon</b>, and V8 greens and veggie drinks along with&nbsp;...",
+                "formattedUrl": "https://www.quora.com/Does-drinking-green-tea-help-you-pass-a-urine-dru...",
+                "htmlFormattedUrl": "https://www.quora.com/Does-drinking-<b>green</b>-<b>tea</b>-help-you-pass-a-urine-dru...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "al:android:url": "intent://www.quora.com/Does-drinking-green-tea-help-you-pass-a-urine-drug-screening-test#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FDoes-drinking-green-tea-help-you-pass-a-urine-drug-screening-test&logging_data=uid%3DNone;end",
+                            "theme-color": "#b92b27",
+                            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+                            "al:android:package": "com.quora.android",
+                            "fb:pages": "255232486973",
+                            "twitter:widgets:theme": "light"
+                        }
+                    ],
+                    "QAPage": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... plenty of time to rid your system of the drug, get a prescription, or explain yourself on the test results. No judgment at all here btw, I\u2019ve just been asked this a lot in my field and many times it is very easy to avoid the panic of a drug screening with proper planning. Good luck and I wish you the best.\nUpvote \u00b7\n95\nRelated questions\nMore answers below\n]\nAerial artist, devops dilettante, literate linguist \u00b7 Author has 6.1K answers and 13.2M answer views\n\u00a0\u00b7\u00a0\nAt what point? Green tea can be an effective component of a flush, if that\u2019s your preferred source of water and caffeine. For heavy cannabis use in particular you ideally want a week to flush, but with total water fasting and creatine/b supplementation you might be able to skate by with a few days\u2019 worth. Most other drugs clear up in much shorter timeframes. For any test, the closer you are to the test the less effective any cleanse method is.\nAs for whether it\u2019s a magic bullet you can drink an hour beforehand? Hell no, it\u2019ll make you pee, but you\u2019ll still pee hot if you\u2019re hot.\nUpvote \u00b7\n]\nIf done correctly before a UA, yes green tea along with vitamins will help you pass. Take a multi vitamin and a B, C or anything for color and give about an hour for it to run its course through your system (make you pee). Use the middle of the stream (cleanest part). Worked 12 times for me when I shouldn't have passed.. That's every time btw\nUpvote \u00b7\n9949\n94\n]\nFormer Typist (1986\u20131986) \u00b7 Author has 7.4K answers and 1.7M answer views\n\u00a0\u00b7\u00a0\nRelated\nWill drinking a small juice glass of tea made from safrass root give you a positive urine screen?\nThe medicinal uses and health benefits of the tree have been noted to aid in strengthening immunity, preventing cancer, soothing menstrual pain, and in relieving adrenal stress. Other known benefits: the leaves have been found to detoxify the body as a diuretic by flushing the system. It will flush your system by drinking it. However, you don't want to drink a lot and actually it's banned. The roots and bark of the sassafras tree contain a high concentration of the chemical named safrole. Safrole was listed as a carcinogen in rats by the Food and Drug Administration (FDA) and is hence banned...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Quora is a user-generated content platform where people can ask questions and receive answers from the community. The credibility of information can vary greatly since anyone can answer. While some responses may be knowledgeable, there is a high potential for misinformation and lack of verification."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2018-04-02"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This is a personal anecdote about using green tea to help with urine drug tests. It does not provide scientific testing or confirm the contents of Lipton lemon flavor green tea bags."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Lemongrass tea: Benefits, uses, and recipe",
+                "htmlTitle": "<b>Lemongrass tea</b>: Benefits, uses, and recipe",
+                "link": "https://www.medicalnewstoday.com/articles/321969",
+                "displayLink": "www.medicalnewstoday.com",
+                "snippet": "Lemongrass is an herb that people can use to make a nutritious tea. Study results suggest that lemongrass has a wide range of health benefits,\u00a0...",
+                "htmlSnippet": "Lemongrass is an herb that people can use to make a nutritious <b>tea</b>. <b>Study results</b> suggest that lemongrass has a wide range of health benefits,&nbsp;...",
+                "formattedUrl": "https://www.medicalnewstoday.com/articles/321969",
+                "htmlFormattedUrl": "https://www.medicalnewstoday.com/articles/321969",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBUxv_wWyQtY2_UuE5iIHGsD8Wm2hyDv5VikRbS36U1KIhGsEwBYieRYsh&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2020/02/321969_2200-1200x628.jpg",
+                            "article:published_time": "2018-10-24T11:00:00.000Z",
+                            "og:type": "article",
+                            "twitter:title": "Lemongrass tea: Benefits, uses, and recipe",
+                            "twitter:card": "summary_large_image",
+                            "og:image:width": "1200",
+                            "sailthru.tags": "cat_anxiety,cat_infectious_diseases,cat_nutrition-diet,k1_herbalsupplements,k2_alternativemedicine",
+                            "k1": "herbalsupplements",
+                            "kmeta": "eczema-predictive-aq,obesity-predictive-aq,psoriasis-predictive-aq,bipolar-predictive-aq-1,depression-predictive-aq-1",
+                            "k2": "alternativemedicine",
+                            "og:title": "Lemongrass tea: Benefits, uses, and recipe",
+                            "og:image:height": "628",
+                            "sailthru.image.thumb": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2020/02/321969_2200-732x549.jpg",
+                            "og:description": "Lemongrass is an herb that people can use to make a nutritious tea. Study results suggest that lemongrass has a wide range of health benefits, including relieving anxiety, lowering cholesterol, and reducing bloating. In this article, we look at these studies and consider the evidence for the benefits of lemongrass.",
+                            "article:author": "Rachel Nall, MSN, CRNA",
+                            "twitter:image": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2020/02/321969_2200-732x549.jpg",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Lemongrass is an herb that people can use to make a nutritious tea. Study results suggest that lemongrass has a wide range of health benefits, including relieving anxiety, lowering cholesterol, and reducing bloating. In this article, we look at these studies and consider the evidence for the benefits of lemongrass.",
+                            "og:url": "https://www.medicalnewstoday.com/articles/321969"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2020/02/321969_2200-1200x628.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...10 and 30 days into the study. They concluded that drinking lemongrass tea boosts the formation of red blood cells.\nWhile they did not identify precisely how lemongrass does this, they did suggest that the tea\u2019s  properties could play a role.\n### 7\\. Relieving bloating\nDrinking lemongrass tea can have diuretic effects, which means that it stimulates the kidneys to release more urine than usual.\nAccording to a 00157-5/abstract) in the _Journal of Renal Nutrition_, drinking lemongrass tea increases urine output more than other beverages.\nThis diuretic effect on the body can be beneficial in cases where  leads to bloating. This is a common symptom of premenstrual syndrome (PMS).\nLemongrass stalks are available in many grocery stores.\nIt is possible to make lemongrass tea at home. After purchasing the stalks at a grocery store or herbalist, people can take the following steps to brew their tea:\n*   use 1-2 stalks cut into 1- to 2-inch pieces\n*   boil a cup of water\n*   pour the boiling water over the lemongrass stalks to steep\n*   leave the stalks in the water for at least 5 minutes\n*   strain the liquid from the stalks and pour into a teacup\nAdding ice cubes will create a cold lemongrass tea.\nThe tea should have a fresh, citrusy taste. A person should start with one cup of lemongrass tea per day, then add more to their diet over the next days if they wish to.\nAlternatively, most grocery and health food stores sell lemongrass tea. It is also .\nLemongrass tea can be a delicious beverage that also offers health benefits.\nWhile most of the studies to date on lemongrass tea are small-scale or lab-based, results show that lemongrass tea can help to improve oral health, lower cholesterol, and relieve bloating.\nIn addition to drinking lemongrass as a tea, people can add the herb into dishes such as soups and stir fries.",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Medical News Today is generally considered a reliable source for health news and medical information. It employs editorial standards and fact-checking, leading to higher credibility. However, like any news site, it may sometimes cover sensational aspects of health claims, so it needs to be referenced cautiously when addressing specific allegations."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2018-10-24"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "This discusses the benefits of lemongrass tea but does not address Lipton lemon flavor green tea bags specifically. It does not provide scientific testing relevant to the claim of worms or the contents of these tea bags."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Green Tea Review: Tea Bags, Matcha, & Supplements & Top Picks ...",
+                "htmlTitle": "<b>Green Tea</b> Review: Tea Bags, Matcha, &amp; Supplements &amp; Top Picks ...",
+                "link": "https://www.consumerlab.com/reviews/green-tea-review-tea-bags-matcha-supplements/green-tea/",
+                "displayLink": "www.consumerlab.com",
+                "snippet": "Feb 15, 2024 ... If you want to find the best green tea high in antioxidants such as EGCG, you'll want to see our laboratory findings.",
+                "htmlSnippet": "Feb 15, 2024 <b>...</b> If you want to find the best <b>green tea</b> high in antioxidants such as EGCG, you&#39;ll want to see our <b>laboratory</b> findings.",
+                "formattedUrl": "https://www.consumerlab.com/reviews/green-tea-review-tea.../green-tea/",
+                "htmlFormattedUrl": "https://www.consumer<b>lab</b>.com/reviews/<b>green</b>-<b>tea</b>-review-<b>tea</b>.../<b>green</b>-<b>tea</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaBFOAu8uqcLt2mYDbvxyiEJ1sSleCRhihzh4lb_5vv2bJPV2ryNJwfbA&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#FFFFFF",
+                            "msapplication-config": "https://cdn.consumerlab.com/static/browserconfig.xml",
+                            "og:image": "https://cdn.consumerlab.com/images/review/Green_Tea_2024_image_1400_x_787.jpg",
+                            "theme-color": "#ffffff",
+                            "og:type": "website",
+                            "og:image:alt": "Green Tea Review 2024",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "ConsumerLab.com",
+                            "image_url": "https://cdn.consumerlab.com/images/review/Green_Tea_2024_image_1400_x_787.jpg",
+                            "og:title": "Green Tea Review: Tea Bags, Matcha, & Supplements  & Top Picks - ConsumerLab.com",
+                            "msapplication-tileimage": "https://cdn.consumerlab.com/images/icons/ms-icon-144x144.png",
+                            "og:description": "If you want to find the best green tea high in antioxidants such as EGCG, you'll want to see our laboratory findings. We discovered a shocking range of EGCG,  from 8 mg to more than 450 mg per serving! See results for popular brands of green tea as tea bags, bottled tea, ceremonial matcha powder, and green tea extract supplements. Also see how much caffeine we found, compare prices, and learn what conditions green tea is good for and about potential side effects.",
+                            "twitter:site": "@ConsumerLab",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no",
+                            "og:url": "https://www.consumerlab.com/reviews/green-tea-review-tea-bags-matcha-supplements/green-tea/",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.consumerlab.com/images/review/Green_Tea_2024_image_1400_x_787.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Green Tea for Lowering Blood Pressure\n##### March 30, 2019\nDrinking green tea can help lower high blood pressure \u2014 and even reverse ventricular hypertrophy, according to a new study. For details, including the amount and brand of tea used, see the  section of the Green Tea Review. Also see our  for green tea.\n### Hot Tea & Cancer\n##### March 20, 2019\nDrinking very hot tea increases the risk of developing esophageal cancer. How long should you wait after brewing to drink tea? Find out what recent studies are showing in the  section of the Green Tea Review. Also see other tips for the  brewable green tea, and our  among green tea products.\n### Getting the Most from Green Tea\n##### January 30, 2019\nIf you drink green tea to get beneficial compounds like EGCG, learn about a recent study that suggests that the type of water you use to brew tea drastically affects the amount of EGCG you get. Get the details in the  section of the Green Tea Review. Also see our  for green tea.\n### Cleaner Green Tea\n##### October 27, 2018\nA recent study found that it is possible to modestly reduce pesticides in green tea by following a certain procedure before brewing. For details, see the  section of the Green Tea Review. (Also see our  among green teas, matcha powders, and supplements.)\n### A Caution With Green Tea\n##### October 16, 2018\nAlthough consumption of green tea is generally associated with a reduced risk of cancers, drinking it a certain way may increase the risk of certain cancers. Get the details in the  section of the Green Tea Review. (Also see our  among green tea in bags, bottles, supplements, and matcha.)\n### Green Tea as a Prebiotic\n##### July 20, 2018\nGreen tea may have a prebiotic effect \u2014 stimulating the growth of beneficial bacteria in the gut. Find out what clinical trials are showing in the  section of the Green Tea Review. (Also see our  among green tea products).\n### Avoiding Green Tea Toxicity\n##### April 24, 2018\nThe European counterpart to the FDA recently issued its conclusions regarding toxicity from green tea catechins. Get the details in the  section of the Green Tea Review.\n### Green Tea and Ovarian Cancer\n##### March 27, 2018\nDrinking green tea was associated with a reduced risk of developing ovarian cancer in a recent analysis. Get the details about this and green tea's relationship to other types of...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "ConsumerLab is a well-respected site that tests health products and supplements for quality and contamination. It is known for rigorously verifying health claims and providing unbiased reviews. Their resources are credible for investigating claims involving contaminants in food products or health-related items."
+                },
+                "Newness": {
+                    "NewnessScore": 6,
+                    "Date": "2024-02-15"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This source mentions a review of green tea products and their antioxidant properties but does not specifically verify or test the contents of Lipton lemon flavor green tea bags. It is somewhat relevant."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Lemon Iced Tea - Recipe File - Cooking For Engineers",
+                "htmlTitle": "<b>Lemon</b> Iced <b>Tea</b> - Recipe File - Cooking For Engineers",
+                "link": "https://www.cookingforengineers.com/recipe/121/Lemon-Iced-Tea",
+                "displayLink": "www.cookingforengineers.com",
+                "snippet": "Mar 2, 2006 ... I dissolve 3/4 cups of sugar into 4cups of boiling water. Then in another container I boil 2 quarts of water and add 12-13 Lipton tea bags and\u00a0...",
+                "htmlSnippet": "Mar 2, 2006 <b>...</b> I dissolve 3/4 cups of sugar into 4cups of boiling water. Then in another container I boil 2 quarts of water and add 12-13 <b>Lipton tea</b> bags and&nbsp;...",
+                "formattedUrl": "https://www.cookingforengineers.com/recipe/121/Lemon-Iced-Tea",
+                "htmlFormattedUrl": "https://www.cookingforengineers.com/recipe/121/<b>Lemon</b>-Iced-<b>Tea</b>",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAIAYj3pXzaE4IJ0mfy1NtMsSHmKUEHiksasAPVzd9HT0RTzZ5wR3frQwb&s",
+                            "width": "240",
+                            "height": "210"
+                        }
+                    ],
+                    "recipeingredient": [
+                        {
+                            "amount": "1/2 gallon (1.9 L)",
+                            "name": "water"
+                        },
+                        {
+                            "amount": "2 bags",
+                            "name": "of black tea"
+                        },
+                        {
+                            "amount": "3/4 cup (150 g)",
+                            "name": "sugar"
+                        },
+                        {
+                            "amount": "2 oz. (60 mL)",
+                            "name": "lemon juice"
+                        },
+                        {
+                            "name": "ice"
+                        }
+                    ],
+                    "recipe": [
+                        {
+                            "author": "Michael Chu",
+                            "name": "Lemon Iced Tea",
+                            "photo": "http://images.cookingforengineers.com/pics2/320/DSC_1319_crop.jpg",
+                            "publishdate": "2006-03-02"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "http://images.cookingforengineers.com/pics2/320/DSC_1165_crop.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...away'\" onmouseover=\"lb('nl332')\" onmouseout=\"db('nl332')\"><a href=\"/article/332/Thermoworks-Thermapen-2013-Giveaway\" title=\"Off Topic: Thermoworks Thermapen 2013 Giveaway!\">Thermoworks Thermapen 2013 Giveaway!</a></td></tr><tr><td id=\"nl116\" onclick=\"window.location='/article/116/Comments-and-Forums'\" onmouseover=\"lb('nl116')\" onmouseout=\"db('nl116')\"><a href=\"/article/116/Comments-and-Forums\" title=\"Off Topic: Comments and Forums\">Comments and Forums</a></td><td id=\"nl263\" onclick=\"window.location='/article/263/Foodoro'\" onmouseover=\"lb('nl263')\" onmouseout=\"db('nl263')\"><a href=\"/article/263/Foodoro\" title=\"Off Topic: Foodoro\">Foodoro</a></td><td id=\"nl217\" onclick=\"window.location='/article/217/Orthogonal-Thought-A-New-Blog'\" onmouseover=\"lb('nl217')\" onmouseout=\"db('nl217')\"><a href=\"/article/217/Orthogonal-Thought-A-New-Blog\" title=\"Off Topic: Orthogonal Thought - A New Blog\">Orthogonal Thought - A New Blog</a></td><td id=\"nl338\" onclick=\"window.location='/article/338/Thermoworks-Thermapen-2014-Giveaway'\" onmouseover=\"lb('nl338')\" onmouseout=\"db('nl338')\"><a href=\"/article/338/Thermoworks-Thermapen-2014-Giveaway\" title=\"Off Topic: Thermoworks Thermapen 2014 Giveaway!\">Thermoworks Thermapen 2014 Giveaway!</a></td></tr><tr><td id=\"nl118\" onclick=\"window.location='/article/118/Comments-and-Forums-Back-Online'\" onmouseover=\"lb('nl118')\" onmouseout=\"db('nl118')\"><a href=\"/article/118/Comments-and-Forums-Back-Online\" title=\"Off Topic: Comments and Forums Back Online\">Comments and Forums Back Online</a></td><td id=\"nl278\" onclick=\"window.location='/article/278/Free-Cookbook-from-Snubbr'\" onmouseover=\"lb('nl278')\" onmouseout=\"db('nl278')\"><a href=\"/article...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Cooking for Engineers focuses on scientific approaches to cooking and recipes but does not specialize in food safety or health-related claims. The information can be reliable within the scope of cooking techniques and recipes but may lack depth in evaluating food safety concerns, so it's not a primary source for the claim."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2006-03-02"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence refers to a recipe for lemon iced tea. It provides no scientific analysis or testing information relevant to Lipton lemon flavor green tea bags and their contents."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Comparative Study of the Antioxidant Activity of Two Popular Green ...",
+                "htmlTitle": "Comparative <b>Study</b> of the Antioxidant Activity of Two Popular <b>Green</b> ...",
+                "link": "https://www.scirp.org/journal/paperinformation?paperid=67476",
+                "displayLink": "www.scirp.org",
+                "snippet": "Discover the antioxidant power of Lipton and Rabea green teas in Saudi Arabia. Uncover their total phenolic content and impressive antioxidant activity.",
+                "htmlSnippet": "Discover the antioxidant power of <b>Lipton</b> and Rabea <b>green teas</b> in Saudi Arabia. Uncover their total phenolic content and impressive antioxidant activity.",
+                "formattedUrl": "https://www.scirp.org/journal/paperinformation?paperid=67476",
+                "htmlFormattedUrl": "https://www.scirp.org/journal/paperinformation?paperid=67476",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFMtcM_IWzzsM2EZamP-kL1KqgPH466cH30lka0wpFv_CXU_LKrK6vEfI8&s",
+                            "width": "130",
+                            "height": "177"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://file.scirp.org/image/NS2016062316020293.jpg",
+                            "citation_publication_date": "2016/6/17",
+                            "citation_title": "Comparative Study of the Antioxidant  Activity of Two Popular Green Tea  Beverages Available in the Local Market of Saudi Arabia",
+                            "og:site_name": "SCIRP",
+                            "citation_year": "2016",
+                            "citation_publisher": "Scientific Research Publishing",
+                            "citation_journal_title": "Natural Science",
+                            "citation_issnonline": "2150-4105",
+                            "citation_date": "2016-06-17",
+                            "title": "Comparative Study of the Antioxidant  Activity of Two Popular Green Tea  Beverages Available in the Local Market of Saudi Arabia",
+                            "og:image:secure_url": "https://file.scirp.org/image/NS2016062316020293.jpg",
+                            "fulltext_xml": "http://www.scirp.org/xml/67476.xml",
+                            "citation_online_date": "2016/6/17",
+                            "dc.source": "Natural Science",
+                            "dc.creator": "Ulfat M. Omar",
+                            "citation_fulltext_html_url": "http://www.scirp.org/journal/PaperInformation.aspx?PaperID=67476",
+                            "citation_pdf_url": "http://www.scirp.org/journal/PaperDownload.aspx?paperID=67476",
+                            "citation_xml_url": "http://www.scirp.org/xml/67476.xml",
+                            "citation_lastpage": "234",
+                            "og:type": "article",
+                            "dc.description": "Antioxidants have numerous applications due to their multiple roles in diminishing harmful effects of oxidative stress. The objective of this work was to highlight the importance of green tea by evaluating the antioxidant activity of the most popular green tea brands in Saudi Arabia, Lipton and Rabea. To our knowledge, no studies have so far been done to estimate the antioxidant activity of these brands. To determine the antioxidant activities of these two brands, 10 mg/ml of each brand was extracted and their total phenolic content (TPC), 2,2-diphenyl-1-picrylhydrazyl (DPPH) radical scavenging activity, hydrogen peroxide scavenging activity, ferric reducing power and ferrous ion chelating effect were measured. The TPC of Lipton tea was 678.7 \u03c5g of gallic acid equivalents (GAE)/10mg, whereas in Rabea tea, the TPC was 647.1 \u03c5g GAE/10mg. The presence study indicated that there were no significant differences in total phenolic contents and the percentage inhibition as shown in DPPH and H2O2 assays among Lipton",
+                            "citation_issnprint": "2150-4091",
+                            "og:title": "Comparative Study of the Antioxidant  Activity of Two Popular Green Tea  Beverages Available in the Local Market of Saudi Arabia",
+                            "citation_abstract": "Antioxidants have numerous applications due to their multiple roles in diminishing harmful effects of oxidative stress. The objective of this work was to highlight the importance of green tea by evaluating the antioxidant activity of the most popular green tea brands in Saudi Arabia, Lipton and Rabea. To our knowledge, no studies have so far been done to estimate the antioxidant activity of these brands. To determine the antioxidant activities of these two brands, 10 mg/ml of each brand was extracted and their total phenolic content (TPC), 2,2-diphenyl-1-picrylhydrazyl (DPPH) radical scavenging activity, hydrogen peroxide scavenging activity, ferric reducing power and ferrous ion chelating effect were measured. The TPC of Lipton tea was 678.7 \u03c5g of gallic acid equivalents (GAE)/10mg, whereas in Rabea tea, the TPC was 647.1 \u03c5g GAE/10mg. The presence study indicated that there were no significant differences in total phenolic contents and the percentage inhibition as shown in DPPH and H2O2 assays among Lipton",
+                            "citation_author": "Ulfat M. Omar",
+                            "citation_abstract_html_url": "http://www.scirp.org/Journal/Paperabs.aspx?paperid=67476",
+                            "citation_issue": "6",
+                            "dcterms.issued": "2016-06-17",
+                            "citation_authors": "Ulfat M. Omar;Ayat M. Shorbaji;Entesar M. Arrait;Tasneem D. Al Agha;Hala F. Al-Marzouki;Huda A. Al Doghaither;Ayat B. Al-Ghafari",
+                            "fulltext_html": "http://www.scirp.org/journal/PaperInformation.aspx?PaperID=67476",
+                            "citation_firstpage": "227",
+                            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                            "fulltext_pdf": "http://www.scirp.org/journal/PaperDownload.aspx?paperID=67476",
+                            "citation_doi": "10.4236/ns.2016.86027",
+                            "dc.title": "Comparative Study of the Antioxidant  Activity of Two Popular Green Tea  Beverages Available in the Local Market of Saudi Arabia",
+                            "citation_volume": "8",
+                            "og:url": "https://www.scirp.org/journal/paperinformation?paperid=67476",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://file.scirp.org/image/NS2016062316020293.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Abstract\nAntioxidants have numerous applications due to their multiple roles in diminishing harmful effects of oxidative stress. The objective of this work was to highlight the importance of green tea by evaluating the antioxidant activity of the most popular green tea brands in Saudi Arabia, Lipton and Rabea. To our knowledge, no studies have so far been done to estimate the antioxidant activity of these brands. To determine the antioxidant activities of these two brands, 10 mg/ml of each brand was extracted and their total phenolic content (TPC), 2,2-diphenyl-1-picrylhydrazyl (DPPH) radical scavenging activity, hydrogen peroxide scavenging activity, ferric reducing power and ferrous ion chelating effect were measured. The TPC of Lipton tea was 678.7 \u03c5g of gallic acid equivalents (GAE)/10mg, whereas in Rabea tea, the TPC was 647.1 \u03c5g GAE/10mg. The presence study indicated that there were no significant differences in total phenolic contents and the percentage inhibition as shown in DPPH and H2O2 assays among Lipton and Rabea green teas. Moreover, it was found that all assays have exhibited high antioxidant activity in both green teas. In conclusion, our study showed evidence for evenness and stability of the antioxidant activity of the two commercial green teas available in the markets of Saudi Arabia. Continued researches are needed to further the current knowledge on the health-promoting effects of this popular beverage using different supplements by different mechanisms.\nKeywords\nGreen Tea,  Polyphenols,  Antioxidants,  Radical Scavenging Activity,  Total Phenolic Content \nShare and Cite: \nReceived 17 February 2016; accepted 14 June 2016; published 17 June 2016\n\n\n1. Introduction\nTea is the most widely consumed drink in the world after water. It has been cultivated and consumed for more than 2000 years. Tea comes from the leaves of two classes of Camellia sinensis plant: assamica and sinensis, which originate in China and Southeast Asia [1] [2] . Tea has complex structure, which contains polyphenols, amino acids, proteins, alkaloids, minerals, carbohydrates, volatile compounds and trace elements [3]...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "SCIRP (Scientific Research Publishing) is an open-access publisher that releases academic papers. While it can provide valuable insights from research, the quality can vary since not all papers are peer-reviewed to the same standard as mainstream scientific journals. It's a useful resource but should be approached cautiously."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This study assesses the antioxidant activity of Lipton and other green teas. While it suggests some analysis of Lipton's products, it does not provide specific testing of the lemon flavor green tea bags, though it mentions Lipton, making it moderately relevant."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Green Tea Is Associated With Reduced All-Cause Mortality Risk : r ...",
+                "htmlTitle": "<b>Green Tea</b> Is Associated With Reduced All-Cause Mortality Risk : r ...",
+                "link": "https://www.reddit.com/r/longevity/comments/10o6b76/green_tea_is_associated_with_reduced_allcause/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Jan 29, 2023 ... A good study might be to have some people who never drank green tea before, drink it for a few months, and see what happens. Upvote",
+                "htmlSnippet": "Jan 29, 2023 <b>...</b> A good <b>study</b> might be to have some people who never drank <b>green tea</b> before, drink it for a few months, and see what happens. Upvote",
+                "formattedUrl": "https://www.reddit.com/r/.../green_tea_is_associated_with_reduced_allcause...",
+                "htmlFormattedUrl": "https://www.reddit.com/r/.../<b>green</b>_<b>tea</b>_is_associated_with_reduced_allcause...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRvwzH270IS4g8kCeLnb5pxgMeWg1O46WS1C8_QlGHS0dIAV5bZa7falns&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://external-preview.redd.it/kfMPm6jrZ7m_ai0FZp2AtyTcOlDHJNlSOqz-DU74ZBM.jpg?format=pjpg&auto=webp&s=97a75c54a9e83ab14707aa27bc39e34e59187095",
+                            "theme-color": "#000000",
+                            "og:image:width": "480",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/longevity on Reddit: Green Tea Is Associated With Reduced All-Cause Mortality Risk",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/longevity on Reddit: Green Tea Is Associated With Reduced All-Cause Mortality Risk",
+                            "og:image:height": "360",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/mlhnrca - 263 votes and 68 comments",
+                            "twitter:image": "https://external-preview.redd.it/kfMPm6jrZ7m_ai0FZp2AtyTcOlDHJNlSOqz-DU74ZBM.jpg?format=pjpg&auto=webp&s=97a75c54a9e83ab14707aa27bc39e34e59187095",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/longevity/comments/10o6b76/green_tea_is_associated_with_reduced_allcause/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://external-preview.redd.it/kfMPm6jrZ7m_ai0FZp2AtyTcOlDHJNlSOqz-DU74ZBM.jpg?format=pjpg&auto=webp&s=97a75c54a9e83ab14707aa27bc39e34e59187095"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "Reddit is a social news aggregation and discussion website where the reliability of information fluctuates significantly based on the subreddit and user sources. While it can be a source of anecdotal evidence or community experiences, it is not a reliable site for factual information due to the potential for misinformation and lack of editorial control."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-01-29"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This is a community discussion about green tea benefits and studies but does not provide actual scientific testing or analysis of Lipton lemon flavor green tea bags."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Caffeine | Tea With Gary",
+                "htmlTitle": "Caffeine | <b>Tea</b> With Gary",
+                "link": "https://teawithgary.com/tag/caffeine/",
+                "displayLink": "teawithgary.com",
+                "snippet": "I've had some wonderful meals in restaurants and gone home disappointed because I got some bitter, oversteeped Lipton tea from a teabag instead of the\u00a0...",
+                "htmlSnippet": "I&#39;ve had some wonderful meals in restaurants and gone home disappointed because I got some bitter, oversteeped <b>Lipton tea</b> from a teabag instead of the&nbsp;...",
+                "formattedUrl": "https://teawithgary.com/tag/caffeine/",
+                "htmlFormattedUrl": "https://<b>tea</b>withgary.com/tag/caffeine/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDyesUwg0yaUqvhTcNYeMQREYtZIA7JxGnc_qDCrnvYjOspiDZ6fX4abgw&s",
+                            "width": "200",
+                            "height": "200"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "application-name": "Tea With Gary",
+                            "og:image": "https://teawithgary.com/wp-content/uploads/2024/03/twg-logo-round.png?w=200",
+                            "og:type": "website",
+                            "og:image:width": "200",
+                            "og:site_name": "Tea With Gary",
+                            "msapplication-window": "width=device-width;height=device-height",
+                            "og:title": "Caffeine \u2013 Tea With Gary",
+                            "og:image:height": "200",
+                            "msapplication-tileimage": "https://teawithgary.com/wp-content/uploads/2024/03/twg-logo-round.png?w=270",
+                            "twitter:creator": "@TeaWithGary",
+                            "viewport": "width=device-width",
+                            "og:locale": "en_US",
+                            "og:url": "https://teawithgary.com/tag/caffeine/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://teawithgary.com/wp-content/uploads/2024/03/twg-logo-round.png?w=200"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... then, but since it\u2019s been ten years, I decided it could use an update, so here\u2019s the new & improved version._\n]\nDear Restaurants,\nI love you. Really I do. I\u2019m not a picky guy. I\u2019m certainly not a snob. I love a five-course meal at a five-star restaurant, but I also must confess a fondness for a \u201cSnag Burger\u201d at the bar down the street from my shop. I love a good Indian buffet, a medium-rare steak, authentic London fish and chips, and an authentic Inverness haggis with neeps & tatties. Basically, if the chef cares about how the food tastes, I\u2019m probably going to enjoy it. And if your servers care about serving the customers, I\u2019m probably going to enjoy being in your restaurant. I love eating out.\nBut we\u2019ve really got to talk about your tea.\nTo many people, having the right wine to go with their dinner transforms a good meal into a great one. Coffee drinkers will greatly appreciate fresh-brewed coffee, and beer aficionados will be greatly disappointed it you offer nothing but bland \u201cmegabrews\u201d like Bud and Coors.\nThose of us that love our tea feel exactly the same way. I\u2019ve had some wonderful meals in restaurants and gone home disappointed because I got some bitter, oversteeped Lipton tea from a teabag instead of the restaurant putting in just a wee bit of effort and providing a good cup.\nI\u2019m not a , telling you and your other patrons the one and only way to make a proper cup of tea. Most of what I\u2019m asking for is a proper selection and giving us the option to steep it as we wish.\n### #1: Tell us (or show us) the options!\nFirst, if your restaurant is even half a notch above fast food, you have more than one type of tea, right? It may be  from the factory floor in a Lipton teabag, but you\u2019ll have a black tea, a green tea, something without caffeine, and either  or Moroccan Mint. If you don\u2019t offer at least those four, you\u2019d might as well hang a sign that says, \u201cTea Drinkers Not Welcome.\u201d\nSo let\u2019s start with that. When we order a cup of hot tea, either ask what kind we want, or present us with a basket or box containing a selection to choose from. Don\u2019t just bring out a cup of black tea and then let us find out later that you had other options.\n### #2: Hot water. Really hot water.\nNext, don\u2019t grab the water until you\u2019re...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "This site appears to be a personal blog focused on tea. Its value depends on the author's expertise and the quality of the research cited. There may be some useful information, but its credibility is not proven as it does not operate under rigorous editorial standards, making it mid-tier regarding reliability."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence talks about general dissatisfaction with Lipton tea quality but does not provide any scientific evidence or testing regarding the contents of the lemon flavor green tea bags."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "USDA National Fluoride Database of Selected Beverages and ...",
+                "htmlTitle": "USDA National Fluoride Database of Selected Beverages and ...",
+                "link": "https://www.ars.usda.gov/ARSUserFiles/80400525/data/fluoride/f02.pdf",
+                "displayLink": "www.ars.usda.gov",
+                "snippet": "These data included beer, wine, drinking water, brewed tea (considered. Page 6. 4 significant contributors to total intake of fluoride) and miscellaneous lower\u00a0...",
+                "htmlSnippet": "These data included beer, wine, drinking water, brewed <b>tea</b> (considered. Page 6. 4 significant contributors to total intake of fluoride) and miscellaneous lower&nbsp;...",
+                "formattedUrl": "https://www.ars.usda.gov/ARSUserFiles/80400525/data/fluoride/f02.pdf",
+                "htmlFormattedUrl": "https://www.ars.usda.gov/ARSUserFiles/80400525/data/fluoride/f02.pdf",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "moddate": "D:20071128151248-05'00'",
+                            "creationdate": "D:20051223111304-05'00'",
+                            "creator": "PScript5.dll Version 5.2.2",
+                            "author": "HNI01DH",
+                            "producer": "Acrobat Distiller 7.0.5 (Windows)",
+                            "title": "Microsoft Word - edited 2 documentation.doc"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "[Content truncated]..., bottled water, and a limited number of foods were picked up in 12 to 36 locations. The authors\u2019 assumption that the fluoride variability would be lower in processed beverages and foods than that of municipal water was made based on existing data and the results of the water pilot study (Miller-Ihli et al ., 2003), and hence fewer samples. The procurement and sample preparation of the foods and beverages that are the chief contributors of fluoride were handled through NFNAP supervised contracts and agreements. Sample units were purchased at retail sites, following detailed instruction from NDL. Virginia Polytechnic Institute and State University, Food Analysis Laboratory Control Center (FALCC) handled sample preparation. A quality control (QC) oversight program was established by the NFDIAS Laboratory Methods/Quality Control Working Group with representation from NDL, the University of Iowa, and FALCC. NFDIAS quality control materials were prepared by the USDA, Food Composition Laboratory (FCL) and by the NDL and characterized by three cooperating laboratories. The University of Iowa, College of Dentistry, conducted the laboratory analysis of fluoride. Samples were analyzed using a fluoride ion-specific electrode direct read method for clear liquids and a micro-diffusion method for other food samples. The direct reading method was validated using Certified Reference Material (National Institute of Standards and Technology (NIST), a Standard Reference Material (SRM) 2671a, Fluoride in Freeze-Dried Urine) and by a comparison of results for several beverage samples between University of Iowa and FCL (Patterson et al ., 2004). The micro-diffusion method was validated by analysis of a Certified Reference Material (National Research Centre for Certified Reference Materials, Beijing, China, GBW 08572 Prawns) and other reference materials that have reference values for the fluoride content (for example: NIST, SRM 8436), prior to sample analysis. Methodological procedures for analyzing carbonated beverages were developed at the University of Iowa and presented at the March 2004 International Association for Dental Research (IADR) Meeting (Heilman et al ., 2004). Values in the database are reported on a 100 gram and on a ppm basis on the edible portion of a food. For some foods, no standard error was available from the literature source. Much of the literature data as well as the analytical data reported by the University of Iowa were reported on a ppm basis. Specific gravities needed for fluoride data conversion and migrations were obtained from VPI. Specific gravities for literature data were based on the specific gravities obtained...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The Agricultural Research Service of the USDA is a highly credible source for agricultural and food safety information. Their research is rigorous and fact-based, making them a valuable resource for understanding claims related to food products and contaminants."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This USDA database reference provides general information about beverages but does not focus on or test Lipton lemon flavor green tea bags specifically. It lacks direct relevance."
+                }
+            }
+        }
+    ]
+}

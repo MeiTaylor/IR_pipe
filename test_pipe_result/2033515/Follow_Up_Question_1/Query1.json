@@ -1,0 +1,633 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Evidence of Bernie Sanders civil rights sit-in participation",
+                "totalResults": "699000",
+                "searchTerms": "Evidence of Bernie Sanders civil rights sit-in participation",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Evidence of Bernie Sanders civil rights sit-in participation",
+                "totalResults": "699000",
+                "searchTerms": "Evidence of Bernie Sanders civil rights sit-in participation",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.370369,
+        "formattedSearchTime": "0.37",
+        "totalResults": "699000",
+        "formattedTotalResults": "699,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Photographer Says Disputed 1962 Photo Really Did Show Bernie ...",
+                "htmlTitle": "Photographer Says Disputed 1962 Photo Really Did Show <b>Bernie</b> ...",
+                "link": "https://time.com/4220480/bernie-sanders-disputed-civil-rights-photo-1962/",
+                "displayLink": "time.com",
+                "snippet": "Feb 13, 2016 ... The 1962 photo of a man leading a sit-in against segregated housing at the university, which Sanders' campaign had been promoting to illustrate ...",
+                "htmlSnippet": "Feb 13, 2016 <b>...</b> The 1962 photo of a man leading a <b>sit</b>-in against segregated housing at the university, which <b>Sanders</b>&#39; campaign had been promoting to illustrate&nbsp;...",
+                "formattedUrl": "https://time.com/4220480/bernie-sanders-disputed-civil-rights-photo-1962/",
+                "htmlFormattedUrl": "https://time.com/4220480/<b>bernie</b>-<b>sanders</b>-disputed-<b>civil</b>-<b>rights</b>-photo-1962/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSER-zj69HE3zeIFfGp_mTjmGWcHGRCPIpjOUI9pu7qlV9uo-FMKOpP08KS&s",
+                            "width": "270",
+                            "height": "187"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pinterest:description": "A Sanders campaign photo may indeed show the candidate",
+                            "og:image": "https://api.time.com/wp-content/uploads/2016/02/berniecontact4.jpg?quality=85&w=1200&h=628&crop=1",
+                            "theme-color": "#e90606",
+                            "article:published_time": "2016-02-13T21:53:43",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "TIME",
+                            "og:description": "A Sanders campaign photo may indeed show the candidate",
+                            "twitter:image": "https://api.time.com/wp-content/uploads/2016/02/berniecontact4.jpg?quality=85&w=1200&h=628&crop=1",
+                            "twitter:site": "@TIME",
+                            "pinterest:media": "https://api.time.com/wp-content/uploads/2016/02/berniecontact4.jpg?quality=85&w=1200&h=628&crop=1",
+                            "article:content_tier": "free",
+                            "pinterest:url": "https://time.com/4220480/bernie-sanders-disputed-civil-rights-photo-1962/",
+                            "application-name": "nextgen",
+                            "creator": "Sam Frizell",
+                            "og:type": "article",
+                            "twitter:title": "Photographer Says Disputed 1962 Photo Really Does Show Bernie Sanders",
+                            "author": "Sam Frizell",
+                            "og:title": "Photographer Says Disputed 1962 Photo Really Does Show Bernie Sanders",
+                            "og:image:height": "628",
+                            "fb:pages": "10606591490",
+                            "fb:app_id": "991230477954201",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "A Sanders campaign photo may indeed show the candidate",
+                            "primary-tag": "bernie-sanders",
+                            "amphtml": "https://time.com/4220480/bernie-sanders-disputed-civil-rights-photo-1962/?amp=true",
+                            "category": "Politics",
+                            "og:url": "https://time.com/4220480/bernie-sanders-disputed-civil-rights-photo-1962/",
+                            "article:opinion": "false",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://api.time.com/wp-content/uploads/2016/02/berniecontact4.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The photographer who captured civil rights efforts at the University of Chicago fifty years ago says that recently discovered evidence proves that a young man in a disputed 1962 photo is, in fact, Bernie Sanders. \nThe 1962 photo of a man leading a sit-in against segregated housing at the university, which Sanders’ campaign had been promoting to illustrate his involvement in the civil rights movement, came under scrutiny after TIME published an article last year with accounts by four alumni who doubted Sanders was the young man in the photo.\nNow, photographer Danny Lyon—today a well-known chronicler of the Civil Rights-era—told TIME he believes that newly-found photo contact sheets settle questions about the dramatic 1962 picture.\nThe contact sheets, reviewed by TIME, show pictures of the 21-year-old Sanders sitting on the floor wearing a rough, brown sweater and white shirt in what appears to be the same room as the disputed photo. The clothing Sanders is wearing on the floor in the recently discovered contact sheets looks to be the same as the clothing the young man is wearing in the photo in question. \nMoreover, Lyon said that based on their order on the contact sheets, the newly discovered pictures of Sanders were taken immediately after the disputed photo.\n“I’m deducing it by looking at the other photos on the contact sheets. Contact sheets are like evidence,” Lyon said in an interview. “There’s no question that that person standing there is Bernie Sanders.”\nBy the early afternoon on Saturday, the University of Chicago archives had changed the caption to identify the man as Sanders. The university had previously changed the caption to say the man in the photo was actually a classmate of Sanders.\nLyon is a supporter of Sanders’ White House bid, but does not coordinate or...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "You don't really know who Bernie Sanders was in the 1960s. Why it ...",
+                "htmlTitle": "You don&#39;t really know who <b>Bernie Sanders</b> was in the 1960s. Why it ...",
+                "link": "https://medium.com/@ShaunKing/you-dont-really-know-who-bernie-sanders-was-in-the-1960s-79628016125f",
+                "displayLink": "medium.com",
+                "snippet": "Jun 14, 2018 ... Just a teenager, Bernie Sanders moved from his hometown of Brooklyn to Chicago at the height of the Civil Rights Movement. It was the most ...",
+                "htmlSnippet": "Jun 14, 2018 <b>...</b> Just a teenager, <b>Bernie Sanders</b> moved from his hometown of Brooklyn to Chicago at the height of the <b>Civil Rights</b> Movement. It was the most&nbsp;...",
+                "formattedUrl": "https://medium.com/.../you-dont-really-know-who-bernie-sanders-was-in-t...",
+                "htmlFormattedUrl": "https://medium.com/.../you-dont-really-know-who-<b>bernie</b>-<b>sanders</b>-was-in-t...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRolLurjjj2_MGKX6XrEHGELtkc4WqVGrRDSc3bNDKDzXg5rSSQ7ggeDr7E&s",
+                            "width": "293",
+                            "height": "172"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*q1ZNaufen6RrBIXgN7DxTQ.png",
+                            "twitter:app:url:iphone": "medium://p/79628016125f",
+                            "theme-color": "#000000",
+                            "article:published_time": "2019-02-19T13:21:14.272Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Medium",
+                            "al:android:package": "com.medium.reader",
+                            "twitter:label1": "Reading time",
+                            "twitter:app:id:iphone": "828256236",
+                            "title": "You don’t really know who Bernie Sanders was in the 1960s. Why it mattered then and why it matters in 2019. | by Shaun King | Medium",
+                            "al:ios:url": "medium://p/79628016125f",
+                            "og:description": "I reject this idea that who Bernie Sanders was in the 1960s is irrelevant. Who you are and what you do, what you fought for, and who and…",
+                            "twitter:creator": "@shaunking",
+                            "al:ios:app_store_id": "828256236",
+                            "twitter:data1": "7 min read",
+                            "twitter:site": "@Medium",
+                            "og:type": "article",
+                            "twitter:title": "You don’t really know who Bernie Sanders was in the 1960s.",
+                            "al:ios:app_name": "Medium",
+                            "author": "Shaun King",
+                            "og:title": "You don’t really know who Bernie Sanders was in the 1960s.",
+                            "al:web:url": "https://medium.com/@ShaunKing/you-dont-really-know-who-bernie-sanders-was-in-the-1960s-79628016125f",
+                            "article:author": "https://medium.com/@ShaunKing",
+                            "twitter:image:src": "https://miro.medium.com/v2/resize:fit:1200/1*q1ZNaufen6RrBIXgN7DxTQ.png",
+                            "al:android:url": "medium://p/79628016125f",
+                            "referrer": "unsafe-url",
+                            "fb:app_id": "542599432471018",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1,maximum-scale=1",
+                            "twitter:description": "I reject this idea that who Bernie Sanders was in the 1960s is irrelevant. Who you are and what you do, what you fought for, and who and…",
+                            "og:url": "https://medium.com/@ShaunKing/you-dont-really-know-who-bernie-sanders-was-in-the-1960s-79628016125f",
+                            "twitter:app:name:iphone": "Medium",
+                            "al:android:app_name": "Medium"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://miro.medium.com/v2/resize:fit:1200/1*q1ZNaufen6RrBIXgN7DxTQ.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Sanders was in the 1960s is irrelevant. Who you are and what you do, what you fought for, and who and what you fought against, is always relevant. Twenty and thirty and forty years from now, when people step up to lead, and run for office, what they did and where they were during the Black Lives Matter Movement will mean something. If what Bernie did in the sixties doesn’t matter now, then what you are doing right now doesn’t matter. But you and I know it does.\nDr. King once said, “The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.”\nJust a teenager, Bernie Sanders moved from his hometown of Brooklyn to Chicago at the height of the Civil Rights Movement. It was the most tumultuous and challenging time this nation had faced since the Civil War a hundred years earlier.\nAnd most Americans, particularly most white Americans, remained silent. It was that silence, in the face of lynching, in the face of water hoses, in the face of bombings of homes and churches, in the face of assassinations, in the face of attack dogs being released on children, it was white silence that broke the heart of Dr. King as he languished in a Birmingham jail (read his letter ). It was that silence that he found told us more about the soul of America than the brutality and evil of this place.\nBernie loved Dr. King. And long before we used the phrase, Bernie had the notion that he needed to use his own white privilege to fight back against racism and bigotry and oppression and inequality. And that desire to hold this country to a higher standard began to well up in Bernie as a young student at the University of Chicago. He became the chairman of the university chapter of the Congress for Racial Equality (CORE) and merged the group with SNCC — the Student Non-Violent Coordinating Committee. Bernie literally helped lead the first known sit-in in at the University of Chicago, where 33 students camped outside of the President’s office — protesting segregating housing on campus.\n!\nBernie Sanders leading a sit-in on the campus of the University of Chicago\nDisturbed by police brutality in Chicago, Bernie  — only to notice that he was being tracked by police who were following him and taking the flyers down.\nBernie hates telling these stories and has resisted using them for political capital across the years — even when advisors and others have told him it would boost his profile — he has refused. He does what he...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Bernie Sanders Civil Rights Photo Called Into Question | TIME",
+                "htmlTitle": "<b>Bernie Sanders Civil Rights</b> Photo Called Into Question | TIME",
+                "link": "https://time.com/4108379/bernie-sanders-photo-civil-rights/",
+                "displayLink": "time.com",
+                "snippet": "Nov 12, 2015 ... An activist, who Vermont Sen. Bernie Sanders says is him, speaks to students on the first day of a sit-in at the University of Chicago in 1962.",
+                "htmlSnippet": "Nov 12, 2015 <b>...</b> An activist, who Vermont Sen. <b>Bernie Sanders</b> says is him, speaks to students on the first day of a <b>sit</b>-in at the University of Chicago in 1962.",
+                "formattedUrl": "https://time.com/4108379/bernie-sanders-photo-civil-rights/",
+                "htmlFormattedUrl": "https://time.com/4108379/<b>bernie</b>-<b>sanders</b>-photo-<b>civil</b>-<b>rights</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSov19PCdnHOtJntbILQZFsFHjqsl1UXE4HImBrRF5K0NzY6n-gpDg4pp7J&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pinterest:description": "The best image of the candidate's civil rights activism under spotlight",
+                            "og:image": "https://api.time.com/wp-content/uploads/2015/11/bernie-sanders-university-chicago.jpg?quality=85&w=1000&h=628&crop=1",
+                            "theme-color": "#e90606",
+                            "article:published_time": "2015-11-12T15:49:13",
+                            "og:image:width": "1000",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "TIME",
+                            "og:description": "The best image of the candidate's civil rights activism under spotlight",
+                            "twitter:image": "https://api.time.com/wp-content/uploads/2015/11/bernie-sanders-university-chicago.jpg?quality=85&w=1000&h=628&crop=1",
+                            "twitter:site": "@TIME",
+                            "pinterest:media": "https://api.time.com/wp-content/uploads/2015/11/bernie-sanders-university-chicago.jpg?quality=85&w=1000&h=628&crop=1",
+                            "article:content_tier": "free",
+                            "pinterest:url": "https://time.com/4108379/bernie-sanders-photo-civil-rights/",
+                            "application-name": "nextgen",
+                            "creator": "Sam Frizell",
+                            "og:type": "article",
+                            "twitter:title": "Exclusive: College Alumni Raise Doubts About Bernie Sanders Campaign Photo",
+                            "author": "Sam Frizell",
+                            "og:title": "Exclusive: College Alumni Raise Doubts About Bernie Sanders Campaign Photo",
+                            "og:image:height": "628",
+                            "fb:pages": "10606591490",
+                            "fb:app_id": "991230477954201",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The best image of the candidate's civil rights activism under spotlight",
+                            "primary-tag": "bernie-sanders",
+                            "amphtml": "https://time.com/4108379/bernie-sanders-photo-civil-rights/?amp=true",
+                            "category": "Politics",
+                            "og:url": "https://time.com/4108379/bernie-sanders-photo-civil-rights/",
+                            "article:opinion": "false",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://api.time.com/wp-content/uploads/2015/11/bernie-sanders-university-chicago.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... fellow student activist with a similar haircut, glasses and stature, who died in 2006. “I can certainly recognize it as Bruce Rappaport, partly because of the curvature of his spine, and I see that tall thin look from the side,” said Richard Schmitt, who was in the class of 1966 and lived near Rappaport in a campus dorm. “When I saw it, I said, ‘That’s Bruce Rappaport.”\nBruce Stark, who was roommates with Rappaport for two years and best man at his first wedding, said he was sure he recognized his friend in the photo. (Stark can be seen seated in the far right of the photo. He is the African-American man with the hair part.) “The way he’s holding the book there and his left hand—that was a Bruce gesture, and the hair,” said Stark, who was well-aquatinted with Sanders and now supports his presidential bid. “My reaction is yes, that looks like Bruce.”\nTwo other alumni, Sally Cook, class of 1966, and Robin Kaufman, class of 1965, also said they believed the photo showed Rappaport. Since the image does not show the man’s face, the alumni conceded that it was difficult to say for certain the man is not Sanders.\nThere is no question that Sanders, who has so far largely failed to attract black supporters of his candidacy, was deeply involved in civil rights activism at the University of Chicago, including the sit-in depicted in the photo, a protest of the university’s segregated housing practices. Sanders gave speeches in the freezing Chicago winter and was arrested by the police. He also demonstrated for desegregated schools in the city of Chicago, and participated in Dr. Martin Luther King’s march on Washington in 1963.\nOn Thursday, a Sanders spokesman said the candidate was sure he was the person in the photo. “I showed Bernie the picture again. That’s him. He remembers Bruce Rappaport,” wrote spokesman Michael Briggs in an email. Hours later, a Sanders senior adviser said the campaign would investigate further. “This is the first we’ve heard of it. As we sit here right now I still think that’s Bernie. But we’ll take a look at it,” said strategist Tad Devine. “There’s no doubt as to his participation in all of this. We’ll just confirm the visual.”\nRead more: The Radical Education of Bernie Sanders\nAnother photo in the University of Chicago archives shows Sanders standing next to the school’s president, George Beadle, at around the same time. Sanders is wearing similar clothing to the man in the other sit-in photo, but appears to have a...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "The Green New Deal | Bernie Sanders Official Website",
+                "htmlTitle": "The Green New Deal | <b>Bernie Sanders</b> Official Website",
+                "link": "https://berniesanders.com/issues/green-new-deal/",
+                "displayLink": "berniesanders.com",
+                "snippet": "We can and must transform our transportation sector away from fossil fuels to create a sustainable future for all and good-paying, union jobs right here in ...",
+                "htmlSnippet": "We can and must transform our transportation sector away from fossil fuels to create a sustainable future for all and good-paying, union jobs <b>right</b> here in&nbsp;...",
+                "formattedUrl": "https://berniesanders.com/issues/green-new-deal/",
+                "htmlFormattedUrl": "https://<b>berniesanders</b>.com/issues/green-new-deal/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmoFzw6UzVTRWK60NEwwHHQjw0K8qpZ_PZprOJGUTlpFmH5VJIPmiwqYQ&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cms-assets.berniesanders.com/media/images/190911-GreenNewDeal-1.original.png",
+                            "og:image:alt": "green-new-deal-1.png",
+                            "og:image:width": "1920",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "The Green New Deal | Bernie Sanders Official Website",
+                            "og:site_name": "Bernie Sanders Official Website",
+                            "og:title": "The Green New Deal | Bernie Sanders Official Website",
+                            "og:image:height": "1080",
+                            "og:description": "The climate crisis is not only the single greatest challenge facing our country; it is also our single greatest opportunity to build a more just and equitable future, but we must act immediately.",
+                            "twitter:image": "https://cms-assets.berniesanders.com/media/images/190911-GreenNewDeal-1.original.png",
+                            "twitter:image:alt": "green-new-deal-1.png",
+                            "twitter:site": "@BernieSanders",
+                            "og:locale:alternate": "es_ES",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The climate crisis is not only the single greatest challenge facing our country; it is also our single greatest opportunity to build a more just and equitable future, but we must act immediately.",
+                            "og:locale": "en_US"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cms-assets.berniesanders.com/media/images/190911-GreenNewDeal-1.original.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... plan will stop the building of new nuclear power plants and find a real solution to our existing nuclear waste problem. It will also enact a moratorium on nuclear power plant license renewals in the United States to protect surrounding communities. We know that the toxic waste byproducts of nuclear plants are not worth the risks of the technology’s benefit, especially in light of lessons learned from the Fukushima meltdown and the Chernobyl disaster. To get to our goal of 100 percent sustainable energy, we will not rely on any false solutions like nuclear, geoengineering, carbon capture and sequestration, or trash incinerators.\n*   **Regulate all dangerous greenhouse gases.** Carbon dioxide is a very dangerous greenhouse gas, but it is not the only one we must address. Methane is  than carbon dioxide at trapping heat in the atmosphere, and hydrofluorocarbons (HFCs) can be  more powerful. In order to ensure we reach our carbon pollution emissions goals, the EPA will, under the Clean Air Act, regulate carbon dioxide, methane, and hydrofluorocarbons. By aggressively enforcing our laws, we will end the injustice of  Americans dying every year from air pollution.\n*   **Declare a climate emergency.** There is a climate emergency which demands a massive-scale mobilization to halt, reverse, and address its consequences and causes. Bernie will declare a national emergency on climate change and take immediate, large-scale action to reverse its effects. This is an existential threat and we will do whatever it takes to confront it.\n### **Transportation** \nWe can and must transform our transportation sector away from fossil fuels to create a sustainable future for all and good-paying, union jobs right here in America. Transportation currently accounts for 29 percent of domestic emissions. We will create domestic energy alternatives to power our cars and trucks and move our transportation sector beyond oil by running our cars and trucks on renewable sources. We will build affordable, reliable, quick, and efficient public transportation, and high-speed passenger and cargo rail. And we will create millions of good-paying, unionized jobs building the automobile fleet of the future.\nWe will invest in nationwide electric vehicle charging infrastructure, to increase access to these resources for all, just as we built an interstate highway system in the 1950s and 1960s. We will move beyond oil toward an electric car. Concerns of cost and whether there will be access to a charging station have prevented many people from being able to choose this low-carbon option. We are going to change that. When Bernie is president, he is going to fully transform our energy sector away from fossil fuels, ensuring no one...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Feb. 19, 2016: Arrest photo of young activist Bernie Sanders ...",
+                "htmlTitle": "Feb. 19, 2016: Arrest photo of young activist <b>Bernie Sanders</b> ...",
+                "link": "https://www.chicagotribune.com/2016/02/22/feb-19-2016-arrest-photo-of-young-activist-bernie-sanders-emerges-from-tribune-archives/",
+                "displayLink": "www.chicagotribune.com",
+                "snippet": "Feb 22, 2016 ... ... Bernie Sanders, his campaign has confirmed, bolstering the candidate's narrative about his civil rights activism.The black-and-white photo ...",
+                "htmlSnippet": "Feb 22, 2016 <b>...</b> ... <b>Bernie Sanders</b>, his campaign has confirmed, bolstering the candidate&#39;s narrative about his <b>civil rights activism</b>.The black-and-white photo&nbsp;...",
+                "formattedUrl": "https://www.chicagotribune.com/.../feb-19-2016-arrest-photo-of-young-act...",
+                "htmlFormattedUrl": "https://www.chicagotribune.com/.../feb-19-2016-arrest-photo-of-young-act...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr0LcA-brWgu4hkrBgy4wYY932bW8diran6WTXwAORvxuKtJag_K6vhhzL&s",
+                            "width": "254",
+                            "height": "199"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "application-name": "chicagotribune",
+                            "og:image": "https://www.chicagotribune.com/wp-content/uploads/migration/2016/02/22/22GQJH6PONFOBE7WD6VXSJ7BMY.jpg?w=1024&h=670",
+                            "og:type": "article",
+                            "article:published_time": "2016-02-22T08:39:00+00:00",
+                            "og:image:width": "1024",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Chicago Tribune",
+                            "msvalidate.01": "4B535F7EB2971D1FCBA5D1D3E3E292C3",
+                            "og:title": "Feb. 19, 2016: Arrest photo of young activist Bernie Sanders emerges from Tribune archives",
+                            "og:image:height": "670",
+                            "msapplication-tileimage": "https://www.chicagotribune.com/wp-content/uploads/2024/02/favicon.png?w=16",
+                            "og:description": "A Chicago Tribune archival photo of a young man being arrested in 1963 at a South Side protest shows Democratic presidential hopeful Bernie Sanders, his campaign has confirmed, bolstering the candi…",
+                            "twitter:image": "https://www.chicagotribune.com/wp-content/uploads/migration/2016/02/22/22GQJH6PONFOBE7WD6VXSJ7BMY.jpg?w=640",
+                            "twitter:text:title": "Feb. 19, 2016: Arrest photo of young activist Bernie Sanders emerges from Tribune archives",
+                            "article:modified_time": "2021-01-23T20:30:29+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.chicagotribune.com/2016/02/22/feb-19-2016-arrest-photo-of-young-activist-bernie-sanders-emerges-from-tribune-archives/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.chicagotribune.com/wp-content/uploads/migration/2016/02/22/22GQJH6PONFOBE7WD6VXSJ7BMY.jpg?w=1024&h=670"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... are carried by Chicago police officers during a protest at 74th Street and Lowe Avenue on Aug. 2, 1963. The protesters were against mobile classrooms being brought to Englewood.\n*   !Al Phillips / Chicago Tribune\n    People picket the use of mobile classrooms Sept. 3, 1963, that were placed next to Guggenheim Elementary School at 7146 S. Sangamon St. in Chicago.\n*   !Tom Kinahan / Chicago Tribune\n    Luberda Bailey, head of the 71st and Sangamon Block Club, leads children from Guggenheim Elementary School to the Freedom School held in the basement at New Friendship Baptist Church on Oct. 22, 1963. The students boycotted their regular school as a protest against segregated schools in Chicago.\n*   !George Quinn / Chicago Tribune\n    Demonstrators, chained together are carried to a patrol wagon by Chicago police officers on Aug. 13, 1963, at 73rd Street and Lowe Avenue in the Englewood neighborhood. The group was protesting school segregation.\n*   !Tom Kinahan / Chicago Tribune\n    Chicago police officers carry a protester to a police wagon from the mobile classroom site at 73rd Street and Lowe Avenue in Chicago's Englewood neighborhood Aug. 13, 1963.\n*   !George Quinn / Chicago Tribune\n    Congress of Racial Equality leader Charles Smith, second from left, and Parent Committee President Rosie Simpson, second from right, seek permission from Chicago police Capt. William McCann, right, to hold a prayer meeting at a mobile school site at 73rd Street and Lowe Avenue on Aug, 16, 1963. McCann told them they would need a permit from the Chicago Board of Education, and when none was issued, they held a kneel-in anyway.\nShow Caption\nEd Wagner Sr. / Chicago Tribune\n1 of 27\nA young girl holds rosary beads at the mobile classroom site at 73rd Street and Lowe Avenue in the Englewood neighborhood of Chicago on Aug. 15, 1963.\n!\nBy \nUPDATED: January 23, 2021 at 8:30 p.m.\nA Chicago Tribune archival photo of a young man being arrested in 1963 at a South Side protest shows Democratic presidential hopeful Bernie Sanders, his campaign has confirmed, bolstering the candidate’s narrative about his civil rights activism.\nThe black-and-white photo shows a 21-year-old Sanders, then a University of Chicago student, being taken by Chicago police toward a police wagon. An acetate negative of the photo was found in...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Issues » Senator Bernie Sanders",
+                "htmlTitle": "Issues » Senator <b>Bernie Sanders</b>",
+                "link": "https://www.sanders.senate.gov/issues/",
+                "displayLink": "www.sanders.senate.gov",
+                "snippet": "He will continue to fight for a Medicare for All, single-payer system to treat health care as a human right. And he will keep fighting for a tax system that ...",
+                "htmlSnippet": "He will continue to fight for a Medicare for All, single-payer system to treat health care as a <b>human right</b>. And he will keep fighting for a tax system that&nbsp;...",
+                "formattedUrl": "https://www.sanders.senate.gov/issues/",
+                "htmlFormattedUrl": "https://www.<b>sanders</b>.senate.gov/issues/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAzMSLyt2SRfgqAxSL_y1aMSVjV9BfWN-d720PiKt7cmCfsVRdCoSSPqA&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Senator Bernie Sanders",
+                            "og:title": "Issues » Senator Bernie Sanders",
+                            "twitter:label1": "Est. reading time",
+                            "msapplication-tileimage": "https://www.sanders.senate.gov/wp-content/uploads/2020/11/cropped-Shape-Map-VT-3-270x270.png",
+                            "og:description": "Economy Even before the coronavirus pandemic – and the deep economic recession that it has wrought – nearly 80 percent of workers lived paycheck to paycheck, 34 million Americans were living in poverty, and, shamefully, even at the end of a long economic expansion, we had one of the highest childhood poverty rates of any […]",
+                            "article:publisher": "https://www.facebook.com/senatorsanders",
+                            "twitter:data1": "45 minutes",
+                            "twitter:site": "@SenSanders",
+                            "article:modified_time": "2022-02-16T21:35:25+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.sanders.senate.gov/issues/"
+                        }
+                    ],
+                    "webpage": [
+                        {
+                            "text": "Economy Even before the coronavirus pandemic – and the deep economic recession that it has wrought – nearly 80 percent of workers lived paycheck to paycheck, 34 million Americans were living...",
+                            "headline": "Issues"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.ytimg.com/vi/pwBk2iBQg2k/maxresdefault.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... has wrought –  of workers lived paycheck to paycheck,  were living in poverty, and, shamefully, even at the end of a long economic expansion, we had one of the highest childhood poverty rates of any major country on earth. It is a national tragedy that  in this country lives in poverty, including  in Vermont. Even before the pandemic, life expectancy in the U.S. had gone down for the  and about  say that their retirement savings are not on track.  had no health insurance at all and millions more are underinsured.  were unable to afford their prescriptions.\nEven before the pandemic, millions of Americans were in dire straits, even as billionaires saw their wealth grow by the hundreds of billions of dollars each year. As we turn to rebuilding the economy from the pandemic-induced recession, Sen. Sanders will fight to ensure the next economic expansion raises the living standards of all Americans, not just those already at the top.\nIn order to make that more equitable future a reality, Sen. Sanders is calling for a vote to increase the federal minimum wage to $15 an hour and give a raise to . He will continue pushing for legislation he introduced that would curb the greed of Wall Street by taxing financial speculation and capping credit card interest rates. He will continue to fight for a Medicare for All, single-payer system to treat health care as a human right. And he will keep fighting for a tax system that requires the wealthiest families and largest corporations in this country to pay their fair share so that the workers who helped make these people and companies so rich can share in the success. We must also expand Social Security to ensure no one in the wealthiest nation in the history of the world has to suffer in poverty.\nTogether, we must work towards an economy that works for all of us, not just the top one percent. We must fight to create a better world for our children and grandchildren based on the principles of economic, social, racial, and environmental justice.\nIn an increasingly competitive global economy, we must ensure every student has the opportunity to pursue a quality education. Senator Sanders has worked hard to lessen the burden of tuition and student loans, implement the Every Student Succeeds Act (ESSA), and to create an innovative loan forgiveness program by which loans are forgiven for college graduates who work in public service – including nurses, teachers, and law enforcement officers.\n#### Higher Education\nFor the first time in American history, the total amount of student loan debt now exceeds the amount of credit card debt, totaling more than a trillion dollars. More than two-thirds of college students who graduated...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Biden Faces Questions Over Claims of Civil Rights Activism",
+                "htmlTitle": "Biden Faces Questions Over Claims of <b>Civil Rights Activism</b>",
+                "link": "https://theintercept.com/2020/02/14/ahead-south-carolina-vote-joe-biden-faces-questions-claims-civil-rights-activism-2/",
+                "displayLink": "theintercept.com",
+                "snippet": "Feb 14, 2020 ... Shaun King, a prominent surrogate for Sen. Bernie Sanders (and former Intercept columnist), drew attention to Biden's often confusing and at ...",
+                "htmlSnippet": "Feb 14, 2020 <b>...</b> Shaun King, a prominent surrogate for Sen. <b>Bernie Sanders</b> (and former Intercept columnist), drew attention to Biden&#39;s often confusing and at&nbsp;...",
+                "formattedUrl": "https://theintercept.com/.../ahead-south-carolina-vote-joe-biden-faces-questi...",
+                "htmlFormattedUrl": "https://theintercept.com/.../ahead-south-carolina-vote-joe-biden-faces-questi...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfBYbQYqGZ04PtVhTCiaEYYlH9CTBbeLvw3EKQcxbhBHue-AVRTmiTHNc&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://theintercept.com/wp-content/uploads/2020/02/021220_selma-1581558376.jpg?fit=1399%2C700&w=1200&h=800",
+                            "theme-color": "#000000",
+                            "og:type": "article",
+                            "article:published_time": "2020-02-14T21:55:47+00:00",
+                            "twitter:card": "summary_large_image",
+                            "og:image:width": "1200",
+                            "og:site_name": "The Intercept",
+                            "author": "Robert Mackey",
+                            "og:title": "Ahead of South Carolina Vote, Joe Biden Faces Questions Over Claims of Civil Rights Activism",
+                            "twitter:label1": "Written by",
+                            "og:image:height": "800",
+                            "twitter:label2": "Est. reading time",
+                            "og:description": "In 1987, Joe Biden said he was a teenage civil rights activist, then said he wasn’t. Now he says he was. Does he have a hazy memory, or is this all malarky?",
+                            "parsely-metadata": "{'type': 'feature', 'id': '290192'}",
+                            "article:author": "https://www.facebook.com/robert.mackey.794",
+                            "twitter:image": "https://theintercept.com/wp-content/uploads/2020/02/021220_selma-1581558376.jpg?fit=1399%2C700&w=2048",
+                            "twitter:data1": "Robert Mackey",
+                            "twitter:data2": "19 minutes",
+                            "twitter:site": "@theintercept",
+                            "article:modified_time": "2020-02-29T07:53:39+00:00",
+                            "viewport": "width=device-width",
+                            "og:locale": "en_US",
+                            "og:url": "https://theintercept.com/2020/02/14/ahead-south-carolina-vote-joe-biden-faces-questions-claims-civil-rights-activism-2/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://theintercept.com/wp-content/uploads/2020/02/021220_selma-1581558376.jpg?fit=1399%2C700&w=1200&h=800"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "As Joe Biden campaigns in South Carolina, ahead of a primary contest later this month he must win to revive his hopes of becoming the Democratic nominee for president, the former vice president is facing questions over claims that he took part in the civil rights movement as a student in the 1960s.\nShaun King, a prominent surrogate for Sen. Bernie Sanders (and former Intercept columnist),  Biden’s often confusing and at times contradictory statements about what role he played as a young man in the struggle for racial equality in his home state of Delaware.\nAs King noted in his newsletter, during Biden’s first run for the presidency, in 1987, the then-senator  as a teenage civil rights activist, only to withdraw those claims later. More than three decades later, having served under the first black president, Biden seems to have reversed himself again, and now describes himself as a participant in desegregation protests in his youth.\nIn King’s account of Biden’s career, he highlights numerous inconsistencies in the former vice president’s recent claims that he was involved in the struggle to desegregate movie theaters and restaurants in Delaware in the 1960s, and accuses him of lying to curry favor with black voters. As King has also noted, there are  of Sanders participating in civil rights protests and sit-ins from the same period.\nBiden’s campaign insists that the attack is unfounded, pointing to testimony from old friends who say that he took part in at least two protests against segregation as a young man: walking out of a diner in Wilmington, Delaware in 1961 that refused to serve a black classmate, and then picketing the segregated Rialto movie theater in 1962.\n“Advancing civil rights and overthrowing systemic racism are...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "'I was one of those guys': Joe Biden's false claims he took part in civil ...",
+                "htmlTitle": "&#39;I was one of those guys&#39;: Joe Biden&#39;s false claims he took part in <b>civil</b> ...",
+                "link": "https://www.washingtonexaminer.com/news/2161223/i-was-one-of-those-guys-joe-bidens-false-claims-he-took-part-in-civil-rights-marches-boycotts-and-sit-ins/",
+                "displayLink": "www.washingtonexaminer.com",
+                "snippet": "Jul 1, 2019 ... Sit-ins, marches, boycotts of segregated movie theaters and restaurants. Searing memories of how \"my soul raged upon seeing the dogs of Bull ...",
+                "htmlSnippet": "Jul 1, 2019 <b>...</b> <b>Sit</b>-ins, marches, boycotts of segregated movie theaters and restaurants. Searing memories of how &quot;my soul raged upon seeing the dogs of Bull&nbsp;...",
+                "formattedUrl": "https://www.washingtonexaminer.com/.../i-was-one-of-those-guys-joe-bide...",
+                "htmlFormattedUrl": "https://www.washingtonexaminer.com/.../i-was-one-of-those-guys-joe-bide...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQca9L7226B3gehph3Hv3N-V9UL7jmmyvWrLXu2nt1hKMT84NaGTuYQkH1r&s",
+                            "width": "296",
+                            "height": "170"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "url": "https://www.washingtonexaminer.com/wp-content/uploads/2023/11/2023-examinar-logo-150x44.webp"
+                        },
+                        {
+                            "width": "2290",
+                            "url": "https://www.washingtonexaminer.com/wp-content/uploads/2023/12/528259d86b9073cc374dd04627797ab5.jpg.webp",
+                            "height": "1322"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "Alana Goodman",
+                            "url": "https://www.washingtonexaminer.com/author/alana-goodman/"
+                        }
+                    ],
+                    "organization": [
+                        {
+                            "name": "Washington Examiner"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.washingtonexaminer.com/wp-content/uploads/2023/12/528259d86b9073cc374dd04627797ab5.jpg.webp",
+                            "og:image:width": "2290",
+                            "article:published_time": "2019-07-01T21:41:12+00:00",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Washington Examiner - Political News and Conservative Analysis About Congress, the President, and the Federal Government",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "msapplication-tileimage": "https://www.washingtonexaminer.com/wp-content/uploads/2023/11/cropped-favicon-270x270.png.webp",
+                            "og:description": "Sit-ins, marches, boycotts of segregated movie theaters and restaurants. Searing memories of how \"my soul raged upon seeing the dogs of Bull Connor\" in Alabama. A dramatic tale of a walkout in support of a lone black fellow student.It was all part of the decade Joe Biden, now 76, came of age — he turned",
+                            "twitter:creator": "@DCExaminer",
+                            "og:image:secure_url": "https://www.washingtonexaminer.com/wp-content/uploads/2023/12/528259d86b9073cc374dd04627797ab5.jpg.webp",
+                            "article:publisher": "https://www.facebook.com/WashingtonExaminer/",
+                            "twitter:image": "https://www.washingtonexaminer.com/wp-content/uploads/2023/12/528259d86b9073cc374dd04627797ab5.jpg.webp",
+                            "twitter:data1": "Alana Goodman",
+                            "twitter:data2": "11 minutes",
+                            "twitter:site": "@DCExaminer",
+                            "article:modified_time": "2019-07-01T21:41:12+00:00",
+                            "og:type": "article",
+                            "twitter:title": "‘I was one of those guys’: Joe Biden’s false claims he took part in civil rights marches, boycotts, and sit-ins - Washington Examiner",
+                            "author": "Alana Goodman",
+                            "og:title": "‘I was one of those guys’: Joe Biden’s false claims he took part in civil rights marches, boycotts, and sit-ins - Washington Examiner",
+                            "og:image:height": "1322",
+                            "article:author": "https://www.facebook.com/",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Sit-ins, marches, boycotts of segregated movie theaters and restaurants. Searing memories of how \"my soul raged upon seeing the dogs of Bull Connor\" in Alabama. A dramatic tale of a walkout in support of a lone black fellow student.It was all part of the decade Joe Biden, now 76, came of age — he turned",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.washingtonexaminer.com/news/2161223/i-was-one-of-those-guys-joe-bidens-false-claims-he-took-part-in-civil-rights-marches-boycotts-and-sit-ins/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.washingtonexaminer.com/wp-content/uploads/2023/12/528259d86b9073cc374dd04627797ab5.jpg.webp"
+                        }
+                    ],
+                    "article": [
+                        {
+                            "articlebody": "Sit-ins, marches, boycotts of segregated movie theaters and restaurants. Searing memories of how “my soul raged upon seeing the dogs of Bull Connor” in Alabama. A dramatic tale of a walkout...",
+                            "datemodified": "2019-07-01T17:41:12-04:00",
+                            "headline": "'I was one of those guys': Joe Biden's false claims he took part in civil rights marches, boycotts, and sit-ins",
+                            "datepublished": "2019-07-01T17:41:12-04:00"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.washingtonexaminer.com/news/2161223/i-was-one-of-those-guys-joe-bidens-false-claims-he-took-part-in-civil-rights-marches-boycotts-and-sit-ins/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.washingtonexaminer.com/news/2161223/i-was-one-of-those-guys-joe-bidens-false-claims-he-took-part-in-civil-rights-marches-boycotts-and-sit-ins/",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Text - S.4204 - 117th Congress (2021-2022): Medicare for All Act of ...",
+                "htmlTitle": "Text - S.4204 - 117th Congress (2021-2022): Medicare for All Act of ...",
+                "link": "https://www.congress.gov/bill/117th-congress/senate-bill/4204/text",
+                "displayLink": "www.congress.gov",
+                "snippet": "To establish a Medicare-for-all national health insurance program. IN THE SENATE OF THE UNITED STATES. May 12, 2022. Mr. Sanders ...",
+                "htmlSnippet": "To establish a Medicare-for-all national health insurance program. IN THE SENATE OF THE UNITED STATES. May 12, 2022. Mr. <b>Sanders</b>&nbsp;...",
+                "formattedUrl": "https://www.congress.gov/bill/117th-congress/senate-bill/4204/text",
+                "htmlFormattedUrl": "https://www.congress.gov/bill/117th-congress/senate-bill/4204/text",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvf77cCsGgrae9jy5WU0Gxo7NtvKOaxuMhg2aY1P8jQTmTDhDtRt1tong&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "dc.congress": "117th Cong.",
+                            "og:image": "https://www.congress.gov/img/opengraph1200by630.jpg",
+                            "og:type": "website",
+                            "dc.coverage": "2022-05-12",
+                            "og:title": "Text - S.4204 - 117th Congress (2021-2022): Medicare for All Act of 2022",
+                            "dc.rights": "Text is government work",
+                            "dc.date": "05/12/2022",
+                            "og:description": "Text for S.4204 - 117th Congress (2021-2022): Medicare for All Act of 2022",
+                            "dc.type": "legislation",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "dc.creator": "Sen. Sanders, Bernard [I-VT]",
+                            "dc.title": "Text - S.4204 - 117th Congress (2021-2022): Medicare for All Act of 2022",
+                            "dc.identifier": "https://www.congress.gov/bill/117th-congress/senate-bill/4204/text",
+                            "dc.subject": "Legislative Data",
+                            "dc.language": "eng",
+                            "og:url": "https://www.congress.gov/bill/117th-congress/senate-bill/4204/text",
+                            "dc.number": "S.4204"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.congress.gov/img/opengraph1200by630.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "S. 4204\nTo establish a Medicare-for-all national health insurance program.\n* * *\nIN THE SENATE OF THE UNITED STATES\nMr. Sanders (for himself, Ms. Baldwin, Mr. Blumenthal, Mr. Booker, Mrs. Gillibrand, Mr. Heinrich, Ms. Hirono, Mr. Leahy, Mr. Luján, Mr. Padilla, Mr. Markey, Mr. Merkley, Mr. Schatz, Ms. Warren, and Mr. Whitehouse) introduced the following bill; which was read twice and referred to the Committee on Finance\n* * *\n**A BILL**\nTo establish a Medicare-for-all national health insurance program.\n_Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,_\nSECTION 1. Short title; table of contents.\n(a) Short title.—This Act may be cited as the “Medicare for All Act of 2022”.\n(b) Table of contents.—The table of contents for this Act is as follows:\nSEC. 101. Establishment of the Medicare for All Program.\nThere is hereby established a national health insurance program to provide comprehensive protection against the costs of health care and health-related services, in accordance with the standards specified in, or established under,...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Standards and Procedures for the Enforcement of the Immigration ...",
+                "htmlTitle": "Standards and Procedures for the Enforcement of the Immigration ...",
+                "link": "https://www.regulations.gov/document/DOJ-CRT-2016-0020-0001",
+                "displayLink": "www.regulations.gov",
+                "snippet": "Aug 14, 2016 ... Alberto Ruisanchez, Deputy Special Counsel, Office of Special Counsel for Immigration-Related Unfair Employment Practices, Civil Rights Division ...",
+                "htmlSnippet": "Aug 14, 2016 <b>...</b> Alberto Ruisanchez, Deputy Special Counsel, Office of Special Counsel for Immigration-Related Unfair Employment Practices, <b>Civil Rights</b> Division&nbsp;...",
+                "formattedUrl": "https://www.regulations.gov/document/DOJ-CRT-2016-0020-0001",
+                "htmlFormattedUrl": "https://www.regulations.gov/document/DOJ-CRT-2016-0020-0001",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1",
+                            "regs-gov/config/environment": "%7B%22modulePrefix%22%3A%22regs-gov%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22auto%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Atrue%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22name%22%3A%22regs-gov%22%2C%22version%22%3A%225.17.5%2B65a3e79d%22%7D%2C%22gReCaptcha%22%3A%7B%22jsUrl%22%3A%22https%3A%2F%2Fwww.google.com%2Frecaptcha%2Fapi.js%3Frender%3Dexplicit%22%2C%22siteKey%22%3A%226Lca0dsUAAAAABVCyKnSp7IGvvXCwBIOC-V0ruV9%22%7D%2C%22metricsAdapters%22%3A%5B%7B%22name%22%3A%22GoogleAnalytics%22%2C%22environments%22%3A%5B%22all%22%5D%2C%22config%22%3A%7B%22id%22%3A%22UA-25499422-7%22%7D%7D%5D%2C%22s3FaqBucket%22%3A%22https%3A%2F%2Fs3.amazonaws.com%2Fprod-regulations-faq%2F%22%2C%22s3BannerBucket%22%3A%22https%3A%2F%2Fs3.amaz"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.regulations.gov/document/DOJ-CRT-2016-0020-0001: 429 Client Error: Too Many Requests for url: https://r.jina.ai/https://www.regulations.gov/document/DOJ-CRT-2016-0020-0001",
+                    "content_tokens": 0
+                }
+            }
+        }
+    ]
+}

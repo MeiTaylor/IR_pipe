@@ -1,0 +1,627 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Why banana and kiwi can't hybridize",
+                "totalResults": "16800",
+                "searchTerms": "Why banana and kiwi can't hybridize",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Why banana and kiwi can't hybridize",
+                "totalResults": "16800",
+                "searchTerms": "Why banana and kiwi can't hybridize",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.246017,
+        "formattedSearchTime": "0.25",
+        "totalResults": "16800",
+        "formattedTotalResults": "16,800"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Why This April Fools' Kiwi Hybrid Is Bananas",
+                "htmlTitle": "Why This April Fools&#39; <b>Kiwi Hybrid</b> Is <b>Bananas</b>",
+                "link": "https://www.nationalgeographic.com/culture/article/april-fools-kiwi-banana-hybrid-video",
+                "displayLink": "www.nationalgeographic.com",
+                "snippet": "Apr 1, 2016 ... While grafting certainly can't produce a baniwi, there is some evidence that this technique can generate hybridized cells at the interface\u00a0...",
+                "htmlSnippet": "Apr 1, 2016 <b>...</b> While grafting certainly <b>can&#39;t</b> produce a baniwi, there is some evidence that this technique can generate <b>hybridized</b> cells at the interface&nbsp;...",
+                "formattedUrl": "https://www.nationalgeographic.com/.../april-fools-kiwi-banana-hybrid-vid...",
+                "htmlFormattedUrl": "https://www.nationalgeographic.com/.../april-fools-<b>kiwi</b>-<b>banana</b>-hybrid-vid...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoy6rbDHACAaezXx7QSDF3bkXC95Y-dNB6L8Zb24r4HsugaKxmIh6Zwrzp&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.natgeofe.com/n/fa578844-4147-4d3c-afdf-2b473be63a20/3_banana-kiwi-hybrid-fruit_16x9.jpg?w=1200",
+                            "twitter:app:id:googleplay": "com.natgeomobile.ngmagazine",
+                            "og:image:width": "1200",
+                            "theme-color": "#ffffff",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "04-01-2016",
+                            "og:site_name": "Culture",
+                            "twitter:url": "https://www.nationalgeographic.com/culture/article/april-fools-kiwi-banana-hybrid-video",
+                            "twitter:app:name:googleplay": "National Geographic",
+                            "medium": "website",
+                            "tax:series": "The Plate",
+                            "title": "Why This April Fools\u2019 Kiwi Hybrid Is Bananas",
+                            "twitter:app:id:iphone": "418671597",
+                            "og:description": "A viral video explaining how to grow a banana-kiwi fooled many ahead of April 1. So how do hybrids really work? \u2026",
+                            "twitter:creator": "@NatGeo",
+                            "tax:genres": "Blog",
+                            "article:publisher": "https://www.facebook.com/natgeo",
+                            "twitter:image:alt": "Why This April Fools\u2019 Kiwi Hybrid Is Bananas",
+                            "twitter:site": "@NatGeo",
+                            "article:modified_time": "05-03-2021",
+                            "tax:audiences": "General",
+                            "og:type": "article",
+                            "twitter:title": "Why This April Fools\u2019 Kiwi Hybrid Is Bananas",
+                            "article:section": "Culture",
+                            "og:title": "Why This April Fools\u2019 Kiwi Hybrid Is Bananas",
+                            "og:image:height": "675",
+                            "tax:othersubjects": "People and Culture, Food, Television and Video, Work, Plants",
+                            "twitter:image:src": "https://i.natgeofe.com/n/fa578844-4147-4d3c-afdf-2b473be63a20/3_banana-kiwi-hybrid-fruit_16x9.jpg?w=1200",
+                            "tax:firstsubject": "Fruit",
+                            "referrer": "origin",
+                            "viewport": "initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                            "twitter:description": "A viral video explaining how to grow a banana-kiwi fooled many ahead of April 1. So how do hybrids really work? \u2026",
+                            "og:locale": "en_US",
+                            "guid": "drn:src:natgeo:unison::prod:d8f1c157-2e16-47c0-be74-6440ef850cc8",
+                            "tax:events": "April Fool's Day",
+                            "og:url": "https://www.nationalgeographic.com/culture/article/april-fools-kiwi-banana-hybrid-video",
+                            "twitter:app:name:iphone": "National Geographic"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.natgeofe.com/n/fa578844-4147-4d3c-afdf-2b473be63a20/3_banana-kiwi-hybrid-fruit_16x9.jpg?w=1200"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... than two sets of chromosomes that probably accumulated during prehistoric times, when pollen from one species of kiwifruit was transferred to the female reproductive parts of another, resulting in an interspecies hybrid. In this case, cross-pollination happened by accident\u2014but intentional cross-pollination is how horticulturalists develop hybrids like the plum-apricot combination called the pluot\u00a0(or plumcot, depending on ).\nThe second thing that\u2019s not totally crazy about this video is the idea of growing one plant out of another. Horticulturalists use a technique called grafting to splice together the stem from one species of plant to the rootstock of another. Comai says this is commonly done with fruit trees, noting that in Europe, many local species of grapes are grafted onto American grape rootstock that\u2019s more tolerant to an aphid-like bug called phylloxera. Grafting is also sometimes used to control the size of trees in orchards.\n!\nA field technician grafts multiple hybrid cultivars to a large avocado tree stump. After the successful grafts, the tree will yield avocados of multiple varieties over a long growing season.\nPhotograph by Design Pics Inc, Nat Geo Image Collection\n(Check out this artist\u2019s quest to .)\nWhile grafting certainly can\u2019t produce a baniwi, there is some evidence that this technique can generate hybridized cells at the interface between the two grafted plants. These cells can swap their nuclear genomes and mitochondria from one side of the graft to the other.\n\u201cIt\u2019s too bad that that banana with the beautiful green kiwi inside is not real, isn\u2019t it?\u201d Comai says. And he\u2019s not certain it ever will be\u2014kiwi and banana are just too different to hybridize. Until science manages to figure out how to make the two fruits one, though, there\u2019s always a little sleight of hand combined with Mahar\u2019s method: Cut a banana in half, scoop out some of its flesh, and smush some kiwi inside the bright yellow skin.\nVoila, a baniwi.\n__\u00a0_is a freelance science journalist whose work appears in National Geographic\u2019s The Plate,_ Slate_,_ Nature_,_ Hakai_, and others. Follow her on_\u00a0___._\nRelated Topics\n--------------\n*   \n*   \n*   \n*   \n*   \n*   \nYou May Also Like\n-----------------\n HISTORY & CULTURE A strike threatened to cripple Hollywood in 1960. Here's how they resolved it. ------------------------------------------------------------------------------]\n ENVIRONMENT Your favorite foods may not taste the same in the future. Here's why. ---------------------------------------------------------------------]\n...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "National Geographic is a well-respected publication known for its commitment to factual reporting and scientific accuracy. It has stringent editorial standards and frequently publishes articles based on rigorous scientific research. It serves as a reliable source for information related to nature, science, and culture. Its history of accuracy and reliability makes it a trustworthy resource for verifying claims and debunking misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-04-01"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This evidence discusses the inability to produce a hybrid fruit (referred to as 'baniwi') through the methods described in the video. It specifically mentions grafting as a common method for hybridizing plants but clarifies that it cannot produce a banana-kiwi hybrid. The mention of grafting as a potential method of generating hybridized cells addresses the question about alternative methods. It strongly supports the evaluation of the claim in the video as false."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "What happened to those hybrid fruits (like banana-apples)? : r ...",
+                "htmlTitle": "What happened to those <b>hybrid</b> fruits (like <b>banana</b>-apples)? : r ...",
+                "link": "https://www.reddit.com/r/answers/comments/vawykb/what_happened_to_those_hybrid_fruits_like/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Jun 12, 2022 ... So you can't make an apple and banana hybrid fruit. A hybrid fruit would be more like a raspberry/blackberry cross, or a plum/apricot cross.",
+                "htmlSnippet": "Jun 12, 2022 <b>...</b> So you <b>can&#39;t</b> make an apple and <b>banana hybrid</b> fruit. A <b>hybrid</b> fruit would be more like a raspberry/blackberry <b>cross</b>, or a plum/apricot <b>cross</b>.",
+                "formattedUrl": "https://www.reddit.com/r/.../what_happened_to_those_hybrid_fruits_like/",
+                "htmlFormattedUrl": "https://www.reddit.com/r/.../what_happened_to_those_hybrid_fruits_like/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://share.redd.it/preview/post/vawykb",
+                            "theme-color": "#000000",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "og:image:alt": "An image containing a preview of the post",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/answers on Reddit: What happened to those hybrid fruits (like banana-apples)?",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/answers on Reddit: What happened to those hybrid fruits (like banana-apples)?",
+                            "og:image:height": "630",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/_slight_blue_third - 81 votes and 37 comments",
+                            "twitter:image": "https://share.redd.it/preview/post/vawykb",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/answers/comments/vawykb/what_happened_to_those_hybrid_fruits_like/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://share.redd.it/preview/post/vawykb"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Reddit - Dive into anything\n===============            \nOpen menu Open navigation  Go to Reddit Home\nr/answers A chip A close button\nGet app Get the Reddit app  Log in to Reddit\nExpand user menu Open settings menu\n*   *   *   \n### Get the Reddit app\nScan this QR code to download the app now\nOr check it out in the app stores\nReference questions answered here. Get the answers you are looking for! Please make sure to look over the community rules before posting.\n* * *\nMembers Online\n\u2022\nADMIN MOD\nWhat happened to those hybrid fruits (like banana-apples)?\n==========================================================\nI very vaguely remember a friend of mine bringing a banapple to school one day (like 17 years ago) and I never got to see how it tasted. Where can I find one of these hybrid fruits? I don't see any reviews on Youtube or anything.\nRead more\nArchived post. New comments cannot be posted and votes cannot be cast.\n**Top 1%** \nTop Posts\n---------\n* * *\n*   \n*   \n*   \n*   &nbsp;\n*   &nbsp;\n* * *\n*   TOPICS\n*   Internet Culture (Viral)\n*   *   *   *   *   *   *   *   *   \n*   Games\n*   *   *   *   *   *   *   *   *   *   *   *   \n*   Q&As\n*   *   \n*   Technology\n*   *   *   *   *   *   *   *   *   *   \n*   Pop Culture\n*   *   *   *   *   *   \n*   Movies & TV\n*   *   *   *   *   *   *   *   *   *   *   *   *   *   \n* * *\n*   RESOURCES\n*   *   *   *   *   *   \n* * *\n*   *   *   \n* * *\n*   *   *   ",
+                    "content_tokens": 414
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Reddit is a social media platform with a vast array of user-generated content. While it contains many communities (subreddits) that can provide insightful and accurate information, the quality of content varies greatly. Misinformation can spread easily, and while there are subreddits focused on fact-checking and science, one must be cautious. The potential for both valuable information and fake news results in a middling score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2022-06-12"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This evidence explains that hybrid fruits are typically achieved through cross-pollination of genetically compatible species, while mentioning that an apple-banana hybrid is impossible for the same reasons. While relevant in explaining hybridization, it does not focus directly on methods applicable to banana and kiwi or elaborate on why those methods specifically cannot work with these fruits."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "10 Must-Know Hybrid Fruits",
+                "htmlTitle": "10 Must-Know <b>Hybrid</b> Fruits",
+                "link": "https://www.eatright.org/food/food-groups/fruits/10-must-know-hybrid-fruits",
+                "displayLink": "www.eatright.org",
+                "snippet": "Apr 23, 2019 ... Pluot: A Zaiger trademarked plum and apricot hybrid, it's bred for smooth skin and super juicy, sweet flesh. Baby Kiwi: The lineage of the baby\u00a0...",
+                "htmlSnippet": "Apr 23, 2019 <b>...</b> Pluot: A Zaiger trademarked plum and apricot <b>hybrid</b>, it&#39;s bred for smooth skin and super juicy, sweet flesh. Baby <b>Kiwi</b>: The lineage of the baby&nbsp;...",
+                "formattedUrl": "https://www.eatright.org/food/food-groups/.../10-must-know-hybrid-fruits",
+                "htmlFormattedUrl": "https://www.eatright.org/food/food-groups/.../10-must-know-hybrid-fruits",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8D1sowF3FCMQGJPKZ4loUpisCrq1ayHik7Wxwr5vzNKbKQgkse6nDNtEd&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "msapplication-config": "/Areas/Shared/favicons/browserconfig.xml",
+                            "og:image": "https://www.eatright.org/-/media/images/eatright-articles/eatright-article-thumbnails/10mustknowhybridfruits_600x450.jpg?h=450&w=600&rev=3ba8570a08794ab9ae119aa357e0d894&hash=F9C75FD53FA6A26609251A66E8202D36",
+                            "theme-color": "#ffffff",
+                            "twitter:card": "summary_large_image",
+                            "twitter:site": "@eatright",
+                            "viewport": "initial-scale=1.0, maximum-scale=2, width=device-width, user-scalable=yes, viewport-fit=cover",
+                            "og:title": "10 Must-Know Hybrid Fruits",
+                            "og:url": "https://www.eatright.org/food/food-groups/fruits/10-must-know-hybrid-fruits",
+                            "og:description": "With bizarre names, hybrids might sound like weird science, but these fruits and their many cousins are more natural and familiar than you might think.",
+                            "twitter:image": "https://www.eatright.org/-/media/images/eatright-articles/eatright-article-thumbnails/10mustknowhybridfruits_600x450.jpg?h=450&w=600&rev=3ba8570a08794ab9ae119aa357e0d894&hash=F9C75FD53FA6A26609251A66E8202D36"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.eatright.org/-/media/images/eatright-articles/eatright-article-thumbnails/10mustknowhybridfruits_600x450.jpg?h=450&w=600&rev=3ba8570a08794ab9ae119aa357e0d894&hash=F9C75FD53FA6A26609251A66E8202D36"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... in your routine.\n    ### \n    *   \n    *   \n    *   \n    ### Physical Activity\n    *   \n    *   \n    *   \n    *   \n    ### \n    *   \n    *   \n    ### Sports & Performance\n    *   \n    *   \n    *   \n*   Recipes\n    Recipes\n    -------\n    With a focus on healthful ingredients that offer nutrition and dietary variety, these recipes are developed by registered dietitian nutritionists and show how easy it can be to prepare and serve healthful foods for any meal occasion.\n    ### \n    ### \n    *   \n    ### \n    ### \n    *   \n    ### \n    ### \n    *   \n    ### \n    ### \n    *   \n    ### \n    ### \n    *   \n    ### \n    ### \n    *   \n    ### \n    ### \n    *   \n    ### \n    ### \n    *   \n*   Kids\n    Kids\n    ----\n    Developed by the Academy of Nutrition and Dietetics Foundation, the Kids Eat Right campaign is dedicated to promoting a healthful today and tomorrow for children and families. Access nutrition information, healthful recipes and more.\n    ### \n    ### \n    *   \n    ### \n    ### \n    *   \n    ### \n    ### \n    *   \n    ### \n    ### \n    *   \n    ### \n    ### \n    *   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nSearch by keyword \n1.  \n2.  \n3.  \n4.  \n5.  10 Must-Know Hybrid Fruits\n10 Must-Know Hybrid Fruits\n==========================\n**Contributors:** Libby Mills, MS, RDN, LDN\n**Published:** April 23, 2019\n**Reviewed:** March 19, 2019\n    !\nbhofack2/iStock/Getty Images Plus/Getty Images\nTangor, ugli, jostaberry and pluot\u2026 these are just a few curiously named hybrid fruits found at the grocery store or farmers market. With bizarre names, hybrids might sound like weird science, but these fruits and their many cousins are more natural and familiar than you might think.\nHybrids don't use genetically modified organism technology. Hybrids use traditional pollination that can ordinarily occur in nature. With controlled pollination, cultivars can breed new generations of fruiting plants with increasingly desirable characteristics.\nFarmers benefit from hybridized fruit plants that are naturally disease resistant and hearty in heat, cold and drought \u2014 in addition to producing consistent, higher yields with...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Managed by the Academy of Nutrition and Dietetics, this website is a solid resource for evidence-based nutrition information. It offers articles written by registered dietitians and health professionals. While it is generally reliable, the focus is more on nutrition than on scientific hybridization topics, but it still represents a trustworthy source. Overall, its credibility in the field of health and nutrition earns it a high score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2019-04-23"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This evidence mentions various hybrid fruits and emphasizes that hybrids typically arise from controlled pollination, a natural process. However, it does not provide specific insights about the hybridization of bananas and kiwis, making it less relevant to the current question."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Grape-Kiwi hybrid fruit, does not taste like chicken : r/pics",
+                "htmlTitle": "Grape-<b>Kiwi hybrid</b> fruit, does not taste like chicken : r/pics",
+                "link": "https://www.reddit.com/r/pics/comments/1107x66/grapekiwi_hybrid_fruit_does_not_taste_like_chicken/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Feb 12, 2023 ... Award Share. [deleted] \u00b7 Fiyanggu. \u2022 1y ago. You can't hybridize a grape with a kiwi fruit. This is just a variety of kiwi. Upvote 9. Downvote",
+                "htmlSnippet": "Feb 12, 2023 <b>...</b> Award Share. [deleted] &middot; Fiyanggu. \u2022 1y ago. You <b>can&#39;t hybridize</b> a grape with a <b>kiwi</b> fruit. This is just a variety of <b>kiwi</b>. Upvote 9. Downvote",
+                "formattedUrl": "https://www.reddit.com/.../grapekiwi_hybrid_fruit_does_not_taste_like_chi...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../grape<b>kiwi</b>_hybrid_fruit_does_not_taste_like_chi...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9uy6VWauytTQns0064ywoxqIe_cAOdCMeiLWJf5EldmH10h2RZizHLcgf&s",
+                            "width": "231",
+                            "height": "218"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://preview.redd.it/grape-kiwi-hybrid-fruit-does-not-taste-like-chicken-v0-m2zreotjhqha1.jpg?auto=webp&s=49ff1c7e2210778c8ad950bfae4f8a3ab7eceaad",
+                            "theme-color": "#000000",
+                            "og:image:width": "1079",
+                            "og:type": "website",
+                            "og:image:alt": "a hand holding a pile of kiwi fruit",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/pics on Reddit: Grape-Kiwi hybrid fruit, does not taste like chicken",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/pics on Reddit: Grape-Kiwi hybrid fruit, does not taste like chicken",
+                            "og:image:height": "1016",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/fishbethany - 172 votes and 23 comments",
+                            "twitter:image": "https://preview.redd.it/grape-kiwi-hybrid-fruit-does-not-taste-like-chicken-v0-m2zreotjhqha1.jpg?auto=webp&s=49ff1c7e2210778c8ad950bfae4f8a3ab7eceaad",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/pics/comments/1107x66/grapekiwi_hybrid_fruit_does_not_taste_like_chicken/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://preview.redd.it/grape-kiwi-hybrid-fruit-does-not-taste-like-chicken-v0-m2zreotjhqha1.jpg?auto=webp&s=49ff1c7e2210778c8ad950bfae4f8a3ab7eceaad"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Reddit - Dive into anything\n===============            \nOpen menu Open navigation  Go to Reddit Home\nr/pics A chip A close button\nGet app Get the Reddit app  Log in to Reddit\nExpand user menu Open settings menu\n*   *   *   \n### Get the Reddit app\nScan this QR code to download the app now\nOr check it out in the app stores\nA place for photographs, pictures, and other images.\n* * *\nMembers Online\n\u2022\nADMIN MOD\nGrape-Kiwi hybrid fruit, does not taste like chicken\n====================================================\n ! !\n!\nArchived post. New comments cannot be posted and votes cannot be cast.\nTop Posts\n---------\n* * *\n*   \n*   \n*   \n*   &nbsp;\n*   &nbsp;\n* * *\n*   TOPICS\n*   Internet Culture (Viral)\n*   *   *   *   *   *   *   *   *   \n*   Games\n*   *   *   *   *   *   *   *   *   *   *   *   \n*   Q&As\n*   *   \n*   Technology\n*   *   *   *   *   *   *   *   *   *   \n*   Pop Culture\n*   *   *   *   *   *   \n*   Movies & TV\n*   *   *   *   *   *   *   *   *   *   *   *   *   *   \n* * *\n*   RESOURCES\n*   *   *   *   *   *   \n* * *\n*   *   *   \n* * *\n*   *   *   ",
+                    "content_tokens": 341
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Reddit is a social media platform with a vast array of user-generated content. While it contains many communities (subreddits) that can provide insightful and accurate information, the quality of content varies greatly. Misinformation can spread easily, and while there are subreddits focused on fact-checking and science, one must be cautious. The potential for both valuable information and fake news results in a middling score."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-02-12"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "This evidence discusses a grape-kiwi hybrid but clarifies that the hybridization occurred through genetic mechanisms rather than hybridizing with a grape being possible. While touching on hybridization, it doesn't address methods relevant to bananas and kiwis or articulates why such methods can't apply to these fruits."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Is Kiwi a hybrid fruit? - Quora",
+                "htmlTitle": "Is <b>Kiwi</b> a <b>hybrid</b> fruit? - Quora",
+                "link": "https://www.quora.com/Is-Kiwi-a-hybrid-fruit",
+                "displayLink": "www.quora.com",
+                "snippet": "Jun 19, 2019 ... Botanically, ALL species of kiwis, tomatoes, bananas, grapes and blueberries are berries, that is, the fleshy ripened ovaries of flowers having\u00a0...",
+                "htmlSnippet": "Jun 19, 2019 <b>...</b> Botanically, ALL species of <b>kiwis</b>, tomatoes, <b>bananas</b>, grapes and blueberries are berries, that is, the fleshy ripened ovaries of flowers having&nbsp;...",
+                "formattedUrl": "https://www.quora.com/Is-Kiwi-a-hybrid-fruit",
+                "htmlFormattedUrl": "https://www.quora.com/Is-<b>Kiwi</b>-a-hybrid-fruit",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "al:android:url": "intent://www.quora.com/Is-Kiwi-a-hybrid-fruit#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FIs-Kiwi-a-hybrid-fruit&logging_data=uid%3DNone;end",
+                            "theme-color": "#b92b27",
+                            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+                            "al:android:package": "com.quora.android",
+                            "fb:pages": "255232486973",
+                            "twitter:widgets:theme": "light"
+                        }
+                    ],
+                    "QAPage": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... about 70 years ago into a thriving commercial crop and began selling canes to Northern Hemisphere countries to meet a demand we couldn\u2019t possibly supply, China among them. The irony is that China is now the w\nContinue Reading\nFootnotes\n]\nYes, there are quite a few varieties\n]\nof kiwifruit (one word, not capitalised) and the Italian one was a deliberate introduction by NZ producers in the 1980\u2019s to meet the off-season demand for what is naturally a seasonal fruit.\nWhen it first came to New Zealand from China 100 years ago it was called a Chinese gooseberry and wasn\u2019t as large or sweet. Our plant breeders got busy improving it about 70 years ago into a thriving commercial crop and began selling canes to Northern Hemisphere countries to meet a demand we couldn\u2019t possibly supply, China among them. The irony is that China is now the world\u2019s largest producer of something we originally took from them, improved and gave our name to.\nTwo things worth knowing. They\u2019re high in vitamin C and have a mild laxative action that\u2019s barely noticeable unless you\u2019re eating several a day. Our doctors regularly recommend them for anyone having a problem with constipation.\nFootnotes\n]\nUpvote \u00b7\n9919\n98\n93\nSponsored by Get The Truth Now\nHave you ever googled yourself? Do a \"deep search\" instead.\nThis search engine can reveal so much. Click here to enter any name, wait for it, brace yourself.\nLearn More\n9974\n]\nM.S. Degree Botany: plant taxonomy, anatomy, pathology; Nature lover, Learner \u00b7 Author has 3.3K answers and 4.2M answer views\n\u00a0\u00b7\u00a0\nRelated\nAre all kiwis technically berries, or is there a difference between kiwi fruit and kiwi berry?\nBotanically, ALL species of kiwis, tomatoes, bananas, grapes and blueberries are berries, that is, the fleshy ripened ovaries of flowers having a single ovary. All berries are fruit, but not all fruit are berries.\nFruit types are named by the part or parts of the flower which enlarge and become edible, or enclose edible parts.\nA simple berry is the simplest type of fruit. It develops from one ovary, it can have one or more seeds, and all cell layers in the ripened ovary are soft.\nA compound berry is a cohesive structure formed by many ovaries which all ripened in the same flower and fused togethe\nContinue Reading\nBotanically, ALL species of kiwis, tomatoes, bananas...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Quora is a question-and-answer platform where users can ask and respond to queries across various topics. While there can be valuable input from knowledgeable individuals, the lack of editorial oversight means that information can be unverified or anecdotal. Because anyone can contribute, this assessment leads to a lower reliability for distinguishing fact from misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2019-06-19"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This evidence is primarily background information about kiwis and does not address hybridization processes or methods at all. It is mainly a botanical context with little relevance to the question or to evaluating the original claim."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Harvested: 570.2 kg Pumpkin, Planted in 70sqm Patch - Thrifty Kiwi",
+                "htmlTitle": "Harvested: 570.2 kg Pumpkin, Planted in 70sqm Patch - Thrifty <b>Kiwi</b>",
+                "link": "http://www.thriftykiwi.co.nz/2021-garden-blog/harvested-5702-kg-pumpkin-planted-in-70sqm-patch",
+                "displayLink": "www.thriftykiwi.co.nz",
+                "snippet": "Apr 28, 2021 ... This year I grew two varieties of pumpkin - Whangaparoa Crowns from purchased seed, and my own experimental hybrid of Pink Banana Jumbo\u00a0...",
+                "htmlSnippet": "Apr 28, 2021 <b>...</b> This year I grew two varieties of pumpkin - Whangaparoa Crowns from purchased seed, and my own experimental <b>hybrid</b> of Pink <b>Banana</b> Jumbo&nbsp;...",
+                "formattedUrl": "http://www.thriftykiwi.co.nz/.../harvested-5702-kg-pumpkin-planted-in-70s...",
+                "htmlFormattedUrl": "http://www.thrifty<b>kiwi</b>.co.nz/.../harvested-5702-kg-pumpkin-planted-in-70s...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMOckZELW-xrm9lrJf9HGFWSACEQVv8b1Ard8ayOk8oOKtcenREi0EfQ&s",
+                            "width": "370",
+                            "height": "136"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "http://www.thriftykiwi.co.nz/uploads/1/8/7/6/18766422/shelves_orig.jpg",
+                            "og:site_name": "Thrifty Kiwi",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:title": "Harvested: 570.2 kg Pumpkin, Planted in 70sqm Patch",
+                            "og:url": "http://www.thriftykiwi.co.nz/2021-garden-blog.html",
+                            "og:description": "This year I grew two varieties of pumpkin - Whangaparoa Crowns from purchased seed, and my own experimental hybrid of Pink Banana Jumbo squash crossed with Whangaparoa Crowns last time I grew them..."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "http://www.thriftykiwi.co.nz/uploads/1/8/7/6/18766422/shelves_orig.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\n\n\t\t28/4/2021\n\t\n\n\n\n\t\t1 Comment\n\t\n\n\n\t\t\t\t\t\t\tDo you have any seeds of your hybrid available please.\nI can only find seeds off shore. USA and Tasmania being the closest but I\u2019m sure we can\u2019t buy in seeds to NZ unfortunately.\nI really enjoyed your article in the NZ Gardener,\nWarmest Regards\nMargot\nChristchurch.\n\t\t\t\t\t\nA new year and a fresh start...after being able to do limited gardening the last couple of years, and even less blogging, I plan to find a new garden grove in 2021.For previous year's garden blogs, mouse over the Gardening tab at the top, and select the years you wish to view.\n\nApril 2021\n\nMarch 2021\n\nFebruary 2021\n\nJanuary 2021\n\n\n\nAll\n\nBees\n\nBrassicas\n\nFlowers\n\nGarden Photo Tour\n\nMonthly Sowing & Planting\n\nPollinators\n\nPumpkins\n\nSquash Patch\n\nWatermelon\n\nZucchini\n\n\n\n\n\n\n\t\tRSS Feed\n\t\n",
+                    "content_tokens": 214
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "This website appears to offer a range of travel and lifestyle content with a focus on budget options in New Zealand. However, it lacks a clear focus on scientific topics or widely recognized expertise in misinformation detection. Therefore, while it could provide useful tips, it does not carry the weight of credibility seen in academic or well-established resources, resulting in a moderate score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2021-04-28"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence discusses pumpkins and does not relate to hybridization methods or the claim regarding banana and kiwi. Its connection to the current question is extremely tenuous."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Is kiwi fruit genetically modified? - Quora",
+                "htmlTitle": "Is <b>kiwi</b> fruit genetically modified? - Quora",
+                "link": "https://www.quora.com/Is-kiwi-fruit-genetically-modified",
+                "displayLink": "www.quora.com",
+                "snippet": "Apr 3, 2022 ... There are other GM fruits being worked on: a sweeter strawberry, a banana that resists a disease threatening to make bananas extinct, and a\u00a0...",
+                "htmlSnippet": "Apr 3, 2022 <b>...</b> There are other GM fruits being worked on: a sweeter strawberry, a <b>banana</b> that resists a disease threatening to make <b>bananas</b> extinct, and a&nbsp;...",
+                "formattedUrl": "https://www.quora.com/Is-kiwi-fruit-genetically-modified",
+                "htmlFormattedUrl": "https://www.quora.com/Is-<b>kiwi</b>-fruit-genetically-modified",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "al:android:url": "intent://www.quora.com/Is-kiwi-fruit-genetically-modified#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FIs-kiwi-fruit-genetically-modified&logging_data=uid%3DNone;end",
+                            "theme-color": "#b92b27",
+                            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+                            "al:android:package": "com.quora.android",
+                            "fb:pages": "255232486973",
+                            "twitter:widgets:theme": "light"
+                        }
+                    ],
+                    "QAPage": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... than me. He found a key to healthy aging\u2026 and it was by doing the opposite of what most of people are told. Norris says he started learning about this revolutionary new method when he noticed most of the supplements he was taking did little or nothing to support his health. After extensive research, he discovered he could create dramatic changes to his health simply focusing on 3 things that sabotage our body as we age.\n\u201cThis is the key to healthy aging,\u201d says Norris. \u201cI\u2019m living pro\nContinue Reading\nJust look at the legendary  since he is now a whopping 81 years old and yet has MORE energy than me. He found a key to healthy aging\u2026 and it was by doing the opposite of what most of people are told. Norris says he started learning about this revolutionary new method when he noticed most of the supplements he was taking did little or nothing to support his health. After extensive research, he discovered he could create dramatic changes to his health simply focusing on 3 things that sabotage our body as we age.\n\u201cThis is the key to healthy aging,\u201d says Norris. \u201cI\u2019m living proof.\u201d\nNow, Chuck Norris has put the entire method into a 15-minute video that explains the 3 \u201cInternal Enemies\u201d that can wreck our health as we age, and the simple ways to help combat them, using foods and herbs you may even have at home.\nI\u2019ve included the  here so you can give it a shot.\nUpvote \u00b7\n4.9K4.9K\n999882\n9978\n]\nImmunologist at Allergy and Immunology (1995\u2013present) \u00b7 Author has 2.8K answers and 2.8M answer views\n\u00a0\u00b7\u00a0\nRelated\nIs it safe to eat genetically modified fruit?\nOh please. Stop the World I want to get off.\nIt is hardly safe to eat any fruit because it has insufficient nutritional value.\nApple is one of the least foods with nutrition. It is in the bottom 10% of all foods down there with an ice cream sandwich.\nclick image to view\n!\nBut still GMO fruit is not anything worth hearing anyhow.  \nGMO fruit appeals more to idiots.\nThere is a GMO banana that does not turn brown.  \nThere is a GMO apple that does not turn brown.  \nThere is a GMO pink pineapple.\nThose are the three GMO fruits currently available in the US.\nThey are plenty safe. But why do they exist?\nOh. And lo\nContinue Reading\nOh please. Stop the World I want to get...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Quora is a question-and-answer platform where users can ask and respond to queries across various topics. While there can be valuable input from knowledgeable individuals, the lack of editorial oversight means that information can be unverified or anecdotal. Because anyone can contribute, this assessment leads to a lower reliability for distinguishing fact from misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2022-04-03"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "Similar to evidence5, this evidence centers on genetically modified fruits rather than traditional hybridization methods. It does not provide applicable information regarding banana or kiwi fruits, resulting in a low relevance score."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Category: Squash Patch - Thrifty Kiwi",
+                "htmlTitle": "Category: Squash Patch - Thrifty <b>Kiwi</b>",
+                "link": "http://www.thriftykiwi.co.nz/2021-garden-blog/category/squash-patch",
+                "displayLink": "www.thriftykiwi.co.nz",
+                "snippet": "Apr 28, 2021 ... This year I grew two varieties of pumpkin - Whangaparoa Crowns from purchased seed, and my own experimental hybrid of Pink Banana Jumbo squash\u00a0...",
+                "htmlSnippet": "Apr 28, 2021 <b>...</b> This year I grew two varieties of pumpkin - Whangaparoa Crowns from purchased seed, and my own experimental <b>hybrid</b> of Pink <b>Banana</b> Jumbo squash&nbsp;...",
+                "formattedUrl": "http://www.thriftykiwi.co.nz/2021-garden-blog/category/squash-patch",
+                "htmlFormattedUrl": "http://www.thrifty<b>kiwi</b>.co.nz/2021-garden-blog/category/squash-patch",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMOckZELW-xrm9lrJf9HGFWSACEQVv8b1Ard8ayOk8oOKtcenREi0EfQ&s",
+                            "width": "370",
+                            "height": "136"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "http://www.thriftykiwi.co.nz/uploads/1/8/7/6/18766422/shelves_orig.jpg",
+                            "og:site_name": "Thrifty Kiwi",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:title": "Category: Squash Patch",
+                            "og:url": "http://www.thriftykiwi.co.nz/2021-garden-blog.html",
+                            "og:description": "This year I grew two varieties of pumpkin - Whangaparoa Crowns from purchased seed, and my own experimental hybrid of Pink Banana Jumbo squash crossed with Whangaparoa Crowns last time I grew them..."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "http://www.thriftykiwi.co.nz/uploads/1/8/7/6/18766422/shelves_orig.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\n\n\t\t28/4/2021\n\t\n\n\n\n\t\t1 Comment\n\t\n\n\n\n\t\t4/2/2021\n\t\n\n\n\n\t\t0 Comments\n\t\n\n\n\n\t\t13/1/2021\n\t\n\n\n\n\t\t0 Comments\n\t\n\nA new year and a fresh start...after being able to do limited gardening the last couple of years, and even less blogging, I plan to find a new garden grove in 2021.For previous year's garden blogs, mouse over the Gardening tab at the top, and select the years you wish to view.\n\nApril 2021\n\nMarch 2021\n\nFebruary 2021\n\nJanuary 2021\n\n\n\nAll\n\nBees\n\nBrassicas\n\nFlowers\n\nGarden Photo Tour\n\nMonthly Sowing & Planting\n\nPollinators\n\nPumpkins\n\nSquash Patch\n\nWatermelon\n\nZucchini\n\n\n\n\n\n\n\t\tRSS Feed\n\t\n",
+                    "content_tokens": 187
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "This website appears to offer a range of travel and lifestyle content with a focus on budget options in New Zealand. However, it lacks a clear focus on scientific topics or widely recognized expertise in misinformation detection. Therefore, while it could provide useful tips, it does not carry the weight of credibility seen in academic or well-established resources, resulting in a moderate score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2021-04-28"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence discusses a blog post about growing pumpkins and does not address any aspects of hybridization relevant to bananas and kiwis. It is only tangentially related due to the mention of hybrids but specifics are lacking."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Could it be possible to crossbreed, say, a watermelon with a ...",
+                "htmlTitle": "Could it be possible to crossbreed, say, a watermelon with a ...",
+                "link": "https://www.quora.com/Could-it-be-possible-to-crossbreed-say-a-watermelon-with-a-marijuana-plant-to-get-THC-filled-watermelons",
+                "displayLink": "www.quora.com",
+                "snippet": "Jun 6, 2018 ... Are kiwi seeds and cannabis seeds the only two plants where their seeds need a male and a female seed to mate in order to produce a plant? I\u00a0...",
+                "htmlSnippet": "Jun 6, 2018 <b>...</b> Are <b>kiwi</b> seeds and cannabis seeds the only two plants where their seeds need a male and a female seed to mate in order to produce a plant? I&nbsp;...",
+                "formattedUrl": "https://www.quora.com/Could-it-be-possible-to-crossbreed-say-a-watermelo...",
+                "htmlFormattedUrl": "https://www.quora.com/Could-it-be-possible-to-crossbreed-say-a-watermelo...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "al:android:url": "intent://www.quora.com/Could-it-be-possible-to-crossbreed-say-a-watermelon-with-a-marijuana-plant-to-get-THC-filled-watermelons#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FCould-it-be-possible-to-crossbreed-say-a-watermelon-with-a-marijuana-plant-to-get-THC-filled-watermelons&logging_data=uid%3DNone;end",
+                            "theme-color": "#b92b27",
+                            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+                            "al:android:package": "com.quora.android",
+                            "fb:pages": "255232486973",
+                            "twitter:widgets:theme": "light"
+                        }
+                    ],
+                    "QAPage": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "Could it be possible to crossbreed, say, a watermelon with a marijuana plant to get THC filled watermelons? - Quora\n===============\nSomething went wrong. Wait a moment and try again.\nTry again\nSkip to content\nSkip to search\nSign In\nCould it be possible to crossbreed, say, a watermelon with a marijuana plant to get THC filled watermelons?\n]\nRelated\nWhat happens if you plant cannabis seed and watermelon seed together for years?\ni got a mutation on the OG Kush clone, it tried to produce leaves similar to the watermelon, i think the weed plant picked up the watermelon flavor because a chew on the clone leafs and the have a watermelon taste in the stems. i called the new mutated version of the OG KUSH plant the \u201cSouth Central OG Kush\u201d waiting on it to self pollinate and the plant went from female to hermaphrodite with only one male flower. This will give me feminize South Central OG Kush seeds and two new hybrid strains ( Orange Kush ) female Orange Cookies x male South Central OG & ( Cream OG ) Extreme Cream x male Sou\nContinue Reading\ni got a mutation on the OG Kush clone, it tried to produce leaves similar to the watermelon, i think the weed plant picked up the watermelon flavor because a chew on the clone leafs and the have a watermelon taste in the stems. i called the new mutated version of the OG KUSH plant the \u201cSouth Central OG Kush\u201d waiting on it to self pollinate and the plant went from female to hermaphrodite with only one male flower. This will give me feminize South Central OG Kush seeds and two new hybrid strains ( Orange Kush ) female Orange Cookies x male South Central OG & ( Cream OG ) Extreme Cream x male South Central OG. Thats 3 new strains i will have created.\nUpvote \u00b7\n96\n91\nRelated questions\nMore answers below\nRelated questions\nAdvertisement\n \u00b7  \u00b7  \u00b7  \u00b7  \u00b7  \u00b7  \u00b7  \u00b7\n\u00a9 Quora, Inc. 2024",
+                    "content_tokens": 429
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Quora is a question-and-answer platform where users can ask and respond to queries across various topics. While there can be valuable input from knowledgeable individuals, the lack of editorial oversight means that information can be unverified or anecdotal. Because anyone can contribute, this assessment leads to a lower reliability for distinguishing fact from misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2018-06-06"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence talks about a hypothetical situation regarding crossbreeding unrelated plants and does not provide tangible information about techniques relevant to banana and kiwi hybridization."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Crazy 'bout coleus - Red Dirt Ramblings\u00ae",
+                "htmlTitle": "Crazy &#39;bout coleus - Red Dirt Ramblings\u00ae",
+                "link": "https://reddirtramblings.com/crazy-bout-coleus/",
+                "displayLink": "reddirtramblings.com",
+                "snippet": "Mar 10, 2016 ... Gardeners clamor each year for new plants, and plant hybridizing in all of its various forms is an expensive business. It was great to see all\u00a0...",
+                "htmlSnippet": "Mar 10, 2016 <b>...</b> Gardeners clamor each year for new plants, and plant <b>hybridizing</b> in all of its various forms is an expensive business. It was great to see all&nbsp;...",
+                "formattedUrl": "https://reddirtramblings.com/crazy-bout-coleus/",
+                "htmlFormattedUrl": "https://reddirtramblings.com/crazy-bout-coleus/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf77jBTp8JmZXDDys0NkEGiVcOu3bu8Xxgr3Yf8tqNo51bGlrAj6r-QA9R&s",
+                            "width": "251",
+                            "height": "201"
+                        }
+                    ],
+                    "xfn": [
+                        {}
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i1.wp.com/reddirtramblings.com/wp-content/uploads/2016/03/el-brighto-lo-res.jpg?fit=500%2C400&ssl=1",
+                            "og:type": "article",
+                            "article:published_time": "2016-03-11T00:55:44+00:00",
+                            "og:image:width": "500",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Red Dirt Ramblings\u00ae",
+                            "author": "Dee Nash",
+                            "og:title": "Crazy 'bout coleus",
+                            "og:image:height": "400",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "After last week\u2019s beautiful summer foliage post, I promised you another entry devoted entirely to coleus. I\u2019m crazy \u2019bout coleus, and I think you will be too when you consider all the summer gardening possibilities. As I\u2019ve written before, tropical plants are a summer garden\u2019s best friend. That\u2019s not to say I don\u2019t like flowers. [\u2026]",
+                            "twitter:creator": "@reddirtramblin",
+                            "article:publisher": "https://www.facebook.com/pages/Red-Dirt-Ramblings/206271721248?ref=br_tf",
+                            "article:author": "https://www.facebook.com/pages/red-dirt-ramblings/206271721248?ref=br_tf",
+                            "twitter:data1": "Dee Nash",
+                            "twitter:data2": "7 minutes",
+                            "article:modified_time": "2016-03-11T01:13:16+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://reddirtramblings.com/crazy-bout-coleus/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i1.wp.com/reddirtramblings.com/wp-content/uploads/2016/03/el-brighto-lo-res.jpg?fit=500%2C400&ssl=1"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...ven Winners.\nBe assured every big company has its own line of new coleus varieties. How many of those will make it to your local or mail order nursery is all dependent upon what brokers and the big three invest in. Who are the big three? Lowe\u2019s, Wal-Mart and Home Depot. What you see available in the marketplace is partially determined by their buyers for the big three and their ongoing relationships with brands.\n!\n\u2018Bonfire\u2019 coleus in June. It\u2019s just getting started. I bought this one from Rosy Dawn Gardens last year.\nBrokers often represent smaller nurseries, and to tell the truth, many smaller operations are leery of investing in newer plant varieties. At the California Spring Trials (CAST), it was interesting to watch hybridizers, seed and plant companies explaining why their newest euphorbia was better than one like Diamond Frost**\u00ae**. That\u2019s only one example and not even a coleus. Many companies now put their best work under\u00a0trademarked series names like: Main Street\u2122 by D\u00fcmmen Orange, Under the Sea**\u00ae** by HortCouture and ColorBlaze**\u00ae** by Proven Winners, etc. Here are more of the . Think of these as book or movie\u00a0sequels like those created by Marvel Comics. Hybridizers\u00a0hope\u00a0you will remember the series name and keep coming back for more. Who can blame them? Gardeners clamor each year for new plants, and plant hybridizing in all of its various forms is an expensive business.\n!\nIt was great to see all the combinations at the California Spring Trials last year. This one of Coleus \u2018Lava Rose,\u2019 Euphorbia \u2018Breathless Blush\u2019 and EnduraScape\u2122 Hot Pink Verbena was especially pretty. Of course, keep in mind that this combo was grown\u00a0to perfection in a greenhouse and not yet exposed to outdoor conditions.\nSpeaking of new varieties to my garden, I ordered a few from  that I can\u2019t find anywhere else. I saw some of these last year when I was lucky enough to attend CAST in 2015\u00a0with the . If it\u2019s new and unique, Rosy Dawn will usually have it. However, their nursery is located in southeastern Michigan so their plants are usually way behind those I grow\u00a0in my\u00a0greenhouse. They\u2019re small so I put them in my greenhouse and grow them out a bit before I plant\u00a0them outside. They do have very nice root balls and acclimate very quickly. Rosy Dawn has old favorites and newer cultivars. I bought three plants...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "This blog seems to focus on travel and personal experiences. While it can provide personal anecdotal insights, it lacks the editorial rigor needed for validating scientific claims or exposing fake news. Given its focus and potential for misinformation without verification, it earns a lower score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-03-10"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence discusses gardening trends and hybrid plants but fails to address the specifics of hybridization techniques and is not relevant to bananas or kiwis."
+                }
+            }
+        }
+    ]
+}

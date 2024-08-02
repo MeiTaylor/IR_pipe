@@ -1,0 +1,723 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Long-term health effects of heated plastic exposure",
+                "totalResults": "133000000",
+                "searchTerms": "Long-term health effects of heated plastic exposure",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Long-term health effects of heated plastic exposure",
+                "totalResults": "133000000",
+                "searchTerms": "Long-term health effects of heated plastic exposure",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.414463,
+        "formattedSearchTime": "0.41",
+        "totalResults": "133000000",
+        "formattedTotalResults": "133,000,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "What is BPA? Should I be worried about it? - Mayo Clinic",
+                "htmlTitle": "What is BPA? Should I be worried about it? - Mayo Clinic",
+                "link": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/bpa/faq-20058331",
+                "displayLink": "www.mayoclinic.org",
+                "snippet": "Polycarbonate plastics are often used in containers that store food and beverages, such as water bottles. They may also be used in other consumer goods.",
+                "htmlSnippet": "Polycarbonate <b>plastics</b> are often used in containers that store food and beverages, such as water bottles. They may also be used in other consumer goods.",
+                "formattedUrl": "https://www.mayoclinic.org/healthy-lifestyle/...healthy.../faq-20058331",
+                "htmlFormattedUrl": "https://www.mayoclinic.org/<b>health</b>y-lifestyle/...<b>health</b>y.../faq-20058331",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA0EZ4dwnjV9lXij5Z-Pe3wnC7-YuvP6jGo0h5lmtYHxwiRt6KqasyPeR-&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pocid": "FAQ-20058331",
+                            "og:image": "https://www.mayoclinic.org/-/media/web/gbs/shared/images/socialmedia-metadata/mc_opengraph_600x315.jpg",
+                            "twitter:card": "summary",
+                            "og:site_name": "Mayo Clinic",
+                            "person group": "45 to 64 middle",
+                            "subject": "Healthy menus and shopping strategies",
+                            "msapplication-tileimage": "/-/media/web/gbs/shared/images/mstile-144x144.png",
+                            "twitter:creator": "@mayoclinic",
+                            "og:description": "Find out more about BPA, a chemical used in some plastics and resins, and explore options for reducing your exposure.",
+                            "twitter:image": "https://www.mayoclinic.org/-/media/web/gbs/shared/images/socialmedia-metadata/mc_twittercard_120x120.jpg",
+                            "twitter:image:alt": "GBS Image alternate text SocialMedia_TwitterCard",
+                            "twitter:site": "@mayoclinic",
+                            "publishdate": "2023-03-24",
+                            "application-name": " ",
+                            "msapplication-tilecolor": "#FFFFFF",
+                            "twitter:title": "Tips to reduce BPA exposure",
+                            "og:type": "article",
+                            "og:title": "Tips to reduce BPA exposure",
+                            "fb:app_id": "547651825432067",
+                            "viewport": "initial-scale=1.0",
+                            "twitter:description": "Find out more about BPA, a chemical used in some plastics and resins, and explore options for reducing your exposure.",
+                            "content package": "Syndication Adult Health Information Content",
+                            "og:url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/bpa/faq-20058331",
+                            "format-detection": "telephone=no",
+                            "contentlanguage": "en"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.mayoclinic.org/-/media/web/gbs/shared/images/socialmedia-metadata/mc_opengraph_600x315.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...    Giving to Mayo Clinic\n    !\n==============================================================================================================================================\n1.  \n    1.  \n    2.  \n    3.  \n    4.  \n    5.  \n2.  \n3.  \n4.  \n5.  \n6.  \n_Products and services_]\nWhat is BPA, and what are the concerns about BPA?\n-------------------------------------------------\nAnswer From \nBPA stands for bisphenol A, an industrial chemical that has been used to make certain plastics and resins since the 1950s.\nBPA is found in polycarbonate plastics and epoxy resins. Polycarbonate plastics are often used in containers that store food and beverages, such as water bottles. They may also be used in other consumer goods.\nEpoxy resins are used to coat the inside of metal products, such as food cans, bottle tops and water supply lines. Some dental sealants and composites also may contain BPA.\nSome research has shown that BPA can seep into food or beverages from containers that are made with BPA. Exposure to BPA is a concern because of the possible health effects on the brain and prostate gland of fetuses, infants and children. It can also affect children's behavior. Additional research suggests a possible link between BPA and increased blood pressure, type 2 diabetes and cardiovascular disease.\nHowever, the U.S. Food and Drug Administration (FDA) has said that BPA is safe at the very low levels that occur in some foods. This assessment is based on the review of hundreds of studies. The FDA continues to monitor the research.\nIf you're concerned about BPA, you can take steps to reduce your exposure:\n*   **Use BPA\\-free products.** Manufacturers are creating more and more BPA\\-free products. Look for products labeled as BPA\\-free. If a product isn't labeled, keep in mind that some, but not all, plastics marked with recycle code 3 or 7 may contain BPA.\n*   **Avoid heat.** Don't put plastic containers in the microwave or dishwasher, because the heat may break them down over time and allow BPA to leach into foods.\n*   **Focus on fresh whole foods.** When you can, choose fresh whole fruits and vegetables.\n*   **Use alternatives.** Use glass, porcelain or stainless-steel containers for hot foods and liquids instead of plastic containers.\nWith\nThere is a problem with information submitted for this request. Review/update the information highlighted below and resubmit the form.\nFrom Mayo...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Microplastics in food: Health risks and solutions",
+                "htmlTitle": "Microplastics in food: <b>Health risks</b> and solutions",
+                "link": "https://www.medicalnewstoday.com/articles/what-do-we-know-about-microplastics-in-food",
+                "displayLink": "www.medicalnewstoday.com",
+                "snippet": "Feb 18, 2022 ... Most of the plastics produced globally are used for food and beverage packaging. During its use, however, plastic becomes worn and breaks ...",
+                "htmlSnippet": "Feb 18, 2022 <b>...</b> Most of the <b>plastics</b> produced globally are used for food and beverage packaging. During its use, however, <b>plastic</b> becomes worn and breaks&nbsp;...",
+                "formattedUrl": "https://www.medicalnewstoday.com/.../what-do-we-know-about-microplasti...",
+                "htmlFormattedUrl": "https://www.medicalnewstoday.com/.../what-do-we-know-about-micro<b>plasti</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnbxTQP_H6Cotk-arpMErfHPitBcFecYPgJm4IkmiE8LzlmgVznB0iPEw&s",
+                            "width": "259",
+                            "height": "195"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2022/02/honest-nutrition-feature-007.jpg",
+                            "article:published_time": "2022-02-18T08:00:00.000Z",
+                            "og:type": "article",
+                            "twitter:title": "Microplastics in food: Health risks and solutions",
+                            "twitter:card": "summary_large_image",
+                            "og:image:width": "729",
+                            "sailthru.tags": "cat_public-health,cat_nutrition-diet,cat_environment-sustainability,k1_othernutrition,k2_nutrition",
+                            "k1": "othernutrition",
+                            "kmeta": "foodandfoodbenefits,eco-friendly-foods,food",
+                            "k2": "nutrition",
+                            "og:title": "Microplastics in food: Health risks and solutions",
+                            "og:image:height": "550",
+                            "sailthru.image.thumb": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2022/02/honest-nutrition-feature-007.jpg",
+                            "og:description": "How harmful are microplastics in food, and what can we do to mitigate the health risks? In this Honest Nutrition feature, Medical News Today investigates.",
+                            "article:author": "Amber Charles Alexis, MSPH, RDN",
+                            "twitter:image": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2022/02/honest-nutrition-feature-007.jpg",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "How harmful are microplastics in food, and what can we do to mitigate the health risks? In this Honest Nutrition feature, Medical News Today investigates.",
+                            "og:url": "https://www.medicalnewstoday.com/articles/what-do-we-know-about-microplastics-in-food"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2022/02/honest-nutrition-feature-007.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Most of the plastics produced globally are used for food and beverage packaging. During its use, however, plastic becomes worn and breaks into small fragments called microplastics. In this Honest Nutrition Feature, we explain the potential dangers of microplastics, how food becomes contaminated with them, and ways to reduce exposure.\nGlobally, 322 million metric tons of plastics were produced in 2016, of which 60% supplied the food and beverage industry for food packaging. These plastics contain an array of chemicals, including stabilizers, lubricants, fillers, and plasticizers.\nExposure to some environmental conditions, such as heat, causes plastic to break into smaller fragments called microplastics, which can migrate into food.\nSingle-use water bottles, to-go containers, food cans, and storage wraps are examples of common plastic-based food packaging that contains microplastics.\nHeating food in plastic packaging, long storage times, and the type of plastic packaging a person uses all affect the amount of the microplastics and their harmful chemicals that migrates into food.\nThe microplastic chemicals present in food are a mixture of those that manufacturers deliberately add, such as fillers and stabilizers, and those that accumulate as byproducts, such as residues and impurities.\nSome common microplastics present in food include...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "The long-term effects of heated tobacco product exposure on the ...",
+                "htmlTitle": "The <b>long</b>-<b>term effects</b> of <b>heated</b> tobacco product <b>exposure</b> on the ...",
+                "link": "https://www.nature.com/articles/s41598-023-50941-4",
+                "displayLink": "www.nature.com",
+                "snippet": "Jan 2, 2024 ... Smoking, which is a primary cause of chronic lung inflammatory response, is known to be a risk factor for sporadic AD as well as other lifestyle ...",
+                "htmlSnippet": "Jan 2, 2024 <b>...</b> Smoking, which is a primary cause of <b>chronic</b> lung inflammatory response, is known to be a <b>risk</b> factor for sporadic AD as well as other lifestyle&nbsp;...",
+                "formattedUrl": "https://www.nature.com/articles/s41598-023-50941-4",
+                "htmlFormattedUrl": "https://www.nature.com/articles/s41598-023-50941-4",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFCzZXyADoCn0-FvaNj7_0cn5rkgpZBb_mr4w1ovOkBgVjKaklvbFmvnA&s",
+                            "width": "228",
+                            "height": "221"
+                        }
+                    ],
+                    "periodical": [
+                        {
+                            "publisher": "Springer Nature",
+                            "onlineissn": "2045-2322"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "dc.publisher": "Nature Publishing Group",
+                            "citation_journal_title": "Scientific Reports",
+                            "dc.rights": "2024 The Author(s)",
+                            "prism.publicationdate": "2024-01-02",
+                            "prism.issn": "2045-2322",
+                            "360-site-verification": "5a2dc4ab3fcb9b0393241ffbbb490480",
+                            "prism.number": "1",
+                            "citation_issn": "2045-2322",
+                            "citation_language": "en",
+                            "citation_pdf_url": "https://www.nature.com/articles/s41598-023-50941-4.pdf",
+                            "citation_lastpage": "12",
+                            "application-name": "Nature",
+                            "prism.publicationname": "Scientific Reports",
+                            "citation_journal_abbrev": "Sci Rep",
+                            "dc.date": "2024-01-02",
+                            "citation_issue": "1",
+                            "prism.volume": "14",
+                            "size": "159042",
+                            "citation_doi": "10.1038/s41598-023-50941-4",
+                            "dc.title": "The long-term effects of heated tobacco product exposure on the central nervous system in a mouse model of prodromal Alzheimer's disease",
+                            "prism.url": "https://www.nature.com/articles/s41598-023-50941-4",
+                            "citation_volume": "14",
+                            "dc.language": "En",
+                            "doi": "10.1038/s41598-023-50941-4",
+                            "msapplication-config": "/static/browserconfig.xml",
+                            "prism.startingpage": "1",
+                            "theme-color": "#000000",
+                            "citation_title": "The long-term effects of heated tobacco product exposure on the central nervous system in a mouse model of prodromal Alzheimer's disease",
+                            "access": "Yes",
+                            "citation_publisher": "Nature Publishing Group",
+                            "applicable-device": "pc,mobile",
+                            "dc.format": "text/html",
+                            "prism.rightsagent": "journalpermissions@springernature.com",
+                            "citation_online_date": "2024/01/02",
+                            "dc.source": "Scientific Reports 2024 14:1",
+                            "dc.type": "OriginalPaper",
+                            "dc.rightsagent": "journalpermissions@springernature.com",
+                            "dc.copyright": "2024 The Author(s)",
+                            "citation_fulltext_html_url": "https://www.nature.com/articles/s41598-023-50941-4",
+                            "msapplication-tilecolor": "#000000",
+                            "journal_id": "41598",
+                            "dc.description": "Heated tobacco products (HTPs) have emerged as novel alternatives to conventional cigarettes (CCs), marketed by the tobacco industry as having a reduced potential for harm. Nevertheless, a significant dearth of information remains regarding the long-term effects of HTPs on the central nervous system (CNS). Here, we sought to shed light on the repercussions of prolonged exposure to HTPs on the CNS, employing a mouse model mimicking prodromal Alzheimer's disease (AD). Our study entailed subjecting App knock-in mice to 16&nbsp;weeks of HTP exposure, administered 5&nbsp;days per week, with serum cotinine concentration serving as confirmation of HTP exposure within this model. Histological analysis, aimed at assessing amyloid pathology, unveiled a minimal impact attributable to HTPs. However, exploration of differentially expressed genes in the cerebral cortex, using unadjusted p values, indicated an association between HTP exposure and non-inflammatory pathways, specifically linked to neurohypophyseal and neurope",
+                            "citation_article_type": "Article",
+                            "prism.doi": "doi:10.1038/s41598-023-50941-4",
+                            "prism.endingpage": "12",
+                            "citation_firstpage": "1",
+                            "viewport": "width=device-width,initial-scale=1.0,maximum-scale=5,user-scalable=yes",
+                            "prism.section": "OriginalPaper",
+                            "dc.identifier": "doi:10.1038/s41598-023-50941-4",
+                            "prism.copyright": "2024 The Author(s)"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-023-50941-4/MediaObjects/41598_2023_50941_Fig1_HTML.png"
+                        }
+                    ],
+                    "scholarlyarticle": [
+                        {
+                            "name": "A novel role for vaping in mitochondrial gene dysregulation and inflammation fundamental to disease development",
+                            "headline": "A novel role for vaping in mitochondrial gene dysregulation and inflammation fundamental to disease development",
+                            "url": "A novel role for vaping in mitochondrial gene dysregulation and inflammation fundamental to disease development"
+                        },
+                        {
+                            "name": "Multi-omic and multi-species meta-analyses of nicotine consumption",
+                            "headline": "Multi-omic and multi-species meta-analyses of nicotine consumption",
+                            "url": "Multi-omic and multi-species meta-analyses of nicotine consumption"
+                        },
+                        {
+                            "name": "Factors influencing JUUL e-cigarette nicotine vapour-induced reward, withdrawal, pharmacokinetics and brain connectivity in rats: sex matters",
+                            "headline": "Factors influencing JUUL e-cigarette nicotine vapour-induced reward, withdrawal, pharmacokinetics and brain connectivity in rats: sex matters",
+                            "url": "Factors influencing JUUL e-cigarette nicotine vapour-induced reward, withdrawal, pharmacokinetics and brain connectivity in rats: sex matters"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "nature",
+                            "name": "nature",
+                            "position": "1"
+                        },
+                        {
+                            "item": "scientific reports",
+                            "name": "scientific reports",
+                            "position": "2"
+                        },
+                        {
+                            "item": "articles",
+                            "name": "articles",
+                            "position": "3"
+                        },
+                        {
+                            "name": "article",
+                            "position": "4"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... CNS. Of note, similar results have already been observed after exposure to CCs in vivo. Our study not only contributes insights into the potential non-inflammatory effects of HTPs within the context of AD pathogenesis but also underscores the significance of continued research to comprehend the full scope of their impact on the CNS.\nHeated tobacco products (HTPs) are emerging tobacco products with smoking mechanisms that differ from those of conventional cigarettes (CCs)1,2,3. Tobacco industries highlight the reduced harm of HTPs compared with CCs, and current smokers with little intention of quitting smoking are increasingly replacing CCs with HTPs2,3. However, there is insufficient evidence to determine whether HTPs pose a risk for certain diseases, as stated by the World Health Organization. Therefore, independent studies are required to determine the health risks associated with HTPs4.\nSeveral in vivo studies have reported the toxicity of HTPs to the respiratory and circulatory systems since their introduction into the market in Japan in the early 2010s, but limited knowledge exists regarding toxicity to the central nervous system (CNS), particularly after long-term exposure to HTPs5,6,7,8,9. Alzheimer’s disease (AD) is the leading cause of dementia, characterized by the extracellular accumulation of misfolded amyloid-β (Aβ) and intracellular inclusions of hyperphosphorylated tau10. Many studies indicate chronic inflammation, including systemic inflammation and neuroinflammation, has a fundamental role in the progression of the neuropathological changes in AD11,12,13,14. Lung inflammation leads to brain inflammatory responses that also trigger accumulation of the Aβ peptide and cause memory impairment in mice14. Smoking, which is a primary cause of chronic lung inflammatory response, is known to be a risk factor for sporadic AD as well as other lifestyle conditions15. In addition to epidemiological studies, findings using mouse models suggest that exposure to CC smoke, which contains a mixture of multiple chemicals, exacerbates amyloid pathology15,16,17. However, the effect of HTPs on AD is uncertain, and evaluating the effect of long-term exposure to HTPs on the CNS using a mouse model is worth performing because it can support epidemiological data and provide valuable information regarding the health risk of exposure to HTPs on the CNS18.\nTo determine the health risks of emerging products containing multiple chemicals, such as HTPs, broad risk assessments should be conducted to consider multiple adverse outcomes8,19. Here, we conducted a long-term exposure study in amyloid model mice,...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Exposed to extreme heat, plastic bottles may ultimately become unsafe",
+                "htmlTitle": "<b>Exposed</b> to extreme <b>heat</b>, <b>plastic</b> bottles may ultimately become unsafe",
+                "link": "https://www.nationalgeographic.com/environment/article/exposed-to-extreme-heat-plastic-bottles-may-become-unsafe-over-time",
+                "displayLink": "www.nationalgeographic.com",
+                "snippet": "Jul 19, 2019 ... In experiments, it took 38 days for water bottles heated to that temperature in a lab to show levels of antimony that exceeded safety ...",
+                "htmlSnippet": "Jul 19, 2019 <b>...</b> In experiments, it took 38 days for water bottles <b>heated</b> to that temperature in a lab to show levels of antimony that exceeded <b>safety</b>&nbsp;...",
+                "formattedUrl": "https://www.nationalgeographic.com/.../exposed-to-extreme-heat-plastic-bo...",
+                "htmlFormattedUrl": "https://www.nationalgeographic.com/.../exposed-to-extreme-heat-<b>plastic</b>-bo...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-FmzFFpQtQyYx8M-4Av2v4-MHBqCnXDgCXoxIMz_rgd-1gkKJWYjT1ZA&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.natgeofe.com/n/d794859c-86e7-4662-8d48-5aa132039a76/01-waterbottlesun_20190719_0023_16x9.jpg?w=1200",
+                            "twitter:app:id:googleplay": "com.natgeomobile.ngmagazine",
+                            "og:image:width": "1200",
+                            "theme-color": "#ffffff",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "07-19-2019",
+                            "og:site_name": "Environment",
+                            "twitter:url": "https://www.nationalgeographic.com/environment/article/exposed-to-extreme-heat-plastic-bottles-may-become-unsafe-over-time",
+                            "twitter:app:name:googleplay": "National Geographic",
+                            "medium": "website",
+                            "title": "Exposed to extreme heat, plastic bottles may ultimately become unsafe",
+                            "twitter:app:id:iphone": "418671597",
+                            "og:description": "“The hotter it gets, the more the stuff in plastic can move into food or drinking water.”",
+                            "twitter:creator": "@NatGeo",
+                            "article:publisher": "https://www.facebook.com/natgeo",
+                            "twitter:image:alt": "Exposed to extreme heat, plastic bottles may ultimately become unsafe",
+                            "twitter:site": "@NatGeo",
+                            "article:modified_time": "05-03-2021",
+                            "og:type": "article",
+                            "twitter:title": "Exposed to extreme heat, plastic bottles may ultimately become unsafe",
+                            "article:section": "Environment",
+                            "og:title": "Exposed to extreme heat, plastic bottles may ultimately become unsafe",
+                            "og:image:height": "675",
+                            "tax:othersubjects": "Plastics, Climate Change",
+                            "twitter:image:src": "https://i.natgeofe.com/n/d794859c-86e7-4662-8d48-5aa132039a76/01-waterbottlesun_20190719_0023_16x9.jpg?w=1200",
+                            "tax:firstsubject": "Pollution",
+                            "referrer": "origin",
+                            "viewport": "initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                            "tax:source": "Environment",
+                            "twitter:description": "“The hotter it gets, the more the stuff in plastic can move into food or drinking water.”",
+                            "og:locale": "en_US",
+                            "guid": "drn:src:natgeo:unison::prod:0cddb4bc-bbd6-4be0-bad3-9beea295d0bd",
+                            "og:url": "https://www.nationalgeographic.com/environment/article/exposed-to-extreme-heat-plastic-bottles-may-become-unsafe-over-time",
+                            "twitter:app:name:iphone": "National Geographic"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.natgeofe.com/n/d794859c-86e7-4662-8d48-5aa132039a76/01-waterbottlesun_20190719_0023_16x9.jpg?w=1200"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... chemicals are too minuscule to cause health problems, but scientists looking at the long-term effects of filling our lives with plastic say all those small doses could add up in a big way.\nA single-use bottle on a hot summer day\n---------------------------------------\nMost of the water bottles you find on supermarket shelves are made of a plastic called polyethylene terephthalate, or PET. It’s recognizable by the recycling number one and accepted by most curbside recycling programs.\nA study conducted by scientists at Arizona State University in 2008  in PET bottles. Antimony is used to manufacture the plastic and can be toxic in high doses, the NIH . In mild, 70-degree weather, the researchers measured safe levels of the chemical in the bottled water. But the hotter the day, the less time it took for water to become contaminated.\nA hot car can reach temperatures over 150 degrees Fahrenheit in the summer. In experiments, it took 38 days for water bottles heated to that temperature in a lab to show levels of antimony that exceeded safety recommendations.\n“As a general rule, yes, heat helps break down chemical bonds in plastics like plastic bottles, and those chemicals can migrate into beverages they contain,” emails Julia Taylor, a scientist who researched plastic at the University of Missouri.\n scientists found high traces of antimony and a toxic compound called BPA in water sold in Chinese water bottles.  scientists found high antimony levels in bottled water sold in Mexico. Both studies tested water under conditions that exceeded 150 degrees Fahrenheit, representing worst-case scenarios.\nAccording to industry group the , bottled water should be kept in the same conditions that consumers keep other groceries.\n“Bottled water has an important role in emergency situations. If you’re at risk of dehydration, it doesn’t matter what container that comes in. But for the average consumer,” says Halden, “there is really no benefit for using all these bottles.”\nWhat about reusable containers?\n-------------------------------\nWater bottles that can be used repeatedly are most often made from high-density polyethylene (HDPE) or polycarbonate. HDPE is largely accepted by recycling programs (recycling code number two), but polycarbonate is more difficult to recycle (recycling code number seven).\nYou May Also Like\n-----------------\n SCIENCE In a first, microplastic particles have been linked to heart disease --------------------------------------------------------------------]\n SCIENCE We got rid of BPA in some products—but are the substitutes any safer? ---------------------------------------------------------------------]\n SCIENCE Biodegradable plastic exists—but it’s not cheap -----------------------------------------------]\nTo make those bottles hard and shiny, manufacturers often use bisphenol-A or...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Asbestos Exposure and Cancer Risk Fact Sheet - NCI",
+                "htmlTitle": "Asbestos <b>Exposure</b> and Cancer <b>Risk</b> Fact Sheet - NCI",
+                "link": "https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/asbestos/asbestos-fact-sheet",
+                "displayLink": "www.cancer.gov",
+                "snippet": "Nov 29, 2021 ... A fact sheet about asbestos, the health hazards of asbestos exposure (including mesothelioma), and who's at risk for an asbestos-related ...",
+                "htmlSnippet": "Nov 29, 2021 <b>...</b> A fact sheet about asbestos, the <b>health hazards</b> of asbestos <b>exposure</b> (including mesothelioma), and who&#39;s at risk for an asbestos-related&nbsp;...",
+                "formattedUrl": "https://www.cancer.gov/about-cancer/causes.../risk/.../asbestos-fact-sheet",
+                "htmlFormattedUrl": "https://www.cancer.gov/about-cancer/causes.../risk/.../asbestos-fact-sheet",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkwNw0WS_99aq233UDotiqpIDpA5xaj4KG4Va0uHlj2UDRsd1Wp2AZxU&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "question": [
+                        {
+                            "name": "What is asbestos?"
+                        },
+                        {
+                            "name": "How is asbestos used?"
+                        },
+                        {
+                            "name": "What are the health hazards of exposure to asbestos?"
+                        },
+                        {
+                            "name": "Who is at risk for an asbestos-related disease?"
+                        },
+                        {
+                            "name": "What factors affect the risk of developing an asbestos-related disease?"
+                        },
+                        {
+                            "name": "How does smoking affect risk?"
+                        },
+                        {
+                            "name": "How are asbestos-related diseases detected?"
+                        },
+                        {
+                            "name": "How can workers protect themselves from asbestos exposure?"
+                        },
+                        {
+                            "name": "What programs are available to help individuals with asbestos-related diseases?"
+                        },
+                        {
+                            "name": "What other organizations offer information related to asbestos exposure?"
+                        }
+                    ],
+                    "answer": [
+                        {
+                            "text": "Asbestos is the name given to six minerals that occur naturally in the environment as bundles of fibers that can be separated into thin, durable threads for use in commercial and industrial..."
+                        },
+                        {
+                            "text": "Asbestos has been mined and used commercially in North America since the late 1800s. Its use increased greatly during World War II (3, 4). Since then, asbestos has been used in many industries...."
+                        },
+                        {
+                            "text": "People may be exposed to asbestos in their workplace, their communities, or their homes. If products containing asbestos are disturbed, tiny asbestos fibers are released into the air. When..."
+                        },
+                        {
+                            "text": "Everyone is exposed to asbestos at some time during their life. Low levels of asbestos are present in the air, water, and soil. However, most people do not become ill from their exposure. People..."
+                        },
+                        {
+                            "text": "Several factors can help to determine how asbestos exposure affects an individual, including: Dose (how much asbestos an individual was exposed to) Duration (how long an individual was exposed)..."
+                        },
+                        {
+                            "text": "Many studies have shown that the combination of smoking and asbestos exposure is particularly hazardous. Smokers who are also exposed to asbestos have a risk of developing lung cancer that..."
+                        },
+                        {
+                            "text": "Individuals who have been exposed (or suspect they have been exposed) to asbestos fibers on the job, through the environment, or at home via a family contact should inform their doctor about..."
+                        },
+                        {
+                            "text": "The Occupational Safety and Health Administration (OSHA) is a component of the U.S. Department of Labor (DOL) and is the Federal agency responsible for health and safety regulations in maritime,..."
+                        },
+                        {
+                            "text": "Some people with asbestos-related illness may be eligible for Medicare coverage. Information about benefits is available from Medicare’s Regional Offices, located in 10 major cities across..."
+                        },
+                        {
+                            "text": "The organizations listed below can provide more information about asbestos exposure. The Agency for Toxic Substances and Disease Registry (ATSDR) is the principal Federal agency responsible..."
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "application-name": "Cancer.gov",
+                            "og:image": "https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/2022-01/Asbestos_fibres.jpg",
+                            "msapplication-config": "/profiles/custom/cgov_site/themes/custom/cgov/static/images/design-elements/icons/favicons/browserconfig.xml?v=1",
+                            "og:type": "Website",
+                            "twitter:card": "summary",
+                            "dcterms.ispartof": "Causes and Prevention",
+                            "handheldfriendly": "true",
+                            "dcterms.type": "cgvArticle",
+                            "og:title": "Asbestos Exposure and Cancer Risk Fact Sheet",
+                            "apple-mobile-web-app-title": "Cancer.gov",
+                            "dcterms.subject": "About Cancer",
+                            "og:description": "A fact sheet about asbestos, the health hazards of asbestos exposure (including mesothelioma), and who's at risk for an asbestos-related disease. Also presented are resources for information related to asbestos exposure and programs to help exposed individuals.",
+                            "cgdp.domain": "cgov",
+                            "dcterms.issued": "12/08/2021 - 07:00",
+                            "dcterms.isreferencedby": "event1",
+                            "viewport": "width=device-width, user-scalable=yes, initial-scale=1, minimum-scale=1",
+                            "mobileoptimized": "width",
+                            "cgdp.template": "default",
+                            "og:url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/asbestos/asbestos-fact-sheet",
+                            "dcterms.coverage": "nciglobal,ncienterprise"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/2022-01/Asbestos_fibres.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "What is asbestos?\nHow is asbestos used?\nWhat are the health hazards of exposure to asbestos?\nWho is at risk for an asbestos-related disease?\nWhat factors affect the risk of developing an asbestos-related disease?\nHow does smoking affect risk?\nHow are asbestos-related diseases detected?\nHow can workers protect themselves from asbestos exposure?\nWhat programs are available to help individuals with asbestos-related diseases?\nWhat other organizations offer information related to asbestos exposure?\nWhat is asbestos?\nAsbestos is the name given to six minerals that occur naturally in the environment as bundles of fibers that can be separated into thin, durable threads for use in commercial and industrial applications. These fibers are resistant to heat, fire, and chemicals and do not conduct electricity. For these reasons, asbestos has been used widely in many industries. Additional asbestos-like minerals are found in the natural environment, including erionite.\nChemically, asbestos minerals are silicate compounds, meaning they contain atoms of silicon and oxygen in their molecular structure.\nAsbestos minerals are divided into two major groups: Serpentine asbestos and amphibole asbestos. Serpentine asbestos includes the mineral chrysotile, which has long, curly fibers that can be woven. Chrysotile asbestos is the form that has been used most widely in commercial applications. Amphibole asbestos includes the minerals actinolite, tremolite, anthophyllite, crocidolite, and amosite....[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Study: Plastic Baby Bottles Shed Microplastics When Heated ...",
+                "htmlTitle": "Study: <b>Plastic</b> Baby Bottles Shed Microplastics When <b>Heated</b> ...",
+                "link": "https://www.npr.org/sections/goatsandsoda/2020/10/19/925525183/study-plastic-baby-bottles-shed-microplastics-when-heated-should-you-be-worried",
+                "displayLink": "www.npr.org",
+                "snippet": "Oct 19, 2020 ... The implications for a child's health are not yet known. The study's authors urge people not to panic — and stress the need for more ...",
+                "htmlSnippet": "Oct 19, 2020 <b>...</b> The <b>implications</b> for a child&#39;s <b>health</b> are not yet known. The study&#39;s authors urge people not to panic — and stress the need for more&nbsp;...",
+                "formattedUrl": "https://www.npr.org/.../study-plastic-baby-bottles-shed-microplastics-when-...",
+                "htmlFormattedUrl": "https://www.npr.org/.../study-<b>plastic</b>-baby-bottles-shed-micro<b>plastic</b>s-when-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrpvXQQlzxJVzopysbye5cZrrYl38F7f1_vV9xIrkEcUu_9ho9aE7C-lLR&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "speakablespecification": [
+                        {
+                            "cssselector": "[data-is-speakable]"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "date": "2020-10-19",
+                            "apple-itunes-app": "app-id=324906251, app-argument=https://www.npr.org/sections/goatsandsoda/2020/10/19/925525183/study-plastic-baby-bottles-shed-microplastics-when-heated-should-you-be-worried",
+                            "og:image": "https://media.npr.org/assets/img/2020/10/19/gettyimages-527399868_wide-94ce165f0554270b35567f4d7d8b0dc759389657.jpg?s=1400&c=100&f=jpeg",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Study: Plastic Baby Bottles Shed Microplastics When Heated. Should You Be Worried?",
+                            "og:site_name": "NPR",
+                            "cxenseparse:pageclass": "article",
+                            "twitter:domain": "npr.org",
+                            "cxenseparse:publishtime": "2020-10-19T17:46:56-04:00",
+                            "og:title": "Study: Plastic Baby Bottles Shed Microplastics When Heated. Should You Be Worried?",
+                            "rating": "General",
+                            "og:description": "The implications for a child's health are not yet known. The study's authors urge people not to panic — and stress the need for more research.",
+                            "fb:pages": "10643211755",
+                            "twitter:image:src": "https://media.npr.org/assets/img/2020/10/19/gettyimages-527399868_wide-94ce165f0554270b35567f4d7d8b0dc759389657.jpg?s=1400&c=100&f=jpeg",
+                            "fb:app_id": "138837436154588",
+                            "cxenseparse:author": "Maria Godoy",
+                            "twitter:site": "@NPR",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "article:content_tier": "free",
+                            "og:url": "https://www.npr.org/sections/goatsandsoda/2020/10/19/925525183/study-plastic-baby-bottles-shed-microplastics-when-heated-should-you-be-worried",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.npr.org/assets/img/2020/10/19/gettyimages-527399868_wide-94ce165f0554270b35567f4d7d8b0dc759389657.jpg?s=1400&c=100&f=jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...prehensive view of the market, and that also allowed us to actually look at the global potential of this issue,\" he says.\nThe researchers selected 10 types of plastic baby bottles, representative of nearly 70% of the global market, and measured the levels of microplastics released when they were used to prepare infant formula according to guidelines set by WHO. Those guidelines call for mixing powdered formula with water heated to at least 158 degrees Fahrenheit to reduce bacteria loads.\nWhat they found was that the release of microplastics was highly temperature sensitive, Boland said. \"What's happening is that there's an interaction between the [plastic] polymer and the water,\" Boland said. \"It's almost like a flaking of the surface of the actual plastic itself.\" Hotter water exacerbates that flaking, and so does shaking the bottle.\nWhen the researchers filled the plastic baby bottles with room temperature water and shook them for about 60 seconds, to simulate normal formula preparations, \"you get hundreds of thousands of microplastics,\" he said. When they increased that temperature to 158 F, the bottles released anywhere from 1 million to 16 million particles per liter. The bottles also released trillions of even smaller nanoplastics — tiny bits of plastic ranging in size from 10 nanometers up to 1 micron – so many that \"we stopped counting them,\" he said.\nThe plastic bottles continued to release microplastic particles over 21 days of testing. \nThe researchers then used global sales data for plastic baby bottles and information on national breastfeeding rates to estimate the potential exposure to microplastics for infants around the world in the first 12 months of life. Overall, they estimated that the average infant consumes more than 1.5 million microplastics particles per day.\nBut those estimates varied drastically depending on the region of the world. Infants in higher-income parts of the world, including North America and Europe, where breastfeeding rates are lower, could potentially be consuming well over 2 million microplastic particles per day, they estimated. Meanwhile, in China, where glass baby bottles are more popular, the average infant's consumption of microplastics is estimated to be in the \"tens of thousands\" of particles, Boland said.\nInfants and Asia and Africa had the lowest potential exposure, they estimated.\nWhile the health effects of microplastics are still unknown, parents can significantly reduce their infants' exposure by adding some steps to their bottle preparation routine, Boland said. He recommends letting plastic bottles cool completely after sterilization in hot water, then rinsing them out at least three times with water that's been allowed to cool...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Is it safe to microwave food?",
+                "htmlTitle": "Is it safe to microwave food?",
+                "link": "https://www.bbc.com/future/article/20200714-is-it-safe-to-microwave-food",
+                "displayLink": "www.bbc.com",
+                "snippet": "Jul 14, 2020 ... There's nothing risky about microwave radiation – but there are health concerns about heating up plastic. Here's what the latest research ...",
+                "htmlSnippet": "Jul 14, 2020 <b>...</b> There&#39;s nothing risky about microwave radiation – but there are <b>health concerns</b> about <b>heating</b> up <b>plastic</b>. Here&#39;s what the latest research&nbsp;...",
+                "formattedUrl": "https://www.bbc.com/future/article/20200714-is-it-safe-to-microwave-food",
+                "htmlFormattedUrl": "https://www.bbc.com/future/article/20200714-is-it-safe-to-microwave-food",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR57W-K3bLMqMr7FVbLuw6xONoEhkNTFP-KH43laq6OsvC_s6RLbPTt_9CR&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://ychef.files.bbci.co.uk/624x351/p08kqzh7.jpg",
+                            "twitter:title": "Is it safe to microwave food?",
+                            "twitter:card": "summary_large_image",
+                            "og:image:alt": "A plate of food in a microwave with the door being opened (Credit: Getty Images)",
+                            "theme-color": "#ffffff",
+                            "og:title": "Is it safe to microwave food?",
+                            "og:description": "There's nothing risky about microwave radiation – but there are health concerns about heating up plastic. Here’s what the latest research says about how to safely microwave your food.",
+                            "version": "2.5.0+19",
+                            "twitter:image:src": "https://ychef.files.bbci.co.uk/624x351/p08kqzh7.jpg",
+                            "next-head-count": "25",
+                            "twitter:image:alt": "A plate of food in a microwave with the door being opened (Credit: Getty Images)",
+                            "viewport": "width=device-width",
+                            "twitter:description": "There's nothing risky about microwave radiation – but there are health concerns about heating up plastic. Here’s what the latest research says about how to safely microwave your food."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ychef.files.bbci.co.uk/624x351/p08kqzh7.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "There's nothing risky about microwave radiation – but there are health concerns about heating up plastic. Here's what the latest research says about how to safely microwave your food.\nDespite being a kitchen workhorse for decades, few household items have been more divisive than the microwave. It's hailed as a lifesaver for those who can't, or won't, cook, and portrayed by some chefs as singlehandedly dragging the art of cooking into the gutter.\nBut another debate lies beyond the culinary disputes – when is microwave cooking bad for you?\nWhen used correctly, there's nothing to worry about in terms of your microwave's radiation, according to the World Health Organization. But other concerns are less clear – including whether microwaving food causes nutrient loss, or whether heating food in plastic can trigger hormone disruption.\nSome research has shown that vegetables lose some of their nutritional value in the microwave.\nFor example, microwaving has been found to remove 97% of the flavonoids – plant compounds with anti-inflammatory benefits – in broccoli. That's a third more damage than done by boiling. \nBut the conventional oven may be a stronger competitor for the microwave. A 2020 study compared the nutritional levels of a frozen ready meal cooked in the microwave, and the same meal cooked in a conventional oven. The researchers found that the only...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Home Heating Oil Spills",
+                "htmlTitle": "Home <b>Heating</b> Oil Spills",
+                "link": "https://www.health.ny.gov/environmental/oil_spills/",
+                "displayLink": "www.health.ny.gov",
+                "snippet": "Fuel oil odors can increase the risk for health effects, depending on the size, location, and extent of contamination from a spill. Ruin septic systems. Septic ...",
+                "htmlSnippet": "Fuel oil odors can increase the risk for <b>health effects</b>, depending on the size, location, and extent of contamination from a spill. Ruin septic systems. Septic&nbsp;...",
+                "formattedUrl": "https://www.health.ny.gov/environmental/oil_spills/",
+                "htmlFormattedUrl": "https://www.<b>health</b>.ny.gov/environmental/oil_spills/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpukhTFqUlX3sekGLx1-UMK2acLsKX3TGIyECacTxfV2pD2SOU7AOVhdY&s",
+                            "width": "256",
+                            "height": "197"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.health.ny.gov/environmental/oil_spills/images/Tank-Diagram.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Hotline at (tel:+18004577362). In the event of a fire or explosion, call 911.\nMore than two million homes in New York are heated by fuel oil. Each year, thousands of home heating oil spills occur throughout New York State. Common causes of these spills include overfilling a tank, equipment failure, poor condition of the oil tank, manifolded tank piping, leaky or ruptured gaskets, or having a fill pipe present but no tank connected.\nIn some cases, hundreds of gallons of oil can be pumped into the basement of a home. As little as a few gallons of spilled oil can destroy belongings, pose health risks, and cause environmental damage.\nImpacts\n-------\nOil spills can be difficult and costly to clean up depending on the size, location, and amount of oil spilled. Delays in reporting and cleaning can significantly raise the clean-up costs. In many cases, these costs may not be covered by homeowner’s insurance. Home heating oil spills can:\n*   **Contaminate drinking water wells, storm sewers, drainage ditches, surface water, groundwater, soil, and air.** The impacts on groundwater and wells can take years to address and treatment systems are costly.\n*   **Cause odor problems in the home.** Fuel oil odors can increase the risk for health effects, depending on the size, location, and extent of contamination from a spill.\n*   **Ruin septic systems.** Septic systems impacted by fuel oil must also be cleaned up or replaced to prevent groundwater contamination.\nHealth Concerns\n---------------\nWhen an oil spill occurs at home, residents sometimes need to find another place to live until the clean-up is complete due to the strong odors and an increased risk for health effects.\nBreathing heating oil odors can cause short-term symptoms like headaches, nausea, dizziness, shortness of breath, increased blood pressure, and irritate the eyes, nose, and throat. Skin contact with heating oil can also irritate the skin. These symptoms typically go away after you are no longer exposed to heating oil. Exposure to heating oil odors over a long period of time can increase the risk for serious health problems like liver and kidney damage, increased blood pressure, other blood problems, and cancer.\nTalk to a health care provider if you have symptoms that don’t improve after you are no longer exposed to heating oil odors.\nMaintain Your Oil Tank\n----------------------\nThe life of your oil tank depends how your tank is built, installed, and maintained. Inspecting your oil tank each year and fixing issues in a timely fashion can prevent...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Mercury and health",
+                "htmlTitle": "Mercury and <b>health</b>",
+                "link": "https://www.who.int/news-room/fact-sheets/detail/mercury-and-health",
+                "displayLink": "www.who.int",
+                "snippet": "Mar 31, 2017 ... Health effects of mercury exposure. Elemental and methylmercury are toxic to the central and peripheral nervous systems. The inhalation of ...",
+                "htmlSnippet": "Mar 31, 2017 <b>...</b> <b>Health effects</b> of mercury <b>exposure</b>. Elemental and methylmercury are toxic to the central and peripheral nervous systems. The inhalation of&nbsp;...",
+                "formattedUrl": "https://www.who.int/news-room/fact-sheets/detail/mercury-and-health",
+                "htmlFormattedUrl": "https://www.who.int/news-room/fact-sheets/detail/mercury-and-<b>health</b>",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "theme-color": "#007eb4",
+                            "twitter:card": "summary_large_image",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:title": "Mercury and health",
+                            "og:locale": "en_US",
+                            "og:description": "WHO fact sheet on mercury and health: includes key facts, definitions, exposure, health effects, measures to reduce exposure, WHO response."
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated].... It can adversely affect a baby's growing brain and nervous system. The primary health effect of methylmercury is impaired neurological development. Therefore, cognitive thinking, memory, attention, language, and fine motor and visual spatial skills may be affected in children who were exposed to methylmercury as foetuses.\nThe second group is people who are regularly exposed (chronic exposure) to high levels of mercury (such as populations that rely on subsistence fishing or people who are occupationally exposed). Among selected subsistence fishing populations, between 1.5/1000 and 17/1000 children showed cognitive impairment (mild mental retardation) caused by the consumption of fish containing mercury. These included populations in Brazil, Canada, China, Columbia and Greenland.\nA significant example of mercury exposure affecting public health occurred in Minamata, Japan, between 1932 and 1968, where a factory producing acetic acid discharged waste liquid into Minamata Bay. The discharge included high concentrations of methylmercury. The bay was rich in fish and shellfish, providing the main livelihood for local residents and fishermen from other areas.\nFor many years, no one realised that the fish were contaminated with mercury, and that it was causing a strange disease in the local community and in other districts. At least 50 000 people were affected to some extent and more than 2000 cases of Minamata disease were certified. Minamata disease peaked in the 1950s, with severe cases suffering brain damage, paralysis, incoherent speech and delirium.\nHealth effects of mercury exposure\n----------------------------------\nElemental and methylmercury are toxic to the central and peripheral nervous systems. The inhalation of mercury vapour can produce harmful effects on the nervous, digestive and immune systems, lungs and kidneys, and may be fatal. The inorganic salts of mercury are corrosive to the skin, eyes and gastrointestinal tract, and may induce kidney toxicity if ingested.\nNeurological and behavioural disorders may be observed after inhalation, ingestion or dermal exposure of different mercury compounds. Symptoms include tremors, insomnia, memory loss, neuromuscular effects, headaches and cognitive and motor dysfunction. Mild, subclinical signs of central nervous system toxicity can be seen in workers exposed to an elemental mercury level in the air of 20 μg/m3 or more for several years. Kidney effects have been reported, ranging from increased protein in the urine to kidney failure.\nHow to reduce human exposure from mercury sources\n-------------------------------------------------\nThere are several ways to prevent adverse health effects, including...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Exposure to Heated Tobacco Products and Adverse Health Effects ...",
+                "htmlTitle": "<b>Exposure</b> to <b>Heated</b> Tobacco Products and Adverse <b>Health Effects</b> ...",
+                "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8296358/",
+                "displayLink": "www.ncbi.nlm.nih.gov",
+                "snippet": "Jun 21, 2021 ... In the study performed by Rodrigo et al., 2021 non-cancer and cancer risks were estimated in a range of HTP and commercial combustible ...",
+                "htmlSnippet": "Jun 21, 2021 <b>...</b> In the study performed by Rodrigo et al., 2021 non-cancer and cancer <b>risks</b> were estimated in a <b>range</b> of HTP and commercial combustible&nbsp;...",
+                "formattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8296358/",
+                "htmlFormattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8296358/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "dc.publisher": "Multidisciplinary Digital Publishing Institute  (MDPI)",
+                            "citation_publication_date": "2021/06",
+                            "og:image": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0",
+                            "citation_title": "Exposure to Heated Tobacco Products and Adverse Health Effects, a Systematic Review",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "PubMed Central (PMC)",
+                            "citation_reference": "citation_journal_title=Int. J. Occup. Med. Environ. Health; citation_title=New ideas, old problems? Heated tobacco products—A systematic review; citation_author=M. Jankowski; citation_author=G.M. Brożek; citation_author=J. Lawson; citation_author=S. Skoczyński; citation_author=P. Majek; citation_author=J.E. Zejda; citation_volume=32; citation_publication_date=2019; citation_firstpage=595; citation_lastpage=634; citation_doi=10.13075/ijomeh.1896.01433;",
+                            "citation_journal_title": "International Journal of Environmental Research and Public Health",
+                            "ncbi_pdid": "article",
+                            "ncbi_pcid": "/articles/PMC8296358/",
+                            "ncbi_phid": "939B02B78EB0AA35000041EE2FD915E3.1.m_2",
+                            "og:description": "Heated tobacco products (HTP) are a form of nicotine delivery intended to be an alternative to traditional cigarettes. HTP tobacco products are sold to consumers as a less harmful alternative to traditional cigarettes, both for users and bystanders. The ...",
+                            "ncbi_db": "pmc",
+                            "twitter:site": "@ncbi",
+                            "dc.type": "Text",
+                            "citation_fulltext_html_url": "/pmc/articles/PMC8296358/",
+                            "ncbi_app_version": "0.0",
+                            "ncbi_type": "fulltext",
+                            "citation_pmid": "34205612",
+                            "og:type": "article",
+                            "handheldfriendly": "True",
+                            "ncbi_app": "pmc-frontend",
+                            "og:title": "Exposure to Heated Tobacco Products and Adverse Health Effects, a Systematic Review",
+                            "citation_author": "Małgorzata Znyk",
+                            "citation_abstract_html_url": "/pmc/articles/PMC8296358/?report=abstract",
+                            "dc.date": "2021 Jun",
+                            "citation_issue": "12",
+                            "dc.contributor": "Małgorzata Znyk",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "citation_doi": "10.3390/ijerph18126651",
+                            "mobileoptimized": "320",
+                            "ncbi_op": "retrieved",
+                            "dc.title": "Exposure to Heated Tobacco Products and Adverse Health Effects, a Systematic Review",
+                            "ncbi_domain": "ijerph",
+                            "dc.identifier": "10.3390/ijerph18126651",
+                            "citation_volume": "18",
+                            "dc.language": "en",
+                            "og:url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8296358/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... are still not fully known \\\\].\nThe data shows that HTP is mainly used in combination with other products, mainly by the youngest generation and those who never smoke. The dual use of these products, their high use among younger generations and the interest of non-smokers are worrying, and point to the need for close monitoring of HTP for prevalence and user characteristics \\\\]. Only a few independent studies, mainly from Japan, where HTP are widespread, and the United States have investigated their spread and/or public health consequences \\,,,\\].\nDespite the lack of convincing evidence regarding the harmful effects of HTP, growing evidence indicates that the IQOS tobacco heating system may not be as safe as the manufacturer claims; this is due to its potentially harmful ingredients and the increased concentration of nicotine and other harmful chemicals emitted by HTP devices \\,,\\].\nAccording to the tobacco industry data, aerosols generated during the heating process have approximately 90–95% lower levels of toxic substances than conventional cigarette smoke \\,,,\\]. Independent studies have confirmed that the concentration of chemical compounds produced by HTP is lower than that produced by traditional cigarettes \\,,\\]. However, toxic compounds were not completely removed from the heated tobacco aerosol \\,,,,,,,\\]. Many studies, both independent and industry, have shown that IQOS sticks contained 70–80% of the concentration of nicotine found in traditional cigarettes \\,,,,,\\]. Farsalinos et al. reported that HTPs deliver nicotine to the aerosol at levels higher than e-cigarettes \\\\]. Independent studies have shown that IQOS emit significantly lower levels of carbonyls and submicron particles than commercial cigarettes, but higher levels than e-cigarettes \\,\\]. Mallock et al. observed significantly lower levels of aldehydes (approx. 80–95%) and volatile organic compounds (approx. 97–99%) in the IQOS aerosol, compared to cigarette smoke \\\\]. Pacitto et al. also showed lower concentrations of volatile and non-volatile particles in IQOS aerosols compared to traditional cigarette smoke \\\\]. Ruprecht et al. noticed that the IQOS aerosol was free of metal emissions, unlike the aerosols of cigarettes and e-cigarettes \\\\]. In the study performed by Rodrigo et al., 2021 non-cancer and cancer risks were estimated in a range of HTP and commercial combustible cigarettes, based upon their harmful and potentially harmful constituent yields in aerosols and smoke. It was found that mean lifetime cancer risk values were decreased by more than one order of magnitude when comparing HTPs and commercial cigarettes. Additionally, the higher margin of exposure for non-cancer risk was observed for HTPs when compared to commercial cigarettes \\\\]. Due...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

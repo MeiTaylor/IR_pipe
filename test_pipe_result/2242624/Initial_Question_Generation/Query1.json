@@ -1,0 +1,1233 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Does Bernie Sanders fly coach during campaigns?",
+                "totalResults": "543000",
+                "searchTerms": "Does Bernie Sanders fly coach during campaigns?",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Does Bernie Sanders fly coach during campaigns?",
+                "totalResults": "543000",
+                "searchTerms": "Does Bernie Sanders fly coach during campaigns?",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.27179,
+        "formattedSearchTime": "0.27",
+        "totalResults": "543000",
+        "formattedTotalResults": "543,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Bernie Sanders flies coach, social media says he's first class | CNN ...",
+                "htmlTitle": "<b>Bernie Sanders flies coach</b>, social media says he&#39;s first class | CNN ...",
+                "link": "https://www.cnn.com/2015/12/29/politics/bernie-sanders-on-a-plane/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Dec 29, 2015 ... Bernie Sanders' supporters have launched a social media campaign highlighting their candidate's frequent appearances on commercial airlines.",
+                "htmlSnippet": "Dec 29, 2015 <b>...</b> <b>Bernie Sanders</b>&#39; supporters have launched a social media <b>campaign</b> highlighting their candidate&#39;s frequent appearances on <b>commercial</b> airlines.",
+                "formattedUrl": "https://www.cnn.com/2015/12/29/politics/bernie-sanders-on.../index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/2015/12/29/politics/<b>bernie</b>-<b>sanders</b>-on.../index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIdWJoAVGGmsRMntPEdCDk6dJ67ypwovuVK0cZzP1DeSK84VsWhhOiup4&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/151223072743-bernie-sanders-mocks-trump-hillary-clinton-bathroom-00002127.jpg?q=x_367,y_34,h_619,w_1100,c_crop/w_800",
+                            "twitter:title": "Sanders flies coach, social media says he’s first class | CNN Politics",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2015-12-29T16:15:42Z",
+                            "og:site_name": "CNN",
+                            "author": "Gregory Krieg",
+                            "og:title": "Sanders flies coach, social media says he’s first class | CNN Politics",
+                            "meta-section": "politics",
+                            "type": "article",
+                            "og:description": "Bernie Sanders’ supporters have launched a social media campaign highlighting their candidate’s frequent appearances on commercial airlines.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/151223072743-bernie-sanders-mocks-trump-hillary-clinton-bathroom-00002127.jpg?q=x_367,y_34,h_619,w_1100,c_crop/w_800",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "article:tag": "2016 presidential election, bernie sanders, elections and campaigns, government and public administration, internet and www, political candidates, political figures - us, politics, social media, technology, us federal elections, us presidential elections, companies, facebook inc",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@cnnpolitics",
+                            "article:modified_time": "2015-12-29T16:42:19Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "Bernie Sanders’ supporters have launched a social media campaign highlighting their candidate’s frequent appearances on commercial airlines.",
+                            "template_type": "article_leaf",
+                            "meta-branding": "2016-elections",
+                            "theme": "politics",
+                            "og:url": "https://www.cnn.com/2015/12/29/politics/bernie-sanders-on-a-plane/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/151223072743-bernie-sanders-mocks-trump-hillary-clinton-bathroom-00002127.jpg?q=x_367,y_34,h_619,w_1100,c_crop/w_800"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n*   \n    *   \n    *   \n*   \n*   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \nAd Feedback\nSanders flies coach, social media says he’s first class\n=======================================================\n]\nBy , CNN\n2 minute read\nUpdated 11:42 AM EST, Tue December 29, 2015\nLink Copied!\n!\nDemocratic presidential candidate Bernie Sanders speaks at the Jefferson Jackson Dinner on November 29, 2015, in Manchester, New Hampshire.\nDarren McCollester/Getty\n### Story highlights\n#SandersOnAPlane hashtag goes viral on Twitter and Facebook\nThe images began circulating among supporters during the summer\nCNN  — \nBernie Sanders’ supporters have launched a social media campaign highlighting their candidate’s frequent appearances on commercial airlines.\nWhile almost all of the presidential hopefuls have on occasion traveled alongside — or in between — passengers in coach, Sanders is the one most likely to pop up in your feed  before his boarding call.\nFor a look, simply dial up  on Twitter or Facebook and behold.\nAd Feedback\nThis image below, which has been floating around online for at least a month, comes with a call by user @destroyamber to “spread as many images as we can of \\ flying coach.”\nAnd spread they have – gaining altitude over the last few days. Here’s Bernie in the middle seat:\nThis popular pic has been made into an even more widely shared meme. “I’m voting for the guy,” it reads, text overlaying the image, “willing to sit in the middle seat.”\n> >  \n> > \n> > — Patti 🔥 (@pjaro62) \nThe @Sanders\\_Squad account even cooked up a little photo gallery, complete with an unwitting selfie and a shot of Sanders’ wife, Jane.\nHere’s another, Sanders again seemingly...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Bernie Sanders: 18 things the Democratic front-runner believes ...",
+                "htmlTitle": "<b>Bernie Sanders</b>: 18 things the Democratic front-runner believes ...",
+                "link": "https://www.bbc.com/news/magazine-35364868",
+                "displayLink": "www.bbc.com",
+                "snippet": "Feb 28, 2020 ... Bernie Sanders is the national frontrunner for the Democratic presidential nomination. The Vermont senator has promised a political ...",
+                "htmlSnippet": "Feb 28, 2020 <b>...</b> <b>Bernie Sanders is</b> the national frontrunner for the Democratic presidential nomination. The Vermont senator has promised a political&nbsp;...",
+                "formattedUrl": "https://www.bbc.com/news/magazine-35364868",
+                "htmlFormattedUrl": "https://www.bbc.com/news/magazine-35364868",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqDA3Tc_11rptL3AyH3cz5WHJcc4yF9hpVavaB70dNqgVWhr-f_ccG8PE&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/A361/production/_111052814_sanders6_976getty.jpg",
+                            "theme-color": "#FFFFFF",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "BBC News",
+                            "msapplication-tileimage": "https://static.files.bbci.co.uk/core/website/assets/static/icons/windows-phone/news/windows-phone-icon-270x270.23502b4459eb7a6ab2ab.png",
+                            "og:description": "The Democratic candidate has promised a political revolution. But what actually are his stances?",
+                            "twitter:creator": "@BBCWorld",
+                            "twitter:image:alt": "Bernie Sanders outside Congress in 2019",
+                            "twitter:site": "@BBCWorld",
+                            "fb:admins": "100004154058350",
+                            "msapplication-tilecolor": "#bb1919",
+                            "og:image:alt": "Bernie Sanders outside Congress in 2019",
+                            "og:type": "article",
+                            "article:section": "US & Canada",
+                            "twitter:title": "Bernie Sanders: 18 things the Democratic front-runner believes",
+                            "og:title": "Bernie Sanders: 18 things the Democratic front-runner believes",
+                            "article:author": "https://www.facebook.com/bbcnews",
+                            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/A361/production/_111052814_sanders6_976getty.jpg",
+                            "fb:app_id": "1609039196070050",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The Democratic candidate has promised a political revolution. But what actually are his stances?",
+                            "og:locale": "en_GB",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "https://www.bbc.com/news/magazine-35364868",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/A361/production/_111052814_sanders6_976getty.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Bernie Sanders is the national frontrunner for the Democratic presidential nomination. The Vermont senator has promised a political revolution, but what does that mean? What does he actually stand for?\n1. He's a democratic socialist - Sanders is a self-described \"democratic socialist\", but in his long political career he became comfortable with just \"socialist\" (\"I am a socialist and everyone knows it,\" he once said, reports the Washington Post, external.) In 2015, he framed his political ideology this way: \"Democratic socialism means that we must create an economy that works for all, not just the very wealthy.\" \n2. Climate change is real - Sanders proposes a $16.3tn (£12.5tn) \"Green New Deal\" that he says would create 20 million jobs and pay for itself over 15 years, including through $3tn of taxes on oil companies. He has generated controversy by supporting the idea of population control through widening access to abortion and contraception for women in poor countries and last year tweeted, external: \"Fossil fuel executives should be criminally prosecuted for the destruction they have knowingly caused.\"\n3. College should be free - \"Education must be an economic right for all, not a privilege for the few,\" Sanders wrote in an opinion piece last year,...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Ex-Clinton staffers slam Sanders over private jet flights - POLITICO",
+                "htmlTitle": "Ex-Clinton staffers slam <b>Sanders</b> over private jet <b>flights</b> - POLITICO",
+                "link": "https://www.politico.com/story/2019/02/25/bernie-sanders-hillary-clinton-private-jet-flights-1182793",
+                "displayLink": "www.politico.com",
+                "snippet": "Feb 25, 2019 ... In his campaign launch video last week, Bernie Sanders singled out the fossil fuel industry for criticism, listing it among the special ...",
+                "htmlSnippet": "Feb 25, 2019 <b>...</b> <b>In</b> his <b>campaign</b> launch video last week, <b>Bernie Sanders</b> singled out the fossil fuel industry for criticism, listing it among the special&nbsp;...",
+                "formattedUrl": "https://www.politico.com/.../bernie-sanders-hillary-clinton-private-jet-flight...",
+                "htmlFormattedUrl": "https://www.politico.com/.../<b>bernie</b>-<b>sanders</b>-hillary-clinton-private-jet-flight...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8duFaP_l0USDTptRv0Q59Q-h1r8Z2bI523wPz2PWBfJnyU2P6vsshv82L&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://static.politico.com/df/bf/81d891cd4359bbb1c58e7665712f/webp.net-resizeimage%20(12).jpg",
+                            "brightspot.cached": "false",
+                            "theme-color": "#D71920",
+                            "og:type": "article",
+                            "twitter:title": "Ex-Clinton staffers slam Sanders over private jet flights",
+                            "twitter:card": "summary_large_image",
+                            "og:fb_appid": "114037015331397",
+                            "og:site_name": "POLITICO",
+                            "og:title": "Ex-Clinton staffers slam Sanders over private jet flights",
+                            "msapplication-tileimage": "/mstile-144x144.png",
+                            "og:description": "The Vermont senator’s 2016 travel as a Clinton surrogate became “a running joke in the office.“",
+                            "fb:pages": "62317591679",
+                            "twitter:creator": "@politico",
+                            "article:author": "https://www.facebook.com/daniellippman",
+                            "twitter:image": "https://www.politico.com/dims4/default/31a91dd/2147483647/legacy_thumbnail/1200x799%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fdf%2Fbf%2F81d891cd4359bbb1c58e7665712f%2Fwebp.net-resizeimage%20%2812%29.jpg",
+                            "twitter:site": "@politico",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "build": "1.0.0-SNAPSHOT",
+                            "twitter:description": "The Vermont senator’s 2016 travel as a Clinton surrogate became “a running joke in the office.“",
+                            "brightspot.contentid": "00000169-22ed-d0be-adfb-77ff407d0002",
+                            "host": "www.politico.com",
+                            "og:url": "https://www.politico.com/story/2019/02/25/bernie-sanders-hillary-clinton-private-jet-flights-1182793"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.politico.com/df/bf/81d891cd4359bbb1c58e7665712f/webp.net-resizeimage%20(12).jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.politico.com/story/2019/02/25/bernie-sanders-hillary-clinton-private-jet-flights-1182793: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.politico.com/story/2019/02/25/bernie-sanders-hillary-clinton-private-jet-flights-1182793",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Bernie Sanders and Elizabeth Warren flying coach : r/pics",
+                "htmlTitle": "<b>Bernie Sanders</b> and Elizabeth Warren <b>flying coach</b> : r/pics",
+                "link": "https://www.reddit.com/r/pics/comments/cq9j51/bernie_sanders_and_elizabeth_warren_flying_coach/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Aug 14, 2019 ... 66K votes, 5.2K comments. 31M subscribers in the pics community. A place for photographs, pictures, and other images.",
+                "htmlSnippet": "Aug 14, 2019 <b>...</b> 66K votes, 5.2K comments. 31M subscribers <b>in</b> the pics community. A place for photographs, pictures, and other images.",
+                "formattedUrl": "https://www.reddit.com/.../bernie_sanders_and_elizabeth_warren_flying_co...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../<b>bernie</b>_<b>sanders</b>_and_elizabeth_warren_<b>fly</b>ing_<b>co</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFCIJom5Nd1F9hy1KFLEDRvs3mqsCOhWiSuEpfRKnKndhCk1gH89ihH1E&s",
+                            "width": "194",
+                            "height": "259"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://preview.redd.it/8oa1i0bxzeg31.jpg?auto=webp&s=faaaaacd57ce13f9d76bbf7d8239475598124726",
+                            "theme-color": "#000000",
+                            "og:image:width": "675",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/pics on Reddit: Bernie Sanders and Elizabeth Warren flying coach",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/pics on Reddit: Bernie Sanders and Elizabeth Warren flying coach",
+                            "og:image:height": "900",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/Tmfwang - 65,504 votes and 5,201 comments",
+                            "twitter:image": "https://preview.redd.it/8oa1i0bxzeg31.jpg?auto=webp&s=faaaaacd57ce13f9d76bbf7d8239475598124726",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/pics/comments/cq9j51/bernie_sanders_and_elizabeth_warren_flying_coach/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://preview.redd.it/8oa1i0bxzeg31.jpg?auto=webp&s=faaaaacd57ce13f9d76bbf7d8239475598124726"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Reddit - Dive into anything\n===============            \nOpen menu Open navigation  Go to Reddit Home\nr/pics A chip A close button\nGet app Get the Reddit app  Log in to Reddit\nExpand user menu Open settings menu\n*   *   *   \n### Get the Reddit app\nScan this QR code to download the app now\nOr check it out in the app stores\nA place for photographs, pictures, and other images.\n* * *\nMembers Online\n•\nADMIN MOD\nBernie Sanders and Elizabeth Warren flying coach\n================================================\n ! !\n!\nArchived post. New comments cannot be posted and votes cannot be cast.\nTop Posts\n---------\n* * *\n*   \n*   \n*   \n*   &nbsp;\n*   &nbsp;\n* * *\n*   TOPICS\n*   Internet Culture (Viral)\n*   *   *   *   *   *   *   *   *   \n*   Games\n*   *   *   *   *   *   *   *   *   *   *   *   \n*   Q&As\n*   *   \n*   Technology\n*   *   *   *   *   *   *   *   *   *   \n*   Pop Culture\n*   *   *   *   *   *   \n*   Movies & TV\n*   *   *   *   *   *   *   *   *   *   *   *   *   *   \n* * *\n*   RESOURCES\n*   *   *   *   *   *   \n* * *\n*   *   *   \n* * *\n*   *   *   ",
+                    "content_tokens": 336
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Bernie Sanders's Campaign, Hitting Fund-Raising Milestone ...",
+                "htmlTitle": "<b>Bernie Sanders&#39;s Campaign</b>, Hitting Fund-Raising Milestone ...",
+                "link": "https://www.nytimes.com/2015/10/02/us/politics/bernie-sanders-election-campaign.html",
+                "displayLink": "www.nytimes.com",
+                "snippet": "Oct 1, 2015 ... — Senator Bernie Sanders of Vermont still flies coach to his campaign events, sometimes taking the middle seat. He has not run any ...",
+                "htmlSnippet": "Oct 1, 2015 <b>...</b> — Senator <b>Bernie Sanders</b> of Vermont still <b>flies coach</b> to his <b>campaign</b> events, sometimes taking the middle seat. He has not run any&nbsp;...",
+                "formattedUrl": "https://www.nytimes.com/2015/10/.../bernie-sanders-election-campaign.htm...",
+                "htmlFormattedUrl": "https://www.nytimes.com/2015/10/.../<b>bernie</b>-<b>sanders</b>-election-campaign.htm...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrbd54m9H1IalqZ0gOryjTdfFy8toNMVZ9wq_mI5W_E27ZoBrWhs1vQGek&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static01.nyt.com/images/2015/10/02/us/02BERNIEweb1/02BERNIEweb1-facebookJumbo-v2.jpg?year=2015&h=550&w=1050&s=4b6e55a5b2d8eb4be9f46191887ab9cc30c7436a45ffbd2fb38aeb68ca96863a&k=ZQJBKqZ0VN",
+                            "nyt_uri": "nyt://article/c41c53b9-d323-5d90-ae8e-f2e19f6b6d66",
+                            "twitter:app:id:googleplay": "com.nytimes.android",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2015-10-01T15:58:49.000Z",
+                            "pt": "article",
+                            "twitter:url": "https://www.nytimes.com/2015/10/02/us/politics/bernie-sanders-election-campaign.html",
+                            "pdate": "20151001",
+                            "articleid": "100000003949314",
+                            "al:android:package": "com.nytimes.android",
+                            "al:ipad:app_store_id": "357066198",
+                            "twitter:app:name:googleplay": "NYTimes",
+                            "og:description": "The Vermont senator and his advisers, having raised about $26 million since July, are forming a battle plan beyond their immediate goals of winning Iowa and New Hampshire.",
+                            "twitter:image": "https://static01.nyt.com/images/2015/10/02/us/02BERNIEweb1/02BERNIEweb1-videoSixteenByNine3000.jpg?year=2015&h=1689&w=3000&s=b9f2d3e9286ece22992cb9d6df9be3184bc13998de6f911d2e0d67f362c87056&k=ZQJBKqZ0VN&tw=1",
+                            "pst": "News",
+                            "twitter:image:alt": "Andrea Cory and Alex Good, both interns for Senator Bernie Sanders's presidential campaign, at work on Wednesday at headquarters in Burlington, Vt.",
+                            "al:iphone:app_name": "NYTimes",
+                            "article:modified_time": "2015-10-01T15:58:47.000Z",
+                            "news_keywords": ",2016 Presidential Election,Bernard Sanders;Bernie Sanders,Campaign finance,Campaign advertising",
+                            "scg": "politics",
+                            "article:content_tier": "metered",
+                            "msapplication-starturl": "https://www.nytimes.com",
+                            "image": "https://static01.nyt.com/images/2015/10/02/us/02BERNIEweb1/02BERNIEweb1-facebookJumbo-v2.jpg?year=2015&h=550&w=1050&s=4b6e55a5b2d8eb4be9f46191887ab9cc30c7436a45ffbd2fb38aeb68ca96863a&k=ZQJBKqZ0VN",
+                            "og:type": "article",
+                            "og:image:alt": "Andrea Cory and Alex Good, both interns for Senator Bernie Sanders's presidential campaign, at work on Wednesday at headquarters in Burlington, Vt.",
+                            "twitter:title": "Bernie Sanders’s Campaign, Hitting Fund-Raising Milestone, Broadens Focus (Published 2015)",
+                            "article:section": "U.S.",
+                            "cg": "us",
+                            "pubp_event_id": "pubp://event/9dde3d084c684601b26fc1f4bf676853",
+                            "og:title": "Bernie Sanders’s Campaign, Hitting Fund-Raising Milestone, Broadens Focus (Published 2015)",
+                            "cn": "election-2016",
+                            "article:author": "http://www.nytimes.com/by/patrick-healy",
+                            "url": "https://www.nytimes.com/2015/10/02/us/politics/bernie-sanders-election-campaign.html",
+                            "article:tag": "Healy, Patrick",
+                            "al:iphone:url": "nytimes://www.nytimes.com/2015/10/02/us/politics/bernie-sanders-election-campaign.html",
+                            "al:android:url": "nyt://article/c41c53b9-d323-5d90-ae8e-f2e19f6b6d66",
+                            "ct": "news-event",
+                            "twitter:app:url:googleplay": "nyt://article/c41c53b9-d323-5d90-ae8e-f2e19f6b6d66",
+                            "al:ipad:url": "nytimes://www.nytimes.com/2015/10/02/us/politics/bernie-sanders-election-campaign.html",
+                            "byl": "By Patrick Healy",
+                            "twitter:description": "The Vermont senator and his advisers, having raised about $26 million since July, are forming a battle plan beyond their immediate goals of winning Iowa and New Hampshire.",
+                            "al:iphone:app_store_id": "284862083",
+                            "al:ipad:app_name": "NYTimes",
+                            "og:url": "https://www.nytimes.com/2015/10/02/us/politics/bernie-sanders-election-campaign.html",
+                            "al:android:app_name": "NYTimes",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static01.nyt.com/images/2015/10/02/us/02BERNIEweb1/02BERNIEweb1-facebookJumbo-v2.jpg?year=2015&h=550&w=1050&s=4b6e55a5b2d8eb4be9f46191887ab9cc30c7436a45ffbd2fb38aeb68ca96863a&k=ZQJBKqZ0VN"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Advertisement\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n!\nAndrea Cory and Alex Good, both interns for Senator Bernie Sanders's presidential campaign, at work on Wednesday at headquarters in Burlington, Vt.Credit...Ian Thomas Jansen-Lonnquist for The New York Times\n*   Oct. 1, 2015\nBURLINGTON, Vt. — Senator  of Vermont still flies coach to his campaign events, sometimes taking the middle seat. He has not run any commercials, instead saving his money for a news media blitz this winter in Iowa, New Hampshire and the Super Tuesday states. His aides are only now preparing to conduct polls, to the consternation of some Sanders advisers who have hungered for data on his political challenges, like courting black and Hispanic voters.\nAnd rather than benefit from million-dollar contributions through a “,” Mr. Sanders — who has called such fund-raising groups corrupt — has amassed  over the past five months, faster than  in his first, , campaign for president.\nMr. Sanders reached a turning point on Wednesday night, when his campaign said that it had raised about $26 million since July — more than Mr. Obama took in for the comparable period in 2007 — and that it had saved enough since the spring to have about $26.5 million in cash.\nMr. Sanders was initially dismissed by political insiders as a fringe candidate running only to push Hillary Rodham Clinton to the left. But he has now demonstrated that he has the resources and the supporters, whom he has only begun to tap financially, to compete for the Democratic presidential nomination.\nImage\nTop advisers quizzed lieuten...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Bernie Sanders May Be Taking More Rides on Private Planes - ABC ...",
+                "htmlTitle": "<b>Bernie Sanders</b> May Be Taking More Rides on Private Planes - ABC ...",
+                "link": "https://abcnews.go.com/Politics/bernie-sanders-taking-rides-private-planes/story?id=36033253",
+                "displayLink": "abcnews.go.com",
+                "snippet": "This holiday, Sanders changed his routine and almost exclusively flew private. ByABC News. December 31, 2015, 5:24 PM. Bernie Sanders speaks during a ...",
+                "htmlSnippet": "This holiday, Sanders changed his routine and almost exclusively <b>flew</b> private. ByABC News. December 31, 2015, 5:24 PM. <b>Bernie Sanders</b> speaks <b>during</b> a&nbsp;...",
+                "formattedUrl": "https://abcnews.go.com/Politics/bernie-sanders-taking-rides.../story?id...",
+                "htmlFormattedUrl": "https://abcnews.go.com/Politics/<b>bernie</b>-<b>sanders</b>-taking-rides.../story?id...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uGff_r1BpbWTsI1senoFjlwIaY6UuC7H92RkfhZAC6Eb7LH3WFeEsilc&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://s.abcnews.com/images/Politics/AP_bernie_sanders_ml_151222_16x9_992.jpg?w=1600",
+                            "twitter:app:url:iphone": "abcnewsiphone://link/prism-story,36033253",
+                            "twitter:app:id:googleplay": "com.abc.abcnews",
+                            "copyright": "2024 ABC News",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "ABC News",
+                            "twitter:url": "https://abcnews.go.com/Politics/bernie-sanders-taking-rides-private-planes/story?id=36033253",
+                            "twitter:app:url:ipad": "abcnewsipad://link/prism-story,36033253",
+                            "twitter:image:height": "360",
+                            "al:ipad:app_store_id": "380520716",
+                            "twitter:app:name:googleplay": "ABC News",
+                            "twitter:app:id:iphone": "300255638",
+                            "og:description": "This holiday, Sanders changed his routine and almost exclusively flew private.",
+                            "twitter:creator": "ABC News",
+                            "twitter:image": "https://s.abcnews.com/images/Politics/AP_bernie_sanders_ml_151222_16x9_992.jpg?w=1600",
+                            "lastpublisheddate": "2016-01-01T02:14:33Z",
+                            "al:iphone:app_name": "ABC News - Breaking US & World News",
+                            "twitter:site": "@ABC",
+                            "twitter:image:width": "640",
+                            "fb:admins": "704409894",
+                            "article:content_tier": "free",
+                            "fb_title": "Bernie Sanders May Be Taking More Rides on Private Planes",
+                            "og:type": "article",
+                            "twitter:title": "Bernie Sanders May Be Taking More Rides on Private Planes",
+                            "author": "ABC News",
+                            "og:title": "Bernie Sanders May Be Taking More Rides on Private Planes",
+                            "twitter:app:id:ipad": "306934135",
+                            "fb:pages": "86680728811",
+                            "al:iphone:url": "abcnewsiphone://link/prism-story,36033253",
+                            "fb:app_id": "4942312939",
+                            "twitter:app:url:googleplay": "https://abcnews.go.com/Politics/bernie-sanders-taking-rides-private-planes/story?id=36033253",
+                            "al:ipad:url": "abcnewsipad://link/prism-story,36033253",
+                            "twitter:app:name:ipad": "ABC News",
+                            "viewport": "initial-scale=1.0, user-scalable=yes",
+                            "twitter:description": "This holiday, Sanders changed his routine and almost exclusively flew private.",
+                            "al:iphone:app_store_id": "300255638",
+                            "og:locale": "en_US",
+                            "og:url": "https://abcnews.go.com/Politics/bernie-sanders-taking-rides-private-planes/story?id=36033253",
+                            "twitter:app:name:iphone": "ABC News",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://s.abcnews.com/images/Politics/AP_bernie_sanders_ml_151222_16x9_992.jpg?w=1600"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "This holiday, Sanders changed his routine and almost exclusively flew private.\nByABC News\nDecember 31, 2015, 8:24 PM\n!\nBernie Sanders speaks during a Democratic presidential primary debate, Dec. 19, 2015, at Saint Anselm College in Manchester, N.H.\nJim Cole/AP Photo\n&#151; --  has entered a new stage of his campaign. The Vermont senator, who is running for president on a populist message and often speaks passionately about environmental issues, was for months regularly seen flying in coach class on commercial flights.\nThere is even a community of photos on Twitter, under the hashtag #SandersOnAPlane, where fans have posted photos after seeing him fly. There will likely be fewer photos of a luggage-wielding Sanders moving forward.\nThis holiday season, Sanders changed his routine and flew almost exclusively on private chartered planes with members of his traveling staff -- taking at least four trips.\nMost recently, the campaign confirmed, a Gulfstream 200, took the Senator and some staff from Burlington, Vermont two days after Christmas and then from Las Vegas, Nevada to Moline, Illinois for campaign events in eastern Iowa this week.\nDays before the holiday, a private jet whisked the team from Omaha, Nebraska to , Illinois in order to fit more campaign...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Why has Bernie Sanders chartered a private Gulfstream jet? - Quora",
+                "htmlTitle": "Why has <b>Bernie Sanders</b> chartered a private Gulfstream jet? - Quora",
+                "link": "https://www.quora.com/Why-has-Bernie-Sanders-chartered-a-private-Gulfstream-jet",
+                "displayLink": "www.quora.com",
+                "snippet": "Jan 28, 2016 ... \"This holiday season, Sanders changed his routine and flew almost exclusively on private chartered planes with members of his traveling ...",
+                "htmlSnippet": "Jan 28, 2016 <b>...</b> &quot;This holiday season, <b>Sanders</b> changed his routine and <b>flew</b> almost exclusively on private chartered planes with members of his traveling&nbsp;...",
+                "formattedUrl": "https://www.quora.com/Why-has-Bernie-Sanders-chartered-a-private-Gulfst...",
+                "htmlFormattedUrl": "https://www.quora.com/Why-has-<b>Bernie</b>-<b>Sanders</b>-chartered-a-private-Gulfst...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "al:android:url": "intent://www.quora.com/Why-has-Bernie-Sanders-chartered-a-private-Gulfstream-jet#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FWhy-has-Bernie-Sanders-chartered-a-private-Gulfstream-jet&logging_data=uid%3DNone;end",
+                            "theme-color": "#b92b27",
+                            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+                            "al:android:package": "com.quora.android",
+                            "fb:pages": "255232486973",
+                            "twitter:widgets:theme": "light"
+                        }
+                    ],
+                    "QAPage": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "Why has Bernie Sanders chartered a private Gulfstream jet? - Quora\n===============\nSomething went wrong. Wait a moment and try again.\nTry again\nSkip to content\nSkip to search\nSign In\nWhy has Bernie Sanders chartered a private Gulfstream jet?",
+                    "content_tokens": 54
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "So What If Bernie Sanders Flies First Class? - Live and Let's Fly",
+                "htmlTitle": "So What If <b>Bernie Sanders Flies</b> First Class? - Live and Let&#39;s <b>Fly</b>",
+                "link": "https://liveandletsfly.com/so-what-if-bernie-sanders-flies-first-class/",
+                "displayLink": "liveandletsfly.com",
+                "snippet": "Feb 16, 2020 ... Last week, Vermont Senator Bernie Sanders and 2020 Democratic presidential candidate was captured on another's passenger's phone sitting in a ...",
+                "htmlSnippet": "Feb 16, 2020 <b>...</b> Last week, Vermont Senator <b>Bernie Sanders</b> and 2020 Democratic presidential candidate was captured on another&#39;s passenger&#39;s phone sitting <b>in</b> a&nbsp;...",
+                "formattedUrl": "https://liveandletsfly.com/so-what-if-bernie-sanders-flies-first-class/",
+                "htmlFormattedUrl": "https://liveandlets<b>fly</b>.com/so-what-if-<b>bernie</b>-<b>sanders</b>-flies-first-class/",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "fn": "WHS",
+                            "nickname": "WHS",
+                            "photo": "https://secure.gravatar.com/avatar/0dfa384d44527ff8810bf1dee0f99238?s=60&d=mm&r=g"
+                        },
+                        {
+                            "fn": "Aaron",
+                            "nickname": "Aaron",
+                            "photo": "https://secure.gravatar.com/avatar/140d3df119048906a59126ef91e32542?s=60&d=mm&r=g"
+                        },
+                        {
+                            "url_text": "Ben",
+                            "fn": "Ben",
+                            "nickname": "Ben",
+                            "photo": "https://secure.gravatar.com/avatar/32afb2c6ea4791932032ef2480cd7bcc?s=60&d=mm&r=g",
+                            "url": "https://medium.com/@bencallif"
+                        },
+                        {
+                            "fn": "Paul",
+                            "nickname": "Paul",
+                            "photo": "https://secure.gravatar.com/avatar/120dd038a94a0cbbc443d7a0ff87c145?s=60&d=mm&r=g"
+                        },
+                        {
+                            "fn": "Tony",
+                            "nickname": "Tony",
+                            "photo": "https://secure.gravatar.com/avatar/83d21cb3ca00a32ddd017a7d9418e51c?s=60&d=mm&r=g"
+                        },
+                        {
+                            "fn": "Joe Smith",
+                            "photo": "https://secure.gravatar.com/avatar/86390b70d209b0d51b54309a46ed62b1?s=60&d=mm&r=g"
+                        },
+                        {
+                            "fn": "Doug",
+                            "nickname": "Doug",
+                            "photo": "https://secure.gravatar.com/avatar/2c3e4d52983d3c078677f4efb43759bc?s=60&d=mm&r=g"
+                        },
+                        {
+                            "fn": "Aaron",
+                            "nickname": "Aaron",
+                            "photo": "https://secure.gravatar.com/avatar/140d3df119048906a59126ef91e32542?s=60&d=mm&r=g"
+                        },
+                        {
+                            "fn": "Doug",
+                            "nickname": "Doug",
+                            "photo": "https://secure.gravatar.com/avatar/2c3e4d52983d3c078677f4efb43759bc?s=60&d=mm&r=g"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpyEKB4NWu2njynWlQkQfUPZYNiRiB_tCA0sQ9PgL8hyxCpJ5LptvQeX7&s",
+                            "width": "362",
+                            "height": "139"
+                        }
+                    ],
+                    "website": [
+                        {
+                            "name": "Live and Let's Fly",
+                            "url": "https://liveandletsfly.com/"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "WHS"
+                        },
+                        {
+                            "name": "Aaron"
+                        },
+                        {
+                            "name": "Ben"
+                        },
+                        {
+                            "name": "Paul"
+                        },
+                        {
+                            "name": "Tony"
+                        },
+                        {
+                            "name": "Joe Smith"
+                        },
+                        {
+                            "name": "Doug"
+                        },
+                        {
+                            "name": "Aaron"
+                        },
+                        {
+                            "name": "Doug"
+                        },
+                        {
+                            "name": "Susanne"
+                        },
+                        {
+                            "name": "Aaron"
+                        },
+                        {
+                            "name": "Doug"
+                        },
+                        {
+                            "name": "debit"
+                        },
+                        {
+                            "name": "Aaron"
+                        },
+                        {
+                            "name": "Joe Smith"
+                        },
+                        {
+                            "name": "DavidB"
+                        },
+                        {
+                            "name": "Joe Smith"
+                        },
+                        {
+                            "name": "Mak"
+                        },
+                        {
+                            "name": "Aaron"
+                        },
+                        {
+                            "name": "Mak"
+                        },
+                        {
+                            "name": "Aaron"
+                        },
+                        {
+                            "name": "Mak"
+                        },
+                        {
+                            "name": "Aaron"
+                        },
+                        {
+                            "name": "Geoff"
+                        },
+                        {
+                            "name": "Tony"
+                        },
+                        {
+                            "name": "Mak"
+                        },
+                        {
+                            "name": "Aaron Huynh"
+                        },
+                        {
+                            "name": "Aaron"
+                        },
+                        {
+                            "name": "Joey"
+                        },
+                        {
+                            "name": "debit"
+                        },
+                        {
+                            "name": "Kyle Stewart"
+                        },
+                        {
+                            "name": "debit"
+                        },
+                        {
+                            "name": "WR2"
+                        },
+                        {
+                            "name": "Kyle Stewart"
+                        },
+                        {
+                            "name": "debit"
+                        },
+                        {
+                            "name": "Joe Smith"
+                        },
+                        {
+                            "name": "derek"
+                        },
+                        {
+                            "name": "Doug"
+                        },
+                        {
+                            "name": "wes"
+                        },
+                        {
+                            "name": "Aaron"
+                        },
+                        {
+                            "name": "Aaron"
+                        },
+                        {
+                            "name": "debit"
+                        },
+                        {
+                            "name": "Dublin"
+                        },
+                        {
+                            "name": "Credit"
+                        },
+                        {
+                            "name": "Joe Smith"
+                        },
+                        {
+                            "name": "Aaron"
+                        },
+                        {
+                            "name": "debit"
+                        },
+                        {
+                            "name": "Joe Smith"
+                        },
+                        {
+                            "name": "K Johnson"
+                        },
+                        {
+                            "name": "Aaron"
+                        },
+                        {
+                            "name": "Doug"
+                        },
+                        {
+                            "name": "Doug"
+                        },
+                        {
+                            "name": "Bob"
+                        },
+                        {
+                            "name": "Doug"
+                        },
+                        {
+                            "name": "Arthur"
+                        },
+                        {
+                            "name": "Kyle Stewart"
+                        },
+                        {
+                            "name": "Peter Crew"
+                        },
+                        {
+                            "name": "Pete"
+                        },
+                        {
+                            "name": "MeanMeosh"
+                        },
+                        {
+                            "name": "Mak"
+                        },
+                        {
+                            "name": "Aaron"
+                        },
+                        {
+                            "name": "Kyle Stewart"
+                        },
+                        {
+                            "name": "Mak"
+                        },
+                        {
+                            "name": "Paolo"
+                        },
+                        {
+                            "name": "Paolo"
+                        },
+                        {
+                            "name": "Ron"
+                        },
+                        {
+                            "name": "Rjb"
+                        },
+                        {
+                            "name": "UA-NYC"
+                        },
+                        {
+                            "name": "Hkgf"
+                        },
+                        {
+                            "name": "Arthur"
+                        },
+                        {
+                            "name": "derek"
+                        },
+                        {
+                            "name": "M. Blue"
+                        }
+                    ],
+                    "usercomments": [
+                        {
+                            "commenttime": "2020-02-16T10:50:05-05:00",
+                            "commenttext": "Bernie is actually the largest spender on corporate jets of any presidential candidate. Just in the last quarter he spent $1.2M. Hypocrite central."
+                        },
+                        {
+                            "commenttime": "2020-02-16T11:31:33-05:00",
+                            "commenttext": "Proof?"
+                        },
+                        {
+                            "commenttime": "2020-02-16T21:42:00-05:00",
+                            "commenttext": "Here ya go. https://thehill.com/homenews/campaign/481691-2020-democrats-ramped-up-private-flight-spending-in-final-months-of-2019 https://specials-images.forbesimg.com/imageserve/5e47f5dda854780006..."
+                        },
+                        {
+                            "commenttime": "2020-02-17T04:10:25-05:00",
+                            "commenttext": "The NYTimes also did an article about this and gave the $1.2M value."
+                        },
+                        {
+                            "commenttime": "2020-02-16T11:52:23-05:00",
+                            "commenttext": "and he paid carbon offsets for all his flights, The only reason Trump doesn’t spend $$ on private jets is because he has air force one genius."
+                        },
+                        {
+                            "commenttime": "2020-02-16T14:02:03-05:00",
+                            "commenttext": "Ha. “Carbon offsets”…gotta love virtue signaling."
+                        },
+                        {
+                            "commenttime": "2020-02-16T10:51:50-05:00",
+                            "commenttext": "I’m not remotely concerned that he flies first class. I am concerned that he is a communist whose plans would radically transform our country for the worse."
+                        },
+                        {
+                            "commenttime": "2020-02-16T11:32:04-05:00",
+                            "commenttext": "How is he a communist?"
+                        },
+                        {
+                            "commenttime": "2020-02-16T12:01:19-05:00",
+                            "commenttext": "Class warfare, wage/rent/price controls and government takeover of vast sectors of the economy (healthcare, energy, etc) are textbook Marx. They always end with death and poverty."
+                        },
+                        {
+                            "commenttime": "2020-02-16T12:13:02-05:00",
+                            "commenttext": "With his schedule of appearances and criss-crossing the country, it seems like getting a little downtime and perhaps even catching a nap would be easier in first class than basic economy. Good..."
+                        },
+                        {
+                            "commenttime": "2020-02-16T12:42:36-05:00",
+                            "commenttext": "That isn’t quite what he is doing, but if you’re going to keep repeating talking points, try to go for something more accurate. Granted, considering how much of a bust capitalism has been..."
+                        },
+                        {
+                            "commenttime": "2020-02-16T12:45:27-05:00",
+                            "commenttext": "Capitalism lifted half of the world out of poverty in the 20th century while communism killed almost 100 million people. In most instances where capitalism isn’t working it has more to do..."
+                        },
+                        {
+                            "commenttime": "2020-02-16T14:27:29-05:00",
+                            "commenttext": "Liberals haven’t meditated on half this country was willing to vote for my trump even given his personality. Republicans are not willing to meditate on why a more than half the country is..."
+                        },
+                        {
+                            "commenttime": "2020-02-17T01:49:26-05:00",
+                            "commenttext": "@Doug Great! Except he isn’t a communist, and while capitalism has worked well at establishing middle classes world wide, it seems to be doing the opposite now."
+                        },
+                        {
+                            "commenttime": "2020-02-17T22:21:34-05:00",
+                            "commenttext": "@Aaron Do you know how many have been lifted out of poverty worldwide due to capitalism? The figure is staggeringly high. Hundreds of millions. In the US, we can blame big government for crushing..."
+                        },
+                        {
+                            "commenttime": "2020-02-16T21:02:36-05:00",
+                            "commenttext": "Democratic Socialism is not Communism. Sweden, Norway, Denmark and most European countries are nominally DS countries and do much better for the majority of their citizens than does the US...."
+                        },
+                        {
+                            "commenttime": "2020-02-17T22:25:47-05:00",
+                            "commenttext": "@David…. False. Denmark is not a socialist country. Neither is Sweden. These are lies the left loves to tell to convince us of the benefits of big government managed economies. Even if those..."
+                        },
+                        {
+                            "commenttime": "2020-02-16T10:52:19-05:00",
+                            "commenttext": "So what? Bernie flying first class (and private) is just another data point in assessing his massive personal hypocrisy. He demands that society be levelled and is prepared to use the force..."
+                        },
+                        {
+                            "commenttime": "2020-02-16T11:37:32-05:00",
+                            "commenttext": "His point isn’t that millionaires shouldn’t exist, just that they should contribute a much larger share to the financial well-being of society by paying more in takes. Given how inequality..."
+                        },
+                        {
+                            "commenttime": "2020-02-16T12:35:11-05:00",
+                            "commenttext": "No, Bernie has made the decision that once one reaches a certain point in income, the US government should confiscate all (or materially all) of their income above that amount — a 100% tax..."
+                        },
+                        {
+                            "commenttime": "2020-02-16T12:45:28-05:00",
+                            "commenttext": "Um, he’d probably be the first to tax himself, and pay his taxes. Also, we all know you don’t need to be a millionaire to fly first class…and if you were someone who regularly visited..."
+                        },
+                        {
+                            "commenttime": "2020-02-16T12:56:29-05:00",
+                            "commenttext": "He’d probably be the first to tax himself? Sure, just like Stalin, Fidel Castro, his buddy Daniel Ortega, Nicolás Maduro, Cristina Fernández de Kirchner, José Eduardo dos Santos, etc.,..."
+                        },
+                        {
+                            "commenttime": "2020-02-17T01:50:44-05:00",
+                            "commenttext": "Yeah, no, Bernie isn’t quite in the same league as those people you mentioned. Why, that would be like saying Trump is on his way to becoming a fascist!"
+                        },
+                        {
+                            "commenttime": "2020-02-16T10:52:44-05:00",
+                            "commenttext": "Oh boy. Incoming. I could care less where this clown sits. However, it’s about optics. He said a self-avowed socialist. Sitting up front is poor form given his pathetic, self-righteous rantings...."
+                        },
+                        {
+                            "commenttime": "2020-02-16T11:52:59-05:00",
+                            "commenttext": "*democratic socialist. there’s a difference. i know its such a horrible thing to want people not to live in poverty and have free healthcare. what a monster he is."
+                        },
+                        {
+                            "commenttime": "2020-02-16T12:38:27-05:00",
+                            "commenttext": "A “democratic socialist” who saw fit to honeymoon in the USSR — ignoring massive human rights abuses and gulags full of dissidents — to come back to the USA and preach about the miracles..."
+                        },
+                        {
+                            "commenttime": "2020-02-16T14:28:14-05:00",
+                            "commenttext": "Don’t forget the miracles of the DPRK, Venezuela, and China to name a few!"
+                        },
+                        {
+                            "commenttime": "2020-02-17T01:52:12-05:00",
+                            "commenttext": "Is he still preaching about the miracles of communism? Also, many capitalist countries are also full of massive human rights abuses as well. One could say it isn’t the system, but how the..."
+                        },
+                        {
+                            "commenttime": "2020-02-16T10:52:48-05:00",
+                            "commenttext": "And didn’t he win the NH primary just the day before?!? Lol give him a break! I know a lot of his supporters who normally don’t fly coach but if they won a big competition or something,..."
+                        },
+                        {
+                            "commenttime": "2020-02-16T10:56:19-05:00",
+                            "commenttext": "I will vote for Bernie only if he promises to shoot a few republicans on live TV at his inauguration. America is a banana republic. We need a leader that acts like it."
+                        },
+                        {
+                            "commenttime": "2020-02-16T10:58:15-05:00",
+                            "commenttext": "Some would argue the current president already acts as if it is a banana republic."
+                        },
+                        {
+                            "commenttime": "2020-02-16T11:03:02-05:00",
+                            "commenttext": "Yes. That’s why we need to uphold the tradition. But Not the current president. It has always been WYSWYG with him. The current Congress. That doesnt uphold is duty of oversight. If one thing..."
+                        },
+                        {
+                            "commenttime": "2020-02-16T13:28:29-05:00",
+                            "commenttext": "Why are you responding to this troll, especially when he is calling for violence against people who disagree with him? The banana republic aspects of the USA have nothing to do with the POTUS,..."
+                        },
+                        {
+                            "commenttime": "2020-02-16T13:55:15-05:00",
+                            "commenttext": "lol, he has called the current president the same things he is now calling for, I found some irony in that. Simply calling attention to that. No writers of this blog has called for the death..."
+                        },
+                        {
+                            "commenttime": "2020-02-16T14:12:58-05:00",
+                            "commenttext": "Why are you responding to a known mass murderer. He wants to take away health care from people and them die. Just because he hides his crimes behind an economic theory doesn’t make him any..."
+                        },
+                        {
+                            "commenttime": "2020-02-17T22:28:35-05:00",
+                            "commenttext": "The US was established to be a small and decentralized government, not a big and oppressive socialist country. Go start your own country and don’t ruin ours if you want socialism. Now."
+                        },
+                        {
+                            "commenttime": "2020-02-16T11:09:16-05:00",
+                            "commenttext": "The story sounds fun and ironic but the true story remains unknown. If he bought the seat, fine. If he used points/miles, shame on him. He is rich and should have been taxed more. If he got..."
+                        },
+                        {
+                            "commenttime": "2020-02-16T11:20:05-05:00",
+                            "commenttext": "I’m curious, are comments such as those by Debit advocating murder normally allowed on this website?"
+                        },
+                        {
+                            "commenttime": "2020-02-16T11:22:57-05:00",
+                            "commenttext": "@Doug, Apparently yes, but only when directed at the “correct” political party."
+                        },
+                        {
+                            "commenttime": "2020-02-16T14:24:12-05:00",
+                            "commenttext": "@Doug @wes , Sadly the same goes for “free speech”, “tolerance”, and much more. It seems that these days, only certain ideas are allowed to be discussed, words and criticisms are banned(unl..."
+                        },
+                        {
+                            "commenttime": "2020-02-17T01:53:58-05:00",
+                            "commenttext": "Other Aaron, that simply isn’t true."
+                        },
+                        {
+                            "commenttime": "2020-02-16T11:41:15-05:00",
+                            "commenttext": "Trump said he could shoot someone on 5th avenue. Can you share your outrage when he said that? Talk about hypocrisy. So easy to hate you republicans."
+                        },
+                        {
+                            "commenttime": "2020-02-16T12:03:54-05:00",
+                            "commenttext": "Really. Why are you here. Your such a d-bag without an original thought. “Shoot republicans”. How articulate and well thought out. All of your inane comments scream “look at me look at..."
+                        },
+                        {
+                            "commenttime": "2020-02-16T17:33:24-05:00",
+                            "commenttext": "Free speech is free speech… If you can talk about having people from a certain group shot to death on live television, I am sure Trump is free to talk about people being shot on 5th Ave."
+                        },
+                        {
+                            "commenttime": "2020-02-17T22:32:02-05:00",
+                            "commenttext": "@debit Apparently you have no sense of humor. Shocking."
+                        },
+                        {
+                            "commenttime": "2020-02-16T11:41:27-05:00",
+                            "commenttext": "Well, if POTUS can make comments about being able to shoot anyone in the middle of NYC and get away with it, is what Debit said really that much worse?"
+                        },
+                        {
+                            "commenttime": "2020-02-16T11:53:17-05:00",
+                            "commenttext": "I think Doug is evaluating whether as a republican he can vote for debit as potus. I just need to commit larceny, rape, cheat on spouses, and become a fake christian, try to kill poor people..."
+                        },
+                        {
+                            "commenttime": "2020-02-19T19:52:19-05:00",
+                            "commenttext": "@debit Calling you delusional and a fool is too generous."
+                        },
+                        {
+                            "commenttime": "2020-02-16T11:33:59-05:00",
+                            "commenttext": "I doubt this is a one-off. I moved my seat from the bulkhead to a row further back (both in F) when checking in to a flight some time ago. When it was time to board, the first folks on board..."
+                        },
+                        {
+                            "commenttime": "2020-02-16T11:39:23-05:00",
+                            "commenttext": "Proof he was on your flight?"
+                        },
+                        {
+                            "commenttime": "2020-02-16T12:01:39-05:00",
+                            "commenttext": "Actually, I’m an atheist. Just an FYI."
+                        },
+                        {
+                            "commenttime": "2020-02-16T12:02:39-05:00",
+                            "commenttext": "Actually, I’m an atheist. Just an FYI."
+                        },
+                        {
+                            "commenttime": "2020-02-16T14:25:58-05:00",
+                            "commenttext": "Debit was banned from OMAAT for being a tool. Might be time to do that here."
+                        },
+                        {
+                            "commenttime": "2020-02-16T16:12:58-05:00",
+                            "commenttext": "Quite understandable, if his comments here are typical."
+                        },
+                        {
+                            "commenttime": "2020-02-16T11:36:57-05:00",
+                            "commenttext": "Don’t all the airlines give top tier status (e.g., GS on UA) to lots of politician? That bribery should be a scandal, but apparently it is okay."
+                        },
+                        {
+                            "commenttime": "2020-02-16T11:38:50-05:00",
+                            "commenttext": "Georgia brought this to light a few of years ago. http://bitly.com/2HrLAES"
+                        },
+                        {
+                            "commenttime": "2020-02-16T12:38:07-05:00",
+                            "commenttext": "He can fly whatever he wants,,,wherever he wants to go,,I could care less,,,,,as long as common sense stops him from being elected!!!"
+                        },
+                        {
+                            "commenttime": "2020-02-16T12:58:20-05:00",
+                            "commenttext": "No judgment on his policies… But if he uses his “photo-ops” in economy to his benefit then he needs to be ready when those same “photo-ops” in first class brings criticisms, rightly..."
+                        },
+                        {
+                            "commenttime": "2020-02-16T14:38:22-05:00",
+                            "commenttext": "While I encounter plenty of examples of Democrat/liberal hypocrisy during my daily life, I’m reserving judgment on Bernie without more facts. (While I disagree with his politics, I give him..."
+                        },
+                        {
+                            "commenttime": "2020-02-17T00:21:38-05:00",
+                            "commenttext": "“I give him credit as one of the few consistently principled pols of any stripe.” Did he get so rich by being consistently principled? How did he amass 3 homes and a personal fortune on..."
+                        },
+                        {
+                            "commenttime": "2020-02-17T01:55:52-05:00",
+                            "commenttext": "Do you have any inside information about how exactly he amassed his fortune, or do you just regurgitate FAUX News talking points memos?"
+                        },
+                        {
+                            "commenttime": "2020-02-17T13:35:37-05:00",
+                            "commenttext": "He was clear in the past that he wrote a book and it did well. https://cnn.it/2HyIajM and for those who would prefer Forbes: http://bitly.com/2UZRq8M"
+                        },
+                        {
+                            "commenttime": "2020-02-18T21:10:08-05:00",
+                            "commenttext": "Bernie Sanders made his fortune by allowing his wife and family to pocket commissions from his massive advertising spend. The firm placing these ads gets a 10% commission, and his political..."
+                        },
+                        {
+                            "commenttime": "2020-02-16T17:18:25-05:00",
+                            "commenttext": "What a sad state of affairs when their is some outrage about this matter: an elderly politician, probably exhausted, certainly not in the best of health, chooses to fly in what is laughably..."
+                        },
+                        {
+                            "commenttime": "2020-02-16T17:21:33-05:00",
+                            "commenttext": "*there* is some outrage.."
+                        },
+                        {
+                            "commenttime": "2020-02-16T19:33:30-05:00",
+                            "commenttext": "Fine that he flies First Class be he shouldn’t have been on AA."
+                        },
+                        {
+                            "commenttime": "2020-02-16T19:52:34-05:00",
+                            "commenttext": "Doug is spot on. Debit is off his meds. Bernie is a hypocrite but you all already knew that . Over and out!"
+                        },
+                        {
+                            "commenttime": "2020-02-16T22:25:43-05:00",
+                            "commenttext": "Stupid MAGA trolls. The E75 is just about the easiest upgrade on any carrier. Probably Vermont to DCA or something on AA. Probably $150 one way. SMH."
+                        },
+                        {
+                            "commenttime": "2020-02-17T01:48:37-05:00",
+                            "commenttext": "So what? He is not a communist. He believes everybody should be able to male money and enjoy. He only believes that billionares that make enough money to live 10000 lives and earn per minute..."
+                        },
+                        {
+                            "commenttime": "2020-02-17T16:04:40-05:00",
+                            "commenttext": "I wonder if AA gave him Exec Plat or ConciergeKey as a “free gift”."
+                        },
+                        {
+                            "commenttime": "2020-02-17T14:15:59-05:00",
+                            "commenttext": "Mike Bloomberg is paying for himself. With Bernie, he expects donors to pay for him. Bernie is not using any of his own money. I realize that Bernie cannot afford to run a campaign solely with..."
+                        },
+                        {
+                            "commenttime": "2020-03-01T17:56:38-05:00",
+                            "commenttext": "Why? His manure doesn’t permeate odorous aromas? Is he so special? He should be on a mule the ass he is."
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://liveandletsfly.com/wp-content/uploads/2017/04/Air-Force-One-Cost.jpg",
+                            "og:type": "article",
+                            "article:published_time": "2020-02-16T15:39:54+00:00",
+                            "og:image:width": "1900",
+                            "og:site_name": "Live and Let's Fly",
+                            "author": "Kyle Stewart",
+                            "og:title": "So What If Bernie Sanders Flies First Class? - Live and Let's Fly",
+                            "og:image:height": "731",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://liveandletsfly.com/wp-content/uploads/2019/09/cropped-Live-and-Lets-Fly-Favicon-270x270.jpg",
+                            "og:description": "Bernie Sanders was \"caught\" this week flying first class. So what if Bernie Sanders flies first class? Is it really a complete rescission of his moral imperatives?",
+                            "article:author": "facebook.com/thetripsherpa",
+                            "twitter:data1": "Kyle Stewart",
+                            "twitter:data2": "4 minutes",
+                            "framework": "Redux 4.1.28",
+                            "article:modified_time": "2023-11-14T14:15:53+00:00",
+                            "viewport": "width=device-width",
+                            "og:locale": "en_US",
+                            "og:url": "https://liveandletsfly.com/so-what-if-bernie-sanders-flies-first-class/",
+                            "plausible-analytics-version": "2.0.9"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://liveandletsfly.com/wp-content/uploads/2017/04/Air-Force-One-Cost.jpg"
+                        }
+                    ],
+                    "hatomfeed": [
+                        {}
+                    ],
+                    "listitem": [
+                        {
+                            "item": "Home",
+                            "name": "Home"
+                        },
+                        {
+                            "item": "News"
+                        },
+                        {
+                            "item": "So What If Bernie Sanders Flies First Class?"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "So What If Bernie Sanders Flies First Class? - Live and Let's Fly\n===============\n! \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n*   \n*   \n*   \n]\n*   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n*   \n*   \n*   \n  >    >  So What If Bernie Sanders Flies First Class?\nSo What If Bernie Sanders Flies First Class?\n============================================\n Posted on \n_Bernie Sanders was “caught” this week flying first class. So what if Bernie Sanders flies first class? Is it really a complete rescission of his moral imperatives?_\n* * *\nIf you are considering  or signing up for a new credit card . Both support LiveAndLetsFly.com.\n* * *\n**If you haven’t followed us on  or , add us today.**\nBernie “Caught” In First Class\n------------------------------\nLast week, Vermont Senator Bernie Sanders and 2020 Democratic presidential candidate was captured on another’s passenger’s phone sitting in a first-class seat. His “crime” was . In defense of headlines suggesting he was caught, Senator Sanders does look caught in the act of doing something wrong but to be fair, I probably don’t look very much like a headshot when captured candidly.\n!\nWhy This Appeared Controversial\n-------------------------------\nSenator Sanders has railed against the top 1% of income earners, embraced the concept that there should be no billionaires and called himself a Democratic Socialist. He states that corporate excess and greed is the cause of the  at the expense of people who can’t afford to pay for their medicine.\nHe has also been  in the past and has eschewed expensive campaign fundraising dinners proudly stating that no billionaires have contributed to his campaign. While first-class on a domestic flight is not the same as flying private, it’s also not akin to the “Basic Economy” lifestyle he has otherwise embraced.\nWhy It Actually Supports His Ideology\n-------------------------------------\n#### Environmentally-friendly\nThe Sanders campaign has both the resources and necessities to hire a chartered private aircraft. Many campaigns have done this in the past, including past Democratic candidates. He flew commercial, and though he was not in steerage, he did fly like many of us do. Flying commercial in any seat is also far better for the environment than flying private due to carbon emissions on a per passenger basis.\n#### Bumps, Free upgrades\nWe don’t actually know what ticket he bought. He might...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Senators Sanders And Warren Strongly Endorse The Benefits Of ...",
+                "htmlTitle": "Senators <b>Sanders</b> And Warren Strongly Endorse The Benefits Of ...",
+                "link": "https://www.forbes.com/sites/douggollan/2020/02/15/senators-sanders-and-warren-endorse-the-benefits-of-private-jets/",
+                "displayLink": "www.forbes.com",
+                "snippet": "Feb 15, 2020 ... Senators Bernie Sanders and Elizabeth Warren have become strong proponents of private jet travel.",
+                "htmlSnippet": "Feb 15, 2020 <b>...</b> Senators <b>Bernie Sanders</b> and Elizabeth Warren have become strong proponents of private jet <b>travel</b>.",
+                "formattedUrl": "https://www.forbes.com/.../senators-sanders-and-warren-endorse-the-benefit...",
+                "htmlFormattedUrl": "https://www.forbes.com/.../senators-<b>sanders</b>-and-warren-endorse-the-benefit...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyifkSU2LeBMrUizdGf3q6UWzCgIi2ilvW2Bk_Z8f_avp-3xz_rnb3Z9H&s",
+                            "width": "232",
+                            "height": "217"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Forbes",
+                            "article:id": "blogAndPostId/blog/post/3661-5e46cf00ebd05c000784c427",
+                            "og:description": "Senators Bernie Sanders and Elizabeth Warren have become strong proponents of private jet travel.",
+                            "twitter:creator": "@DougGollan",
+                            "article:publisher": "https://www.facebook.com/forbes",
+                            "twitter:image": "https://imageio.forbes.com/specials-images/imageserve/5e47f5dda854780006b1715a/0x0.jpg?format=jpg&height=600&width=1200&fit=bounds",
+                            "twitter:site": "@forbes",
+                            "news_keywords": "Presidential Campaign,presidential campaign private jets,presidential candidate private jets,Bernie Sanders private jet,Elizabeth Warren private jet,Rick Wagoner private jet,Alan Mulally private jet,Robert Nardelli,Ford private jet,General Motors private jet,Chrysler private jet,Election 2020,Democratic primary,Bernie Sanders endorsements,Elizabeth Warren endorsements,private jet,business aviation,private jet carbon offset,private jet carbon output,companies that use private jets",
+                            "article:published": "2020-02-15",
+                            "article:channel": "Lifestyle",
+                            "image": "https://imageio.forbes.com/specials-images/imageserve/5e47f5dda854780006b1715a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                            "article:section": "Travel",
+                            "og:type": "article",
+                            "twitter:title": "Senators Sanders And Warren Strongly Endorse The Benefits Of Private Jet Travel",
+                            "author": "Doug Gollan",
+                            "article:section_url": "https://www.forbes.com/travel/",
+                            "og:title": "Senators Sanders And Warren Strongly Endorse The Benefits Of Private Jet Travel",
+                            "amp-google-client-id-api": "googleanalytics",
+                            "og:updated_time": "2024-02-19T01:45:23.031-05:00",
+                            "article:author": "Doug Gollan",
+                            "referrer": "no-referrer-when-downgrade",
+                            "fb:app_id": "123694841080850",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=2,user-scalable=yes,minimal-ui",
+                            "twitter:description": "Senators Bernie Sanders and Elizabeth Warren have become strong proponents of private jet travel.",
+                            "og:url": "https://www.forbes.com/sites/douggollan/2020/02/15/senators-sanders-and-warren-endorse-the-benefits-of-private-jets/",
+                            "article:modified": "2024-02-19",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://imageio.forbes.com/specials-images/imageserve/5e47f5dda854780006b1715a/Bernie-Sanders-private-jet/960x0.png?height=667&width=711&fit=bounds"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Somewhere Rick Wagoner, Alan Mulally and Robert Nardelli must be chuckling or perhaps shaking their heads, maybe both. The then CEOs of the big three automakers found themselves tarred and feathered back in 2008 when they each decided to fly company private jets from Detroit to Washington D.C.\nTheir offense for not walking or hitchhiking the 500 miles is that they were coming to the nation’s capital to make a case for a government bailout as the economy tumbled during the Great Recession.\nSenators Bernie Sanders and Elizabeth Warren board separate private jets 36 minutes apart to fly ... [+] from the same airport back to Washington D.C., according to a report from ABC News.\nThe images that might have gotten their attention were posted on Twitter by ABC News campaign reporter Adam Kelsey (above). They showed on the left a snapshot of Vermont Senator and Presidential candidate Bernie Sanders climbing into what appears to be a large cabin private jet. The other picture claims to show Massachusetts Senator and White House apprentice Elizabeth Warren boarding a midsize Learjet.\nKelsey caption the pictures on his Tweet, “So long (for now). @BernieSanders and @ewarren are both on their way back to DC. Here they each are boarding flights from the same general aviation airport at DSM just 36 minutes apart.”\nThe image was posted on Sunday, Feb. 2, 2020, so apparently they were on their way back for the impeachment trial of President Donald J. Trump the next day where their attendance was mandatory.\n\nThere were multiple options for Senators Bernie Sanders and Elizabeth Warren to fly commercially ... [+] from Iowa back to Washington D.C. for the Trump Impeachment Trial.\n\nLike for the automaker executives, private jets were...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "On the campaign bus with Bernie Sanders: 'I am moved by the ...",
+                "htmlTitle": "On the <b>campaign</b> bus with <b>Bernie Sanders</b>: &#39;I am moved by the ...",
+                "link": "https://www.theguardian.com/us-news/2016/feb/02/bernie-sanders-interview-passion-iowa-new-hampshire",
+                "displayLink": "www.theguardian.com",
+                "snippet": "Feb 2, 2016 ... Her more cautious policy platform is a way to ensure that progress achieved in the last eight years is not reversed by Republicans. But for ...",
+                "htmlSnippet": "Feb 2, 2016 <b>...</b> Her more cautious policy platform <b>is</b> a way to ensure that progress achieved <b>in</b> the last eight years <b>is</b> not reversed by Republicans. But for&nbsp;...",
+                "formattedUrl": "https://www.theguardian.com/.../bernie-sanders-interview-passion-iowa-ne...",
+                "htmlFormattedUrl": "https://www.theguardian.com/.../<b>bernie</b>-<b>sanders</b>-interview-passion-iowa-ne...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU96nKSpwqZsf2OmGl9QV1vHe0OxhD5JouVS7hn22XBhzKAK4hJA3s1co&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.guim.co.uk/img/media/27229bad25d80e0ae993d22fd3671a36705eebcb/82_0_4945_2968/master/4945.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTYucG5n&enable=upscale&s=492067141427f18f3a0346ac6dedd6a9",
+                            "twitter:app:id:googleplay": "com.guardian",
+                            "twitter:app:url:iphone": "gnmguardian://us-news/2016/feb/02/bernie-sanders-interview-passion-iowa-new-hampshire?contenttype=Article&source=twitter",
+                            "theme-color": "#052962",
+                            "og:image:width": "1200",
+                            "article:published_time": "2016-02-02T19:31:54.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "the Guardian",
+                            "twitter:app:url:ipad": "gnmguardian://us-news/2016/feb/02/bernie-sanders-interview-passion-iowa-new-hampshire?contenttype=Article&source=twitter",
+                            "twitter:app:name:googleplay": "The Guardian",
+                            "al:ios:url": "gnmguardian://us-news/2016/feb/02/bernie-sanders-interview-passion-iowa-new-hampshire?contenttype=Article&source=applinks",
+                            "twitter:app:id:iphone": "409128287",
+                            "og:description": "The Democratic candidate has faced eye-rolls from the media and some supporters see bias among party loyalists – but after a strong showing in Iowa, he looks increasingly presidential",
+                            "twitter:creator": "@RobertsDan",
+                            "article:publisher": "https://www.facebook.com/theguardian",
+                            "al:ios:app_store_id": "409128287",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://i.guim.co.uk/img/media/27229bad25d80e0ae993d22fd3671a36705eebcb/82_0_4945_2968/master/4945.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTYucG5n&s=d23ac98f39be70719795beefa75b0a3e",
+                            "twitter:site": "@guardian",
+                            "article:modified_time": "2017-11-29T03:11:15.000Z",
+                            "og:type": "article",
+                            "article:section": "US news",
+                            "al:ios:app_name": "The Guardian",
+                            "og:title": "On the campaign bus with Bernie Sanders: 'I am moved by the passion'",
+                            "og:image:height": "720",
+                            "twitter:app:id:ipad": "409128287",
+                            "article:author": "https://www.theguardian.com/profile/dan-roberts",
+                            "article:tag": "Bernie Sanders,US elections 2016,US news,US politics,World news",
+                            "fb:app_id": "180444840287",
+                            "twitter:app:url:googleplay": "guardian://www.theguardian.com/us-news/2016/feb/02/bernie-sanders-interview-passion-iowa-new-hampshire",
+                            "twitter:app:name:ipad": "The Guardian",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                            "og:url": "http://www.theguardian.com/us-news/2016/feb/02/bernie-sanders-interview-passion-iowa-new-hampshire",
+                            "twitter:app:name:iphone": "The Guardian"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.guim.co.uk/img/media/27229bad25d80e0ae993d22fd3671a36705eebcb/82_0_4945_2968/master/4945.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTYucG5n&enable=upscale&s=492067141427f18f3a0346ac6dedd6a9"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Minneapolis to the meeting in the Oval Office, stop for a crucial photo opportunity outside the West Wing, and head back to Iowa to square off against Bill Clinton in Mason City, the Vermont senator went from looking like a fringe phenomenon to looking like a potential president.\nObama had been promising face time for months, but it was only after an interview he gave on his legacy was  that the president felt the need to rebalance his public stance in the crucial few days leading up to the Iowa caucus.\n“I thought the interview that he gave was not a biased interview,” said Sanders  in the back of his campaign bus late last week. “But I think the media picked up on it and the Clinton people spun it.”\nWas this Obama’s attempt to level the playing field?\n“Yup, perhaps,” Sanders told the Guardian. “I do think it was nice of the president for us to sit down and chat for 45 minutes.”\nIn the ensuing chase across the prairies by the competing campaign buses, it became clear that the battle for Iowa was to turn into a battle for the right to be considered the true heir to Obama.\nFor Clinton, many current White House aides and the former Obama staffers who populate her campaign team, there is no doubt. Her more cautious policy platform is a way to ensure that progress achieved in the last eight years is not reversed by Republicans.\nBut for Sanders, Obama’s difficulties with Congress are proof that change cannot come by presidential fiat alone. His call for a “political revolution”, although vague, rests on the notion that the next president needs to bring the wave of support that gets them elected all the way to Washington, and keep it there.\nThe central question before voters in Iowa therefore became one of experience over hope: could sceptical midwesterners who were sold once on change be persuaded to buy the extra-strength version, only in less attractive packaging? Or would they opt for \nThe lack of marketing gloss on Sanders is hard to overstate. Though the rumpled look and wild hair may have attracted a cult following among younger voters, this anti-candidate could not break more rules of political television if he tried.\nHe is constantly hoarse from shouting. His staff and family fight a losing battle to keep dandruff from his baggy suits and a somewhat cantankerous temper from obscuring what can still prove to be an avuncular charm.\nDuring our interview on his tour bus, it was left to his wife, Jane, to rescue our photographer when Bernie refused to move from his favourite comfy arm chair into a bench seat that had better lighting.\n“Let him...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

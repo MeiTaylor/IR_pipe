@@ -1,0 +1,30 @@
+{
+    "Claim": "Hillary Clinton overlooked Benghazi victims when she said that \"we didn't lose a single person in Libya\" during a campaign event on MSNBC.",
+    "Video_information": {
+        "video_date": 20160315.0,
+        "platform": "youtube",
+        "video_headline": "Clinton: We Didnt Lose A Single Person In Libya",
+        "video_transcript": "Forces. Now is Libya perfect? It isn't. But did they have 2 elections that were free and fair where they voted for moderates? Yes. They did. So, you know, changing from a dictator who has hollowed out your country to something resembling a functioning state and even, hopefully, more of a democratic one doesn't happen overnight. And we've got to continue to support the Libyan people to give them a chance because otherwise, you see what's happened in Syria with the consequences of millions of people flooding out of Syria, with more than 250,000 people killed, with terrorist groups like ISIS taking up almost a huge swath of territory as big as some of the states in that area. So, yes, I mean, Libya was a different, kind of calculation and we didn't lose a single person. We",
+        "Video_descriptor": "The video showcases a series of televised segments, likely from a news program or town hall meeting, featuring prominent public figure Hillary Clinton. Throughout the video, Hillary Clinton is seen speaking to the camera and engaging with a blurred audience in the background. The setting is indoors, with the audience seated in chairs, suggesting a formal event or broadcast. Textual elements and logos, such as 'MSNBC', 'Exclusive MSNBC', and 'Hillary Clinton-Town Hall', indicate the context of the broadcast and the network involved. The color scheme of the scenes leans towards blue and red hues, adding a professional and official tone to the visuals. Hillary Clinton is dressed in professional attire, showcasing her engagement with the audience through gestures and expressions. The video captures moments of Clinton speaking, reacting to topics, and interacting with the audience, all within the framework of a news broadcast or similar public address. The consistent presence of textual overlays and network logos reinforces the formal and structured nature of the broadcast, emphasizing the importance of the topics discussed. Overall, the video provides a glimpse into Hillary Clinton's public speaking engagements and interactions within a televised setting, offering viewers a window into her communication style and engagement with the audience."
+    },
+    "Initial_Question_Generation": {
+        "Question": "Did Hillary Clinton say 'we didn't lose a single person in Libya' during the MSNBC event?",
+        "Answer": "Yes, Hillary Clinton did say \"we didn't lose a single person in Libya\" during the MSNBC event. The video transcript provided in the information clearly includes her statement, which is part of a broader discussion regarding Libya and its political situation following the fall of Muammar Gaddafi. This statement is a direct quote from Clinton, affirming that she claimed there were no American casualties in the military operations associated with Libya. The context of her statement can be found in the transcript where she discusses the nuances of the situation in Libya, highlighting that, despite the challenges the country faced, the outcome did not involve the loss of American lives. Given this evidence, it is clear that the claim regarding her statement is accurate.",
+        "Confidence": "95%"
+    },
+    "CVResult": {
+        "Judgment": "Yes",
+        "Confidence": "95%",
+        "Reason": "The existing information is sufficient to determine the truthfulness of the claim. Hillary Clinton's statement, 'we didn't lose a single person in Libya,' is directly quoted in the video transcript provided in the 'Video_information' section. The context of her discussion indicates that she was referring to American casualties in the military operations associated with Libya after the fall of Muammar Gaddafi. The detailed explanation in the provided QA_CONTEXTS further confirms that this statement is not only accurate but also part of a broader discussion about the political situation in Libya. Therefore, the evidence supports that the claim regarding her statement is truthful."
+    },
+    "Final_Judgement": {
+        "Answer": "True",
+        "Reasons": "Hillary Clinton said 'we didn't lose a single person in Libya' during the MSNBC event, as evidenced by the video transcript provided. The statement is part of a broader discussion about the political situation in Libya and confirms that there were no American casualties in military operations related to Libya. This direct quote from Hillary Clinton aligns with the context of her remarks during the event, verifying the accuracy of the claim [Initial_Question_Generation_Query 1_evidence1].",
+        "Therefore, the Claim authenticity is": "True",
+        "The information type is": "Real"
+    },
+    "article": {
+        "article_url": "https://www.snopes.com/fact-check/hillary-clinton-benghazi-msnbc/",
+        "article_rating": "Mostly False"
+    }
+}

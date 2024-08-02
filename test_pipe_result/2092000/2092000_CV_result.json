@@ -1,0 +1,31 @@
+{
+    "Claim": "UNESCO declared India's national anthem, 'Jana Gana Mana,' to be the world's best.",
+    "Video_information": {
+        "video_date": 20060818.0,
+        "platform": "youtube",
+        "video_headline": "Jana Gana Mana - National Anthem",
+        "video_transcript": "",
+        "Video_descriptor": "The video presents a series of scenes featuring Indian cultural elements and symbols. It commences with a shot of an Indian flag waving against a cloudy sky, followed by a man, potentially middle-aged with a mustache and traditional turban, engaging with a microphone against a black backdrop. Subsequently, a group of individuals, likely a family or performers, is shown behind a large Indian flag in a black and white image, with the flag being the only colored element. Another frame displays a man in traditional attire expressing emotions, accompanied by Hindi text at the bottom. There is a tranquil outdoor setting with two men, one in a contemplative pose holding a clay pot, while the other sits on a rock. A vast landscape with a prominent Indian flag and rugged mountains is captured in another scene, devoid of human subjects. Lastly, a group of individuals dressed in traditional attire is depicted on a stage, potentially engaged in a musical performance related to Gautam Bal, as indicated by the textual overlay. Throughout the video, various cultural nuances and artistic representations are depicted through these distinct key frames, showcasing elements of tradition, music, patriotism, and performance within an Indian context."
+    },
+    "Initial_Question_Generation": {
+        "Question": "Does the video provide credible evidence that UNESCO recognized 'Jana Gana Mana' as the best national anthem?",
+        "Answer": "The video does not provide credible evidence that UNESCO recognized 'Jana Gana Mana' as the best national anthem. In fact, there is substantial evidence to contradict this claim. \n\n1. UNESCO itself has clarified that the claims circulating since 2008 regarding 'Jana Gana Mana' being declared the best national anthem are merely rumors. This misinformation has been debunked multiple times by credible sources and UNESCO has stated that no such announcement has been made regarding India's national anthem or any country's anthem.\n\n2. The prevalence of this misinformation is evident, as it has been circulated widely on social media and email, often with misleading or fabricated captions suggesting that such a declaration was made by UNESCO.\n\n3. Other reputable news sources have also reported that UNESCO has not recognized 'Jana Gana Mana' in any such capacity, reinforcing that this claim is a fabrication.\n\nTaken together, these points strongly indicate that the video does not provide any credible evidence supporting the claim that 'Jana Gana Mana' is recognized by UNESCO as the best national anthem.",
+        "Confidence": "95%"
+    },
+    "CVResult": {
+        "Judgment": "Yes",
+        "Confidence": "95%",
+        "Reason": "The existing information is sufficient to determine the truthfulness of the claim that UNESCO declared 'Jana Gana Mana' to be the world's best national anthem. The QA_CONTEXTS clearly states that UNESCO has debunked the rumor surrounding the claim, indicating that no such recognition has been made. Additionally, it points out that this misinformation has been circulated widely but is not supported by any credible evidence from UNESCO or reputable news sources. Since the video information does not present any credible evidence supporting the claim and the QA_CONTEXTS definitively indicates the claim is false, the conclusion is reached with a high level of confidence."
+    },
+    "Final_Judgement": {
+        "Answer": "False",
+        "Reasons": "The claim that UNESCO declared 'Jana Gana Mana' as the world's best national anthem is false. UNESCO has clarified that there has been no such recognition. The claim has been debunked and is considered misinformation that has circulated widely since 2008. The video does not provide credible evidence for the claim, instead reinforcing the fact that it is a rumor. Therefore, the assertion in the claim does not have any basis in reality and is contradicted by authoritative sources, including UNESCO itself, which has stated that no such announcement has been made regarding any national anthem [Initial_Question_Generation_Query 1_evidence1].",
+        "Therefore, the Claim authenticity is": "False",
+        "The information type is": "False",
+        "The specific type of False Information is": "Text unsupported by the video"
+    },
+    "article": {
+        "article_url": "https://www.snopes.com/fact-check/unesco-india-national-anthem/",
+        "article_rating": "False"
+    }
+}

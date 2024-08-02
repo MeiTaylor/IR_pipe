@@ -1,0 +1,797 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Damn Daniel mugged news update",
+                "totalResults": "8200000",
+                "searchTerms": "Damn Daniel mugged news update",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Damn Daniel mugged news update",
+                "totalResults": "8200000",
+                "searchTerms": "Damn Daniel mugged news update",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.360912,
+        "formattedSearchTime": "0.36",
+        "totalResults": "8200000",
+        "formattedTotalResults": "8,200,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "No, 'Damn Daniel' wasn't beaten up and hospitalized over his white ...",
+                "htmlTitle": "No, &#39;<b>Damn Daniel</b>&#39; wasn&#39;t <b>beaten</b> up and hospitalized over his white ...",
+                "link": "https://www.businessinsider.com/damn-daniel-was-not-hospitalized-hoax-2016-2",
+                "displayLink": "www.businessinsider.com",
+                "snippet": "Feb 23, 2016 ... ... new internet idol. Read next. Insider Today. Sign up to get the inside scoop on today's biggest stories in markets, tech, and business\u00a0...",
+                "htmlSnippet": "Feb 23, 2016 <b>...</b> ... <b>new</b> internet idol. Read next. Insider <b>Today</b>. Sign up to get the inside scoop on <b>today&#39;s</b> biggest stories in markets, tech, and business&nbsp;...",
+                "formattedUrl": "https://www.businessinsider.com/damn-daniel-was-not-hospitalized-hoax-2...",
+                "htmlFormattedUrl": "https://www.businessinsider.com/<b>damn</b>-<b>daniel</b>-was-not-hospitalized-hoax-2...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr90D7KeL015BxahN-giVpOG119O30ukh00CZX-S0LaV7tQ_5wmFCCW9A&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "contenturl": "https://i.insider.com/56cc63c7dd0895d2048b45bd?width=700",
+                            "credittext": "Twitter"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.insider.com/56cc63c7dd0895d2048b45be?width=1200&format=jpeg",
+                            "apple-itunes-app": "app-id=554260576",
+                            "msapplication-config": "/public/assets/BI/US/favicons/browserconfig.xml?v=2023-11",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "sailthru.tags": "Digital Culture, Meme, Hoax, Madison Malone Kircher",
+                            "og:site_name": "Business Insider",
+                            "apple-mobile-web-app-title": "Business Insider",
+                            "title": "No, 'Damn Daniel' wasn't beaten up and hospitalized over his white Vans",
+                            "og:description": "People are sharing a grim news story about the teenager, but it's totally bogus.",
+                            "article:publisher": "businessinsider",
+                            "mrf:tags": "Page Type:story",
+                            "datemodified": "2016-03-11T20:05:34Z",
+                            "news_keywords": "Tech, Digital Culture",
+                            "sailthru.title": "No, 'Damn Daniel' wasn't beaten up and hospitalized over his white Vans",
+                            "mrf:sections": "Tech",
+                            "datepublished": "2016-02-23T13:50:30Z",
+                            "sailthru.verticals": "tech",
+                            "sailthru.date": "2016-02-23",
+                            "og:type": "article",
+                            "author": "Madison Malone Kircher",
+                            "tbi-vertical": "Tech",
+                            "og:title": "No, 'Damn Daniel' wasn't beaten up and hospitalized over his white Vans",
+                            "sailthru.image.thumb": "https://i.insider.com/56cc63c7dd0895d2048b45bd?width=160&format=jpeg",
+                            "fb:pages": "20446254070",
+                            "sailthru.description": "People are sharing a grim news story about the teenager, but it's totally bogus.",
+                            "linkedin:owner": "mid:1d5f7b",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:url": "https://www.businessinsider.com/damn-daniel-was-not-hospitalized-hoax-2016-2",
+                            "sailthru.author": "Madison Malone Kircher",
+                            "sailthru.image.full": "https://i.insider.com/56cc63c7dd0895d2048b45bd?width=1200&format=jpeg"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.insider.com/56cc63c7dd0895d2048b45be?width=1200&format=jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... start reading now. Have an account? Log in.\nYou can't believe everything you read on the internet and for Daniel Lara, better known as \"Damn Daniel,\" that's a good thing.\nIt was recently reported that the teenage meme star (more on that ) was hospitalized in critical condition after he was beaten and robbed for his now-famous white Vans sneakers.\nIn case you're not familiar, .\u00a0In the video, Holz trails his friend for several days shouting \"damn, Daniel! Back at it again with the white Vans!\" and people just can't get enough of the strangely hilarious clip.\nThis story is available exclusively to Business Insider subscribers.  and start reading now. Have an account? Log in.\nTake a look.\n> Damn Daniel \n> \n> \u2014 josh (@josholzz) \nOf course, it's worth noting that Lara's unfortunate situation was reported by notorious satire website , but that hasn't stopped people online from sharing the story as truth.\nTake a look.\n> \u2014Liv (@pugsbeforedrugs) \n> \u2014Logan (@HammLogan) \n> \u2014BwITTANY\u2693\ufe0f (@Bwittanyyy23) \nThis Twitter user even included a screenshot of the \u00a0story as evidence.\n> \u2014Nadir Palwala (@nadirp1217) \nAccording to the Huzlers story, Lara's attacker is selling his stolen sneakers on Ebay. While it doesn't look like that's true, people online are  to look like their new internet idol.\nRead next\n!\nSign up to get the inside scoop on today\u2019s biggest stories in markets, tech, and business \u2014 delivered daily. \n!\nThanks for signing up!\nAccess your favorite topics in a personalized feed while you're on the go. download the app\nEmail address \nSign up\nBy clicking \u201cSign Up\u201d, you accept our  and . You can opt-out at any time by visiting our Preferences page or by clicking \"unsubscribe\" at the bottom of the email.\n!\n### Watch: Here\u2019s why everyone is talking about a teen named Daniel\n!\n]\nFollow us on:]]]]]\n]]\n*   \\*  Insider Inc. All rights reserved. Registration on or use of this site constitutes acceptance of our  and .\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   Stock quotes by \n*   \n]\n*   International Editions:\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n!\n!\n]\n!\n!\nJump to\n1....[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Business Insider is generally considered a reputable source for business news and reports. However, it has faced criticism for occasionally prioritizing sensational headlines that might not always reflect comprehensive reporting. While they strive for accuracy, the occasional lapses in depth and nuance in some articles temper their overall credibility."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-02-23"
+                },
+                "Relevance": {
+                    "RelevanceScore": 10,
+                    "Relevance Justification": "This evidence directly addresses the claim that 'Damn Daniel' was mugged and robbed of his shoes. The article specifically debunks the rumor about Daniel being hospitalized after being attacked for his sneakers, clarifying that the claim was based on a hoax. This is crucial in establishing that the claim is false."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Why are you mean mugging me Martin? We just closed 3 Gates and ...",
+                "htmlTitle": "Why are you mean <b>mugging</b> me Martin? We just closed 3 Gates and ...",
+                "link": "https://www.reddit.com/r/oblivion/comments/17v6rul/why_are_you_mean_mugging_me_martin_we_just_closed/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Nov 14, 2023 ... 527 votes, 65 comments. I may have accidentally hit a guard during the battle of the Great Gate...no allies died by my hand but everyone was\u00a0...",
+                "htmlSnippet": "Nov 14, 2023 <b>...</b> 527 votes, 65 comments. I may have accidentally hit a guard during the battle of the Great Gate...no allies died by my hand but everyone was&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/.../why_are_you_mean_mugging_me_martin_we_j...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../why_are_you_mean_mugging_me_martin_we_j...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ubPNJkAhNlUCeP_q54RYxs2l5q2Aj9fLXJuXTSFl1Ax_lppp23aixaDE&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://preview.redd.it/why-are-you-mean-mugging-me-martin-we-just-closed-3-gates-v0-xrs8a2tmhc0c1.png?width=1080&crop=smart&auto=webp&s=a1a1c0875dabe30b65c141b774232c66076a05df",
+                            "theme-color": "#000000",
+                            "og:image:width": "1080",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/oblivion on Reddit: Why are you mean mugging me Martin? We just closed 3 Gates and the Great Gate to Oblivion best bud!",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/oblivion on Reddit: Why are you mean mugging me Martin? We just closed 3 Gates and the Great Gate to Oblivion best bud!",
+                            "og:image:height": "1080",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/Smart_Somewhere_1690 - 527 votes and 65 comments",
+                            "twitter:image": "https://preview.redd.it/why-are-you-mean-mugging-me-martin-we-just-closed-3-gates-v0-xrs8a2tmhc0c1.png?width=1080&crop=smart&auto=webp&s=a1a1c0875dabe30b65c141b774232c66076a05df",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/oblivion/comments/17v6rul/why_are_you_mean_mugging_me_martin_we_just_closed/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://preview.redd.it/why-are-you-mean-mugging-me-martin-we-just-closed-3-gates-v0-xrs8a2tmhc0c1.png?width=1080&crop=smart&auto=webp&s=a1a1c0875dabe30b65c141b774232c66076a05df"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Reddit - Dive into anything\n===============            \nOpen menu Open navigation  Go to Reddit Home\nr/oblivion A chip A close button\nGet app Get the Reddit app  Log in to Reddit\nExpand user menu Open settings menu\n*   *   *   \n### Get the Reddit app\nScan this QR code to download the app now\nOr check it out in the app stores\nA subreddit dedicated to mods, screenshots, videos, tactics, news and anything else related to Bethesda's 2006 open world RPG - The Elder Scrolls IV: Oblivion.\n* * *\nMembers Online\n\u2022\nADMIN MOD\nWhy are you mean mugging me Martin? We just closed 3 Gates and the Great Gate to Oblivion best bud!\n===================================================================================================\nI may have accidentally hit a guard during the battle of the Great Gate...no allies died by my hand but everyone was giving me a side eye while congratulating me haha\nI feel like I'm nearing the end of the main quest line for my very first playthrough and It's been pretty well done narrative. Martin is cool and is starting to become the leader Cyrodiil needs.\nI wonder if my character Salamance will end up becoming Martin's best bud and Thane by the end of this journey haha\nRead more\n ! !\n!\n**Top 1%** \nTop Posts\n---------\n* * *\n*   \n*   \n*   \n*   &nbsp;\n*   &nbsp;\n* * *\n*   TOPICS\n*   Internet Culture (Viral)\n*   *   *   *   *   *   *   *   *   \n*   Games\n*   *   *   *   *   *   *   *   *   *   *   *   \n*   Q&As\n*   *   \n*   Technology\n*   *   *   *   *   *   *   *   *   *   \n*   Pop Culture\n*   *   *   *   *   *   \n*   Movies & TV\n*   *   *   *   *   *   *   *   *   *   *   *   *   *   \n* * *\n*   RESOURCES\n*   *   *   *   *   *   \n* * *\n*   *   *   \n* * *\n*   *   *   ",
+                    "content_tokens": 482
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Reddit is a user-generated content platform, which means the reliability of information varies significantly between threads and communities. While there are informative discussions, the presence of misinformation and the lack of editorial oversight lowers its credibility as a source of truthfulness. However, it can serve as a platform for diverse opinions and community moderation that can sometimes help identify fake news."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-11-14"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This evidence does not relate to the claim about being mugged or robbed. It discusses a totally different topic and does not provide any context or relevance to the situation involving 'Damn Daniel.'"
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Somebody 'swatted' the home of one of the teens behind the 'Damn ...",
+                "htmlTitle": "Somebody &#39;swatted&#39; the home of one of the teens behind the &#39;<b>Damn</b> ...",
+                "link": "https://www.washingtonpost.com/news/the-intersect/wp/2016/02/23/police-say-somebody-swatted-the-home-of-one-of-the-teens-behind-the-damn-daniel-meme/",
+                "displayLink": "www.washingtonpost.com",
+                "snippet": "Feb 23, 2016 ... A teen who made the viral \"Damn, Daniel\" video was the victim of a dangerous prank Monday night.",
+                "htmlSnippet": "Feb 23, 2016 <b>...</b> A teen who made the viral &quot;<b>Damn</b>, <b>Daniel</b>&quot; video was the victim of a dangerous prank Monday night.",
+                "formattedUrl": "https://www.washingtonpost.com/news/.../police-say-somebody-swatted-the...",
+                "htmlFormattedUrl": "https://www.washingtonpost.com/<b>news</b>/.../police-say-somebody-swatted-the...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtp-B2lainjWo0DFFDrvzCG_BQxc4a0EFTN-i8fmLkNdWi_4TfYZIAbwA&s",
+                            "width": "252",
+                            "height": "200"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter_description": "A teen who made the viral \"Damn, Daniel\" video was the victim of a dangerous prank Monday night.",
+                            "article_modified_time": "2021-10-26T22:40:48.529Z",
+                            "og:image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/news/the-intersect/wp-content/uploads/sites/32/2016/02/Screen-Shot-2016-02-22-at-9.13.13-PM.png&w=1440",
+                            "apple-itunes-app": "app-id=352509417, app-argument=https://www.washingtonpost.com/news/the-intersect/wp/2016/02/23/police-say-somebody-swatted-the-home-of-one-of-the-teens-behind-the-damn-daniel-meme/?sourceApp=apple-banner",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2016-02-23T22:11:59.000Z",
+                            "og:site_name": "Washington Post",
+                            "og_title": "Somebody \u2018swatted\u2019 the home of one of the teens behind the \u2018Damn, Daniel\u2019 meme",
+                            "og_type": "article",
+                            "og_url": "https://www.washingtonpost.com/news/the-intersect/wp/2016/02/23/police-say-somebody-swatted-the-home-of-one-of-the-teens-behind-the-damn-daniel-meme/",
+                            "og:description": "A teen who made the viral \"Damn, Daniel\" video was the victim of a dangerous prank Monday night.",
+                            "article_published_time": "2016-02-23T22:11:59.000Z",
+                            "next-head-count": "83",
+                            "article_section": "Internet Culture",
+                            "twitter:site": "@WashingtonPost",
+                            "article:modified_time": "2021-10-26T22:40:48.529Z",
+                            "twitter_site": "@WashingtonPost",
+                            "og_description": "A teen who made the viral \"Damn, Daniel\" video was the victim of a dangerous prank Monday night.",
+                            "article:content_tier": "metered",
+                            "twitter_title": "Somebody \u2018swatted\u2019 the home of one of the teens behind the \u2018Damn, Daniel\u2019 meme",
+                            "last_updated_date": "2021-10-26T22:40:48.529Z",
+                            "og:type": "article",
+                            "twitter:title": "Somebody \u2018swatted\u2019 the home of one of the teens behind the \u2018Damn, Daniel\u2019 meme",
+                            "article:section": "Internet Culture",
+                            "og_site_name": "Washington Post",
+                            "twitter_card": "summary_large_image",
+                            "og:title": "Somebody \u2018swatted\u2019 the home of one of the teens behind the \u2018Damn, Daniel\u2019 meme",
+                            "og_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/news/the-intersect/wp-content/uploads/sites/32/2016/02/Screen-Shot-2016-02-22-at-9.13.13-PM.png&w=1440",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "A teen who made the viral \"Damn, Daniel\" video was the victim of a dangerous prank Monday night.",
+                            "article_content_tier": "metered",
+                            "og:url": "https://www.washingtonpost.com/news/the-intersect/wp/2016/02/23/police-say-somebody-swatted-the-home-of-one-of-the-teens-behind-the-damn-daniel-meme/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/news/the-intersect/wp-content/uploads/sites/32/2016/02/Screen-Shot-2016-02-22-at-9.13.13-PM.png&w=1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...Story continues below advertisement\nDinco noted that officers \u201ccan\u2019t treat\u00a0\\\u00a0as though it is a prank,\u201d\u00a0and have to respond to each call, like the one placed Tuesday morning, as if it is real. But Riverside police receive a couple of fake calls like these a year, and are very aware that \u201cthere\u2019s a possibility \\\u00a0could not be true,\u201d he said.\nShare this articleShare\nThe matter is under investigation, Dinco said. Police haven\u2019t arrested anyone, and are working to uncover the identity of the caller. In the department\u2019s experience, people who call\u00a0in\u00a0with a swatting attempt typically\u00a0\u201cuse techniques to mask their identity\u201d from police.\nSwatting\u00a0is a misdemeanor in California, thanks to a\u00a0law that , Dinco said. It\u2019s punishable with up to a year in jail. Swatters could face felony charges in cases where victims are injured, Dinco added. In this case, no one was hurt.\nAdvertisement\nStory continues below advertisement\nThe \u201cDamn, Daniel\u201d meme was also the subject of \u00a0in recent days, claiming that the \u201cDaniel\u201d of the video was mugged and robbed, losing the white Vans mentioned in the video to criminals.\n_This piece has been updated to include an interview with a spokesperson for the Riverside Police Department._\n_**Correction:** This piece, citing local media accounts, originally stated that the swatting call was a 911 emergency call. Riverside police have since clarified that the call came into the department\u2019s non-emergency line._\nShare\n!\nNewsletterAs news breaks\n!\nTech News Alerts\nBreaking news email alerts on technology and the tech industry.\nSign up\nAdvertisement\nTOP STORIES\n!(blob:https://www.washingtonpost.com/43d039dc8b63ccc9c18280f045afb2e0)!(blob:https://www.washingtonpost.com/b9a31d3949b1882a09ed2f8508d538f3)\nTechnology\nBig Tech news and how to take control of your data and devices\n]\n]\n]\nback\nTry a different topic\n or  to save your preferences\nAdvertisement\nAdvertisement\nCompany\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nGet The Post\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nContact Us\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nTerms of Use\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   ] \n \u00a9 1996-2024 The Washington Post\n*   \n...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The Washington Post is a well-respected news organization with a long history of journalistic integrity and high standards of reporting. They are known for rigorous fact-checking and investigative journalism, making it a reliable source of information that often uncovers fake news and misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-02-23"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This article mentions the rumor of 'Damn Daniel' being mugged but does not provide evidence that supports or contradicts the claim definitively. It raises awareness of a false narrative but lacks concrete information to decisively judge the claim's veracity."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Denver Grand Jury Indicts 13 Members of the Too Damn Smooth ...",
+                "htmlTitle": "Denver Grand Jury Indicts 13 Members of the Too <b>Damn</b> Smooth ...",
+                "link": "https://www.denverda.org/news-release/denver-grand-jury-indicts-13-members-of-the-too-damn-smooth-gang-on-255-criminal-counts/",
+                "displayLink": "www.denverda.org",
+                "snippet": "Mar 7, 2023 ... According to the indictment, the 13 individuals were all members of a criminal street gang that identified itself as \u201c2DS\u201d (Too Damn Smooth, Too\u00a0...",
+                "htmlSnippet": "Mar 7, 2023 <b>...</b> According to the indictment, the 13 individuals were all members of a criminal street gang that identified itself as \u201c2DS\u201d (Too <b>Damn</b> Smooth, Too&nbsp;...",
+                "formattedUrl": "https://www.denverda.org/news.../denver-grand-jury-indicts-13-members-o...",
+                "htmlFormattedUrl": "https://www.denverda.org/<b>news</b>.../denver-grand-jury-indicts-13-members-o...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLx-J1H3WaMZ9EV-lrcB_BTuYnbxTWW4svPX-EUuBbaG-3DGXJF7yu2qBN&s",
+                            "width": "252",
+                            "height": "200"
+                        }
+                    ],
+                    "organization": [
+                        {
+                            "name": "Denver DA",
+                            "url": "https://www.denverda.org/"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "msapplication-tileimage": "https://www.denverda.org/wp-content/uploads/2017/12/cropped-Denver-DA-logo-270x270.png"
+                        }
+                    ],
+                    "webpage": [
+                        {
+                            "maincontentofpage": "Beth McCann District Attorney Second Judical District 201 W, Colfax Ave, Dept. 801 Denver, CO 80202 720-913-2000 Beth.McCann@denverda.org News Release March 7, 2023 Contact: Carolyn Tyler,...",
+                            "text": "DENVER\u2014Last week, a Denver grand jury indicted 13 individuals on 255 felony counts for alleged crimes involving 113 victims after a multi-year investigation by RAVEN, the Regional Anti-Violence...",
+                            "headline": "Denver Grand Jury Indicts 13 Members of the Too Damn Smooth Gang on 255 Criminal Counts"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.denverda.org/wp-content/uploads/news-release/2021/Denver-DA-Logo-White-Middle_rgb-Copy.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "**News Release**\nMarch 7, 2023 Contact: Carolyn Tyler, Communications Director, carolyn.tyler@denverda.org, 720-913-9025\n**DENVER**\u2014Last week, a Denver grand jury indicted 13 individuals on 255 felony counts for alleged crimes involving 113 victims after a multi-year investigation by . As a result, the Denver District Attorney\u2019s office has now opened criminal cases against each individual. According to the indictment, the 13 individuals were all members of a criminal street gang that identified itself as \u201c2DS\u201d (Too Damn Smooth, Too Damn Self-Made and/or Too Damn Styling). The group is accused of violating Colorado\u2019s Organized Crime Control Act as well as being responsible for 18 shootings including drive-by shootings that put innocent bystanders at grave risk of death. One shooting incident resulted in the homicide of Jesus Duran-Maldonado in Commerce City on February 26, 2022. Another shooting incident resulted in the homicide of Christian Chirinos-Salazar in Denver on May 28, 2022. The defendants are also charged with numerous other counts including attempted homicide, aggravated motor vehicle theft, assault, menacing and robbery.\n\u201cWe believe these individuals shared a common goal of committing violence primarily against their rival gang members to gain notoriety, credibility, and perceived dominance over both their neighborhood,\u201d said Denver DA Beth McCann. \u201cThis is a very important development in our continuing efforts to keep the community safe from violent organized criminal activities and took a tremendous amount of work by members of my office as well as our law enforcement partners. I thank all our partner agencies.\u201d\n\u201cThe RAVEN task force continues to bring meaningful relief to victims, families and neighborhoods that experience violent gun crime,\u201d said RAVEN Task...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "The Denver District Attorney's website primarily focuses on local legal matters and announcements. While it provides accurate information about legal topics relevant to the area, it is not a news outlet and may lack the breadth of coverage on broader issues. Its utility for assessing claims or detecting fake news is limited but can be credible regarding legal matters."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-03-07"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence is unrelated to the claim of 'Damn Daniel' being mugged. It is about a different issue involving gang-related crime and does not mention anything about the video or related rumors."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Character A: On a scale from \u201cdamn Daniel\u201d to \u201cfre sha vaca do ...",
+                "htmlTitle": "Character A: On a scale from \u201c<b>damn Daniel</b>\u201d to \u201cfre sha vaca do ...",
+                "link": "https://www.tumblr.com/incorrectocquotations/179793628650/character-a-on-a-scale-from-damn-daniel-to-fre",
+                "displayLink": "www.tumblr.com",
+                "snippet": "Anonymous asked: Oh I hope you can get a new car :( thank u!! i did today.",
+                "htmlSnippet": "Anonymous asked: Oh I hope you can get a <b>new</b> car :( thank u!! i did <b>today</b>.",
+                "formattedUrl": "https://www.tumblr.com/.../character-a-on-a-scale-from-damn-daniel-to-fre",
+                "htmlFormattedUrl": "https://www.tumblr.com/.../character-a-on-a-scale-from-<b>damn</b>-<b>daniel</b>-to-fre",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ74K_DI642fuwXx22XD0be4wPmeS2ZmJ5lDEVkYYAGOj9z9tA17Gqt7A&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#001936",
+                            "theme-color": "rgb(0, 25, 53)",
+                            "twitter:card": "summary",
+                            "og:type": "article",
+                            "og:site_name": "Tumblr",
+                            "og:title": "Incorrect OC Quotes",
+                            "parsely-author": "incorrectocquotations",
+                            "bingbot": "nocache",
+                            "msapplication-tileimage": "https://assets.tumblr.com/pop/manifest/mstile-150x150-b040e390.png",
+                            "parsely-title": "Character A: On a scale from \u201cdamn Daniel\u201d to \u201cfre sha vaca do\u201d, how are you feeling?\nCharacter B: In between \u201cit\u2019s an avocado,... \u2013 @incorrectocquotations on Tumblr",
+                            "og:description": "Character A: On a scale from \u201cdamn Daniel\u201d to \u201cfre sha vaca do\u201d, how are you feeling?\n\nCharacter B: In between \u201cit\u2019s an avocado, thanks\u201d and \u201chow did you defeat Captain America\u201d, but as a solid answe\u2026",
+                            "parsely-pub-date": "2018-11-05T17:01:18.000Z",
+                            "parsely-type": "post",
+                            "parsely-tags": "page:peepr-route, tag your ocs,incorrect oc quotes,source: tumblr,submission,pawdle wawdle",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "parsely-link": "https://www.tumblr.com/incorrectocquotations/179793628650/character-a-on-a-scale-from-damn-daniel-to-fre",
+                            "parsely-section": "peepr-route",
+                            "og:url": "https://www.tumblr.com/incorrectocquotations/179793628650/character-a-on-a-scale-from-damn-daniel-to-fre"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://assets.tumblr.com/images/default_avatar/cube_open_512.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Character A: On a scale from \u201cdamn Daniel\u201d to \u201cfre sha vaca do\u201d, how are you feeling? Character B: In between \u201cit\u2019s an avocado,... \u2013 @incorrectocquotations on Tumblr\n===============\n*   \n*   \n*   Change palette\n]\nFollow\n**Character A:** On a scale from \u201cdamn Daniel\u201d to \u201cfre sha vaca do\u201d, how are you feeling?\n**Character B:** In between \u201cit\u2019s an avocado, thanks\u201d and \u201chow did you defeat Captain America\u201d, but as a solid answer I would say \u201cI don\u2019t need a degree to be a clothing hanger\u201d. How about you, \\?\n**Character C:** Probably \u201croad work ahead\u201d.\n**Character D:** I speak many languages, and this is none of them.\n(submitted by pawdle-wawdle)\nClose notes\n]\n]",
+                    "content_tokens": 174
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "Tumblr is a microblogging platform akin to Reddit, where users can post and share content. Due to its lack of editorial control, the reliability of information shared on Tumblr is highly variable. There\u2019s a significant prevalence of memes and personal opinions that can contribute to the spread of misinformation, so it scores low for credibility."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This evidence pertains to a different context and does not have any connection to 'Damn Daniel' or the claim of being robbed. It cannot aid in determining the truth of the original claim."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Environmental official murdered in Brazilian Amazon",
+                "htmlTitle": "Environmental official <b>murdered</b> in Brazilian Amazon",
+                "link": "https://news.mongabay.com/2016/10/government-environmental-official-murdered-in-brazilian-amazon/",
+                "displayLink": "news.mongabay.com",
+                "snippet": "Oct 17, 2016 ... Ara\u00fajo is the latest in a long list of environmentalists assassinated in Brazil. According to the NGO Global Witness, 448 environmentalists were\u00a0...",
+                "htmlSnippet": "Oct 17, 2016 <b>...</b> Ara\u00fajo is the <b>latest</b> in a long list of environmentalists assassinated in Brazil. According to the NGO Global Witness, 448 environmentalists were&nbsp;...",
+                "formattedUrl": "https://news.mongabay.com/.../government-environmental-official-murdere...",
+                "htmlFormattedUrl": "https://<b>news</b>.mongabay.com/.../government-environmental-official-murdere...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjbxLnf_9Wz5-IhtYC9A-8WxzNuMALDiXhUKb4pOlvQh0gANKa4cAuBuk&s",
+                            "width": "282",
+                            "height": "178"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2016/10/01175716/FEATURED-Amazon-killing-768x486.jpg",
+                            "theme-color": "#669900",
+                            "article:published_time": "2016-10-17T14:38:35+00:00",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Mongabay Environmental News",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "msapplication-tileimage": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2020/05/16160320/cropped-mongabay_icon-270x270.png",
+                            "og:description": "On Thursday 13 October, Luiz Alberto Ara\u00fajo, 54 years old, who headed the environment department for the municipal government of the town of Altamira in the Amazonian state of Par\u00e1, was killed by two gunmen. They drove up to his car and fired nine shots into him, in front of his wife and two stepsons. [\u2026]",
+                            "twitter:creator": "@Mongabay",
+                            "twitter:data1": "Glenn Scherer",
+                            "article:publisher": "https://www.facebook.com/mongabay/",
+                            "twitter:image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2016/10/01175716/FEATURED-Amazon-killing-768x486.jpg",
+                            "twitter:data2": "3 minutes",
+                            "twitter:site": "@mongabay",
+                            "article:modified_time": "2017-03-29T20:05:55+00:00",
+                            "fb:admins": "139042016164873",
+                            "og:type": "article",
+                            "article:section": "Environmental news",
+                            "twitter:title": "Environmental official murdered in Brazilian Amazon",
+                            "og:title": "Environmental official murdered in Brazilian Amazon",
+                            "fb:pages": "24436227877",
+                            "tags": "Mongabay, Mongabay Environmental News, Environmental News, Conservation News",
+                            "article:tag": "Mongabay, Mongabay Environmental News, Environmental News, Conservation News",
+                            "referrer": "always",
+                            "fb:app_id": "1559969950974398",
+                            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                            "onesignal": "wordpress-plugin",
+                            "twitter:description": "On Thursday 13 October, Luiz Alberto Ara\u00fajo, 54 years old, who headed the environment department for the municipal government of the town of Altamira in the Amazonian state of Par\u00e1, was killed by two gunmen. They drove up to his car and fired nine shots into him, in front of his wife and two stepsons. [\u2026]",
+                            "og:locale": "en_US",
+                            "og:url": "https://news.mongabay.com/2016/10/government-environmental-official-murdered-in-brazilian-amazon/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2016/10/01175716/FEATURED-Amazon-killing-768x486.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...\u007f\ufffdK80\ufffdc\u0011$\u0019s'{\u0004\ufffd<\ufffd\ufffdn\ufffdtk~\ufffd\ufffd\ufffd{n;$/\u001c\ufffd0g\ufffd\u0001E\ufffd4!k\ufffd\ufffd\u000b\ufffd\ufffd\ufffdo\u0016\ufffd\ufffd 0\u001d#\ufffd\ufffd\bc\ufffd\ufffd\ufffd\u000e\ufffd\ufffd\ufffd\ufffd,9S\ufffd\u001e\u0014/D\ufffd\ufffd\u1264v2\ufffd0-\ufffd\ufffd\ufffdM\ufffdk\u0002\ufffd3\ufffd\ufffd+E\ufffdr\ufffd!\ufffd\u0019]\ufffd\u000b\ufffd0(\u0012\u0010\u000e\ufffd\u0016r\u000f\ufffd\t;\ufffdg\ufffd,\ufffd\ufffd\ufffd\ufffd!\u009a\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\r/\ufffd\ufffd\u0011\"f\ufffd\r5X\u001a\ufffd*B\ufffd\u07e2\ufffd\u0014\ufffd&`\ufffd\ufffd\ufffd/\u00bc.mC\u0005pF\u0012\ufffd_\ufffd\ufffdU\u0012\ufffd|\ufffdG'\ufffdZ\ufffd\ufffd\u059b\u0016\n]\ufffd\u0016\ufffd\ufffdn\ufffdH\u000e\ufffd\ufffdZ=;&j3<\ufffd\\h8\ufffd\ufffdM\ufffdm\u000eJ\ufffdq@\u000bk\u03f9\u0005T!\ufffd0d\ufffd\ufffd\ufffd\ufffdQ{\ufffd\ufffd\\Y\ufffdao\ufffd\u0010\u0005\ufffd\u0005j\ufffd\ufffdX:\ufffdH\ufffd\ufffd\ufffd\ufffd\ufffdw\u0006\ufffd;fbI\ufffd\u018a\ufffdx\ufffd\b![\ufffdp\ufffdtp\ufffdy7\ufffd\bn\ufffdS}\b2U\ufffd'\u0005G\ufffd\u0007\ufffd\u02ca\ufffdJo\ufffdX\u0000\ufffd\ufffdp\ufffd\ufffd\ufffdw\ufffd\ufffd$(\ufffd\ufffd\u044f}cC\ufffd\ufffd\ufffd76$\ufffd\ufffd.\ufffd^\ufffd\ufffd\\\ufffd~\ufffd\ufffd';\u000e\ufffd$\ufffd!\ufffdr\ufffd*\ufffd\ufffd_\u000f\ufffdM\r\ufffd\f\ufffd\u0003\ufffd\ufffd\f%\ufffd\ufffd\ufffdPJ\ufffd\ufffd*\ufffd\b\u0005\ufffd\u0016b\ufffd\ufffd\ufffd\ufffd\ufffd\f\u0002\u0016\ufffd\ufffdw\u0010\ufffd;\ufffd}\n9\u0003f\ufffd\ufffd\ufffdRD\ufffd'Mc\ufffd7\u007f\ufffd\ufffd\ufffd\ufffdT+A\ufffd(sa\u0014[\ufffd\ufffd\ufffd\u000bi\ufffd\ufffd]\ufffd\ufffd\ufffdY\u000f^+\ufffdS\ufffdqD\u0011\u0003E\u04c2g\ufffd\ufffdF\ufffd\f?\ufffdeeUe\ufffd\ufffd\ufffdik\ufffdZ`\ufffd\u0005vSTH\u001b\ufffd)\ufffd\u0000h_T-r\ufffd)\ufffd\"\ufffd\ufffd\ufffd\u0014\bnr\u0011\u0005&G\u000b~\ufffd\u0013\ufffdMsp\ufffd\ufffd\ufffd\r.r\ufffd=\u0015\u0019\ufffd\ufffd\ufffd9hC\u0007z\ufffd\ufffd&\ufffd\ufffd'`h^M5,\ufffd\u0740\u054e|\ufffd\ufffd\ufffd\ufffd\u05b3\ufffd{\u0011\ufffd\ufffd\u001c\ufffd\ufffdYF\ufffd\ufffde\u06daUS\u0014X\ufffdO@U\ufffd\ufffdNz9\ufffdG\u0010+A(F\ufffd\ufffdZ\ufffd\ufffdf41\ufffdad\ufffd\ufffd\ufffdk@\ufffd\ufffd\ufffdTp\ufffd\ufffdp\ufffd\ufffdKao\u0679\ufffdOJ\ufffd\u0755\ufffd5\u0018\ufffd\ufffd\ufffd\ufffd\ufffd<\ufffdf\ufffd\u4aab0\ufffd\u0007z\ufffd\ufffd\ufffd`(\ufffd\ufffd\u001d\ufffd~\ufffd\ufffdM\ufffdv[\ufffd\u0014;\ufffdu81s\ufffd\u0005\u0003l\ufffd\\\ufffdO\ufffd\u0191\ufffd\ufffd\u001a\ufffdx\\\ufffd\ufffdE\ufffd8\ufffdm\u0016M\u000b\ufffdO\ufffd\u001c\u0017\ufffd\ufffd\ufffdlse\u0469\ufffd\ufffd\u0016t\ufffd\ufffd|\ufffd\bW\u0015\u0005VB\ufffd\ufffd\"ky\ufffdP\t\u07e6\ufffd\ufffd\ufffd\ufffd\ufffdk\ufffd\r\ufffd\ufffd\u0000\ufffd\ufffd\u046eR\ufffd\ufffd\ufffd\u0004\ufffdR\ufffdLi\ufffd\ufffdpIF\ufffdxO!\ufffd\ufffd\ufffd\ufffdu6Fer\u0799'\u0019N\ufffdG\ufffd\ufffdSw\ufffd5z\ufffd\ufffd\ufffd\ufffd\u007f\ufffd\ufffd\ufffd\ufffd\ufffd\u0011W!\ufffd`,\ufffd_\u000b*\ufffdxb\ufffd\ufffdz\ufffd\ufffdl\ufffd$)\ufffd,}\ufffd\ufffd\u043dX/\ufffd\ufffd\ufffd\ufffd\u0016\ufffd6\b+\ufffd6R\ufffd\ufffd\u00059\u0016\ufffd\ufffd\ufffd5\u0005\ufffdUa\u0006K;\ufffd\ufffd;\ufffd\ufffdz\ufffd7I\ufffdiv0Yd\ufffd$\ufffdJ\ufffd\ufffdHoT%P\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd!\ufffd\u5786\ufffd\u001d!-e\ufffd\ufffd=\ufffd\ufffd\u0004\u00014\u0004|\ufffd\ufffdZ\ufffd]\ufffd\ufffd+\u001cyE\ufffd\"\ufffdp\ufffd\u0393$\ufffd\ufffd\ufffd\ufffdb\u00152\ufffd\u0001\ufffd6\ufffd\ufffd\u007f\u0304}\fq\ufffd\ufffd\u02b3\ufffd%\u001fqg\u001a\u0016\ufffd\u001c\ufffd=1|\ufffdu\u0012v\u001f\ufffd\u007f\ufffdD\ufffd\ufffd\ufffd\ufffdI\u0017i\n?\ufffdb\ufffd\ufffd\ufffd\ufffd\u001cPH\ufffdx\ufffd\ufffd\ufffd\u000e\ufffd\ufffd\ufffd,\f\ufffdz\ufffd7\ufffd1\"\ufffdM\ufffd\u0001u\u03fb\ufffds\u000e\ufffd\ufffd\r\ufffd|\ufffd\ufffdz\ufffdW\ufffd\ufffd\f\ufffd\ufffd6\ufffdJ\ufffd\u029ah0\ufffd\u0000\ufffd\ufffd3\ufffdr\ufffd\ufffd7o\ufffd\ufffdY\ufffd\ufffd\ufffd\ufffd,\ufffdR\ufffd\ufffd\u059a\ufffd^9\u07b6\ufffd\ufffd\ufffd\ufffd\ufffd;rN\u0015$yk\u0011\ufffd+\ufffd=\ufffd\ufffd+\ufffd[e\ufffd\ufffdzu\ufffd}{c\ufffd~)\ufffd\ufffdL=\ufffdv\ufffd\ufffd@q\ufffdm\ufffd\ufffd\u6a74\u001cE{\ufffdp\ufffd\ufffd+\ufffd\u000e\ufffd\f\ufffd\u0000\ufffd\u0016\ufffdt\ufffd\u024e\u0002m\t\u05c5\ufffd\ufffdq\u0014\ufffd\ufffd\ufffdA%\ufffd2\u02d6\ufffd\u0007\ufffd\u0456\ufffd\ufffd\ufffd\ufffd(\u017a\ufffdn\ufffd\ufffdMp*\ufffd`&\u001b\ufffdv[qTt\ufffd\u0002\u0005\ufffd\ufffd~6\ufffd+\ufffd,\ufffdK2[\ufffd$I\u0017I\ufffd=\ufffdB\ufffd\u001a\ufffdmO$\ufffd\ufffdf6\ufffd\ufffd\ufffdg\ufffd\ufffdb:\u007f\ufffd\ufffd\ufffd\ufffd/\u03f3,;\ufffd\u0352E:\ufffd\u0017\ufffdl~0\ufffd\ufffd\ufffd\ufffd\ufffd)\ufffd\ufffd 5m\ufffdb\n\ufffd+\ufffd\ufffdf4\ufffd\"\ufffd\ufffd\u01d8\ufffd\ufffd\ufffd\ufffd\u01ee\ufffdk2\ufffds&W\ufffd\ufffd\ufffd\"\ufffdhU\ufffd8\ufffd\ufffd\ufffd\ufffd\ufffd{\ufffdq:>'\u000b\u0013\u0019\ufffd2\u001c,\ufffd5_\ufffdX\ufffdZ\ub45e\u0006\u0000\ufffd\ufffd9\ufffd\ufffd,\ufffdq\ufffd\u000f\ufffdO\ufffd\u0007\ufffd\ufffdg%\u0005\ufffd(0\u0003Fc\u001e\ufffd}EA\ufffd\ufffde\ufffd\u0001!\ufffd\ufffdUa\ufffd(-N\ufffdG\ufffd\ufffdw7\ufffd\ufffd7\ufffd\ufffd\ufffd\ufffd\ufffd5\ufffd\u0003\ufffd9\ufffd\ufffd\ufffd\ufffd\ufffd*$\ufffd?\ufffd5\u05e4\u016c\ufffd\ufffd\ufffdiL\uc115\b\ufffd\ufffd\u0539\u0007I\ufffd\u0018\u0015\ufffdz\u001d\u034c\ufffd\ufffd<\u007f \ufffd0V\ufffd\u0305\ufffd\ufffd\ufffd&Sa3\ufffd\ufffd8\u0011\ufffd\u0011\ufffd\u0014q\ufffd3\ufffd\ufffdR\ufffd\ufffd\u007fl\ufffd;\ufffd\ufffd\ufffd\ufffd\u051cM\u001f\ufffd\u0011\ufffd1\ufffd\ufffdiO\u079c\ufffd\ufffdy\ufffd\ufffd-I\ufffd&\ufffd\ufffd\u000e\ufffd\ufffd4\u0007\ufffd%\ufffd\ufffdx[z\ufffd\ufffd\u000bq\ufffd\ufffdh\u0010\ufffdb\ufffd1t\ufffd,\ufffdU\ud151|g\ufffd\u0005\ufffd{\ufffd\u0006{\ufffd\ufffd\ufffd\u0017&\ufffd\ufffd%\ufffd'\ufffd\u000b\ufffd\ufffd\u07cf\ufffdJ\u054c5fi\ufffdvroF\ufffd\ufffd\ufffdW\ufffd;\ufffd0*Z\ufffd\ufffd;\u0616\ufffd\ufffd9hM?z\ufffd\u07471\ufffdL\u02ee\fV\\'@1b\ufffdi\ufffd\ufffd\ufffd[\"J\ufffd7\ufffd\u001f\ufffd\u0003\u00fe\ufffd\ufffdn\ufffdxn\ufffd7\ufffdAl\ufffd1jG\u0002\ufffdp\ufffdX\ufffdF\u0011jM\ufffd\ufffdXcj\u0000\u02e3\ufffd\u001e\ufffdr\ufffd\ufffdH\ufffd\ufffdQ\ufffdLx\ufffdl\ufffd\ufffd\ufffda\ufffdeM\u0002\ufffd\ufffd\ufffd(o\ufffd\u000b\ufffd^\ufffd\ufffd\u001ez\u00054\ufffd\ufffdgK\ufffd(2~d\ufffdC\udb4d\ude0f\ufffd\ufffd\ufffd[\u07c5\ufffd\u0012\ufffd_i_4\ufffd\ufffd\u001ei#j\ufffd\u046f\ufffdhW(\ufffd,\ufffd\ufffd\ufffdxwG\ufffd\ufffd\u000f[\u001d\ufffd%\ufffd\ufffd\ufffd7Z\":\u0246\ufffd\u0640\ufffd\f$\ufffd~\ufffdiJ\\\ufffd\ufffd\ufffd\ufffdl\ufffdKw\ufffd\ufffdq|@\ufffd\ufffd\ufffd,\u00136\ufffdW\ufffd\ufffd\u0012Y\u00071\ufffd#\ufffd\ufffdL\ufffd\ufffd\ufffd\ufffdJx\ufffd\ufffd\ufffd\ufffd\t\ufffd\ufffdXb\u007f2G\ufffd\u0018\ufffdA\u0130\ufffd.\u0005\u001b\ufffd\ufffd\ufffda\ufffd\u001co\ufffd \ufffd\ufffd&\u000fD\ufffd\nP\u044d\ufffd\u0365\ufffdL\ufffdWU\ufffd4f\u001b\ufffdJ\ufffd\u0016(Q\u0012\u0756\ufffdj\ufffd\ufffd\ufffd\ufffd\n1<\u061c86S\ufffdj\u001b6\ufffd#\ufffd\ufffd\ufffd^V\ufffd%;\ufffdC\")\ufffdQ\ufffd\ufffd%S'|\ufffds6\ufffdD\ufffd\u0004\ufffd\ufffd\ufffdfr\u0006\ufffdu\\[\u04fe\u0006G6U\ufffd\ufffd\ufffdm\ufffd0\u007f\ufffdV(/\ufffdaAC+\ufffd\ufffd\ufffdf\ufffd\ufffdJG\u05e9\ufffd,^\ufffdW9\ufffd\ufffdLeF`\u0222\u024e\ufffd!\ufffd\u001eUlS\ufffd\ufffd\ufffd.~\ufffd\ufffd\ufffd=\ufffd`A\ufffd\u007fUe\u001b@\b\ufffd\ufffd\ufffda\ufffd\ufffd~;f\u0013\u0012\ufffd\ufffd8\ufffd\ufffd@k\ufffd\u0014\ufffd\u0016\u001di\ufffdNA\ufffd1[:\ufffd6g+P\u0001\u000f2\ufffdTS\u001c\ufffdV\ufffdP\u007fNq\ufffd\r\ufffd\ufffdfb\ufffd\u0015\ufffdk)/\u0012\ufffd\u008dm\ufffd\ufffd\ufffd\u05a8_\ufffdJ\ufffd\u001dZ\ufffd\u0000g\u0019\ufffdd^\ufffd\u0013\ufffdEi\ufffd\u0014u\ufffd\ufffd\ufffd\ue581\ufffdL\ufffd\ufffd\ufffd$_f\ufffd<\ufffdd\ufffd\u025b\ufffd7\ufffd\ufffd\ufffd\ufffd\ufffd\u0453#\ufffd\u0336\u0654\ufffd!\ufffd\u0013\u0017\ufffd]k\ufffdx\ufffdZ\ufffdbG\ufffda\u0017R3\ufffd:\ufffdh\ufffdM\ufffdt\ufffd\u001e\ufffd\ufffd\u3674\ufffdA\"\ufffd\ufffd]\ufffd&\ufffd\ufffdyR\ufffdQ\ufffd\ufffd9\ufffd\ufffd.\ufffdr\ufffd\ufffd^y\ufffd\ufffd\u0017\ufffdF\ufffd\ufffdF\u000f...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Mongabay is an environmental news and information site with a focus on and a commitment to accurate reporting on environmental issues. Although it may not have the same reach as larger media outlets, its specialized reporting is generally credible. However, its narrower focus on environmental issues may limit its overall versatility in addressing diverse news topics."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-10-17"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This article discusses a murder case unrelated to the 'Damn Daniel' video or claims. There is no relevance to assessing the veracity of the mugging claim."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "I Killed My Wife. Now I Want to Help Stop Domestic Violence. | The ...",
+                "htmlTitle": "I Killed My Wife. Now I Want to Help Stop Domestic Violence. | The ...",
+                "link": "https://www.themarshallproject.org/2019/10/03/i-killed-my-wife-now-i-want-to-help-prevent-domestic-violence",
+                "displayLink": "www.themarshallproject.org",
+                "snippet": "Oct 3, 2019 ... \u201cIf I could save one man from doing what I did, then I will have found a calling for my final years.\u201d By Daniel Adams.",
+                "htmlSnippet": "Oct 3, 2019 <b>...</b> \u201cIf I could save one man from doing what I did, then I will have found a calling for my final years.\u201d By <b>Daniel</b> Adams.",
+                "formattedUrl": "https://www.themarshallproject.org/.../i-killed-my-wife-now-i-want-to-help-...",
+                "htmlFormattedUrl": "https://www.themarshallproject.org/.../i-killed-my-wife-now-i-want-to-help-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBpqActqPBw7n6u4DIYKv3i3lt1QMW0NTlIO0GMpr93K7Eo_Pc7Jg9ny9p&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "image": "https://d1n0c1ufntxbvh.cloudfront.net/photo/08e4bb04/50011/1200x/",
+                            "og:image": "https://d1n0c1ufntxbvh.cloudfront.net/photo/08e4bb04/50011/1200x/",
+                            "theme-color": "#111111",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2019-10-03T22:00:00-04:00",
+                            "article:section": "Life Inside",
+                            "og:site_name": "The Marshall Project",
+                            "og:title": "I Killed My Wife. Now I Want to Help Prevent Domestic Violence.",
+                            "csrf-param": "authenticity_token",
+                            "og:description": "\u201cIf I could save one man from doing what I did, then I will have found a calling for my final years.\u201d",
+                            "fb:pages": "1442785962603494",
+                            "article:publisher": "https://www.facebook.com/TheMarshallProject.org",
+                            "article:author": "Daniel Adams",
+                            "article:tag": "Domestic Violence",
+                            "fb:app_id": "260005144189129",
+                            "twitter:site": "@MarshallProj",
+                            "article:modified_time": "2019-10-03T22:00:00-04:00",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "csrf-token": "k2zt01ktIfHnu-CxSGsAYsiemR1ZmFA6yXaeOU1EzvH6vg0wbmIgjdn6qKKrf0XoSE6fy6PVsA3u17B7VAHOvQ",
+                            "name": "I Killed My Wife. Now I Want to Help Stop Domestic Violence.",
+                            "og:url": "https://www.themarshallproject.org/2019/10/03/i-killed-my-wife-now-i-want-to-help-prevent-domestic-violence"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d1n0c1ufntxbvh.cloudfront.net/photo/08e4bb04/50011/1200x/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... of beauty, of love, of goodness.\nYet I struggle with the concept of forgiveness. Can I forgive myself for what I did? I cannot imagine Tracy\u2019s family forgiving me and would not ask that of them. But I owe them the chance to tell me just how badly I have ruined their lives; I am ready to do so, and want to.\nStill, I know that my saying, \u201cI am deeply sorry,\u201d will be insufficient. Perhaps the knowledge that I am doing all I can to help others escape our fate may reduce the pain just a little. Or maybe not.\nI struggle with guilt and shame. Guilt is the acknowledgment of having committed an act that is wrong or hurtful, while shame is a deep inner sense of personal unworthiness. Guilt is easier to deal with than shame; both are painful, but one is about the act and the other is about the person.\nI must accept guilt but reject shame.\nI am more than my worst act, yes. What I still need, though, is to somehow atone for what I have done. There is no perfect atonement, except for that which Christ paid on the cross. But I dream of somehow using my experience, my own story to reach other men who are in danger of doing what I have done\u2014before their own rage turns fatal. If I could save one man from doing what I did and save his loved one from Tracy\u2019s fate, then I will have found a calling for my final years.\nSome communities engage \u201cpeer advocates,\u201d or men who have committed domestic violence but have reformed, to intercept other men before they commit worse acts. (Just as it is often recovering addicts who make the best drug counselors.) This is what I\u2019d like to do.\nI may eventually get out, or I may die in here. I do not know where I will end up. I have limited choices. But among the choices I can make is this: to lend my voice to one of the most important conversations of our time, about empowering women. A voice from the side you rarely look to\u2014the abuser, who has done the awful deed, but who has the credibility to speak with candor and wisdom to other men in danger of destroying many, many lives.\nI think of King David, who himself committed murder, and his pleas of repentance in Psalm 51, which have been a refuge for millions of sinners: \u201cMy sacrifice is a broken and contrite heart,\u201d he said, \u201ca contrite heart, O God, you will not despise.\u201d\n_Daniel Adams, 58, is serving a life sentence at Deep...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Marshall Project is a nonprofit journalism organization that covers issues related to criminal justice. Its content is well-researched and backed by a team committed to exposing injustice and shedding light on critical issues within the justice system. It's regarded as a reliable source of information, although its focus is more niche."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2019-10-03"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This evidence revolves around a personal story about domestic violence and has no connection to 'Damn Daniel' or any claims regarding mugging or robbery."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Teen who posted viral 'Damn Daniel' video victim of swatting - ABC7 ...",
+                "htmlTitle": "Teen who posted viral &#39;<b>Damn Daniel</b>&#39; video victim of swatting - ABC7 ...",
+                "link": "https://abc7.com/damn-daniel-viral-video-swatting-riverside-police-hoax/1214441/",
+                "displayLink": "abc7.com",
+                "snippet": "Feb 23, 2016 ... The teenager who filmed the viral 'Damn Daniel' video and posted the clip on Twitter was the victim of a bogus emergency call that prompted\u00a0...",
+                "htmlSnippet": "Feb 23, 2016 <b>...</b> The teenager who filmed the viral &#39;<b>Damn Daniel</b>&#39; video and posted the clip on Twitter was the victim of a bogus emergency call that prompted&nbsp;...",
+                "formattedUrl": "https://abc7.com/damn-daniel-viral-video-swatting-riverside.../1214441/",
+                "htmlFormattedUrl": "https://abc7.com/<b>damn</b>-<b>daniel</b>-viral-video-swatting-riverside.../1214441/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyxv3ciO2eN-qQlaHml7BbVgFE_cW3Z59NCObqlvkcE3ICVqz8ByoHI4VZ&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=405387506, affiliate-data=ct=kabc-smart-banner&pt=302756, app-argument=https://abc7.com/story/1214441",
+                            "og:image": "https://cdn.abcotvs.com/dip/images/1214506_022316-kabc-ie-damn-daniel-img.jpg?w=1600",
+                            "twitter:app:id:googleplay": "com.abclocal.kabc.news",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "ABC7 Los Angeles",
+                            "twitter:url": "https://abc7.com/damn-daniel-viral-video-swatting-riverside-police-hoax/1214441/",
+                            "twitter:app:name:googleplay": "kabc",
+                            "medium": "website",
+                            "twitter:app:id:iphone": "405387506",
+                            "title": "Teen who posted viral 'Damn Daniel' video victim of swatting",
+                            "og:description": "The teenager who filmed the viral 'Damn Daniel' video and posted the clip on Twitter was the victim of a bogus emergency call that prompted police to swarm his family's Riverside home.",
+                            "twitter:creator": "@abc7",
+                            "twitter:image": "https://cdn.abcotvs.com/dip/images/1214506_022316-kabc-ie-damn-daniel-img.jpg?w=1600",
+                            "twitter:site": "@abc7",
+                            "article:modified_time": "2016-02-23T12:50:20Z",
+                            "og:type": "article",
+                            "twitter:title": "Teen who posted viral 'Damn Daniel' video victim of swatting",
+                            "article:section": "news",
+                            "og:title": "Teen who posted viral 'Damn Daniel' video victim of swatting",
+                            "fb:pages": "38245492451",
+                            "tags": "celebrity,viral-video,social-media,shooting,twitter,swatting,viral,snapchat",
+                            "fb:app_id": "1422894341291785",
+                            "viewport": "initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                            "twitter:description": "The teenager who filmed the viral 'Damn Daniel' video and posted the clip on Twitter was the victim of a bogus emergency call that prompted police to swarm his family's Riverside home.",
+                            "og:locale": "en_US",
+                            "og:url": "https://abc7.com/damn-daniel-viral-video-swatting-riverside-police-hoax/1214441/",
+                            "twitter:app:name:iphone": "kabc"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.abcotvs.com/dip/images/1214506_022316-kabc-ie-damn-daniel-img.jpg?w=1600"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Teen who posted viral 'Damn Daniel' video victim of swatting - ABC7 Los Angeles\n===============\n*   WEATHER ALERTDense Fog Advisory\n*   WEATHER ALERTFire Weather Watch\n* * *\nEDIT\nLog In\nLocal News\nCategories\nStation Info\nshows\nFollow Us:\nWelcome,\nManage MyDisney Account\nLog Out\nTeen who posted viral 'Damn Daniel' video victim of swatting\n============================================================\nTuesday, February 23, 2016\n!(blob:https://abc7.com/2fac3861d78e57572d62edf6f1d3fbe7)\nThe teenager who filmed the viral 'Damn Daniel' video and posted the clip on Twitter was the victim of a bogus emergency call that prompted police to swarm his family's Riverside home.\nRIVERSIDE, Calif. (KABC) -- The teenager who filmed the viral \"Damn Daniel\" video and posted the clip on Twitter was the victim of a bogus emergency call that prompted police to swarm his family's Riverside home.\nPolice responded around 1 a.m. Tuesday after they received reports that someone at a residence on Hamilton Drive had shot their mother with an AK-47.\n\"A person called Riverside Police Department dispatch center and used some kind of a voice modification device and reported that he had shot his mother,\" Riverside police Lt. Kevin Townsend said.\nThe family cooperated with authorities, at which point police searched the home, cleared the scene and determined it was a false report.\n\"Swatting\" refers to a prank in which someone convinces authorities to dispatch an emergency response for a fake incident. Many celebrities have been victims of swatting, including Lil Wayne, Justin Timberlake and Miley Cyrus.\nTownsend said they've responded to a few swatting incidents that are usually spurred by revenge.\n\"They tend to be, for us, revenge in some way. Once we're able to track down who made the call, it's someone trying to get back at someone, whether it be an ex or something like that but that's what it seems like -- exes or teenagers,\" Townsend said.\nThe \"Damn Daniel\" video, which features a teenager following his friend around saying, \"Damn, Daniel,\" has been retweeted...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "ABC7 is part of the ABC network, providing local news and weather updates. Its commitment to factual reporting and coverage of community issues gives it a solid reputation. Like any news organization, it can sometimes present sensational stories, but overall, it maintains high standards in journalism."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-02-23"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "This article reports that the teenager involved in the 'Damn Daniel' video was the victim of a swatting incident. Though relevant in terms of discussing risks associated with fame, it does not directly address the mugging claim and is quite vague in relevance compared to evidence0."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Twenty years since the kidnapping and murder of Danielle van Dam ...",
+                "htmlTitle": "Twenty years since the kidnapping and murder of Danielle van <b>Dam</b> ...",
+                "link": "https://www.cbs8.com/article/news/crime/twenty-years-since-kidnapping-murder-danielle-van-dam/509-d43a61fd-7d9e-44e0-aab2-a4a2fc2d4558",
+                "displayLink": "www.cbs8.com",
+                "snippet": "Feb 1, 2022 ... It's been 20 years since Danielle van Dam was taken from her bedroom in Sabre Springs, sexually assaulted and murdered by neighbor David\u00a0...",
+                "htmlSnippet": "Feb 1, 2022 <b>...</b> It&#39;s been 20 years since Danielle van <b>Dam</b> was taken from her bedroom in Sabre Springs, sexually <b>assaulted</b> and <b>murdered</b> by neighbor David&nbsp;...",
+                "formattedUrl": "https://www.cbs8.com/.../news/...danielle.../509-d43a61fd-7d9e-44e0-aab2-...",
+                "htmlFormattedUrl": "https://www.cbs8.com/.../<b>news</b>/...<b>daniel</b>le.../509-d43a61fd-7d9e-44e0-aab2-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNGKKRhD_Upv9I8EmjCOTkk-1jiYUhIe3k4TM9tXPeodJ4IJYPWUITEX4&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=1453202435",
+                            "og:image": "https://media.cbs8.com/assets/KFMB/images/b927d204-e5d2-4ad8-9fb3-020da971d836/b927d204-e5d2-4ad8-9fb3-020da971d836_1140x641.jpg",
+                            "theme-color": "#045ea8",
+                            "og:image:width": "1140",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "cbs8.com",
+                            "og:description": "7-year-old taken from her Sabre Springs bedroom by neighbor David Westerfield in 2002.",
+                            "twitter:image": "https://media.cbs8.com/assets/KFMB/images/b927d204-e5d2-4ad8-9fb3-020da971d836/b927d204-e5d2-4ad8-9fb3-020da971d836_1140x641.jpg",
+                            "twitter:site": "CBS8",
+                            "article:content_tier": "free",
+                            "og:type": "article",
+                            "article:section": "cbs8,news,crime,local,instagram",
+                            "twitter:title": "Twenty years since the kidnapping & murder of Danielle van Dam",
+                            "twitter:domain": "www.cbs8.com/",
+                            "og:title": "Twenty years since the kidnapping & murder of Danielle van Dam",
+                            "og:image:height": "641",
+                            "og:article:published_time": "2/1/2022 7:25:56 PM",
+                            "twitter:image:src": "https://media.cbs8.com/assets/KFMB/images/b927d204-e5d2-4ad8-9fb3-020da971d836/b927d204-e5d2-4ad8-9fb3-020da971d836_1140x641.jpg",
+                            "site": "cbs8.com",
+                            "fb:app_id": "408980509878433",
+                            "viewport": "width=device-width",
+                            "twitter:description": "7-year-old taken from her Sabre Springs bedroom by neighbor David Westerfield in 2002.",
+                            "og:locale": "en_US",
+                            "category": "news",
+                            "og:url": "https://www.cbs8.com/article/news/crime/twenty-years-since-kidnapping-murder-danielle-van-dam/509-d43a61fd-7d9e-44e0-aab2-a4a2fc2d4558",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cbs8.com/assets/KFMB/images/b927d204-e5d2-4ad8-9fb3-020da971d836/b927d204-e5d2-4ad8-9fb3-020da971d836_1140x641.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Next up in 5\nExample video title will go here for this video\nNext up in 5\nExample video title will go here for this video\n\n\n\n\nSAN DIEGO COUNTY, Calif. \u2014 It's been 20 years since Danielle van Dam was taken from her bedroom in Sabre Springs, sexually assaulted and murdered by neighbor David Westerfield.\nIt was a horrific crime that many San Diegan\u2019s will never forget. \u00a0\nDrivers recall the crime when they drive over the Danielle van Dam memorial overpass on Interstate 8 at 2nd Street in El Cajon.\n\u201cI think of Danielle van Dam and people see the sign and know the location where her body was found,\u201d said former San Diego County District Attorney, Paul Pfingst.\nPfingst remembers the day the 7-year-old's body was discovered off Dehesa Road, about five miles from the memorial overpass.\n\u201cI\u2019ve never in my career seen a case where someone has actually gone into a home, taken a child out of bed, and taken that child back to his home, sexually abused and taken the child away, killed the child, and dumped the body,\u201d said Pfingst.\nWesterfield already had been arraigned in court on kidnapping and murder charges, the day before Danielle\u2019s body was located by volunteer search teams.\u00a0\nThe discovery of the body meant there would be no plea bargain in the death penalty case. And, a plea deal was close, according to Pfingst.\n\u201cIt was minutes between the time that I was about to make a deal...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "CBS 8 is a CBS-owned television station that provides news coverage with a strong commitment to factual reporting in local and state matters. Their journalistic standards are generally high, making them a reliable source for breaking news and local updates."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2022-02-01"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This evidence does not mention anything related to 'Damn Daniel' or the allegations of robbery or mugging, and therefore does not contribute to answering the current question."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "WWE's \"IWC\" Gets Attacked By Me: One Man's Bashing Is Another ...",
+                "htmlTitle": "WWE&#39;s &quot;IWC&quot; Gets <b>Attacked</b> By Me: One Man&#39;s Bashing Is Another ...",
+                "link": "https://bleacherreport.com/articles/475665",
+                "displayLink": "bleacherreport.com",
+                "snippet": "Sep 28, 2010 ... Daniel Bryan, John Morrison, John Cena, The PG Era, and all of the horrible ideas many [of you] produce. Yeah, I'm that guy.",
+                "htmlSnippet": "Sep 28, 2010 <b>...</b> <b>Daniel</b> Bryan, John Morrison, John Cena, The PG Era, and all of the horrible ideas many [of you] produce. Yeah, I&#39;m that guy.",
+                "formattedUrl": "https://bleacherreport.com/articles/475665",
+                "htmlFormattedUrl": "https://bleacherreport.com/articles/475665",
+                "pagemap": {
+                    "imageobject": [
+                        {
+                            "contenturl": "https://media.bleacherreport.com/w_40,h_27,c_fill/br-img-images/001/037/316/trriiick_crop_north.png"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "p:domain_verify": "0c768466449ebb550411234d6d4ffc30",
+                            "twitter:app:id:googleplay": "com.bleacherreport.android.teamstream",
+                            "og:image": "https://cdn.bleacherreport.net/images_root/images/photos/001/037/316/trriiick_crop_358x238.png?1285661428",
+                            "twitter:app:url:iphone": "teamstream://article/bleacherreport.com/articles/475665-my-attack-on-the-iwc",
+                            "theme-color": "#000",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Bleacher Report",
+                            "twitter:url": "https://bleacherreport.com/articles/475665-my-attack-on-the-iwc",
+                            "twitter:app:url:ipad": "teamstream://article/bleacherreport.com/articles/475665-my-attack-on-the-iwc",
+                            "al:android:package": "com.bleacherreport.android.teamstream",
+                            "al:ipad:app_store_id": "484725748",
+                            "twitter:app:name:googleplay": "Bleacher Report",
+                            "twitter:app:id:iphone": "418075935",
+                            "og:description": "Daniel Bryan, John Morrison, John Cena, The PG Era, and all of the horrible ideas many [of you] produce. Yeah, I'm that guy.  Now, I&rsquo;d like to add that I am, by all matter of fact, a pretentious guy, even though I may not like to believe so, I am...",
+                            "article:publisher": "https://www.facebook.com/bleacherreport",
+                            "twitter:image": "https://cdn.bleacherreport.net/images_root/images/photos/001/037/316/trriiick_crop_358x238.png?1285661428",
+                            "al:iphone:app_name": "Bleacher Report",
+                            "twitter:site": "@bleacherreport",
+                            "pubdate": "2010-09-28T04:14:14-04:00",
+                            "og:type": "article",
+                            "thumbnail": "https://cdn.bleacherreport.net/images_root/images/photos/001/037/316/trriiick_crop_358x238.png?1285661428",
+                            "twitter:title": "WWE's \"IWC\" Gets Attacked By Me: One Man's Bashing Is Another Man's Insult",
+                            "msvalidate.01": "7A63840181953B2A5A1FEA25FB45A991",
+                            "author": "Ripper",
+                            "og:title": "WWE's \"IWC\" Gets Attacked By Me: One Man's Bashing Is Another Man's Insult",
+                            "twitter:app:id:ipad": "484725748",
+                            "twitter:widgets:new-embed-design": "on",
+                            "og:image:height": "630",
+                            "al:web:url": "https://bleacherreport.com/articles/475665-my-attack-on-the-iwc",
+                            "al:iphone:url": "teamstream://article/bleacherreport.com/articles/475665-my-attack-on-the-iwc",
+                            "al:android:url": "https://bleacherreport.com/articles/475665-my-attack-on-the-iwc",
+                            "aol-te-auth": "1c424580-0f86-4d9b-88b2-bc8c0d029d4c",
+                            "blitz": "mu-6e4ce5cd-57f20d11-7c0ecee9-d55c79e2",
+                            "fb:app_id": "135174055162",
+                            "twitter:app:url:googleplay": "https://bleacherreport.com/articles/475665-my-attack-on-the-iwc",
+                            "al:ipad:url": "teamstream://article/bleacherreport.com/articles/475665-my-attack-on-the-iwc",
+                            "twitter:app:name:ipad": "Bleacher Report",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Daniel Bryan, John Morrison, John Cena, The PG Era, and all of the horrible ideas many [of you] produce. Yeah, I'm that guy.  Now, I&rsquo;d like to add that I am, by all matter of fact, a pretentious guy, even though I may not like to believe so, I am...",
+                            "al:iphone:app_store_id": "418075935",
+                            "al:ipad:app_name": "Bleacher Report",
+                            "og:locale": "en_US",
+                            "og:url": "https://bleacherreport.com/articles/475665-my-attack-on-the-iwc",
+                            "al:android:app_name": "Bleacher Report",
+                            "twitter:app:name:iphone": "Bleacher Report"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "Home",
+                            "name": "Home",
+                            "position": "1"
+                        },
+                        {
+                            "item": "WWE",
+                            "name": "WWE",
+                            "position": "2"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "!\n!Daniel Bryan, John Morrison, John Cena, The PG Era, and all of the horrible ideas many \\ produce. Yeah, I'm that guy.\nNow, I\u2019d like to add that I am, by all matter of fact, a pretentious guy, even though I may not like to believe so, I am. I\u2019m going to try and start this article off without seeming bias at all for any reason you may think I am being biased.\nI\u2019m not a hater for the sake of hating, and I don\u2019t argue a point that I don\u2019t believe to be true, and I\u2019m also very open to everyone\u2019s point of view, but sometimes, what I read on here makes me say out loud, \u201cAre you serious?\u201d\n**Firstly, Daniel Bryan.**\nPlease, whomever, stop referring to him as Bryan Danielson (even though it does sound better, and it\u2019s also his real name) when in an article based off of what he does inside a WWE ring.\nA good example (only an example, so as to not criticize others B/R work) would be when writers write such things as: \u201cI\u2019m going to refer to him as Danielson for this article as I refuse to call him Daniel Bryan\u201d...why?\nWhy, not refer to Triple H as Paul Levesque? I,...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Bleacher Report is a sports news website that often contains opinion pieces and fan discussions. While it can provide entertaining content and some reliable sports news, its overall credibility varies because it sometimes prioritizes sensationalism and aggregation over investigative reporting."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2010-09-28"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This evidence focuses on a wrestling context and does not relate to 'Damn Daniel' or the allegations of mugging, making it irrelevant to the claim and question at hand."
+                }
+            }
+        }
+    ]
+}

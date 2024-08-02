@@ -1,0 +1,655 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Barry Goldwater campaign issues in 1964",
+                "totalResults": "216000",
+                "searchTerms": "Barry Goldwater campaign issues in 1964",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Barry Goldwater campaign issues in 1964",
+                "totalResults": "216000",
+                "searchTerms": "Barry Goldwater campaign issues in 1964",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.412836,
+        "formattedSearchTime": "0.41",
+        "totalResults": "216000",
+        "formattedTotalResults": "216,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "The Goldwater Campaign | The New Yorker",
+                "htmlTitle": "The <b>Goldwater Campaign</b> | The New Yorker",
+                "link": "https://www.newyorker.com/magazine/1964/10/03/the-campaign-goldwater",
+                "displayLink": "www.newyorker.com",
+                "snippet": "Richard H. Rovere on the 1964 Presidential campaign of Barry Goldwater.",
+                "htmlSnippet": "Richard H. Rovere on the <b>1964 Presidential campaign</b> of <b>Barry Goldwater</b>.",
+                "formattedUrl": "https://www.newyorker.com/magazine/1964/10/03/the-campaign-goldwater",
+                "htmlFormattedUrl": "https://www.newyorker.com/magazine/<b>1964</b>/10/03/the-<b>campaign</b>-<b>goldwater</b>",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT57mcKqPhZOxVL55IrRS2yWVSd_P6JmJuGzxn_zfHuhPs6gLzH9-SN_8Y&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.newyorker.com/photos/590976e7019dfc3494ea2da3/16:9/w_1280,c_limit/641003_r27973.jpg",
+                            "copyright": "Copyright (c) Cond\u00e9 Nast 2024",
+                            "article:published_time": "1964-09-26T00:00:00.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "The New Yorker",
+                            "parsely-metadata": "{\"description\":\"Richard H. Rovere on the 1964 Presidential campaign of Barry Goldwater.\",\"image-16-9\":\"https://media.newyorker.com/photos/590976e7019dfc3494ea2da3/16:9/w_1000,c_limit/641003_r27973.jpg\",\"image-1-1\":\"https://media.newyorker.com/photos/590976e7019dfc3494ea2da3/1:1/w_1000,c_limit/641003_r27973.jpg\"}",
+                            "og:description": "In the South, Barry Goldwater had made it possible for people to hold great rallies or carnivals of white supremacy.",
+                            "twitter:creator": "@NewYorker",
+                            "twitter:image": "https://media.newyorker.com/photos/590976e7019dfc3494ea2da3/16:9/w_1280,c_limit/641003_r27973.jpg?mbid=social_retweet",
+                            "msapplication-tap-highlight": "no",
+                            "twitter:site": "@NewYorker",
+                            "article:modified_time": "1964-09-26T00:00:00.000Z",
+                            "news_keywords": "airplanes,alabama,bass,campaigns,elections,goldwater,harry,jr.,mao tse-tung,martin,mccarthy,miller,montgomery,politicians,politics,presidential candidates,ross,stephen,the south,u.s. supreme court,walter",
+                            "content-type": "article",
+                            "article:content_tier": "free",
+                            "id": "5911c8cde168895225c1e410",
+                            "og:type": "article",
+                            "article:section": "tags",
+                            "twitter:title": "The Goldwater Campaign",
+                            "parsely-post-id": "5911c8cde168895225c1e410",
+                            "twitter:domain": "https://www.newyorker.com",
+                            "pinterest:image": "https://media.newyorker.com/photos/590976e7019dfc3494ea2da3/2:3/w_1000,h_1500,c_limit/641003_r27973.jpg",
+                            "author": "Cond\u00e9 Nast",
+                            "og:title": "The Goldwater Campaign",
+                            "fb:pages": "9258148868",
+                            "article:author": "Richard H. Rovere",
+                            "fb:app_id": "1147169538698836",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "In the South, Barry Goldwater had made it possible for people to hold great rallies or carnivals of white supremacy.",
+                            "og:url": "https://www.newyorker.com/magazine/1964/10/03/the-campaign-goldwater",
+                            "google-signin-client_id": "275906274807-b4eqbdqr511u9msdpj8mh0pf77fcciv7.apps.googleusercontent.com",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.newyorker.com/photos/590976e7019dfc3494ea2da3/16:9/w_1280,c_limit/641003_r27973.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... in listening, and most candidates nowadays give the live audience their material presence and direct their words to radio and television audiences and to readers of newspapers. But in this, as in so many other matters, things have always been a bit different in the South. Its masses have always relished strong, vivid political rhetoric. They will travel long distances to hear it, and\u2014other things being equal, or even a little unequal\u2014will reward eloquence at the polls. Goldwater nowhere attempted to satisfy the Southern appetite for language. The lines he got from his writers were as flat as his delivery of them. Even when the substance was inflammatory, the form was soporific\u2014statistics on crime, discussions of previously unheard-of Supreme Court rulings and internal-security cases, arguments over the relative merits of defense contractors. But this rarely dampened the enthusiasm that the crowds had brought with them to the gatherings. The quality of this enthusiasm, one felt, was essentially non-political. These were not really _political_ rallies\u2014they were revels, they were pageants, they were celebrations. The aim of the revellers was not so much to advance a candidacy or a cause as to dramatize a mood, and the mood was a kind of joyful defiance, or defiant joy. By coming South, Barry Goldwater had made it possible for great numbers of unapologetic white supremacists to hold great carnivals of white supremacy. They were not troubled in the least over whether this would hurt the Republican Party in the rest of the country. They wanted to make\u2014for their own satisfaction, if for no one else\u2019s\u2014a display of the fact that they had found and were enjoying membership in one organization that was secure against integration, because it had made itself secure against Negro aspirations; as long as they could put on shows of this kind, no Negro would ever want in. By far the most memorable of the shows was staged in Cramton Bowl, in Montgomery, Alabama, on the second night of Goldwater\u2019s tour. Some unsung Alabama Republican impresario had hit upon an idea of breathtaking simplicity: to show the country the \u201clily-white\u201d character of Republicanism in Dixie by planting the bowl with a great field of white lilies\u2014living lilies, in perfect bloom and gorgeously arrayed. The night was soft; the stars and the moon were bright; the grass in the bowl was impossibly green, as if it were growing out of something far richer than dirt; the stadium lights did not destroy the colors and shadows of evening yet illuminated the turf so well that individual blades of grass could be seen. And...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The New Yorker is a reputable magazine known for its in-depth reporting and critical essays. It is recognized for high-quality journalism and often provides thorough analysis and fact-checking. While some may debate its political leanings, the overall commitment to credibility and investigative journalism gives it a high score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "1964-09-26"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This article discusses Barry Goldwater's presidential campaign, shedding light on his messaging and political strategies. It touches on the campaigns\u2019 context, including the rhetoric that appealed to certain audience sentiments which may connect to themes from the 2016 GOP debates. However, it doesn't directly relate to the specific claims of the campaign ad shown in the video, thus the score is moderate."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "A Time for Choosing Speech, October 27, 1964 | Ronald Reagan",
+                "htmlTitle": "A Time for Choosing Speech, October 27, <b>1964</b> | Ronald Reagan",
+                "link": "https://www.reaganlibrary.gov/reagans/ronald-reagan/time-choosing-speech-october-27-1964",
+                "displayLink": "www.reaganlibrary.gov",
+                "snippet": "During the 1964 Presidential campaign, Republican party officials in California, who knew Reagan's powerful message and delivery, asked him to film a speech on\u00a0...",
+                "htmlSnippet": "During the <b>1964 Presidential campaign</b>, Republican party officials in California, who knew Reagan&#39;s powerful message and delivery, asked him to film a speech on&nbsp;...",
+                "formattedUrl": "https://www.reaganlibrary.gov/.../time-choosing-speech-october-27-1964",
+                "htmlFormattedUrl": "https://www.reaganlibrary.gov/.../time-choosing-speech-october-27-<b>1964</b>",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:site_name": "Ronald Reagan",
+                            "handheldfriendly": "true",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:title": "A Time for Choosing Speech, October 27, 1964",
+                            "mobileoptimized": "width",
+                            "og:url": "https://www.reaganlibrary.gov/reagans/ronald-reagan/time-choosing-speech-october-27-1964"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\u00a0\nMuseum Hours\nMon - Sun 10am - 5 pm\nResearch Room Hours\nMon - Fri 9am - 5pm\nBy Appointment Only\n\u00a0\nAdmissions & Discounts\u00a0for March 15, 2024- September 8, 2024\n*Active military/veterans need to purchase tickets at the Front Desk to receive discount. Discounts apply to military member only.\n*All Veterans (with a valid military ID) receive $3 off admission when purchased in-person at the Library.\u00a0\n\"The Speech\" is what Ronald Reagan called it. Today we call it, \"A Time for Choosing,\" and it was a pivotal turning point in Ronald Reagan's life. \nRonald Reagan began a long side-career of public speaking as his acting career closed out.  He traveled across the country meeting Lions Clubs, Rotary Clubs, Chambers of Commerce and any other civic-minded local groups.  This continued and intensified during his service as the General Electric spokesperson while hosting their sponsored television series.  \"The Speech\" was delivered in various forms and to different audiences as each word was honed, measured and memorized. \nDuring the 1964 Presidential campaign, Republican party officials in California, who knew Reagan's powerful message and delivery, asked him to film a speech on behalf of the Republican candidate, Barry Goldwater.   The speech was aired on October 27, 1964 and it was electrifying. Donations to the Republican party and candidates increased dramatically. \nThe Republican Party took note and they targeted Reagan as a candidate from that point forward. He agreed in 1966 to run for Governor of California. He won two terms, and eventually won the Presidency. \nYou may watch the speech on our YouTube channel.\nTranscript of \"A Time for Choosing,\" delivered on national television on October 27, 1964\nThank you. Thank you very much. Thank you and good evening. The sponsor has been identified, but unlike most television programs, the performer hasn't been provided with a script. As a matter of fact, I have been permitted to choose my own words and discuss my own ideas regarding the choice that we face in the next few weeks.I have spent most of my life as a Democrat. I recently have seen fit to follow another course. I believe that the issues confronting us cross party lines. Now, one side in this campaign has been telling us that the issues of this election are the maintenance of peace and prosperity. The line has been used,...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Ronald Reagan Presidential Library is a government site that preserves and provides access to archival materials related to President Reagan's administration. As a federal repository, its material is reliable and factual. However, as a presidential library, it may emphasize a specific perspective aligned with Reagan's policies."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This source discusses Ronald Reagan's pivotal speech during the 1964 campaign for Goldwater. While it provides insight into Goldwater's campaign and the style of political messaging at that time, it does not directly align with the specific campaign ad nor does it distinctly echo the sentiments in the GOP debates of 2016. The connection is tenuous, justifying a mid-range score."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "United States presidential election of 1964 | LBJ vs. Goldwater ...",
+                "htmlTitle": "United States <b>presidential election</b> of <b>1964</b> | LBJ vs. <b>Goldwater</b> ...",
+                "link": "https://www.britannica.com/event/United-States-presidential-election-of-1964",
+                "displayLink": "www.britannica.com",
+                "snippet": "Lyndon B. Johnson defeated Republican Barry Goldwater in one of the largest landslides in U.S. history. At a glance: the election of 1964. Image. 1964. Election\u00a0...",
+                "htmlSnippet": "Lyndon B. Johnson defeated Republican <b>Barry Goldwater</b> in one of the largest landslides in U.S. history. At a glance: the <b>election</b> of <b>1964</b>. Image. <b>1964</b>. <b>Election</b>&nbsp;...",
+                "formattedUrl": "https://www.britannica.com/.../United-States-presidential-election-of-1964",
+                "htmlFormattedUrl": "https://www.britannica.com/.../United-States-presidential-election-of-<b>1964</b>",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJfIF8hMZTlvp4tnHEMITNTXrIkswPyLkmhIzc_4hTy7LBPf16ymkuTXQ&s",
+                            "width": "256",
+                            "height": "197"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cdn.britannica.com/55/66755-050-C2567882/Lyndon-B-Johnson-Jacqueline-Kennedy-oath-Lady-November-22-1963.jpg",
+                            "twitter:card": "summary_large_image",
+                            "og:type": "ARTICLE",
+                            "og:site_name": "Encyclopedia Britannica",
+                            "og:title": "United States presidential election of 1964 | LBJ vs. Goldwater, Campaigns, Voter Turnout, & Results",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "United States presidential election of 1964 was an American presidential election held on November 3, 1964, in which Democratic Pres. Lyndon B. Johnson defeated Republican Barry Goldwater in one of the largest landslides in U.S. history.",
+                            "twitter:image": "https://cdn.britannica.com/55/66755-050-C2567882/Lyndon-B-Johnson-Jacqueline-Kennedy-oath-Lady-November-22-1963.jpg",
+                            "fb:app_id": "1887621861548296",
+                            "twitter:site": "@britannica",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "United States presidential election of 1964 was an American presidential election held on November 3, 1964, in which Democratic Pres. Lyndon B. Johnson defeated Republican Barry Goldwater in one of the largest landslides in U.S. history.",
+                            "og:url": "https://www.britannica.com/event/United-States-presidential-election-of-1964"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.britannica.com/55/66755-050-C2567882/Lyndon-B-Johnson-Jacqueline-Kennedy-oath-Lady-November-22-1963.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Our editors will review what you\u2019ve submitted and determine whether to revise the article.\nOur editors will review what you\u2019ve submitted and determine whether to revise the article.\nUnited States presidential election of 1964,  American presidential election held on November 3, 1964, in which Democratic Pres. Lyndon B. Johnson defeated Republican Barry Goldwater in one of the largest landslides in U.S. history.\nThe 1964 election occurred just less than one year after the assassination of Pres. John F. Kennedy in Dallas. Johnson, Kennedy\u2019s vice president, was quickly sworn in, and in the subsequent days Kennedy\u2019s presumed assassin, Lee Harvey Oswald, was murdered. To American and foreign observers alike, this created a disturbing image of disorder and violence in the United States. In the tempestuous days after the assassination, Johnson helped to calm national hysteria and ensure continuity in the presidency. On November 27 he addressed a joint session of Congress and, invoking the memory of the martyred president, urged the passage of Kennedy\u2019s legislative agenda, which had been stalled in congressional committees. Johnson placed greatest importance on Kennedy\u2019s civil rights bill, which became the focus of his efforts during the first months of his presidency.\nCentral to the 1964 campaign was race relations, particularly with the passage of the landmark Civil Rights Act of 1964, which Johnson signed into law in July and which was intended to end discrimination based on race, color, religion, or national origin. For most of the period since the end of the American Civil War in 1865, the Democratic Party dominated what came to be known...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 10,
+                    "justification": "Encyclopaedia Britannica is widely regarded as a highly reliable source of knowledge with a rigorous editorial process. It is known for its accuracy, objectivity, and comprehensive coverage of historical and contemporary topics, making it an excellent resource for fact-checking and research."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This evidence talks about the context of the 1964 presidential election, including the significant defeat of Goldwater and links to socio-political themes like race relations \u2013 issues that were also prominent in the 2016 GOP landscape. While relevant, it doesn\u2019t explicitly analyze the ad in question or draw direct comparisons to the debates, hence a somewhat high score instead of maximum."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Address on Behalf of Senator Barry Goldwater: \"A Time for Choosing ...",
+                "htmlTitle": "Address on Behalf of Senator <b>Barry Goldwater</b>: &quot;A Time for Choosing ...",
+                "link": "https://www.presidency.ucsb.edu/documents/address-behalf-senator-barry-goldwater-time-for-choosing",
+                "displayLink": "www.presidency.ucsb.edu",
+                "snippet": "Now, one side in this campaign has been telling us that the issues of this election are the maintenance of peace and prosperity. The line has been used \"We\u00a0...",
+                "htmlSnippet": "Now, one side in this <b>campaign</b> has been telling us that the <b>issues</b> of this <b>election</b> are the maintenance of peace and prosperity. The line has been used &quot;We&nbsp;...",
+                "formattedUrl": "https://www.presidency.ucsb.edu/.../address-behalf-senator-barry-goldwater...",
+                "htmlFormattedUrl": "https://www.presidency.ucsb.edu/.../address-behalf-senator-<b>barry</b>-<b>goldwater</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT7ZX06BlWnaiYvbehQZqt7R3qchvIyGb8jYbbPIM1O0LyQnuVsN0u5Pw&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "Item": [
+                        {
+                            "date": "1964-10-27T00:00:00+00:00"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1.0"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.ytimg.com/vi/qXBswFfh6AY/maxresdefault.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "About\u00a0Search\n\nThank you very much. Thank you and good evening. The sponsor has been identified, but unlike most television programs, the performer hasn't been provided with a script. As a matter of fact, I have been permitted to choose my own ideas regarding the choice that we face in the next few weeks.\nI have spent most of my life as a Democrat. I recently have seen fit to follow another course. I believe that the issues confronting us cross party lines. Now, one side in this campaign has been telling us that the issues of this election are the maintenance of peace and prosperity. The line has been used \"We've never had it so good.\"\nBut I have an uncomfortable feeling that this prosperity isn't something on which we can base our hopes for the future. No nation in history has ever survived a tax burden that reached a third of its national income. Today, 37 cents of every dollar earned in this country is the tax collector's share, and yet our government continues to spend $17 million a day more than the government takes in. We haven't balanced our budget 28 out of the last 34 years. We have raised our debt limit three times in the last twelve months, and now our national debt is one and a half times bigger than all the combined debts of all the nations in the world. We have $15 billion in gold in our treasury--we don't own an ounce. Foreign dollar claims are $27.3 billion, and we have just had announced that the dollar of 1939 will now purchase 45 cents in its total value.\nAs for the peace that we would preserve, I wonder who among us would like to approach the wife or mother whose husband or son has died in South Vietnam and ask them if they think this is a peace that should be maintained indefinitely. Do they mean...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The American Presidency Project at UCSB provides a comprehensive collection of documents related to the presidency, including campaign ads, speeches, and executive orders. It is a valuable resource for historical accuracy regarding presidential history and has a strong reputation among academics."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This evidence presents an iconic speech that focuses on thematic elements of Goldwater\u2019s campaign but lacks a direct connection to the video\u2019s content or the claim regarding Republican voter sentiments in the 2016 debates. Its relevance to the question is limited, resulting in a lower score."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "LBJ Fights the White Backlash | National Archives",
+                "htmlTitle": "LBJ Fights the White Backlash | National Archives",
+                "link": "https://www.archives.gov/publications/prologue/2001/spring/lbj-and-white-backlash-1",
+                "displayLink": "www.archives.gov",
+                "snippet": "The Racial Politics of the 1964 Presidential Campaign Spring 2001, Vol. 33, No. 1 By Jeremy D. Mayer \u00a9 2001 by Jeremy D. Mayer \"If we have to get elected on\u00a0...",
+                "htmlSnippet": "The Racial Politics of the <b>1964 Presidential Campaign</b> Spring 2001, Vol. 33, No. 1 By Jeremy D. Mayer \u00a9 2001 by Jeremy D. Mayer &quot;If we have to get <b>elected</b> on&nbsp;...",
+                "formattedUrl": "https://www.archives.gov/publications/prologue/.../lbj-and-white-backlash-...",
+                "htmlFormattedUrl": "https://www.archives.gov/publications/prologue/.../lbj-and-white-backlash-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhY5YQbczNi29Fb5ysR3jKEfYlQaTBdQFGr4aWx9Apz3g9uFpxT3Hlgos&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.archives.gov/sites/all/themes/nara/images/naralogo-og.png",
+                            "og:type": "article",
+                            "og:image:alt": "National Archives",
+                            "twitter:card": "summary",
+                            "twitter:title": "LBJ Fights the White Backlash",
+                            "article:published_time": "2016-08-15T17:40:14-04:00",
+                            "og:site_name": "National Archives",
+                            "og:title": "LBJ Fights the White Backlash",
+                            "og:updated_time": "2022-11-08T15:31:12-05:00",
+                            "og:description": "The Racial Politics of the 1964 Presidential Campaign Spring 2001, Vol. 33, No. 1 By Jeremy D. Mayer \u00a9 2001 by Jeremy D. Mayer \"If we have to get elected on civil rights, then we're already defeated . . . unless we can get the campaign on some other basis, why it is just going to be agonizing.\" - Lyndon B. Johnson, July 24, 1964(1) The 1964 Democratic Convention in Atlantic City, NJ. (NARA, Lyndon Baines Johnson Library) It was the summer of 1964, and Lyndon Johnson was scared.",
+                            "twitter:image": "https://www.archives.gov/sites/all/themes/nara/images/naralogo-x.png",
+                            "referrer": "no-referrer-when-downgrade",
+                            "twitter:image:alt": "National Archives",
+                            "article:modified_time": "2022-11-08T15:31:12-05:00",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "The Racial Politics of the 1964 Presidential Campaign Spring 2001, Vol. 33, No. 1 By Jeremy D. Mayer \u00a9 2001 by Jeremy D. Mayer \"If we have to get elected on civil rights, then we're already defeated",
+                            "og:url": "https://www.archives.gov/publications/prologue/2001/spring/lbj-and-white-backlash-1"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.archives.gov/sites/all/themes/nara/images/naralogo-og.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The Racial Politics of the 1964 Presidential Campaign\n-----------------------------------------------------\nSpring 2001, Vol. 33, No. 1\n### _By Jeremy D. Mayer_\n\u00a9 2001 by Jeremy D. Mayer\n> _\"If we have to get elected on civil rights, then we're already defeated .\u00a0.\u00a0. unless we can get the campaign on some other basis, why it is just going to be agonizing.\"_  \n> \\- Lyndon B. Johnson, July 24, 1964()\nIt was the summer of 1964, and Lyndon Johnson was scared. Having just achieved one of the greatest congressional victories in history by passing the Civil Rights Act (CRA) over the strident objections of his native South, Johnson was now confronted by black riots in several urban centers. He feared that his Republican opponent, Barry Goldwater, would exploit the racial turmoil by appealing to the white backlash. The riots were even labeled \"Goldwater rallies\" since the conflagrations helped the GOP so directly. Would racial politics cost LBJ the White House?\nBoth Johnson and Goldwater would face several tests of their character in the long election season of 1964, tests involving the CRA, urban riots, the George Wallace candidacy, and the white backlash. The election of 1964 is considered by many to be the...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 10,
+                    "justification": "The National Archives and Records Administration is the authoritative source for U.S. government documents, historical records, and public archival resources. Its commitment to preserving and providing access to true historical records earns it a perfect score in reliability and accuracy."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-08-15"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This source covers Johnson's concerns regarding Goldwater's racially charged politics, which echoes some themes discussed in the video. It posits a context during the Goldwater campaign that is reflective of divisions and crises which can be compared to the 2016 GOP discussions. This relevance brings the score to a medium-high rating."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "How Barry Goldwater Brought the Far Right to Center Stage in the ...",
+                "htmlTitle": "How <b>Barry Goldwater</b> Brought the Far Right to Center Stage in the ...",
+                "link": "https://www.history.com/news/barry-goldwater-1964-campaign-right-wing-republican",
+                "displayLink": "www.history.com",
+                "snippet": "Oct 20, 2020 ... When the far-right Arizona Senator Barry Goldwater ran for the American presidency in 1964, he never even pretended to woo voters in the\u00a0...",
+                "htmlSnippet": "Oct 20, 2020 <b>...</b> When the far-right Arizona Senator <b>Barry Goldwater</b> ran for the American presidency in <b>1964</b>, he never even pretended to woo voters in the&nbsp;...",
+                "formattedUrl": "https://www.history.com/.../barry-goldwater-1964-campaign-right-wing-re...",
+                "htmlFormattedUrl": "https://www.history.com/.../<b>barry</b>-<b>goldwater</b>-<b>1964</b>-<b>campaign</b>-right-wing-re...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm1uKM_JcuA-HGyM6Zgihrs3tR3IUYU7fWwNzJgw3UbuOmE65q3wqNj7U&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "xfn": [
+                        {}
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#1d428a",
+                            "og:image": "https://assets.editorial.aetnd.com/uploads/2020/10/goldwater-gettyimages-50370312.jpg",
+                            "theme-color": "#000000",
+                            "og:type": "article",
+                            "og:image:width": "1920",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "HISTORY",
+                            "og:date": "2020-10-20T21:01:00",
+                            "og:title": "How Barry Goldwater Brought the Far Right to Center Stage in the 1964 Presidential Race | HISTORY",
+                            "og:image:height": "1080",
+                            "og:description": "Despite a landslide loss, the Arizona Republican ignited his party's ultra-conservative wing for decades to come.",
+                            "og:image:secure_url": "https://assets.editorial.aetnd.com/uploads/2020/10/goldwater-gettyimages-50370312.jpg",
+                            "twitter:image": "https://assets.editorial.aetnd.com/uploads/2020/10/goldwater-gettyimages-50370312.jpg?width=800&height=400&crop=1&w=800&h=400&q=100",
+                            "next-head-count": "29",
+                            "article-author": "Suzanne McGee",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Despite a landslide loss, the Arizona Republican ignited his party's ultra-conservative wing for decades to come.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.history.com/news/barry-goldwater-1964-campaign-right-wing-republican"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://assets.editorial.aetnd.com/uploads/2020/10/goldwater-gettyimages-50370312.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "By: Suzanne McGee\nUpdated: February 26, 2024  | Original: October 20, 2020\nWhen the far-right Arizona Senator Barry Goldwater ran for the American presidency in 1964, he never even pretended to woo voters in the political center. \u201cExtremism in the defense of liberty is no vice,\u201d declared Goldwater in his speech accepting the Republican Party\u2019s nomination at its 1964 convention. \u201cAnd\u2026moderation in the pursuit of justice is no virtue.\u201d\nThat fall, incumbent Democrat Lyndon B. Johnson crushed Goldwater in a historic landslide, carrying more than 60 percent of the vote. Goldwater won only his home state and five deep South states that had long leaned Democratic, but were struggling with the party\u2019s actions supporting civil rights.\nGoldwater was, without doubt, a divisive figure: Democratic detractors like Martin Luther King. Jr.\u00a0and then-California Governor Pat Brown had compared his blunt, pull-no-punches rhetoric to Hitler. Within his own party, moderates responded with varying degrees of dismay or horror to his policies. On the eve of the 1964 GOP convention, the Republican governor of Pennsylvania, William Scranton, publicly released a letter he had written to Goldwater decrying the latter\u2019s \u201ccrazy quilt\u201d of \u201cdangerous positions,\u201d including his casual attitude toward the use of nuclear weapons. \nBut while his own bid for the White House flamed out, the embers...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "History.com is maintained by A&E Television Networks and provides a wide range of historical content. While it is generally reliable, some articles may be simplified for general consumption, which can lead to occasional oversights in nuance. Nonetheless, it remains a popular and useful resource for historical knowledge."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2020-10-20"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This evidence focuses on Goldwater's attempts to solidify far-right ideologies within the Republican Party. It discusses political extremism, echoing similar sentiments seen in the GOP debates in 2016. This correlation provides valuable context to assess the claim and the video, resulting in a higher score."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Barry Goldwater \u2014 The Most Consequential Loser Of The 20th ...",
+                "htmlTitle": "<b>Barry Goldwater</b> \u2014 The Most Consequential Loser Of The 20th ...",
+                "link": "https://www.heritage.org/conservatism/commentary/barry-goldwater-the-most-consequential-loser-the-20th-century",
+                "displayLink": "www.heritage.org",
+                "snippet": "Jul 18, 2019 ... In the summer of 1964, presidential candidate Barry Goldwater delivered the most controversial speech in the history of national political\u00a0...",
+                "htmlSnippet": "Jul 18, 2019 <b>...</b> In the summer of <b>1964</b>, <b>presidential candidate Barry Goldwater</b> delivered the most controversial speech in the history of national <b>political</b>&nbsp;...",
+                "formattedUrl": "https://www.heritage.org/.../barry-goldwater-the-most-consequential-loser-t...",
+                "htmlFormattedUrl": "https://www.heritage.org/.../<b>barry</b>-<b>goldwater</b>-the-most-consequential-loser-t...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFLLSUiJdFbCeHoM2d2xY5fW7jE3pkBNPW1h7UA1OX7oqtuam86wfd2xc1&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.heritage.org/sites/default/files/styles/facebook_optimized/public/images/2019-07/GettyImages-515572010.jpg?itok=6dNyrye-",
+                            "twitter:card": "summary",
+                            "issue-title": "Conservatism",
+                            "theme-color": "#ffffff",
+                            "og:site_name": "The Heritage Foundation",
+                            "og:description": "In the summer of 1964, presidential candidate Barry Goldwater delivered the most controversial speech in the history of national political conventions when he accepted the Republican presidential nomination. \u201cMr. Goldwater flung down a challenge with his \u2018extremism is no vice\u2019 statement in his acceptance speech,\u201d the New York Times reported. \u201cMy god,\u201d exclaimed one reporter, \u201che\u2019s going to campaign as Barry Goldwater.\u201d",
+                            "twitter:creator": "@heritage",
+                            "twitter:image": "https://www.heritage.org/sites/default/files/styles/facebook_optimized/public/images/2019-07/GettyImages-515572010.jpg?itok=6dNyrye-",
+                            "twitter:site": "@heritage",
+                            "category-name": "Political Thought",
+                            "og:type": "commentary",
+                            "twitter:title": "Barry Goldwater \u2014 The Most Consequential Loser Of The 20th Century | The Heritage Foundation",
+                            "handheldfriendly": "true",
+                            "issue": "23202",
+                            "author": "Lee Edwards",
+                            "og:title": "Barry Goldwater \u2014 The Most Consequential Loser Of The 20th Century",
+                            "abstract": "In the summer of 1964, presidential candidate Barry Goldwater delivered the most controversial speech in the history of national political conventions when he accepted the Republican presidential nomination. \u201cMr. Goldwater flung down a challenge with his \u2018extremism is no vice\u2019 statement in his acceptance speech,\u201d the New York Times reported. \u201cMy god,\u201d exclaimed one reporter, \u201che\u2019s going to campaign as Barry Goldwater.\u201d",
+                            "fb:pages": "300341323465160",
+                            "referrer": "origin",
+                            "fb:app_id": "380768468969117",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "In the summer of 1964, presidential candidate Barry Goldwater delivered the most controversial speech in the history of national political conventions when he accepted the Republican presidential nomination. \u201cMr. Goldwater flung down a challenge with his \u2018extremism is no vice\u2019 statement in his acceptance speech,\u201d the New York Times reported. \u201cMy god,\u201d exclaimed one reporter, \u201che\u2019s going to campaign as Barry Goldwater.\u201d",
+                            "mobileoptimized": "width",
+                            "og:locale": "en_US",
+                            "category": "35"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.heritage.org/sites/default/files/styles/facebook_optimized/public/images/2019-07/GettyImages-515572010.jpg?itok=6dNyrye-"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "In the summer of 1964, presidential candidate Barry Goldwater delivered the most controversial speech in the history of national political conventions when he accepted the Republican presidential nomination. \u201cMr. Goldwater flung down a challenge with his \u2018extremism is no vice\u2019 statement in his acceptance speech,\u201d the New York Times reported.\n\u201cMy god,\u201d exclaimed one reporter, \u201che\u2019s going to campaign as Barry Goldwater.\u201d\nThe reaction was swift and brutal. New York Gov. Nelson Rockefeller, Goldwater\u2019s principal and very liberal rival for the Republican nomination, called the statement \u201cdangerous, irresponsible, and frightening.\u201d Martin Luther King, Jr., saw \u201cdangerous signs of Hitlerism\u201d in Goldwater\u2019s programs. NAACP secretary Roy Wilkins said a Goldwater victory \u201cwould lead to a police state.\u201d Six weeks later, at the Democratic national convention, President Lyndon Johnson condemned what he called the tactics of \u201cfear and smear\u201d and warned the electorate about the danger of voting for an \u201cextremist.\u201d\nOnly, Goldwater did not say \u201cExtremism is no vice\u201d but, rather, \u201cExtremism in the defense of liberty is no vice.\u201d The all-important qualifying phrase, \u201cin the defense of liberty,\u201d was ignored or excised by Goldwater\u2019s opponents and the media. People only heard, or thought they heard, \u201cExtremism is no vice...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "The Heritage Foundation is a conservative think tank that produces research and policy analyses. While it provides valuable insights into conservative viewpoints, its articles can reflect a particular ideology. Thus, while credible, it may need to be balanced with other perspectives for comprehensive understanding."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2019-07-18"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This discusses Goldwater's controversial position and statements during his campaign. It highlights the socio-political tension of the time, relevant to both the 1964 election and modern GOP sentiments. Its connection to core themes allows for a slightly elevated score, though it still lacks a direct comparison to the ad."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Barry Goldwater of Arizona - U.S. Senate",
+                "htmlTitle": "Barry Goldwater of Arizona - U.S. Senate",
+                "link": "https://www.senate.gov/artandhistory/history/minute/barry_goldwater_of_arizona.htm",
+                "displayLink": "www.senate.gov",
+                "snippet": "As senator, Goldwater proposed a new\u2014some said radical\u2014political agenda. \"He preached the cause of modern conservatism,\" wrote one biographer, which emphasized\u00a0...",
+                "htmlSnippet": "As senator, <b>Goldwater</b> proposed a new\u2014some said radical\u2014<b>political</b> agenda. &quot;He preached the cause of modern conservatism,&quot; wrote one biographer, which emphasized&nbsp;...",
+                "formattedUrl": "https://www.senate.gov/artandhistory/.../barry_goldwater_of_arizona.htm",
+                "htmlFormattedUrl": "https://www.senate.gov/artandhistory/.../<b>barry</b>_<b>goldwater</b>_of_arizona.htm",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiampixAIioB0BblwofBU86RkbnGIaxWIxD3Ip6kmiWO8xYolrRIZHmg&s",
+                            "width": "350",
+                            "height": "104"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "date": "Friday, September 8, 2023",
+                            "bucket": "history",
+                            "path": "/Company Home/Sites/senategov/documentLibrary/Senate.gov/artandhistory/history/minute",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "time": "3:25:47 PM EDT",
+                            "version": "17.1",
+                            "object": "barry_goldwater_of_arizona.xml"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.senate.gov/resources/images/senate_logo.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "January 1, 1909\n\n\n\n\n\n\nBarry Goldwater was born in Arizona on New Year\u2019s Day 1909, three years before Arizona became a state. He loved exploring its rugged landscape, often piloting his own plane and always carrying a camera. He considered a military career, but his father\u2019s poor health forced him into the family business, Goldwater\u2019s Department Store. By the late 1940s he turned his attention to politics, winning a seat on the Phoenix City Council in 1949. \nSoon, Goldwater was tackling bigger political challenges. In 1952 he defeated the popular incumbent senator Ernest McFarland, who happened to be the Senate\u2019s Democratic majority leader. As senator, Goldwater proposed a new\u2014some said radical\u2014political agenda. \"He preached the cause of modern conservatism,\" wrote one biographer, which emphasized \u201cindividualism, the sanctity of private property\u2026 anticommunism, and the dangers of centralized power.\u201d Before long, the freshman senator moved into the ranks of leadership, becoming chair of the Republican Campaign Committee in 1955.\nIn 1960, with publication of The Conscience of a Conservative, Barry Goldwater became the leader of a national movement. Written with speechwriter Brent Bozell, the book was a statement of Goldwater's political creed. In chapters that focused on issues such as civil rights, labor relations, and the welfare state, Goldwater called for the \u201cutmost vigilance and care...to keep political power within its proper bounds.\u201d The national media largely dismissed the book, but Goldwater\u2019s vision quickly gained an audience and the book became a best-seller. Today, it is considered a landmark in the development of modern conservatism. \nIn January 1964 Goldwater announced his candidacy for president, facing strong competition within his own party. He lost five of the first six primaries to Henry Cabot Lodge, Jr., but...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The official U.S. Senate website is a primary source for legislative information, including bills, voting records, and press releases from Senators. As a government website, it is highly credible; however, it may emit partisan tones depending on the current majority and the involvement of senators."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This source provides background on Goldwater's political ideology and campaign but does not relate closely to the specific content of the ad or its relevance in the context of the GOP disputes in 2016. The score is justified by its more generic political history commentary."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "1964 | Presidential campaigns | Multnomah County",
+                "htmlTitle": "<b>1964</b> | <b>Presidential campaigns</b> | Multnomah County",
+                "link": "https://www.multco.us/northwest-wing-exhibition/1964-presidential-campaigns",
+                "displayLink": "www.multco.us",
+                "snippet": "Lyndon Johnson, Barry Goldwater, and Hubert Humphrey visit Multnomah County in the lead-up to the 1964 presidential election.",
+                "htmlSnippet": "Lyndon Johnson, <b>Barry Goldwater</b>, and Hubert Humphrey visit Multnomah County in the lead-up to the <b>1964 presidential election</b>.",
+                "formattedUrl": "https://www.multco.us/northwest-wing.../1964-presidential-campaigns",
+                "htmlFormattedUrl": "https://www.multco.us/northwest-wing.../<b>1964</b>-presidential-<b>campaign</b>s",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf5IH1nsJiH4dN_C4HSQsDQFCODjSceC6ZY-qurT-_6anYEqzf_o2Rblik&s",
+                            "width": "197",
+                            "height": "256"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/940_wide/s3/Johnson_crop_0.jpg?itok=2904eezd",
+                            "og:type": "government",
+                            "og:image:width": "650",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "1964 | Presidential campaigns",
+                            "article:published_time": "2021-07-15T15:27:03-07:00",
+                            "og:site_name": "Multnomah County",
+                            "twitter:url": "https://www.multco.us/northwest-wing-exhibition/1964-presidential-campaigns",
+                            "og:title": "1964 | Presidential campaigns",
+                            "og:image:height": "366",
+                            "twitter:image:height": "366",
+                            "og:updated_time": "2024-05-23T17:17:15-07:00",
+                            "og:description": "Lyndon Johnson, Barry Goldwater, and Hubert Humphrey visit Multnomah County in the lead-up to the 1964 presidential election.",
+                            "og:image:secure_url": "https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/940_wide/s3/Johnson_crop_0.jpg?itok=2904eezd",
+                            "twitter:image": "https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/940_wide/s3/Johnson_crop_0.jpg?itok=2904eezd",
+                            "twitter:image:width": "650",
+                            "article:modified_time": "2024-05-23T17:17:15-07:00",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Lyndon Johnson, Barry Goldwater, and Hubert Humphrey visit Multnomah County in the lead-up to the 1964 presidential election.",
+                            "og:url": "https://www.multco.us/northwest-wing-exhibition/1964-presidential-campaigns"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/styles/940_wide/s3/Johnson_crop_0.jpg?itok=2904eezd"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... said, there are several speeches that lack a date beyond the year. In other speeches given that same day, Goldwater discussed the First Amendment and crime in America .\nFriday, October 30, 1964, Hubert Humphrey, Portland, OR\n-------------------------------------------------------\nDuring his October visit to Oregon, Humphrey made stops in both Pendleton and Portland. His Pendleton speech (delivered from the\u00a0airport hangar) focused on:\n*   motivating\u00a0young voters -\u00a0\u201cBecause the truth is, myyoung {sic} Americans, the truth is that there is no free country on the earth, no free country of Democratic institutions that has a poorer voting record than the United States of America,\"\u00a0and\n*   appealing to the concerns of rural farmers -\u00a0\u201cI want to see our rural America have every opportunity of our metropolitan America. But I also want America, all of America, to appreciate what rural America is doing for America and for the world.\u201d\nFrom Pendleton, Humphrey flew to Portland, where his visit took a decidedly different tone. He delivered his speech not in an airport hanger, but in the very center of the city. The public and press welcomed Humphrey\u00a0at Portland International Airport. He was then escorted by motorcade to the Hilton ballroom, on Southwest Broadway, in the heart of downtown.\n### The Politics of Radicalism\nThe tone of Humphrey's Portland speech appealed to the less conservative voters. It was a blistering attack on Republican candidate Barry Goldwater, expressing frustration at party politics and the fighting between Democrats and Republicans: \u201c...We have faced a number of great crises in our history under Democratic and Republican presidents but we have never thought of them as Democratic crises or Republican crises. They have been American crises. The men who faced them and led the nation to overcome them, have not done so as party leaders, but as Presidents of the United States\u2026\u201d\nHumphrey decried\u00a0Barry Goldwater\u2019s \u201cright-wing extremism\u201d and endorsements of and by groups like The John Birch Society, Communists, and the Ku Klux Klan, among others. Humphrey\u00a0pointed out that he and\u00a0Johnson renounced such groups in their campaign platform and discouraged their votes. \u201cWe repudiate them\u201d is\u00a0handwritten a second time on his speaking copy for emphasis.\n\u00a0at the Minnesota Historical Society.\n | ",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Multnomah County's official government website provides local government information, services, and resources. As a local government site, it is generally reliable for specific regional data but may not provide an extensive analysis of national political contexts."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2021-07-15"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This article references both Goldwater and the political environment of 1964, including criticisms from opponents that resonate with concerns seen in more recent elections. Its context surrounding Goldwater\u2019s campaign parallels certain aspects of contemporary debates, warranting a decent score."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Barry Goldwater 1964 presidential campaign - Wikipedia",
+                "htmlTitle": "<b>Barry Goldwater 1964 presidential campaign</b> - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Barry_Goldwater_1964_presidential_campaign",
+                "displayLink": "en.wikipedia.org",
+                "snippet": "Amid growing popularity in the southern states in the early 1960s, Goldwater had been anticipating and looking forward to an \"issue-oriented\" campaign against\u00a0...",
+                "htmlSnippet": "Amid growing popularity in the southern states in the early 1960s, <b>Goldwater</b> had been anticipating and looking forward to an &quot;<b>issue</b>-oriented&quot; <b>campaign</b> against&nbsp;...",
+                "formattedUrl": "https://en.wikipedia.org/wiki/Barry_Goldwater_1964_presidential_campaign",
+                "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Barry</b>_<b>Goldwater</b>_<b>1964</b>_presidential_<b>campaign</b>",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "fn": "Barry Goldwater for President"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "referrer": "origin",
+                            "theme-color": "#eaecf0",
+                            "og:type": "website",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "og:title": "Barry Goldwater 1964 presidential campaign - Wikipedia",
+                            "format-detection": "telephone=no"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...water for President |\n| --- |\n| ] |\n| Campaign | \n*   \n*   \n |\n| Candidate | \n*   ****  \n     from   \n    _(1953\u20131965)_\n*   ****  \n     for   \n    _(1953\u20131965)_\n |\n| Affiliation |  \"Republican Party (United States)\") |\n| Status | \n*   Announced: January 3, 1964\n*   Official nominee: July 16, 1964\n*   Lost election: November 3, 1964\n*   Conceded: November 3, 1964\n |\n| Slogan | \n*   \"A Choice \u2013 Not an Echo\"\n*   \"In Your Heart You Know He's Right\"\n |\nThe **1964 presidential campaign of Barry Goldwater** began when   of  elected to seek the  \"Republican Party (United States)\") nomination for  to challenge incumbent  \"Democratic Party (United States)\") President . Early on, before officially announcing his candidacy for the presidency, Goldwater was accused] by   of attempting to galvanize Southern and Western Republican support while neglecting the industrial northern states, eventually becoming one of Goldwater's primary opponents in the race for the Republican Party's nomination in 1964.\nAmid growing popularity in the southern states in the early 1960s, Goldwater had been anticipating and looking forward to an \"issue-oriented\" campaign against Democrat , a personal friend of his. Goldwater, who was an  by hobby, wished to fly about the country in an attempt to revive \\-style debates. Kennedy's  in November 1963 dashed Goldwater's hopes of an election contest between himself and his friend and political rival. Nevertheless, Goldwater officially announced his candidacy for the presidency in January 1964 from the patio of his Arizona home. Following a battle with  and liberal Republicans in the Republican primary, such as Nelson Rockefeller and with moderate conservatives such as  among others, Goldwater won the party's nomination for president.\nFrom the beginning of his campaign, Goldwater fought an uphill battle to unseat an incumbent president under favorable economic circumstances. Goldwater consistently refused to moderate his views, which alienated a significant portion of the more  from his campaign. With the assistance of the media, who in large part also had an unfavorable opinion of Goldwater, President Johnson used this fissure in the party to portray him as an extremist.] In the general election, Goldwater lost in a landslide to Lyndon Johnson, carrying only six states to Johnson's 44 and 38% of the popular vote to Johnson's 61%. The...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Wikipedia is a user-edited crowd-sourced encyclopedia that provides a vast amount of information. While it contains valuable references and citations, the open-edit nature means it's susceptible to bias or inaccuracies. Nonetheless, it can be a good starting point, but one should verify information from cited sources."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This evidence provides an overarching view of Goldwater's campaign and its implications, particularly regarding his appeal to southern and conservative constituencies, drawing parallels with today's political environment. The insights align well with themes in both the ad and its comparison to 2016 GOP debates, thus earning a higher score."
+                }
+            }
+        }
+    ]
+}

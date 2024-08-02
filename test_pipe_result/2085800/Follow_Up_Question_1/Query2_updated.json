@@ -1,0 +1,886 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Chicago Trump rally violence reports March 2016",
+                "totalResults": "2790000",
+                "searchTerms": "Chicago Trump rally violence reports March 2016",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Chicago Trump rally violence reports March 2016",
+                "totalResults": "2790000",
+                "searchTerms": "Chicago Trump rally violence reports March 2016",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.490626,
+        "formattedSearchTime": "0.49",
+        "totalResults": "2790000",
+        "formattedTotalResults": "2,790,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Donald Trump's Rally in Chicago Canceled After Violent Scuffles ...",
+                "htmlTitle": "Donald <b>Trump&#39;s Rally</b> in <b>Chicago</b> Canceled After <b>Violent</b> Scuffles ...",
+                "link": "https://www.nytimes.com/2016/03/12/us/trump-rally-in-chicago-canceled-after-violent-scuffles.html",
+                "displayLink": "www.nytimes.com",
+                "snippet": "Mar 11, 2016 ... Around 10,000 people had signed up on Facebook to take part in one anti-Trump march. Scores of faculty members had pleaded with administrators\u00a0...",
+                "htmlSnippet": "Mar 11, 2016 <b>...</b> Around 10,000 people had signed up on Facebook to take part in one anti-<b>Trump march</b>. Scores of faculty members had pleaded with administrators&nbsp;...",
+                "formattedUrl": "https://www.nytimes.com/2016/.../trump-rally-in-chicago-canceled-after-vi...",
+                "htmlFormattedUrl": "https://www.nytimes.com/<b>2016</b>/.../<b>trump</b>-<b>rally</b>-in-<b>chicago</b>-canceled-after-vi...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKa3yFW-7_MnP0nT0TqZVriqT4GKPmXkHvqvZHw3RYFxwa1fLBZUbQ3AY&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static01.nyt.com/images/2016/03/12/us/12CHICAGO8-hp/12CHICAGO8-hp-facebookJumbo.jpg?year=2016&h=549&w=1050&s=086c36265c5d3f630a1f6d37a8577e412f7933eb812b66fccc7c6727e3e16a10&k=ZQJBKqZ0VN",
+                            "nyt_uri": "nyt://article/522377d4-b1ff-5cb9-9ee0-9dc45596a2ce",
+                            "twitter:app:id:googleplay": "com.nytimes.android",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2016-03-12T01:31:35.000Z",
+                            "pt": "article",
+                            "twitter:url": "https://www.nytimes.com/2016/03/12/us/trump-rally-in-chicago-canceled-after-violent-scuffles.html",
+                            "pdate": "20160311",
+                            "articleid": "100000004267676",
+                            "al:android:package": "com.nytimes.android",
+                            "twitter:app:name:googleplay": "NYTimes",
+                            "og:description": "Protesters and supporters of Donald J. Trump confronted each other, screaming and shoving, at a campaign event Friday that was called off over security concerns.",
+                            "twitter:image": "https://static01.nyt.com/images/2016/03/12/us/12CHICAGO8-hp/12CHICAGO8-hp-articleLarge.jpg?year=2016&h=398&w=600&s=0912c20df6834f0fed18b6d6cdfc72330ec3d0d499dfe429038a10d78a927a3a&k=ZQJBKqZ0VN&tw=1",
+                            "pst": "News",
+                            "twitter:image:alt": "Supporters of Donald J. Trump faced off with protesters after a scheduled campaign rally in Chicago was called off on Friday.",
+                            "al:iphone:app_name": "NYTimes",
+                            "article:modified_time": "2016-03-12T04:04:13.000Z",
+                            "news_keywords": ",Donald Trump,,2016 Presidential Election,Civil Unrest,Chicago",
+                            "scg": "politics",
+                            "article:content_tier": "metered",
+                            "msapplication-starturl": "https://www.nytimes.com",
+                            "image": "https://static01.nyt.com/images/2016/03/12/us/12CHICAGO8-hp/12CHICAGO8-hp-facebookJumbo.jpg?year=2016&h=549&w=1050&s=086c36265c5d3f630a1f6d37a8577e412f7933eb812b66fccc7c6727e3e16a10&k=ZQJBKqZ0VN",
+                            "og:type": "article",
+                            "og:image:alt": "Supporters of Donald J. Trump faced off with protesters after a scheduled campaign rally in Chicago was called off on Friday.",
+                            "twitter:title": "Donald Trump\u2019s Rally in Chicago Canceled After Violent Scuffles (Published 2016)",
+                            "article:section": "U.S.",
+                            "cg": "us",
+                            "pubp_event_id": "pubp://event/b54fda1b43624f5591e1543c4831959d",
+                            "og:title": "Donald Trump\u2019s Rally in Chicago Canceled After Violent Scuffles (Published 2016)",
+                            "cn": "election-2016",
+                            "article:author": "http://www.nytimes.com/by/monica-davey",
+                            "url": "https://www.nytimes.com/2016/03/12/us/trump-rally-in-chicago-canceled-after-violent-scuffles.html",
+                            "article:tag": "Bosman, Julie",
+                            "al:iphone:url": "nytimes://www.nytimes.com/2016/03/12/us/trump-rally-in-chicago-canceled-after-violent-scuffles.html",
+                            "al:android:url": "nyt://article/522377d4-b1ff-5cb9-9ee0-9dc45596a2ce",
+                            "ct": "news-event",
+                            "twitter:app:url:googleplay": "nyt://article/522377d4-b1ff-5cb9-9ee0-9dc45596a2ce",
+                            "al:ipad:url": "nytimes://www.nytimes.com/2016/03/12/us/trump-rally-in-chicago-canceled-after-violent-scuffles.html",
+                            "byl": "By Monica Davey and Julie Bosman",
+                            "twitter:description": "Protesters and supporters of Donald J. Trump confronted each other, screaming and shoving, at a campaign event Friday that was called off over security concerns.",
+                            "al:iphone:app_store_id": "284862083",
+                            "og:url": "https://www.nytimes.com/2016/03/12/us/trump-rally-in-chicago-canceled-after-violent-scuffles.html",
+                            "al:android:app_name": "NYTimes",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static01.nyt.com/images/2016/03/12/us/12CHICAGO8-hp/12CHICAGO8-hp-facebookJumbo.jpg?year=2016&h=549&w=1050&s=086c36265c5d3f630a1f6d37a8577e412f7933eb812b66fccc7c6727e3e16a10&k=ZQJBKqZ0VN"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Advertisement\nSupported by\ntranscript\nna\nBy Monica Davey and Julie Bosman\nCHICAGO \u2014 With thousands of people already packed into stands and music blaring to warm up the crowd, Donald J. Trump\u2019s campaign abruptly canceled his rally here on Friday night over security concerns as protesters clashed with his supporters inside an arena where he was to speak.\nMinutes after Mr. Trump was to have taken to a podium on the campus of a large, diverse public university just west of downtown, an announcer suddenly pronounced the event over before it had begun. Hundreds of protesters, who had promised to be a visible presence here and filled several sections of the arena, let out an elated, unstopping cheer. Mr. Trump\u2019s supporters, many of whom had waited hours to see the Republican front-runner, seemed stunned and slowly filed out in anger.\nAround the country, protesters have interrupted virtually every Trump rally, but his planned appearance here \u2014 in a city run for decades by Democrats and populated by nearly equal thirds of blacks, Latinos and whites \u2014 had drawn some particularly incensed responses since it was announced days ago.\nThe canceled rally came on a day that Mr. Trump sought to move past the primary fight, saying that the party needed to come together behind him.\nElsewhere, Mr. Trump\u2019s security has tried to identify and exclude potential demonstrators before they enter his events, but large groups of protesters had waited in line for seats here, and engaged in tense disputes with Trump supporters even as the University of Illinois at Chicago Pavilion was still filling up. For more than an hour before the event was to begin, security teams led protesters out, one by one, but many more remained, sparring with Trump supporters.\nIn a statement, Mr. Trump\u2019s campaign said that he \u201chas determined that for the safety of all of the tens of thousands of people that have gathered in and around the arena, tonight\u2019s rally will be postponed to another date.\u201d\nWe are having trouble retrieving the article content.\nPlease enable JavaScript in your browser settings.\nThank you for your patience while we verify access. If you are in Reader mode please exit and\u00a0log into\u00a0your Times account, or\u00a0subscribe\u00a0for all of The Times.\nThank you for your patience while we verify access.\nAlready a subscriber?\u00a0Log in.\nWant all of The Times?\u00a0Subscribe.\nAdvertisement",
+                    "content_tokens": 474
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The New York Times is known for its rigorous journalistic standards and thorough fact-checking processes. It has a long track record of reporting accurately on political events and social issues. Historically, the NYT has been reliable in providing comprehensive coverage of events, including protests and political rallies. While it may occasionally face critiques from various political factions, its commitment to factual reporting generally earns it a high credibility score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-03-11"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This evidence discusses the cancellation of the rally in Chicago due to concerns about security and the chaotic atmosphere created by protests, but it does not mention a shooting incident. It is relevant as it provides context about the charged atmosphere and violence at the rally, but it fails to directly support or refute the specific claim regarding the shooting."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Donald Trump Chicago rally called off amid protests and violence ...",
+                "htmlTitle": "Donald <b>Trump Chicago rally</b> called off amid <b>protests</b> and <b>violence</b> ...",
+                "link": "https://www.theguardian.com/us-news/2016/mar/12/donald-trump-rally-called-off-in-chicago-amid-protests-violence-and-chaos",
+                "displayLink": "www.theguardian.com",
+                "snippet": "Mar 11, 2016 ... Rivals for Republican presidential nomination say University of Illinois chaos is result of Trump's divisive rhetoric.",
+                "htmlSnippet": "Mar 11, 2016 <b>...</b> Rivals for Republican presidential nomination say University of Illinois chaos is result of <b>Trump&#39;s</b> divisive rhetoric.",
+                "formattedUrl": "https://www.theguardian.com/.../2016/.../donald-trump-rally-called-off-in-c...",
+                "htmlFormattedUrl": "https://www.theguardian.com/.../<b>2016</b>/.../donald-<b>trump</b>-<b>rally</b>-called-off-in-<b>c</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrae6HmgZL2DNcMBhasv63SHkakyf7Q55qhZjrUL0EB2RLnGTgQjTvtmA&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.guim.co.uk/img/media/a1a15f6a4318eb2b8c4fd90512aef04415c3eed4/0_0_3000_1799/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTYucG5n&enable=upscale&s=83a8c8f91aff9b6e88a6d987c17742af",
+                            "twitter:app:id:googleplay": "com.guardian",
+                            "twitter:app:url:iphone": "gnmguardian://us-news/2016/mar/12/donald-trump-rally-called-off-in-chicago-amid-protests-violence-and-chaos?contenttype=Article&source=twitter",
+                            "theme-color": "#052962",
+                            "og:image:width": "1200",
+                            "article:published_time": "2016-03-12T11:28:40.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "the Guardian",
+                            "twitter:app:url:ipad": "gnmguardian://us-news/2016/mar/12/donald-trump-rally-called-off-in-chicago-amid-protests-violence-and-chaos?contenttype=Article&source=twitter",
+                            "twitter:app:name:googleplay": "The Guardian",
+                            "al:ios:url": "gnmguardian://us-news/2016/mar/12/donald-trump-rally-called-off-in-chicago-amid-protests-violence-and-chaos?contenttype=Article&source=applinks",
+                            "twitter:app:id:iphone": "409128287",
+                            "og:description": "Rivals for Republican presidential nomination say University of Illinois chaos is result of Trump\u2019s divisive rhetoric",
+                            "twitter:creator": "@Bencjacobs",
+                            "article:publisher": "https://www.facebook.com/theguardian",
+                            "al:ios:app_store_id": "409128287",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://i.guim.co.uk/img/media/a1a15f6a4318eb2b8c4fd90512aef04415c3eed4/0_0_3000_1799/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTYucG5n&s=e1530a1cdff6ce1732b3f9fb6a826f73",
+                            "twitter:site": "@guardian",
+                            "article:modified_time": "2018-02-09T19:16:21.000Z",
+                            "og:type": "article",
+                            "article:section": "US news",
+                            "al:ios:app_name": "The Guardian",
+                            "og:title": "Donald Trump Chicago rally called off amid protests and violence",
+                            "og:image:height": "720",
+                            "twitter:app:id:ipad": "409128287",
+                            "article:author": "https://www.theguardian.com/profile/ben-jacobs,https://www.theguardian.com/profile/ciara-mccarthy,https://www.theguardian.com/profile/zach-stafford",
+                            "article:tag": "Donald Trump,US elections 2016,US politics,Chicago,Illinois,US news,World news",
+                            "fb:app_id": "180444840287",
+                            "twitter:app:url:googleplay": "guardian://www.theguardian.com/us-news/2016/mar/12/donald-trump-rally-called-off-in-chicago-amid-protests-violence-and-chaos",
+                            "twitter:app:name:ipad": "The Guardian",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                            "og:url": "http://www.theguardian.com/us-news/2016/mar/12/donald-trump-rally-called-off-in-chicago-amid-protests-violence-and-chaos",
+                            "twitter:app:name:iphone": "The Guardian"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.guim.co.uk/img/media/a1a15f6a4318eb2b8c4fd90512aef04415c3eed4/0_0_3000_1799/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTYucG5n&enable=upscale&s=83a8c8f91aff9b6e88a6d987c17742af"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... the violence after the Chicago cancellation was concentrated around a parking garage adjacent to the University of Illinois Chicago Pavilion. Protesters crowded the sidewalks, pushing at barricades formed by police as they tried to block Trump supporters\u2019 cars from leaving.\n!\nA Trump supporter reacts to protesters inside the UIC Pavilion. Photograph: Scott Olson/Getty Images\nA spontaneous blockade of a parking garage formed, creating a standoff between screaming Trump supporters in the multi-level lot and screaming protesters on the ground below.\nFrom high up Trump supporters reportedly spat down on protesters who were chanting \u201cFuck Donald Trump\u201d and preventing anyone leaving. Eventually, after police cleared a path for people to depart, protesters jeered and gestured at each car and its occupants making their way past barricades and a long column of mounted police.\nIn the parking garage afterwards, Nerijus Meskauskus, a Trump supporter from Oak Lawn, Illinois described being assaulted by protesters. He told the Guardian that he had been holding an American flag and smoking a cigarette with fellow Trump supporters after the rally when someone came up and grabbed the flag. As Meskauskus described it, he was surrounded by protesters and punched \u201csix or seven times\u201d before \u201ccops grabbed me and pulled me over the barricade\u201d. He said protesters were \u201ctrying to jump the barricade to attack me\u201d.\nThe scenes of violence sparked condemnation for the tenor of Trump\u2019s campaign from his top rival for the GOP nomination, Senator Ted Cruz of Texas. \u201cA campaign bears responsibility for creating an environment,\u201d said Cruz. \u201cThe predictable consequence of \\ is it escalates. Today is unlikely to be the last such instance.\u201d\n!\nA protester burns a Trump campaign flag outside the venue. Photograph: Jonathan Gibby/Getty Images\nThe Ohio governor, John Kasich, took a similar line. \u201cTonight the seeds of division that Donald Trump has been sowing this whole campaign finally bore fruit, and it was ugly.\u201d\nMarco Rubio, the Florida senator, had harsh words for the protesters, telling Fox News there was \u201can industry\u201d of protest movements in Chicago with some participants \u201cprobably being paid to do this.\u201d\nPolitical violence on the scale witnessed on Friday is rare in American politics.\nFamously the 1968 Democratic National Convention in Chicago witnessed repeated clashes between the police and anti-war protesters culminating in what a federal commission called \u201ca police riot\u201d.\nBut the three-way conflict between Trump supporters and protesters with the police caught in the middle is something unusual and represents a disturbing trend in an election where many of the norms and mores of American politics have gone by the wayside.\nA demonstrator in St.L...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Guardian is recognized globally for its investigative journalism and editorial integrity. It has consistently reported on important issues, including social justice and political matters. Although sometimes seen as having a progressive leaning, its fact-checking and commitment to uncovering the truth bolsters its reputation. The Guardian has also been proactive in addressing misinformation, giving it a strong reliability score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-03-11"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This evidence outlines the protests that occurred and describes violent clashes between Trump supporters and protesters during the Chicago rally. However, while it describes these confrontations, it does not specifically mention a shooting or death, directly addressing the absence of evidence for the claim about a black Trump supporter being shot."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "'Get 'em out!' Racial tensions explode at Donald Trump's rallies ...",
+                "htmlTitle": "&#39;Get &#39;em out!&#39; Racial tensions explode at Donald <b>Trump&#39;s rallies</b> ...",
+                "link": "https://www.washingtonpost.com/politics/get-him-out-racial-tensions-explode-at-donald-trumps-rallies/2016/03/11/b9764884-e6ee-11e5-bc08-3e03a5b41910_story.html",
+                "displayLink": "www.washingtonpost.com",
+                "snippet": "Mar 12, 2016 ... Protesters and supporters of Donald Trump clashed in sometimes-violent fashion here and in Chicago on Friday, the latest in an escalating series of\u00a0...",
+                "htmlSnippet": "Mar 12, 2016 <b>...</b> <b>Protesters</b> and supporters of Donald <b>Trump</b> clashed in sometimes-<b>violent</b> fashion here and in <b>Chicago</b> on Friday, the latest in an escalating series of&nbsp;...",
+                "formattedUrl": "https://www.washingtonpost.com/...trumps.../2016/.../b9764884-e6ee-11e5...",
+                "htmlFormattedUrl": "https://www.washingtonpost.com/...<b>trump</b>s.../<b>2016</b>/.../b9764884-e6ee-11e5...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTydxM1DMRwQFtIEU1HHAB6XzH3W9IjVbZ83fybJAXgdrcmK9Dk5-ToFMc&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter_description": "The GOP front-runner says he\u2019s not responsible for the violence at his events. But it keeps happening.",
+                            "article_modified_time": "2023-06-05T04:45:26.594Z",
+                            "og:image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S4N3T6HH34I6LJXTEHGNXRPXJY&w=1440",
+                            "apple-itunes-app": "app-id=352509417, app-argument=https://www.washingtonpost.com/politics/get-him-out-racial-tensions-explode-at-donald-trumps-rallies/2016/03/11/b9764884-e6ee-11e5-bc08-3e03a5b41910_story.html?sourceApp=apple-banner",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2016-03-11T17:09:00.000Z",
+                            "og:site_name": "Washington Post",
+                            "og_title": "\u2018Get \u2019em out!\u2019 Racial tensions explode at Donald Trump\u2019s rallies.",
+                            "og_type": "article",
+                            "og_url": "https://www.washingtonpost.com/politics/get-him-out-racial-tensions-explode-at-donald-trumps-rallies/2016/03/11/b9764884-e6ee-11e5-bc08-3e03a5b41910_story.html",
+                            "og:description": "The GOP front-runner says he\u2019s not responsible for the violence at his events. But it keeps happening.",
+                            "article_published_time": "2016-03-11T17:09:00.000Z",
+                            "next-head-count": "82",
+                            "article_section": "Politics",
+                            "twitter:site": "@WashingtonPost",
+                            "article:modified_time": "2023-06-05T04:45:26.594Z",
+                            "twitter_site": "@WashingtonPost",
+                            "og_description": "The GOP front-runner says he\u2019s not responsible for the violence at his events. But it keeps happening.",
+                            "article:content_tier": "metered",
+                            "twitter_title": "\u2018Get \u2019em out!\u2019 Racial tensions explode at Donald Trump\u2019s rallies.",
+                            "last_updated_date": "2023-06-05T04:45:26.594Z",
+                            "og:type": "article",
+                            "twitter:title": "\u2018Get \u2019em out!\u2019 Racial tensions explode at Donald Trump\u2019s rallies.",
+                            "article:section": "Politics",
+                            "og_site_name": "Washington Post",
+                            "twitter_card": "summary_large_image",
+                            "og:title": "\u2018Get \u2019em out!\u2019 Racial tensions explode at Donald Trump\u2019s rallies.",
+                            "og_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S4N3T6HH34I6LJXTEHGNXRPXJY&w=1440",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The GOP front-runner says he\u2019s not responsible for the violence at his events. But it keeps happening.",
+                            "article_content_tier": "metered",
+                            "og:url": "https://www.washingtonpost.com/politics/get-him-out-racial-tensions-explode-at-donald-trumps-rallies/2016/03/11/b9764884-e6ee-11e5-bc08-3e03a5b41910_story.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S4N3T6HH34I6LJXTEHGNXRPXJY&w=1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "ST. LOUIS \u2014 Protesters and supporters of  clashed in sometimes-violent fashion here and in Chicago on Friday, the latest in an escalating series of confrontations that have come to define the front-runner's rowdy campaign rallies even as he gets closer to securing the Republican nomination.\nIn the evening in Chicago, Trump canceled a rally at the University of Illinois at Chicago after brawls broke out at the event site.\nTrump\u2019s camp issued a statement saying that \u201cfor the safety of all the tens of thousands of people that have gathered in and around the arena, tonight\u2019s rally will be postponed to another date. Thank you very much for your attendance and please go in peace.\u201d\nInside the Peabody Opera House in St. Louis earlier in the day, protesters interrupted Trump eight times, prompting catcalls and chants from the crowd as security officers removed them. Scores were injured or arrested in clashes between Trump supporters and critics outside the venue, where thousands had gathered in an overflow area to listen to the event over loudspeakers.\nTrump is known for his massive, raucous rallies \u2014 part campaign events, part media spectacles, part populist exaltations for his most loyal supporters. But the events have also become suffused with the kind of hostility and even violence that are unknown to modern presidential campaigns.\nAmid growing security concerns, Republican presidential candidate Donald Trump's campaign canceled a Chicago rally on March 11. (Video: Victoria Walker/The Washington Post)\nThe candidate himself often seems to wink at, or even...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The Washington Post is known for its thorough and accurate reporting. It has a strong commitment to investigative journalism and is one of the leaders in exposing truth in political contexts, making it a trustworthy source of news. Historically, it has maintained a high standard for accuracy and has confronted issues of misinformation effectively."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-03-12"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This evidence notes that the rally in Chicago was canceled after violent clashes broke out, showcasing escalated tensions between two groups. Like evidence1, it highlights violence but does not mention any shooting, which is central to the initial claim."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Inside the Protest That Stopped the Trump Rally - POLITICO Magazine",
+                "htmlTitle": "Inside the <b>Protest</b> That Stopped the <b>Trump Rally</b> - POLITICO Magazine",
+                "link": "https://www.politico.com/magazine/story/2016/03/donald-trump-chicago-protest-213728",
+                "displayLink": "www.politico.com",
+                "snippet": "Mar 13, 2016 ... CHICAGO \u2014 By sundown on Friday night, the crowd assembled inside the arena was chanting and ready to cheer on their candidate: Donald Trump.",
+                "htmlSnippet": "Mar 13, 2016 <b>...</b> <b>CHICAGO</b> \u2014 By sundown on Friday night, the crowd assembled inside the arena was chanting and ready to cheer on their candidate: Donald <b>Trump</b>.",
+                "formattedUrl": "https://www.politico.com/.../2016/03/donald-trump-chicago-protest-21372...",
+                "htmlFormattedUrl": "https://www.politico.com/.../<b>2016</b>/03/donald-<b>trump</b>-<b>chicago</b>-protest-21372...",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "url_text": "Jeremy B. White",
+                            "fn": "Jeremy B. White",
+                            "url": "https://www.politico.com/states/staff/jeremy-b-white"
+                        },
+                        {
+                            "url_text": "Sam Sutton",
+                            "fn": "Sam Sutton",
+                            "url": "https://www.politico.com/states/staff/sam-sutton"
+                        },
+                        {
+                            "url_text": "Carly Sitrin",
+                            "fn": "Carly Sitrin",
+                            "url": "https://www.politico.com/states/staff/carly-sitrin"
+                        },
+                        {
+                            "url_text": "Bill Mahoney",
+                            "fn": "Bill Mahoney",
+                            "url": "https://www.politico.com/states/new-york/staff/bill-mahoney"
+                        },
+                        {
+                            "url_text": "Josh Gerstein",
+                            "fn": "Josh Gerstein",
+                            "url": "https://www.politico.com/states/staff/josh-gerstein"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUBHtHl0JRLmIJfuAGjCrntkZWuNNJ9CII6z1Q-TQUMbl9gkWjuQ1QcZs&s",
+                            "width": "305",
+                            "height": "165"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "width": "150",
+                            "url": "https://static.politico.com/6d/9f/1e153a1748fa9ea656c575dc6dff/politico-logo-60px-tall-1.png",
+                            "height": "35"
+                        },
+                        {
+                            "width": "1160",
+                            "url": "https://static.politico.com/f7/a8/56ab1a48489ab1bb33cec425b82c/20160311-trump-uic-rally-protester-1-msm-1160.jpg",
+                            "height": "550"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "Keith O\u2019Brien"
+                        }
+                    ],
+                    "organization": [
+                        {
+                            "name": "POLITICO",
+                            "url": "https://www.politico.com/magazine/"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static.politico.com/f7/a8/56ab1a48489ab1bb33cec425b82c/20160311-trump-uic-rally-protester-1-msm-1160.jpg",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "og:fb_appid": "114037015331397",
+                            "og:site_name": "POLITICO Magazine",
+                            "og:title": "Inside the Protest That Stopped the Trump Rally",
+                            "og:description": "The plan worked better than they'd ever imagined. Then the trouble began.",
+                            "fb:pages": "62317591679",
+                            "twitter:creator": "@politicomag",
+                            "twitter:site": "@politicomag",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "build": "2021-01-27T14:57:01Z",
+                            "host": "www.politico.com",
+                            "og:url": "https://www.politico.com/magazine/story/2016/03/donald-trump-chicago-protest-213728",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.politico.com/f7/a8/56ab1a48489ab1bb33cec425b82c/20160311-trump-uic-rally-protester-1-msm-1160.jpg"
+                        }
+                    ],
+                    "article": [
+                        {
+                            "headline": "Inside the Protest That Stopped the Trump Rally",
+                            "datepublished": "2016-03-13T07:54-0400"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.politico.com/magazine/story/2016/03/donald-trump-chicago-protest-213728: 429 Client Error: Too Many Requests for url: https://r.jina.ai/https://www.politico.com/magazine/story/2016/03/donald-trump-chicago-protest-213728",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Politico specializes in political news and analysis. While it is generally reliable and provides timely information about political events, it can sometimes exhibit a partisan perspective. Still, its overall accuracy in reporting and thoroughness in covering political events compensate for any bias, earning it a solid score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-03-13"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This evidence covers the environment leading to the cancellation of the rally and mentions the crowd's readiness for Trump, emphasizing the tension. However, there is no mention of a shooting, thus making it less relevant to confirming or refuting the specific claim of gun violence."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Trump campaign dogged by violent incidents at rallies | Donald ...",
+                "htmlTitle": "<b>Trump</b> campaign dogged by <b>violent incidents</b> at <b>rallies</b> | Donald ...",
+                "link": "https://www.theguardian.com/us-news/2016/mar/11/donald-trump-campaign-claims-violence-rallies",
+                "displayLink": "www.theguardian.com",
+                "snippet": "Mar 11, 2016 ... On the eve of the Republican frontrunner's scheduled rally in Chicago, Trump has come under increased scrutiny, after an attack on a non-violent\u00a0...",
+                "htmlSnippet": "Mar 11, 2016 <b>...</b> On the eve of the Republican frontrunner&#39;s scheduled <b>rally</b> in <b>Chicago</b>, <b>Trump</b> has come under increased scrutiny, after an attack on a non-<b>violent</b>&nbsp;...",
+                "formattedUrl": "https://www.theguardian.com/.../2016/.../donald-trump-campaign-claims-vi...",
+                "htmlFormattedUrl": "https://www.theguardian.com/.../<b>2016</b>/.../donald-<b>trump</b>-campaign-claims-<b>vi</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSavOhjXDrr0voPG25LeCur9fqvCJV9vDMR06a6WfkId_dKv9K4f7w5PYwp&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.guim.co.uk/img/media/2761fbafa6bcbd5d060573a985ae19f99ddcd769/0_0_3006_1804/master/3006.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTYucG5n&enable=upscale&s=b1e2c4bd5a7b729598dddf3ed986e3b9",
+                            "twitter:app:id:googleplay": "com.guardian",
+                            "twitter:app:url:iphone": "gnmguardian://us-news/2016/mar/11/donald-trump-campaign-claims-violence-rallies?contenttype=Article&source=twitter",
+                            "theme-color": "#052962",
+                            "og:image:width": "1200",
+                            "article:published_time": "2016-03-11T17:28:40.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "the Guardian",
+                            "twitter:app:url:ipad": "gnmguardian://us-news/2016/mar/11/donald-trump-campaign-claims-violence-rallies?contenttype=Article&source=twitter",
+                            "twitter:app:name:googleplay": "The Guardian",
+                            "al:ios:url": "gnmguardian://us-news/2016/mar/11/donald-trump-campaign-claims-violence-rallies?contenttype=Article&source=applinks",
+                            "twitter:app:id:iphone": "409128287",
+                            "og:description": "Trump supporter faces assault charge for punching demonstrator and campaign manager accused of assaulting conservative reporter",
+                            "twitter:creator": "@Bencjacobs",
+                            "article:publisher": "https://www.facebook.com/theguardian",
+                            "al:ios:app_store_id": "409128287",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://i.guim.co.uk/img/media/2761fbafa6bcbd5d060573a985ae19f99ddcd769/0_0_3006_1804/master/3006.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTYucG5n&s=941f2bd533e5ee7f6d398af27faed155",
+                            "twitter:site": "@guardian",
+                            "article:modified_time": "2018-02-09T19:16:23.000Z",
+                            "og:type": "article",
+                            "article:section": "US news",
+                            "al:ios:app_name": "The Guardian",
+                            "og:title": "Trump campaign dogged by violent incidents at rallies",
+                            "og:image:height": "720",
+                            "twitter:app:id:ipad": "409128287",
+                            "article:author": "https://www.theguardian.com/profile/ben-jacobs",
+                            "article:tag": "Donald Trump,US elections 2016,US politics,US news,Republicans",
+                            "fb:app_id": "180444840287",
+                            "twitter:app:url:googleplay": "guardian://www.theguardian.com/us-news/2016/mar/11/donald-trump-campaign-claims-violence-rallies",
+                            "twitter:app:name:ipad": "The Guardian",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                            "og:url": "http://www.theguardian.com/us-news/2016/mar/11/donald-trump-campaign-claims-violence-rallies",
+                            "twitter:app:name:iphone": "The Guardian"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.guim.co.uk/img/media/2761fbafa6bcbd5d060573a985ae19f99ddcd769/0_0_3006_1804/master/3006.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTYucG5n&enable=upscale&s=b1e2c4bd5a7b729598dddf3ed986e3b9"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Donald Trump is facing growing criticism for repeated incidents of violence at his campaign events.\nOn the eve of the Republican frontrunner\u2019s scheduled rally in Chicago, Trump has come under increased scrutiny, after an attack on a non-violent protester led to criminal charges against a Trump supporter and Michelle Fields, a reporter for conservative website Breitbart, was allegedly assaulted by Corey Lewandowski, Trump\u2019s campaign manager.\nTrump\u2019s campaign events have long been magnets for protesters who disapprove of the Republican frontrunner\u2019s hardline stance on immigration and support for a ban on Muslims entering the United States. But while protesters are not uncommon at political events, Trump\u2019s rallies are the only ones that have seen a rash of violent incidents in response to them.\nOn stage at events, Trump has encouraged this violence at times. On one occasion, he even pledged to pay legal fees for those who \u201croughed up\u201d protesters. \u201cKnock the crap out of him, would you? Seriously, OK, just knock the hell. I promise you I will pay for the legal fees, I promise, I promise,\u201d Trump said in a rally in Cedar Rapids, Iowa, in February. He also urged security at a January rally in Vermont to confiscate protesters\u2019 coats before booting them out into the winter night.\nHowever, Trump has also urged supporters \u201cdon\u2019t hurt \u2019em\u201d on other occasions as protesters have been escorted out. Each Trump rally now begins with a taped warning telling supporters: \u201cIf a protester starts demonstrating in the area around you, please do not touch or harm the protester.\u201d\nAt Thursday\u2019s Republican debate, Trump defended himself from accusations that...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Guardian is recognized globally for its investigative journalism and editorial integrity. It has consistently reported on important issues, including social justice and political matters. Although sometimes seen as having a progressive leaning, its fact-checking and commitment to uncovering the truth bolsters its reputation. The Guardian has also been proactive in addressing misinformation, giving it a strong reliability score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-03-11"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This evidence discusses the broader scrutiny Trump faced regarding violence at rallies, including references to aggressive behavior at the Chicago event. However, it does not address the specific claim of a shooting incident which diminishes its relevance."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Trump Blames 'Thugs' for Violence at Abandoned Chicago Rally",
+                "htmlTitle": "<b>Trump</b> Blames &#39;Thugs&#39; for <b>Violence</b> at Abandoned <b>Chicago Rally</b>",
+                "link": "https://www.nbcnews.com/politics/2016-election/trump-rally-chicago-called-after-clashes-n537001",
+                "displayLink": "www.nbcnews.com",
+                "snippet": "Mar 12, 2016 ... The rally in Cincinnati is ON. Media put out false reports that it was cancelled. Will be great - love you Ohio! \u2014 Donald J. Trump (@\u00a0...",
+                "htmlSnippet": "Mar 12, 2016 <b>...</b> The <b>rally</b> in Cincinnati is ON. Media put out false <b>reports</b> that it was cancelled. Will be great - love you Ohio! \u2014 Donald J. <b>Trump</b> (@&nbsp;...",
+                "formattedUrl": "https://www.nbcnews.com/.../2016.../trump-rally-chicago-called-after-clash...",
+                "htmlFormattedUrl": "https://www.nbcnews.com/.../<b>2016</b>.../<b>trump</b>-<b>rally</b>-<b>chicago</b>-called-after-clash...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5wqZGSrNcskcqXF7zJt9RGj6qJiR7n9BXBqS0w-j6pn9jHgmrQGywMZY&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-config": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/browserconfig.xml",
+                            "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2016_10/1455221/160311-trump-rally-chicago-mn-1945.jpg",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "NBC News",
+                            "branch:deeplink:title": "Trump Blames 'Thugs' for Violence at Abandoned Chicago Rally",
+                            "og:image:type": "image/jpeg",
+                            "twitter:creator": "NBCNews",
+                            "og:description": "Punches were thrown as protesters and Trump supporters clashed before a planned rally in Chicago, and rivals were quick to blame Trump's rhetoric.",
+                            "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2016_10/1455221/160311-trump-rally-chicago-mn-1945.jpg",
+                            "branch:deeplink:description": "Punches were thrown as protesters and Trump supporters clashed before a planned rally in Chicago, and rivals were quick to blame Trump's rhetoric.",
+                            "twitter:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/newscms/2016_10/1455221/160311-trump-rally-chicago-mn-1945.jpg",
+                            "twitter:site": "@NBCNews",
+                            "article:content_tier": "free",
+                            "branch:deeplink:type": "article",
+                            "og:type": "article",
+                            "twitter:title": "Trump Blames 'Thugs' for Violence at Abandoned Chicago Rally",
+                            "branch:deeplink:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2016_10/1455221/160311-trump-rally-chicago-mn-1945.jpg",
+                            "og:title": "Trump Blames 'Thugs' for Violence at Abandoned Chicago Rally",
+                            "og:image:height": "630",
+                            "fb:pages": "155869377766434",
+                            "twitter:image:src": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/newscms/2016_10/1455221/160311-trump-rally-chicago-mn-1945.jpg",
+                            "fb:app_id": "10150138890205613",
+                            "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                            "twitter:description": "Punches were thrown as protesters and Trump supporters clashed before a planned rally in Chicago, and rivals were quick to blame Trump's rhetoric.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.nbcnews.com/politics/2016-election/trump-rally-chicago-called-after-clashes-n537001",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2016_10/1455221/160311-trump-rally-chicago-mn-1945.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.nbcnews.com/politics/2016-election/trump-rally-chicago-called-after-clashes-n537001: 429 Client Error: Too Many Requests for url: https://r.jina.ai/https://www.nbcnews.com/politics/2016-election/trump-rally-chicago-called-after-clashes-n537001",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "NBC News is a well-respected national news organization that covers a range of topics, including political events. It has been reliable in maintaining factual accuracy and has protocols in place for fact-checking. While it may face some critiques over perceived biases, its commitment to journalism generally earns it a favorable score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-03-12"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This evidence mentions that the rally in Chicago was called off due to clashes but provides no detail related to a shooting incident, making it less relevant to the specific claim while still addressing violence at the events."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Donald Trump rally violence sparks 'liar' row - BBC News",
+                "htmlTitle": "Donald <b>Trump rally violence</b> sparks &#39;liar&#39; row - BBC <b>News</b>",
+                "link": "https://www.bbc.com/news/election-us-2016-35801214",
+                "displayLink": "www.bbc.com",
+                "snippet": "Mar 14, 2016 ... The row came after Mr Trump was forced to call off a rally in Chicago on Friday after violent clashes. Mr Sanders called Mr Trump a pathological liar.",
+                "htmlSnippet": "Mar 14, 2016 <b>...</b> The row came after Mr <b>Trump</b> was forced to call off a <b>rally</b> in <b>Chicago</b> on Friday after <b>violent</b> clashes. Mr Sanders called Mr <b>Trump</b> a pathological liar.",
+                "formattedUrl": "https://www.bbc.com/news/election-us-2016-35801214",
+                "htmlFormattedUrl": "https://www.bbc.com/news/election-us-<b>2016</b>-35801214",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1AIOdGEQpbOFIdA27sSevmYdYx-e35a5W9MA4hk_sJle9dQC-ebAEzqE&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/16E14/production/_88761739_hi031968232.jpg",
+                            "theme-color": "#FFFFFF",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "BBC News",
+                            "msapplication-tileimage": "https://static.files.bbci.co.uk/core/website/assets/static/icons/windows-phone/news/windows-phone-icon-270x270.23502b4459eb7a6ab2ab.png",
+                            "og:description": "US Democratic hopeful Bernie Sanders calls Donald Trump a liar after the Republican front-runner accused him of sending protesters to disrupt his rallies.",
+                            "twitter:creator": "@BBCWorld",
+                            "twitter:image:alt": "Donald Trump",
+                            "twitter:site": "@BBCWorld",
+                            "fb:admins": "100004154058350",
+                            "msapplication-tilecolor": "#bb1919",
+                            "og:image:alt": "Donald Trump",
+                            "og:type": "article",
+                            "article:section": "US Election 2016",
+                            "twitter:title": "Donald Trump rally violence sparks 'liar' row",
+                            "og:title": "Donald Trump rally violence sparks 'liar' row",
+                            "article:author": "https://www.facebook.com/bbcnews",
+                            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/16E14/production/_88761739_hi031968232.jpg",
+                            "fb:app_id": "1609039196070050",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "US Democratic hopeful Bernie Sanders calls Donald Trump a liar after the Republican front-runner accused him of sending protesters to disrupt his rallies.",
+                            "og:locale": "en_GB",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "https://www.bbc.com/news/election-us-2016-35801214",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/16E14/production/_88761739_hi031968232.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "This video can not be played\nProtesters clashed with Donald Trump's supporters in Chicago\nUS Democratic hopeful Bernie Sanders has hit back after Republican front-runner Donald Trump said he had sent protesters to disrupt his rallies.\nThe row came after Mr Trump was forced to call off a rally in Chicago on Friday after violent clashes.\nMr Sanders called Mr Trump a \"pathological liar\". \nHe and his rival Hillary Clinton also accused Mr Trump of encouraging supporters to beat up protesters and then offering to pay their legal costs.\nOn Tuesday Republicans and Democrats vote in primaries in states including Florida and Ohio. \nRepublican candidate Marco Rubio, currently in third place, has said a win in his home state Florida is vital to prevent the Republican nomination being \"hijacked\" by Mr Trump.\nCriticism over violent Trump rallies\nIn pictures: Chicago rally hit by protests\nWhat Trump says about protesters at his rallies\nWhy are Americans so angry?\nReacting to Mr Trump's allegations, Mr Sanders also told the billionaire to tell his supporters that violence was not acceptable in the political process.\nMeanwhile Mrs Clinton accused the Republican, external of conducting a cynical campaign of hate and fear.\nThere were confrontations before and after the rally was cancelled\nHundreds of protesters gathered at the venue at the University of Illinois at Chicago on Friday. Inside the auditorium, fighting broke out between supporters and protesters, who waved flags and chanted.\nA statement from Mr Trump's campaign said the candidate decided to postpone the event after meeting with police.\nHowever, a Chicago Police Department spokesman said the force had not recommended that Mr...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The BBC is a highly regarded international news outlet known for its impartial reporting. Its adherence to strict editorial guidelines and fact-checking processes enhances its credibility significantly. The BBC has a longstanding reputation for reliability and accuracy in news reporting, making it one of the top-rated sources."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-03-14"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This evidence discusses the chaotic scene during the Chicago rally, including clashes and condemnation of Trump's rhetoric. While it highlights violence, there is no mention of any shooting, thus linking it to the context of the claim indirectly but not substantively."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Demonstrations and Political Violence in America: New Data for ...",
+                "htmlTitle": "<b>Demonstrations</b> and Political <b>Violence</b> in America: New Data for ...",
+                "link": "https://acleddata.com/2020/09/03/demonstrations-political-violence-in-america-new-data-for-summer-2020/",
+                "displayLink": "acleddata.com",
+                "snippet": "Sep 3, 2020 ... ... violence or destructive activity. Peaceful protests are reported in over 2,400 distinct locations around the country. Violent demonstrations\u00a0...",
+                "htmlSnippet": "Sep 3, 2020 <b>...</b> ... <b>violence</b> or destructive activity. Peaceful <b>protests</b> are <b>reported</b> in over 2,400 distinct locations around the country. <b>Violent demonstrations</b>&nbsp;...",
+                "formattedUrl": "https://acleddata.com/.../demonstrations-political-violence-in-america-new-...",
+                "htmlFormattedUrl": "https://acleddata.com/.../demonstrations-political-<b>violence</b>-in-america-new-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8neM5UueGxuRH-YQc3GvJ6RjodjyEPmCeQm6vyMXx0gBEMp30VIQpJOl0&s",
+                            "width": "270",
+                            "height": "187"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://acleddata.com/acleddatanew/wp-content/uploads/2020/09/US1-copy.png",
+                            "theme-color": "#004f6d",
+                            "og:type": "article",
+                            "article:published_time": "2020-09-03T17:50:10+00:00",
+                            "og:image:width": "916",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "ACLED",
+                            "tec-api-origin": "https://acleddata.com",
+                            "author": "Roudabeh Kishi, Sam Jones",
+                            "og:title": "Demonstrations and Political Violence in America: New Data for Summer 2020",
+                            "og:image:height": "636",
+                            "og:image:type": "image/png",
+                            "og:description": "Preliminary analysis of key trends from May to August.",
+                            "dlm-version": "4.9.14",
+                            "twitter:image": "https://acleddata.com/acleddatanew/wp-content/uploads/2020/09/Screen-Shot-2022-01-06-at-9.43.58-AM.png",
+                            "article:modified_time": "2024-04-02T15:57:24+00:00",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",
+                            "og:locale": "en_US",
+                            "og:url": "https://acleddata.com/2020/09/03/demonstrations-political-violence-in-america-new-data-for-summer-2020/",
+                            "tec-api-version": "v1"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://acleddata.com/acleddatanew/wp-content/uploads/2020/09/US1-copy.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://acleddata.com/2020/09/03/demonstrations-political-violence-in-america-new-data-for-summer-2020/: 429 Client Error: Too Many Requests for url: https://r.jina.ai/https://acleddata.com/2020/09/03/demonstrations-political-violence-in-america-new-data-for-summer-2020/",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "ACLED (Armed Conflict Location & Event Data Project) is primarily focused on collecting and analyzing data about political violence and protest events worldwide. While it provides valuable data and insights, it is not a traditional news outlet. Its reliability is dependent on the accuracy of the data it provides rather than news reporting, thus earning a slightly lower, but still respectable score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2020-09-03"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This evidence seems to cover broader trends in political violence and does not specifically reference the Chicago rally or the claim. It has minimal relevance due to its lack of direct context."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Hidden in Plain Sight: Racism, White Supremacy, and Far-Right ...",
+                "htmlTitle": "Hidden in Plain Sight: Racism, White Supremacy, and Far-Right ...",
+                "link": "https://www.brennancenter.org/our-work/research-reports/hidden-plain-sight-racism-white-supremacy-and-far-right-militancy-law",
+                "displayLink": "www.brennancenter.org",
+                "snippet": "Aug 27, 2020 ... The harms that armed law enforcement officers affiliated with violent white supremacist and anti-government militia groups can inflict on\u00a0...",
+                "htmlSnippet": "Aug 27, 2020 <b>...</b> The harms that armed law enforcement officers affiliated with <b>violent</b> white supremacist and anti-government militia groups can inflict on&nbsp;...",
+                "formattedUrl": "https://www.brennancenter.org/...reports/hidden-plain-sight-racism-white-s...",
+                "htmlFormattedUrl": "https://www.brennancenter.org/...<b>reports</b>/hidden-plain-sight-racism-white-s...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8KxdN-CrtmWGfnT-Uz1hDq0_7XtU1jPfCnNxXSJ1mPCtBuXkxMAHoHGV6&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "citation_publication_date": "Thu, 08/27/2020 - 16:39",
+                            "og:image": "https://www.brennancenter.org/sites/default/files/styles/1050x525/public/2020-08/200813_T1_GT494328123_RF_1630x932.jpg?itok=qd0um9pT",
+                            "parent": "library",
+                            "msapplication-config": "/themes/custom/paladin/patternlab/public/favicons/browserconfig.xml",
+                            "citation_title": "Hidden in Plain Sight: Racism, White Supremacy, and Far-Right Militancy in Law Enforcement",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "og:site_name": "Brennan Center for Justice",
+                            "twitter:url": "https://www.brennancenter.org/our-work/research-reports/hidden-plain-sight-racism-white-supremacy-and-far-right-militancy-law",
+                            "twitter:image:height": "525",
+                            "nid": "8589",
+                            "type": "research_report",
+                            "title": "Hidden in Plain Sight: Racism, White Supremacy, and Far-Right Militancy in Law Enforcement",
+                            "og:description": "The government\u2019s response to known connections of law enforcement officers to violent racist and militant groups has been strikingly insufficient.",
+                            "twitter:image": "https://www.brennancenter.org/sites/default/files/styles/1050x525/public/2020-08/200813_T1_GT494328123_RF_1630x932.jpg?itok=qd0um9pT",
+                            "path": "/our-work/research-reports/hidden-plain-sight-racism-white-supremacy-and-far-right-militancy-law",
+                            "langcode": "en",
+                            "twitter:image:alt": "White Supremacist Infiltration of Law Enforcement",
+                            "twitter:image:width": "1050",
+                            "summary": "The government\u2019s response to known connections of law enforcement officers to violent racist and militant groups has been strikingly insufficient.",
+                            "msapplication-tilecolor": "#ffffff",
+                            "type_friendly": "Research Report",
+                            "image": "https://www.brennancenter.org/sites/default/files/styles/search_wide/public/2020-08/200813_T1_GT494328123_RF_1630x932.jpg.webp?itok=d3xmiw1b",
+                            "og:type": "text",
+                            "og:image:alt": "White Supremacist Infiltration of Law Enforcement",
+                            "twitter:title": "Hidden in Plain Sight: Racism, White Supremacy, and Far-Right Militancy in Law Enforcement",
+                            "og:image:url": "https://www.brennancenter.org/sites/default/files/styles/1050x525/public/2020-08/200813_T1_GT494328123_RF_1630x932.jpg?itok=qd0um9pT",
+                            "handheldfriendly": "true",
+                            "author_friendly": "Michael German",
+                            "author": "136",
+                            "og:title": "Hidden in Plain Sight: Racism, White Supremacy, and Far-Right Militancy in Law Enforcement",
+                            "citation_author": "Michael German",
+                            "image_alt": "White Supremacist Infiltration of Law Enforcement",
+                            "sort_date": "2020-08-27T00:00:00-04:00",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "mobileoptimized": "width",
+                            "og:url": "https://www.brennancenter.org/our-work/research-reports/hidden-plain-sight-racism-white-supremacy-and-far-right-militancy-law",
+                            "publish_date": "2020-08-27T16:39:17-0400"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.brennancenter.org/sites/default/files/styles/1050x525/public/2020-08/200813_T1_GT494328123_RF_1630x932.jpg?itok=qd0um9pT"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...2_kTMkzRUQ79cs2Radley Balko, \u201cThere\u2019s Overwhelming Evidence that the Criminal\n    Justice System Is Racist. Here\u2019s the Proof,\u201d Washington Post, June 10, 2020, https://www.washingtonpost.com/news/opinions/wp/2018/09/18/theres-overwhelming-evidence-that-the-criminal-justice-system-is-racist-heres-the-proof/. These systemic inequities can also instill implicit biases \u2014 unconscious prejudices\n    that favor in-groups and stigmatize out-groups \u2014 among individual law enforcement officials, influencing their\n    day-to-day actions while interacting with the public.\u00a0\nPolice reforms, often imposed after incidents of racist misconduct or brutality, have focused on addressing these\n    unconscious manifestations of bias. The U.S. Department of Justice (DOJ), for example, has required implicit bias\n    training as part of consent decrees it imposes to root out discriminatory practices in law enforcement agencies.\n    Such training measures are designed to help law enforcement officers recognize these unconscious biases in order to\n    reduce their influence on police behavior.\nThese reforms, while well-intentioned, leave unaddressed an especially harmful form of bias, which remains entrenched\n    within law enforcement: explicit racism. Explicit racism in law enforcement takes many forms, from membership or\n    affiliation with violent white supremacist or far-right militant groups, to engaging in racially discriminatory\n    behavior toward the public or law enforcement colleagues, to making racist remarks and sharing them on social media.\n    While it is widely acknowledged that racist officers subsist within police departments around the country, federal,\n    state, and local governments are doing far too little to proactively identify them, report their behavior to\n    prosecutors who might unwittingly rely on their testimony in criminal cases, or protect the diverse communities they\n    are sworn to serve.\nEfforts to address systemic and implicit biases in law enforcement are unlikely to be effective in reducing the\n    racial disparities in the criminal justice system as long as explicit racism in law enforcement continues to endure.\n    There is ample evidence to demonstrate that it does.\nIn 2017, the FBI reported that white supremacists posed a \u201cpersistent threat of lethal violence\u201d that has\n    produced more fatalities than any other category of domestic terrorists since 2000. footnote3_yF81aemce5tf3Federal Bureau of Investigation and Department of Homeland Security, Joint\n    Intelligence Bulletin, White Supremacist Extremism Poses Persistent Threat of Lethal Violence, May 10,\n    2017, https://www.document...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "The Brennan Center for Justice is a non-partisan law and policy institute. While it produces important research and advocacy related to voting rights and justice issues, it is more of an advocacy organization than a news source. Therefore, while its reports can be informative, they may not encompass the broad scope and immediate reporting capabilities of traditional news outlets, resulting in a lower score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2020-08-27"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence does not address the specific events surrounding the Chicago rally or the claim about a shooting. It speaks to white supremacy and militancy more generally and holds little relevance to the current question."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Trump's Chicago rally called off for safety reasons amid chaos ...",
+                "htmlTitle": "<b>Trump&#39;s Chicago rally</b> called off for safety reasons amid chaos ...",
+                "link": "https://www.reuters.com/article/world/trumps-chicago-rally-called-off-for-safety-reasons-amid-chaos-idUSKCN0WE02V/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Mar 12, 2016 ... ... rally at the University of Illinois in Chicago March 11, 2016. REUTERS/Kamil Krzaczynski. [1/2]Demonstrators celebrate after Republican U.S.\u00a0...",
+                "htmlSnippet": "Mar 12, 2016 <b>...</b> ... <b>rally</b> at the University of Illinois in <b>Chicago March 11, 2016</b>. REUTERS/Kamil Krzaczynski. [1/2]Demonstrators celebrate after Republican U.S.&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/.../trumps-chicago-rally-called-off-for-safety-reaso...",
+                "htmlFormattedUrl": "https://www.reuters.com/.../<b>trump</b>s-<b>chicago</b>-<b>rally</b>-called-off-for-safety-reaso...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoiAt7-6MmC1b3oHgzb0O0MCs0PXY6SC06u7XQ2L9hcWF8xrfSLTT6Wwzj&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/article/world/trumps-chicago-rally-called-off-for-safety-reasons-amid-chaos-idUSKCN0WE02V/?id=KCN0WE02V",
+                            "og:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204",
+                            "analytics:page_layout": "regular-article",
+                            "article:published_time": "2016-03-12T15:16:06.000Z",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Reuters",
+                            "ccbot": "nofollow",
+                            "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                            "analyticsattributes.topicchannel": "World",
+                            "title": "Trump's Chicago rally called off for safety reasons amid chaos | Reuters",
+                            "og:description": "U.S. presidential candidate Donald Trump cancelled a rally scheduled for Friday night in Chicago after the event turned into a chaotic scene with thousands of attendees split into opposing camps of supporters of the Republican front-runner and protesters inflamed by his candidacy.",
+                            "twitter:creator": "@Reuters",
+                            "twitter:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204",
+                            "twitter:image:alt": "Reuters logo",
+                            "twitter:site": "@Reuters",
+                            "article:modified_time": "2016-03-12T02:51:45.000Z",
+                            "render_timestamp": "2024-07-30T12:22:14.182Z",
+                            "fb:admins": "988502044532272",
+                            "article:content_tier": "metered",
+                            "og:type": "article",
+                            "article:section": "World",
+                            "og:image:alt": "Reuters logo",
+                            "twitter:title": "Trump's Chicago rally called off for safety reasons amid chaos",
+                            "ad:template": "article",
+                            "og:image:url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204",
+                            "dcsext.dartzone": "/4735792/reuters.com/world/article",
+                            "og:title": "Trump's Chicago rally called off for safety reasons amid chaos",
+                            "dcsext.channellist": "World;",
+                            "og:image:height": "628",
+                            "og:article:published_time": "2016-03-12T15:16:06.000Z",
+                            "fb:pages": "114050161948682",
+                            "article:author": "Emily Flitter,Fiona Ortiz",
+                            "article:tag": "CWP,MTVID,NEWS1,POL,PXP,SECUR,US,USAIL,VIO,VOTE,VOTP,WASH",
+                            "fb:app_id": "988502044532272",
+                            "og:locale:alternate": "en_US",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "U.S. presidential candidate Donald Trump cancelled a rally scheduled for Friday night in Chicago after the event turned into a chaotic scene with thousands of attendees split into opposing camps of supporters of the Republican front-runner and protesters inflamed by his candidacy.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/article/world/trumps-chicago-rally-called-off-for-safety-reasons-amid-chaos-idUSKCN0WE02V/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/article/world/trumps-chicago-rally-called-off-for-safety-reasons-amid-chaos-idUSKCN0WE02V/: 429 Client Error: Too Many Requests for url: https://r.jina.ai/https://www.reuters.com/article/world/trumps-chicago-rally-called-off-for-safety-reasons-amid-chaos-idUSKCN0WE02V/",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Reuters is widely regarded for its rigorous journalism and is considered one of the most reliable news sources globally. It adheres to strict standards of accuracy and neutrality, making it a trustworthy source for news coverage, particularly regarding political events and international news."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-03-12"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This evidence touches on the cancelation of the rally due to chaos and protests at the location but does not mention any shooting. It indicates the tense environment, thus indirectly adding context but failing to address the claim directly."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,633 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Media coverage of Trump Tower Chicago protests",
+                "totalResults": "3730000",
+                "searchTerms": "Media coverage of Trump Tower Chicago protests",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Media coverage of Trump Tower Chicago protests",
+                "totalResults": "3730000",
+                "searchTerms": "Media coverage of Trump Tower Chicago protests",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.376823,
+        "formattedSearchTime": "0.38",
+        "totalResults": "3730000",
+        "formattedTotalResults": "3,730,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Trump in Chicago at Black journalists convention event Wednesday ...",
+                "htmlTitle": "<b>Trump</b> in <b>Chicago</b> at Black <b>journalists</b> convention event Wednesday ...",
+                "link": "https://www.nbcchicago.com/dnc-chicago-2024/trump-in-chicago-at-nabj-event-wednesday-traffic-protests-expected/3506571/",
+                "displayLink": "www.nbcchicago.com",
+                "snippet": "23 hours ago ... Protests and traffic are expected in downtown Chicago Wednesday as former President Donald Trump will be in town to speak at the National ...",
+                "htmlSnippet": "23 hours ago <b>...</b> <b>Protests</b> and traffic are expected in downtown <b>Chicago</b> Wednesday as former President Donald <b>Trump</b> will be in town to speak at the National&nbsp;...",
+                "formattedUrl": "https://www.nbcchicago.com/...chicago.../trump...chicago...protests.../3506...",
+                "htmlFormattedUrl": "https://www.nbc<b>chicago</b>.com/...<b>chicago</b>.../<b>trump</b>...<b>chicago</b>...<b>protests</b>.../3506...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkxruULsVnXERt-x0uEvwJmG3p2P7VSYtQoDg743iXIlOjayZFdJMZ-TqH&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.nbcchicago.com/2024/02/AP24032393701506.jpg?quality=85&strip=all&resize=1200%2C675",
+                            "twitter:card": "summary_large_image",
+                            "og:image:width": "1200",
+                            "og:site_name": "NBC Chicago",
+                            "sailthru.tags": "Decision 2024, Donald Trump",
+                            "twitter:url": "https://www.nbcchicago.com/dnc-chicago-2024/trump-in-chicago-at-nabj-event-wednesday-traffic-protests-expected/3506571/",
+                            "msapplication-tileimage": "https://media.nbcchicago.com/2019/09/cropped-NBC_Chicago.png?fit=270%2C270&quality=85&strip=all",
+                            "twitter:creator": "@nbcchicago",
+                            "og:description": "The appearance from Donald Trump comes weeks away from the Democratic National Convention in Chicago, scheduled for Aug. 19-22.",
+                            "article:publisher": "http://www.facebook.com/nbcchicago",
+                            "twitter:image": "https://media.nbcchicago.com/2024/02/AP24032393701506.jpg?quality=85&strip=all&resize=1200%2C675",
+                            "parsely-type": "post",
+                            "twitter:site": "@nbcchicago",
+                            "parsely-link": "http://www.nbcchicago.com/dnc-chicago-2024/trump-in-chicago-at-nabj-event-wednesday-traffic-protests-expected/3506571/",
+                            "sailthru.title": "Trump in Chicago today at NABJ event Wednesday; downtown traffic, protests expected",
+                            "parsely-image-url": "https://media.nbcchicago.com/2024/02/AP24032393701506.jpg?quality=85&strip=all&resize=218%2C123",
+                            "parsely-section": "Chicago Politics",
+                            "article:content_tier": "free",
+                            "sailthru.type": "article",
+                            "sailthru.date": "2024-07-31T06:34:08+00:00",
+                            "og:type": "article",
+                            "twitter:title": "Trump in Chicago at NABJ event Wednesday; traffic, protests expected",
+                            "og:title": "Trump in Chicago at NABJ event Wednesday; traffic, protests expected",
+                            "og:image:height": "675",
+                            "parsely-title": "Trump in Chicago at Black journalists convention event Wednesday; traffic, protests expected",
+                            "parsely-pub-date": "2024-07-31T11:34:08Z",
+                            "parsely-tags": "decision 2024,donald trump",
+                            "fb:app_id": "187516345314",
+                            "sailthru.description": "Protests and traffic are expected in downtown Chicago Wednesday as former President Donald Trump will be in town to speak at the National Association of Black...",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The appearance from Donald Trump comes weeks away from the Democratic National Convention in Chicago, scheduled for Aug. 19-22.",
+                            "taboola_lead": "video",
+                            "og:url": "https://www.nbcchicago.com/dnc-chicago-2024/trump-in-chicago-at-nabj-event-wednesday-traffic-protests-expected/3506571/",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.nbcchicago.com/2024/02/AP24032393701506.jpg?quality=85&strip=all&resize=1200%2C675"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Editor's Note: Former President Donald Trump's took the stage around 1 p.m. This video will be updated as it becomes available. \nProtests and traffic are expected in downtown Chicago Wednesday as former President Donald Trump will be in town to speak at an event as part of the National Association of Black Journalists convention. \n📺 24/7 Chicago news stream: Watch NBC 5 free wherever you are\nThe potential traffic disruption comes as road closures for this weekend's Lollapalooza music festival in Chicago are also set to go into effect \nTrump is scheduled to appear at the convention, taking place at the Hilton Hotel at 720 S. Michigan Ave., at 12 p.m. Wednesday as part of a conversation with moderators Rachel Scott of ABC News; Harris Faulkner of Fox News and Kadia Goba Semafor, a post from the NABJ said. \nThe event, open to convention attendees only, is described by organizers as a \"Q&A with political journalists before an audience of registered convention attendees that will concentrate on the most pressing issues facing the Black community.\" It will be fact-checked live by PolitiFact, and is scheduled to last one hour, organizers said.\nNo questions from the audience will be taken, the event website said. It will be streamed live in the player above and on the NBC Chicago streaming channel once it begins.\n“We look forward to our attendees hearing from former President Trump on the critical issues our members and their audiences care about most,”...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Media Coverage Has Blown Anti-lockdown Protests Out of ...",
+                "htmlTitle": "<b>Media Coverage</b> Has Blown Anti-lockdown <b>Protests</b> Out of ...",
+                "link": "https://www.belfercenter.org/publication/media-coverage-has-blown-anti-lockdown-protests-out-proportion",
+                "displayLink": "www.belfercenter.org",
+                "snippet": "Recent anti-Trump rallies have been bigger than the anti-lockdown protests. Guess which ones got more media attention?",
+                "htmlSnippet": "Recent anti-<b>Trump</b> rallies have been bigger than the anti-lockdown <b>protests</b>. Guess which ones got more <b>media attention</b>?",
+                "formattedUrl": "https://www.belfercenter.org/.../media-coverage-has-blown-anti-lockdown-...",
+                "htmlFormattedUrl": "https://www.belfercenter.org/.../<b>media</b>-<b>coverage</b>-has-blown-anti-lockdown-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdJamkURiZQS3M2ESoGWmX6JGDUDhnY5UetjVLl4pwsKOP5T7bIDqYnV_u&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.belfercenter.org/sites/default/files/styles/shared_image/public/images/publication/feature/open-our-ohio-protest-crop.jpg?h=15650ca4&itok=QCrWadpx",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Media Coverage Has Blown Anti-lockdown Protests Out of Proportion | Belfer Center for Science and International Affairs",
+                            "og:site_name": "Belfer Center for Science and International Affairs",
+                            "handheldfriendly": "true",
+                            "og:title": "Media Coverage Has Blown Anti-lockdown Protests Out of Proportion",
+                            "hks:publication_type": "Commentary",
+                            "og:description": "Recent anti-Trump rallies have been bigger than the anti-lockdown protests. Guess which ones got more media attention?",
+                            "fb:pages": "35622951402",
+                            "twitter:image": "https://www.belfercenter.org/sites/default/files/styles/shared_image/public/images/publication/feature/open-our-ohio-protest-crop.jpg?h=15650ca4&itok=QCrWadpx",
+                            "hks:policy_topics": "Health",
+                            "hks:publication_effective_date": "2020-05-10T04:00:00Z",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "hks:content_type": "Publications",
+                            "hks:centers": "Belfer Center for Science and International Affairs",
+                            "mobileoptimized": "width",
+                            "hks:geographic_regions": "North America",
+                            "og:url": "https://www.belfercenter.org/publication/media-coverage-has-blown-anti-lockdown-protests-out-proportion"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.belfercenter.org/sites/default/files/styles/shared_image/public/images/publication/feature/open-our-ohio-protest-crop.jpg?h=15650ca4&itok=QCrWadpx"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...ists.\nPrograms\n--------\n*   \n*   \n*   \n*   \n*   \nProjects\n--------\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nSpecial Initiatives\n-------------------\n*   \n*    \n*    \n*   \n*   \n*   \n!Wikimedia CC/Becker1999\nWikimedia CC/Becker1999\nOpen our Ohio rally in Columbus, Ohio, on April 19, 2020.\n*   Share\n    *   Facebook\n    *   Twitter\n    *   Pinterest\n    *   LinkedIn\n*   \n*   \nAnalysis & Opinions \\- Vox\nMedia Coverage Has Blown Anti-lockdown Protests Out of Proportion\n=================================================================\nAuthors:*   \n*   Lara Putnam\n*   Tommy Leung\n*   \n*   Nathan Perkins\n| May 10, 2020\nRecent anti-Trump rallies have been bigger than the anti-lockdown protests. Guess which ones got more media attention?\n----------------------------------------------------------------------------------------------------------------------\nIn the last few weeks, protests against state lockdowns and social distancing measures have  headlines. The wall-to-wall coverage might give the impression that what we're seeing is a powerful grassroots movement in the making.\nBut research we just conducted on protest attendance and media coverage shows something different: This massive media coverage has in fact been out of proportion.\nA comprehensive look at the social distancing protests reveals that they have been small in terms of both the number of participants and locations. As one official in the administration of Maryland Gov. Larry Hogan (R)  about a protest in Annapolis on April 20, \"There were more media inquiries about this than there were participants.\"\nOur count confirms this impression. As of May 3, we counted 245 protests throughout  and early  against social distancing and related restrictions. In contrast, notable recent uprisings numbered in the hundreds of protests throughout the country in a single day, including Lights for Liberty against the detention of immigrants on July 12, 2019 (699), the climate strikes of September 20, 2019 (1184), pro-impeachment rallies on December 17, 2019 (599), and the fourth Women’s March on January 18 of this year (267).\nThe social distancing protests have also drawn modest crowds, with between 35,000 and 47,000 total attendees reported across all events combined through May 3. In comparison, a...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "REPORT ON CHICAGO'S RESPONSE TO GEORGE FLOYD ...",
+                "htmlTitle": "<b>REPORT</b> ON <b>CHICAGO&#39;S</b> RESPONSE TO GEORGE FLOYD ...",
+                "link": "https://igchicago.org/wp-content/uploads/2021/02/OIG-Report-on-Chicagos-Response-to-George-Floyd-Protests-and-Unrest.pdf",
+                "displayLink": "igchicago.org",
+                "snippet": "Feb 18, 2021 ... FIG. 1: AGENCIES INVOLVED IN THE RESPONSE TO PROTESTS AND UNREST (CHART) .................. 21. FIG. 2: MAP OF DOWNTOWN CHICAGO SITES (MAP) ...",
+                "htmlSnippet": "Feb 18, 2021 <b>...</b> FIG. 1: AGENCIES INVOLVED IN THE RESPONSE TO <b>PROTESTS</b> AND UNREST (CHART) .................. 21. FIG. 2: MAP OF DOWNTOWN <b>CHICAGO</b> SITES (MAP)&nbsp;...",
+                "formattedUrl": "https://igchicago.org/.../OIG-Report-on-Chicagos-Response-to-George-Floy...",
+                "htmlFormattedUrl": "https://ig<b>chicago</b>.org/.../OIG-Report-on-<b>Chicago</b>s-Response-to-George-Floy...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJVnDy201nA3ybT4RdoH2TQFLlp4uK5NGycK1WVYBLkSWOEUyrQdnOJc&s",
+                            "width": "197",
+                            "height": "255"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "x-raw-image:///0beb920835580af28f0f243b1ffd696ba5a41566532a6213003da38a35c58eed"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "[Content truncated]... UNREST IN CHICAGO ................................ ................................ .................. 20 \nIV. FINDINGS ................................ ................................ ................................ .............................. 66 \nFINDING 1: BREAKDOWNS IN THE MASS ARREST PROCESS RESULTED IN CPD’S FAILURE \nTO ARREST S OME OFFENDERS, THE UNSUBSTANTIATED DETENTION AND \nSUBSEQUENT RELEASE OF SOME ARRESTEES WITHOUT CHARGES, AND RISKS TO \nOFFICER AND ARRESTEE SAFETY ................................ ................................ .......................... 66 \nA. CPD MASS ARREST PROCEDURES ................................ ................................ ........................ 66 \nB. CPD -REPORTED MASS ARREST DATA ................................ ................................ ................... 72 \nC. BREAKDOWNS IN CPD’S MASS ARREST PROCEDURES ................................ ........................ 77 \nFINDING 2: CPD DID NOT FULFILL ITS FORCE REPORTING OBLIGATIONS AND DID NOT \nPROVIDE CLEAR AND CONSISTENT GUIDANCE TO OFFICERS ON REPORTING \nOBLIGATIONS ................................ ................................ ................................ ....................... 94 \nA. CPD USE OF FORCE POLICY PROVISIONS ................................ ................................ ............. 94 \nB. CPD PARTNER AGENCIES AND USE OF FORCE ................................ ................................ .. 101 \nC. CPD -REPORTED USE OF FORCE DATA ................................ ................................ ................ 102 \nD. CPD’S FAILURE TO FULFILL USE OF FORCE REPORTING OBLIGATIONS ............................ 108 \nFINDING 3: CPD’S OPERATIONAL RESPONSE TO THE PROTESTS AND UNREST AND \nGAPS IN ITS RELEVANT POLICIES CRIPPLED ACCOUNTABILITY PROCESSES FROM \nTHE START ................................ ................................ ................................ .......................... 118 \nA. BREAKDOWNS IN MASS ARREST POLICIES AND PRACTICES FOR ACCOUNTABILITY ........ 118 \nB. BREAKDOWNS IN OVERSIGHT AND REVIEW OF THE USE OF FORCE; \nCOMPROMISING OF KEY ACCOUNTABILITY PERSONNEL ................................ .................. 119 \nC. NON -COMPLIANCE WITH CPD’S BODY -WORN CAMERA POLICY ................................ ...... 120 \nD. VIOLATIONS OF UNIFORM POLICY: OBSCURED IDENTIFIERS ................................ ............ 123 \nV. CONCLUSION ................................ ................................ ................................ ...................... 127 \nAPPENDIX A: CPD AREA AND DISTRICT MAP DURING THE RELEVANT PERIOD ............................ 130 \nAPPENDIX B: CPD ORGANIZATION CHART DURING THE...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Trump audited for double-dipping tax breaks on Chicago's Trump ...",
+                "htmlTitle": "<b>Trump</b> audited for double-dipping tax breaks on <b>Chicago&#39;s Trump</b> ...",
+                "link": "https://chicago.suntimes.com/nation-world/2024/05/11/trump-tower-chicago-tax-breaks-audit",
+                "displayLink": "chicago.suntimes.com",
+                "snippet": "May 11, 2024 ... Former President Donald Trump could be hit with a bill of more than $100 million for claiming improper tax breaks on his namesake tower ...",
+                "htmlSnippet": "May 11, 2024 <b>...</b> Former President Donald <b>Trump</b> could be hit with a bill of more than $100 million for claiming improper tax breaks on his namesake <b>tower</b>&nbsp;...",
+                "formattedUrl": "https://chicago.suntimes.com/nation.../trump-tower-chicago-tax-breaks-audi...",
+                "htmlFormattedUrl": "https://<b>chicago</b>.suntimes.com/nation.../<b>trump</b>-<b>tower</b>-<b>chicago</b>-tax-breaks-audi...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfhsMuerwW9258wZyfy3PHkPuzr048Gia2oH6NHYqhvJeLSDYKWxpcB-8&s",
+                            "width": "297",
+                            "height": "169"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cst.brightspotcdn.com/dims4/default/cf6eb6f/2147483647/strip/true/crop/5910x3374+0+283/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F71%2F21%2Fe55451ca42ecb8c76965f6c616a9%2Fprotest-6.jpg",
+                            "og:image:width": "1461",
+                            "article:published_time": "2024-05-11T16:52:37.949Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Chicago Sun-Times",
+                            "parsely-author": "Sun-Times staff",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "ProPublica and the New York Times found the former president could end up owing the IRS more than $100 million for claiming the same massive losses twice on his namesake River North tower.",
+                            "twitter:image": "https://cst.brightspotcdn.com/dims4/default/cf6eb6f/2147483647/strip/true/crop/5910x3374+0+283/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F71%2F21%2Fe55451ca42ecb8c76965f6c616a9%2Fprotest-6.jpg",
+                            "twitter:image:alt": "Hundreds of protesters march in front of Trump Tower on June 13, 2020, after the murder of George Floyd by police officer Derek Chauvin sparked protests across the nation.",
+                            "parsely-type": "post",
+                            "twitter:site": "@Suntimes",
+                            "article:modified_time": "2024-05-13T21:54:11.123Z",
+                            "parsely-link": "https://chicago.suntimes.com/nation-world/2024/05/11/trump-tower-chicago-tax-breaks-audit",
+                            "brightspot.contentid": "0000018f-682b-d135-afef-6a6f38150000",
+                            "parsely-section": "the-watchdogs",
+                            "og:image:alt": "Hundreds of protesters march in front of Trump Tower on June 13, 2020, after the murder of George Floyd by police officer Derek Chauvin sparked protests across the nation.",
+                            "og:type": "article",
+                            "article:section": "The Watchdogs",
+                            "twitter:title": "Trump audited for double-dipping tax breaks on Chicago’s Trump Tower",
+                            "og:image:url": "https://cst.brightspotcdn.com/dims4/default/cf6eb6f/2147483647/strip/true/crop/5910x3374+0+283/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F71%2F21%2Fe55451ca42ecb8c76965f6c616a9%2Fprotest-6.jpg",
+                            "og:title": "Trump audited for double-dipping tax breaks on Chicago’s Trump Tower",
+                            "og:image:height": "834",
+                            "parsely-title": "Trump audited for double-dipping tax breaks on Chicago’s Trump Tower",
+                            "article:author": "https://chicago.suntimes.com/authors/sun-times-staff",
+                            "parsely-pub-date": "2024-05-11T16:52Z",
+                            "fb:app_id": "425672421661236",
+                            "parsely-tags": "nation-world,politics,front-page,business,the-watchdogs",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5",
+                            "twitter:description": "ProPublica and the New York Times found the former president could end up owing the IRS more than $100 million for claiming the same massive losses twice on his namesake River North tower.",
+                            "og:url": "https://chicago.suntimes.com/nation-world/2024/05/11/trump-tower-chicago-tax-breaks-audit"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cst.brightspotcdn.com/dims4/default/cf6eb6f/2147483647/strip/true/crop/5910x3374+0+283/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F71%2F21%2Fe55451ca42ecb8c76965f6c616a9%2Fprotest-6.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   More\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n*   \n*   \nShow Search\nSearch Query Search\nTrump audited for double-dipping tax breaks on Chicago’s Trump Tower\n====================================================================\nProPublica and the New York Times found the former president could end up owing the IRS more than $100 million for claiming the same massive losses twice on his namesake River North tower.\n--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nBy  \n  !\nHundreds of protesters marched in front of Trump Tower on June 13, 2020, after the murder of George Floyd by police officer Derek Chauvin sparked protests across the nation.\nPat Nabong/Sun-Times\n*   \n*   \nShare\nCLOSE\n*   \n*   \n*   \n*   \n*   \n*   \nFormer President Donald Trump could be hit with a bill of more than $100 million for claiming improper tax breaks on his namesake tower along the Chicago River, according to a report Saturday by ProPublica and The New York Times.\nIn a yearslong audit battle, the IRS has contended that Trump effectively wrote off the same massive losses twice on the Trump International Hotel and Tower at 401 N. Wabash Ave., \nTrump reported $651 million in losses on the River North tower in 2008, when he claimed the 92-story building met the tax code definition of “worthless” shortly before its completion during the heart of the Great Recession, the news outlets found.\nThen, in 2010, Trump shifted the company that owned the tower into a new partnership, a move he cited to justify $168 million in additional losses over the next 10 years, ProPublica and...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Watching the watchdogs: How US media weaponised campus ...",
+                "htmlTitle": "Watching the watchdogs: How US <b>media</b> weaponised campus ...",
+                "link": "https://www.aljazeera.com/opinions/2024/5/6/watching-the-watchdogs-how-us-media-messed-up-campus-protests-coverage",
+                "displayLink": "www.aljazeera.com",
+                "snippet": "May 6, 2024 ... Watching the watchdogs: How US media weaponised campus protests coverage ... Chicago. Pro-Palestinian student protesters link arms as Chicago ...",
+                "htmlSnippet": "May 6, 2024 <b>...</b> Watching the watchdogs: How US <b>media</b> weaponised campus <b>protests coverage</b> ... <b>Chicago</b>. Pro-Palestinian student <b>protesters</b> link arms as <b>Chicago</b>&nbsp;...",
+                "formattedUrl": "https://www.aljazeera.com/.../watching-the-watchdogs-how-us-media-messe...",
+                "htmlFormattedUrl": "https://www.aljazeera.com/.../watching-the-watchdogs-how-us-<b>media</b>-messe...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8jiWzBaH9A7fUrQptNv3qHaY9Wr9x9fhaa9Eedp2KQmDPXTVzSNcPyD4&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "Article Page",
+                            "og:image": "https://www.aljazeera.com/wp-content/uploads/2024/05/12201602-1714887788.jpg?resize=1920%2C1440",
+                            "apple-itunes-app": "app-id=1534955972",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Al Jazeera",
+                            "twitter:url": "https://www.aljazeera.com/opinions/2024/5/6/watching-the-watchdogs-how-us-media-messed-up-campus-protests-coverage",
+                            "pagesection": "Opinion,Education,Israel-Palestine conflict",
+                            "channel": "aje",
+                            "publisheddate": "2024-05-06T12:41:21",
+                            "postid": "2882696",
+                            "displayauthors": "Rami G Khouri",
+                            "og:description": "Mainstream media has joined US power elites in demonising pro-Palestinian encampments on campuses.",
+                            "taxonomyterms": "Opinions, Education, Israel-Palestine conflict, Israel, Middle East, Palestine, United States, US & Canada",
+                            "lastdate": "2024-05-07T13:04:29",
+                            "primarytopic": "Opinions",
+                            "twitter:image:alt": "Watching the watchdogs: How US media weaponised campus protests coverage",
+                            "internalreporting": "Take me deeper",
+                            "where": "Israel, Middle East, Palestine, United States, US & Canada",
+                            "primarytag": "Education",
+                            "ga4": "G-XN9JB9Q0M1",
+                            "twitter:account_id": "5536782",
+                            "pageauthors": "Rami G Khouri",
+                            "og:type": "article",
+                            "twitter:title": "Watching the watchdogs: How US media weaponised campus protests coverage",
+                            "taxonomy-tags": "Opinions, Education, Israel-Palestine conflict",
+                            "topics": "Opinions",
+                            "author": "Rami G Khouri",
+                            "og:title": "Watching the watchdogs: How US media weaponised campus protests coverage",
+                            "tags": "Education, Israel-Palestine conflict",
+                            "contenttype": "opinion",
+                            "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2024/05/12201602-1714887788.jpg?resize=1920%2C1440",
+                            "articleslug": "watching-the-watchdogs-how-us-media-messed-up-campus-protests-coverage",
+                            "postlink": "/opinions/2024/5/6/watching-the-watchdogs-how-us-media-messed-up-campus-protests-coverage",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "Mainstream media has joined US power elites in demonising pro-Palestinian encampments on campuses.",
+                            "pagetitle": "Watching the watchdogs: How US media weaponised campus protests coverage",
+                            "og:url": "https://www.aljazeera.com/opinions/2024/5/6/watching-the-watchdogs-how-us-media-messed-up-campus-protests-coverage"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.aljazeera.com/wp-content/uploads/2024/05/12201602-1714887788.jpg?resize=1920%2C1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Mainstream media has joined US power elites in demonising pro-Palestinian encampments on campuses.\nA great, novel experiment in political physics is under way in the United States, as the unstoppable moral force of youth-led protests against Israel’s genocidal war in Gaza runs into the immovable object of the American power elite’s support for it.\nIn this clash, two critical forces have been weaponised: the US mainstream media that heavily disseminates Israeli propaganda and shapes many local, state and national policies, and the scourge of anti-Semitism that has been unfairly used to demonise and silence Palestinians and shift attention away from the US-enabled Israeli genocide in Gaza.\nSince Israel launched its assault on Gaza, President Joe Biden’s steadfast support for it has galvanised young Americans and pushed them to mobilise.\nThey have formed decisive coalitions with Muslim and Arab Americans, Jewish, Black, Hispanic and Native communities, labour unions and churches. They have given notice that if the US continues to support the war, they will abandon Democratic candidates in the November elections, which would likely be fatal for the party.\nThe American power elite largely ignored the initial criticisms of the young and the marginalised, until student encampments started springing up at universities across the country three weeks ago. The students demanded an immediate ceasefire in Gaza...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "'Pussy Grabs Back' Protest Held Outside Chicago's Trump Tower ...",
+                "htmlTitle": "&#39;Pussy Grabs Back&#39; <b>Protest</b> Held Outside <b>Chicago&#39;s Trump Tower</b> ...",
+                "link": "http://rebelliousmagazine.com/pussy-grabs-back-protest-held-outside-chicagos-trump-tower/",
+                "displayLink": "rebelliousmagazine.com",
+                "snippet": "Oct 18, 2016 ... Rebellious Magazine delivers a unique feminist perspective on Chicago news, events, politics and culture through original articles, essays and ...",
+                "htmlSnippet": "Oct 18, 2016 <b>...</b> Rebellious Magazine delivers a unique feminist perspective on <b>Chicago news</b>, events, politics and culture through original articles, essays and&nbsp;...",
+                "formattedUrl": "http://rebelliousmagazine.com/pussy-grabs-back-protest-held-outside-chica...",
+                "htmlFormattedUrl": "http://rebelliousmagazine.com/pussy-grabs-back-protest-held-outside-<b>chica</b>...",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "url_text": "Karen Hawkins",
+                            "fn": "Karen Hawkins",
+                            "url": "https://rebelliousmagazine.com/author/karen/"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyRmQBqkIYztd3vQib_0OsfX3mO11myS_CPWzBplTpOLvUHshhTzFL_XE&s",
+                            "width": "251",
+                            "height": "201"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i0.wp.com/rebelliousmagazine.com/wp-content/uploads/2017/02/PussyGrabsBack2.jpg?fit=3552%2C2843",
+                            "article:published_time": "2016-10-18T19:04:37+00:00",
+                            "og:image:width": "3552",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#fff",
+                            "og:site_name": "Rebellious Magazine",
+                            "apple-mobile-web-app-title": "Rebellious",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://i0.wp.com/rebelliousmagazine.com/wp-content/uploads/2016/12/cropped-favicon-2.png?fit=270%2C270&ssl=1",
+                            "og:description": "150 protesters gathered outside Chicago's Trump Tower, joining a national movement of women clapping back against the Republican presidential candidate.",
+                            "twitter:creator": "@ChiefRebelle",
+                            "article:publisher": "https://www.facebook.com/rebelliousmag/",
+                            "twitter:data1": "Karen Hawkins",
+                            "twitter:data2": "2 minutes",
+                            "twitter:site": "@RebelliousMag",
+                            "article:modified_time": "2017-02-22T04:07:49+00:00",
+                            "application-name": "Rebellious",
+                            "og:type": "article",
+                            "author": "Karen Hawkins",
+                            "og:title": "'Pussy Grabs Back' Protest Held Outside Chicago's Trump Tower - Rebellious Magazine",
+                            "og:image:height": "2843",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:locale": "en_US",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "http://rebelliousmagazine.com/pussy-grabs-back-protest-held-outside-chicagos-trump-tower/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i0.wp.com/rebelliousmagazine.com/wp-content/uploads/2017/02/PussyGrabsBack2.jpg?fit=3552%2C2843"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching http://rebelliousmagazine.com/pussy-grabs-back-protest-held-outside-chicagos-trump-tower/: 403 Client Error: Forbidden for url: https://r.jina.ai/http://rebelliousmagazine.com/pussy-grabs-back-protest-held-outside-chicagos-trump-tower/",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Taxpayers Spend Another $1.3M to Settle Lawsuits Accusing CPD ...",
+                "htmlTitle": "Taxpayers Spend Another $1.3M to Settle Lawsuits Accusing CPD ...",
+                "link": "https://news.wttw.com/2024/05/22/taxpayers-spend-another-13m-settle-lawsuits-accusing-cpd-officers-misconduct-during",
+                "displayLink": "news.wttw.com",
+                "snippet": "May 22, 2024 ... In all, Chicago taxpayers have spent at least $6.8 million to defend and settle lawsuits alleging Chicago police officers committed a wide ...",
+                "htmlSnippet": "May 22, 2024 <b>...</b> In all, <b>Chicago</b> taxpayers have spent at least $6.8 million to defend and settle lawsuits alleging <b>Chicago</b> police officers committed a wide&nbsp;...",
+                "formattedUrl": "https://news.wttw.com/.../taxpayers-spend-another-13m-settle-lawsuits-accu...",
+                "htmlFormattedUrl": "https://news.wttw.com/.../taxpayers-spend-another-13m-settle-lawsuits-accu...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU2Jb5_bah4ZvDDKekxG7yVo9XN5_kCZOuBnr2q9fp9VZzd5jNscsUonU&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "Item": [
+                        {
+                            "num_replies": "0",
+                            "title": "Taxpayers Spend Another $1.3M to Settle Lawsuits Accusing CPD Officers of Misconduct During Protests, Unrest in 2020",
+                            "encoded": "A protester faces a line of police officers in Chicago on Saturday, May 30, 2020. (Hugo Balta / WTTW News) The Chicago City Council voted Wednesday to pay nearly $1.3 million to resolve two..."
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://news.wttw.com/sites/default/files/field/image/ChicagoProtest_053020_HugoBalta_5463_0_0.jpg",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Taxpayers Spend Another $1.3M to Settle Lawsuits Accusing CPD",
+                            "og:site_name": "WTTW News",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "news_keywords": "Protest, George Floyd, Chicago Police Department, Police Accountability, Police Oversight, Courts, City Council",
+                            "twitter:url": "https://news.wttw.com/2024/05/22/taxpayers-spend-another-13m-settle-lawsuits-accusing-cpd-officers-misconduct-during",
+                            "og:title": "Taxpayers Spend Another $1.3M to Settle Lawsuits Accusing CPD Officers of Misconduct During Protests, Unrest in 2020",
+                            "og:url": "https://news.wttw.com/2024/05/22/taxpayers-spend-another-13m-settle-lawsuits-accusing-cpd-officers-misconduct-during",
+                            "og:description": "In all, Chicago taxpayers have spent at least $6.8 million to defend and settle lawsuits alleging Chicago police officers committed a wide range of misconduct during the protests and unrest during the summer of 2020, according to an analysis by WTTW News."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://news.wttw.com/sites/default/files/field/image/ChicagoProtest_053020_HugoBalta_5463_0_0.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "]\nSearch WTTW:\n] ] ] ]\n*   \n*   \n*   \n*   \n*   \n!\nSearch WTTW:\nToggle main menu visibility\n*   Search WTTW:\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   ",
+                    "content_tokens": 66
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "How the weekend unfolded: Timeline of Chicago protests, looting ...",
+                "htmlTitle": "How the weekend unfolded: Timeline of <b>Chicago protests</b>, looting ...",
+                "link": "https://www.chicagotribune.com/2020/06/01/how-the-weekend-unfolded-timeline-of-chicago-protests-looting-and-unrest/",
+                "displayLink": "www.chicagotribune.com",
+                "snippet": "Jun 1, 2020 ... A demonstrator burns an American flag during a march in the Loop on May 29, 2020, to bring attention to the May 25 murder of George Floyd by a ...",
+                "htmlSnippet": "Jun 1, 2020 <b>...</b> A demonstrator burns an American flag during a march in the Loop on May 29, 2020, to bring <b>attention</b> to the May 25 murder of George Floyd by a&nbsp;...",
+                "formattedUrl": "https://www.chicagotribune.com/.../how-the-weekend-unfolded-timeline-of...",
+                "htmlFormattedUrl": "https://www.<b>chicago</b>tribune.com/.../how-the-weekend-unfolded-timeline-of...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkR8RN9-rhQ54aIQi-qEFNs8Kxc41fxHUvrGgelxX4oy6WC78vT4uBt3Y&s",
+                            "width": "274",
+                            "height": "184"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "application-name": "chicagotribune",
+                            "og:image": "https://www.chicagotribune.com/wp-content/uploads/migration/2020/06/02/ZT5APOBBO5DPNDWC3T577I5PNY.jpg?w=1024&h=670",
+                            "og:type": "article",
+                            "article:published_time": "2020-06-01T21:32:12+00:00",
+                            "og:image:width": "1024",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Chicago Tribune",
+                            "msvalidate.01": "4B535F7EB2971D1FCBA5D1D3E3E292C3",
+                            "og:title": "How the weekend unfolded: Timeline of Chicago protests, looting and unrest",
+                            "og:image:height": "670",
+                            "msapplication-tileimage": "https://www.chicagotribune.com/wp-content/uploads/2024/02/favicon.png?w=16",
+                            "og:description": "Tense protests over the death of George Floyd in Minneapolis on May 25 turned into a weekend of violent unrest downtown in the Loop and along Michigan Avenue. Saturday night saw damage and looting …",
+                            "twitter:image": "https://www.chicagotribune.com/wp-content/uploads/migration/2020/06/02/ZT5APOBBO5DPNDWC3T577I5PNY.jpg?w=640",
+                            "twitter:text:title": "How the weekend unfolded: Timeline of Chicago protests, looting and unrest",
+                            "article:modified_time": "2020-06-02T01:32:12+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.chicagotribune.com/2020/06/01/how-the-weekend-unfolded-timeline-of-chicago-protests-looting-and-unrest/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.chicagotribune.com/wp-content/uploads/migration/2020/06/02/ZT5APOBBO5DPNDWC3T577I5PNY.jpg?w=1024&h=670"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.chicagotribune.com/2020/06/01/how-the-weekend-unfolded-timeline-of-chicago-protests-looting-and-unrest/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.chicagotribune.com/2020/06/01/how-the-weekend-unfolded-timeline-of-chicago-protests-looting-and-unrest/",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Medill students receive Society of Professional Journalists awards ...",
+                "htmlTitle": "Medill students receive Society of Professional <b>Journalists</b> awards ...",
+                "link": "https://www.medill.northwestern.edu/news/2019/spj-mark-of-excellence.html",
+                "displayLink": "www.medill.northwestern.edu",
+                "snippet": "May 21, 2019 ... Mark of Excellence awards honor collegiate journalism · Staff of The Daily Northwestern, Breaking News Reporting, Reports of man with gun on ...",
+                "htmlSnippet": "May 21, 2019 <b>...</b> Mark of Excellence awards honor collegiate journalism &middot; Staff of The Daily Northwestern, Breaking <b>News Reporting</b>, <b>Reports</b> of man with gun on&nbsp;...",
+                "formattedUrl": "https://www.medill.northwestern.edu/news/.../spj-mark-of-excellence.html",
+                "htmlFormattedUrl": "https://www.medill.northwestern.edu/news/.../spj-mark-of-excellence.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGrxD9nYSVll31pX2ewxzOaF5-PDy20bVJN_zuOzf6ZvjomRLWNr1FHFg&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "CollegeOrUniversity": [
+                        {
+                            "name": "Medill School of Journalism, Media, Integrated",
+                            "logo": "https://www.medill.northwestern.edu/_assets/images/ui/logo.svg",
+                            "url": "https://www.medill.northwestern.edu/",
+                            "sameAs": "https://www.facebook.com/MedillNU/"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#ffffff",
+                            "msapplication-config": "/_assets/images/favico/browserconfig.xml",
+                            "og:image": "https://www.medill.northwestern.edu/_imgs/news/1000x750-slider/spj-logo1000x750.jpg",
+                            "theme-color": "#ffffff",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Medill students receive Society of Professional Journalists awards - Medill - Northwestern University",
+                            "author": "Medill - Northwestern University",
+                            "og:title": "Medill students receive Society of Professional Journalists awards - Medill - Northwestern University",
+                            "og:description": "Medill and Northwestern students received Society of Professional Journalist Mark of Excellence Awards in Region 5.",
+                            "twitter:creator": "@MedillSchool",
+                            "twitter:image": "https://www.medill.northwestern.edu/_imgs/news/1000x750-slider/spj-logo1000x750.jpg",
+                            "twitter:site": "@MedillSchool",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Medill and Northwestern students received Society of Professional Journalist Mark of Excellence Awards in Region 5.",
+                            "og:url": "https://www.medill.northwestern.edu/news/2019/spj-mark-of-excellence.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.medill.northwestern.edu/_imgs/news/1000x750-slider/spj-logo1000x750.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Medill website    \nSearch\n]  \n*   \n    !\n    Discover MedillWe are training a new generation of multimedia journalists and integrated marketing communications professionals who are finding new ways to understand audiences and not only thriving in this exciting new landscape but also helping to shape it.\n    *   \n    *   \n    *   \n    *   \n*   \n    !\n    Discover JournalismCreate innovative marketing communications strategies to engage consumers in the digital age.\n    *   \n    *   \n    *   \n    *   \n*   \n    !\n    Discover IMCCreate innovative marketing communications strategies to engage consumers in the digital age.\n    *   \n    *   \n    *   \n    *   \n*   \n] \n]\nSearch Medill website   \nSearch\n] \nSearch Medill website   \nSearch\n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   Information for:\n    *   \n    *   \n    *   \n*    \n*   *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n*   \n*   SPJ Mark of Excellence\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n*   \n*   \nMedill students receive Society of Professional Journalists awards\n==================================================================\nMark of Excellence awards honor collegiate journalism\n-----------------------------------------------------\n!\nThe Society of Professional Journalists presents the Mark of Excellence Awards annually. Offering 51 categories in print, radio, television and online publications, the awards honor the best in collegiate journalism. According to SPJ, MOE Awards entries are judged by professionals with at least three years of journalism experience.\nThe following students from Medill and Northwestern received awards this year in the Region 5 contest, which includes Illinois, Indiana and Kentucky:\n*   Staff of The Daily Northwestern, Breaking News Reporting, _Reports of man with gun on campus determined to be hoax, “swatting incident”_\n*   Julia Esparza (BSJ20), General News Reporting, _Salvadoran woman finds refuge in Evanston church, attempts to reunite with daughter_\n*   Libby Berry (BSJ19), General News Reporting, _Lawmakers in last-minute push to make members of Congress liable for sexual harassment_\n*   Jane Recker (BSJ19) and Marissa Martinez (BSJ21), General Column Writing\n*   Benjamin Rosenberg (BSJ21), Sports Writing, _NU grad earns fellowship with MLB commissioner, hopes to become league’s first female GM_\n*   Editorial Board of The Daily Northwestern, Editorial Writing\n*   Staff of The Daily Northwestern, Best All-Around Daily Student Newspaper\n*   Elizabeth Guthrie (BSJ20), Non...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "'He's Not Welcome Here': Protesters Tell Trump He Isn't Wanted in ...",
+                "htmlTitle": "&#39;He&#39;s Not Welcome Here&#39;: <b>Protesters</b> Tell <b>Trump</b> He Isn&#39;t Wanted in ...",
+                "link": "https://news.wttw.com/2024/07/31/he-s-not-welcome-here-protesters-tell-trump-he-isn-t-wanted-chicago-ahead-former",
+                "displayLink": "news.wttw.com",
+                "snippet": "20 hours ago ... Wednesday's event marked former President Donald Trump's second appearance in Chicago since 2016, when massive protests forced him to scrap ...",
+                "htmlSnippet": "20 hours ago <b>...</b> Wednesday&#39;s event marked former President Donald <b>Trump&#39;s</b> second appearance in <b>Chicago</b> since 2016, when massive <b>protests</b> forced him to scrap&nbsp;...",
+                "formattedUrl": "https://news.wttw.com/.../he-s-not-welcome-here-protesters-tell-trump-he-is...",
+                "htmlFormattedUrl": "https://news.wttw.com/.../he-s-not-welcome-here-protesters-tell-<b>trump</b>-he-is...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXBYVynLvHtxuwmKp2MA5vmxB2tVIrTvPf7cxNOTuKfrT-zx4Hm4tDQFcu&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "Item": [
+                        {
+                            "num_replies": "0",
+                            "label": "Politics",
+                            "title": "‘He’s Not Welcome Here’: Protesters Tell Trump He Isn’t Wanted in Chicago Ahead of Former President’s Appearance",
+                            "encoded": "Protesters gathered outside Hilton Chicago, where former president Donald Trump was set to speak Wednesday, July 31, 2024. (Matt Masterson / WTTW News) As Donald Trump took the stage Wednesday..."
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://news.wttw.com/sites/default/files/field/image/PXL_20240731_165606138%20Cropped.jpg",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "‘He’s Not Welcome Here’: Protesters Tell Trump He Isn’t Wanted in",
+                            "og:site_name": "WTTW News",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "news_keywords": "Donald Trump, Protest, 2024 Election",
+                            "twitter:url": "https://news.wttw.com/2024/07/31/he-s-not-welcome-here-protesters-tell-trump-he-isn-t-wanted-chicago-ahead-former",
+                            "og:title": "‘He’s Not Welcome Here’: Protesters Tell Trump He Isn’t Wanted in Chicago Ahead of Former President’s Appearance",
+                            "og:url": "https://news.wttw.com/2024/07/31/he-s-not-welcome-here-protesters-tell-trump-he-isn-t-wanted-chicago-ahead-former",
+                            "og:description": "Wednesday’s event marked former President Donald Trump’s second appearance in Chicago since 2016, when massive protests forced him to scrap a rally on the University of Illinois Chicago campus."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://news.wttw.com/sites/default/files/field/image/PXL_20240731_165606138%20Cropped.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...W News: \n Toggle WTTW News menu visibility\nSearch WTTW News: \n*   \n*   \n*   \n*   \n*   \n*   \n#### \n‘He’s Not Welcome Here’: Protesters Tell Trump He Isn’t Wanted in Chicago Ahead of Former President’s Appearance\n----------------------------------------------------------------------------------------------------------------\n | July 31, 2024 2:36 pm\n\")\n!Protesters gathered outside Hilton Chicago, where former president Donald Trump was set to speak Wednesday, July 31, 2024. (Matt Masterson / WTTW News)\nAs Donald Trump took the stage Wednesday to speak inside Hilton Chicago, protesters gathered outside and decried the former president as a “racist” and “weirdo.”\nThanks to our sponsors:\n-----------------------\n---------------------------------------------------\nA few dozen protesters gathered outside the hotel Wednesday morning where they said Trump was not welcome in Chicago ahead of his appearance at the National Association of Black Journalists’ annual convention. Trump spoke in a conversation moderated by three journalists.\n“Racist Trump, the racist Republican Party, the reactionary policies, the fascist policies and their candidate are just not welcome in this city,” Hatem Abudayyeh, chair of the Chicago-based U.S. Palestinian Community Network told WTTW News. “The vast majority of Chicagoans feel that way, the vast majority of people in the United States feel that way as well. That’s why we’re here.”\nWednesday’s event marked Trump’s second appearance in Chicago since 2016, when massive protests forced him to scrap a rally on the University of Illinois Chicago campus. His NABJ convention speaking event was only announced this week.\nThe hastily assembled protest Wednesday along South Michigan Avenue remained peaceful as attendees chanted “Racist, sexist, anti-gay, Donald Trump go away” and “Say it loud, say it clear, Donald Trump’s not welcome here.”\nA six-piece brass band also sang “Trump’s not like us” to the tune of Kendrick Lamar’s “Not Like Us.”\nChicago police blocked off side streets near the hotel, but traffic continued unabated along Michigan Avenue.\nThe rally included several speakers who protested Trump and his presidential campaign during the Republican National Convention in Milwaukee earlier this month and plan to organize again for the Democratic National Convention next month in Chicago.\nAmong them was Kobi Guillory, an activist with the Chicago Alliance Against Racist and Political Repression, who said Trump should not be given a platform to speak in Chicago.\n“Every time he’s making his racist points, what city does he use to make his racist talking points? Chicago, this city right here,” Guillory said....[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}
