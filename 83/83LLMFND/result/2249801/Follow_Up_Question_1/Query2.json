@@ -1,0 +1,739 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Amy Winehouse singing age ten video",
+                "totalResults": "726000",
+                "searchTerms": "Amy Winehouse singing age ten video",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Amy Winehouse singing age ten video",
+                "totalResults": "726000",
+                "searchTerms": "Amy Winehouse singing age ten video",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.27308,
+        "formattedSearchTime": "0.27",
+        "totalResults": "726000",
+        "formattedTotalResults": "726,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Home video of Amy Winehouse singing aged 14 confirms star's ...",
+                "htmlTitle": "Home <b>video</b> of <b>Amy Winehouse singing aged</b> 14 confirms star&#39;s ...",
+                "link": "https://www.smoothradio.com/artists/amy-winehouse/young-home-video-singing-documentary/",
+                "displayLink": "www.smoothradio.com",
+                "snippet": "Sep 28, 2020 ... Home video footage from the 2015 documentary 'Amy' shows the young star's amazing natural talent. Picture: Youtube/Film4/Universal Music/A24.",
+                "htmlSnippet": "Sep 28, 2020 <b>...</b> Home <b>video</b> footage from the 2015 documentary &#39;<b>Amy</b>&#39; shows the young star&#39;s amazing natural talent. Picture: <b>Youtube</b>/Film4/Universal <b>Music</b>/A24.",
+                "formattedUrl": "https://www.smoothradio.com/.../amy-winehouse/young-home-video-singi...",
+                "htmlFormattedUrl": "https://www.smoothradio.com/.../<b>amy</b>-<b>winehouse</b>/young-home-<b>video</b>-<b>singi</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRYpZA8IgNHt62YUZDVSlWBZqRAdOdw--xXyYPcVI4Oq0jn7Rr37F0vVYx&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "musicrecording": [
+                        {
+                            "image": "https://images.musicrad.io/resizer/?image=aHR0cHM6Ly9pczUtc3NsLm16c3RhdGljLmNvbS9pbWFnZS90aHVtYi9NdXNpYy92NC82Yy85ZC85OS82YzlkOTk2ZC00OTZjLTgzYjItMzEwMy0zM2RjMWRmODVmOWQvc291cmNlLzYwMHg2MDBiYi5qcGc%3D&width=225&signature=TigVJI8FuWb1rWYRL4zubGF2DrY=",
+                            "byartist": "Paul Young",
+                            "name": "Wherever I Lay My Hat (That's My Home)"
+                        }
+                    ],
+                    "organization": [
+                        {
+                            "address": "30 Leicester Square, London, WC2H 7LA",
+                            "legalname": "Global"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://imgs.smoothradio.com/images/191482?width=1200&crop=16_9&signature=I4jkXbV9-NR82b88qrTTQYvOvI0=",
+                            "apple-itunes-app": "app-id=1142951331",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Smooth",
+                            "og:domain": "www.smoothradio.com",
+                            "twitter:url": "https://www.smoothradio.com/artists/amy-winehouse/young-home-video-singing-documentary/",
+                            "parsely-author": "Giorgina Ramazzotti",
+                            "og:description": "Old home video footage of a 14-year-old Amy Winehouse, shown in the 2015 documentary 'Amy', proves how spectacular her singing voice was from the very beginning.",
+                            "twitter:image": "https://imgs.smoothradio.com/images/191482?width=1200&crop=16_9&signature=I4jkXbV9-NR82b88qrTTQYvOvI0=",
+                            "parsely-type": "post",
+                            "twitter:site": "@SmoothRadio",
+                            "parsely-link": "https://www.smoothradio.com/artists/amy-winehouse/young-home-video-singing-documentary/",
+                            "parsely-image-url": "https://imgs.smoothradio.com/images/191482?width=1200&crop=16_9&signature=I4jkXbV9-NR82b88qrTTQYvOvI0=",
+                            "fb:admins": "551351399,695470561,533626296",
+                            "fb:page_id": "21354157824",
+                            "modified": "2021-05-14T16:04:13",
+                            "parsely-section": "/artists/amy-winehouse/",
+                            "pubdate": "2020-09-28T14:39:58",
+                            "og:type": "article",
+                            "twitter:title": "Home video of Amy Winehouse singing aged 14 confirms star's stunning natural talent",
+                            "parsely-post-id": "60612",
+                            "og:title": "Home video of Amy Winehouse singing aged 14 confirms star's stunning natural talent",
+                            "og:image:height": "675",
+                            "fb:pages": "21354157824",
+                            "parsely-title": "Home video of Amy Winehouse singing aged 14 confirms star's stunning natural talent",
+                            "parsely-pub-date": "2020-09-28T14:39:58+01:00",
+                            "fb:app_id": "233524320165894",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Old home video footage of a 14-year-old Amy Winehouse, shown in the 2015 documentary 'Amy', proves how spectacular her singing voice was from the very beginning.",
+                            "og:url": "https://www.smoothradio.com/artists/amy-winehouse/young-home-video-singing-documentary/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://imgs.smoothradio.com/images/191482?width=1200&crop=16_9&signature=I4jkXbV9-NR82b88qrTTQYvOvI0="
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "28 September 2020, 14:39 | Updated: 14 May 2021, 16:04\n!\nHome video footage from the 2015 documentary 'Amy' shows the young star's amazing natural talent. Picture: Youtube/Film4/Universal Music/A24\nAn old home video of a 14-year-old Amy Winehouse shows how spectacular her singing voice was from the very beginning.\nFootage of a teenage  from Southgate, north London shows the future star singing 'Happy Birthday' to her friends as they lark around with a camera.\nThe video shows four girls saying they are \"the only ones left\" at the end of a 14th birthday party and introducing themselves on camera, before they all start singing to birthday girl, named as Lauren Gilbert.\n**See more:** \n-----------------------------------------------------------------------------------------------------------------------\nThe video then pans to Amy Winehouse, who stands up and blasts the final lines of 'Happy Birthday' in an incredibly powerful voice, one that would become so distinctive across the world in just a few years time.\n!\nFootage of a teenage Amy Winehouse from Southgate, north London shows the future star singing 'Happy Birthday' to her friends as they lark around with a camera. Picture: Youtube/Film4/Universal Music/A24\n!\nAmy | Happy Birthday | Official Movie Clip HD | A24\nThe fascinating home video was first shown in _Amy...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "How do you feel about the resurfaced video of Amy? : r/amywinehouse",
+                "htmlTitle": "How do you feel about the resurfaced <b>video</b> of Amy? : r/<b>amywinehouse</b>",
+                "link": "https://www.reddit.com/r/amywinehouse/comments/lhmx63/how_do_you_feel_about_the_resurfaced_video_of_amy/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Feb 11, 2021 ... 28 votes, 52 comments. There's a video of Amy Winehouse singing head, shoulders, knees, and toes but replacing the words to make the song ...",
+                "htmlSnippet": "Feb 11, 2021 <b>...</b> 28 votes, 52 comments. There&#39;s a <b>video</b> of <b>Amy Winehouse singing</b> head, shoulders, knees, and toes but replacing the words to make the <b>song</b>&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/.../amywinehouse/.../how_do_you_feel_about_the_...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../<b>amywinehouse</b>/.../how_do_you_feel_about_the_...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://share.redd.it/preview/post/lhmx63",
+                            "theme-color": "#000000",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "og:image:alt": "An image containing a preview of the post",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/amywinehouse on Reddit: How do you feel about the resurfaced video of Amy?",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/amywinehouse on Reddit: How do you feel about the resurfaced video of Amy?",
+                            "og:image:height": "630",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/AquariusTeaSpiller - 28 votes and 52 comments",
+                            "twitter:image": "https://share.redd.it/preview/post/lhmx63",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/amywinehouse/comments/lhmx63/how_do_you_feel_about_the_resurfaced_video_of_amy/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://share.redd.it/preview/post/lhmx63"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "How do you feel about the resurfaced video of Amy? : r/amywinehouse\n===============\n How do you feel about the resurfaced video of Amy? : r/amywinehouse\nOpen menu Open navigation  Go to Reddit Home\nr/amywinehouse A chip A close button\nGet app Get the Reddit app  Log in to Reddit\nExpand user menu Open settings menu\n*   *   *   \n### Get the Reddit app\nScan this QR code to download the app now\nOr check it out in the app stores\nA sub all about Amy Winehouse and her music :)\n* * *\n12K Members 1 Online\n• 4 yr. ago\nADMIN MOD\nHow do you feel about the resurfaced video of Amy?\n==================================================\nThere's a video of Amy Winehouse singing head, shoulders, knees, and toes but replacing the words to make the song racist, homophobic, and ableist. She appears to be stoned or drunk. And her boyfriend seems to be pushing the behavior a bit. Nonetheless it's quite gross. As an Amy fan, I don't know what to do about it. I don't necessarily feel guilty for listening to her music, because nothing is going to her... I think I will forever be a fan of her music. But her past behavior makes it hard to still think she was an amazing person. I really want to know what y'all think, because as much as i love Amy, I can't act like she was perfect.\nRead more\nAdd a Comment\nSort by:\nBest\nOpen comment sort options\n*   Best\n    *   Top\n    *   New\n    *   Controversial\n    *   Old\n    *   Q&A\n• \nSorry you have to grapple with that. I remember feeling embarrassed for her when it came out.\nThe way I approach this is that I see this in the context its in. It seems she's singing a song that is supposed to be fun, and probably sang at a pub, but is just filled with offensive buzzwords. The thing is, she's not singing it with conviction - the idea that Amy hated any of these groups is just absurd. I think her actions show she was a very tolerant person with people of all different persuasions in her friendship groups.\nI'm gay, and thing is, some of Amys lyrics seem homophobic - Stronger than Me equ...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "The bizarre video of “Amy Winehouse, age 10” on Norwegian TV",
+                "htmlTitle": "The bizarre <b>video</b> of “<b>Amy Winehouse</b>, <b>age 10</b>” on Norwegian TV",
+                "link": "https://faroutmagazine.co.uk/amy-winehouse-age-10-performing/",
+                "displayLink": "faroutmagazine.co.uk",
+                "snippet": "Apr 29, 2024 ... Even more impressive than her singing, though, was ten-year-old Amy's appearance. She had apparently already decided to adopt her iconic beehive ...",
+                "htmlSnippet": "Apr 29, 2024 <b>...</b> Even more impressive than her <b>singing</b>, though, was <b>ten</b>-year-old <b>Amy&#39;s</b> appearance. She had apparently already decided to adopt her iconic beehive&nbsp;...",
+                "formattedUrl": "https://faroutmagazine.co.uk/amy-winehouse-age-10-performing/",
+                "htmlFormattedUrl": "https://faroutmagazine.co.uk/<b>amy</b>-<b>winehouse</b>-<b>age</b>-10-performing/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBKae9zHtj_GZGaNOy3DinIP_1hly-1fkF97RycSEQVWUQ0M0Khn1ugMg&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://faroutmagazine.co.uk/static/uploads/1/2024/04/The-bizarre-video-claiming-to-show-Amy-Winehouse-age-10-performing-on-Norwegian-TV-Split-Far-Out-Magazine.jpg",
+                            "og:image:width": "1200",
+                            "article:published_time": "2024-04-29T05:00:00+00:00",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#0a0a0a",
+                            "og:site_name": "Far Out Magazine",
+                            "og:description": "Though Amy Winehouse sadly passed in 2011, four years later, a video surfaced claiming to show her performing in her pomp – as a ten-year-old!",
+                            "twitter:creator": "@FarOutMag",
+                            "og:image:secure_url": "https://faroutmagazine.co.uk/static/uploads/1/2024/04/The-bizarre-video-claiming-to-show-Amy-Winehouse-age-10-performing-on-Norwegian-TV-Split-Far-Out-Magazine.jpg",
+                            "article:publisher": "https://www.facebook.com/FarOut/",
+                            "twitter:image": "https://faroutmagazine.co.uk/static/uploads/1/2024/04/The-bizarre-video-claiming-to-show-Amy-Winehouse-age-10-performing-on-Norwegian-TV-Split-Far-Out-Magazine.jpg",
+                            "twitter:site": "@FarOutMag",
+                            "article:modified_time": "2024-04-25T11:11:37+00:00",
+                            "fb:admins": "399305540118221",
+                            "og:type": "article",
+                            "twitter:title": "The bizarre video of “Amy Winehouse, age 10” on Norwegian TV",
+                            "msvalidate.01": "8A80644255FC75E64CE2676CE4F34AAD",
+                            "og:title": "The bizarre video of “Amy Winehouse, age 10” on Norwegian TV",
+                            "og:image:height": "900",
+                            "google": "nositelinkssearchbox",
+                            "fb:app_id": "2102538559966561",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=1, minimum-scale=1.0, maximum-scale=5.0, viewport-fit=cover",
+                            "twitter:description": "Though Amy Winehouse sadly passed in 2011, four years later, a video surfaced claiming to show her performing in her pomp – as a ten-year-old!",
+                            "og:locale": "en_US",
+                            "og:url": "https://faroutmagazine.co.uk/amy-winehouse-age-10-performing/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://faroutmagazine.co.uk/static/uploads/1/2024/04/The-bizarre-video-claiming-to-show-Amy-Winehouse-age-10-performing-on-Norwegian-TV-Split-Far-Out-Magazine.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://faroutmagazine.co.uk/amy-winehouse-age-10-performing/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://faroutmagazine.co.uk/amy-winehouse-age-10-performing/",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Rehab (Amy Winehouse song) - Wikipedia",
+                "htmlTitle": "Rehab (<b>Amy Winehouse song</b>) - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Rehab_(Amy_Winehouse_song)",
+                "displayLink": "en.wikipedia.org",
+                "snippet": "\"Rehab\" is a song written and recorded by English singer-songwriter Amy Winehouse, from her second and final studio album Back to Black (2006).",
+                "htmlSnippet": "&quot;Rehab&quot; is a <b>song</b> written and recorded by English <b>singer</b>-songwriter <b>Amy Winehouse</b>, from her second and final studio album Back to Black (2006).",
+                "formattedUrl": "https://en.wikipedia.org/wiki/Rehab_(Amy_Winehouse_song)",
+                "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rehab_(<b>Amy</b>_<b>Winehouse</b>_song)",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ofL8KgTlzoFjnn_sM8OR2tv-PbnsTRdCC0fzFLQtLPtJaOMYrb5Xaw&s=0",
+                            "width": "116",
+                            "height": "116"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "referrer": "origin",
+                            "og:image": "https://upload.wikimedia.org/wikipedia/en/7/71/Amy_Winehouse_-_Rehab.jpg",
+                            "theme-color": "#eaecf0",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "og:title": "Rehab (Amy Winehouse song) - Wikipedia",
+                            "og:image:height": "1200",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://upload.wikimedia.org/wikipedia/en/7/71/Amy_Winehouse_-_Rehab.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "From Wikipedia, the free encyclopedia\n| \"Rehab\" |\n| --- |\n| ] |\n|  \"Single (music)\") by  |\n| from the album __ |\n|  | \n*   \"Do Me Good\"\n*   \"Close to the Front\"\n |\n| Released | 23 October 2006 |\n|  | \n*   \n*   \n |\n| Length | 3:34 |\n|  |  |\n|  |  |\n|  |  |\n|  singles chronology |\n| \n<table><tbody><tr><td>\"<a href=\"https://en.wikipedia.org/wiki/Fuck_Me_Pumps\" title=\"Fuck Me Pumps\">Pumps</a>\" / \"<a href=\"https://en.wikipedia.org/wiki/Help_Yourself_(Amy_Winehouse_song)\" title=\"Help Yourself (Amy Winehouse song)\">Help Yourself</a>\"<br>(2004)</td><td>\"<b>Rehab</b>\"<br>(2006)</td><td>\"<a href=\"https://en.wikipedia.org/wiki/You_Know_I%27m_No_Good\" title=\"You Know I'm No Good\">You Know I'm No Good</a>\"<br>(2007)</td></tr></tbody></table>\n |\n|  |\n| Audio sample |\n| \nDuration: 19 seconds.\n*   \n*   \n |\n| Music video |\n|  on  \"YouTube video (identifier)\") |\n| Alternative cover |\n|  |\n| ]Remix single cover\n |\n\"**Rehab**\" is a song written and recorded by English singer-songwriter , from her second and final  __ (2006). Produced by , the lyrics are autobiographical and address Winehouse's refusal to enter a  for  \"Alcohol (drug)\"). \"Rehab\" was released as the  from _Back to Black_ in 2006, and it peaked at number 7 in the United Kingdom on its  and number 9 in the United States on the ,]#cite_note-UK-1)]#cite_note-awards-2) becoming Winehouse's only top 10 hit in the US.\n\"Rehab\" became an international critical and commercial success, and has been referred to as Winehouse's .]#cite_note-3)]#cite_note-4) It won three  at the , including , , and .]#cite_note-5) It also won an  for Best Contemporary Song.]#...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "snopes.com on X: \"This video doesn't show Amy Winehouse singing ...",
+                "htmlTitle": "snopes.com on X: &quot;This <b>video</b> doesn&#39;t show <b>Amy Winehouse singing</b> ...",
+                "link": "https://twitter.com/snopes/status/715253258541989888",
+                "displayLink": "twitter.com",
+                "snippet": "Mar 30, 2016 ... This video doesn't show Amy Winehouse singing at age 10. It's 8-year-old Angelina Jordan. https://t.co/hlvAEYZk68.",
+                "htmlSnippet": "Mar 30, 2016 <b>...</b> This <b>video</b> doesn&#39;t show <b>Amy Winehouse singing</b> at <b>age 10</b>. It&#39;s 8-year-old Angelina Jordan. https://t.co/hlvAEYZk68.",
+                "formattedUrl": "https://twitter.com/snopes/status/715253258541989888",
+                "htmlFormattedUrl": "https://twitter.com/snopes/status/715253258541989888",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqBg79z6R3RyblKectfx1eCchwHt3xyuqR9rTOI0w6BHDbdZqZEKHg3sCf&s",
+                            "width": "293",
+                            "height": "172"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "contenturl": "https://pbs.twimg.com/media/Ce0W__4UYAAb-hg.jpg",
+                            "width": "709",
+                            "caption": "Image",
+                            "thumbnailurl": "https://pbs.twimg.com/media/Ce0W__4UYAAb-hg?format=jpg&name=thumb"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "identifier": "14294848",
+                            "givenname": "snopes.com",
+                            "additionalname": "snopes"
+                        }
+                    ],
+                    "interactioncounter": [
+                        {
+                            "userinteractioncount": "286245",
+                            "interactiontype": "https://schema.org/FollowAction",
+                            "name": "Likes"
+                        },
+                        {
+                            "userinteractioncount": "83",
+                            "interactiontype": "https://schema.org/SubscribeAction",
+                            "name": "Retweets"
+                        },
+                        {
+                            "userinteractioncount": "95368",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Quotes"
+                        },
+                        {
+                            "userinteractioncount": "11",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/snopes/status/715253258541989888/likes"
+                        },
+                        {
+                            "userinteractioncount": "2",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/snopes/status/715253258541989888/retweets"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/snopes/status/715253258541989888/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/snopes/status/715253258541989888"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://pbs.twimg.com/media/Ce0W__4UYAAb-hg.jpg:large",
+                            "theme-color": "#FFFFFF",
+                            "og:type": "article",
+                            "og:site_name": "X (formerly Twitter)",
+                            "al:ios:app_name": "X",
+                            "apple-mobile-web-app-title": "Twitter",
+                            "og:title": "snopes.com (@snopes) on X",
+                            "al:android:package": "com.twitter.android",
+                            "al:ios:url": "twitter://status?id=715253258541989888",
+                            "title": "snopes.com (@snopes) on X",
+                            "og:description": "This video doesn't show Amy Winehouse singing at age 10. It's 8-year-old Angelina Jordan. \n\nhttps://t.co/hlvAEYZk68",
+                            "al:ios:app_store_id": "333903271",
+                            "facebook-domain-verification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+                            "al:android:url": "twitter://status?id=715253258541989888",
+                            "fb:app_id": "2231777543",
+                            "apple-mobile-web-app-status-bar-style": "white",
+                            "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "https://twitter.com/snopes/status/715253258541989888",
+                            "al:android:app_name": "X"
+                        }
+                    ],
+                    "collection": [
+                        {
+                            "name": "Post with replies"
+                        }
+                    ],
+                    "creativework": [
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/hlvAEYZk68"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://pbs.twimg.com/media/Ce0W__4UYAAb-hg.jpg:large"
+                        }
+                    ],
+                    "socialmediaposting": [
+                        {
+                            "identifier": "715253258541989888",
+                            "commentcount": "0",
+                            "articlebody": "This video doesn't show Amy Winehouse singing at age 10. It's 8-year-old Angelina Jordan. http://snopes.com/amy-winehouse-angelina-jordan/…",
+                            "position": "1",
+                            "datecreated": "2016-03-30T19:04:00.000Z",
+                            "datepublished": "2016-03-30T19:04:00.000Z",
+                            "url": "https://twitter.com/snopes/status/715253258541989888",
+                            "mainentityofpage": "https://twitter.com/snopes/status/715253258541989888"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "X\n===============\nDon’t miss what’s happening\nPeople on X are the first to know.\nWelcome to x.com!\nWe are letting you know that we are changing our URL, but your privacy and data protection settings remain the same.\nFor more details, see our Privacy Policy:\n========================\n !!!!",
+                    "content_tokens": 60
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Back to Black, Amy Winehouse's final album, has now been ...",
+                "htmlTitle": "Back to Black, <b>Amy Winehouse&#39;s</b> final album, has now been ...",
+                "link": "https://www.vox.com/culture/2016/10/28/13393988/back-to-black-amy-winehouse-decade",
+                "displayLink": "www.vox.com",
+                "snippet": "Oct 28, 2016 ... Ten years after Amy Winehouse released her second and final album, we're still feeling its effects. Back to Black is rhythm and blues ...",
+                "htmlSnippet": "Oct 28, 2016 <b>...</b> <b>Ten</b> years after <b>Amy Winehouse</b> released her second and final album, we&#39;re still feeling its effects. Back to Black is rhythm and blues&nbsp;...",
+                "formattedUrl": "https://www.vox.com/culture/2016/.../back-to-black-amy-winehouse-decad...",
+                "htmlFormattedUrl": "https://www.vox.com/culture/2016/.../back-to-black-<b>amy</b>-<b>winehouse</b>-decad...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzG4n160eT_nZaT6-Az2DJ-eTZZ_Ud-FTs9z5Js4OMTxEHDrd43czG7SkE&s",
+                            "width": "315",
+                            "height": "160"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/7364615/72543384.jpg?quality=90&strip=all&crop=0%2C28.233333333333%2C100%2C34.886561954625&w=1200",
+                            "twitter:card": "summary",
+                            "article:published_time": "2016-10-28T15:20:02+00:00",
+                            "og:image:width": "1200",
+                            "og:site_name": "Vox",
+                            "apple-mobile-web-app-title": "Vox",
+                            "parsely-author": "Bridgett Henwood",
+                            "bingbot": "nocache",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "10 years later, her neo-soul sound still influences across genres.",
+                            "next-head-count": "34",
+                            "parsely-type": "post",
+                            "twitter:site": "voxdotcom",
+                            "article:modified_time": "2016-10-28T15:20:02+00:00",
+                            "parsely-link": "https://www.vox.com/culture/2016/10/28/13393988/back-to-black-amy-winehouse-decade",
+                            "parsely-image-url": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/7364615/72543384.jpg?quality=90&strip=all&crop=0,28.233333333333,100,34.886561954625",
+                            "parsely-section": "culture",
+                            "og:type": "article",
+                            "og:image:alt": "Amy Winehouse Performs At Koko",
+                            "author": "Bridgett Henwood",
+                            "og:title": "Amy Winehouse’s final album has now been inspiring artists for a decade",
+                            "og:image:height": "628",
+                            "parsely-title": "Back to Black, Amy Winehouse’s final album, has now been inspiring artists for a decade",
+                            "parsely-pub-date": "2016-10-28T15:20:02+00:00",
+                            "fb:app_id": "549923288395304",
+                            "parsely-tags": "vox,pagetype:story,latest-news,culture,music",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "og:url": "https://www.vox.com/culture/2016/10/28/13393988/back-to-black-amy-winehouse-decade"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/7364615/72543384.jpg?quality=90&strip=all&crop=0%2C28.233333333333%2C100%2C34.886561954625&w=1200"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Ten years after Amy Winehouse released her second and final album, we’re still feeling its effects. _Back to Black_ is rhythm and blues through and through — a solid tribute to ’60s Motown with a sharp edge.\nIn the years since Winehouse’s death in 2011 , her powerhouse voice and irreverent lyrics have left a gap in the music scene. In a testament to her staying power, though, a quick glance at today’s independent and pop charts show how the singer has inspired and influenced musicians since. In the past decade, artists have drawn inspiration from _Back to Black’s_ neo-soul, which can be seen especially in the realm of vocal-driven female pop and in artists who emulate the 1960s sounds Winehouse was famous for.\nModern take on Motown\n---------------------\n ran wide and deep: hip-hop, jazz, gospel music. But nowhere on _Back to Black_ is her modus operandi clearer than on the song “Tears Dry on My Own.” While the lyrics and melody are Winehouse’s, the music in the background is a sample of Marvin Gaye and Tammi Terrell’s  It’s a 1960s standard, produced on the Motown label in ’66, about an all-consuming love that’s able to overcome all obstacles.\nIn contrast...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "This video features Norwegian singer Angelina Jordan, not British ...",
+                "htmlTitle": "This <b>video</b> features Norwegian <b>singer</b> Angelina Jordan, not British ...",
+                "link": "https://factcheck.afp.com/video-features-norwegian-singer-angelina-jordan-not-british-star-amy-winehouse",
+                "displayLink": "factcheck.afp.com",
+                "snippet": "Oct 17, 2019 ... ... singer Amy Winehouse at age 10. The claim is false; the video shows a 2014 performance by Angelina Jordan, winner of Norway's Got Talent ...",
+                "htmlSnippet": "Oct 17, 2019 <b>...</b> ... <b>singer Amy Winehouse</b> at <b>age 10</b>. The claim is false; the <b>video</b> shows a 2014 performance by Angelina Jordan, winner of Norway&#39;s Got Talent&nbsp;...",
+                "formattedUrl": "https://factcheck.afp.com/video-features-norwegian-singer-angelina-jordan-...",
+                "htmlFormattedUrl": "https://factcheck.afp.com/<b>video</b>-features-norwegian-singer-angelina-jordan-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOQm_XnwSE10rwDq1nzAsfOs7MMV7HDIFI7VkEMwZGvOrO8OWEIi2nwypR&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://factcheck.afp.com/sites/default/files/medias/factchecking/canada//angelinaheader.png",
+                            "og:type": "Article",
+                            "og:site_name": "Fact Check",
+                            "handheldfriendly": "true",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:title": "This video features Norwegian singer Angelina Jordan, not British star Amy Winehouse",
+                            "mobileoptimized": "width",
+                            "og:url": "https://factcheck.afp.com/video-features-norwegian-singer-angelina-jordan-not-british-star-amy-winehouse",
+                            "og:updated_time": "2024-04-17T18:44:09+02:00",
+                            "og:description": "A video of a little girl stylistically singing Dinah Washington's “What a Difference a Day Made” has been viewed more than 30 million times on Facebook alongside a claim that it shows a performance from the late British singer Amy Winehouse at age 10. The claim is false; the video shows a 2014 performance by Angelina Jordan, winner of Norway's Got Talent, who was 8 years old at the time. Winehouse died in 2011."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://factcheck.afp.com/sites/default/files/medias/factchecking/canada//angelinaheader.png"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2019-10-18T02:28:00",
+                            "claimReviewed": "Video of Amy Winehouse singing at age 10",
+                            "name": "This video features Norwegian singer Angelina",
+                            "url": "https://factcheck.afp.com/video-features-norwegian-singer-angelina-jordan-not-british-star-amy-winehouse"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...်မာ ภาษาไทย 한국어\nDark mode \n##### Navigation principale\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nChoisir votre langue\nEnglish Français Español Català Português Deutsch Nederlands Suomi Svenska Polski Čeština Slovenčina Srpski Hrvatski Română Magyar Български Ελληνικά العربية Bahasa Indonesia Bahasa Malaysia हिन्दी বাংলা မြန်မာ ภาษาไทย 한국어\n*   Search\n*   \nShare:\n*   \n*   \n*   \n!\nThis video features Norwegian singer Angelina Jordan, not British star Amy Winehouse\n====================================================================================\n*   This article is more than one year old.\n*   Published on October 18, 2019 at 00:28\n*   2 min read\n*   By \n**Copyright © AFP 2017-2024.** Any commercial use of this content requires a subscription. Click  to find out more.\nA video of a little girl stylistically singing Dinah Washington's “What a Difference a Day Made” has been viewed more than 30 million times on Facebook alongside a claim that it shows a performance from the late British singer Amy Winehouse at age 10. The claim is false; the video shows a 2014 performance by Angelina Jordan, winner of Norway's Got Talent, who was 8 years old at the time. Winehouse died in 2011.\nIn 2015, a Facebook account twice shared a video of a young girl singing the late American singer 's \"\" in a live television performance.\n post from August 11, 2015, was shared more than 81,000 times and viewed nearly four million times. Its caption states: “Amy Wine house, age 10. Sad she is gone.”\nA nearly identically-captioned  from August 12, 2015, was shared more than 510,000 times and received 27 million views.\nBritish singer-songwriter Amy Winehouse died at age 27 in 2011. An  released in 2013 found she died after drinking too much alcohol.\nAFP released  video report on July 23, 2011, the day Winehouse was found dead, featuring archival footage...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "ImmiDavis - YouTube",
+                "htmlTitle": "ImmiDavis - <b>YouTube</b>",
+                "link": "https://www.youtube.com/c/ImmiDavis/videos",
+                "displayLink": "www.youtube.com",
+                "snippet": "Amazing encounter 11 year old Immi & brilliant pianist @Thibault_Piano Believer Imagine Dragons · Amy Winehouse Back to Black film trailor - Immi Davis age 11 ...",
+                "htmlSnippet": "Amazing encounter 11 year old Immi &amp; brilliant pianist @Thibault_Piano Believer Imagine Dragons &middot; <b>Amy Winehouse</b> Back to Black film trailor - Immi Davis <b>age</b> 11&nbsp;...",
+                "formattedUrl": "https://www.youtube.com/c/ImmiDavis/videos",
+                "htmlFormattedUrl": "https://www.youtube.com/c/ImmiDavis/<b>video</b>s",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "fn": "ImmiDavis",
+                            "nickname": "ImmiDavis",
+                            "url": "https://www.youtube.com/channel/UCgEu7Pe7HTrl0mkYEmr0z1g"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4NNaDtGS4SeO3iMJCCN8SLCyDpwji7ftThl5weDYNZOlVuWnGKqtSk6W_&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "width": "900",
+                            "url": "https://yt3.googleusercontent.com/OZQBk9OCBEH5knZjYrR2sCdX3-nautLkCGh95XNvHg-wJP6L63CLWsmG1nkYAocj5EkeQ081b4s=s900-c-k-c0x00ffffff-no-rj",
+                            "height": "900"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "ImmiDavis",
+                            "url": "https://www.youtube.com/channel/UCgEu7Pe7HTrl0mkYEmr0z1g"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=544007664, app-argument=https://m.youtube.com/c/ImmiDavis/videos?referring_app=com.apple.mobilesafari-smartbanner, affiliate-data=ct=smart_app_banner_polymer&pt=9008",
+                            "og:image": "https://yt3.googleusercontent.com/OZQBk9OCBEH5knZjYrR2sCdX3-nautLkCGh95XNvHg-wJP6L63CLWsmG1nkYAocj5EkeQ081b4s=s900-c-k-c0x00ffffff-no-rj",
+                            "theme-color": "rgb(255, 255, 255)",
+                            "og:image:width": "900",
+                            "og:type": "profile",
+                            "og:site_name": "YouTube",
+                            "al:ios:app_name": "YouTube",
+                            "twitter:url": "https://www.youtube.com/c/ImmiDavis/videos",
+                            "og:title": "ImmiDavis",
+                            "og:image:height": "900",
+                            "al:android:package": "com.google.android.youtube",
+                            "al:ios:url": "vnd.youtube://www.youtube.com/channel/UCgEu7Pe7HTrl0mkYEmr0z1g",
+                            "al:web:url": "https://www.youtube.com/channel/UCgEu7Pe7HTrl0mkYEmr0z1g?feature=applinks",
+                            "og:video:tag": "ImmiDavis",
+                            "og:description": "Official YouTube channel of Immi Davis. \n\nImmi Davis is 11 years old & loves to sing. Immi was hailed as being mini Amy Winehouse by the BGT judges when she sang her way through to the semifinals of season 15 of Britain’s Got Talent. Covering 1k+ songs, she sings many genres & would love for her new music, song covers, collaborations & compilations to catapult her to global acclaim 😁. Follow her journey & watch the magic unfold.\n\nInstagram:\nHttps://www.instagram.com/immidavis/\n\nFacebook:\nHttps://www.facebook.com/immidavis/\n\nhttps://www.facebook.com/groups/518499472133294/?ref=share\n\nTikTok:\nhttps://www.tiktok.com/@iamimmidavis\n\nYoutube:\nhttps://www.youtube.com/c/ImmiDavis\n\nEnquiries:\nlhsdavis@googlemail.com\n\n*Immi doesn’t own any song rights… (yet!)\n\n*Immi mainly sings to tracks/arrangements by Sing King Karaoke, Sing2Guitar, Sing2Piano, Pop Up Karaoke Instrumentals, KaraFun Karaoke, SBI Graphic Karaoke, ProSingKaraoke, PianoNest, Acoustic Club, EdKara and StarKaraoke etc.",
+                            "al:ios:app_store_id": "544007664",
+                            "al:android:url": "https://www.youtube.com/channel/UCgEu7Pe7HTrl0mkYEmr0z1g?feature=applinks",
+                            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no,",
+                            "og:url": "https://www.youtube.com/c/ImmiDavis/videos",
+                            "al:android:app_name": "YouTube"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://yt3.googleusercontent.com/OZQBk9OCBEH5knZjYrR2sCdX3-nautLkCGh95XNvHg-wJP6L63CLWsmG1nkYAocj5EkeQ081b4s=s900-c-k-c0x00ffffff-no-rj"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "ImmiDavis - YouTube\n===============\n•\nNaN / NaN\n•\nNaN / NaN\nBack ]\nSkip navigation\nSearch\nSearch\nSearch with your voice\n ]\nShorts\nShorts\n!\n!\nImmiDavis\n=========\n@ImmiDavis\n•\n9.64K subscribers•156 videos\nOfficial YouTube channel of Immi Davis. ...more...more(javascript:void\\(0\\);)\nSubscribe\nHome\nVideos\nShorts\nLive\nPlaylists\nCommunity\n Search \nPrevious\nLatest Popular Oldest\nNext\n 1:27 1:27 Now playing]\n!\n### \n•\n•\n26K views 1 month ago\n 3:53 3:53 Now playing]\n!\n### \n•\n•\n2.9K views 3 months ago\n 4:37 4:37 Now playing]\n!\n### \n•\n•\n2.9K views 5 months ago\n 10:58 10:58 Now playing]\n!\n### \n•\n•\n9.4K views 7 months ago\n 3:27 3:27 Now playing]\n!\n### \n•\n•\n5.1K views 8 months ago\n 2:53 2:53 Now playing]\n!\n### \n•\n•\n2.1K views 10 months ago\n 3:53 3:53 Now playing]\n!\n### \n•\n•\n14K views 1 year ago\n 4:17 4:17 Now playing]\n!\n### \n•\n•\n4.4K views 1 year ago\n 3:30...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Amy Winehouse 'In My Bed' Lyric Video Features Unseen Footage",
+                "htmlTitle": "<b>Amy Winehouse</b> &#39;In My Bed&#39; Lyric <b>Video</b> Features Unseen Footage",
+                "link": "https://www.billboard.com/music/pop/amy-winehouse-new-in-my-bed-lyric-video-unseen-footage-1235587030/",
+                "displayLink": "www.billboard.com",
+                "snippet": "Jan 23, 2024 ... The jazzy R&B track was featured on Winehouse's debut full-length album, Frank, and the lyric clip finds the then-20-year-old singer striking ...",
+                "htmlSnippet": "Jan 23, 2024 <b>...</b> The jazzy R&amp;B track was featured on <b>Winehouse&#39;s</b> debut full-length album, Frank, and the lyric clip finds the then-20-year-old <b>singer</b> striking&nbsp;...",
+                "formattedUrl": "https://www.billboard.com/.../amy-winehouse-new-in-my-bed-lyric-video-...",
+                "htmlFormattedUrl": "https://www.billboard.com/.../<b>amy</b>-<b>winehouse</b>-new-in-my-bed-lyric-<b>video</b>-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6rMT3CwvMKl5JmKL81UkzrMmqnzKxCLwGtEOGWyCvZE1EiAqLWCo8MSw&s",
+                            "width": "276",
+                            "height": "182"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "st:robots": "index, follow",
+                            "comment_count": "0",
+                            "msapplication-config": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/app/browserconfig.xml",
+                            "og:image": "https://www.billboard.com/wp-content/uploads/2024/01/Amy-Winehouse-In-My-Bed-Official-Lyric-Video-screenshot-billboard-1548.jpg?w=1024",
+                            "theme-color": "#ffffff",
+                            "article:published_time": "2024-01-23T15:49:29+00:00",
+                            "og:image:width": "1024",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Billboard",
+                            "msapplication-tileimage": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/app/icons/icon-144x144.png",
+                            "title": "Amy Winehouse Takes a Hotel Stroll in New 'In My Bed' Lyric Video Featuring Previously Unseen Footage",
+                            "body": "Amy Winehouse takes a casual stroll through a chic hotel in the new official lyric video for the late singer's 2004 song \"In My Bed.\" The visual is comprised of previously unseen footage from the original video that was released on April 5, 2004.\n\n\n\n\n\nThe jazzy R&B track was featured on Winehouse's debut full-length album, Frank, and the lyric clip finds the then-20-year-old singer striking poses on the hotel front desk in a flowered dress, with her soon-to-be-signature sky-high beehive hairdo not in evidence in favor of a shoulder-length down do. In other footage Winehouse grabs a mic in front of her live band and sings, \"Like two ships passing in the night/ In the night, in the night/ Want the same thing where we lay/ Otherwise mine's a different way.\" \n\n\n\nThe video refresh -- the original was directed by Paul Gore -- comes as Frank has been reissued in a limited-edition 2LP picture disc edition. The LP features the singles \"Take The Box,\" \"Stronger Than Me,\" F--k Me Pumps\" and \"In My Bed,\" and has the orig",
+                            "og:description": "Amy Winehouse strolls through a London hotel lobby in the new lyric video for her 2004 single 'In My Bed,' which features previously unseen footage.",
+                            "twitter:image": "https://www.billboard.com/wp-content/uploads/2024/01/Amy-Winehouse-In-My-Bed-Official-Lyric-Video-screenshot-billboard-1548.jpg?w=1024",
+                            "twitter:site": "@billboard",
+                            "content_type": "Article",
+                            "article:modified_time": "2024-01-23T20:50:50+00:00",
+                            "published_at": "2024-01-23 10:49:29",
+                            "msapplication-tilecolor": "#eff4ff",
+                            "image": "https://www.billboard.com/wp-content/uploads/2024/01/Amy-Winehouse-In-My-Bed-Official-Lyric-Video-screenshot-billboard-1548.jpg?w=1024",
+                            "og:type": "article",
+                            "og:image:alt": "Amy Winehouse \"In My Bed\"",
+                            "twitter:title": "Amy Winehouse Takes a Hotel Stroll in New ‘In My Bed’ Lyric Video Featuring Previously Unseen Footage",
+                            "author": "Gil Kaufman",
+                            "topics": "Music",
+                            "og:title": "Amy Winehouse Takes a Hotel Stroll in New ‘In My Bed’ Lyric Video Featuring Previously Unseen Footage",
+                            "og:image:height": "677",
+                            "fb:pages": "75791669580",
+                            "tags": "Music News",
+                            "fragment": "!",
+                            "apple-mobile-web-app-status-bar-style": "black-translucent",
+                            "post_id": "1235587030",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Amy Winehouse strolls through a London hotel lobby in the new lyric video for her 2004 single 'In My Bed,' which features previously unseen footage.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.billboard.com/music/pop/amy-winehouse-new-in-my-bed-lyric-video-unseen-footage-1235587030/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.billboard.com/wp-content/uploads/2024/01/Amy-Winehouse-In-My-Bed-Official-Lyric-Video-screenshot-billboard-1548.jpg?w=1024"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...\n=====================================================================================================\nThe clip was released in celebration of the upcoming 20th anniversary of the late singer's 2004 debut album, \"Frank.\"\nBy \n### \n#### More Stories by Gil Kaufman\n*   \n*   \n*   \n01/23/2024\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   (whatsapp://send?text=Amy%20Winehouse%20Takes%20a%20Hotel%20Stroll%20in%20New%20%E2%80%98In%20My%20Bed%E2%80%99%20Lyric%20Video%20Featuring%20Previously%20UnseenFootage%20-%20https://www.billboard.com/music/pop/amy-winehouse-new-in-my-bed-lyric-video-unseen-footage-1235587030/)\n*   \n*   Print this article\n*   \n*   \n!\nAmy Winehouse \"In My Bed\" Courtesy Photo\n takes a casual stroll through a chic hotel in the new official lyric video for the late singer’s 2004 song “In My Bed.” The visual is comprised of previously unseen footage from the original video that was released on April 5, 2004.\n### Related\n ### Marisa Abela Mesmerizes in First Amy Winehouse ‘Back to Black’ Biopic Trailer 01/11/2024]\nThe jazzy R&B track was featured on Winehouse’s debut full-length album, _Frank_, and the lyric clip finds the then-20-year-old singer striking poses on the hotel front desk in a flowered dress, with her soon-to-be-signature sky-high beehive hairdo not in evidence in favor of a shoulder-length down do. In other footage Winehouse grabs a mic in front of her live band and sings, “Like two ships passing in the night/ In the night, in the night/ Want the same thing where we lay/ Otherwise mine’s a different way.”\nThe video refresh — the original was directed by Paul Gore — comes as _Frank_ has been reissued in a limited-edition 2LP . The LP features the singles “Take The Box,” “Stronger Than Me,” F–k Me Pumps” and “In My Bed,” and has the original sleeve imagery, plus additional images by Valerie Phillips from the original album photoshoot.\n### Trending on Billboard\nWinehouse died on July 23, 2011 at age 27 of an accidental alcohol overdose after years of substance use struggles. Her life will be honored in the upcoming Sam Taylor-Johnson-directed biopic _Back to Black_ starring _Industry_‘s Marisa Abela. The Studio Canal film written by Matt Greenhalgh (_Nowhere Boy_) was made with the support of the Winehouse estate, Universal Music Group and Sony Music Publishing and will feature a number of the “Rehab” singer’s most beloved hits.\n_Back to Black_ opens in the U.S....[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Unseen Footage of Amy Winehouse Unveiled in a New Video for ...",
+                "htmlTitle": "Unseen Footage of <b>Amy Winehouse</b> Unveiled in a New <b>Video</b> for ...",
+                "link": "https://people.com/unseen-amy-winehouse-footage-released-tears-dry-on-their-own-video-watch-8629503",
+                "displayLink": "people.com",
+                "snippet": "Apr 10, 2024 ... A new version of the music video for the hit single off her album 'Back to Black' has been released before a biopic about the late singer ...",
+                "htmlSnippet": "Apr 10, 2024 <b>...</b> A new version of the <b>music video</b> for the hit single off her album &#39;Back to Black&#39; has been released before a biopic about the late <b>singer</b>&nbsp;...",
+                "formattedUrl": "https://people.com/unseen-amy-winehouse-footage-released-tears-dry-on-th...",
+                "htmlFormattedUrl": "https://people.com/unseen-<b>amy</b>-<b>winehouse</b>-foot<b>age</b>-released-tears-dry-on-th...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiennTdF3WCWlfeBiUMjH_1ILs7KvcIdWfxtUOG8nXXC-nPda8ssrVFBg&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://people.com/thmb/iqP9tvwjD_a4PK-ExUQY8aP4ilc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(709x263:711x265)/amy-winehouse-041024-1-2ecf2a7f19f64e8e9a542408846772e2.jpg",
+                            "twitter:card": "summary_large_image",
+                            "msapplication-square70x70logo": "/static/2.70.0/icons/favicons/mstile-70x70.png",
+                            "sailthru.tags": "documentaries",
+                            "og:site_name": "Peoplemag",
+                            "msapplication-wide310x150logo": "/static/2.70.0/icons/favicons/mstile-310x150.png",
+                            "msapplication-tileimage": "/static/2.70.0/icons/favicons/mstile-144x144.png",
+                            "og:description": "Never-before-seen footage of Amy Winehouse has been released in a new lyric video for her hit song \"Tears Dry on Their Own.\" See the new clips.",
+                            "twitter:image": "https://people.com/thmb/iqP9tvwjD_a4PK-ExUQY8aP4ilc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(709x263:711x265)/amy-winehouse-041024-1-2ecf2a7f19f64e8e9a542408846772e2.jpg",
+                            "twitter:site": "@people",
+                            "msapplication-square310x310logo": "/static/2.70.0/icons/favicons/mstile-310x310.png",
+                            "emailcontenttype": "STRUCTUREDCONTENT",
+                            "parsely-section": "Entertainment",
+                            "msapplication-tilecolor": "#F4F4F4",
+                            "article:section": "People",
+                            "og:type": "article",
+                            "twitter:title": "Unseen Footage of Amy Winehouse Unveiled in a New Video for 'Tears Dry on Their Own' — Watch",
+                            "emailvertical": "PEOPLE",
+                            "og:title": "Unseen Footage of Amy Winehouse Unveiled in a New Video for 'Tears Dry on Their Own' — Watch",
+                            "msapplication-square150x150logo": "/static/2.70.0/icons/favicons/mstile-150x150.png",
+                            "fb:pages": "95926963131",
+                            "article:author": "https://www.facebook.com/peoplemag",
+                            "parsely-tags": "Movies,Person,People.com,Documentaries,Celebrity,Amy Winehouse,The Scoop",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Never-before-seen footage of Amy Winehouse has been released in a new lyric video for her hit song \"Tears Dry on Their Own.\" See the new clips.",
+                            "og:url": "https://people.com/unseen-amy-winehouse-footage-released-tears-dry-on-their-own-video-watch-8629503",
+                            "sailthru.author": "Sadie Bell",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://people.com/thmb/iqP9tvwjD_a4PK-ExUQY8aP4ilc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(709x263:711x265)/amy-winehouse-041024-1-2ecf2a7f19f64e8e9a542408846772e2.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   Magazine\n    Magazine\n    *   \n    *   \n    *   \n    *   \n*   \n*   \nFollow Us\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   :max_bytes(150000):strip_icc():format(webp)/meghan-markle-prince-harry-nigeria-tout3-051124-504c6f07fa7d4558a22046c2f5a6af16.jpg) 1 Meghan Markle and Prince Harry Were Not Invited to Join Royal Family at Balmoral Castle This Summer (Exclusive)]\n*   :max_bytes(150000):strip_icc():format(webp)/angelina-jolie-brad-pitt-071724-3-03a66d17cec1470faba75cf5569e21e9.jpg) 2 Angelina Jolie Accuses Brad Pitt of Trying to Force Her to Sign NDA to 'Silence' Her Allegations of Abuse]\n*   :max_bytes(150000):strip_icc():format(webp)/Steven-Tyler-Aerosmith-092923-tout-2f6f6910ae9c46b39684010d6769cd1d.jpg) 3 Aerosmith Retires from Touring, Says Frontman Steven Tyler's 'Full Recovery from Vocal Injury Is Not Possible']\n*   :max_bytes(150000):strip_icc():format(webp)/passengers-exiting-plane-071524-acfe95bcd6ac4eecaa3c6c2995e583de.jpg) 4 Plane Grounded in Emergency Landing After Passengers Spot Lice Crawling in Woman's Hair Mid-Flight (Exclusive)]\n*   \n*   \n*   \nUnseen Footage of Amy Winehouse Unveiled in a New Video for 'Tears Dry on Their Own' — Watch\n============================================================================================\nA new version of the music video for the hit single off her album 'Back to Black' has been released before a biopic about the late singer arrives in theaters\nBy\n!:max_bytes(150000):strip_icc():format(webp)/CollageMaker-07-Aug-2023-02-33-PM-5187-5aa77ac4f2a44287aba77298125adaa0.jpg)\n*   \n*   \n*   \nSadie Bell is a Digital News Writer on the Music team at PEOPLE. She joined PEOPLE in 2023. Her work has previously appeared in Alternative Press, Billboard, NYLON, Rolling Stone, and Thrillist.\nPublished on April 10,...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

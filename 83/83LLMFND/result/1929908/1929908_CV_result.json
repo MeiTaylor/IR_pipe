@@ -1,0 +1,33 @@
+{
+    "Claim": "Several widely-available cheeses are partially made from wood.",
+    "Video_information": {
+        "video_date": 20160218.0,
+        "platform": "twitter",
+        "video_headline": "This cheese company has been putting wood in their parmesan for 30 years",
+        "video_transcript": "",
+        "Video_descriptor": "The video showcases a man in a chef's attire starting in a kitchen, where he skillfully chops a block of cheese into small pieces. He then proceeds to mix the cheese with various ingredients in a pan, preparing a delectable dish. Throughout the video, scenes of pasta being cooked with green herbs and grated cheese are highlighted, adding to the culinary narrative. The key frames reveal snapshots of the cooking process, including the intricate details of pasta being sprinkled with grated cheese, suggesting a visually appealing dish in the making. Text overlays in the key frames add a playful or informative touch, with statements like 'THAT DOESN'T SOUND TOO GRATE' and 'CASTLE CHEESE IS UNDER INVESTIGATION FOR MIXING WOOD PULP WITH THEIR PARMESAN CHEESE' contributing to the engaging content. References to popular culture, such as an image from the animated movie 'Ratatouille,' enhance the thematic elements around the art of cooking and the use of cheese as a central ingredient. The imagery of shredded cheese being tossed or sprinkled adds a dynamic element to the culinary narrative, with textual details providing historical context and intriguing insights such as 'CASTLE CHEESE HAS BEEN SUPPLYING IMITATION CHEESE FOR ALMOST 30 YEARS.' Scenes of individuals gratefully adding cheese to pasta dishes further emphasize the central role of cheese in the culinary creations depicted. The varied settings, from traditional kitchen environments to blurred backgrounds, add depth and visual interest to the overall video, culminating in the man serving the finished dish on a plate, completing the engaging and informative culinary journey depicted."
+    },
+    "Initial_Question_Generation": {
+        "Primary_Question": "Is it true that wood pulp is used in the production of certain parmesan cheeses?",
+        "Secondary_Questions": {
+            "Secondary_Question_1": "What specific ingredients does Castle Cheese include in their parmesan cheese?",
+            "Secondary_Question_2": "How has the use of wood pulp in cheese been received by consumers and regulatory bodies?",
+            "Secondary_Question_3": "Are there health implications associated with consuming cheese containing wood pulp?",
+            "Secondary_Question_4": "What historical context supports the claim about wood pulp in parmesan cheese production?"
+        },
+        "Question": "Is it true that wood pulp is used in the production of certain parmesan cheeses?",
+        "Answer": "Yes, it is true that wood pulp is used in the production of certain Parmesan cheeses, specifically in some shredded cheese products. This wood pulp is commonly known as cellulose, which serves as an anti-caking agent to prevent clumping in grated cheeses. The FDA allows cheese products to contain up to 4% cellulose, and it is typically not harmful in those amounts. However, the controversy arises from cases where some brands have misrepresented their products as '100% Parmesan' while including significant amounts of cellulose, wood pulp, or other cheaper cheese types. A notable incident involved Castle Cheese Inc., which was found by the FDA to have doctored its Parmesan products with a mix of cheaper cheddar and cellulose, leading to legal repercussions for the company. Research has indicated that a considerable portion of grated Parmesan on the market may not contain authentic Parmesan cheese at all. One estimate suggests that around 20% of grated Parmesan could be mislabeled, with some containing over 8% cellulose, which exceeds the FDA's recommended limit. Thus, while cellulose (wood pulp) is an approved additive and can be legally present in small amounts in shredded cheese, many products labeled as Parmesan do not adhere to the standards that define true Parmesan cheese, leading to both consumer fraud and health considerations.",
+        "Confidence": "90%"
+    },
+    "CVResult": {
+        "Judgment": "Yes",
+        "Confidence": "90%",
+        "Reason": "The provided information is sufficient to determine the truthfulness of the claim that several widely-available cheeses are partially made from wood. The QA_CONTEXT clearly states that wood pulp, known as cellulose, is indeed used in the production of some Parmesan cheeses, particularly in shredded cheese products as an anti-caking agent. The text notes that the FDA permits cheese products to contain up to 4% cellulose, and highlights instances where brands like Castle Cheese Inc. were found to include significant amounts of cellulose, misrepresenting their products. This directly supports the claim that wood is being used in the production process of certain cheese products. Furthermore, the mention of consumer fraud and mislabeling in the grated Parmesan market reflects broader implications, reinforcing the overall truth of the claim. Thus, I am confident that the existing information sufficiently substantiates the claim regarding the use of wood in cheese production."
+    },
+    "Final_Judgement": {
+        "Answer": "True",
+        "Reasons": "The claim that several widely-available cheeses are partially made from wood is confirmed by the included video information, which discusses Castle Cheese's use of wood pulp (cellulose) in their Parmesan products. This is supported by the FDA allowing the presence of cellulose in shredded cheeses as an anti-caking agent. Furthermore, the video emphasizes Castle Cheese's practice of mixing wood pulp with cheese, thus validating the claim [Initial_Question_Generation_Query 1_evidence1].",
+        "Therefore, the Claim authenticity is": "True",
+        "The information type is": "Real"
+    }
+}

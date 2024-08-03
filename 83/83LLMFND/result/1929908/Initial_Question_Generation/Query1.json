@@ -1,0 +1,681 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Is wood pulp allowed in parmesan cheese production regulations?",
+                "totalResults": "529000",
+                "searchTerms": "Is wood pulp allowed in parmesan cheese production regulations?",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Is wood pulp allowed in parmesan cheese production regulations?",
+                "totalResults": "529000",
+                "searchTerms": "Is wood pulp allowed in parmesan cheese production regulations?",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.345769,
+        "formattedSearchTime": "0.35",
+        "totalResults": "529000",
+        "formattedTotalResults": "529,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Is there really wood pulp and sawdust in your Parmesan cheese ...",
+                "htmlTitle": "Is there really <b>wood pulp</b> and sawdust in your <b>Parmesan cheese</b> ...",
+                "link": "https://abbeythefoodscientist.com/is-there-really-wood-pulp-and-sawdust-in-your-parmesan-cheese/",
+                "displayLink": "abbeythefoodscientist.com",
+                "snippet": "Now, you're probably thinking this is incredibly deceptive or possibly a straight up lie. But with food law, the difference of one word, in this case 'grated,' ...",
+                "htmlSnippet": "Now, you&#39;re probably thinking this is incredibly deceptive or possibly a straight up lie. But with food <b>law</b>, the difference of one word, in this case &#39;grated,&#39;&nbsp;...",
+                "formattedUrl": "https://abbeythefoodscientist.com/is-there-really-wood-pulp-and-sawdust-in...",
+                "htmlFormattedUrl": "https://abbeythefoodscientist.com/is-there-really-<b>wood</b>-<b>pulp</b>-and-sawdust-in...",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "url_text": "Mdavis",
+                            "fn": "Mdavis",
+                            "nickname": "Mdavis",
+                            "photo": "https://secure.gravatar.com/avatar/d21b45634ed2a937c694b6bd452d0349?s=42&d=mm&r=g",
+                            "url": "https://abbeythefoodscientist.com/elementor-1764/"
+                        },
+                        {
+                            "fn": "Ce He",
+                            "photo": "https://secure.gravatar.com/avatar/a35981292a45776c3de44caa403b56b7?s=42&d=mm&r=g"
+                        },
+                        {
+                            "fn": "abbeythefoodscie_admin",
+                            "photo": "https://secure.gravatar.com/avatar/8a4dcfb5fde9afae62d672065218769a?s=42&d=mm&r=g"
+                        },
+                        {
+                            "url_text": "Daniel Ray",
+                            "fn": "Daniel Ray",
+                            "photo": "https://secure.gravatar.com/avatar/7c69885e29092fad439b4a5c5504d0c7?s=42&d=mm&r=g",
+                            "url": "http://abbythefoodscientist.com/"
+                        },
+                        {
+                            "fn": "Sheila Davies",
+                            "photo": "https://secure.gravatar.com/avatar/46734d0ac4fd77c58273eca09d213e92?s=42&d=mm&r=g"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1eEEDJj9Mq2MSqZOT8thuCppNkVywuIN2ceZP-es6UBU5rWPbyaWxaHjx&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://abbeythefoodscientist.com/wp-content/uploads/2021/03/spaghetti-2572100_1920.jpg",
+                            "og:type": "article",
+                            "article:published_time": "2021-03-05T13:38:16+00:00",
+                            "og:image:width": "1920",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Abbey The Food Scientist",
+                            "author": "aethiel",
+                            "og:title": "Is there really wood pulp and sawdust in your Parmesan cheese? | Abbey The Food Scientist",
+                            "og:image:height": "1280",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://abbeythefoodscientist.com/wp-content/uploads/2021/11/Group-587-1.png",
+                            "og:description": "Cellulose is the primary component of a plant's cell wall, and we consume it when we eat fresh fruits and vegetables ranging from apples to broccoli.",
+                            "twitter:data1": "aethiel",
+                            "twitter:data2": "6 minutes",
+                            "article:modified_time": "2024-07-29T21:45:18+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://abbeythefoodscientist.com/is-there-really-wood-pulp-and-sawdust-in-your-parmesan-cheese/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://abbeythefoodscientist.com/wp-content/uploads/2021/03/spaghetti-2572100_1920.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...ings, and deceptive tactics that I always feel inclined to investigate.\nAnd I found it hard to believe that chunks of wood were being tossed into cheese all willy nilly. There’s too many laws and regulations for that to fly.\nBut there is some truth behind these reports and several cheese companies including Kraft Heinz, Walmart, Jewel-Osco owner Albertsons, SuperValu and the manufacturer Icco Cheese have been involved in a lawsuit over their 100% grated Parmesan cheese.\nBecause guess what — it’s not 100% Parmesan cheese.\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n    *   \n    *   \n### So, is there wood pulp in my cheese?\n!\nThe short answer is — no. This is one of those exaggerations.\nBut, there is a reason for the lawsuits. The fight is over a food-safe additive called cellulose.\nNow, you might be thinking there’s no cellulose in my Parmesan cheese, but if you flip over the container you’ll see cellulose on nearly every ingredient list for grated or shredded Parmesan cheese.\nIt doesn’t matter if the container says ‘100% grated Parmesan cheese’ it still contains cellulose. It’s not 100% cheese.\nNow, you’re probably thinking this is incredibly deceptive or possibly a straight up lie.\nBut with food law, the difference of one word, in this case ‘grated,’ can have huge implications.\nAnother example is the difference between a label stating ‘chocolate’ versus ‘chocolatey.’ The former is real chocolate while the later is a mimic of chocolate called compound coating.\n### Then, what does ‘100% grated Parmesan cheese’ mean?\nThe key word in this claim is ‘grated.’ If a product says ‘100% cheese’ it contains only cheese, but if you throw in the word ‘grated’ it has a whole new definition according to the Code of Federal Regulations (CFR).\nIn the food industry, the CFR is essentially the bible. It’s the book that defines what certain foods are and what ingredients can be included. And according to the CFR a  can include the following _optional_ ingredients:\n*   Antimycotics\n*   Anticaking agents\n*   Spices\n*   Flavorings\nSo, legally the claim of ‘100% grated cheese’ is correct, even if an anti-caking agent like cellulose is used. However, to most people this would be seen as pretty misleading...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "The Real Problem With Wood Pulp in Cheese - Eater",
+                "htmlTitle": "The Real Problem With <b>Wood Pulp</b> in <b>Cheese</b> - Eater",
+                "link": "https://www.eater.com/2016/3/3/11153876/cheese-wood-pulp-cellulose-lawsuits",
+                "displayLink": "www.eater.com",
+                "snippet": "Jan 23, 2017 ... An FDA investigation found that a Pennsylvania company, Castle Cheese Inc., had doctored its so-called \"Parmesan\" with a mix of cheap cheddar ...",
+                "htmlSnippet": "Jan 23, 2017 <b>...</b> An FDA investigation found that a Pennsylvania company, Castle <b>Cheese</b> Inc., had doctored its so-called &quot;<b>Parmesan</b>&quot; with a mix of cheap cheddar&nbsp;...",
+                "formattedUrl": "https://www.eater.com/2016/3/3/.../cheese-wood-pulp-cellulose-lawsuits",
+                "htmlFormattedUrl": "https://www.eater.com/2016/3/3/.../<b>cheese</b>-<b>wood</b>-<b>pulp</b>-cellulose-lawsuits",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThZ58DFhGRSJX0Fyq0bBBHJdPBu2sZVAPXpffT5pPH2F7FS5iXSXXWA8tE&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cdn.vox-cdn.com/thumbor/N-m1EvhBBYWz06haluElA7moBf4=/0x76:1024x652/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/48990631/4333573403_2fd304cdea_b.0.0.jpg",
+                            "article:published_time": "2016-03-03T16:00:02-05:00",
+                            "og:image:width": "1600",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Eater",
+                            "sailthru.tags": "general,eater,front-page,hot-topics",
+                            "twitter:url": "https://www.eater.com/2016/3/3/11153876/cheese-wood-pulp-cellulose-lawsuits",
+                            "apple-mobile-web-app-title": "Eater",
+                            "parsely-author": "Virginia Chamlee",
+                            "msapplication-tileimage": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/6253179/apple-touch-icon-144x144.0.png",
+                            "og:description": "Separating the curds from the wood",
+                            "article:publisher": "https://www.facebook.com/eater",
+                            "twitter:image": "https://cdn.vox-cdn.com/thumbor/N-m1EvhBBYWz06haluElA7moBf4=/0x76:1024x652/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/48990631/4333573403_2fd304cdea_b.0.0.jpg",
+                            "ahrefs-site-verification": "1e57a609922037a3fbdc1c22efd7334113f174f15608f37e1b8538a7b4ce64c3",
+                            "parsely-type": "post",
+                            "twitter:site": "Eater",
+                            "article:modified_time": "2017-01-23T16:19:00-05:00",
+                            "parsely-link": "https://www.eater.com/2016/3/3/11153876/cheese-wood-pulp-cellulose-lawsuits",
+                            "sailthru.title": "The Real Problem With Wood Pulp in Cheese",
+                            "parsely-image-url": "https://cdn.vox-cdn.com/thumbor/N-m1EvhBBYWz06haluElA7moBf4=/0x76:1024x652/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/48990631/4333573403_2fd304cdea_b.0.0.jpg",
+                            "parsely-section": "front-page",
+                            "msapplication-tilecolor": "#e60000",
+                            "sailthru.date": "2016-03-03T16:00:02-05:00",
+                            "og:type": "article",
+                            "twitter:title": "The Real Problem With Wood Pulp in Cheese",
+                            "msvalidate.01": "D385D0326A3AE144205C298DB34B4E94",
+                            "author": "Virginia Chamlee",
+                            "og:title": "The Real Problem With Wood Pulp in Cheese",
+                            "og:image:height": "900",
+                            "fb:pages": "6029273333,242726355745404,115169205199800,139755792796580,131547960225574,213601342019363,301223156562915,309491225851948,243335249017579,348494641841991,109814609047278,442143005803582,110073695686645,385346484849141,451388614896528,240433149442075,670887879603309,150611155024023,176453365796072,110358775652218,465169560201718,105842919452319,213198508690703,192135047484517,243781239374345,111376838888644",
+                            "sailthru.image.thumb": "https://cdn.vox-cdn.com/thumbor/6WctmTRd3RZwcGxFFOk3Zv4Kf3Q=/169x0:854x685/200x200/cdn.vox-cdn.com/uploads/chorus_image/image/48990631/4333573403_2fd304cdea_b.0.0.jpg",
+                            "parsely-title": "The Real Problem With Wood Pulp in Cheese",
+                            "style-tools": "https://www.eater.com/style/community/450/4e250329f5a12b62bd613056746d7783/tools.css",
+                            "parsely-pub-date": "2016-03-03T16:00:02-05:00",
+                            "fb:app_id": "549923288395304",
+                            "sailthru.description": "Separating the curds from the wood",
+                            "parsely-tags": "eater,front-page,hot-topics",
+                            "outbrainsection": "hot-topics",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "twitter:description": "Separating the curds from the wood",
+                            "og:url": "https://www.eater.com/2016/3/3/11153876/cheese-wood-pulp-cellulose-lawsuits",
+                            "sailthru.image.full": "https://cdn.vox-cdn.com/thumbor/N-m1EvhBBYWz06haluElA7moBf4=/0x76:1024x652/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/48990631/4333573403_2fd304cdea_b.0.0.jpg"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.vox-cdn.com/thumbor/N-m1EvhBBYWz06haluElA7moBf4=/0x76:1024x652/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/48990631/4333573403_2fd304cdea_b.0.0.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... With Wood Pulp in Cheese\n=========================================\nSeparating the curds from the wood\nby  Updated Jan 23, 2017, 4:19pm EST\nShare this story\n----------------\n*   \n*   \n*   \n### **Share** All sharing options for: The Real Problem With Wood Pulp in Cheese\n*   \n*   \n*   \n  !/cdn.vox-cdn.com/uploads/chorus_image/image/48990631/4333573403_2fd304cdea_b.0.0.jpg)\n> **UPDATE, January 23:** Last week,  Universal Cheese & Drying and International Packing, the company behind the Castle Cheese brand, with a $500,000 fine for their roles in the mislabeling. , former Cheese Castle executive Michelle Myrter received a sentence of three years probation and a $5,000 fine after pleading guilty to food adulteration. She was facing a  of as much as three years in prison.\nWhen it comes to the food industry, it's not always easy being cheesy. That's the takeaway from  detailing the use of cellulose (aka wood pulp) in shredded cheese products in the U.S. The use of fillers like cellulose is hotly contested, but perhaps not for the reason you might think.\nAn FDA investigation found that a Pennsylvania company, Castle Cheese Inc., had doctored its so-called \"Parmesan\" with a mix of cheap cheddar cheese and cellulose (also known as wood pulp). The President of the company is currently facing a hefty fine and prison time for  the Federal Food, Drug and Cosmetic Act.\nIt's really a kind of consumer fraud.\nWhile much of the media's focus has been on the wood pulp, cellulose is in fact a very common food additive. The legality has more to do with the fact that the cheese is improperly labeled: The FDA's  regarding Parmesan requires that each ingredient be listed on the label (with the exception of animal, plant or microbial enzymes, which can simply be declared \"enzymes\").\nNora Weiser, executive director of the American Cheese Society, says cellulose isn't found in wheels of cheese, but in shredded varieties, where it's used as an anti-caking agent. \"It is a legal, food-grade additive,\" she says. \"It keeps the grated cheese products from clumping.\"\nAccording to Jaydee Hanson, Policy Director at the Center for Food Safety, the FDA allows cheese products to contain up to four percent cellulose. Any more than that might skirt the law, but Hanson says it's likely not all that harmful. \"You...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "A Brief History of Wood Pulp in Food - Cornucopia Institute",
+                "htmlTitle": "A Brief History of <b>Wood Pulp</b> in Food - Cornucopia Institute",
+                "link": "https://www.cornucopia.org/2017/11/brief-history-wood-pulp-food/",
+                "displayLink": "www.cornucopia.org",
+                "snippet": "Nov 8, 2017 ... Cornucopia's Take: Cellulose from wood pulp has no nutritional benefit, but it is used in many foods as a filler or to keep cheese shreds, ...",
+                "htmlSnippet": "Nov 8, 2017 <b>...</b> Cornucopia&#39;s Take: Cellulose from <b>wood pulp</b> has no nutritional benefit, but it is used in many foods as a filler or to keep <b>cheese</b> shreds,&nbsp;...",
+                "formattedUrl": "https://www.cornucopia.org/2017/11/brief-history-wood-pulp-food/",
+                "htmlFormattedUrl": "https://www.cornucopia.org/2017/11/brief-history-<b>wood</b>-<b>pulp</b>-food/",
+                "pagemap": {
+                    "wpfooter": [
+                        {
+                            "logo": "https://www.cornucopia.org/wp-content/themes/cornucopia-2019-plate/library/images/logo-tci-vert-white.png",
+                            "url": "https://www.cornucopia.org/"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWft6R3svwYFO2FLSFhAMqhvgXe-EWTd57x50TjL_q_7I-OjOtDqXDTIk&s",
+                            "width": "277",
+                            "height": "182"
+                        }
+                    ],
+                    "BreadcrumbList": [
+                        {}
+                    ],
+                    "organization": [
+                        {
+                            "logo": "https://www.cornucopia.org/wp-content/themes/cornucopia-2019-plate/library/images/logo-tci-horiz-white.png",
+                            "url": "https://www.cornucopia.org/"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.cornucopia.org/wp-content/uploads/2017/11/LogsCellulose-OregonStateUniversity-300x197.jpg",
+                            "og:type": "article",
+                            "article:published_time": "2017-11-08T17:49:52+00:00",
+                            "og:site_name": "Cornucopia Institute",
+                            "author": "The Cornucopia Institute",
+                            "og:title": "A Brief History of Wood Pulp in Food - Cornucopia Institute",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:description": "Cornucopia’s Take: Cellulose from wood pulp has no nutritional benefit, but it is used in many foods as a filler or to keep cheese shreds, for example,",
+                            "twitter:data1": "The Cornucopia Institute",
+                            "twitter:data2": "6 minutes",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                            "og:locale": "en_US",
+                            "position": "1",
+                            "og:url": "https://www.cornucopia.org/2017/11/brief-history-wood-pulp-food/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.cornucopia.org/wp-content/uploads/2017/11/LogsCellulose-OregonStateUniversity-300x197.jpg"
+                        }
+                    ],
+                    "blogposting": [
+                        {
+                            "articlebody": "Cornucopia’s Take: Cellulose from wood pulp has no nutritional benefit, but it is used in many foods as a filler or to keep cheese shreds, for example, from sticking together. And, because..."
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Donation Activity Popup\n===============",
+                    "content_tokens": 6
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Your Parmesan Cheese Is Actually Just Wood Pulp - Sokolove Law",
+                "htmlTitle": "Your <b>Parmesan Cheese</b> Is Actually Just <b>Wood Pulp</b> - Sokolove <b>Law</b>",
+                "link": "https://www.sokolovelaw.com/blog/parmesan-cheese-wood-pulp/",
+                "displayLink": "www.sokolovelaw.com",
+                "snippet": "Feb 18, 2016 ... was processing, labeling, and selling misbranded food. Worse, the FDA found that Castle had been, in effect, “cutting” their 100 Percent Real ...",
+                "htmlSnippet": "Feb 18, 2016 <b>...</b> was <b>processing</b>, labeling, and selling misbranded food. Worse, the FDA found that Castle had been, in effect, “cutting” their 100 Percent Real&nbsp;...",
+                "formattedUrl": "https://www.sokolovelaw.com/blog/parmesan-cheese-wood-pulp/",
+                "htmlFormattedUrl": "https://www.sokolovelaw.com/blog/<b>parmesan</b>-<b>cheese</b>-<b>wood</b>-<b>pulp</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStE_aTMfLQOYQT5kBLbiuN0Wp9taX6olna3AmeoSv7iFcSfI_k7J2fNmtX&s",
+                            "width": "297",
+                            "height": "170"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "p:domain_verify": "61532efe80ec49c5f9c28a6c6a75923a",
+                            "og:image": "https://www.sokolovelaw.com/wp-content/uploads/SS_GENERAL2016_007.jpg",
+                            "og:type": "article",
+                            "article:published_time": "2016-02-18T16:44:14+00:00",
+                            "og:image:width": "700",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Sokolove Law",
+                            "author": "Sokolove Law Team",
+                            "og:title": "Your Parmesan Cheese Is Actually Just Wood Pulp | Mesothelioma Law Firm",
+                            "og:image:height": "400",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "Wait, hang on a second. My Parmesan cheese is actually chock-full of… wood? That’s the question that many Americans are asking themselves after reports from…",
+                            "twitter:creator": "@SokoloveLaw",
+                            "article:publisher": "https://www.facebook.com/SokoloveLaw",
+                            "twitter:data1": "Sokolove Law Team",
+                            "twitter:data2": "6 minutes",
+                            "twitter:site": "@SokoloveLaw",
+                            "article:modified_time": "2020-09-28T16:41:16+00:00",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.sokolovelaw.com/blog/parmesan-cheese-wood-pulp/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.sokolovelaw.com/wp-content/uploads/SS_GENERAL2016_007.jpg"
+                        }
+                    ],
+                    "hatomfeed": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... *   \n    *   \n    *   ****\n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n  /    /  \nYour Parmesan Cheese Is Actually Just Wood Pulp\n===============================================\nPosted on  by \n!\nWait, hang on a second. My Parmesan cheese is actually chock-full of… wood?\nThat’s the question that many Americans are asking themselves after  from the Food and Drug Administration (FDA) confirmed that Castle Cheese, Inc., a Pennsylvania-based company, had been adding wood pulp –  – to their 100 percent real Parmesan cheese products for years. And not just a tiny bit of wood pulp either; in , a whole lot of wood pulp.\nAmericans everywhere – to put it one way – are stumped. But don’t throw out that cylindrical jar of grated cheese that’s been lurking in the back of your refrigerator just yet – the findings so far may only pertain to a few select grated cheeses on American store shelves. Still, Americans should heed caution.\nWhat Did the FDA’s Investigative Report Turn up?\n------------------------------------------------\nBack in winter of 2012, the FDA, tipped off by an anonymous source, paid a surprise visit to an unsuspecting cheese factory in rural Slippery Rock, Pennsylvania. : That Castle Cheese, Inc. was processing, labeling, and selling misbranded food. Worse, the FDA found that Castle had been, in effect, “cutting” their 100 Percent Real Parmesan Cheese product with cut-rate cheese substitutes and fillers such as wood pulp. When their cheese-making process was complete, Castle then shipped their cheeses across the U.S. to some of the largest grocery retailers in the country.\nIt all may sound like a joke at first, but such findings are not just baffling or puzzling – they are outright despicable – and they speak to a much larger issue in the American food industry. To dupe the public into purchasing a product that they’re led to believe is 100 percent of anything – when it’s not – is not only inaccurate or misleading, it’s a crime. Perhaps the worst crime of all: dishonesty.\nThe substitute that grated Parmesan suppliers have been using in their grated cheese products is called “,” which is an anti-clumping agent derived from wood pulp.\nThe FDA’s investigation into cellulose usage in the cheese industry has struck a nerve and sparked more widespread skepticism across this particular market...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Kraft Heinz in Lawsuit Over Parmesan Cheese Containing Wood Pulp",
+                "htmlTitle": "Kraft Heinz in Lawsuit Over <b>Parmesan Cheese</b> Containing <b>Wood Pulp</b>",
+                "link": "https://www.foodprocessing.com/home/news/11322101/kraft-heinz-in-lawsuit-over-parmesan-cheese-containing-wood-pulp",
+                "displayLink": "www.foodprocessing.com",
+                "snippet": "Mar 2, 2016 ... However, the plant fiber is legal in the U.S. and is an FDA approved anti-clumping ingredient for pre-grated cheese. FDA recognizes cellulose ...",
+                "htmlSnippet": "Mar 2, 2016 <b>...</b> However, the plant <b>fiber</b> is <b>legal</b> in the U.S. and is an FDA approved anti-clumping ingredient for pre-grated <b>cheese</b>. FDA recognizes <b>cellulose</b>&nbsp;...",
+                "formattedUrl": "https://www.foodprocessing.com/.../kraft-heinz-in-lawsuit-over-parmesan-c...",
+                "htmlFormattedUrl": "https://www.foodprocessing.com/.../kraft-heinz-in-lawsuit-over-<b>parmesan</b>-<b>c</b>...",
+                "pagemap": {
+                    "BreadcrumbList": [
+                        {}
+                    ],
+                    "metatags": [
+                        {
+                            "image": "https://img.foodprocessing.com/files/base/ebm/foodprocessing/image/website/logos/1659548119702-logo_3.png?auto=format,compress&fit=fill&fill=solid&fill-color=2c5f00&w=1200&h=627",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Kraft Heinz in Lawsuit Over Parmesan Cheese Containing Wood Pulp",
+                            "og:type": "article",
+                            "theme-color": "#2c5f00",
+                            "article:published_time": "Mar 2nd 2016",
+                            "og:site_name": "Food Processing",
+                            "author": "Lauren R.",
+                            "og:title": "Kraft Heinz in Lawsuit Over Parmesan Cheese Containing Wood Pulp",
+                            "autotags": "[\"Kraft Heinz\",\"lawsuit\",\"Parmesan cheese\",\"wood pulp\",\"cellulose filler\",\"FDA\",\"Bloomberg News\",\"grated cheese\",\"class action\",\"Illinois\",\"consumer fraud\",\"anti-clumping\",\"Walmart\",\"Michael Mullen\",\"quality\",\"Parmigiano-Reggiano\",\"Sartori\",\"BelGioioso\",\"Arthur Schuman\",\"Liz Thorpe\",\"nbcnews.com\",\"cheese quality\",\"USDA\",\"hard Italian cheeses\",\"fillers\",\"manufacturers\"]",
+                            "blueconic": "{\"page_type\":\"content\",\"canonical_path\":\"/home/news/11322101/kraft-heinz-in-lawsuit-over-parmesan-cheese-containing-wood-pulp\",\"content\":{\"id\":11322101,\"type\":\"news\",\"name\":\"Kraft Heinz in Lawsuit Over Parmesan Cheese Containing Wood Pulp\",\"published\":\"2016-03-02T12:38:00.000Z\"},\"company\":{\"id\":\"\",\"name\":\"\"},\"section\":{\"id\":57661,\"name\":\"Home\",\"alias\":\"home\",\"fullName\":\"Home\"},\"section_hierarchy\":[{\"id\":57661,\"name\":\"Home\",\"alias\":\"home\"}],\"taxonomy\":[{\"id\":2012696,\"type\":\"Bin\",\"name\":\"legacyType: NewsPage\",\"fullName\":\"Bin: legacyType: NewsPage (2012696)\"}],\"authors\":[{\"id\":11412091,\"name\":\"Lauren R.\"}]}",
+                            "type": "article",
+                            "twitter:image:src": "https://img.foodprocessing.com/files/base/ebm/foodprocessing/image/website/logos/1659548119702-logo_3.png?auto=format,compress&fit=fill&fill=solid&fill-color=2c5f00&w=1200&h=627",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "autoindustries": "[\"Food and Beverage\",\"Dairy\",\"Cheese\",\"Lawsuit\",\"Legal\",\"Consumer Goods\",\"Retail\",\"Manufacturing\",\"Quality Control\",\"FDA Compliance\",\"Food Safety\",\"Anti-Clumping Agents\",\"Packaging\",\"Class Action\",\"Illinois Consumer Fraud and Deceptive Business Practices Act\",\"Federal District Court\",\"Food Testing\",\"Food Production\",\"Food Regulation\",\"Food Importing\",\"Cheese Production\",\"Cheese Grating\",\"Cheese Retailing\",\"Cheese Distribution\"]",
+                            "twitter:description": "Many Parmesan cheese brands might be using cellulose filler, which is okay in certain amounts. But now Kraft Heinz and others were named in a lawsuit for using the filler in its...",
+                            "date-pub": "2016-03-02",
+                            "og:locale": "en",
+                            "tag": "legacytype: newspage",
+                            "sterms": "r&d,legal issues,bulk and powder handling,ingredient products,manufacturing trends",
+                            "position": "1",
+                            "og:url": "https://www.foodprocessing.com/home/news/11322101/kraft-heinz-in-lawsuit-over-parmesan-cheese-containing-wood-pulp",
+                            "pterm": "home"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... as low-cost fillers, even when they are advertised as \"100% Parmesan Cheese.\" _Bloomberg_ earlier reported it had store-bought grated cheese tested for wood-pulp content by an independent laboratory. Some packaged grated Parmesan cheese products contain too little cheese and too much cellulose, according to independent laboratory tests noted in the report.\nKraft Heinz cheese, labeled \"100% Grated Parmesan Cheese,\" was found to have 3.8 percent cellulose. Between 2 and 4 percent is considered to be an \"acceptable level,\" according to the _Bloomberg_ story. Now, Kraft Heinz is among the companies named in a lawsuit for using cellulose filler in its \"100% Grated Parmesan Cheese\" product.\nOn February 27, an Illinois woman filed a class action lawsuit against Kraft Heinz in federal district court, claiming violations of the Illinois Consumer Fraud and Deceptive Business Practices Act. Similar lawsuits were filed last week against Kraft Heinz in federal courts in New York, Missouri and California.\nHowever, the plant fiber is legal in the U.S. and is an FDA approved anti-clumping ingredient for pre-grated cheese.\nFDA recognizes cellulose as \"safe additive,\" and it can be used at levels from 2 percent to 4 percent. Used throughout the food industry, cellulose gives foods like ice cream a creamier mouthfeel, and it's used in good quality grated cheeses, as well as not-so-great quality cheeses.\nWalmart was also sued last week over cellulose, an anti-clumping agent derived from wood chips, in its grated Parmesan cheese.\nKraft Heinz spokesman Michael Mullen recently stated that cellulose was FDA-approved, and that the Kraft Heinz cheese was still within the levels of cellulose considered acceptable. \"We are committed to the quality of our products, and we are also committed to listening to our consumers,\" Mullen said in an email to the _Chicago Tribune_ last week. \"We know the top complaint people have about grated Parmesan cheese is clumping of the cheese.\"\nTo be sure cheese is real Parmesan, the words \"Parmigiano-Reggiano\" should be printed on the rind. When shopping for pre-grated Parmesan, consumers are advised to look for American producers with good reputations. \"Learn the names of reputable brands that offer pre-grated Parmesan, like Sartori and BelGioioso, which are both from Wisconsin, and Arthur Schuman, Inc. from New Jersey, which is the largest importer of hard Italian cheeses,\" says cheese...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "There is wood pulp in your “100 percent grated cheese.” Is that a ...",
+                "htmlTitle": "There is <b>wood pulp</b> in your “100 percent grated <b>cheese</b>.” Is that a ...",
+                "link": "https://thecounter.org/100-percent-grated-cheese-contain-cellulose-false-advertising-kraft-heinz/",
+                "displayLink": "thecounter.org",
+                "snippet": "Jan 8, 2021 ... More than 50 class-action lawsuits have been filed against Parmesan producers over the years, alleging consumer deception.",
+                "htmlSnippet": "Jan 8, 2021 <b>...</b> More than 50 class-action lawsuits have been filed against <b>Parmesan producers</b> over the years, alleging consumer deception.",
+                "formattedUrl": "https://thecounter.org/100-percent-grated-cheese-contain-cellulose-false-ad...",
+                "htmlFormattedUrl": "https://thecounter.org/100-percent-grated-<b>cheese</b>-contain-cellulose-false-ad...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZfZXtX5LHD5LkIk3_cB81PgFgMQD62A0MRJAu5L451xAcH-hK0b87VBw&s",
+                            "width": "280",
+                            "height": "180"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://thecounter.org/wp-content/uploads/2021/01/kraft-grated-parmesan-jan-2021-1.jpg",
+                            "theme-color": "#ffffff",
+                            "og:type": "article",
+                            "article:published_time": "2021-01-08T18:29:16+00:00",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "The Counter",
+                            "og:title": "There is wood pulp in your “100 percent grated cheese.” Is that a problem?",
+                            "og:image:height": "773",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:description": "More than 50 class-action lawsuits have been filed against Parmesan producers over the years, alleging consumer deception. Yet the harms are unclear.",
+                            "twitter:creator": "@tal_moore",
+                            "article:publisher": "https://www.facebook.com/thecountermedia/",
+                            "twitter:image": "https://thecounter.org/wp-content/uploads/2021/01/kraft-grated-parmesan-jan-2021-1.jpg",
+                            "twitter:data1": "Talia Moore",
+                            "twitter:data2": "5 minutes",
+                            "twitter:site": "@thecounter",
+                            "article:modified_time": "2021-01-15T20:13:44+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://thecounter.org/100-percent-grated-cheese-contain-cellulose-false-advertising-kraft-heinz/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://thecounter.org/wp-content/uploads/2021/01/kraft-grated-parmesan-jan-2021-1.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "!\nMore than 50 class-action lawsuits have been filed against Parmesan producers over the years, alleging consumer deception. Yet the harms are unclear.\nThe grated Parmesan cheese in the green shaker tube, the kind next to dried pastas and canned tomato sauces on grocery shelves, may not be exactly what’s promised. And no one’s even claiming it comes from .\nMany of these cheese products, including those by  Kraft-Heinz or those sold as store brands in Walmart and Albertsons, contain up to . It’s a derivative of wood pulp or plant fibers used to stop clumping and help cheese fall freely through the lid’s holes. They also include , a preservative that stops mold and extends the shelf life of dried fruits, cakes, and wines.\nBoth are , and they’re safe to eat. Nevertheless, the two ingredients, and particularly wood pulp, are at the center of a continuing legal battle that will pick up later this month. It’s about product labeling and what constitutes “pure” Parmesan—the American version of the beloved Parmigiano-Reggiano hard cheese.\n> Cellulose is a fiber derived from plant walls, which means it can be taken from wood and apple pulp or corn cobs.\nOn December 7, the 7th U.S. Circuit Court of Appeals reopened class-action lawsuits that accuse the chees...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Is it true that in the US 'Parmesan Cheese' means nothing and the ...",
+                "htmlTitle": "Is it true that in the US &#39;<b>Parmesan Cheese</b>&#39; means nothing and the ...",
+                "link": "https://www.quora.com/Is-it-true-that-in-the-US-Parmesan-Cheese-means-nothing-and-the-jar-can-actually-have-as-much-as-40-wood-pulp-and-any-type-of-grated-cheese",
+                "displayLink": "www.quora.com",
+                "snippet": "May 14, 2024 ... Is the wood pulp/cellulose that's hidden in some processed Parmesan cheese going to kill me? Cellulose is just fiber. Its indigestable waste at ...",
+                "htmlSnippet": "May 14, 2024 <b>...</b> Is the <b>wood pulp</b>/cellulose that&#39;s hidden in some processed <b>Parmesan cheese</b> going to kill me? Cellulose is just fiber. Its indigestable waste at&nbsp;...",
+                "formattedUrl": "https://www.quora.com/Is-it-true-that-in-the-US-Parmesan-Cheese-means-n...",
+                "htmlFormattedUrl": "https://www.quora.com/Is-it-true-that-in-the-US-<b>Parmesan</b>-<b>Cheese</b>-means-n...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "al:android:url": "intent://www.quora.com/Is-it-true-that-in-the-US-Parmesan-Cheese-means-nothing-and-the-jar-can-actually-have-as-much-as-40-wood-pulp-and-any-type-of-grated-cheese#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FIs-it-true-that-in-the-US-Parmesan-Cheese-means-nothing-and-the-jar-can-actually-have-as-much-as-40-wood-pulp-and-any-type-of-grated-cheese&logging_data=uid%3DNone;end",
+                            "theme-color": "#b92b27",
+                            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+                            "al:android:package": "com.quora.android",
+                            "fb:pages": "255232486973",
+                            "twitter:widgets:theme": "light"
+                        }
+                    ],
+                    "QAPage": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "Contrary to the beliefs of many, especially European food snobs, the US does have food standards and definitions that must be met. There is a long list of definitions of a variety of different types of cheeses, describing what they must be made of, how they are made, what additives may be used and in what quantities, and so forth. If a product is marketed as “parmesan cheese” and doesn't meet the definition, the producer can be fined.\nYou can read the definition yourself at .\nParmesan cheese is pretty much milk, enzymes, and salt. The other things allowed are only allowed in fractions of a percent. Wood pulp is not on the list.\nThe grated parmesan cheese in the ubiquitous green cans is not just parmesan cheese according to the above definition. Kraft brand lists 3 ingredients: parmesan cheese, cellulose powder, and potassium sorbate. While the exact quantities aren't listed, other sources suggest that it is at least 95% parmesan cheese, with the other ingredients at most 3-5% overall.\nIt's the cellulose powder that people, especially people who want to criticize American food, are referring to when they claim it contains “wood pulp”. While wood pulp is mostly cellulose, that is true of most plants. Cellulose is a non-digestible form of carbohydrate that plants use to make their structure, their cell walls. It's everywhere, and usually shows up on nutritional labels as “dietary fiber”. It is not bad to eat. It is in the green cans to help keep the cheese from clumping up.\nI don't know where Kraft gets its cellulose powder from. It might get it from wood pulp, but if so, it is food-grade wood pulp. And it is nowhere near 40%.",
+                    "content_tokens": 368
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Parmesan cheese is not what it seems - The Washington Post",
+                "htmlTitle": "<b>Parmesan cheese</b> is not what it seems - The Washington Post",
+                "link": "https://www.washingtonpost.com/news/wonk/wp/2016/02/17/parmesan-cheese-is-not-what-it-seems/",
+                "displayLink": "www.washingtonpost.com",
+                "snippet": "Feb 17, 2016 ... Nowhere in the definition is there the suggestion that \"wood pulp\" would be an appropriate ingredient. Nor does it say it's acceptable to ...",
+                "htmlSnippet": "Feb 17, 2016 <b>...</b> Nowhere in the definition is there the suggestion that &quot;<b>wood pulp</b>&quot; would be an appropriate ingredient. Nor does it say it&#39;s acceptable to&nbsp;...",
+                "formattedUrl": "https://www.washingtonpost.com/.../parmesan-cheese-is-not-what-it-seems/",
+                "htmlFormattedUrl": "https://www.washingtonpost.com/.../<b>parmesan</b>-<b>cheese</b>-is-not-what-it-seems/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlgg03Qfg5lDafc24Oh6ZLHV5fAkLh6pDE-GTQY61YD7fRhafLFkCdLO2p&s",
+                            "width": "276",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter_description": "There's growing evidence that a lot of parmesan cheese isn't what it says it is.",
+                            "article_modified_time": "2021-11-24T23:58:05.505Z",
+                            "og:image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/blogs/wonkblog/files/2016/02/4340534267_58cb89930a_o.jpg&w=1440",
+                            "apple-itunes-app": "app-id=352509417, app-argument=https://www.washingtonpost.com/news/wonk/wp/2016/02/17/parmesan-cheese-is-not-what-it-seems/?sourceApp=apple-banner",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2016-02-17T16:19:18.000Z",
+                            "og:site_name": "Washington Post",
+                            "og_title": "Parmesan cheese is not what it seems",
+                            "og_type": "article",
+                            "og_url": "https://www.washingtonpost.com/news/wonk/wp/2016/02/17/parmesan-cheese-is-not-what-it-seems/",
+                            "og:description": "There's growing evidence that a lot of parmesan cheese isn't what it says it is.",
+                            "article_published_time": "2016-02-17T16:19:18.000Z",
+                            "next-head-count": "84",
+                            "article_section": "Economic Policy",
+                            "twitter:site": "@WashingtonPost",
+                            "article:modified_time": "2021-11-24T23:58:05.505Z",
+                            "twitter_site": "@WashingtonPost",
+                            "og_description": "There's growing evidence that a lot of parmesan cheese isn't what it says it is.",
+                            "article:content_tier": "metered",
+                            "twitter_title": "Parmesan cheese is not what it seems",
+                            "last_updated_date": "2021-11-24T23:58:05.505Z",
+                            "og:type": "article",
+                            "twitter:title": "Parmesan cheese is not what it seems",
+                            "article:section": "Economic Policy",
+                            "og_site_name": "Washington Post",
+                            "twitter_card": "summary_large_image",
+                            "og:title": "Parmesan cheese is not what it seems",
+                            "og_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/blogs/wonkblog/files/2016/02/4340534267_58cb89930a_o.jpg&w=1440",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "There's growing evidence that a lot of parmesan cheese isn't what it says it is.",
+                            "article_content_tier": "metered",
+                            "og:url": "https://www.washingtonpost.com/news/wonk/wp/2016/02/17/parmesan-cheese-is-not-what-it-seems/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/blogs/wonkblog/files/2016/02/4340534267_58cb89930a_o.jpg&w=1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "In the 1950s, the Food and Drug Administration established an official definition for parmesan cheese. , it cannot contain more than 32 precent moisture, while it must have a \"granular texture,\" come with a \"hard and brittle rind,\" grate \"readily,\" and be made from cow's milk, among others things.\nNowhere in the definition is there the suggestion that \"wood pulp\" would be an appropriate ingredient. Nor does it say it's acceptable to substitute in less expensive cheeses, such as cheddar, swiss, and mozzarella. That's not surprising: It should go without saying parmesan cheese should be parmesan cheese.\nAnd yet, somehow, parmesan cheese advertised as 100 percent parmesan appears to be including wood pulp and other cheese, unbeknownst to us.\nThe unusual tactic was first flagged by the FDA in 2012, when it found evidence that Castle Cheese Inc, which sold a variety of shaved parmesan and romano cheeses, was introducing unexpected substances into its parmesan cheese products. The government agency wrote the company , which was filled with unambiguous language like \"your product labels declare that the products are parmesan cheese or romano cheese, but they are in fact a mixture of trimmings of various cheeses and other ingredients\" and \"your parmesan cheese products do not contain any parmesan cheese.\"\nWhat distinguishes one cheese from another is a consequence of both its ingredients and the process in which its made. In the United States,...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Why Wood Pulp In Your Parmesan Won't Kill You | Bon Appétit",
+                "htmlTitle": "Why <b>Wood Pulp</b> In Your <b>Parmesan</b> Won&#39;t Kill You | Bon Appétit",
+                "link": "https://www.bonappetit.com/entertaining-style/trends-news/article/parmesan-wood-pulp-cellulose",
+                "displayLink": "www.bonappetit.com",
+                "snippet": "Feb 17, 2016 ... There are no known harmful side effects from adding it to food, and it's completely legal. \"Cellulose is a non-digestible plant fiber, and we ...",
+                "htmlSnippet": "Feb 17, 2016 <b>...</b> There are no known harmful side effects from adding it to food, and it&#39;s completely <b>legal</b>. &quot;<b>Cellulose</b> is a non-digestible plant <b>fiber</b>, and we&nbsp;...",
+                "formattedUrl": "https://www.bonappetit.com/entertaining.../parmesan-wood-pulp-cellulose",
+                "htmlFormattedUrl": "https://www.bonappetit.com/entertaining.../<b>parmesan</b>-<b>wood</b>-<b>pulp</b>-cellulose",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qiMdHFdYG9F1sCXFTskyWRsyvZ8yTQV5Am_SL9Zmwemmjs7WbEdoiHA&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://assets.bonappetit.com/photos/57d6cda0c204478524d8734f/16:9/w_1280,c_limit/parmesan-broth.jpg",
+                            "copyright": "Copyright (c) Condé Nast 2024",
+                            "article:published_time": "2016-02-17T18:24:13.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Bon Appétit",
+                            "parsely-metadata": "{\"description\":\"It's called cellulose, and you've eaten it before. A lot.\",\"image-16-9\":\"https://assets.bonappetit.com/photos/57d6cda0c204478524d8734f/16:9/w_1000,c_limit/parmesan-broth.jpg\",\"image-1-1\":\"https://assets.bonappetit.com/photos/57d6cda0c204478524d8734f/1:1/w_1000,c_limit/parmesan-broth.jpg\"}",
+                            "og:description": "It's called cellulose, and you've eaten it before. A lot.",
+                            "twitter:creator": "@bonappetit",
+                            "twitter:image": "https://assets.bonappetit.com/photos/57d6cda0c204478524d8734f/16:9/w_1280,c_limit/parmesan-broth.jpg?mbid=social_retweet",
+                            "msapplication-tap-highlight": "no",
+                            "twitter:site": "@bonappetit",
+                            "article:modified_time": "2016-02-17T18:24:13.000Z",
+                            "news_keywords": "cheese,parmesan,trends",
+                            "content-type": "article",
+                            "article:content_tier": "free",
+                            "id": "57f27a7653505e69719daec3",
+                            "og:type": "article",
+                            "article:section": "ingredient",
+                            "twitter:title": "Why Wood Pulp In Your Parmesan Won’t Kill You",
+                            "parsely-post-id": "57f27a7653505e69719daec3",
+                            "twitter:domain": "https://www.bonappetit.com",
+                            "pinterest:image": "https://assets.bonappetit.com/photos/57d6cda0c204478524d8734f/2:3/w_1000,h_1500,c_limit/parmesan-broth.jpg",
+                            "author": "Condé Nast",
+                            "og:title": "Why Wood Pulp In Your Parmesan Won’t Kill You",
+                            "fb:pages": "37940325366",
+                            "article:author": "Michael Y. Park",
+                            "fb:app_id": "2309869772",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "It's called cellulose, and you've eaten it before. A lot.",
+                            "og:url": "https://www.bonappetit.com/entertaining-style/trends-news/article/parmesan-wood-pulp-cellulose",
+                            "google-signin-client_id": "487753253869-45a2hlctt5rjl4i54eqdpih0s1353u4s.apps.googleusercontent.com",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://assets.bonappetit.com/photos/57d6cda0c204478524d8734f/16:9/w_1280,c_limit/parmesan-broth.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Why Wood Pulp In Your Parmesan Won’t Kill You | Bon Appétit\n===============\n]\n*   \n*   \n*   Ingredients\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   Ingredients\n*   \n*   \n*   \n*   More\nOpen Navigation Menu\nFind anything you save across the site in your account\nClose Alert\n]",
+                    "content_tokens": 83
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Wood Pulp in Parmesan Cheese - Pulp Fact and Fiction! - Dr. Taylor ...",
+                "htmlTitle": "<b>Wood Pulp</b> in <b>Parmesan Cheese</b> - Pulp Fact and Fiction! - Dr. Taylor ...",
+                "link": "https://drtaylorwallace.com/wood-pulp/",
+                "displayLink": "drtaylorwallace.com",
+                "snippet": "Jul 12, 2017 ... Cellulose is a structural component of all plant cell walls and it's naturally present in every produce product you consume. Cellulose is a ...",
+                "htmlSnippet": "Jul 12, 2017 <b>...</b> <b>Cellulose</b> is a structural component of all plant cell walls and it&#39;s naturally present in every <b>produce</b> product you consume. <b>Cellulose</b> is a&nbsp;...",
+                "formattedUrl": "https://drtaylorwallace.com/wood-pulp/",
+                "htmlFormattedUrl": "https://drtaylorwallace.com/<b>wood</b>-<b>pulp</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaUWOIFDaHKfjoNqaUi61KfG2YZQ1WKiTeqUBpMcHEoCYLdYK9G8kFt1oj&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "website": [
+                        {
+                            "logo": "https://drtaylorwallace.com/wp-content/uploads/2020/04/logo.png",
+                            "url": "https://drtaylorwallace.com/"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://drtaylorwallace.com/wp-content/uploads/2017/07/image-1.jpg",
+                            "article:published_time": "2017-07-12T13:30:22+00:00",
+                            "og:image:width": "2400",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Dr. Taylor Wallace",
+                            "apple-mobile-web-app-title": "Dr. Taylor Wallace - Food Scientist and TV Personality",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://drtaylorwallace.com/wp-content/uploads/2020/04/cropped-TL_Favicon1_color_300-270x270.png",
+                            "og:description": "Cellulose is often considered “wood pulp” because many manufacturers grind up wood to extract the cellulose. Wood is from trees, trees are plants, and all..",
+                            "twitter:creator": "@DrTaylorWallace",
+                            "article:publisher": "https://www.facebook.com/drtaylorwallace/",
+                            "twitter:data1": "Dr. Taylor Wallace",
+                            "twitter:data2": "2 minutes",
+                            "article:modified_time": "2020-03-14T04:44:44+00:00",
+                            "google-adsense-platform-account": "ca-host-pub-2644536267352236",
+                            "og:type": "article",
+                            "author": "Dr. Taylor Wallace",
+                            "og:title": "Wood Pulp in Parmesan Cheese - Pulp Fact and Fiction!",
+                            "og:image:height": "1600",
+                            "article:author": "https://www.facebook.com/drtaylorwallace",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:locale": "en_US",
+                            "mobile-web-app-capable": "yes",
+                            "google-adsense-platform-domain": "sitekit.withgoogle.com",
+                            "og:url": "https://drtaylorwallace.com/wood-pulp/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://drtaylorwallace.com/wp-content/uploads/2017/07/image-1.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "!\n*   July 12, 2017\nWell not really… The actual offender here is cellulose and not actual pieces of wood.  Cellulose is a structural component of all plant cell walls and it’s naturally present in every produce product you consume.  Cellulose is a dietary fiber and has been shown to help decrease your bad cholesterol (i.e., LDL-cholesterol) and help improve bowel function.  It also helps control blood sugar levels when consumed as part of a meal.  This is because cellulose can bind/attach itself to a portion of the carbohydrates co-consumed (e.g., sugar), carrying them straight through your GI tract without being absorbed.\nCellulose is often considered “wood pulp” because many manufacturers grind up wood to extract the cellulose.  Wood is from trees, trees are plants, and all plants have cellulose.  It is completely safe… but do you ever wonder why it’s added to Parmesan cheese?  The U.S. Food and Drug Administration allows companies to add cellulose to foods like shredded cheese at levels up to 2-4% because it prevents the product from clumping.  Still weirded out?  You can purchase 100% pure Parmesan that’s imported from Italy, thanks to strict regulations in the country… just know you’re spending a significant amount of money for a product that will likely clump or become hard quickly.  Otherwise feel free to cut the cheese – it won’t cause you any harm, you won’t choke on splinters, and it may even contribute to a healthier diet since many individuals don’t get enough fiber.\n**Side note:** If you have ever wondered why Parmesan is capitalized, it’s because the cheese is named after the area in Italy that produces it.  Only cheese produced in certain Italian provinces may be labelled “Parmigiano-Reggiano” by international regulations.  The U.S. uses “Parmesan” because the term can legally be used for cheeses similar to Parmigiano-Reggiano, without actually being made Italy.\n**Categories:** ,   \n**Tags:** , , , , , , , , , , , , ",
+                    "content_tokens": 448
+                }
+            }
+        }
+    ]
+}
